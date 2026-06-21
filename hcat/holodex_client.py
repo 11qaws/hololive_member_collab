@@ -8,7 +8,7 @@ from .config import load_config
 
 HOLODEX_BASE = "https://holodex.net/api/v2"
 MAX_LIMIT = 50
-MAX_CONCURRENT = 2
+MAX_CONCURRENT = 1
 MAX_RETRIES = 5
 
 
@@ -45,7 +45,7 @@ class HolodexClient:
             headers={"X-APIKEY": api_key},
             timeout=30,
         )
-        self._bucket = _TokenBucket(rate=1.0, burst=2)
+        self._bucket = _TokenBucket(rate=1/3, burst=1)
         self._sem = asyncio.Semaphore(MAX_CONCURRENT)
 
     async def close(self):
@@ -57,7 +57,7 @@ class HolodexClient:
             for attempt in range(MAX_RETRIES):
                 resp = await self._client.get(path, params=params)
                 if resp.status_code == 429:
-                    wait = min(2 ** attempt * 5, 60)
+                    wait = min(2 ** attempt * 10, 120)
                     print(f"    429 rate limited, retrying in {wait}s...")
                     await asyncio.sleep(wait)
                     continue
@@ -97,12 +97,7 @@ class HolodexClient:
     async def batch_get_all_collabs(
         self, channel_ids: list[str]
     ) -> dict[str, list[dict]]:
-        async def _fetch(cid: str) -> tuple[str, list[dict]]:
-            return cid, await self.get_all_collabs(cid)
-
-        tasks = [_fetch(cid) for cid in channel_ids]
         results = {}
-        for coro in asyncio.as_completed(tasks):
-            cid, videos = await coro
-            results[cid] = videos
+        for cid in channel_ids:
+            results[cid] = await self.get_all_collabs(cid)
         return results
