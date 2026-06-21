@@ -8,9 +8,8 @@ from .config import load_config
 
 HOLODEX_BASE = "https://holodex.net/api/v2"
 MAX_LIMIT = 50
-RATE_LIMIT = 1.0
-MAX_CONCURRENT = 3
-MAX_RETRIES = 3
+RATE_LIMIT = 1.5
+MAX_RETRIES = 5
 
 
 class HolodexClient:
@@ -26,7 +25,6 @@ class HolodexClient:
         )
         self._rate_lock = asyncio.Lock()
         self._last_req = 0.0
-        self._sem = asyncio.Semaphore(MAX_CONCURRENT)
 
     async def close(self):
         await self._client.aclose()
@@ -40,26 +38,25 @@ class HolodexClient:
             self._last_req = time.time()
 
     async def _get(self, path: str, params: dict | None = None) -> list:
-        async with self._sem:
-            await self._rate_limit()
-            for attempt in range(MAX_RETRIES):
-                resp = await self._client.get(path, params=params)
-                if resp.status_code == 429:
-                    wait = min(2 ** attempt * 5, 60)
-                    print(f"    429 rate limited, retrying in {wait}s...")
-                    await asyncio.sleep(wait)
-                    continue
-                if resp.status_code == 200:
-                    return resp.json()
-                body = resp.text[:200]
-                if resp.status_code == 403 or "Illegal Access" in body:
-                    raise Exception(
-                        "Holodex API rejected the request (Illegal Access). "
-                        "Your API key may be missing, invalid, or revoked. "
-                        "Run: python cli.py config --get | grep holodex_api_key"
-                    )
-                resp.raise_for_status()
-            raise Exception("Holodex API max retries exceeded")
+        await self._rate_limit()
+        for attempt in range(MAX_RETRIES):
+            resp = await self._client.get(path, params=params)
+            if resp.status_code == 429:
+                wait = min(2 ** attempt * 5, 60)
+                print(f"    429 rate limited, retrying in {wait}s...")
+                await asyncio.sleep(wait)
+                continue
+            if resp.status_code == 200:
+                return resp.json()
+            body = resp.text[:200]
+            if resp.status_code == 403 or "Illegal Access" in body:
+                raise Exception(
+                    "Holodex API rejected the request (Illegal Access). "
+                    "Your API key may be missing, invalid, or revoked. "
+                    "Run: python cli.py config --get | grep holodex_api_key"
+                )
+            resp.raise_for_status()
+        raise Exception("Holodex API max retries exceeded")
 
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
@@ -85,12 +82,7 @@ class HolodexClient:
     async def batch_get_all_collabs(
         self, channel_ids: list[str]
     ) -> dict[str, list[dict]]:
-        async def _fetch(cid: str) -> tuple[str, list[dict]]:
-            return cid, await self.get_all_collabs(cid)
-
-        tasks = [_fetch(cid) for cid in channel_ids]
         results = {}
-        for coro in asyncio.as_completed(tasks):
-            cid, videos = await coro
-            results[cid] = videos
+        for cid in channel_ids:
+            results[cid] = await self.get_all_collabs(cid)
         return results
