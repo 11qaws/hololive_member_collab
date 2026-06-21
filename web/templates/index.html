@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HCAT — Hololive Collab Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f8f9fc;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --text: #1a1d23;
+  --text-2: #6b7280;
+  --border: #e5e7eb;
+  --accent: #8b5cf6;
+  --accent-2: #ec4899;
+  --accent-3: #06b6d4;
+  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+  --gradient-2: linear-gradient(135deg, var(--accent-3), var(--accent));
+  --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.06);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+.dark {
+  --bg: #0f1117;
+  --surface: #1a1d26;
+  --surface-2: #252833;
+  --text: #e8eaed;
+  --text-2: #9ca3af;
+  --border: #2d3140;
+  --shadow: 0 1px 3px rgba(0,0,0,.3);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,.5);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  transition: background .3s, color .3s;
+}
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,.85);
+}
+.dark header { background: rgba(15,17,23,.85); }
+header .inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+header h1 { font-size: 1.25rem; font-weight: 600; }
+header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+header nav { display: flex; gap: .5rem; align-items: center; }
+header nav a {
+  text-decoration: none;
+  color: var(--text-2);
+  font-size: .875rem;
+  padding: .4rem .8rem;
+  border-radius: var(--radius-sm);
+  transition: all .2s;
+}
+header nav a:hover { color: var(--text); background: var(--surface-2); }
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  cursor: pointer;
+  padding: .4rem .6rem;
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  transition: all .2s;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+main {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 2rem;
+}
+.filter-bar {
+  position: relative;
+  margin-bottom: 2rem;
+}
+.filter-bar input {
+  width: 100%;
+  padding: .75rem 1rem .75rem 2.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  font-size: .9rem;
+  font-family: inherit;
+  transition: all .2s;
+  outline: none;
+}
+.filter-bar input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(139,92,246,.15); }
+.filter-bar .icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-2);
+  font-size: 1rem;
+}
+.branch-section { margin-bottom: 2.5rem; }
+.branch-header {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid var(--border);
+}
+.branch-header h2 { font-size: 1.1rem; font-weight: 600; }
+.branch-header .count {
+  background: var(--surface-2);
+  color: var(--text-2);
+  font-size: .75rem;
+  padding: .15rem .6rem;
+  border-radius: 999px;
+  font-weight: 500;
+}
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: .75rem;
+}
+.member-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .35rem;
+  padding: 1.25rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text);
+  transition: all .25s;
+  cursor: pointer;
+}
+.member-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--accent);
+}
+.member-card .avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: .25rem;
+}
+.member-card .name { font-size: .875rem; font-weight: 600; text-align: center; }
+.member-card .handle { font-size: .75rem; color: var(--text-2); }
+.badge {
+  font-size: .65rem;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+}
+.badge-active { background: rgba(52,211,153,.15); color: #34d399; }
+.badge-graduated { background: rgba(251,146,60,.15); color: #fb923c; }
+.badge-terminated { background: rgba(248,113,113,.15); color: #f87171; }
+@media (max-width: 640px) {
+  header .inner { flex-wrap: wrap; }
+  main { padding: 0 1rem; }
+  .member-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+<header>
+<div class="inner">
+<h1><span>HCAT</span> · Hololive Collab Tracker</h1>
+<nav>
+<a href="/">Members</a>
+<a href="/stats">Stats</a>
+<a href="/unknowns">Unknowns</a>
+<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
+</nav>
+</div>
+</header>
+<main>
+<div class="filter-bar">
+<span class="icon">🔍</span>
+<input type="text" id="filter" placeholder="Search member by name or handle..." oninput="filterMembers()" autofocus>
+</div>
+{% for branch, members in branches %}
+<section class="branch-section">
+<div class="branch-header">
+<h2>{{ branch }}</h2>
+<span class="count">{{ members|length }}</span>
+</div>
+<div class="member-grid">
+{% for m in members %}
+<a href="/member/{{ m.handle }}" class="member-card" data-name="{{ m.name.lower() }} {{ m.handle.lower() }}">
+<div class="avatar">{{ m.name[:1] }}</div>
+<div class="name">{{ m.name[:20] }}</div>
+<div class="handle">@{{ m.handle }}</div>
+{% if m.status.value != "active" %}
+<span class="badge badge-graduated">{{ m.status.value }}</span>
+{% endif %}
+</a>
+{% endfor %}
+</div>
+</section>
+{% endfor %}
+</main>
+<script>
+function filterMembers() {
+  const f = document.getElementById('filter').value.toLowerCase().trim();
+  document.querySelectorAll('.member-card').forEach(c => {
+    const search = c.dataset.name;
+    const match = !f || f.split(/\s+/).every(w => search.includes(w));
+    c.style.display = match ? '' : 'none';
+  });
+}
+const saved = localStorage.getItem('hcat-theme');
+if (saved === 'dark') document.body.classList.add('dark');
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+</script>
+</body>
+</html>

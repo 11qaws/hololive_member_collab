@@ -1,0 +1,744 @@
+{
+  "version": 2,
+  "members": [
+    {
+      "handle": "tokinosora",
+      "name": "Tokino Sora ときのそら",
+      "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "robocosan",
+      "name": "Robocosan ロボ子さん",
+      "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "akirose",
+      "name": "Aki Rosenthal アキ・ローゼンタール",
+      "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "akaihaato",
+      "name": "Akai Haato 赤井はあと",
+      "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "shirakamifubuki",
+      "name": "Shirakami Fubuki 白上フブキ",
+      "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "natsuiromatsuri",
+      "name": "Natsuiro Matsuri 夏色まつり",
+      "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "nakiri_ayame",
+      "name": "Nakiri Ayame 百鬼あやめ",
+      "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "yuzuki_choco",
+      "name": "Yuzuki Choco 癒月ちょこ",
+      "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "oozora_subaru",
+      "name": "Oozora Subaru 大空スバル",
+      "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "azki",
+      "name": "AZKi AZKi",
+      "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ookamimio",
+      "name": "Ookami Mio 大神ミオ",
+      "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "sakuramiko",
+      "name": "Sakura Miko さくらみこ",
+      "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "nekomataokayu",
+      "name": "Nekomata Okayu 猫又おかゆ",
+      "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "inugamikorone",
+      "name": "Inugami Korone 戌神ころね",
+      "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hoshimachisuisei",
+      "name": "Hoshimachi Suisei 星街すいせい",
+      "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "usadapekora",
+      "name": "Usada Pekora 兎田ぺこら",
+      "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "shiranuiflare",
+      "name": "Shiranui Flare 不知火フレア",
+      "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "shiroganenoel",
+      "name": "Shirogane Noel 白銀ノエル",
+      "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "houshoumarine",
+      "name": "Houshou Marine 宝鐘マリン",
+      "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "tsunomakiwatame",
+      "name": "Tsunomaki Watame 角巻わため",
+      "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "tokoyamitowa",
+      "name": "Tokoyami Towa 常闇トワ",
+      "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "himemoriluna",
+      "name": "Himemori Luna 姫森ルーナ",
+      "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "yukihanalamy",
+      "name": "Yukihana Lamy 雪花ラミィ",
+      "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "momosuzunene",
+      "name": "Momosuzu Nene 桃鈴ねね",
+      "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "shishirobotan",
+      "name": "Shishiro Botan 獅白ぼたん",
+      "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "omarupolka",
+      "name": "Omaru Polka 尾丸ポルカ",
+      "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ladarknesss",
+      "name": "La+ Darknesss ラプラス・ダークネス",
+      "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "takanelui",
+      "name": "Takane Lui 鷹嶺ルイ",
+      "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hakuikoyori",
+      "name": "Hakui Koyori 博衣こより",
+      "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kazamairoha",
+      "name": "Kazama Iroha 風真いろは",
+      "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "sakamatachloe",
+      "name": "Sakamata Chloe 沙花叉クロヱ",
+      "channel_id": "UCIBY1ollUsauvVi4hW4cumw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ayunda_risu",
+      "name": "Ayunda Risu アユンダ・リス",
+      "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "moona_hoshinova",
+      "name": "Moona Hoshinova ムーナ・ホシノヴァ",
+      "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "airaniiofifteen",
+      "name": "Airani Iofifteen アイラニ・イオフィフティーン",
+      "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kureijiollie",
+      "name": "Kureiji Ollie クレイジー・オリー",
+      "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "aniamelfissa",
+      "name": "Anya Melfissa アーニャ・メルフィッサ",
+      "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "pavoliareine",
+      "name": "Pavolia Reine パヴォリア・レイネ",
+      "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "vestia_zeta",
+      "name": "Vestia Zeta ベスティア・ゼータ",
+      "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kaelakovalskia",
+      "name": "Kaela Kovalskia カエラ・コヴァルスキア",
+      "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kobokanaeru",
+      "name": "Kobo Kanaeru こぼ・かなえる",
+      "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
+      "channel_handle": null,
+      "branch": "ID",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "moricalliope",
+      "name": "Mori Calliope 森カリオペ",
+      "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "takanashikiara",
+      "name": "Takanashi Kiara 小鳥遊キアラ",
+      "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ninomaeinanis",
+      "name": "Ninomae Ina’nis 一伊那尓栖",
+      "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "watsonamelia",
+      "name": "Watson Amelia ワトソン・アメリア",
+      "channel_id": "UCyl1z3jo3XHR1riLFKG5UAg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "irys",
+      "name": "IRyS IRyS",
+      "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ourokronii",
+      "name": "Ouro Kronii オーロ・クロニー",
+      "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hakosbaelz",
+      "name": "Hakos Baelz ハコス・ベールズ",
+      "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "shiorinovella",
+      "name": "Shiori Novella シオリ・ノヴェラ",
+      "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kosekibijou",
+      "name": "Koseki Bijou 古石ビジュー",
+      "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "nerissaravencroft",
+      "name": "Nerissa Ravencroft ネリッサ・レイヴンクロフト",
+      "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "fuwawa_abyssgard",
+      "name": "Fuwawa Abyssgard フワワ・アビスガード",
+      "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "channel_handle": "fuwamococh",
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "mococo_abyssgard",
+      "name": "Mococo Abyssgard モココ・アビスガード",
+      "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "channel_handle": "fuwamococh",
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "holoen_erbloodflame",
+      "name": "Elizabeth Rose Bloodflame エリザベス・ローズ・ブラッドフレイム",
+      "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "holoen_gigimurin",
+      "name": "Gigi Murin ジジ・ムリン",
+      "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "holoen_ceciliaimmergreen",
+      "name": "Cecilia Immergreen セシリア・イマーグリーン",
+      "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "holoen_raorapanthera",
+      "name": "Raora Panthera ラオーラ・パンテーラ",
+      "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "otonosekanade",
+      "name": "Otonose Kanade 音乃瀬奏",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "ichijouririka",
+      "name": "Ichijou Ririka 一条莉々華",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "juufuuteiraden",
+      "name": "Juufuutei Raden 儒烏風亭らでん",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "todorokihajime",
+      "name": "Todoroki Hajime 轟はじめ",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "isakiriona",
+      "name": "Isaki Riona 響咲リオナ",
+      "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "koganei_niko",
+      "name": "Koganei Niko 虎金妃笑虎",
+      "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "mizumiya_su",
+      "name": "Mizumiya Su 水宮枢",
+      "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "rindo_chihaya",
+      "name": "Rindo Chihaya 輪堂千速",
+      "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kikirara_vivi",
+      "name": "Kikirara Vivi 綺々羅々ヴィヴィ",
+      "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "izuki_michiru",
+      "name": "Izuki Michiru 井月みちる",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hanazono_sayaka",
+      "name": "Hanazono Sayaka 花園さやか",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "kazeshiro_yuki",
+      "name": "Kazeshiro Yuki 風白ゆき",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "minatoaqua",
+      "name": "Minato Aqua 湊あくあ",
+      "channel_id": "UC1opHUrw8rvnsadT-iGp7Cg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "murasakishion",
+      "name": "Murasaki Shion 紫咲シオン",
+      "channel_id": "UCXTpFs_3PqI41qX2d9tL2Rw",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "amanekanata",
+      "name": "Amane Kanata 天音かなた",
+      "channel_id": "UCZlDXzGoo7d44bwdNObFacg",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "kiryucoco",
+      "name": "Kiryu Coco 桐生ココ",
+      "channel_id": "UCS9uQI-jC3DE0L4IpXyvr6w",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "gawrgura",
+      "name": "Gawr Gura がうる・ぐら",
+      "channel_id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "tsukumosana",
+      "name": "Tsukumo Sana 九十九佐命",
+      "channel_id": "UCsUj0dszADCGbF3gNrQEuSQ",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "ceresfauna",
+      "name": "Ceres Fauna セレス・ファウナ",
+      "channel_id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "nanashimumei",
+      "name": "Nanashi Mumei 七詩ムメイ",
+      "channel_id": "UC3n5uGu18FoCy23ggWWp8tA",
+      "channel_handle": null,
+      "branch": "EN",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "hiodoshi_ao",
+      "name": "Hiodoshi Ao 火威青",
+      "channel_id": "UCMGfV7TVTmHhEErVJg1oHBQ",
+      "channel_handle": null,
+      "branch": "DEV_IS",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "harusaki_nodoka",
+      "name": "Harusaki Nodoka 春先のどか",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "friend_a",
+      "name": "Friend A (A-chan) 友人A（えーちゃん）",
+      "channel_id": "",
+      "channel_handle": null,
+      "branch": "JP",
+      "status": "graduated",
+      "graduated_at": null
+    },
+    {
+      "handle": "hololive",
+      "name": "ホロライブ公式",
+      "channel_id": "UCJFZiqLMntJufDCHc6bQixg",
+      "channel_handle": null,
+      "branch": "Official",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hololiveenglish",
+      "name": "hololive English",
+      "channel_id": null,
+      "channel_handle": null,
+      "branch": "Official",
+      "status": "active",
+      "graduated_at": null
+    },
+    {
+      "handle": "hololiveindonesia",
+      "name": "hololive Indonesia",
+      "channel_id": null,
+      "channel_handle": null,
+      "branch": "Official",
+      "status": "active",
+      "graduated_at": null
+    }
+  ],
+  "_source": "official_hololivepro_site"
+}

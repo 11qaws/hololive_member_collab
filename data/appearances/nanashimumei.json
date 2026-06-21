@@ -1,0 +1,28 @@
+{
+  "target": "nanashimumei",
+  "count": 2,
+  "appearances": [
+    {
+      "video_id": "3n1AThmEii8",
+      "title": "【MV】Best Friend - Kana Nishino || preYdator COVER",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20250425",
+      "detection_method": "mention",
+      "url": "https://youtu.be/3n1AThmEii8",
+      "status": "confirmed",
+      "note": null
+    },
+    {
+      "video_id": "UOYMqqk3quw",
+      "title": "【Cover MV】Donut Hole / ドーナツホール - Ouro Kronii & Nanashi Mumei",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20250411",
+      "detection_method": "mention",
+      "url": "https://youtu.be/UOYMqqk3quw",
+      "status": "confirmed",
+      "note": null
+    }
+  ]
+}

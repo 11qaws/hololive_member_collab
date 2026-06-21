@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+_site/
+*.log
+data/scan_state.json
+data/config.json
