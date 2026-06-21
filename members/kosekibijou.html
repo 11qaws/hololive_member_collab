@@ -3,882 +3,1816 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hololive Collab Tracker</title>
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<title>@kosekibijou — HCAT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
 <style>
-.status-active { color: #2a9d8f; }
-.status-graduated { color: #e76f51; }
-.status-terminated { color: #d62828; }
-.badge { font-size: 0.8em; padding: 2px 6px; border-radius: 4px; }
-.badge-active { background: #e0f4f0; color: #2a9d8f; }
-.badge-graduated { background: #fde8e0; color: #e76f51; }
-.badge-terminated { background: #fce0e0; color: #d62828; }
-.app-row { display: flex; gap: 1em; align-items: center; padding: 0.5em; border-bottom: 1px solid #eee; }
-.app-row:hover { background: #f5f5f5; }
-.app-date { min-width: 100px; color: #666; }
-.app-channel { min-width: 150px; }
-.app-title { flex: 1; }
-.app-status { min-width: 30px; text-align: center; }
-.branch-group { margin-bottom: 2em; }
-.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1em; }
-.member-card { padding: 1em; border: 1px solid #ddd; border-radius: 8px; }
-.member-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-.filter-bar { margin: 1em 0; padding: 1em; background: #f8f9fa; border-radius: 8px; }
+:root {
+  --bg: #f8f9fc;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --text: #1a1d23;
+  --text-2: #6b7280;
+  --border: #e5e7eb;
+  --accent: #8b5cf6;
+  --accent-2: #ec4899;
+  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+  --shadow: 0 1px 3px rgba(0,0,0,.08);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+.dark {
+  --bg: #0f1117;
+  --surface: #1a1d26;
+  --surface-2: #252833;
+  --text: #e8eaed;
+  --text-2: #9ca3af;
+  --border: #2d3140;
+  --shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  transition: background .3s, color .3s;
+}
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,.85);
+}
+.dark header { background: rgba(15,17,23,.85); }
+header .inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header h1 { font-size: 1.15rem; font-weight: 600; }
+header h1 a { text-decoration: none; color: var(--text); }
+header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+header nav a {
+  text-decoration: none;
+  color: var(--text-2);
+  font-size: .875rem;
+  padding: .4rem .8rem;
+  border-radius: var(--radius-sm);
+  transition: all .2s;
+}
+header nav a:hover { color: var(--text); background: var(--surface-2); }
+.theme-toggle {
+  background: none; border: 1px solid var(--border); color: var(--text-2);
+  cursor: pointer; padding: .4rem .6rem; border-radius: var(--radius-sm); font-size: 1rem;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+
+main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+}
+.profile .avatar {
+  width: 72px; height: 72px;
+  border-radius: 50%;
+  background: var(--gradient);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.75rem; font-weight: 700; color: #fff;
+  flex-shrink: 0;
+}
+.profile .info h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .15rem; }
+.profile .info .handle { font-size: .9rem; color: var(--text-2); }
+.profile .info .meta { display: flex; gap: 1rem; margin-top: .5rem; flex-wrap: wrap; }
+.profile .info .meta span { font-size: .8rem; color: var(--text-2); }
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .75rem;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  text-align: center;
+}
+.stat-card .num { font-size: 1.75rem; font-weight: 700; }
+.stat-card .label { font-size: .75rem; color: var(--text-2); margin-top: .15rem; }
+.stat-card.total .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.stat-card.confirmed .num { color: #34d399; }
+.stat-card.unreviewed .num { color: #fbbf24; }
+
+.filter-bar {
+  display: flex;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+.filter-bar input, .filter-bar select {
+  padding: .5rem .75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font-size: .85rem;
+  font-family: inherit;
+  outline: none;
+}
+.filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
+
+table { width: 100%; border-collapse: separate; border-spacing: 0; }
+thead th {
+  position: sticky;
+  top: 65px;
+  background: var(--surface-2);
+  padding: .75rem .75rem;
+  font-size: .75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-2);
+  text-align: left;
+}
+tbody tr {
+  transition: background .15s;
+}
+tbody tr:hover { background: var(--surface-2); }
+tbody td {
+  padding: .75rem;
+  border-bottom: 1px solid var(--border);
+  font-size: .85rem;
+  vertical-align: middle;
+}
+td .title { max-width: 350px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+td .title a { color: var(--text); text-decoration: none; }
+td .title a:hover { color: var(--accent); }
+.status-badge {
+  display: inline-block;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+  font-size: .7rem;
+  font-weight: 500;
+}
+.status-unreviewed { background: rgba(251,191,36,.12); color: #fbbf24; }
+.status-confirmed { background: rgba(52,211,153,.12); color: #34d399; }
+.status-rejected { background: rgba(248,113,113,.12); color: #f87171; text-decoration: line-through; }
+.btn {
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-2);
+  padding: .3rem .6rem;
+  border-radius: var(--radius-sm);
+  font-size: .8rem;
+  transition: all .15s;
+}
+.btn:hover { border-color: var(--accent); color: var(--text); }
+.btn-confirm:hover { border-color: #34d399; color: #34d399; }
+.btn-reject:hover { border-color: #f87171; color: #f87171; }
+.empty-state {
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-2);
+  font-size: .9rem;
+}
+@media (max-width: 640px) {
+  main { padding: 0 1rem; }
+  .stat-row { grid-template-columns: 1fr; }
+  .profile { flex-direction: column; text-align: center; }
+  td .title { max-width: 180px; }
+}
 </style>
 </head>
 <body>
 <header>
+<div class="inner">
+<h1><a href="../index.html"><span>HCAT</span></a></h1>
 <nav>
-<a href="../">Home</a>
-<a href="../stats.html">Stats</a>
-<a href="../unknowns.html">Unknowns</a>
+<a href="../index.html">Members</a>
+<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
 </nav>
-<h1>Hololive Collab Tracker</h1>
+</div>
 </header>
 <main>
+<div class="profile">
 
-<div style="display:flex;align-items:center;gap:1em;margin-bottom:1em">
-<img src="https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj" alt="" style="width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin-right:1em">
-<div><h2>@kosekibijou — Koseki Bijou 古石ビジュー <span class="badge badge-active">active</span></h2>
-<p>Branch: EN</p></div></div>
-<p>Total: 118 appearances</p>
-<div class="filter-bar">
-<label>Filter: <input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()"></label>
-<label>Show: <select id="statusFilter" onchange="filterApps()"><option value="all">All</option><option value="confirmed">Confirmed</option><option value="unreviewed">Unreviewed</option></select></label>
+<img class="avatar" src="https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj" alt="Koseki Bijou 古石ビジュー">
+
+<div class="info">
+<h2>Koseki Bijou 古石ビジュー</h2>
+<div class="handle">@kosekibijou</div>
+<div class="meta">
+<span>EN</span>
+
+
 </div>
-<table><thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Method</th><th>Status</th></tr></thead><tbody>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-06-16</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/uXoclVMNK-U" target="_blank">【SUBNAUTICA 2】KOSEKI BIJOU JOINS THE DIVE #kfp #キアライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-06-14</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/HViPZmjIa14" target="_blank">【3D】#ホロライブ歌うま大賞【生放送】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@rindo_chihaya</td>
-<td class="app-title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/RW4-0M-yYRA" target="_blank">FOR THE EMPEROR?! #hololive #warhammer #anime #PR #vtuber</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-06-11</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/plGFpnyWhKs" target="_blank">Ingrid vs. Ingrid Since We Love Twinning 【Street Fighter 6】 #ad</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-06-07</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/hYxNkLnHrAg" target="_blank">xbox showcase watchalong with biboo #calliolive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-06-07</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/nEeO2Da6t-s" target="_blank">1 Hour of Silence Interrupted by 67</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-06-06</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/l_-bR-z4uzo" target="_blank">【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #callioli</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-06-05</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/Y9WU6cblHO8" target="_blank">【賑やか】Hammer Guitar meme???🔨🎸 #hololive #ホロライブ #タンバリン</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-06-02</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/-Ps5pxGJNEQ" target="_blank">【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #callioli</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-06-02</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/g8YUSVKGFlw" target="_blank">【Forza Horizon 6】FASTER FASTER</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ourokronii" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@ourokronii</td>
-<td class="app-title"><a href="https://youtu.be/b0h8kilUBQk" target="_blank">【ENigmatic Recollection: Chapter 3】Day 6: Final</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/WVtNDIIdEyg" target="_blank">【ENigmatic Recollection】HPO Has Awakened【Broken Bonds】#enreco</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/0erNTlRV7-c" target="_blank">【ENigmatic Recollection: Chapter 3】FOR JUSTICE!!!!!!!!!!!!!!!!!!!!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/Qh33RM1yOtI" target="_blank">≪ENigmatic Recollection: Chapter 3≫ I AM BUT A HUMBLE PEASANT #6</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/FRubYpkandA" target="_blank">【ENigmatic Recollection】THE FINALE!!!【#6】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/hjskrraiXp4" target="_blank">Lose yourself in the sound | ENReco Ch. 3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/6r0cA5reqOA" target="_blank">Dawn of the Final Day 【ENigmatic Recollection: Season 3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/mIsHnxTVoFM" target="_blank">【ENIGMATIC RECOLLECTION】end of advent - 0201 🐾 #ENreco #hololiveEnglish【FUWAWA P</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/5fdrGFsRtQw" target="_blank">【ENIGMATIC RECOLLECTION】end of advent - 0202 🐾 #ENreco #hololiveEnglish【MOCOCO P</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/mZM0OO3VK9s" target="_blank">【ENigmatic Recollection 3】?</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/euqA3GB8Jc0" target="_blank">【ENigmatic Recollection: Chapter 3】FINALE</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/j2loI_6HkqI" target="_blank">【MINECRAFT RP】good food can save the world #calliolive #enreco</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@holoen_erbloodflame</td>
-<td class="app-title"><a href="https://youtu.be/6HUbJshXMAI" target="_blank">【ENigmatic Recollection】Broken Bonds EP 6 (Finale) | Lady Bloodflame Roleplay PO</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ourokronii" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@ourokronii</td>
-<td class="app-title"><a href="https://youtu.be/phkMUVqF6aY" target="_blank">【ENigmatic Recollection: Chapter 3】Day 5: Am I... The Monster</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/w2BCfGaek4g" target="_blank">【ENigmatic Recollection: Chapter 3】IN THE MIRROR YOU SEE THE DARKEST SIDE OF YOU</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/Ap9GUELHGSg" target="_blank">≪ENigmatic Recollection: Chapter 3≫ New Tax Bracket #5</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/rFmdOarYXuE" target="_blank">【ENigmatic Recollection 3】THE BORDER CAN'T HOLD US. VIVA LA ROAVOLUTION!!!!!!!!!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/F0V2nxnTEII" target="_blank">【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/QB1ZSh0yKuc" target="_blank">Have you seen The Yellow Sign? 【ENigmatic Recollection: Season 3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/4anxJRoJo4s" target="_blank">What goes up, must come down | ENReco Ch. 3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/Db4P0eDfOMY" target="_blank">【ENIGMATIC RECOLLECTION】fluffy bonds united 🐾 #ENreco #hololiveEnglish【FUWAWA PO</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/K3N6S6rIgS0" target="_blank">【ENIGMATIC RECOLLECTION】fuzzy bonds united 🐾 #ENreco #hololiveEnglish【MOCOCO POV</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/IpNXgvS3QjM" target="_blank">【ENigmatic Recollection: Chapter 3】PRINCESS??! What are you gazing at??</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/UBbTSf5A9bc" target="_blank">【MINECRAFT RP】rise n' grind #calliolive #enreco</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@holoen_erbloodflame</td>
-<td class="app-title"><a href="https://youtu.be/8J7aGAe42EE" target="_blank">【ENigmatic Recollection】Broken Bonds EP 5 | Lady Bloodflame Roleplay POV 💄</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/uLitDJpSaKQ" target="_blank">【ENigmatic Recollection: Chapter 3】everything will be okay!!!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/JAibEhH7R1E" target="_blank">≪ENigmatic Recollection: Chapter 3≫ Just a Peasant and a Polar Bear #3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/GzBAUkX8-r0" target="_blank">【ENigmatic Recollection】Because...That Is What a Hero Would Do【#3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/MGo9h3BNyj0" target="_blank">【ENigmatic Recollection 3】The wall was repaired. The memory was not.</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/-KfXS2FJl2o" target="_blank">【ENIGMATIC RECOLLECTION】fluffy smithing with a vengeance 🐾 #ENreco #hololiveEngl</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/PNrclGd76n4" target="_blank">Church is Now in Session 【ENigmatic Recollection: Season 3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/AQ80hyGfzxI" target="_blank">【ENIGMATIC RECOLLECTION】fuzzy mocopoly on all charms 🐾 #ENreco #hololiveEnglish【</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/LJoWhfyEV1Q" target="_blank">Worlds will fall | ENReco Ch. 3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/gDiqP1BVNXY" target="_blank">【ENigmatic Recollection: Chapter 3】A CASTLE FOR THE QUEEN</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@holoen_erbloodflame</td>
-<td class="app-title"><a href="https://youtu.be/rg_rZ8reBVA" target="_blank">【ENigmatic Recollection】Broken Bonds EP 3 | Lady Bloodflame Roleplay POV 💄</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ourokronii" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@ourokronii</td>
-<td class="app-title"><a href="https://youtu.be/Up0bZJINZx8" target="_blank">【ENigmatic Recollection: Chapter 3】Day 2: Yay</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/uSz1tR2SU28" target="_blank">【ENigmatic Recollection 3】Is this a simulation?!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/t0aLqfBeqK0" target="_blank">≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/J8CAzdF1qb4" target="_blank">【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonathon</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/jdWk5-BLjCw" target="_blank">【ENIGMATIC RECOLLECTION】fluffy secrets aren't for sharing 🐾 #ENreco #hololiveEng</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/7JCwz_K_r5M" target="_blank">【ENIGMATIC RECOLLECTION】it's fuzzy free real estate 🐾 #ENreco #hololiveEnglish【M</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/vRVwJrdNzGk" target="_blank">Gone 【ENigmatic Recollection: Season 3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/JixD1DhcNgc" target="_blank">From her hands | ENReco Ch. 3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/SbYxNyu5Zn4" target="_blank">【ENigmatic Recollection】Believe!!!!【#2】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/mARNiVZCRbw" target="_blank">【ENigmatic Recollection: Chapter 3】Fishing, Friendship and Frustrations</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/VXqngzJKNZU" target="_blank">【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td class="app-date">2026-05-26</td>
-<td class="app-channel">@holoen_erbloodflame</td>
-<td class="app-title"><a href="https://youtu.be/7SzxeEiLGFs" target="_blank">【ENigmatic Recollection】Broken Bonds EP 2 | Lady Bloodflame Roleplay POV 💄</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ourokronii" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@ourokronii</td>
-<td class="app-title"><a href="https://youtu.be/sT4tuLP6UJQ" target="_blank">【ENigmatic Recollection: Chapter 3】Day 1: Things</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/ZSkPr-qXud0" target="_blank">【ENigmatic Recollection: Chapter 3】he has returned. gon minecraft.</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/cLbDjefl2-w" target="_blank">【ENigmatic Recollection】Return of the Hero....?【#1】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/u0Tu7_vfmQo" target="_blank">【ENreco Season 3】A fleeting adventure... #kfp #キアライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/rjNDjL6R3-s" target="_blank">【ENigmatic Recollection: Chapter 3】Princess Iphania! Where are you?</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/M1lDsivuVb8" target="_blank">【ENigmatic Recollection】What does the future hold?【Broken Bonds】#enreco</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/ZwqLwWTa98E" target="_blank">≪ENigmatic Recollection: Chapter 3≫ Peasantry is always the answer #1</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_raorapanthera" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@holoen_raorapanthera</td>
-<td class="app-title"><a href="https://youtu.be/XD-K3AirOdA" target="_blank">【ENigmatic Recollection 3】Back to the Beginning</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/YY5EJ_TX-iM" target="_blank">【ENIGMATIC RECOLLECTION】time to get this fluffy party started 🐾 #ENreco #hololiv</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/PkPzzhx2hrc" target="_blank">【ENIGMATIC RECOLLECTION】time to get this fuzzy party started 🐾 #ENreco #hololive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/ZzXAmkDHgTY" target="_blank">For Personal Reasons I Am 'Evil' 【ENigmatic Recollection: Season 3】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/To_P9pUvMRA" target="_blank">Shackles Fall | ENReco Ch. 3</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/jWrom0fcdQk" target="_blank">【MINECRAFT RP】cooking up CONTROVERSY with the wandering chef, Mordan Ramsay #cal</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td class="app-date">2026-05-25</td>
-<td class="app-channel">@holoen_erbloodflame</td>
-<td class="app-title"><a href="https://youtu.be/2rnclFeQ5EM" target="_blank">【ENigmatic Recollection】Broken Bonds EP 1 | Lady Bloodflame Roleplay POV 💄</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-24</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/5BaOYp1EBOI" target="_blank">【BAKING COLLAB】let them coooooook #calliolive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-22</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/1uk-CA9S3pY" target="_blank">【140~165cm】How tall are you? 👯‍♀️💋🗿#hololive #ホロライブ #兎田ぺこら #癒月ちょこ #kosekibijou</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ninomaeinanis" data-status="unreviewed">
-<td class="app-date">2026-05-21</td>
-<td class="app-channel">@ninomaeinanis</td>
-<td class="app-title"><a href="https://youtu.be/9G8nfmcM0lU" target="_blank">【#BdayINA2026】H-h-h-hi I-It's My Birthday......!!!!!!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-05-21</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/4xxkUEkUCoU" target="_blank">【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #calliolive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
-<td class="app-date">2026-05-17</td>
-<td class="app-channel">@holoen_ceciliaimmergreen</td>
-<td class="app-title"><a href="https://youtu.be/aPSUhJaels0" target="_blank">【3D LIVE】THE CCGG NETWORK PART 2 #AUTOFISTNETWORK @holoen_gigimurin</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-11</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/8NSot19NyjQ" target="_blank">【funny moments】水に落ちる子たち #hololive #ホロライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-05-08</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/PpUAZWAm2GQ" target="_blank">【Resident Evil 6】PART TRES  w/ @kosekibijou</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/nG8JZuZF9z8" target="_blank">ADVENT CAR WASH! + ANNOUNCEMENT | PowerWash Simulator 2</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/1krRDpCE-J0" target="_blank">Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/XOovxanG7Pg" target="_blank">【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/rHn3lw8zxHE" target="_blank">IT'S MY 3RD BIRTHDAY! #partyvella2026</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-05-02</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/N7H0CqXGGMg" target="_blank">あえんびえん(阿鼻叫喚)を教えてみた‼️🧑‍🏫 #さくらみこ #kosekibijou #takanashikiara #大空スバル #切り抜き #shorts</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-04-29</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/B0DIY2FC3QQ" target="_blank">【Resident Evil 6】MUCHO AMOR CHICO GUAPO  w/ @kosekibijou</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
-<td class="app-date">2026-04-23</td>
-<td class="app-channel">@shirakamifubuki</td>
-<td class="app-title"><a href="https://youtu.be/U65iohCoLwU" target="_blank">【 Slay the Spire 2 】スレスパ2コラボだあああああああああああああああ!!!!!!!!!!!!!!!!!!! 【白上フブキ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-04-23</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/-5P17BxVZTE" target="_blank">【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-04-18</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/8kGwSPrRqhg" target="_blank">【Pragmata】proving I'm the better father figure (part 1) #calliolive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kureijiollie" data-status="unreviewed">
-<td class="app-date">2026-04-12</td>
-<td class="app-channel">@kureijiollie</td>
-<td class="app-title"><a href="https://youtu.be/6DH3wgmRfi0" target="_blank">【HYTALE - EN&ID Server】  Pt.2: COLLECTING MATERIALS FOR THE ULTIMATE DOOR!! 【Kur</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="aniamelfissa" data-status="unreviewed">
-<td class="app-date">2026-04-12</td>
-<td class="app-channel">@aniamelfissa</td>
-<td class="app-title"><a href="https://youtu.be/qP9yZchmhOc" target="_blank">【Hytale】The Continuation of HowlingRager36's Very W(hole)some Adventure【hololive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-04-12</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/u7ftEZF9hL0" target="_blank">Leaving the Kitchen to Adventure Outdoors 【Hytale】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-04-11</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/CpxQDfGReak" target="_blank">【HYTALE】connecting my hole to mori mines</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-04-09</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/6qG5QNiAIZw" target="_blank">【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members in my book</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="aniamelfissa" data-status="unreviewed">
-<td class="app-date">2026-04-09</td>
-<td class="app-channel">@aniamelfissa</td>
-<td class="app-title"><a href="https://youtu.be/a7X2MKuKZnw" target="_blank">【Hytale】Playing Hytale for the First Time in the EN x ID Server!【hololive ID | A</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-04-09</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/j4ls74iK-f8" target="_blank">Tally Ho with Tea & Crumpets! 【Hytale】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-04-09</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/UuX7GWGN98E" target="_blank">【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-04-09</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/kE1CKUV5DH4" target="_blank">with this, our story comes to an end... or does it? 🐾⚠️ #FUWAMOCO #shorts #ホロライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-04-08</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/YQeIi1uTT-A" target="_blank">【Resident Evil 6】Leon be Chico Guapo w/ @kosekibijou</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-04-06</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/3Ham5AjZUH4" target="_blank">🐣 Finding the best parent of holoEN with @holoen_erbloodflame !</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-04-06</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/yYS0viqotcM" target="_blank">【HOLO EN/ID HYTALE】a server just for us!!! Lets start with the basics! #kfp</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-04-05</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/k3rGI1jg9J4" target="_blank">Building a New Hole for a New World 【Hytale】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="pavoliareine" data-status="unreviewed">
-<td class="app-date">2026-04-03</td>
-<td class="app-channel">@pavoliareine</td>
-<td class="app-title"><a href="https://youtu.be/ftZO2mlxV7U" target="_blank">【Slay the Spire 2】Biboo Said I Could Steal Her Thumbnail【Pavolia Reine/holoID 2n</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kaelakovalskia" data-status="unreviewed">
-<td class="app-date">2026-04-03</td>
-<td class="app-channel">@kaelakovalskia</td>
-<td class="app-title"><a href="https://youtu.be/_9aYOmqGtac" target="_blank">【Slay the Spire 2】slaying with the girlssssssssssssss</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-04-02</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/ZWe5oRk-5vg" target="_blank">【PROJECT: BREAK OUT】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nerissaravencroft" data-status="unreviewed">
-<td class="app-date">2026-04-02</td>
-<td class="app-channel">@nerissaravencroft</td>
-<td class="app-title"><a href="https://youtu.be/xvj490sNZL8" target="_blank">Are you ready?</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-04-02</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/bVFmC1Ei1pM" target="_blank">(Operation BREAKOUT) The Most Chuuni Edgy Shocking Advent Collab EVEEEER 【VRChat</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-04-02</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/nzI6EmQNqDE" target="_blank">【handcam】arts n crafts with mori calli #calliolive</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kobokanaeru" data-status="unreviewed">
-<td class="app-date">2026-04-01</td>
-<td class="app-channel">@kobokanaeru</td>
-<td class="app-title"><a href="https://youtu.be/YFPc1Nk1qzk" target="_blank">FUEGO?? FUEGO!! #shorts #vtuber #kobokanaeru  #kosekibijou</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakosbaelz" data-status="unreviewed">
-<td class="app-date">2026-03-29</td>
-<td class="app-channel">@hakosbaelz</td>
-<td class="app-title"><a href="https://youtu.be/nRyZK4046as" target="_blank">≪DRAWN TO DAWN≫ DAY 2 WATCH PARTY!!! #takatori #drawntodawn</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-03-29</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/DvriPOj3mf8" target="_blank">What Goes Around is MEEEEE #shorts #music</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="moricalliope" data-status="unreviewed">
-<td class="app-date">2026-03-28</td>
-<td class="app-channel">@moricalliope</td>
-<td class="app-title"><a href="https://youtu.be/XQwX8Heu0qA" target="_blank">【DRAWN TO DAWN】big WATCH PARTY!! Day 1 #calliolive #takotori #drawntodawn</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-03-28</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/T8vdt_dN5Hk" target="_blank">the song to listen to after a night-time heist 🐾⚠️ #FUWAMOCO #shorts #ホロライブ #hol</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/bgVgVBcsd-U" target="_blank">Running People Over with Golf Carts 【Super Battle Golf】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="holoen_gigimurin" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@holoen_gigimurin</td>
-<td class="app-title"><a href="https://youtu.be/KSmYVFU0FRI" target="_blank">【SUPER BATTLE GOLF】hole in one 😏😏😏😏😏</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kaelakovalskia" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@kaelakovalskia</td>
-<td class="app-title"><a href="https://youtu.be/BoVbE4adiwk" target="_blank">【#3DJAVU】Déjà vu: its all coming back to me now【3D Redebut Live】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiorinovella" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@shiorinovella</td>
-<td class="app-title"><a href="https://youtu.be/52VQN5FvLB4" target="_blank">Unchained Because I'm FREEEEE #shorts #music</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@oozora_subaru</td>
-<td class="app-title"><a href="https://youtu.be/qo-ksmQBLDU" target="_blank">【#生スバル】ぽこあでメンバーやリスナーさんの町にいくしゅばああああああああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-03-25</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/IO6yuu0FysM" target="_blank">【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announceme</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-</tbody></table>
+</div>
+</div>
+
+<div class="stat-row">
+<div class="stat-card total">
+<div class="num">118</div>
+<div class="label">Total</div>
+</div>
+<div class="stat-card confirmed">
+<div class="num">0</div>
+<div class="label">Confirmed</div>
+</div>
+<div class="stat-card unreviewed">
+<div class="num">118</div>
+<div class="label">Unreviewed</div>
+</div>
+</div>
+
+
+<div class="filter-bar">
+<input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()">
+<select id="statusFilter" onchange="filterApps()">
+<option value="all">All</option>
+<option value="unreviewed">Unreviewed</option>
+<option value="confirmed">Confirmed</option>
+<option value="rejected">Rejected</option>
+</select>
+</div>
+<table>
+<thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Status</th><th></th></tr></thead>
+<tbody>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260616</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/uXoclVMNK-U" target="_blank" title="【SUBNAUTICA 2】KOSEKI BIJOU JOINS THE DIVE #kfp #キアライブ">【SUBNAUTICA 2】KOSEKI BIJOU JOINS THE DIVE #kfp #キアライブ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('uXoclVMNK-U','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('uXoclVMNK-U','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260614</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/HViPZmjIa14" target="_blank" title="【3D】#ホロライブ歌うま大賞【生放送】">【3D】#ホロライブ歌うま大賞【生放送】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('HViPZmjIa14','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('HViPZmjIa14','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="rindo_chihaya" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@rindo_chihaya</strong></td>
+<td class="title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank" title="【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('fvVFdWOHOdU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('fvVFdWOHOdU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/RW4-0M-yYRA" target="_blank" title="FOR THE EMPEROR?! #hololive #warhammer #anime #PR #vtuber">FOR THE EMPEROR?! #hololive #warhammer #anime #PR #vtuber</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('RW4-0M-yYRA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('RW4-0M-yYRA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260611</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/plGFpnyWhKs" target="_blank" title="Ingrid vs. Ingrid Since We Love Twinning 【Street Fighter 6】 #ad">Ingrid vs. Ingrid Since We Love Twinning 【Street Fighter 6】 #ad</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('plGFpnyWhKs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('plGFpnyWhKs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260607</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/hYxNkLnHrAg" target="_blank" title="xbox showcase watchalong with biboo #calliolive">xbox showcase watchalong with biboo #calliolive</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('hYxNkLnHrAg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('hYxNkLnHrAg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260607</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/nEeO2Da6t-s" target="_blank" title="1 Hour of Silence Interrupted by 67">1 Hour of Silence Interrupted by 67</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nEeO2Da6t-s','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nEeO2Da6t-s','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260606</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/l_-bR-z4uzo" target="_blank" title="【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #calliolive">【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong)</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('l_-bR-z4uzo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('l_-bR-z4uzo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260605</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/Y9WU6cblHO8" target="_blank" title="【賑やか】Hammer Guitar meme???🔨🎸 #hololive #ホロライブ #タンバリン">【賑やか】Hammer Guitar meme???🔨🎸 #hololive #ホロライブ #タンバリン</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Y9WU6cblHO8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Y9WU6cblHO8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260602</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/-Ps5pxGJNEQ" target="_blank" title="【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive">【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou </a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('-Ps5pxGJNEQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('-Ps5pxGJNEQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260602</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/g8YUSVKGFlw" target="_blank" title="【Forza Horizon 6】FASTER FASTER">【Forza Horizon 6】FASTER FASTER</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('g8YUSVKGFlw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('g8YUSVKGFlw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ourokronii" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@ourokronii</strong></td>
+<td class="title"><a href="https://youtu.be/b0h8kilUBQk" target="_blank" title="【ENigmatic Recollection: Chapter 3】Day 6: Final">【ENigmatic Recollection: Chapter 3】Day 6: Final</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('b0h8kilUBQk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('b0h8kilUBQk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/WVtNDIIdEyg" target="_blank" title="【ENigmatic Recollection】HPO Has Awakened【Broken Bonds】#enreco">【ENigmatic Recollection】HPO Has Awakened【Broken Bonds】#enreco</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('WVtNDIIdEyg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('WVtNDIIdEyg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/0erNTlRV7-c" target="_blank" title="【ENigmatic Recollection: Chapter 3】FOR JUSTICE!!!!!!!!!!!!!!!!!!!!">【ENigmatic Recollection: Chapter 3】FOR JUSTICE!!!!!!!!!!!!!!!!!!!!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('0erNTlRV7-c','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('0erNTlRV7-c','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/Qh33RM1yOtI" target="_blank" title="≪ENigmatic Recollection: Chapter 3≫ I AM BUT A HUMBLE PEASANT #6">≪ENigmatic Recollection: Chapter 3≫ I AM BUT A HUMBLE PEASANT #6</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Qh33RM1yOtI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Qh33RM1yOtI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/FRubYpkandA" target="_blank" title="【ENigmatic Recollection】THE FINALE!!!【#6】">【ENigmatic Recollection】THE FINALE!!!【#6】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('FRubYpkandA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('FRubYpkandA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/hjskrraiXp4" target="_blank" title="Lose yourself in the sound | ENReco Ch. 3">Lose yourself in the sound | ENReco Ch. 3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('hjskrraiXp4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('hjskrraiXp4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/6r0cA5reqOA" target="_blank" title="Dawn of the Final Day 【ENigmatic Recollection: Season 3】">Dawn of the Final Day 【ENigmatic Recollection: Season 3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6r0cA5reqOA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6r0cA5reqOA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/mIsHnxTVoFM" target="_blank" title="【ENIGMATIC RECOLLECTION】end of advent - 0201 🐾 #ENreco #hololiveEnglish【FUWAWA POV】">【ENIGMATIC RECOLLECTION】end of advent - 0201 🐾 #ENreco #hololiveEnglis</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('mIsHnxTVoFM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('mIsHnxTVoFM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/5fdrGFsRtQw" target="_blank" title="【ENIGMATIC RECOLLECTION】end of advent - 0202 🐾 #ENreco #hololiveEnglish【MOCOCO POV】">【ENIGMATIC RECOLLECTION】end of advent - 0202 🐾 #ENreco #hololiveEnglis</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('5fdrGFsRtQw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('5fdrGFsRtQw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/mZM0OO3VK9s" target="_blank" title="【ENigmatic Recollection 3】?">【ENigmatic Recollection 3】?</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('mZM0OO3VK9s','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('mZM0OO3VK9s','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/euqA3GB8Jc0" target="_blank" title="【ENigmatic Recollection: Chapter 3】FINALE">【ENigmatic Recollection: Chapter 3】FINALE</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('euqA3GB8Jc0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('euqA3GB8Jc0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/j2loI_6HkqI" target="_blank" title="【MINECRAFT RP】good food can save the world #calliolive #enreco">【MINECRAFT RP】good food can save the world #calliolive #enreco</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('j2loI_6HkqI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('j2loI_6HkqI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@holoen_erbloodflame</strong></td>
+<td class="title"><a href="https://youtu.be/6HUbJshXMAI" target="_blank" title="【ENigmatic Recollection】Broken Bonds EP 6 (Finale) | Lady Bloodflame Roleplay POV 💄">【ENigmatic Recollection】Broken Bonds EP 6 (Finale) | Lady Bloodflame R</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6HUbJshXMAI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6HUbJshXMAI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ourokronii" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@ourokronii</strong></td>
+<td class="title"><a href="https://youtu.be/phkMUVqF6aY" target="_blank" title="【ENigmatic Recollection: Chapter 3】Day 5: Am I... The Monster">【ENigmatic Recollection: Chapter 3】Day 5: Am I... The Monster</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('phkMUVqF6aY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('phkMUVqF6aY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/w2BCfGaek4g" target="_blank" title="【ENigmatic Recollection: Chapter 3】IN THE MIRROR YOU SEE THE DARKEST SIDE OF YOU">【ENigmatic Recollection: Chapter 3】IN THE MIRROR YOU SEE THE DARKEST S</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('w2BCfGaek4g','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('w2BCfGaek4g','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/Ap9GUELHGSg" target="_blank" title="≪ENigmatic Recollection: Chapter 3≫ New Tax Bracket #5">≪ENigmatic Recollection: Chapter 3≫ New Tax Bracket #5</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Ap9GUELHGSg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Ap9GUELHGSg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/rFmdOarYXuE" target="_blank" title="【ENigmatic Recollection 3】THE BORDER CAN'T HOLD US. VIVA LA ROAVOLUTION!!!!!!!!!!!">【ENigmatic Recollection 3】THE BORDER CAN'T HOLD US. VIVA LA ROAVOLUTIO</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rFmdOarYXuE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rFmdOarYXuE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/F0V2nxnTEII" target="_blank" title="【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】">【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('F0V2nxnTEII','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('F0V2nxnTEII','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/QB1ZSh0yKuc" target="_blank" title="Have you seen The Yellow Sign? 【ENigmatic Recollection: Season 3】">Have you seen The Yellow Sign? 【ENigmatic Recollection: Season 3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('QB1ZSh0yKuc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('QB1ZSh0yKuc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/4anxJRoJo4s" target="_blank" title="What goes up, must come down | ENReco Ch. 3">What goes up, must come down | ENReco Ch. 3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4anxJRoJo4s','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4anxJRoJo4s','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/Db4P0eDfOMY" target="_blank" title="【ENIGMATIC RECOLLECTION】fluffy bonds united 🐾 #ENreco #hololiveEnglish【FUWAWA POV】">【ENIGMATIC RECOLLECTION】fluffy bonds united 🐾 #ENreco #hololiveEnglish</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Db4P0eDfOMY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Db4P0eDfOMY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/K3N6S6rIgS0" target="_blank" title="【ENIGMATIC RECOLLECTION】fuzzy bonds united 🐾 #ENreco #hololiveEnglish【MOCOCO POV】">【ENIGMATIC RECOLLECTION】fuzzy bonds united 🐾 #ENreco #hololiveEnglish【</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('K3N6S6rIgS0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('K3N6S6rIgS0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/IpNXgvS3QjM" target="_blank" title="【ENigmatic Recollection: Chapter 3】PRINCESS??! What are you gazing at??">【ENigmatic Recollection: Chapter 3】PRINCESS??! What are you gazing at?</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('IpNXgvS3QjM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('IpNXgvS3QjM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/UBbTSf5A9bc" target="_blank" title="【MINECRAFT RP】rise n' grind #calliolive #enreco">【MINECRAFT RP】rise n' grind #calliolive #enreco</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('UBbTSf5A9bc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('UBbTSf5A9bc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@holoen_erbloodflame</strong></td>
+<td class="title"><a href="https://youtu.be/8J7aGAe42EE" target="_blank" title="【ENigmatic Recollection】Broken Bonds EP 5 | Lady Bloodflame Roleplay POV 💄">【ENigmatic Recollection】Broken Bonds EP 5 | Lady Bloodflame Roleplay P</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('8J7aGAe42EE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('8J7aGAe42EE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/uLitDJpSaKQ" target="_blank" title="【ENigmatic Recollection: Chapter 3】everything will be okay!!!">【ENigmatic Recollection: Chapter 3】everything will be okay!!!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('uLitDJpSaKQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('uLitDJpSaKQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/JAibEhH7R1E" target="_blank" title="≪ENigmatic Recollection: Chapter 3≫ Just a Peasant and a Polar Bear #3">≪ENigmatic Recollection: Chapter 3≫ Just a Peasant and a Polar Bear #3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('JAibEhH7R1E','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('JAibEhH7R1E','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/GzBAUkX8-r0" target="_blank" title="【ENigmatic Recollection】Because...That Is What a Hero Would Do【#3】">【ENigmatic Recollection】Because...That Is What a Hero Would Do【#3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('GzBAUkX8-r0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('GzBAUkX8-r0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/MGo9h3BNyj0" target="_blank" title="【ENigmatic Recollection 3】The wall was repaired. The memory was not.">【ENigmatic Recollection 3】The wall was repaired. The memory was not.</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('MGo9h3BNyj0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('MGo9h3BNyj0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/-KfXS2FJl2o" target="_blank" title="【ENIGMATIC RECOLLECTION】fluffy smithing with a vengeance 🐾 #ENreco #hololiveEnglish【FUWAWA POV】">【ENIGMATIC RECOLLECTION】fluffy smithing with a vengeance 🐾 #ENreco #ho</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('-KfXS2FJl2o','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('-KfXS2FJl2o','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/PNrclGd76n4" target="_blank" title="Church is Now in Session 【ENigmatic Recollection: Season 3】">Church is Now in Session 【ENigmatic Recollection: Season 3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('PNrclGd76n4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('PNrclGd76n4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/AQ80hyGfzxI" target="_blank" title="【ENIGMATIC RECOLLECTION】fuzzy mocopoly on all charms 🐾 #ENreco #hololiveEnglish【MOCOCO POV】">【ENIGMATIC RECOLLECTION】fuzzy mocopoly on all charms 🐾 #ENreco #hololi</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('AQ80hyGfzxI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('AQ80hyGfzxI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/LJoWhfyEV1Q" target="_blank" title="Worlds will fall | ENReco Ch. 3">Worlds will fall | ENReco Ch. 3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('LJoWhfyEV1Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('LJoWhfyEV1Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/gDiqP1BVNXY" target="_blank" title="【ENigmatic Recollection: Chapter 3】A CASTLE FOR THE QUEEN">【ENigmatic Recollection: Chapter 3】A CASTLE FOR THE QUEEN</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('gDiqP1BVNXY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('gDiqP1BVNXY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@holoen_erbloodflame</strong></td>
+<td class="title"><a href="https://youtu.be/rg_rZ8reBVA" target="_blank" title="【ENigmatic Recollection】Broken Bonds EP 3 | Lady Bloodflame Roleplay POV 💄">【ENigmatic Recollection】Broken Bonds EP 3 | Lady Bloodflame Roleplay P</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rg_rZ8reBVA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rg_rZ8reBVA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ourokronii" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@ourokronii</strong></td>
+<td class="title"><a href="https://youtu.be/Up0bZJINZx8" target="_blank" title="【ENigmatic Recollection: Chapter 3】Day 2: Yay">【ENigmatic Recollection: Chapter 3】Day 2: Yay</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Up0bZJINZx8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Up0bZJINZx8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/uSz1tR2SU28" target="_blank" title="【ENigmatic Recollection 3】Is this a simulation?!">【ENigmatic Recollection 3】Is this a simulation?!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('uSz1tR2SU28','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('uSz1tR2SU28','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/t0aLqfBeqK0" target="_blank" title="≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2">≪ENigmatic Recollection: Chapter 3≫ RIVER PRINCE #2</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('t0aLqfBeqK0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('t0aLqfBeqK0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/J8CAzdF1qb4" target="_blank" title="【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonathon">【ENigmatic Recollection: Chapter 3】just put the fries in the bag gonat</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('J8CAzdF1qb4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('J8CAzdF1qb4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/jdWk5-BLjCw" target="_blank" title="【ENIGMATIC RECOLLECTION】fluffy secrets aren't for sharing 🐾 #ENreco #hololiveEnglish【FUWAWA POV】">【ENIGMATIC RECOLLECTION】fluffy secrets aren't for sharing 🐾 #ENreco #h</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('jdWk5-BLjCw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('jdWk5-BLjCw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/7JCwz_K_r5M" target="_blank" title="【ENIGMATIC RECOLLECTION】it's fuzzy free real estate 🐾 #ENreco #hololiveEnglish【MOCOCO POV】">【ENIGMATIC RECOLLECTION】it's fuzzy free real estate 🐾 #ENreco #hololiv</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('7JCwz_K_r5M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('7JCwz_K_r5M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/vRVwJrdNzGk" target="_blank" title="Gone 【ENigmatic Recollection: Season 3】">Gone 【ENigmatic Recollection: Season 3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('vRVwJrdNzGk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('vRVwJrdNzGk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/JixD1DhcNgc" target="_blank" title="From her hands | ENReco Ch. 3">From her hands | ENReco Ch. 3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('JixD1DhcNgc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('JixD1DhcNgc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/SbYxNyu5Zn4" target="_blank" title="【ENigmatic Recollection】Believe!!!!【#2】">【ENigmatic Recollection】Believe!!!!【#2】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('SbYxNyu5Zn4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('SbYxNyu5Zn4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/mARNiVZCRbw" target="_blank" title="【ENigmatic Recollection: Chapter 3】Fishing, Friendship and Frustrations">【ENigmatic Recollection: Chapter 3】Fishing, Friendship and Frustration</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('mARNiVZCRbw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('mARNiVZCRbw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/VXqngzJKNZU" target="_blank" title="【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco">【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('VXqngzJKNZU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('VXqngzJKNZU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260526</td>
+<td><strong>@holoen_erbloodflame</strong></td>
+<td class="title"><a href="https://youtu.be/7SzxeEiLGFs" target="_blank" title="【ENigmatic Recollection】Broken Bonds EP 2 | Lady Bloodflame Roleplay POV 💄">【ENigmatic Recollection】Broken Bonds EP 2 | Lady Bloodflame Roleplay P</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('7SzxeEiLGFs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('7SzxeEiLGFs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ourokronii" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@ourokronii</strong></td>
+<td class="title"><a href="https://youtu.be/sT4tuLP6UJQ" target="_blank" title="【ENigmatic Recollection: Chapter 3】Day 1: Things">【ENigmatic Recollection: Chapter 3】Day 1: Things</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('sT4tuLP6UJQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('sT4tuLP6UJQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/ZSkPr-qXud0" target="_blank" title="【ENigmatic Recollection: Chapter 3】he has returned. gon minecraft.">【ENigmatic Recollection: Chapter 3】he has returned. gon minecraft.</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ZSkPr-qXud0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ZSkPr-qXud0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/cLbDjefl2-w" target="_blank" title="【ENigmatic Recollection】Return of the Hero....?【#1】">【ENigmatic Recollection】Return of the Hero....?【#1】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('cLbDjefl2-w','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('cLbDjefl2-w','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/u0Tu7_vfmQo" target="_blank" title="【ENreco Season 3】A fleeting adventure... #kfp #キアライブ">【ENreco Season 3】A fleeting adventure... #kfp #キアライブ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('u0Tu7_vfmQo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('u0Tu7_vfmQo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/rjNDjL6R3-s" target="_blank" title="【ENigmatic Recollection: Chapter 3】Princess Iphania! Where are you?">【ENigmatic Recollection: Chapter 3】Princess Iphania! Where are you?</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rjNDjL6R3-s','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rjNDjL6R3-s','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/M1lDsivuVb8" target="_blank" title="【ENigmatic Recollection】What does the future hold?【Broken Bonds】#enreco">【ENigmatic Recollection】What does the future hold?【Broken Bonds】#enrec</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('M1lDsivuVb8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('M1lDsivuVb8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/ZwqLwWTa98E" target="_blank" title="≪ENigmatic Recollection: Chapter 3≫ Peasantry is always the answer #1">≪ENigmatic Recollection: Chapter 3≫ Peasantry is always the answer #1</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ZwqLwWTa98E','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ZwqLwWTa98E','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_raorapanthera" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@holoen_raorapanthera</strong></td>
+<td class="title"><a href="https://youtu.be/XD-K3AirOdA" target="_blank" title="【ENigmatic Recollection 3】Back to the Beginning">【ENigmatic Recollection 3】Back to the Beginning</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XD-K3AirOdA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XD-K3AirOdA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/YY5EJ_TX-iM" target="_blank" title="【ENIGMATIC RECOLLECTION】time to get this fluffy party started 🐾 #ENreco #hololiveEnglish【FUWAWA POV】">【ENIGMATIC RECOLLECTION】time to get this fluffy party started 🐾 #ENrec</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('YY5EJ_TX-iM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('YY5EJ_TX-iM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/PkPzzhx2hrc" target="_blank" title="【ENIGMATIC RECOLLECTION】time to get this fuzzy party started 🐾 #ENreco #hololiveEnglish【MOCOCO POV】">【ENIGMATIC RECOLLECTION】time to get this fuzzy party started 🐾 #ENreco</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('PkPzzhx2hrc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('PkPzzhx2hrc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/ZzXAmkDHgTY" target="_blank" title="For Personal Reasons I Am 'Evil' 【ENigmatic Recollection: Season 3】">For Personal Reasons I Am 'Evil' 【ENigmatic Recollection: Season 3】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ZzXAmkDHgTY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ZzXAmkDHgTY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/To_P9pUvMRA" target="_blank" title="Shackles Fall | ENReco Ch. 3">Shackles Fall | ENReco Ch. 3</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('To_P9pUvMRA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('To_P9pUvMRA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/jWrom0fcdQk" target="_blank" title="【MINECRAFT RP】cooking up CONTROVERSY with the wandering chef, Mordan Ramsay #calliolive #enreco">【MINECRAFT RP】cooking up CONTROVERSY with the wandering chef, Mordan R</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('jWrom0fcdQk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('jWrom0fcdQk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
+<td><strong>@holoen_erbloodflame</strong></td>
+<td class="title"><a href="https://youtu.be/2rnclFeQ5EM" target="_blank" title="【ENigmatic Recollection】Broken Bonds EP 1 | Lady Bloodflame Roleplay POV 💄">【ENigmatic Recollection】Broken Bonds EP 1 | Lady Bloodflame Roleplay P</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('2rnclFeQ5EM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('2rnclFeQ5EM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260524</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/5BaOYp1EBOI" target="_blank" title="【BAKING COLLAB】let them coooooook #calliolive">【BAKING COLLAB】let them coooooook #calliolive</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('5BaOYp1EBOI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('5BaOYp1EBOI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260522</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/1uk-CA9S3pY" target="_blank" title="【140~165cm】How tall are you? 👯‍♀️💋🗿#hololive #ホロライブ #兎田ぺこら #癒月ちょこ #kosekibijou">【140~165cm】How tall are you? 👯‍♀️💋🗿#hololive #ホロライブ #兎田ぺこら #癒月ちょこ #kos</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('1uk-CA9S3pY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('1uk-CA9S3pY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ninomaeinanis" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260521</td>
+<td><strong>@ninomaeinanis</strong></td>
+<td class="title"><a href="https://youtu.be/9G8nfmcM0lU" target="_blank" title="【#BdayINA2026】H-h-h-hi I-It's My Birthday......!!!!!!">【#BdayINA2026】H-h-h-hi I-It's My Birthday......!!!!!!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('9G8nfmcM0lU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('9G8nfmcM0lU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260521</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/4xxkUEkUCoU" target="_blank" title="【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #calliolive">【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #ca</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4xxkUEkUCoU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4xxkUEkUCoU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_ceciliaimmergreen" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260517</td>
+<td><strong>@holoen_ceciliaimmergreen</strong></td>
+<td class="title"><a href="https://youtu.be/aPSUhJaels0" target="_blank" title="【3D LIVE】THE CCGG NETWORK PART 2 #AUTOFISTNETWORK @holoen_gigimurin">【3D LIVE】THE CCGG NETWORK PART 2 #AUTOFISTNETWORK @holoen_gigimurin</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('aPSUhJaels0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('aPSUhJaels0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260511</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/8NSot19NyjQ" target="_blank" title="【funny moments】水に落ちる子たち #hololive #ホロライブ">【funny moments】水に落ちる子たち #hololive #ホロライブ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('8NSot19NyjQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('8NSot19NyjQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260508</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/PpUAZWAm2GQ" target="_blank" title="【Resident Evil 6】PART TRES  w/ @kosekibijou">【Resident Evil 6】PART TRES  w/ @kosekibijou</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('PpUAZWAm2GQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('PpUAZWAm2GQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/nG8JZuZF9z8" target="_blank" title="ADVENT CAR WASH! + ANNOUNCEMENT | PowerWash Simulator 2">ADVENT CAR WASH! + ANNOUNCEMENT | PowerWash Simulator 2</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nG8JZuZF9z8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nG8JZuZF9z8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/1krRDpCE-J0" target="_blank" title="Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】">Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('1krRDpCE-J0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('1krRDpCE-J0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/XOovxanG7Pg" target="_blank" title="【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】">【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XOovxanG7Pg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XOovxanG7Pg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/rHn3lw8zxHE" target="_blank" title="IT'S MY 3RD BIRTHDAY! #partyvella2026">IT'S MY 3RD BIRTHDAY! #partyvella2026</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rHn3lw8zxHE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rHn3lw8zxHE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260502</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/N7H0CqXGGMg" target="_blank" title="あえんびえん(阿鼻叫喚)を教えてみた‼️🧑‍🏫 #さくらみこ #kosekibijou #takanashikiara #大空スバル #切り抜き #shorts">あえんびえん(阿鼻叫喚)を教えてみた‼️🧑‍🏫 #さくらみこ #kosekibijou #takanashikiara #大空スバル #切り</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('N7H0CqXGGMg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('N7H0CqXGGMg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260429</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/B0DIY2FC3QQ" target="_blank" title="【Resident Evil 6】MUCHO AMOR CHICO GUAPO  w/ @kosekibijou">【Resident Evil 6】MUCHO AMOR CHICO GUAPO  w/ @kosekibijou</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('B0DIY2FC3QQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('B0DIY2FC3QQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shirakamifubuki" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260423</td>
+<td><strong>@shirakamifubuki</strong></td>
+<td class="title"><a href="https://youtu.be/U65iohCoLwU" target="_blank" title="【 Slay the Spire 2 】スレスパ2コラボだあああああああああああああああ!!!!!!!!!!!!!!!!!!! 【白上フブキ/ホロライブ】">【 Slay the Spire 2 】スレスパ2コラボだあああああああああああああああ!!!!!!!!!!!!!!!!!!! 【白上フブキ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('U65iohCoLwU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('U65iohCoLwU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260423</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/-5P17BxVZTE" target="_blank" title="【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ">【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キア</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('-5P17BxVZTE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('-5P17BxVZTE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260418</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/8kGwSPrRqhg" target="_blank" title="【Pragmata】proving I'm the better father figure (part 1) #calliolive">【Pragmata】proving I'm the better father figure (part 1) #calliolive</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('8kGwSPrRqhg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('8kGwSPrRqhg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kureijiollie" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260412</td>
+<td><strong>@kureijiollie</strong></td>
+<td class="title"><a href="https://youtu.be/6DH3wgmRfi0" target="_blank" title="【HYTALE - EN&ID Server】  Pt.2: COLLECTING MATERIALS FOR THE ULTIMATE DOOR!! 【Kureiji Ollie】">【HYTALE - EN&ID Server】  Pt.2: COLLECTING MATERIALS FOR THE ULTIMATE D</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6DH3wgmRfi0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6DH3wgmRfi0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="aniamelfissa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260412</td>
+<td><strong>@aniamelfissa</strong></td>
+<td class="title"><a href="https://youtu.be/qP9yZchmhOc" target="_blank" title="【Hytale】The Continuation of HowlingRager36's Very W(hole)some Adventure【hololive ID | Anya Melfissa】">【Hytale】The Continuation of HowlingRager36's Very W(hole)some Adventur</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('qP9yZchmhOc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('qP9yZchmhOc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260412</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/u7ftEZF9hL0" target="_blank" title="Leaving the Kitchen to Adventure Outdoors 【Hytale】">Leaving the Kitchen to Adventure Outdoors 【Hytale】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('u7ftEZF9hL0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('u7ftEZF9hL0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260411</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/CpxQDfGReak" target="_blank" title="【HYTALE】connecting my hole to mori mines">【HYTALE】connecting my hole to mori mines</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('CpxQDfGReak','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('CpxQDfGReak','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/6qG5QNiAIZw" target="_blank" title="【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members in my book! #kfp #キアライブ">【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members </a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6qG5QNiAIZw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6qG5QNiAIZw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="aniamelfissa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
+<td><strong>@aniamelfissa</strong></td>
+<td class="title"><a href="https://youtu.be/a7X2MKuKZnw" target="_blank" title="【Hytale】Playing Hytale for the First Time in the EN x ID Server!【hololive ID | Anya Melfissa】">【Hytale】Playing Hytale for the First Time in the EN x ID Server!【holol</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('a7X2MKuKZnw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('a7X2MKuKZnw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/j4ls74iK-f8" target="_blank" title="Tally Ho with Tea & Crumpets! 【Hytale】">Tally Ho with Tea & Crumpets! 【Hytale】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('j4ls74iK-f8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('j4ls74iK-f8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/UuX7GWGN98E" target="_blank" title="【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp">【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('UuX7GWGN98E','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('UuX7GWGN98E','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/kE1CKUV5DH4" target="_blank" title="with this, our story comes to an end... or does it? 🐾⚠️ #FUWAMOCO #shorts #ホロライブ #holoAdvent #vtuber">with this, our story comes to an end... or does it? 🐾⚠️ #FUWAMOCO #sho</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('kE1CKUV5DH4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('kE1CKUV5DH4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260408</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/YQeIi1uTT-A" target="_blank" title="【Resident Evil 6】Leon be Chico Guapo w/ @kosekibijou">【Resident Evil 6】Leon be Chico Guapo w/ @kosekibijou</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('YQeIi1uTT-A','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('YQeIi1uTT-A','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260406</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/3Ham5AjZUH4" target="_blank" title="🐣 Finding the best parent of holoEN with @holoen_erbloodflame !">🐣 Finding the best parent of holoEN with @holoen_erbloodflame !</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('3Ham5AjZUH4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('3Ham5AjZUH4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260406</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/yYS0viqotcM" target="_blank" title="【HOLO EN/ID HYTALE】a server just for us!!! Lets start with the basics! #kfp">【HOLO EN/ID HYTALE】a server just for us!!! Lets start with the basics!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('yYS0viqotcM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('yYS0viqotcM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260405</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/k3rGI1jg9J4" target="_blank" title="Building a New Hole for a New World 【Hytale】">Building a New Hole for a New World 【Hytale】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('k3rGI1jg9J4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('k3rGI1jg9J4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="pavoliareine" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260403</td>
+<td><strong>@pavoliareine</strong></td>
+<td class="title"><a href="https://youtu.be/ftZO2mlxV7U" target="_blank" title="【Slay the Spire 2】Biboo Said I Could Steal Her Thumbnail【Pavolia Reine/holoID 2nd gen】">【Slay the Spire 2】Biboo Said I Could Steal Her Thumbnail【Pavolia Reine</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ftZO2mlxV7U','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ftZO2mlxV7U','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kaelakovalskia" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260403</td>
+<td><strong>@kaelakovalskia</strong></td>
+<td class="title"><a href="https://youtu.be/_9aYOmqGtac" target="_blank" title="【Slay the Spire 2】slaying with the girlssssssssssssss">【Slay the Spire 2】slaying with the girlssssssssssssss</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('_9aYOmqGtac','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('_9aYOmqGtac','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/ZWe5oRk-5vg" target="_blank" title="【PROJECT: BREAK OUT】">【PROJECT: BREAK OUT】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ZWe5oRk-5vg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ZWe5oRk-5vg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nerissaravencroft" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
+<td><strong>@nerissaravencroft</strong></td>
+<td class="title"><a href="https://youtu.be/xvj490sNZL8" target="_blank" title="Are you ready?">Are you ready?</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('xvj490sNZL8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('xvj490sNZL8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/bVFmC1Ei1pM" target="_blank" title="(Operation BREAKOUT) The Most Chuuni Edgy Shocking Advent Collab EVEEEER 【VRChat】">(Operation BREAKOUT) The Most Chuuni Edgy Shocking Advent Collab EVEEE</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('bVFmC1Ei1pM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('bVFmC1Ei1pM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/nzI6EmQNqDE" target="_blank" title="【handcam】arts n crafts with mori calli #calliolive">【handcam】arts n crafts with mori calli #calliolive</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nzI6EmQNqDE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nzI6EmQNqDE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kobokanaeru" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260401</td>
+<td><strong>@kobokanaeru</strong></td>
+<td class="title"><a href="https://youtu.be/YFPc1Nk1qzk" target="_blank" title="FUEGO?? FUEGO!! #shorts #vtuber #kobokanaeru  #kosekibijou">FUEGO?? FUEGO!! #shorts #vtuber #kobokanaeru  #kosekibijou</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('YFPc1Nk1qzk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('YFPc1Nk1qzk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakosbaelz" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260329</td>
+<td><strong>@hakosbaelz</strong></td>
+<td class="title"><a href="https://youtu.be/nRyZK4046as" target="_blank" title="≪DRAWN TO DAWN≫ DAY 2 WATCH PARTY!!! #takatori #drawntodawn">≪DRAWN TO DAWN≫ DAY 2 WATCH PARTY!!! #takatori #drawntodawn</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nRyZK4046as','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nRyZK4046as','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260329</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/DvriPOj3mf8" target="_blank" title="What Goes Around is MEEEEE #shorts #music">What Goes Around is MEEEEE #shorts #music</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('DvriPOj3mf8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('DvriPOj3mf8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="moricalliope" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260328</td>
+<td><strong>@moricalliope</strong></td>
+<td class="title"><a href="https://youtu.be/XQwX8Heu0qA" target="_blank" title="【DRAWN TO DAWN】big WATCH PARTY!! Day 1 #calliolive #takotori #drawntodawn">【DRAWN TO DAWN】big WATCH PARTY!! Day 1 #calliolive #takotori #drawntod</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XQwX8Heu0qA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XQwX8Heu0qA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260328</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/T8vdt_dN5Hk" target="_blank" title="the song to listen to after a night-time heist 🐾⚠️ #FUWAMOCO #shorts #ホロライブ #holoAdvent #vtuber">the song to listen to after a night-time heist 🐾⚠️ #FUWAMOCO #shorts #</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('T8vdt_dN5Hk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('T8vdt_dN5Hk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/bgVgVBcsd-U" target="_blank" title="Running People Over with Golf Carts 【Super Battle Golf】">Running People Over with Golf Carts 【Super Battle Golf】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('bgVgVBcsd-U','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('bgVgVBcsd-U','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="holoen_gigimurin" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@holoen_gigimurin</strong></td>
+<td class="title"><a href="https://youtu.be/KSmYVFU0FRI" target="_blank" title="【SUPER BATTLE GOLF】hole in one 😏😏😏😏😏">【SUPER BATTLE GOLF】hole in one 😏😏😏😏😏</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('KSmYVFU0FRI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('KSmYVFU0FRI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kaelakovalskia" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@kaelakovalskia</strong></td>
+<td class="title"><a href="https://youtu.be/BoVbE4adiwk" target="_blank" title="【#3DJAVU】Déjà vu: its all coming back to me now【3D Redebut Live】">【#3DJAVU】Déjà vu: its all coming back to me now【3D Redebut Live】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('BoVbE4adiwk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('BoVbE4adiwk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiorinovella" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@shiorinovella</strong></td>
+<td class="title"><a href="https://youtu.be/52VQN5FvLB4" target="_blank" title="Unchained Because I'm FREEEEE #shorts #music">Unchained Because I'm FREEEEE #shorts #music</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('52VQN5FvLB4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('52VQN5FvLB4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="oozora_subaru" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@oozora_subaru</strong></td>
+<td class="title"><a href="https://youtu.be/qo-ksmQBLDU" target="_blank" title="【#生スバル】ぽこあでメンバーやリスナーさんの町にいくしゅばああああああああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】">【#生スバル】ぽこあでメンバーやリスナーさんの町にいくしゅばああああああああああああああああああああああああああああああああ!!!!!!!【</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('qo-ksmQBLDU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('qo-ksmQBLDU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260325</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/IO6yuu0FysM" target="_blank" title="【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announcement?! 🐾 【FUWAMOCO】">【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big </a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('IO6yuu0FysM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('IO6yuu0FysM','reject')">✗</button>
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 </main>
-<footer>
-<p>Generated by HCAT at 2026-06-22 00:34</p>
-</footer>
+<script>
+const saved = localStorage.getItem('hcat-theme');
+if (saved === 'dark') document.body.classList.add('dark');
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+function filterApps() {
+  const f = document.getElementById('filter').value.toLowerCase().trim();
+  const s = document.getElementById('statusFilter').value;
+  document.querySelectorAll('tbody tr').forEach(r => {
+    const mc = !f || r.dataset.channel.includes(f);
+    const ms = s === 'all' || r.dataset.status === s;
+    r.style.display = mc && ms ? '' : 'none';
+  });
+}
+async function setStatus(vid, action) {
+  const handle = 'kosekibijou';
+  /* static */ console.log(${handle}/${vid}/${action}`, { method: 'POST' });
+  location.reload();
+}
+</script>
 </body>
 </html>
-<script>function filterApps(){const f=document.getElementById("filter").value.toLowerCase();const s=document.getElementById("statusFilter").value;document.querySelectorAll(".app-row").forEach(r=>{const matchChannel=r.dataset.channel.includes(f);const matchStatus=s==="all"||r.dataset.status===s;r.style.display=matchChannel&&matchStatus?"":"none"})}</script>

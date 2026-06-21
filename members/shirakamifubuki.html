@@ -3,952 +3,1946 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hololive Collab Tracker</title>
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<title>@shirakamifubuki — HCAT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
 <style>
-.status-active { color: #2a9d8f; }
-.status-graduated { color: #e76f51; }
-.status-terminated { color: #d62828; }
-.badge { font-size: 0.8em; padding: 2px 6px; border-radius: 4px; }
-.badge-active { background: #e0f4f0; color: #2a9d8f; }
-.badge-graduated { background: #fde8e0; color: #e76f51; }
-.badge-terminated { background: #fce0e0; color: #d62828; }
-.app-row { display: flex; gap: 1em; align-items: center; padding: 0.5em; border-bottom: 1px solid #eee; }
-.app-row:hover { background: #f5f5f5; }
-.app-date { min-width: 100px; color: #666; }
-.app-channel { min-width: 150px; }
-.app-title { flex: 1; }
-.app-status { min-width: 30px; text-align: center; }
-.branch-group { margin-bottom: 2em; }
-.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1em; }
-.member-card { padding: 1em; border: 1px solid #ddd; border-radius: 8px; }
-.member-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-.filter-bar { margin: 1em 0; padding: 1em; background: #f8f9fa; border-radius: 8px; }
+:root {
+  --bg: #f8f9fc;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --text: #1a1d23;
+  --text-2: #6b7280;
+  --border: #e5e7eb;
+  --accent: #8b5cf6;
+  --accent-2: #ec4899;
+  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
+  --shadow: 0 1px 3px rgba(0,0,0,.08);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+.dark {
+  --bg: #0f1117;
+  --surface: #1a1d26;
+  --surface-2: #252833;
+  --text: #e8eaed;
+  --text-2: #9ca3af;
+  --border: #2d3140;
+  --shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  transition: background .3s, color .3s;
+}
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,.85);
+}
+.dark header { background: rgba(15,17,23,.85); }
+header .inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header h1 { font-size: 1.15rem; font-weight: 600; }
+header h1 a { text-decoration: none; color: var(--text); }
+header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+header nav a {
+  text-decoration: none;
+  color: var(--text-2);
+  font-size: .875rem;
+  padding: .4rem .8rem;
+  border-radius: var(--radius-sm);
+  transition: all .2s;
+}
+header nav a:hover { color: var(--text); background: var(--surface-2); }
+.theme-toggle {
+  background: none; border: 1px solid var(--border); color: var(--text-2);
+  cursor: pointer; padding: .4rem .6rem; border-radius: var(--radius-sm); font-size: 1rem;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+
+main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+}
+.profile .avatar {
+  width: 72px; height: 72px;
+  border-radius: 50%;
+  background: var(--gradient);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.75rem; font-weight: 700; color: #fff;
+  flex-shrink: 0;
+}
+.profile .info h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .15rem; }
+.profile .info .handle { font-size: .9rem; color: var(--text-2); }
+.profile .info .meta { display: flex; gap: 1rem; margin-top: .5rem; flex-wrap: wrap; }
+.profile .info .meta span { font-size: .8rem; color: var(--text-2); }
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .75rem;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  text-align: center;
+}
+.stat-card .num { font-size: 1.75rem; font-weight: 700; }
+.stat-card .label { font-size: .75rem; color: var(--text-2); margin-top: .15rem; }
+.stat-card.total .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.stat-card.confirmed .num { color: #34d399; }
+.stat-card.unreviewed .num { color: #fbbf24; }
+
+.filter-bar {
+  display: flex;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+.filter-bar input, .filter-bar select {
+  padding: .5rem .75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font-size: .85rem;
+  font-family: inherit;
+  outline: none;
+}
+.filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
+
+table { width: 100%; border-collapse: separate; border-spacing: 0; }
+thead th {
+  position: sticky;
+  top: 65px;
+  background: var(--surface-2);
+  padding: .75rem .75rem;
+  font-size: .75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-2);
+  text-align: left;
+}
+tbody tr {
+  transition: background .15s;
+}
+tbody tr:hover { background: var(--surface-2); }
+tbody td {
+  padding: .75rem;
+  border-bottom: 1px solid var(--border);
+  font-size: .85rem;
+  vertical-align: middle;
+}
+td .title { max-width: 350px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+td .title a { color: var(--text); text-decoration: none; }
+td .title a:hover { color: var(--accent); }
+.status-badge {
+  display: inline-block;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+  font-size: .7rem;
+  font-weight: 500;
+}
+.status-unreviewed { background: rgba(251,191,36,.12); color: #fbbf24; }
+.status-confirmed { background: rgba(52,211,153,.12); color: #34d399; }
+.status-rejected { background: rgba(248,113,113,.12); color: #f87171; text-decoration: line-through; }
+.btn {
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-2);
+  padding: .3rem .6rem;
+  border-radius: var(--radius-sm);
+  font-size: .8rem;
+  transition: all .15s;
+}
+.btn:hover { border-color: var(--accent); color: var(--text); }
+.btn-confirm:hover { border-color: #34d399; color: #34d399; }
+.btn-reject:hover { border-color: #f87171; color: #f87171; }
+.empty-state {
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-2);
+  font-size: .9rem;
+}
+@media (max-width: 640px) {
+  main { padding: 0 1rem; }
+  .stat-row { grid-template-columns: 1fr; }
+  .profile { flex-direction: column; text-align: center; }
+  td .title { max-width: 180px; }
+}
 </style>
 </head>
 <body>
 <header>
+<div class="inner">
+<h1><a href="../index.html"><span>HCAT</span></a></h1>
 <nav>
-<a href="../">Home</a>
-<a href="../stats.html">Stats</a>
-<a href="../unknowns.html">Unknowns</a>
+<a href="../index.html">Members</a>
+<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
 </nav>
-<h1>Hololive Collab Tracker</h1>
+</div>
 </header>
 <main>
+<div class="profile">
 
-<div style="display:flex;align-items:center;gap:1em;margin-bottom:1em">
-<img src="https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj" alt="" style="width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin-right:1em">
-<div><h2>@shirakamifubuki — Shirakami Fubuki 白上フブキ <span class="badge badge-active">active</span></h2>
-<p>Branch: JP</p></div></div>
-<p>Total: 128 appearances</p>
-<div class="filter-bar">
-<label>Filter: <input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()"></label>
-<label>Show: <select id="statusFilter" onchange="filterApps()"><option value="all">All</option><option value="confirmed">Confirmed</option><option value="unreviewed">Unreviewed</option></select></label>
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj" alt="Shirakami Fubuki 白上フブキ">
+
+<div class="info">
+<h2>Shirakami Fubuki 白上フブキ</h2>
+<div class="handle">@shirakamifubuki</div>
+<div class="meta">
+<span>JP</span>
+
+
 </div>
-<table><thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Method</th><th>Status</th></tr></thead><tbody>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-06-21</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/wICLEm3Og28" target="_blank">【スプラトゥーン3 / サーモンラン】ビッグビッグラン!久しぶりのバイト...ついていけるか?!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="irys" data-status="unreviewed">
-<td class="app-date">2026-06-21</td>
-<td class="app-channel">@irys</td>
-<td class="app-title"><a href="https://youtu.be/3g6NnXverlU" target="_blank">【Splatoon 3】フルパでビッグラン!!Full Party Big Run!!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-06-20</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/6IAnnZCYUsg" target="_blank">【スプラトゥーン3/サーモンラン】ビッグビッグランをフルパで遊ぶど!🐟【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hoshimachisuisei" data-status="unreviewed">
-<td class="app-date">2026-06-19</td>
-<td class="app-channel">@hoshimachisuisei</td>
-<td class="app-title"><a href="https://youtu.be/BhInG5DDZOc" target="_blank">【シュタゲ×謎解き】ネタバレあり‼ #こんこめっと で未来を変える🌌【星街すいせい / #ほしまちすたじお】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ookamimio" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@ookamimio</td>
-<td class="app-title"><a href="https://youtu.be/075Zau9s-mo" target="_blank">【めっちゃカメレオン】創意工夫とユーモアと大胆な心と【大神ミオ視点】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="robocosan" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@robocosan</td>
-<td class="app-title"><a href="https://youtu.be/c4t1B1EFyeI" target="_blank">【めっちゃカメレオン】 初めての #ホロカメレオン  ✨描いて擬態!!見つけて撃つ!!ボクは高性能!!!!【ホロライブ/ ロボ子さん 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/ngZ2bX7-F1g" target="_blank">【めっちゃカメレオン】#ホロカメレオン ヴィヴィ画伯のセンス魅せちゃお!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/-K_aRlUGoLI" target="_blank">【めっちゃカメレオン】描いて擬態しろ‼ みんなでかくれんぼ対決だにぇええええ‼【ホロライブ/さくらみこ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mizumiya_su" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@mizumiya_su</td>
-<td class="app-title"><a href="https://youtu.be/0SXDxkBlLCk" target="_blank">【めっちゃカメレオン】美的センス💮です✋【水宮枢/ホロライブDEV_IS】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@isakiriona</td>
-<td class="app-title"><a href="https://youtu.be/PUZ1fpmGZNc" target="_blank">【めっちゃカメレオン】隠れてたらいいのか・・?壁えええ!初めてのめっちゃカメレオン🎵【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/uH5ZutPgNCc" target="_blank">【めっちゃカメレオン】初!#ホロカメレオン なんだか自信があります!【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hakuikoyori" data-status="unreviewed">
-<td class="app-date">2026-06-18</td>
-<td class="app-channel">@hakuikoyori</td>
-<td class="app-title"><a href="https://youtu.be/9vAlQfrThP8" target="_blank">【めっちゃカメレオン】体に描いて隠れろ!!気になってたヤツやれるはっぴ~~~!!! #ホロカメレオン 【博衣こより視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-06-14</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/TlnviOwLRmk" target="_blank">【アニメ】君だけが​入れる​秘密の​診察室</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-06-13</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/4ACQrpOruq0" target="_blank">【 同時視聴/Watchalong 】『ドラゴンボール超 ブロリー』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="momosuzunene" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@momosuzunene</td>
-<td class="app-title"><a href="https://youtu.be/EgweCO4dIx4" target="_blank">【 めっちゃカメレオン 】ぺこマリフブヴィヴィねねでかくれんぼ対決だぁあああ!【 桃鈴ねね / hololive 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/Ev7udBZyoZQ" target="_blank">【めっちゃカメレオン】みんなで色塗りかくれんぼ!もういいか~い??【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="houshoumarine" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@houshoumarine</td>
-<td class="app-title"><a href="https://youtu.be/TqWv_6PQhGM" target="_blank">【めっちゃカメレオン】画伯勝負!画力で背景に溶け込むゲーム【ホロライブ/宝鐘マリン】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/lx46lmIIPa4" target="_blank">【めっちゃカメレオン】身体に絵を描いて背景に溶け込め!かくれんぼ対決!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@rindo_chihaya</td>
-<td class="app-title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-06-12</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/Phr0zbQ-6dI" target="_blank">裏切りのふぶみこめっとさん… ⁉️#手描き切り抜き #さくらみこ #星街すいせい #白上フブキ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-06-11</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/zRfugM7ZT4M" target="_blank">Soar / 鷹嶺ルイ(official)</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-06-09</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/psxYMWBs4Wg" target="_blank">【R.E.P.O.】今夜はREPOがあるんですか!?【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="aniamelfissa" data-status="unreviewed">
-<td class="app-date">2026-06-09</td>
-<td class="app-channel">@aniamelfissa</td>
-<td class="app-title"><a href="https://youtu.be/XzZYeA9rq0M" target="_blank">【R.E.P.O.】100年ぶりのレポ It's Been 100 Years...【hololive ID 2nd Generation | Anya Mel</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-06-09</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/GuVBpLcec4Q" target="_blank">【 R.E.P.O 】#ホロREPO 今日こそ静かに!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="azki" data-status="unreviewed">
-<td class="app-date">2026-06-09</td>
-<td class="app-channel">@azki</td>
-<td class="app-title"><a href="https://youtu.be/STIVRWTKU4Y" target="_blank">【R.E.P.O.】#ホロREPO お久しぶりれぽ!アプデされた世界へ!!!【ホロライブ / AZKi】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-06-09</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/oE80ATAbrBg" target="_blank">【#ホロREPO】REPO狂い達が集まった!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-06-08</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/US_Aj3ZS8Ws" target="_blank">【30日耐えたら1億】あなたはどの部屋を選びますか? #hololive #ホロライブ #外出禁止 #ご褒美</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="koganei_niko" data-status="unreviewed">
-<td class="app-date">2026-06-06</td>
-<td class="app-channel">@koganei_niko</td>
-<td class="app-title"><a href="https://youtu.be/cWjY92rdma4" target="_blank">【幼稚園児マリパ】この4人、、体が縮んでッ、、、、、【白上フブキ/尾丸ポルカ/響咲リオナ/虎金妃笑虎】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shishirobotan" data-status="unreviewed">
-<td class="app-date">2026-06-05</td>
-<td class="app-channel">@shishirobotan</td>
-<td class="app-title"><a href="https://youtu.be/A8n2oqRXc44" target="_blank">【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shishirobotan" data-status="unreviewed">
-<td class="app-date">2026-06-04</td>
-<td class="app-channel">@shishirobotan</td>
-<td class="app-title"><a href="https://youtu.be/0LM1ocKQs2E" target="_blank">【#ホロ金策サバイバル2】6/5 －5日目の日報！Day5 daily report【獅白ぼたん/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="azki" data-status="unreviewed">
-<td class="app-date">2026-06-04</td>
-<td class="app-channel">@azki</td>
-<td class="app-title"><a href="https://youtu.be/Y5pkKY1KUCU" target="_blank">【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY4💰【ホロライブ / AZKi】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-06-03</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/gSV9jaXfW6w" target="_blank">【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-06-03</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/GzUHaQxbWUM" target="_blank">猫又おかゆの操り人形たち #hololive #ホロライブ #ホロぐら #押したぁ?</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-06-02</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/TB1o1nprSGI" target="_blank">【 3DLIVE 】"アニソン Night Fever２" / 重大告知あり！【 #角巻わため生誕祭2026 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kazamairoha" data-status="unreviewed">
-<td class="app-date">2026-06-02</td>
-<td class="app-channel">@kazamairoha</td>
-<td class="app-title"><a href="https://youtu.be/aHocFufnrVk" target="_blank">【#ホロ金策サバイバル2 】PSにはそれなりに自信があります。傭兵はじめました。【風真いろは/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="azki" data-status="unreviewed">
-<td class="app-date">2026-06-02</td>
-<td class="app-channel">@azki</td>
-<td class="app-title"><a href="https://youtu.be/J4sUueIzqJI" target="_blank">【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY2💰【ホロライブ / AZKi】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-31</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/Mz42k8Jn3UY" target="_blank">【アニメ】煩悩まみれのBAN寸前!相談室!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-05-30</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/HWc03pztGKk" target="_blank">【 同時視聴/Watchalong 】『ドラゴンボールZ 復活の「F」』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-29</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/4RzYnWVy1lg" target="_blank">#ホロドリ 新情報公開特番!~企画の告知も!?~</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-27</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/07qeijidnLU" target="_blank">【Pratfall】 #かみぬい で穴を掘る【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-23</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/3RtcZpd0fPY" target="_blank">【 R.E.P.O. 】ソロかもしれないし、ソロじゃないかもしれない!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
-<td class="app-date">2026-05-23</td>
-<td class="app-channel">@rindo_chihaya</td>
-<td class="app-title"><a href="https://youtu.be/3hsBXKuQNAw" target="_blank">【#ホロREPO】REPOでおしゃれできんの!??!?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-05-23</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/pZE1lyKt4FM" target="_blank">【#ホロREPO】ころね支店だよ~~~~~ん</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-05-23</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/CQiIcAlv5Fc" target="_blank">【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-23</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/BDLLhRpeC-I" target="_blank">【 R.E.P.O 】静かに!RE 先輩についていくR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-05-22</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/Mea0zHPyYVI" target="_blank">【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-05-21</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/K1kFI1r3VxE" target="_blank">【R.E.P.O】ころね支店</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-21</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/fKgfp1jEMi0" target="_blank">【 R.E.P.O. 】今日は、REPOが.........................ありま.....あああああす!!!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-21</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/krCjDue9l2Y" target="_blank">【R.E.P.O.】今夜のREPOはここですか【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-20</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/_5z-U5FXuG8" target="_blank">【あるある】苦労人の一日 #大神ミオ #hololive #ホロライブ #叫んだのは🤖#happyend</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tokoyamitowa" data-status="unreviewed">
-<td class="app-date">2026-05-19</td>
-<td class="app-channel">@tokoyamitowa</td>
-<td class="app-title"><a href="https://youtu.be/OBKOI7DA-xU" target="_blank">【 R.E.P.O. 】 大型アプデが入ってから初めての…!✨️先輩教えてください‼️ 【常闇トワ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-05-19</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/4a-BI-tcaqc" target="_blank">【R.E.P.O.】オシャレになりたい!ぺこーらちゃん!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-19</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/aK3LZmLeAEY" target="_blank">【 R.E.P.O 】うるさくしないR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-19</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/0OvFzdAbNw8" target="_blank">【R.E.P.O.】コスメティック探し妖怪です!コスメティックはどこですか!?【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-17</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/1T53vimbwUU" target="_blank">【 R.E.P.O. 】REPO妖怪達が、初めてのLv.20 スーパームーンに挑む!!!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="omarupolka" data-status="unreviewed">
-<td class="app-date">2026-05-17</td>
-<td class="app-channel">@omarupolka</td>
-<td class="app-title"><a href="https://youtu.be/dK_Cq9l8uDs" target="_blank">【R.E.P.O.】ついにまだ見ぬステージへ!!!20LV🌕️スーパームーン!!!【尾丸ポルカ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-17</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/81Mo8Xi7r8Q" target="_blank">【R.E.P.O.】#バカタレサーカス 初のLv20!スーパームーン🌙【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-05-16</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/4QRrdts900E" target="_blank">【 同時視聴/Watchalong 】『ドラゴンボールZ 神と神』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="omarupolka" data-status="unreviewed">
-<td class="app-date">2026-05-15</td>
-<td class="app-channel">@omarupolka</td>
-<td class="app-title"><a href="https://youtu.be/qUBN3y_1Aeo" target="_blank">【R.E.P.O.】なんかこのメンツ遊んだ希ガス・・・バカタレPOサーカス!!!!【尾丸ポルカ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-15</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/5tZ7ykPTr0M" target="_blank">【R.E.P.O.】#バカタレサーカス レポ妖怪たちのおと~りだ~【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-15</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/coqk7GVG_zc" target="_blank">【 R.E.P.O. 】REPO妖怪達のお通りだ!!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-15</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/b9JHMOT-QXs" target="_blank">ガンダム×ホロライブプロダクション スペシャルコラボレーション 続報</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-05-13</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/BO6A-bmRn48" target="_blank">【 R.E.P.O. 】レポ緊急参戦しまぁす!!!!!!!!!【ホロライブ/さくらみこ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-13</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/fpAghP4E344" target="_blank">【 R.E.P.O. 】ご褒美REPOきちゃー!!!今日はおやすまない羊【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-13</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/pozpz-dY5k8" target="_blank">【R.E.P.O.】今夜のRepo会です!今夜も事件の香りがします【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-05-12</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/qei-JemNbKs" target="_blank">【#ホロREPO】ころね支店【三夜連続放送】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-12</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/MFmVVza7J3c" target="_blank">【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-05-12</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/mH6IHONFkoo" target="_blank">【R.E.P.O.】赤がほしい!赤が!!!!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-12</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/GGQgFY3Yhaw" target="_blank">【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-11</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/ahmDnSLDFdI" target="_blank">【 R.E.P.O. 】コスメティックビューティーわため、途中参戦予定地!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-11</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/eRl_c5jkWJs" target="_blank">【 R.E.P.O. 】静かに…!先輩についていく!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-05-11</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/rG-LsHPgiRU" target="_blank">【#ホロREPO】ころね支店【二夜連続放送】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-11</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/WidILsQvDww" target="_blank">【R.E.P.O.】今日のRepoはどこですか!?ここですか?!【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
-<td class="app-date">2026-05-10</td>
-<td class="app-channel">@tsunomakiwatame</td>
-<td class="app-title"><a href="https://youtu.be/fzLjFXgHZNk" target="_blank">【 R.E.P.O. 】アプデが来た!コスメティックというものがあるらしい!【角巻わため/ホロライブ4期生】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-10</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/U4JPIg9oNyo" target="_blank">【 R.E.P.O. 】先輩についていく…!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-05-10</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/xACiaNiqF2Q" target="_blank">【R.E.P.O.】可愛い服探しするらしいです!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-05-10</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/L72BjD9koe0" target="_blank">【R.E.P.O.】ころね支店【#突発ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-05-10</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/TRGzcHpOX8M" target="_blank">【R.E.P.O.】コスメティック探し妖怪です!Repoさせてください【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-05-09</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/D6Bba9kmchI" target="_blank">【#UNOLIVE】UNOの時間じゃぁあああああああああああ!!!【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-08</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/3chWVfPbMfU" target="_blank">【#ホロREPO】久しぶりR.E.P.O.ヴィヴィ戦力外です!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="akirose" data-status="unreviewed">
-<td class="app-date">2026-05-08</td>
-<td class="app-channel">@akirose</td>
-<td class="app-title"><a href="https://youtu.be/tPDIih-eMSI" target="_blank">【 #ホロREPO 】突発ゲリラれぽ!w.白上フブキ/夏色まつり/綺々羅々ヴィヴィ/不知火フレア【ホロライブ/アキロゼ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-05-08</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/BkdSos_fWj0" target="_blank">【R.E.P.O.】突発!アプデきちゃああああああ!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-05-06</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/1wJeZPQ5-nw" target="_blank">【3D】あやふぶみこ地獄すごろく終わらないと出られない部屋【#あやふぶみこ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-05-06</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/d3YAjJsztKY" target="_blank">Wink meme😉#hololive #ホロライブ #shorts</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nekomataokayu" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@nekomataokayu</td>
-<td class="app-title"><a href="https://youtu.be/i_LOysvDaR8" target="_blank">【 AmongUs/#無礼講アモアス 】本日無礼講🔥SUS!!SUS!!SUS!!【 猫又おかゆ視点/ホロライブ 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/XKl0E-rJXNg" target="_blank">【#無礼講アモアス】Among Us楽しむぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@isakiriona</td>
-<td class="app-title"><a href="https://youtu.be/0Xeeb24jr08" target="_blank">【無礼講Among us】ちーーっす!!ういーっす!・・・無礼講ってこんな感じ(;'∀')?【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="azki" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@azki</td>
-<td class="app-title"><a href="https://youtu.be/r04a_hBwFWU" target="_blank">【Among Us】今日は無礼講です。ゲス―― #無礼講アモアス 【ホロライブ / AZKi】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="usadapekora" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@usadapekora</td>
-<td class="app-title"><a href="https://youtu.be/Yr4O3ol4Ib4" target="_blank">【AmongUs】ゴールデンウィークは無礼講アモアスやるぞ!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="yukihanalamy" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@yukihanalamy</td>
-<td class="app-title"><a href="https://youtu.be/N5ijkems8f0" target="_blank">【#無礼講アモアス】GWは無礼講!!AmongUsで暴れるぞ!!【雪花ラミィ /ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shishirobotan" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@shishirobotan</td>
-<td class="app-title"><a href="https://youtu.be/nmdGo_KLZeg" target="_blank">ホロメンが全力でつくった知育菓子を見てくれ!! #ししろんのゴールデンなウィーク ④【獅白ぼたん/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tokoyamitowa" data-status="unreviewed">
-<td class="app-date">2026-05-05</td>
-<td class="app-channel">@tokoyamitowa</td>
-<td class="app-title"><a href="https://youtu.be/J_VqySsby34" target="_blank">【Cursed Companions / 切り抜き】音声認識に苦戦する様子や声が変になった味方に笑いが止まらない常闇トワ #ホロコンパニオンズ【ホロライブ/常闇</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
-<td class="app-date">2026-05-04</td>
-<td class="app-channel">@oozora_subaru</td>
-<td class="app-title"><a href="https://youtu.be/Y1KcVSZK-TA" target="_blank">【#生スバル】モノマネを…教えてください先生!!!GWモノマネ凸待ちしゅばああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hoshimachisuisei" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@hoshimachisuisei</td>
-<td class="app-title"><a href="https://youtu.be/rUwgQP6jOHE" target="_blank">【 Cursed Companions 】隠されたNGワードを避けながら呪文を唱えてダンジョン攻略するゲーム【星街すいせい / #ほしまちすたじお】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tokoyamitowa" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@tokoyamitowa</td>
-<td class="app-title"><a href="https://youtu.be/Cuqg1HafZFk" target="_blank">【 Cursed Companions 】NGワードでも4ってマジ…❔️【常闇トワ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/F6kWMYER6LE" target="_blank">【Cursed Companions】NGワードを言うと仲間が爆滅してしまうホラゲー!?? 【#ホロコンパニオンズ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nakiri_ayame" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@nakiri_ayame</td>
-<td class="app-title"><a href="https://youtu.be/cHe1fVaXqEk" target="_blank">【Cursed Companions】NGワードで仲間が消滅!?!?【百鬼あやめ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ookamimio" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@ookamimio</td>
-<td class="app-title"><a href="https://youtu.be/J18vAG198XI" target="_blank">【Cursed Companions】魔法を唱えてクリアしよう!※NGワード有※【大神ミオ視点】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@isakiriona</td>
-<td class="app-title"><a href="https://youtu.be/k9zaSWSIjLo" target="_blank">【Cursed Companions】NGワードで即死!?喋らなかったらいける・・ほな得意か・・!ってダメでしょおお!【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@rindo_chihaya</td>
-<td class="app-title"><a href="https://youtu.be/aJ_IkMY0Vgs" target="_blank">【Cursed Companions】NGワード言わないように!?!?!?#ホロコンパニオンズ 【輪堂千速 / #hololivedev_is  #FLOWGL</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-05-03</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/XOovxanG7Pg" target="_blank">【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-04-29</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/4adkOs-dXm0" target="_blank">Daily lifehack! 🍾🍮/ 日常で使えるライフハック集 #hololive #ホロライブ #納豆</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nekomataokayu" data-status="unreviewed">
-<td class="app-date">2026-04-27</td>
-<td class="app-channel">@nekomataokayu</td>
-<td class="app-title"><a href="https://youtu.be/nGyhht1rLi8" target="_blank">【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="ookamimio" data-status="unreviewed">
-<td class="app-date">2026-04-24</td>
-<td class="app-channel">@ookamimio</td>
-<td class="app-title"><a href="https://youtu.be/HIuF4Cr5sI8" target="_blank">【マリパ】全員が大神ミオのマリパってどういうこと?【 #ホロライブゲーマーズ  】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kosekibijou" data-status="unreviewed">
-<td class="app-date">2026-04-23</td>
-<td class="app-channel">@kosekibijou</td>
-<td class="app-title"><a href="https://youtu.be/Rn12P_c5mYc" target="_blank">【Slay the Spire 2 COLLAB】play the pyre</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanashikiara" data-status="unreviewed">
-<td class="app-date">2026-04-23</td>
-<td class="app-channel">@takanashikiara</td>
-<td class="app-title"><a href="https://youtu.be/-5P17BxVZTE" target="_blank">【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nakiri_ayame" data-status="unreviewed">
-<td class="app-date">2026-04-22</td>
-<td class="app-channel">@nakiri_ayame</td>
-<td class="app-title"><a href="https://youtu.be/9QzgnlmSdJY" target="_blank">【School 666】みんなで協力して生き残れ!?【百鬼あやめ視点/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
-<td class="app-date">2026-04-22</td>
-<td class="app-channel">@oozora_subaru</td>
-<td class="app-title"><a href="https://youtu.be/ttdZdjucW5M" target="_blank">【#生スバル】みんなでホラゲーやるしゅばああああああああああああああああああああああああああああ!!!：school666【ホロライブ/大空スバル】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nekomataokayu" data-status="unreviewed">
-<td class="app-date">2026-04-22</td>
-<td class="app-channel">@nekomataokayu</td>
-<td class="app-title"><a href="https://youtu.be/wz89TnYZQ44" target="_blank">【 school666 】異変だらけの学校をみんなで脱出しよう🏫✦【 猫又おかゆ視点/ホロライブ 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-04-19</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/4U2g7amGZCI" target="_blank">【アニメ】ゆる​キャラちぎってみた</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-04-15</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/oe3Il8RDqiI" target="_blank">The team play🍅 / これがチームプレーだ! #hololive #ホロライブ #ホロライブゲーマーズ</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="tokoyamitowa" data-status="unreviewed">
-<td class="app-date">2026-04-15</td>
-<td class="app-channel">@tokoyamitowa</td>
-<td class="app-title"><a href="https://youtu.be/6eGPqyqYDqc" target="_blank">【R.E.P.O. / 切り抜き】新しい敵キャラに絶叫したりリオナの天丼芸に大爆笑したりする常闇トワ#突発ホロREPO【ホロライブ/常闇トワ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
-<td class="app-date">2026-04-14</td>
-<td class="app-channel">@isakiriona</td>
-<td class="app-title"><a href="https://youtu.be/djcdtlW3N34" target="_blank">【#突発ホロREPO】参加させてくださああああああああああああああい【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
-<td class="app-date">2026-04-11</td>
-<td class="app-channel">@mococo_abyssgard</td>
-<td class="app-title"><a href="https://youtu.be/G9kMF-5nwvs" target="_blank">【PHASMOPHOBIA COLLAB with MATSURI, FUBUKI, RIONA】ドアを守るのはモココだ…!こ、怖くないよ…!!🐾【MOCOCO</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
-<td class="app-date">2026-04-11</td>
-<td class="app-channel">@isakiriona</td>
-<td class="app-title"><a href="https://youtu.be/uBRy-xIqwl4" target="_blank">【Phasmophobia】幽霊調査っ♡先輩たち助けてええええ(´;ω;`)【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="natsuiromatsuri" data-status="unreviewed">
-<td class="app-date">2026-04-11</td>
-<td class="app-channel">@natsuiromatsuri</td>
-<td class="app-title"><a href="https://youtu.be/5M10Z3xv4NQ" target="_blank">【Phasmophobia】夏色吹雪見守り隊!さぁ、モコリオナ行っておいで!【ホロライブ/夏色まつり】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
-<td class="app-date">2026-04-02</td>
-<td class="app-channel">@shiranuiflare</td>
-<td class="app-title"><a href="https://youtu.be/FgA6hgxJH4I" target="_blank">【 #不知火フレア生誕祭2026 】BEMANI楽曲3D LIVE!みんなで盛り上がれ!【不知火フレア/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-04-01</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/24KrBOnf9rw" target="_blank">けもももももも! (Instrumental)</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="hololive" data-status="unreviewed">
-<td class="app-date">2026-04-01</td>
-<td class="app-channel">@hololive</td>
-<td class="app-title"><a href="https://youtu.be/GsfzgqEcMjc" target="_blank">けもももももも!</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kazamairoha" data-status="unreviewed">
-<td class="app-date">2026-04-01</td>
-<td class="app-channel">@kazamairoha</td>
-<td class="app-title"><a href="https://youtu.be/B9UabapLhqQ" target="_blank">【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-03-31</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/nLqDnhEp75Q" target="_blank">🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nekomataokayu" data-status="unreviewed">
-<td class="app-date">2026-03-31</td>
-<td class="app-channel">@nekomataokayu</td>
-<td class="app-title"><a href="https://youtu.be/7x6xX5n1x6Q" target="_blank">本日、姉妹がやってくる ―――</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
-<td class="app-date">2026-03-29</td>
-<td class="app-channel">@oozora_subaru</td>
-<td class="app-title"><a href="https://youtu.be/NfJsoMi1y0s" target="_blank">【#大空スバル7周年LIVE】大空スバル 7th 記念LIVE ラブミ❣：7th anniversary live【ホロライブ/大空スバル】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
-<td class="app-date">2026-03-27</td>
-<td class="app-channel">@kikirara_vivi</td>
-<td class="app-title"><a href="https://youtu.be/J6fTfIoHmbM" target="_blank">【 告知あり!】初めての逆凸待ち…!緊張しています!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
-<td class="app-date">2026-03-26</td>
-<td class="app-channel">@takanelui</td>
-<td class="app-title"><a href="https://youtu.be/YIwgfu5_EKo" target="_blank">【 同時視聴/Watchalong 】『ハリーポッターと死の秘宝Part2』視聴会。未履修おかゆにハリポタを布教!【 #ホロハリポタ布教部 /ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
-<td class="app-date">2026-03-25</td>
-<td class="app-channel">@sakuramiko</td>
-<td class="app-title"><a href="https://youtu.be/98TzmWoOgH8" target="_blank">【#突発ホロライブ】突発ホロライブでR.E.P.Oあそぶぜぇええええ!【ホロライブ/さくらみこ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
-<td class="app-date">2026-03-25</td>
-<td class="app-channel">@inugamikorone</td>
-<td class="app-title"><a href="https://youtu.be/KwpmnVk8860" target="_blank">【#突発ホロライブ】ころね支店【R.E.P.O. 】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-<tr class="app-row" data-channel="nakiri_ayame" data-status="unreviewed">
-<td class="app-date">2026-03-25</td>
-<td class="app-channel">@nakiri_ayame</td>
-<td class="app-title"><a href="https://youtu.be/HWfkOXe3ThY" target="_blank">【R.E.P.O.】突発R.E.P.O.コラボ!?!?!?!?【百鬼あやめ/ホロライブ】</a></td>
-<td>holodex_collab</td>
-<td class="app-status">◇</td>
-</tr>
-</tbody></table>
+</div>
+</div>
+
+<div class="stat-row">
+<div class="stat-card total">
+<div class="num">128</div>
+<div class="label">Total</div>
+</div>
+<div class="stat-card confirmed">
+<div class="num">0</div>
+<div class="label">Confirmed</div>
+</div>
+<div class="stat-card unreviewed">
+<div class="num">128</div>
+<div class="label">Unreviewed</div>
+</div>
+</div>
+
+
+<div class="filter-bar">
+<input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()">
+<select id="statusFilter" onchange="filterApps()">
+<option value="all">All</option>
+<option value="unreviewed">Unreviewed</option>
+<option value="confirmed">Confirmed</option>
+<option value="rejected">Rejected</option>
+</select>
+</div>
+<table>
+<thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Status</th><th></th></tr></thead>
+<tbody>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260621</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/wICLEm3Og28" target="_blank" title="【スプラトゥーン3 / サーモンラン】ビッグビッグラン!久しぶりのバイト...ついていけるか?!【角巻わため/ホロライブ4期生】">【スプラトゥーン3 / サーモンラン】ビッグビッグラン!久しぶりのバイト...ついていけるか?!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('wICLEm3Og28','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('wICLEm3Og28','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="irys" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260621</td>
+<td><strong>@irys</strong></td>
+<td class="title"><a href="https://youtu.be/3g6NnXverlU" target="_blank" title="【Splatoon 3】フルパでビッグラン!!Full Party Big Run!!">【Splatoon 3】フルパでビッグラン!!Full Party Big Run!!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('3g6NnXverlU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('3g6NnXverlU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260620</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/6IAnnZCYUsg" target="_blank" title="【スプラトゥーン3/サーモンラン】ビッグビッグランをフルパで遊ぶど!🐟【不知火フレア/ホロライブ】">【スプラトゥーン3/サーモンラン】ビッグビッグランをフルパで遊ぶど!🐟【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6IAnnZCYUsg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6IAnnZCYUsg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hoshimachisuisei" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260619</td>
+<td><strong>@hoshimachisuisei</strong></td>
+<td class="title"><a href="https://youtu.be/BhInG5DDZOc" target="_blank" title="【シュタゲ×謎解き】ネタバレあり‼ #こんこめっと で未来を変える🌌【星街すいせい / #ほしまちすたじお】">【シュタゲ×謎解き】ネタバレあり‼ #こんこめっと で未来を変える🌌【星街すいせい / #ほしまちすたじお】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('BhInG5DDZOc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('BhInG5DDZOc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ookamimio" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@ookamimio</strong></td>
+<td class="title"><a href="https://youtu.be/075Zau9s-mo" target="_blank" title="【めっちゃカメレオン】創意工夫とユーモアと大胆な心と【大神ミオ視点】">【めっちゃカメレオン】創意工夫とユーモアと大胆な心と【大神ミオ視点】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('075Zau9s-mo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('075Zau9s-mo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="robocosan" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@robocosan</strong></td>
+<td class="title"><a href="https://youtu.be/c4t1B1EFyeI" target="_blank" title="【めっちゃカメレオン】 初めての #ホロカメレオン  ✨描いて擬態!!見つけて撃つ!!ボクは高性能!!!!【ホロライブ/ ロボ子さん 】">【めっちゃカメレオン】 初めての #ホロカメレオン  ✨描いて擬態!!見つけて撃つ!!ボクは高性能!!!!【ホロライブ/ ロボ子さん 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('c4t1B1EFyeI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('c4t1B1EFyeI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/ngZ2bX7-F1g" target="_blank" title="【めっちゃカメレオン】#ホロカメレオン ヴィヴィ画伯のセンス魅せちゃお!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【めっちゃカメレオン】#ホロカメレオン ヴィヴィ画伯のセンス魅せちゃお!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGL</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ngZ2bX7-F1g','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ngZ2bX7-F1g','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/-K_aRlUGoLI" target="_blank" title="【めっちゃカメレオン】描いて擬態しろ‼ みんなでかくれんぼ対決だにぇええええ‼【ホロライブ/さくらみこ】">【めっちゃカメレオン】描いて擬態しろ‼ みんなでかくれんぼ対決だにぇええええ‼【ホロライブ/さくらみこ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('-K_aRlUGoLI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('-K_aRlUGoLI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mizumiya_su" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@mizumiya_su</strong></td>
+<td class="title"><a href="https://youtu.be/0SXDxkBlLCk" target="_blank" title="【めっちゃカメレオン】美的センス💮です✋【水宮枢/ホロライブDEV_IS】">【めっちゃカメレオン】美的センス💮です✋【水宮枢/ホロライブDEV_IS】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('0SXDxkBlLCk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('0SXDxkBlLCk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="isakiriona" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@isakiriona</strong></td>
+<td class="title"><a href="https://youtu.be/PUZ1fpmGZNc" target="_blank" title="【めっちゃカメレオン】隠れてたらいいのか・・?壁えええ!初めてのめっちゃカメレオン🎵【ホロライブ DEV_IS 響咲リオナ】">【めっちゃカメレオン】隠れてたらいいのか・・?壁えええ!初めてのめっちゃカメレオン🎵【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('PUZ1fpmGZNc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('PUZ1fpmGZNc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/uH5ZutPgNCc" target="_blank" title="【めっちゃカメレオン】初!#ホロカメレオン なんだか自信があります!【ホロライブ/夏色まつり】">【めっちゃカメレオン】初!#ホロカメレオン なんだか自信があります!【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('uH5ZutPgNCc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('uH5ZutPgNCc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hakuikoyori" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
+<td><strong>@hakuikoyori</strong></td>
+<td class="title"><a href="https://youtu.be/9vAlQfrThP8" target="_blank" title="【めっちゃカメレオン】体に描いて隠れろ!!気になってたヤツやれるはっぴ~~~!!! #ホロカメレオン 【博衣こより視点/ホロライブ】">【めっちゃカメレオン】体に描いて隠れろ!!気になってたヤツやれるはっぴ~~~!!! #ホロカメレオン 【博衣こより視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('9vAlQfrThP8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('9vAlQfrThP8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260614</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/TlnviOwLRmk" target="_blank" title="【アニメ】君だけが​入れる​秘密の​診察室">【アニメ】君だけが​入れる​秘密の​診察室</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('TlnviOwLRmk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('TlnviOwLRmk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260613</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/4ACQrpOruq0" target="_blank" title="【 同時視聴/Watchalong 】『ドラゴンボール超 ブロリー』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】">【 同時視聴/Watchalong 】『ドラゴンボール超 ブロリー』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4ACQrpOruq0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4ACQrpOruq0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="momosuzunene" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@momosuzunene</strong></td>
+<td class="title"><a href="https://youtu.be/EgweCO4dIx4" target="_blank" title="【 めっちゃカメレオン 】ぺこマリフブヴィヴィねねでかくれんぼ対決だぁあああ!【 桃鈴ねね / hololive 】">【 めっちゃカメレオン 】ぺこマリフブヴィヴィねねでかくれんぼ対決だぁあああ!【 桃鈴ねね / hololive 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('EgweCO4dIx4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('EgweCO4dIx4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/Ev7udBZyoZQ" target="_blank" title="【めっちゃカメレオン】みんなで色塗りかくれんぼ!もういいか~い??【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【めっちゃカメレオン】みんなで色塗りかくれんぼ!もういいか~い??【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Ev7udBZyoZQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Ev7udBZyoZQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="houshoumarine" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@houshoumarine</strong></td>
+<td class="title"><a href="https://youtu.be/TqWv_6PQhGM" target="_blank" title="【めっちゃカメレオン】画伯勝負!画力で背景に溶け込むゲーム【ホロライブ/宝鐘マリン】">【めっちゃカメレオン】画伯勝負!画力で背景に溶け込むゲーム【ホロライブ/宝鐘マリン】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('TqWv_6PQhGM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('TqWv_6PQhGM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/lx46lmIIPa4" target="_blank" title="【めっちゃカメレオン】身体に絵を描いて背景に溶け込め!かくれんぼ対決!ぺこ!【ホロライブ/兎田ぺこら】">【めっちゃカメレオン】身体に絵を描いて背景に溶け込め!かくれんぼ対決!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('lx46lmIIPa4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('lx46lmIIPa4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="rindo_chihaya" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@rindo_chihaya</strong></td>
+<td class="title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank" title="【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('fvVFdWOHOdU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('fvVFdWOHOdU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/Phr0zbQ-6dI" target="_blank" title="裏切りのふぶみこめっとさん… ⁉️#手描き切り抜き #さくらみこ #星街すいせい #白上フブキ">裏切りのふぶみこめっとさん… ⁉️#手描き切り抜き #さくらみこ #星街すいせい #白上フブキ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Phr0zbQ-6dI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Phr0zbQ-6dI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260611</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/zRfugM7ZT4M" target="_blank" title="Soar / 鷹嶺ルイ(official)">Soar / 鷹嶺ルイ(official)</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('zRfugM7ZT4M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('zRfugM7ZT4M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260609</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/psxYMWBs4Wg" target="_blank" title="【R.E.P.O.】今夜はREPOがあるんですか!?【不知火フレア/ホロライブ】">【R.E.P.O.】今夜はREPOがあるんですか!?【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('psxYMWBs4Wg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('psxYMWBs4Wg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="aniamelfissa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260609</td>
+<td><strong>@aniamelfissa</strong></td>
+<td class="title"><a href="https://youtu.be/XzZYeA9rq0M" target="_blank" title="【R.E.P.O.】100年ぶりのレポ It's Been 100 Years...【hololive ID 2nd Generation | Anya Melfissa】">【R.E.P.O.】100年ぶりのレポ It's Been 100 Years...【hololive ID 2nd Generation </a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XzZYeA9rq0M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XzZYeA9rq0M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260609</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/GuVBpLcec4Q" target="_blank" title="【 R.E.P.O 】#ホロREPO 今日こそ静かに!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O 】#ホロREPO 今日こそ静かに!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('GuVBpLcec4Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('GuVBpLcec4Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="azki" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260609</td>
+<td><strong>@azki</strong></td>
+<td class="title"><a href="https://youtu.be/STIVRWTKU4Y" target="_blank" title="【R.E.P.O.】#ホロREPO お久しぶりれぽ!アプデされた世界へ!!!【ホロライブ / AZKi】">【R.E.P.O.】#ホロREPO お久しぶりれぽ!アプデされた世界へ!!!【ホロライブ / AZKi】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('STIVRWTKU4Y','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('STIVRWTKU4Y','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260609</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/oE80ATAbrBg" target="_blank" title="【#ホロREPO】REPO狂い達が集まった!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】">【#ホロREPO】REPO狂い達が集まった!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('oE80ATAbrBg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('oE80ATAbrBg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260608</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/US_Aj3ZS8Ws" target="_blank" title="【30日耐えたら1億】あなたはどの部屋を選びますか? #hololive #ホロライブ #外出禁止 #ご褒美">【30日耐えたら1億】あなたはどの部屋を選びますか? #hololive #ホロライブ #外出禁止 #ご褒美</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('US_Aj3ZS8Ws','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('US_Aj3ZS8Ws','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="koganei_niko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260606</td>
+<td><strong>@koganei_niko</strong></td>
+<td class="title"><a href="https://youtu.be/cWjY92rdma4" target="_blank" title="【幼稚園児マリパ】この4人、、体が縮んでッ、、、、、【白上フブキ/尾丸ポルカ/響咲リオナ/虎金妃笑虎】">【幼稚園児マリパ】この4人、、体が縮んでッ、、、、、【白上フブキ/尾丸ポルカ/響咲リオナ/虎金妃笑虎】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('cWjY92rdma4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('cWjY92rdma4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shishirobotan" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260605</td>
+<td><strong>@shishirobotan</strong></td>
+<td class="title"><a href="https://youtu.be/A8n2oqRXc44" target="_blank" title="【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】">【#ホロ金策サバイバル2】6/5 -5日目の日報!Day5 daily report【獅白ぼたん/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('A8n2oqRXc44','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('A8n2oqRXc44','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shishirobotan" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260604</td>
+<td><strong>@shishirobotan</strong></td>
+<td class="title"><a href="https://youtu.be/0LM1ocKQs2E" target="_blank" title="【#ホロ金策サバイバル2】6/5 －5日目の日報！Day5 daily report【獅白ぼたん/ホロライブ】">【#ホロ金策サバイバル2】6/5 －5日目の日報！Day5 daily report【獅白ぼたん/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('0LM1ocKQs2E','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('0LM1ocKQs2E','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="azki" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260604</td>
+<td><strong>@azki</strong></td>
+<td class="title"><a href="https://youtu.be/Y5pkKY1KUCU" target="_blank" title="【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY4💰【ホロライブ / AZKi】">【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY4💰【ホロライブ / AZKi】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Y5pkKY1KUCU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Y5pkKY1KUCU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260603</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/gSV9jaXfW6w" target="_blank" title="【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】">【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('gSV9jaXfW6w','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('gSV9jaXfW6w','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260603</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/GzUHaQxbWUM" target="_blank" title="猫又おかゆの操り人形たち #hololive #ホロライブ #ホロぐら #押したぁ?">猫又おかゆの操り人形たち #hololive #ホロライブ #ホロぐら #押したぁ?</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('GzUHaQxbWUM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('GzUHaQxbWUM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260602</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/TB1o1nprSGI" target="_blank" title="【 3DLIVE 】"アニソン Night Fever２" / 重大告知あり！【 #角巻わため生誕祭2026 】">【 3DLIVE 】"アニソン Night Fever２" / 重大告知あり！【 #角巻わため生誕祭2026 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('TB1o1nprSGI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('TB1o1nprSGI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kazamairoha" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260602</td>
+<td><strong>@kazamairoha</strong></td>
+<td class="title"><a href="https://youtu.be/aHocFufnrVk" target="_blank" title="【#ホロ金策サバイバル2 】PSにはそれなりに自信があります。傭兵はじめました。【風真いろは/ホロライブ】">【#ホロ金策サバイバル2 】PSにはそれなりに自信があります。傭兵はじめました。【風真いろは/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('aHocFufnrVk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('aHocFufnrVk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="azki" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260602</td>
+<td><strong>@azki</strong></td>
+<td class="title"><a href="https://youtu.be/J4sUueIzqJI" target="_blank" title="【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY2💰【ホロライブ / AZKi】">【Minecraft】#ホロ金策サバイバル2 今日から始めるホロ金策生活!!!!!!DAY2💰【ホロライブ / AZKi】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('J4sUueIzqJI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('J4sUueIzqJI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260531</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/Mz42k8Jn3UY" target="_blank" title="【アニメ】煩悩まみれのBAN寸前!相談室!">【アニメ】煩悩まみれのBAN寸前!相談室!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Mz42k8Jn3UY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Mz42k8Jn3UY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260530</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/HWc03pztGKk" target="_blank" title="【 同時視聴/Watchalong 】『ドラゴンボールZ 復活の「F」』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】">【 同時視聴/Watchalong 】『ドラゴンボールZ 復活の「F」』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('HWc03pztGKk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('HWc03pztGKk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260529</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/4RzYnWVy1lg" target="_blank" title="#ホロドリ 新情報公開特番!~企画の告知も!?~">#ホロドリ 新情報公開特番!~企画の告知も!?~</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4RzYnWVy1lg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4RzYnWVy1lg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260527</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/07qeijidnLU" target="_blank" title="【Pratfall】 #かみぬい で穴を掘る【不知火フレア/ホロライブ】">【Pratfall】 #かみぬい で穴を掘る【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('07qeijidnLU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('07qeijidnLU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260523</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/3RtcZpd0fPY" target="_blank" title="【 R.E.P.O. 】ソロかもしれないし、ソロじゃないかもしれない!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】ソロかもしれないし、ソロじゃないかもしれない!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('3RtcZpd0fPY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('3RtcZpd0fPY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="rindo_chihaya" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260523</td>
+<td><strong>@rindo_chihaya</strong></td>
+<td class="title"><a href="https://youtu.be/3hsBXKuQNAw" target="_blank" title="【#ホロREPO】REPOでおしゃれできんの!??!?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】">【#ホロREPO】REPOでおしゃれできんの!??!?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('3hsBXKuQNAw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('3hsBXKuQNAw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260523</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/pZE1lyKt4FM" target="_blank" title="【#ホロREPO】ころね支店だよ~~~~~ん">【#ホロREPO】ころね支店だよ~~~~~ん</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('pZE1lyKt4FM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('pZE1lyKt4FM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260523</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/CQiIcAlv5Fc" target="_blank" title="【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】">【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('CQiIcAlv5Fc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('CQiIcAlv5Fc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260523</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/BDLLhRpeC-I" target="_blank" title="【 R.E.P.O 】静かに!RE 先輩についていくR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O 】静かに!RE 先輩についていくR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLO</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('BDLLhRpeC-I','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('BDLLhRpeC-I','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260522</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/Mea0zHPyYVI" target="_blank" title="【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】">【#ホロREPO】オサレ皇帝(エンペラー)におれはなる!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Mea0zHPyYVI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Mea0zHPyYVI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260521</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/K1kFI1r3VxE" target="_blank" title="【R.E.P.O】ころね支店">【R.E.P.O】ころね支店</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('K1kFI1r3VxE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('K1kFI1r3VxE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260521</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/fKgfp1jEMi0" target="_blank" title="【 R.E.P.O. 】今日は、REPOが.........................ありま.....あああああす!!!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】今日は、REPOが.........................ありま.....あああああす!!!【角巻わため/</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('fKgfp1jEMi0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('fKgfp1jEMi0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260521</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/krCjDue9l2Y" target="_blank" title="【R.E.P.O.】今夜のREPOはここですか【不知火フレア/ホロライブ】">【R.E.P.O.】今夜のREPOはここですか【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('krCjDue9l2Y','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('krCjDue9l2Y','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260520</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/_5z-U5FXuG8" target="_blank" title="【あるある】苦労人の一日 #大神ミオ #hololive #ホロライブ #叫んだのは🤖#happyend">【あるある】苦労人の一日 #大神ミオ #hololive #ホロライブ #叫んだのは🤖#happyend</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('_5z-U5FXuG8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('_5z-U5FXuG8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tokoyamitowa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
+<td><strong>@tokoyamitowa</strong></td>
+<td class="title"><a href="https://youtu.be/OBKOI7DA-xU" target="_blank" title="【 R.E.P.O. 】 大型アプデが入ってから初めての…!✨️先輩教えてください‼️ 【常闇トワ視点/ホロライブ】">【 R.E.P.O. 】 大型アプデが入ってから初めての…!✨️先輩教えてください‼️ 【常闇トワ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('OBKOI7DA-xU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('OBKOI7DA-xU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/4a-BI-tcaqc" target="_blank" title="【R.E.P.O.】オシャレになりたい!ぺこーらちゃん!【ホロライブ/兎田ぺこら】">【R.E.P.O.】オシャレになりたい!ぺこーらちゃん!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4a-BI-tcaqc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4a-BI-tcaqc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/aK3LZmLeAEY" target="_blank" title="【 R.E.P.O 】うるさくしないR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O 】うるさくしないR.E.P.O.!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('aK3LZmLeAEY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('aK3LZmLeAEY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/0OvFzdAbNw8" target="_blank" title="【R.E.P.O.】コスメティック探し妖怪です!コスメティックはどこですか!?【不知火フレア/ホロライブ】">【R.E.P.O.】コスメティック探し妖怪です!コスメティックはどこですか!?【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('0OvFzdAbNw8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('0OvFzdAbNw8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260517</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/1T53vimbwUU" target="_blank" title="【 R.E.P.O. 】REPO妖怪達が、初めてのLv.20 スーパームーンに挑む!!!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】REPO妖怪達が、初めてのLv.20 スーパームーンに挑む!!!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('1T53vimbwUU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('1T53vimbwUU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="omarupolka" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260517</td>
+<td><strong>@omarupolka</strong></td>
+<td class="title"><a href="https://youtu.be/dK_Cq9l8uDs" target="_blank" title="【R.E.P.O.】ついにまだ見ぬステージへ!!!20LV🌕️スーパームーン!!!【尾丸ポルカ視点/ホロライブ】">【R.E.P.O.】ついにまだ見ぬステージへ!!!20LV🌕️スーパームーン!!!【尾丸ポルカ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('dK_Cq9l8uDs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('dK_Cq9l8uDs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260517</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/81Mo8Xi7r8Q" target="_blank" title="【R.E.P.O.】#バカタレサーカス 初のLv20!スーパームーン🌙【不知火フレア/ホロライブ】">【R.E.P.O.】#バカタレサーカス 初のLv20!スーパームーン🌙【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('81Mo8Xi7r8Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('81Mo8Xi7r8Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260516</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/4QRrdts900E" target="_blank" title="【 同時視聴/Watchalong 】『ドラゴンボールZ 神と神』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】">【 同時視聴/Watchalong 】『ドラゴンボールZ 神と神』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4QRrdts900E','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4QRrdts900E','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="omarupolka" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260515</td>
+<td><strong>@omarupolka</strong></td>
+<td class="title"><a href="https://youtu.be/qUBN3y_1Aeo" target="_blank" title="【R.E.P.O.】なんかこのメンツ遊んだ希ガス・・・バカタレPOサーカス!!!!【尾丸ポルカ視点/ホロライブ】">【R.E.P.O.】なんかこのメンツ遊んだ希ガス・・・バカタレPOサーカス!!!!【尾丸ポルカ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('qUBN3y_1Aeo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('qUBN3y_1Aeo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260515</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/5tZ7ykPTr0M" target="_blank" title="【R.E.P.O.】#バカタレサーカス レポ妖怪たちのおと~りだ~【不知火フレア/ホロライブ】">【R.E.P.O.】#バカタレサーカス レポ妖怪たちのおと~りだ~【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('5tZ7ykPTr0M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('5tZ7ykPTr0M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260515</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/coqk7GVG_zc" target="_blank" title="【 R.E.P.O. 】REPO妖怪達のお通りだ!!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】REPO妖怪達のお通りだ!!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('coqk7GVG_zc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('coqk7GVG_zc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260515</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/b9JHMOT-QXs" target="_blank" title="ガンダム×ホロライブプロダクション スペシャルコラボレーション 続報">ガンダム×ホロライブプロダクション スペシャルコラボレーション 続報</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('b9JHMOT-QXs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('b9JHMOT-QXs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/BO6A-bmRn48" target="_blank" title="【 R.E.P.O. 】レポ緊急参戦しまぁす!!!!!!!!!【ホロライブ/さくらみこ】">【 R.E.P.O. 】レポ緊急参戦しまぁす!!!!!!!!!【ホロライブ/さくらみこ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('BO6A-bmRn48','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('BO6A-bmRn48','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/fpAghP4E344" target="_blank" title="【 R.E.P.O. 】ご褒美REPOきちゃー!!!今日はおやすまない羊【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】ご褒美REPOきちゃー!!!今日はおやすまない羊【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('fpAghP4E344','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('fpAghP4E344','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/pozpz-dY5k8" target="_blank" title="【R.E.P.O.】今夜のRepo会です!今夜も事件の香りがします【不知火フレア/ホロライブ】">【R.E.P.O.】今夜のRepo会です!今夜も事件の香りがします【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('pozpz-dY5k8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('pozpz-dY5k8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260512</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/qei-JemNbKs" target="_blank" title="【#ホロREPO】ころね支店【三夜連続放送】">【#ホロREPO】ころね支店【三夜連続放送】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('qei-JemNbKs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('qei-JemNbKs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260512</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/MFmVVza7J3c" target="_blank" title="【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGL</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('MFmVVza7J3c','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('MFmVVza7J3c','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260512</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/mH6IHONFkoo" target="_blank" title="【R.E.P.O.】赤がほしい!赤が!!!!!#ホロREPO【ホロライブ/夏色まつり】">【R.E.P.O.】赤がほしい!赤が!!!!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('mH6IHONFkoo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('mH6IHONFkoo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260512</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/GGQgFY3Yhaw" target="_blank" title="【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】">【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('GGQgFY3Yhaw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('GGQgFY3Yhaw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260511</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/ahmDnSLDFdI" target="_blank" title="【 R.E.P.O. 】コスメティックビューティーわため、途中参戦予定地!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】コスメティックビューティーわため、途中参戦予定地!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ahmDnSLDFdI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ahmDnSLDFdI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260511</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/eRl_c5jkWJs" target="_blank" title="【 R.E.P.O. 】静かに…!先輩についていく!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O. 】静かに…!先輩についていく!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('eRl_c5jkWJs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('eRl_c5jkWJs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260511</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/rG-LsHPgiRU" target="_blank" title="【#ホロREPO】ころね支店【二夜連続放送】">【#ホロREPO】ころね支店【二夜連続放送】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rG-LsHPgiRU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rG-LsHPgiRU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260511</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/WidILsQvDww" target="_blank" title="【R.E.P.O.】今日のRepoはどこですか!?ここですか?!【不知火フレア/ホロライブ】">【R.E.P.O.】今日のRepoはどこですか!?ここですか?!【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('WidILsQvDww','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('WidILsQvDww','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tsunomakiwatame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260510</td>
+<td><strong>@tsunomakiwatame</strong></td>
+<td class="title"><a href="https://youtu.be/fzLjFXgHZNk" target="_blank" title="【 R.E.P.O. 】アプデが来た!コスメティックというものがあるらしい!【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】アプデが来た!コスメティックというものがあるらしい!【角巻わため/ホロライブ4期生】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('fzLjFXgHZNk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('fzLjFXgHZNk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260510</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/U4JPIg9oNyo" target="_blank" title="【 R.E.P.O. 】先輩についていく…!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 R.E.P.O. 】先輩についていく…!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('U4JPIg9oNyo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('U4JPIg9oNyo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260510</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/xACiaNiqF2Q" target="_blank" title="【R.E.P.O.】可愛い服探しするらしいです!!#ホロREPO【ホロライブ/夏色まつり】">【R.E.P.O.】可愛い服探しするらしいです!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('xACiaNiqF2Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('xACiaNiqF2Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260510</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/L72BjD9koe0" target="_blank" title="【R.E.P.O.】ころね支店【#突発ホロライブ】">【R.E.P.O.】ころね支店【#突発ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('L72BjD9koe0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('L72BjD9koe0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260510</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/TRGzcHpOX8M" target="_blank" title="【R.E.P.O.】コスメティック探し妖怪です!Repoさせてください【不知火フレア/ホロライブ】">【R.E.P.O.】コスメティック探し妖怪です!Repoさせてください【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('TRGzcHpOX8M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('TRGzcHpOX8M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260509</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/D6Bba9kmchI" target="_blank" title="【#UNOLIVE】UNOの時間じゃぁあああああああああああ!!!【ホロライブ/夏色まつり】">【#UNOLIVE】UNOの時間じゃぁあああああああああああ!!!【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('D6Bba9kmchI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('D6Bba9kmchI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260508</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/3chWVfPbMfU" target="_blank" title="【#ホロREPO】久しぶりR.E.P.O.ヴィヴィ戦力外です!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【#ホロREPO】久しぶりR.E.P.O.ヴィヴィ戦力外です!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('3chWVfPbMfU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('3chWVfPbMfU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="akirose" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260508</td>
+<td><strong>@akirose</strong></td>
+<td class="title"><a href="https://youtu.be/tPDIih-eMSI" target="_blank" title="【 #ホロREPO 】突発ゲリラれぽ!w.白上フブキ/夏色まつり/綺々羅々ヴィヴィ/不知火フレア【ホロライブ/アキロゼ】">【 #ホロREPO 】突発ゲリラれぽ!w.白上フブキ/夏色まつり/綺々羅々ヴィヴィ/不知火フレア【ホロライブ/アキロゼ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('tPDIih-eMSI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('tPDIih-eMSI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260508</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/BkdSos_fWj0" target="_blank" title="【R.E.P.O.】突発!アプデきちゃああああああ!!#ホロREPO【ホロライブ/夏色まつり】">【R.E.P.O.】突発!アプデきちゃああああああ!!#ホロREPO【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('BkdSos_fWj0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('BkdSos_fWj0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/1wJeZPQ5-nw" target="_blank" title="【3D】あやふぶみこ地獄すごろく終わらないと出られない部屋【#あやふぶみこ】">【3D】あやふぶみこ地獄すごろく終わらないと出られない部屋【#あやふぶみこ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('1wJeZPQ5-nw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('1wJeZPQ5-nw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/d3YAjJsztKY" target="_blank" title="Wink meme😉#hololive #ホロライブ #shorts">Wink meme😉#hololive #ホロライブ #shorts</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('d3YAjJsztKY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('d3YAjJsztKY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nekomataokayu" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@nekomataokayu</strong></td>
+<td class="title"><a href="https://youtu.be/i_LOysvDaR8" target="_blank" title="【 AmongUs/#無礼講アモアス 】本日無礼講🔥SUS!!SUS!!SUS!!【 猫又おかゆ視点/ホロライブ 】">【 AmongUs/#無礼講アモアス 】本日無礼講🔥SUS!!SUS!!SUS!!【 猫又おかゆ視点/ホロライブ 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('i_LOysvDaR8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('i_LOysvDaR8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/XKl0E-rJXNg" target="_blank" title="【#無礼講アモアス】Among Us楽しむぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【#無礼講アモアス】Among Us楽しむぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XKl0E-rJXNg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XKl0E-rJXNg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="isakiriona" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@isakiriona</strong></td>
+<td class="title"><a href="https://youtu.be/0Xeeb24jr08" target="_blank" title="【無礼講Among us】ちーーっす!!ういーっす!・・・無礼講ってこんな感じ(;'∀')?【ホロライブ DEV_IS 響咲リオナ】">【無礼講Among us】ちーーっす!!ういーっす!・・・無礼講ってこんな感じ(;'∀')?【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('0Xeeb24jr08','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('0Xeeb24jr08','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="azki" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@azki</strong></td>
+<td class="title"><a href="https://youtu.be/r04a_hBwFWU" target="_blank" title="【Among Us】今日は無礼講です。ゲス―― #無礼講アモアス 【ホロライブ / AZKi】">【Among Us】今日は無礼講です。ゲス―― #無礼講アモアス 【ホロライブ / AZKi】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('r04a_hBwFWU','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('r04a_hBwFWU','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="usadapekora" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@usadapekora</strong></td>
+<td class="title"><a href="https://youtu.be/Yr4O3ol4Ib4" target="_blank" title="【AmongUs】ゴールデンウィークは無礼講アモアスやるぞ!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】">【AmongUs】ゴールデンウィークは無礼講アモアスやるぞ!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Yr4O3ol4Ib4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Yr4O3ol4Ib4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="yukihanalamy" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@yukihanalamy</strong></td>
+<td class="title"><a href="https://youtu.be/N5ijkems8f0" target="_blank" title="【#無礼講アモアス】GWは無礼講!!AmongUsで暴れるぞ!!【雪花ラミィ /ホロライブ】">【#無礼講アモアス】GWは無礼講!!AmongUsで暴れるぞ!!【雪花ラミィ /ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('N5ijkems8f0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('N5ijkems8f0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shishirobotan" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@shishirobotan</strong></td>
+<td class="title"><a href="https://youtu.be/nmdGo_KLZeg" target="_blank" title="ホロメンが全力でつくった知育菓子を見てくれ!! #ししろんのゴールデンなウィーク ④【獅白ぼたん/ホロライブ】">ホロメンが全力でつくった知育菓子を見てくれ!! #ししろんのゴールデンなウィーク ④【獅白ぼたん/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nmdGo_KLZeg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nmdGo_KLZeg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tokoyamitowa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
+<td><strong>@tokoyamitowa</strong></td>
+<td class="title"><a href="https://youtu.be/J_VqySsby34" target="_blank" title="【Cursed Companions / 切り抜き】音声認識に苦戦する様子や声が変になった味方に笑いが止まらない常闇トワ #ホロコンパニオンズ【ホロライブ/常闇トワ】">【Cursed Companions / 切り抜き】音声認識に苦戦する様子や声が変になった味方に笑いが止まらない常闇トワ #ホロコンパニオン</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('J_VqySsby34','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('J_VqySsby34','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="oozora_subaru" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260504</td>
+<td><strong>@oozora_subaru</strong></td>
+<td class="title"><a href="https://youtu.be/Y1KcVSZK-TA" target="_blank" title="【#生スバル】モノマネを…教えてください先生!!!GWモノマネ凸待ちしゅばああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】">【#生スバル】モノマネを…教えてください先生!!!GWモノマネ凸待ちしゅばああああああああああああああああああああ!!!!!!【ホロライブ/</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Y1KcVSZK-TA','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Y1KcVSZK-TA','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hoshimachisuisei" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@hoshimachisuisei</strong></td>
+<td class="title"><a href="https://youtu.be/rUwgQP6jOHE" target="_blank" title="【 Cursed Companions 】隠されたNGワードを避けながら呪文を唱えてダンジョン攻略するゲーム【星街すいせい / #ほしまちすたじお】">【 Cursed Companions 】隠されたNGワードを避けながら呪文を唱えてダンジョン攻略するゲーム【星街すいせい / #ほしまちす</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('rUwgQP6jOHE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('rUwgQP6jOHE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tokoyamitowa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@tokoyamitowa</strong></td>
+<td class="title"><a href="https://youtu.be/Cuqg1HafZFk" target="_blank" title="【 Cursed Companions 】NGワードでも4ってマジ…❔️【常闇トワ視点/ホロライブ】">【 Cursed Companions 】NGワードでも4ってマジ…❔️【常闇トワ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Cuqg1HafZFk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Cuqg1HafZFk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/F6kWMYER6LE" target="_blank" title="【Cursed Companions】NGワードを言うと仲間が爆滅してしまうホラゲー!?? 【#ホロコンパニオンズ】">【Cursed Companions】NGワードを言うと仲間が爆滅してしまうホラゲー!?? 【#ホロコンパニオンズ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('F6kWMYER6LE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('F6kWMYER6LE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nakiri_ayame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@nakiri_ayame</strong></td>
+<td class="title"><a href="https://youtu.be/cHe1fVaXqEk" target="_blank" title="【Cursed Companions】NGワードで仲間が消滅!?!?【百鬼あやめ視点/ホロライブ】">【Cursed Companions】NGワードで仲間が消滅!?!?【百鬼あやめ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('cHe1fVaXqEk','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('cHe1fVaXqEk','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ookamimio" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@ookamimio</strong></td>
+<td class="title"><a href="https://youtu.be/J18vAG198XI" target="_blank" title="【Cursed Companions】魔法を唱えてクリアしよう!※NGワード有※【大神ミオ視点】">【Cursed Companions】魔法を唱えてクリアしよう!※NGワード有※【大神ミオ視点】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('J18vAG198XI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('J18vAG198XI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="isakiriona" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@isakiriona</strong></td>
+<td class="title"><a href="https://youtu.be/k9zaSWSIjLo" target="_blank" title="【Cursed Companions】NGワードで即死!?喋らなかったらいける・・ほな得意か・・!ってダメでしょおお!【ホロライブ DEV_IS 響咲リオナ】">【Cursed Companions】NGワードで即死!?喋らなかったらいける・・ほな得意か・・!ってダメでしょおお!【ホロライブ DEV_</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('k9zaSWSIjLo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('k9zaSWSIjLo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="rindo_chihaya" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@rindo_chihaya</strong></td>
+<td class="title"><a href="https://youtu.be/aJ_IkMY0Vgs" target="_blank" title="【Cursed Companions】NGワード言わないように!?!?!?#ホロコンパニオンズ 【輪堂千速 / #hololivedev_is  #FLOWGLOW 】">【Cursed Companions】NGワード言わないように!?!?!?#ホロコンパニオンズ 【輪堂千速 / #hololivedev_i</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('aJ_IkMY0Vgs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('aJ_IkMY0Vgs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/XOovxanG7Pg" target="_blank" title="【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】">【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('XOovxanG7Pg','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('XOovxanG7Pg','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260429</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/4adkOs-dXm0" target="_blank" title="Daily lifehack! 🍾🍮/ 日常で使えるライフハック集 #hololive #ホロライブ #納豆">Daily lifehack! 🍾🍮/ 日常で使えるライフハック集 #hololive #ホロライブ #納豆</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4adkOs-dXm0','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4adkOs-dXm0','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nekomataokayu" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260427</td>
+<td><strong>@nekomataokayu</strong></td>
+<td class="title"><a href="https://youtu.be/nGyhht1rLi8" target="_blank" title="【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】">【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nGyhht1rLi8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nGyhht1rLi8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="ookamimio" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260424</td>
+<td><strong>@ookamimio</strong></td>
+<td class="title"><a href="https://youtu.be/HIuF4Cr5sI8" target="_blank" title="【マリパ】全員が大神ミオのマリパってどういうこと?【 #ホロライブゲーマーズ  】">【マリパ】全員が大神ミオのマリパってどういうこと?【 #ホロライブゲーマーズ  】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('HIuF4Cr5sI8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('HIuF4Cr5sI8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kosekibijou" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260423</td>
+<td><strong>@kosekibijou</strong></td>
+<td class="title"><a href="https://youtu.be/Rn12P_c5mYc" target="_blank" title="【Slay the Spire 2 COLLAB】play the pyre">【Slay the Spire 2 COLLAB】play the pyre</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('Rn12P_c5mYc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('Rn12P_c5mYc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanashikiara" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260423</td>
+<td><strong>@takanashikiara</strong></td>
+<td class="title"><a href="https://youtu.be/-5P17BxVZTE" target="_blank" title="【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ">【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キア</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('-5P17BxVZTE','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('-5P17BxVZTE','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nakiri_ayame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
+<td><strong>@nakiri_ayame</strong></td>
+<td class="title"><a href="https://youtu.be/9QzgnlmSdJY" target="_blank" title="【School 666】みんなで協力して生き残れ!?【百鬼あやめ視点/ホロライブ】">【School 666】みんなで協力して生き残れ!?【百鬼あやめ視点/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('9QzgnlmSdJY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('9QzgnlmSdJY','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="oozora_subaru" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
+<td><strong>@oozora_subaru</strong></td>
+<td class="title"><a href="https://youtu.be/ttdZdjucW5M" target="_blank" title="【#生スバル】みんなでホラゲーやるしゅばああああああああああああああああああああああああああああ!!!：school666【ホロライブ/大空スバル】">【#生スバル】みんなでホラゲーやるしゅばああああああああああああああああああああああああああああ!!!：school666【ホロライブ/大空</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('ttdZdjucW5M','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('ttdZdjucW5M','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nekomataokayu" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
+<td><strong>@nekomataokayu</strong></td>
+<td class="title"><a href="https://youtu.be/wz89TnYZQ44" target="_blank" title="【 school666 】異変だらけの学校をみんなで脱出しよう🏫✦【 猫又おかゆ視点/ホロライブ 】">【 school666 】異変だらけの学校をみんなで脱出しよう🏫✦【 猫又おかゆ視点/ホロライブ 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('wz89TnYZQ44','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('wz89TnYZQ44','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260419</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/4U2g7amGZCI" target="_blank" title="【アニメ】ゆる​キャラちぎってみた">【アニメ】ゆる​キャラちぎってみた</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('4U2g7amGZCI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('4U2g7amGZCI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260415</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/oe3Il8RDqiI" target="_blank" title="The team play🍅 / これがチームプレーだ! #hololive #ホロライブ #ホロライブゲーマーズ">The team play🍅 / これがチームプレーだ! #hololive #ホロライブ #ホロライブゲーマーズ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('oe3Il8RDqiI','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('oe3Il8RDqiI','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="tokoyamitowa" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260415</td>
+<td><strong>@tokoyamitowa</strong></td>
+<td class="title"><a href="https://youtu.be/6eGPqyqYDqc" target="_blank" title="【R.E.P.O. / 切り抜き】新しい敵キャラに絶叫したりリオナの天丼芸に大爆笑したりする常闇トワ#突発ホロREPO【ホロライブ/常闇トワ】">【R.E.P.O. / 切り抜き】新しい敵キャラに絶叫したりリオナの天丼芸に大爆笑したりする常闇トワ#突発ホロREPO【ホロライブ/常闇トワ</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('6eGPqyqYDqc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('6eGPqyqYDqc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="isakiriona" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260414</td>
+<td><strong>@isakiriona</strong></td>
+<td class="title"><a href="https://youtu.be/djcdtlW3N34" target="_blank" title="【#突発ホロREPO】参加させてくださああああああああああああああい【ホロライブ DEV_IS 響咲リオナ】">【#突発ホロREPO】参加させてくださああああああああああああああい【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('djcdtlW3N34','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('djcdtlW3N34','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="mococo_abyssgard" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260411</td>
+<td><strong>@mococo_abyssgard</strong></td>
+<td class="title"><a href="https://youtu.be/G9kMF-5nwvs" target="_blank" title="【PHASMOPHOBIA COLLAB with MATSURI, FUBUKI, RIONA】ドアを守るのはモココだ…!こ、怖くないよ…!!🐾【MOCOCO視点】">【PHASMOPHOBIA COLLAB with MATSURI, FUBUKI, RIONA】ドアを守るのはモココだ…!こ、怖くないよ…</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('G9kMF-5nwvs','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('G9kMF-5nwvs','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="isakiriona" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260411</td>
+<td><strong>@isakiriona</strong></td>
+<td class="title"><a href="https://youtu.be/uBRy-xIqwl4" target="_blank" title="【Phasmophobia】幽霊調査っ♡先輩たち助けてええええ(´;ω;`)【ホロライブ DEV_IS 響咲リオナ】">【Phasmophobia】幽霊調査っ♡先輩たち助けてええええ(´;ω;`)【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('uBRy-xIqwl4','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('uBRy-xIqwl4','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="natsuiromatsuri" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260411</td>
+<td><strong>@natsuiromatsuri</strong></td>
+<td class="title"><a href="https://youtu.be/5M10Z3xv4NQ" target="_blank" title="【Phasmophobia】夏色吹雪見守り隊!さぁ、モコリオナ行っておいで!【ホロライブ/夏色まつり】">【Phasmophobia】夏色吹雪見守り隊!さぁ、モコリオナ行っておいで!【ホロライブ/夏色まつり】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('5M10Z3xv4NQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('5M10Z3xv4NQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="shiranuiflare" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
+<td><strong>@shiranuiflare</strong></td>
+<td class="title"><a href="https://youtu.be/FgA6hgxJH4I" target="_blank" title="【 #不知火フレア生誕祭2026 】BEMANI楽曲3D LIVE!みんなで盛り上がれ!【不知火フレア/ホロライブ】">【 #不知火フレア生誕祭2026 】BEMANI楽曲3D LIVE!みんなで盛り上がれ!【不知火フレア/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('FgA6hgxJH4I','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('FgA6hgxJH4I','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260401</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/24KrBOnf9rw" target="_blank" title="けもももももも! (Instrumental)">けもももももも! (Instrumental)</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('24KrBOnf9rw','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('24KrBOnf9rw','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="hololive" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260401</td>
+<td><strong>@hololive</strong></td>
+<td class="title"><a href="https://youtu.be/GsfzgqEcMjc" target="_blank" title="けもももももも!">けもももももも!</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('GsfzgqEcMjc','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('GsfzgqEcMjc','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kazamairoha" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260401</td>
+<td><strong>@kazamairoha</strong></td>
+<td class="title"><a href="https://youtu.be/B9UabapLhqQ" target="_blank" title="【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】">【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('B9UabapLhqQ','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('B9UabapLhqQ','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260331</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/nLqDnhEp75Q" target="_blank" title="🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】">🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('nLqDnhEp75Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('nLqDnhEp75Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nekomataokayu" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260331</td>
+<td><strong>@nekomataokayu</strong></td>
+<td class="title"><a href="https://youtu.be/7x6xX5n1x6Q" target="_blank" title="本日、姉妹がやってくる ―――">本日、姉妹がやってくる ―――</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('7x6xX5n1x6Q','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('7x6xX5n1x6Q','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="oozora_subaru" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260329</td>
+<td><strong>@oozora_subaru</strong></td>
+<td class="title"><a href="https://youtu.be/NfJsoMi1y0s" target="_blank" title="【#大空スバル7周年LIVE】大空スバル 7th 記念LIVE ラブミ❣：7th anniversary live【ホロライブ/大空スバル】">【#大空スバル7周年LIVE】大空スバル 7th 記念LIVE ラブミ❣：7th anniversary live【ホロライブ/大空スバル】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('NfJsoMi1y0s','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('NfJsoMi1y0s','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="kikirara_vivi" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260327</td>
+<td><strong>@kikirara_vivi</strong></td>
+<td class="title"><a href="https://youtu.be/J6fTfIoHmbM" target="_blank" title="【 告知あり!】初めての逆凸待ち…!緊張しています!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】">【 告知あり!】初めての逆凸待ち…!緊張しています!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('J6fTfIoHmbM','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('J6fTfIoHmbM','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="takanelui" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260326</td>
+<td><strong>@takanelui</strong></td>
+<td class="title"><a href="https://youtu.be/YIwgfu5_EKo" target="_blank" title="【 同時視聴/Watchalong 】『ハリーポッターと死の秘宝Part2』視聴会。未履修おかゆにハリポタを布教!【 #ホロハリポタ布教部 /ホロライブ】">【 同時視聴/Watchalong 】『ハリーポッターと死の秘宝Part2』視聴会。未履修おかゆにハリポタを布教!【 #ホロハリポタ布教部 </a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('YIwgfu5_EKo','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('YIwgfu5_EKo','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="sakuramiko" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260325</td>
+<td><strong>@sakuramiko</strong></td>
+<td class="title"><a href="https://youtu.be/98TzmWoOgH8" target="_blank" title="【#突発ホロライブ】突発ホロライブでR.E.P.Oあそぶぜぇええええ!【ホロライブ/さくらみこ】">【#突発ホロライブ】突発ホロライブでR.E.P.Oあそぶぜぇええええ!【ホロライブ/さくらみこ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('98TzmWoOgH8','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('98TzmWoOgH8','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="inugamikorone" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260325</td>
+<td><strong>@inugamikorone</strong></td>
+<td class="title"><a href="https://youtu.be/KwpmnVk8860" target="_blank" title="【#突発ホロライブ】ころね支店【R.E.P.O. 】">【#突発ホロライブ】ころね支店【R.E.P.O. 】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('KwpmnVk8860','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('KwpmnVk8860','reject')">✗</button>
+
+</td>
+</tr>
+
+<tr data-channel="nakiri_ayame" data-status="unreviewed">
+<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260325</td>
+<td><strong>@nakiri_ayame</strong></td>
+<td class="title"><a href="https://youtu.be/HWfkOXe3ThY" target="_blank" title="【R.E.P.O.】突発R.E.P.O.コラボ!?!?!?!?【百鬼あやめ/ホロライブ】">【R.E.P.O.】突発R.E.P.O.コラボ!?!?!?!?【百鬼あやめ/ホロライブ】</a></td>
+<td><span class="status-badge status-unreviewed">unreviewed</span></td>
+<td style="white-space:nowrap">
+
+<button class="btn btn-confirm" onclick="setStatus('HWfkOXe3ThY','confirm')">✓</button>
+<button class="btn btn-reject" onclick="setStatus('HWfkOXe3ThY','reject')">✗</button>
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 </main>
-<footer>
-<p>Generated by HCAT at 2026-06-22 00:34</p>
-</footer>
+<script>
+const saved = localStorage.getItem('hcat-theme');
+if (saved === 'dark') document.body.classList.add('dark');
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+function filterApps() {
+  const f = document.getElementById('filter').value.toLowerCase().trim();
+  const s = document.getElementById('statusFilter').value;
+  document.querySelectorAll('tbody tr').forEach(r => {
+    const mc = !f || r.dataset.channel.includes(f);
+    const ms = s === 'all' || r.dataset.status === s;
+    r.style.display = mc && ms ? '' : 'none';
+  });
+}
+async function setStatus(vid, action) {
+  const handle = 'shirakamifubuki';
+  /* static */ console.log(${handle}/${vid}/${action}`, { method: 'POST' });
+  location.reload();
+}
+</script>
 </body>
 </html>
-<script>function filterApps(){const f=document.getElementById("filter").value.toLowerCase();const s=document.getElementById("statusFilter").value;document.querySelectorAll(".app-row").forEach(r=>{const matchChannel=r.dataset.channel.includes(f);const matchStatus=s==="all"||r.dataset.status===s;r.style.display=matchChannel&&matchStatus?"":"none"})}</script>
