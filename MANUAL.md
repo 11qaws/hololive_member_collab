@@ -96,7 +96,7 @@ pip install -r requirements.txt
 3. GitHub / Twitter / Google 중 편한 방법으로 회원가입 또는 로그인
 4. 로그인 후 우측 상단의 **프로필 아이콘** 클릭
 5. **Account Settings** 클릭
-6. **API Key** 항목에 있는 긴 문자열(예: `e9a667d6-...`)을 복사
+6. **API Key** 항목에 있는 긴 문자열(형식: `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`)을 복사
 7. 이 키는 나중에 사용할 것이므로 메모장에 임시 저장해 둠
 
 ### API 키를 프로그램에 저장
@@ -107,12 +107,15 @@ pip install -r requirements.txt
 python cli.py config --set holodex_api_key "여기에_API키_붙여넣기"
 ```
 
-예시:
+> ⚠️ `" "` 따옴표 안에 있는 `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX` 부분을 방금 복사한 API 키로 **바꿔서** 입력하세요.
+> 따옴표는 지우지 말고, 안쪽 글자만 교체하면 됩니다.
+
+예시 (실제 키가 `abc12345-6789-4def-ghij-klmnopqrstuv` 라면):
 ```
-python cli.py config --set holodex_api_key "여기에_발급받은_API_키를_붙여넣으세요"
+python cli.py config --set holodex_api_key "abc12345-6789-4def-ghij-klmnopqrstuv"
 ```
 
-> 정상적으로 저장되면 `Set holodex_api_key = ...` 같은 메시지가 나옵니다.
+> 정상적으로 저장되면 `Set holodex_api_key = abc12345...` 같은 메시지가 나옵니다.
 
 ---
 
