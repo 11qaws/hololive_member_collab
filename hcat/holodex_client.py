@@ -40,12 +40,19 @@ class HolodexClient:
     async def _get(self, path: str, params: dict | None = None) -> list:
         while True:
             await self._wait()
-            resp = await self._client.get(path, params=params)
+            try:
+                resp = await self._client.get(path, params=params)
+            except httpx.HTTPError as e:
+                print(f"  ⚠ HTTP error: {e}, retrying in 60s...")
+                await asyncio.sleep(60)
+                continue
 
-            if resp.status_code == 200:
+            status = resp.status_code
+
+            if status == 200:
                 return resp.json()
 
-            if resp.status_code == 429:
+            if status == 429:
                 try:
                     retry = int(resp.headers.get("retry-after", 60))
                 except (ValueError, TypeError):
@@ -57,13 +64,20 @@ class HolodexClient:
                 continue
 
             body = resp.text[:200]
-            if resp.status_code == 403 or "Illegal Access" in body:
+            if status == 403 or "Illegal Access" in body:
                 raise Exception(
                     "Holodex API rejected the request (Illegal Access). "
                     "Your API key may be missing, invalid, or revoked. "
                     "Run: python cli.py config --get | grep holodex_api_key"
                 )
-            resp.raise_for_status()
+
+            print(f"  ⚠ HTTP {status}: {body}")
+            try:
+                resp.raise_for_status()
+            except httpx.HTTPError as e:
+                print(f"    → retrying in 60s...")
+                await asyncio.sleep(60)
+                continue
 
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
