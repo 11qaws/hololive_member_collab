@@ -73,10 +73,16 @@ def _status_icon(status: str) -> str:
 
 def build_site():
     data_dir = get_data_dir()
-    site_dir = data_dir.parent / "docs"
-    if site_dir.exists():
-        shutil.rmtree(site_dir)
-    site_dir.mkdir(parents=True)
+    site_dir = data_dir.parent  # repo root
+
+    # 기존 빌드 파일만 안전하게 제거
+    members_dir = site_dir / "members"
+    for p in [site_dir / "index.html", site_dir / "stats.html", site_dir / "unknowns.html"]:
+        if p.exists():
+            p.unlink()
+    if members_dir.exists():
+        shutil.rmtree(members_dir)
+    members_dir.mkdir(parents=True)
 
     members = load_members()
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -116,9 +122,6 @@ def build_site():
     (site_dir / "index.html").write_text("\n".join(html), encoding="utf-8")
 
     # ── Member pages ──
-    members_dir = site_dir / "members"
-    members_dir.mkdir()
-
     for m in members:
         apps = load_appearances(m.handle)
         html = [PAGE_HEADER.format()]
