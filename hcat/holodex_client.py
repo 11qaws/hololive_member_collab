@@ -8,7 +8,6 @@ from .config import load_config
 
 HOLODEX_BASE = "https://holodex.net/api/v2"
 MAX_LIMIT = 50
-MAX_RETRIES = 5
 MAX_PAGES = 5
 
 
@@ -39,17 +38,21 @@ class HolodexClient:
             self._last_req = time.monotonic()
 
     async def _get(self, path: str, params: dict | None = None) -> list:
-        await self._wait()
-        for attempt in range(MAX_RETRIES):
+        while True:
+            await self._wait()
             resp = await self._client.get(path, params=params)
 
             if resp.status_code == 200:
                 return resp.json()
 
             if resp.status_code == 429:
-                retry = int(resp.headers.get("retry-after", min(2 ** attempt * 10, 120)))
-                self._min_interval = min(self._min_interval * 2, 30)
-                print(f"    429 — slowing to 1/{self._min_interval:.0f}s, retry in {retry}s")
+                try:
+                    retry = int(resp.headers.get("retry-after", 60))
+                except (ValueError, TypeError):
+                    retry = 60
+                retry = max(retry, 30)
+                self._min_interval = min(self._min_interval * 2, 60)
+                print(f"    429 — waiting {retry}s (rate: 1/{self._min_interval:.0f}s)")
                 await asyncio.sleep(retry)
                 continue
 
@@ -61,8 +64,6 @@ class HolodexClient:
                     "Run: python cli.py config --get | grep holodex_api_key"
                 )
             resp.raise_for_status()
-
-        raise Exception("Holodex API max retries exceeded")
 
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
