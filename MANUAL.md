@@ -109,10 +109,10 @@ python cli.py config --set holodex_api_key "여기에_API키_붙여넣기"
 
 예시:
 ```
-python cli.py config --set holodex_api_key "e9a667d6-70ea-46d9-a3ee-55d0acd6acf6"
+python cli.py config --set holodex_api_key "여기에_발급받은_API_키를_붙여넣으세요"
 ```
 
-> 정상적으로 저장되면 `Set holodex_api_key = e9a667...` 같은 메시지가 나옵니다.
+> 정상적으로 저장되면 `Set holodex_api_key = ...` 같은 메시지가 나옵니다.
 
 ---
 
@@ -278,7 +278,7 @@ GitHub Pages를 업데이트하도록 설정할 수 있습니다.
 2. **New repository secret** 클릭
 3. 아래 정보 입력:
    - Name: `HOLODEX_API_KEY`
-   - Secret: 아까 발급받은 API 키 (예: `e9a667d6-70ea-46d9-a3ee-55d0acd6acf6`)
+   - Secret: 아까 발급받은 API 키
 4. **Add secret** 클릭
 
 5. https://github.com/11qaws/hololive_member_collab/settings/pages 접속
