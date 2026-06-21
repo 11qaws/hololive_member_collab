@@ -73,7 +73,7 @@ def _status_icon(status: str) -> str:
 
 def build_site():
     data_dir = get_data_dir()
-    site_dir = data_dir.parent / "_site"
+    site_dir = data_dir.parent / "docs"
     if site_dir.exists():
         shutil.rmtree(site_dir)
     site_dir.mkdir(parents=True)
