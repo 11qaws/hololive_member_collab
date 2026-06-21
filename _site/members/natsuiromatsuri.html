@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hololive Collab Tracker</title>
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<style>
+.status-active { color: #2a9d8f; }
+.status-graduated { color: #e76f51; }
+.status-terminated { color: #d62828; }
+.badge { font-size: 0.8em; padding: 2px 6px; border-radius: 4px; }
+.badge-active { background: #e0f4f0; color: #2a9d8f; }
+.badge-graduated { background: #fde8e0; color: #e76f51; }
+.badge-terminated { background: #fce0e0; color: #d62828; }
+.app-row { display: flex; gap: 1em; align-items: center; padding: 0.5em; border-bottom: 1px solid #eee; }
+.app-row:hover { background: #f5f5f5; }
+.app-date { min-width: 100px; color: #666; }
+.app-channel { min-width: 150px; }
+.app-title { flex: 1; }
+.app-status { min-width: 30px; text-align: center; }
+.branch-group { margin-bottom: 2em; }
+.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1em; }
+.member-card { padding: 1em; border: 1px solid #ddd; border-radius: 8px; }
+.member-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.filter-bar { margin: 1em 0; padding: 1em; background: #f8f9fa; border-radius: 8px; }
+</style>
+</head>
+<body>
+<header>
+<nav>
+<a href="../">Home</a>
+<a href="../stats.html">Stats</a>
+<a href="../unknowns.html">Unknowns</a>
+</nav>
+<h1>Hololive Collab Tracker</h1>
+</header>
+<main>
+
+<div style="display:flex;align-items:center;gap:1em;margin-bottom:1em">
+<img src="https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj" alt="" style="width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin-right:1em">
+<div><h2>@natsuiromatsuri — Natsuiro Matsuri 夏色まつり <span class="badge badge-active">active</span></h2>
+<p>Branch: JP</p></div></div>
+<p>Total: 53 appearances</p>
+<div class="filter-bar">
+<label>Filter: <input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()"></label>
+<label>Show: <select id="statusFilter" onchange="filterApps()"><option value="all">All</option><option value="confirmed">Confirmed</option><option value="unreviewed">Unreviewed</option></select></label>
+</div>
+<table><thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Method</th><th>Status</th></tr></thead><tbody>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-06-21</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/h7XYjbvnoHc" target="_blank">【アニメ】あるのが​いけない​ぺこ【ドカ食い​】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="ookamimio" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@ookamimio</td>
+<td class="app-title"><a href="https://youtu.be/075Zau9s-mo" target="_blank">【めっちゃカメレオン】創意工夫とユーモアと大胆な心と【大神ミオ視点】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="robocosan" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@robocosan</td>
+<td class="app-title"><a href="https://youtu.be/c4t1B1EFyeI" target="_blank">【めっちゃカメレオン】 初めての #ホロカメレオン  ✨描いて擬態!!見つけて撃つ!!ボクは高性能!!!!【ホロライブ/ ロボ子さん 】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@kikirara_vivi</td>
+<td class="app-title"><a href="https://youtu.be/ngZ2bX7-F1g" target="_blank">【めっちゃカメレオン】#ホロカメレオン ヴィヴィ画伯のセンス魅せちゃお!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="sakuramiko" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@sakuramiko</td>
+<td class="app-title"><a href="https://youtu.be/-K_aRlUGoLI" target="_blank">【めっちゃカメレオン】描いて擬態しろ‼ みんなでかくれんぼ対決だにぇええええ‼【ホロライブ/さくらみこ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@shirakamifubuki</td>
+<td class="app-title"><a href="https://youtu.be/7UujAloUmd4" target="_blank">【めっちゃカメレオン】 #ホロカメレオン でぜっっったいにハンターが勝つ!!!! 【ホロライブ/白上フブキ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="mizumiya_su" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@mizumiya_su</td>
+<td class="app-title"><a href="https://youtu.be/0SXDxkBlLCk" target="_blank">【めっちゃカメレオン】美的センス💮です✋【水宮枢/ホロライブDEV_IS】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/PUZ1fpmGZNc" target="_blank">【めっちゃカメレオン】隠れてたらいいのか・・?壁えええ!初めてのめっちゃカメレオン🎵【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hakuikoyori" data-status="unreviewed">
+<td class="app-date">2026-06-18</td>
+<td class="app-channel">@hakuikoyori</td>
+<td class="app-title"><a href="https://youtu.be/9vAlQfrThP8" target="_blank">【めっちゃカメレオン】体に描いて隠れろ!!気になってたヤツやれるはっぴ~~~!!! #ホロカメレオン 【博衣こより視点/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
+<td class="app-date">2026-06-15</td>
+<td class="app-channel">@shirakamifubuki</td>
+<td class="app-title"><a href="https://youtu.be/QpYSkEMJeTM" target="_blank">【 #ホロドリゲーム企画 】お姉さんVSお子さま!? #ホロドリ エンジョイゲーム大会!!</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-06-12</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/zFg4xzypG7I" target="_blank">【インパ中!】How tall are you? 🏮🎧🔧💅✨ #hololive #ホロライブ #遊園地 #ﾄﾞﾔｧ</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
+<td class="app-date">2026-06-12</td>
+<td class="app-channel">@rindo_chihaya</td>
+<td class="app-title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-06-04</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/04-zp-oW55s" target="_blank">【新ボイス】ようこそ、雨降る不思議な温泉宿へ</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-06-02</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/p1ooptYYnuE" target="_blank">【 #ホロ金策サバイバル2 】ねねちハウスから参加っ!二日目!錬金はうまいままか・?【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-05-29</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/gvGDJyWKHbk" target="_blank">【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-05-27</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/CO2OhYWst5g" target="_blank">【#リオナ生誕祭36時】ゲストの皆様と3Ⅾでスーパーマリオパーティージャンボリー【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="takanelui" data-status="unreviewed">
+<td class="app-date">2026-05-14</td>
+<td class="app-channel">@takanelui</td>
+<td class="app-title"><a href="https://youtu.be/tojEGz-odMc" target="_blank">【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ~‼【夏色まつり/鷹嶺ルイ/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
+<td class="app-date">2026-05-12</td>
+<td class="app-channel">@inugamikorone</td>
+<td class="app-title"><a href="https://youtu.be/qei-JemNbKs" target="_blank">【#ホロREPO】ころね支店【三夜連続放送】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
+<td class="app-date">2026-05-12</td>
+<td class="app-channel">@kikirara_vivi</td>
+<td class="app-title"><a href="https://youtu.be/MFmVVza7J3c" target="_blank">【 R.E.P.O. 】#ホロREPO 静かに先輩についていく…RE!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
+<td class="app-date">2026-05-12</td>
+<td class="app-channel">@shirakamifubuki</td>
+<td class="app-title"><a href="https://youtu.be/JMMUEzBOo3Y" target="_blank">【R.E.P.O.】第二回静かなるREPO #ホロREPO 【ホロライブ/白上フブキ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
+<td class="app-date">2026-05-12</td>
+<td class="app-channel">@shiranuiflare</td>
+<td class="app-title"><a href="https://youtu.be/GGQgFY3Yhaw" target="_blank">【R.E.P.O.】今日のRepo会です!赤コスメはどこですか!?【不知火フレア/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
+<td class="app-date">2026-05-10</td>
+<td class="app-channel">@tsunomakiwatame</td>
+<td class="app-title"><a href="https://youtu.be/fzLjFXgHZNk" target="_blank">【 R.E.P.O. 】アプデが来た!コスメティックというものがあるらしい!【角巻わため/ホロライブ4期生】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
+<td class="app-date">2026-05-10</td>
+<td class="app-channel">@kikirara_vivi</td>
+<td class="app-title"><a href="https://youtu.be/U4JPIg9oNyo" target="_blank">【 R.E.P.O. 】先輩についていく…!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="inugamikorone" data-status="unreviewed">
+<td class="app-date">2026-05-10</td>
+<td class="app-channel">@inugamikorone</td>
+<td class="app-title"><a href="https://youtu.be/L72BjD9koe0" target="_blank">【R.E.P.O.】ころね支店【#突発ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shiranuiflare" data-status="unreviewed">
+<td class="app-date">2026-05-10</td>
+<td class="app-channel">@shiranuiflare</td>
+<td class="app-title"><a href="https://youtu.be/TRGzcHpOX8M" target="_blank">【R.E.P.O.】コスメティック探し妖怪です!Repoさせてください【不知火フレア/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hakuikoyori" data-status="unreviewed">
+<td class="app-date">2026-05-10</td>
+<td class="app-channel">@hakuikoyori</td>
+<td class="app-title"><a href="https://youtu.be/fuQvDeeO7wo" target="_blank">【お知らせ】初めての長期休暇をいただきます!直前凸待ち&雑談!【博衣こより/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="kikirara_vivi" data-status="unreviewed">
+<td class="app-date">2026-05-08</td>
+<td class="app-channel">@kikirara_vivi</td>
+<td class="app-title"><a href="https://youtu.be/3chWVfPbMfU" target="_blank">【#ホロREPO】久しぶりR.E.P.O.ヴィヴィ戦力外です!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
+<td class="app-date">2026-05-08</td>
+<td class="app-channel">@shirakamifubuki</td>
+<td class="app-title"><a href="https://youtu.be/hPDFhImr-g4" target="_blank">【R.E.P.O.】#ホロREPO アプデされたREPOの世界へレッツゴォオオオ!!!! 【ホロライブ/白上フブキ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="akirose" data-status="unreviewed">
+<td class="app-date">2026-05-08</td>
+<td class="app-channel">@akirose</td>
+<td class="app-title"><a href="https://youtu.be/tPDIih-eMSI" target="_blank">【 #ホロREPO 】突発ゲリラれぽ!w.白上フブキ/夏色まつり/綺々羅々ヴィヴィ/不知火フレア【ホロライブ/アキロゼ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-05-08</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/ji6BMQ6Z5E4" target="_blank">【新ボイス】世界でいちばん、あまやかしてくれる?</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
+<td class="app-date">2026-05-06</td>
+<td class="app-channel">@oozora_subaru</td>
+<td class="app-title"><a href="https://youtu.be/235H0fFb8xs" target="_blank">【Cursed Companions】NGワードを言うと仲間にダメージが入るホラゲーやるしゅばああああああああああああああああああ!!!!!!!!【ホロライブ/</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-05-06</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/5fWFKEhWZgE" target="_blank">【Cursed Companions】NGワードで即死!?自滅だけはさけるんだっ!!【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="nekomataokayu" data-status="unreviewed">
+<td class="app-date">2026-05-06</td>
+<td class="app-channel">@nekomataokayu</td>
+<td class="app-title"><a href="https://youtu.be/ubKmGP1jC3M" target="_blank">【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="tsunomakiwatame" data-status="unreviewed">
+<td class="app-date">2026-05-06</td>
+<td class="app-channel">@tsunomakiwatame</td>
+<td class="app-title"><a href="https://youtu.be/2xyaIHRQIaI" target="_blank">【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ4期生】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="rindo_chihaya" data-status="unreviewed">
+<td class="app-date">2026-05-06</td>
+<td class="app-channel">@rindo_chihaya</td>
+<td class="app-title"><a href="https://youtu.be/3WyP7trUfMM" target="_blank">【ガンプラ/カメラあり】ユニコーン!!!!!!つくっていく! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="houshoumarine" data-status="unreviewed">
+<td class="app-date">2026-05-04</td>
+<td class="app-channel">@houshoumarine</td>
+<td class="app-title"><a href="https://youtu.be/CvN02o9LAXQ" target="_blank">【逆凸】誰でもいいから寝かしつけてよ───【ホロライブ/宝鐘マリン】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="ookamimio" data-status="unreviewed">
+<td class="app-date">2026-05-04</td>
+<td class="app-channel">@ookamimio</td>
+<td class="app-title"><a href="https://youtu.be/P6JvmErYjVc" target="_blank">【#朝ミオGW寝起き逆凸 】毎年恒例!2026年の寝起き逆凸です☀【ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="oozora_subaru" data-status="unreviewed">
+<td class="app-date">2026-04-23</td>
+<td class="app-channel">@oozora_subaru</td>
+<td class="app-title"><a href="https://youtu.be/4rAspUpRpik" target="_blank">【#生スバル】スバルの小屋：ゲスト まつり【ホロライブ/大空スバル】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hoshimachisuisei" data-status="unreviewed">
+<td class="app-date">2026-04-21</td>
+<td class="app-channel">@hoshimachisuisei</td>
+<td class="app-title"><a href="https://youtu.be/__p5CB8_J50" target="_blank">"BEEP BEEP" Dance Practice ver. / Hoshimatic Project (official)</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/vAD1-zSpo-I" target="_blank">GET THE CROWN (Instrumental)</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/B5yGiYJbeE8" target="_blank">BEEP BEEP (Instrumental)</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/_xaIb9XOsUo" target="_blank">GET THE CROWN</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/Hew0tgd9Ipg" target="_blank">BEEP BEEP</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hoshimachisuisei" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hoshimachisuisei</td>
+<td class="app-title"><a href="https://youtu.be/kPqmld3_lSs" target="_blank">BEEP BEEP / Hoshimatic Project (official)</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hoshimachisuisei" data-status="unreviewed">
+<td class="app-date">2026-04-17</td>
+<td class="app-channel">@hoshimachisuisei</td>
+<td class="app-title"><a href="https://youtu.be/c2NL4EnaXj8" target="_blank">【3Dで大集合✨】#HoshimaticProject 再始動‼️みんなでMV撮影に挑戦⁉️📸</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="momosuzunene" data-status="unreviewed">
+<td class="app-date">2026-04-16</td>
+<td class="app-channel">@momosuzunene</td>
+<td class="app-title"><a href="https://youtu.be/qx2ieESn3is" target="_blank">【スーパーバニーマン】さすがにまがまがが勝つと思いますwまつりおなと勝負!【 桃鈴ねね / hololive 】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="hololive" data-status="unreviewed">
+<td class="app-date">2026-04-15</td>
+<td class="app-channel">@hololive</td>
+<td class="app-title"><a href="https://youtu.be/O8EEjIvIZTs" target="_blank">【新ボイス】 キラキラ輝くアイドルに!</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="mococo_abyssgard" data-status="unreviewed">
+<td class="app-date">2026-04-11</td>
+<td class="app-channel">@mococo_abyssgard</td>
+<td class="app-title"><a href="https://youtu.be/G9kMF-5nwvs" target="_blank">【PHASMOPHOBIA COLLAB with MATSURI, FUBUKI, RIONA】ドアを守るのはモココだ…!こ、怖くないよ…!!🐾【MOCOCO</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-04-11</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/uBRy-xIqwl4" target="_blank">【Phasmophobia】幽霊調査っ♡先輩たち助けてええええ(´;ω;`)【ホロライブ DEV_IS 響咲リオナ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="shirakamifubuki" data-status="unreviewed">
+<td class="app-date">2026-04-11</td>
+<td class="app-channel">@shirakamifubuki</td>
+<td class="app-title"><a href="https://youtu.be/9TwHXM60FYI" target="_blank">【Phasmophobia】果たしてちゃんと調査できるのか不安な #ホロ幽霊調査【白上フブキ/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="kazamairoha" data-status="unreviewed">
+<td class="app-date">2026-04-01</td>
+<td class="app-channel">@kazamairoha</td>
+<td class="app-title"><a href="https://youtu.be/B9UabapLhqQ" target="_blank">【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="isakiriona" data-status="unreviewed">
+<td class="app-date">2026-03-29</td>
+<td class="app-channel">@isakiriona</td>
+<td class="app-title"><a href="https://youtu.be/FpQBT4OcQT0" target="_blank">【Log Riders】まつりおなで協力ゲー!丸太を転がします♡【ホロライブ DEV_IS 響咲リオナ 夏色まつり】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+<tr class="app-row" data-channel="himemoriluna" data-status="unreviewed">
+<td class="app-date">2026-03-25</td>
+<td class="app-channel">@himemoriluna</td>
+<td class="app-title"><a href="https://youtu.be/9jby5BGzHxI" target="_blank">【 みつめ コラボ 】2人で協力して大学内の異変を探すのら!!!【姫森ルーナ/ホロライブ】</a></td>
+<td>holodex_collab</td>
+<td class="app-status">◇</td>
+</tr>
+</tbody></table>
+
+</main>
+<footer>
+<p>Generated by HCAT at 2026-06-22 00:27</p>
+</footer>
+</body>
+</html>
+<script>function filterApps(){const f=document.getElementById("filter").value.toLowerCase();const s=document.getElementById("statusFilter").value;document.querySelectorAll(".app-row").forEach(r=>{const matchChannel=r.dataset.channel.includes(f);const matchStatus=s==="all"||r.dataset.status===s;r.style.display=matchChannel&&matchStatus?"":"none"})}</script>

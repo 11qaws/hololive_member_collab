@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 data/raw/
-_site/
+# _site/ is committed for GitHub Pages
 *.log
 data/scan_state.json
 data/config.json
