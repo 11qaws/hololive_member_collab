@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field, asdict, fields
 from typing import Optional
 from enum import Enum
 
@@ -51,6 +51,8 @@ class Member:
             d["branch"] = Branch(d["branch"])
         if "status" in d and isinstance(d["status"], str):
             d["status"] = MemberStatus(d["status"])
+        valid = {f.name for f in fields(cls)}
+        d = {k: v for k, v in d.items() if k in valid}
         return cls(**d)
 
     @property
@@ -88,6 +90,8 @@ class Appearance:
 
     @classmethod
     def from_dict(cls, d):
+        valid = {f.name for f in fields(cls)}
+        d = {k: v for k, v in d.items() if k in valid}
         return cls(**d)
 
 
