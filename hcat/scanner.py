@@ -291,7 +291,7 @@ async def scan_for_target_via_holodex(
     if verbose:
         print(f"  Fetching collabs for @{target.handle} ({target.channel_id})...", end=" ")
 
-    raw_collabs = await client.get_all_collabs(target.channel_id)
+    raw_collabs = await client.get_all_collabs(target.channel_id, max_pages=100 if full else 0)
     collabs = _filter_collabs_by_date(raw_collabs, months, full)
 
     if verbose:
@@ -375,9 +375,9 @@ async def scan_all_via_holodex(
     # Phase 1: batch-collect all collabs concurrently
     channel_ids = [m.channel_id for m in members_with_id]
     if verbose:
-        print(f"Fetching collabs for {len(channel_ids)} members concurrently...")
+        print(f"Fetching collabs for {len(channel_ids)} members (adaptive rate)...")
 
-    raw_by_cid = await client.batch_get_all_collabs(channel_ids)
+    raw_by_cid = await client.batch_get_all_collabs(channel_ids, max_pages=100 if full else 0)
 
     video_index: dict[str, dict] = {}
     total_fetched = 0
