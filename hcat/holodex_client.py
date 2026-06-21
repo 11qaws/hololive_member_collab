@@ -8,16 +8,9 @@ from .config import load_config
 
 HOLODEX_BASE = "https://holodex.net/api/v2"
 MAX_LIMIT = 50
-RATE_LIMIT = 0.75  # ~80 req/min → 0.75s between requests
-MAX_CONCURRENT = 5
-
-
-def _mkclient(api_key: str) -> httpx.AsyncClient:
-    return httpx.AsyncClient(
-        base_url=HOLODEX_BASE,
-        headers={"X-APIKEY": api_key},
-        timeout=30,
-    )
+RATE_LIMIT = 1.0
+MAX_CONCURRENT = 3
+MAX_RETRIES = 3
 
 
 class HolodexClient:
@@ -26,7 +19,11 @@ class HolodexClient:
             cfg = load_config()
             api_key = cfg.get("holodex_api_key", "")
         self.api_key = api_key
-        self._client = _mkclient(api_key)
+        self._client = httpx.AsyncClient(
+            base_url=HOLODEX_BASE,
+            headers={"X-APIKEY": api_key},
+            timeout=30,
+        )
         self._rate_lock = asyncio.Lock()
         self._last_req = 0.0
         self._sem = asyncio.Semaphore(MAX_CONCURRENT)
@@ -43,11 +40,18 @@ class HolodexClient:
             self._last_req = time.time()
 
     async def _get(self, path: str, params: dict | None = None) -> list:
-        await self._rate_limit()
         async with self._sem:
-            resp = await self._client.get(path, params=params)
-            resp.raise_for_status()
-            return resp.json()
+            await self._rate_limit()
+            for attempt in range(MAX_RETRIES):
+                resp = await self._client.get(path, params=params)
+                if resp.status_code == 429:
+                    wait = min(2 ** attempt * 5, 60)
+                    print(f"    429 rate limited, retrying in {wait}s...")
+                    await asyncio.sleep(wait)
+                    continue
+                resp.raise_for_status()
+                return resp.json()
+            raise Exception("Rate limited after max retries")
 
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
