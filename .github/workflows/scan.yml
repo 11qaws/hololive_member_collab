@@ -39,6 +39,17 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Check Holodex API key
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+        run: |
+          if [ -z "$HOLODEX_API_KEY" ]; then
+            echo "::error::HOLODEX_API_KEY secret is not set!"
+            echo "Go to Settings → Secrets and variables → Actions → New repository secret"
+            exit 1
+          fi
+          echo "API key OK (${#HOLODEX_API_KEY} chars)"
+
       - name: Run Holodex scan for all members
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
