@@ -8,8 +8,30 @@ from .config import load_config
 
 HOLODEX_BASE = "https://holodex.net/api/v2"
 MAX_LIMIT = 50
-RATE_LIMIT = 1.5
+MAX_CONCURRENT = 2
 MAX_RETRIES = 5
+
+
+class _TokenBucket:
+    def __init__(self, rate: float, burst: int):
+        self.rate = rate
+        self.burst = burst
+        self.tokens = float(burst)
+        self.last = time.monotonic()
+        self.lock = asyncio.Lock()
+
+    async def acquire(self):
+        async with self.lock:
+            now = time.monotonic()
+            elapsed = now - self.last
+            self.tokens = min(self.burst, self.tokens + elapsed * self.rate)
+            self.last = now
+            if self.tokens < 1:
+                wait = (1 - self.tokens) / self.rate
+                await asyncio.sleep(wait)
+                self.tokens = 0
+            else:
+                self.tokens -= 1
 
 
 class HolodexClient:
@@ -23,40 +45,33 @@ class HolodexClient:
             headers={"X-APIKEY": api_key},
             timeout=30,
         )
-        self._rate_lock = asyncio.Lock()
-        self._last_req = 0.0
+        self._bucket = _TokenBucket(rate=1.0, burst=2)
+        self._sem = asyncio.Semaphore(MAX_CONCURRENT)
 
     async def close(self):
         await self._client.aclose()
 
-    async def _rate_limit(self):
-        async with self._rate_lock:
-            now = time.time()
-            since = now - self._last_req
-            if since < RATE_LIMIT:
-                await asyncio.sleep(RATE_LIMIT - since)
-            self._last_req = time.time()
-
     async def _get(self, path: str, params: dict | None = None) -> list:
-        await self._rate_limit()
-        for attempt in range(MAX_RETRIES):
-            resp = await self._client.get(path, params=params)
-            if resp.status_code == 429:
-                wait = min(2 ** attempt * 5, 60)
-                print(f"    429 rate limited, retrying in {wait}s...")
-                await asyncio.sleep(wait)
-                continue
-            if resp.status_code == 200:
-                return resp.json()
-            body = resp.text[:200]
-            if resp.status_code == 403 or "Illegal Access" in body:
-                raise Exception(
-                    "Holodex API rejected the request (Illegal Access). "
-                    "Your API key may be missing, invalid, or revoked. "
-                    "Run: python cli.py config --get | grep holodex_api_key"
-                )
-            resp.raise_for_status()
-        raise Exception("Holodex API max retries exceeded")
+        async with self._sem:
+            await self._bucket.acquire()
+            for attempt in range(MAX_RETRIES):
+                resp = await self._client.get(path, params=params)
+                if resp.status_code == 429:
+                    wait = min(2 ** attempt * 5, 60)
+                    print(f"    429 rate limited, retrying in {wait}s...")
+                    await asyncio.sleep(wait)
+                    continue
+                if resp.status_code == 200:
+                    return resp.json()
+                body = resp.text[:200]
+                if resp.status_code == 403 or "Illegal Access" in body:
+                    raise Exception(
+                        "Holodex API rejected the request (Illegal Access). "
+                        "Your API key may be missing, invalid, or revoked. "
+                        "Run: python cli.py config --get | grep holodex_api_key"
+                    )
+                resp.raise_for_status()
+            raise Exception("Holodex API max retries exceeded")
 
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
@@ -82,7 +97,12 @@ class HolodexClient:
     async def batch_get_all_collabs(
         self, channel_ids: list[str]
     ) -> dict[str, list[dict]]:
+        async def _fetch(cid: str) -> tuple[str, list[dict]]:
+            return cid, await self.get_all_collabs(cid)
+
+        tasks = [_fetch(cid) for cid in channel_ids]
         results = {}
-        for cid in channel_ids:
-            results[cid] = await self.get_all_collabs(cid)
+        for coro in asyncio.as_completed(tasks):
+            cid, videos = await coro
+            results[cid] = videos
         return results
