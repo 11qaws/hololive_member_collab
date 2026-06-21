@@ -215,7 +215,11 @@ main {
 <div class="member-grid">
 {% for m in members %}
 <a href="/member/{{ m.handle }}" class="member-card" data-name="{{ m.name.lower() }} {{ m.handle.lower() }}">
+{% if m.photo_url %}
+<img class="avatar" src="{{ m.photo_url }}" alt="{{ m.name }}">
+{% else %}
 <div class="avatar">{{ m.name[:1] }}</div>
+{% endif %}
 <div class="name">{{ m.name[:20] }}</div>
 <div class="handle">@{{ m.handle }}</div>
 {% if m.status.value != "active" %}

@@ -37,7 +37,7 @@ class HolodexClient:
                 await asyncio.sleep(self._min_interval - since)
             self._last_req = time.monotonic()
 
-    async def _get(self, path: str, params: dict | None = None) -> list:
+    async def _request(self, path: str, params: dict | None = None) -> httpx.Response:
         while True:
             await self._wait()
             try:
@@ -50,7 +50,7 @@ class HolodexClient:
             status = resp.status_code
 
             if status == 200:
-                return resp.json()
+                return resp
 
             if status == 429:
                 try:
@@ -82,10 +82,15 @@ class HolodexClient:
     async def get_collabs(
         self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0
     ) -> list:
-        return await self._get(
+        resp = await self._request(
             f"/channels/{channel_id}/collabs",
             params={"limit": min(limit, MAX_LIMIT), "offset": offset},
         )
+        return resp.json()
+
+    async def get_channel(self, channel_id: str) -> dict:
+        resp = await self._request(f"/channels/{channel_id}")
+        return resp.json()
 
     async def get_all_collabs(self, channel_id: str, max_pages: int = 0) -> list:
         all_videos = []

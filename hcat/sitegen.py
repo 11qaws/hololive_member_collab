@@ -101,7 +101,9 @@ def build_site():
             apps = load_appearances(m.handle)
             count = len(apps)
             confirmed = sum(1 for a in apps if a.status == "confirmed")
+            photo = f'<img src="{m.photo_url}" alt="" style="width:48px;height:48px;border-radius:50%;object-fit:cover;display:block;margin:0 auto .25em">' if m.photo_url else ''
             html.append(f'<div class="member-card" data-name="{m.name.lower()} {m.handle.lower()}">')
+            html.append(photo)
             html.append(f'<h3><a href="members/{m.handle}.html">@{m.handle}</a></h3>')
             html.append(f'<p><strong>{m.name}</strong> {_status_badge(m.status.value)}</p>')
             html.append(f'<p>Appearances: {count} ({confirmed} confirmed)</p>')
@@ -120,10 +122,13 @@ def build_site():
     for m in members:
         apps = load_appearances(m.handle)
         html = [PAGE_HEADER.format()]
-        html.append(f'<h2>@{m.handle} — {m.name} {_status_badge(m.status.value)}</h2>')
+        photo = f'<img src="{m.photo_url}" alt="" style="width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin-right:1em">' if m.photo_url else ''
+        html.append(f'<div style="display:flex;align-items:center;gap:1em;margin-bottom:1em">')
+        html.append(photo)
+        html.append(f'<div><h2>@{m.handle} — {m.name} {_status_badge(m.status.value)}</h2>')
         if m.graduated_at:
             html.append(f'<p>Graduated: {m.graduated_at}</p>')
-        html.append(f'<p>Branch: {m.branch.value}</p>')
+        html.append(f'<p>Branch: {m.branch.value}</p></div></div>')
 
         if not apps:
             html.append('<p>No appearances recorded yet.</p>')

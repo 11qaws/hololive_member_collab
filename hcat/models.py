@@ -33,6 +33,7 @@ class Member:
     branch: Branch = Branch.OTHER
     status: MemberStatus = MemberStatus.ACTIVE
     graduated_at: Optional[str] = None
+    photo_url: Optional[str] = None
 
     def to_dict(self):
         d = {}

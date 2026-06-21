@@ -8,7 +8,7 @@ from .detector import detect_mentions, detect_all_handles
 from .fetcher import fetch_channel_videos_fast, extract_video_info
 from .models import Member, Appearance, Branch, MemberStatus
 from .storage import (
-    load_members, find_member, add_appearance, load_appearances,
+    load_members, find_member, add_appearance, load_appearances, save_members,
     save_scan_state, load_scan_state, add_unknown,
 )
 
@@ -340,6 +340,20 @@ async def scan_for_target_via_holodex(
             if on_detected:
                 on_detected(app, is_new=True)
 
+    # 채널 프로필 사진 가져오기
+    if not target.photo_url:
+        try:
+            ch = await client.get_channel(target.channel_id)
+            if ch.get("photo"):
+                target.photo_url = ch["photo"]
+                for m in members:
+                    if m.handle == target.handle:
+                        m.photo_url = ch["photo"]
+                        break
+                save_members(members)
+        except Exception:
+            pass
+
     await client.close()
     return all_new, total
 
@@ -403,6 +417,17 @@ async def scan_all_via_holodex(
 
         if verbose:
             print(f"  @{m.handle}: {len(collabs)} total, {len(filtered)} after filter")
+
+    # 채널 프로필 사진 가져오기 (photo_url 없는 멤버만)
+    for m in members_with_id:
+        if not m.photo_url:
+            try:
+                ch = await client.get_channel(m.channel_id)
+                if ch.get("photo"):
+                    m.photo_url = ch["photo"]
+            except Exception:
+                pass
+    save_members(members)
 
     await client.close()
 
