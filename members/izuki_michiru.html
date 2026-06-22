@@ -115,9 +115,62 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .stat-card .num { font-size: 1.75rem; font-weight: 700; }
 .stat-card .label { font-size: .75rem; color: var(--text-2); margin-top: .15rem; }
-.stat-card.total .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-.stat-card.confirmed .num { color: #34d399; }
-.stat-card.unreviewed .num { color: #fbbf24; }
+.stat-card.streams .num { color: var(--accent-3); }
+.stat-card.collabs .num { color: var(--accent-2); }
+.stat-card.partners .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+
+.top-partners {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.top-partners-title {
+  font-size: .85rem;
+  font-weight: 600;
+  margin-bottom: .75rem;
+  color: var(--text-2);
+}
+.top-partners-list {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+.top-partner-item {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .35rem .5rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: background .15s;
+}
+.top-partner-item:hover { background: var(--surface-2); }
+.top-partner-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: var(--gradient);
+  opacity: .08;
+  border-radius: var(--radius-sm);
+  pointer-events: none;
+}
+.top-partner-name {
+  font-size: .8rem;
+  font-weight: 500;
+  min-width: 80px;
+  z-index: 1;
+}
+.top-partner-count {
+  font-size: .8rem;
+  color: var(--text-2);
+  font-weight: 600;
+  z-index: 1;
+}
 
 .filter-bar {
   display: flex;
@@ -137,55 +190,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
 
-table { width: 100%; border-collapse: separate; border-spacing: 0; }
-thead th {
-  position: sticky;
-  top: 65px;
-  background: var(--surface-2);
-  padding: .75rem .75rem;
-  font-size: .75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: .04em;
-  color: var(--text-2);
-  text-align: left;
-}
-tbody tr {
-  transition: background .15s;
-}
-tbody tr:hover { background: var(--surface-2); }
-tbody td {
-  padding: .75rem;
-  border-bottom: 1px solid var(--border);
-  font-size: .85rem;
-  vertical-align: middle;
-}
-td .title { max-width: 350px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-td .title a { color: var(--text); text-decoration: none; }
-td .title a:hover { color: var(--accent); }
-.status-badge {
-  display: inline-block;
-  padding: .15rem .5rem;
-  border-radius: 999px;
-  font-size: .7rem;
-  font-weight: 500;
-}
-.status-unreviewed { background: rgba(251,191,36,.12); color: #fbbf24; }
-.status-confirmed { background: rgba(52,211,153,.12); color: #34d399; }
-.status-rejected { background: rgba(248,113,113,.12); color: #f87171; text-decoration: line-through; }
-.btn {
-  cursor: pointer;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text-2);
-  padding: .3rem .6rem;
-  border-radius: var(--radius-sm);
-  font-size: .8rem;
-  transition: all .15s;
-}
-.btn:hover { border-color: var(--accent); color: var(--text); }
-.btn-confirm:hover { border-color: #34d399; color: #34d399; }
-.btn-reject:hover { border-color: #f87171; color: #f87171; }
 .empty-state {
   text-align: center;
   padding: 3rem;
@@ -372,7 +376,6 @@ td .title a:hover { color: var(--accent); }
   main { padding: 0 1rem; }
   .stat-row { grid-template-columns: 1fr; }
   .profile { flex-direction: column; text-align: center; }
-  td .title { max-width: 180px; }
   .timeline::before { left: 16px; }
   .tl-item .tl-dot { left: 16px; }
   .tl-item.stream,
@@ -401,18 +404,6 @@ td .title a:hover { color: var(--accent); }
   font-size: .75rem;
   font-weight: 400;
   color: var(--text-2);
-}
-
-@media (max-width: 640px) {
-  main { padding: 0 1rem; }
-  .stat-row { grid-template-columns: 1fr; }
-  .profile { flex-direction: column; text-align: center; }
-  td .title { max-width: 180px; }
-  .timeline::before { left: 16px; }
-  .tl-item .tl-dot { left: 16px; }
-  .tl-item.stream,
-  .tl-item.collab { justify-content: flex-end; }
-  .tl-item .tl-card { width: calc(100% - 40px); }
 }
 </style>
 </head>
@@ -443,26 +434,26 @@ td .title a:hover { color: var(--accent); }
 </div>
 
 <div class="stat-row">
-<div class="stat-card total">
+<div class="stat-card streams">
 <div class="num">0</div>
-<div class="label">Total</div>
+<div class="label">Streams</div>
 </div>
-<div class="stat-card confirmed">
+<div class="stat-card collabs">
 <div class="num">0</div>
-<div class="label">Confirmed</div>
+<div class="label">Collabs</div>
 </div>
-<div class="stat-card unreviewed">
+<div class="stat-card partners">
 <div class="num">0</div>
-<div class="label">Unreviewed</div>
+<div class="label">Partners</div>
 </div>
 </div>
+
+
 
 
 <div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh izuki_michiru</code> to fetch.</div>
 
 
-
-<div class="empty-state">No appearances recorded yet. Run a scan first.</div>
 
 </main>
 <script>
@@ -472,19 +463,16 @@ function toggleTheme() {
   document.body.classList.toggle('dark');
   localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 }
-function filterApps() {
-  const f = document.getElementById('filter').value.toLowerCase().trim();
-  const s = document.getElementById('statusFilter').value;
-  document.querySelectorAll('tbody tr').forEach(r => {
-    const mc = !f || r.dataset.channel.includes(f);
-    const ms = s === 'all' || r.dataset.status === s;
-    r.style.display = mc && ms ? '' : 'none';
+function filterTimeline() {
+  const kw = document.getElementById('keywordFilter').value.toLowerCase();
+  const f = document.getElementById('partnerFilter').value;
+  document.querySelectorAll('.tl-item').forEach(el => {
+    const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
+    const p = el.dataset.partners || '';
+    const matchKw = !kw || title.includes(kw);
+    const matchF = !f || p.includes(f);
+    el.style.display = matchKw && matchF ? '' : 'none';
   });
-}
-async function setStatus(vid, action) {
-  const handle = 'izuki_michiru';
-  /* static */ console.log(${handle}/${vid}/${action}`, { method: 'POST' });
-  location.reload();
 }
 </script>
 </body>

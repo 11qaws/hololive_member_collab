@@ -359,3 +359,32 @@ def load_timeline_entries(handle: str) -> list[TimelineEntry]:
     result += grouped_collabs
     result.sort(key=lambda e: e.published_at, reverse=True)
     return result
+
+
+def top_collab_partners(entries: list[TimelineEntry], n: int = 5) -> list[tuple[str, int]]:
+    counts: dict[str, int] = {}
+    for e in entries:
+        if e.entry_type != "collab":
+            continue
+        handles: set[str] = set()
+        for se in e.sub_entries:
+            if se.get("partner_handle"):
+                handles.add(se["partner_handle"])
+        if e.partner_handle:
+            handles.add(e.partner_handle)
+        for h in handles:
+            counts[h] = counts.get(h, 0) + 1
+    sorted_counts = sorted(counts.items(), key=lambda x: -x[1])
+    return sorted_counts[:n]
+
+
+def extract_partner_handles(entries: list[TimelineEntry]) -> list[str]:
+    handles: set[str] = set()
+    for e in entries:
+        if e.entry_type == "collab":
+            for se in e.sub_entries:
+                if se.get("partner_handle"):
+                    handles.add(se["partner_handle"])
+            if e.partner_handle:
+                handles.add(e.partner_handle)
+    return sorted(handles)

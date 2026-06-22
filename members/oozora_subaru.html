@@ -115,9 +115,62 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .stat-card .num { font-size: 1.75rem; font-weight: 700; }
 .stat-card .label { font-size: .75rem; color: var(--text-2); margin-top: .15rem; }
-.stat-card.total .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-.stat-card.confirmed .num { color: #34d399; }
-.stat-card.unreviewed .num { color: #fbbf24; }
+.stat-card.streams .num { color: var(--accent-3); }
+.stat-card.collabs .num { color: var(--accent-2); }
+.stat-card.partners .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+
+.top-partners {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.top-partners-title {
+  font-size: .85rem;
+  font-weight: 600;
+  margin-bottom: .75rem;
+  color: var(--text-2);
+}
+.top-partners-list {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+.top-partner-item {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .35rem .5rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: background .15s;
+}
+.top-partner-item:hover { background: var(--surface-2); }
+.top-partner-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: var(--gradient);
+  opacity: .08;
+  border-radius: var(--radius-sm);
+  pointer-events: none;
+}
+.top-partner-name {
+  font-size: .8rem;
+  font-weight: 500;
+  min-width: 80px;
+  z-index: 1;
+}
+.top-partner-count {
+  font-size: .8rem;
+  color: var(--text-2);
+  font-weight: 600;
+  z-index: 1;
+}
 
 .filter-bar {
   display: flex;
@@ -137,55 +190,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
 
-table { width: 100%; border-collapse: separate; border-spacing: 0; }
-thead th {
-  position: sticky;
-  top: 65px;
-  background: var(--surface-2);
-  padding: .75rem .75rem;
-  font-size: .75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: .04em;
-  color: var(--text-2);
-  text-align: left;
-}
-tbody tr {
-  transition: background .15s;
-}
-tbody tr:hover { background: var(--surface-2); }
-tbody td {
-  padding: .75rem;
-  border-bottom: 1px solid var(--border);
-  font-size: .85rem;
-  vertical-align: middle;
-}
-td .title { max-width: 350px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-td .title a { color: var(--text); text-decoration: none; }
-td .title a:hover { color: var(--accent); }
-.status-badge {
-  display: inline-block;
-  padding: .15rem .5rem;
-  border-radius: 999px;
-  font-size: .7rem;
-  font-weight: 500;
-}
-.status-unreviewed { background: rgba(251,191,36,.12); color: #fbbf24; }
-.status-confirmed { background: rgba(52,211,153,.12); color: #34d399; }
-.status-rejected { background: rgba(248,113,113,.12); color: #f87171; text-decoration: line-through; }
-.btn {
-  cursor: pointer;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text-2);
-  padding: .3rem .6rem;
-  border-radius: var(--radius-sm);
-  font-size: .8rem;
-  transition: all .15s;
-}
-.btn:hover { border-color: var(--accent); color: var(--text); }
-.btn-confirm:hover { border-color: #34d399; color: #34d399; }
-.btn-reject:hover { border-color: #f87171; color: #f87171; }
 .empty-state {
   text-align: center;
   padding: 3rem;
@@ -372,7 +376,6 @@ td .title a:hover { color: var(--accent); }
   main { padding: 0 1rem; }
   .stat-row { grid-template-columns: 1fr; }
   .profile { flex-direction: column; text-align: center; }
-  td .title { max-width: 180px; }
   .timeline::before { left: 16px; }
   .tl-item .tl-dot { left: 16px; }
   .tl-item.stream,
@@ -401,18 +404,6 @@ td .title a:hover { color: var(--accent); }
   font-size: .75rem;
   font-weight: 400;
   color: var(--text-2);
-}
-
-@media (max-width: 640px) {
-  main { padding: 0 1rem; }
-  .stat-row { grid-template-columns: 1fr; }
-  .profile { flex-direction: column; text-align: center; }
-  td .title { max-width: 180px; }
-  .timeline::before { left: 16px; }
-  .tl-item .tl-dot { left: 16px; }
-  .tl-item.stream,
-  .tl-item.collab { justify-content: flex-end; }
-  .tl-item .tl-card { width: calc(100% - 40px); }
 }
 </style>
 </head>
@@ -443,677 +434,26 @@ td .title a:hover { color: var(--accent); }
 </div>
 
 <div class="stat-row">
-<div class="stat-card total">
-<div class="num">49</div>
-<div class="label">Total</div>
-</div>
-<div class="stat-card confirmed">
+<div class="stat-card streams">
 <div class="num">0</div>
-<div class="label">Confirmed</div>
+<div class="label">Streams</div>
 </div>
-<div class="stat-card unreviewed">
-<div class="num">49</div>
-<div class="label">Unreviewed</div>
+<div class="stat-card collabs">
+<div class="num">0</div>
+<div class="label">Collabs</div>
+</div>
+<div class="stat-card partners">
+<div class="num">0</div>
+<div class="label">Partners</div>
 </div>
 </div>
+
+
 
 
 <div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh oozora_subaru</code> to fetch.</div>
 
 
-
-<div class="filter-bar">
-<input type="text" id="filter" placeholder="Search channel..." oninput="filterApps()">
-<select id="statusFilter" onchange="filterApps()">
-<option value="all">All</option>
-<option value="unreviewed">Unreviewed</option>
-<option value="confirmed">Confirmed</option>
-<option value="rejected">Rejected</option>
-</select>
-</div>
-<table>
-<thead><tr><th>Date</th><th>Channel</th><th>Title</th><th>Status</th><th></th></tr></thead>
-<tbody>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260618</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/_pr72KtKeXw" target="_blank" title="【 🔴3Dオフコラボ 】みんなで楽しく遊ぼう♩ | 1-2-Switch【 #スバおかすい/ホロライブ 】">【 🔴3Dオフコラボ 】みんなで楽しく遊ぼう♩ | 1-2-Switch【 #スバおかすい/ホロライブ 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('_pr72KtKeXw','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('_pr72KtKeXw','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="mizumiya_su" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260616</td>
-<td><strong>@mizumiya_su</strong></td>
-<td class="title"><a href="https://youtu.be/h0jykfxgmj0" target="_blank" title="【 3DLIVE 】Step Into Dreams【水宮枢/ホロライブDEV_IS】#水宮枢生誕祭2026">【 3DLIVE 】Step Into Dreams【水宮枢/ホロライブDEV_IS】#水宮枢生誕祭2026</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('h0jykfxgmj0','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('h0jykfxgmj0','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="rindo_chihaya" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260612</td>
-<td><strong>@rindo_chihaya</strong></td>
-<td class="title"><a href="https://youtu.be/fvVFdWOHOdU" target="_blank" title="【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】">【Forza Horizon 6】ハンコン体験凸待ち!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('fvVFdWOHOdU','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('fvVFdWOHOdU','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hoshimachisuisei" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260604</td>
-<td><strong>@hoshimachisuisei</strong></td>
-<td class="title"><a href="https://youtu.be/VDkOXbhSyso" target="_blank" title="【#ホロ金策サバイバル2】今日限りの参戦‼遊び尽くすぞおおおおお【星街すいせい / #ほしまちすたじお】">【#ホロ金策サバイバル2】今日限りの参戦‼遊び尽くすぞおおおおお【星街すいせい / #ほしまちすたじお】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('VDkOXbhSyso','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('VDkOXbhSyso','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="usadapekora" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260603</td>
-<td><strong>@usadapekora</strong></td>
-<td class="title"><a href="https://youtu.be/gSV9jaXfW6w" target="_blank" title="【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】">【Minecraft】#ホロ金策サバイバル2 お金を稼ぎたい( ^ω^ ) DAY3 ぺこ!【ホロライブ/兎田ぺこら】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('gSV9jaXfW6w','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('gSV9jaXfW6w','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shishirobotan" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260603</td>
-<td><strong>@shishirobotan</strong></td>
-<td class="title"><a href="https://youtu.be/EYIAwX_NvcU" target="_blank" title="【#ホロ金策サバイバル2】6/3 -3日目の日報!Day3 daily report【獅白ぼたん/ホロライブ】">【#ホロ金策サバイバル2】6/3 -3日目の日報!Day3 daily report【獅白ぼたん/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('EYIAwX_NvcU','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('EYIAwX_NvcU','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260528</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/Wvmm-OmlBek" target="_blank" title="【 #スバおか 】スバおかでフィンランドを堪能するぞ🚑🍙✦ | Finnish Cottage Simulator 【 ホロライブ 】">【 #スバおか 】スバおかでフィンランドを堪能するぞ🚑🍙✦ | Finnish Cottage Simulator 【 ホロライブ 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('Wvmm-OmlBek','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('Wvmm-OmlBek','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="isakiriona" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260528</td>
-<td><strong>@isakiriona</strong></td>
-<td class="title"><a href="https://youtu.be/MW98F6KnkIY" target="_blank" title="【#リオナ生誕祭36時】人生初凸待ち!夜ご飯も食べる🎵【ホロライブ DEV_IS 響咲リオナ】">【#リオナ生誕祭36時】人生初凸待ち!夜ご飯も食べる🎵【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('MW98F6KnkIY','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('MW98F6KnkIY','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="isakiriona" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260525</td>
-<td><strong>@isakiriona</strong></td>
-<td class="title"><a href="https://youtu.be/NQbqIeflIsQ" target="_blank" title="【いえのあじ】今年一怖いホラゲをスバル先輩のお家で・・!?【ホロライブ DEV_IS 響咲リオナ】">【いえのあじ】今年一怖いホラゲをスバル先輩のお家で・・!?【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('NQbqIeflIsQ','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('NQbqIeflIsQ','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="tsunomakiwatame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
-<td><strong>@tsunomakiwatame</strong></td>
-<td class="title"><a href="https://youtu.be/aU3SOPOCIvw" target="_blank" title="【 トモダチコレクション わくわく生活 】新しい仲間(フブちゃん)参戦!今日はういちゃん作る!!【角巻わため/ホロライブ4期生】">【 トモダチコレクション わくわく生活 】新しい仲間(フブちゃん)参戦!今日はういちゃん作る!!【角巻わため/ホロライブ4期生】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('aU3SOPOCIvw','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('aU3SOPOCIvw','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260519</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/MMsugGSP4bA" target="_blank" title="ｵｼｬﾍﾞﾘ">ｵｼｬﾍﾞﾘ</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('MMsugGSP4bA','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('MMsugGSP4bA','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260518</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/rdAAHUqhxJw" target="_blank" title="🏴‍☠️宝鐘マリンのこと、なんて呼ぶ? #hololive #ホロライブ #あなたの呼び方は">🏴‍☠️宝鐘マリンのこと、なんて呼ぶ? #hololive #ホロライブ #あなたの呼び方は</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('rdAAHUqhxJw','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('rdAAHUqhxJw','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260515</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/b9JHMOT-QXs" target="_blank" title="ガンダム×ホロライブプロダクション スペシャルコラボレーション 続報">ガンダム×ホロライブプロダクション スペシャルコラボレーション 続報</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('b9JHMOT-QXs','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('b9JHMOT-QXs','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="sakuramiko" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
-<td><strong>@sakuramiko</strong></td>
-<td class="title"><a href="https://youtu.be/BO6A-bmRn48" target="_blank" title="【 R.E.P.O. 】レポ緊急参戦しまぁす!!!!!!!!!【ホロライブ/さくらみこ】">【 R.E.P.O. 】レポ緊急参戦しまぁす!!!!!!!!!【ホロライブ/さくらみこ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('BO6A-bmRn48','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('BO6A-bmRn48','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="tsunomakiwatame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
-<td><strong>@tsunomakiwatame</strong></td>
-<td class="title"><a href="https://youtu.be/fpAghP4E344" target="_blank" title="【 R.E.P.O. 】ご褒美REPOきちゃー!!!今日はおやすまない羊【角巻わため/ホロライブ4期生】">【 R.E.P.O. 】ご褒美REPOきちゃー!!!今日はおやすまない羊【角巻わため/ホロライブ4期生】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('fpAghP4E344','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('fpAghP4E344','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shirakamifubuki" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
-<td><strong>@shirakamifubuki</strong></td>
-<td class="title"><a href="https://youtu.be/W16FrWqLXk0" target="_blank" title="【R.E.P.O.】 深夜のコスメティック部 #ホロREPO 【ホロライブ/白上フブキ】">【R.E.P.O.】 深夜のコスメティック部 #ホロREPO 【ホロライブ/白上フブキ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('W16FrWqLXk0','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('W16FrWqLXk0','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shiranuiflare" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260513</td>
-<td><strong>@shiranuiflare</strong></td>
-<td class="title"><a href="https://youtu.be/pozpz-dY5k8" target="_blank" title="【R.E.P.O.】今夜のRepo会です!今夜も事件の香りがします【不知火フレア/ホロライブ】">【R.E.P.O.】今夜のRepo会です!今夜も事件の香りがします【不知火フレア/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('pozpz-dY5k8','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('pozpz-dY5k8','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="isakiriona" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@isakiriona</strong></td>
-<td class="title"><a href="https://youtu.be/5fWFKEhWZgE" target="_blank" title="【Cursed Companions】NGワードで即死!?自滅だけはさけるんだっ!!【ホロライブ DEV_IS 響咲リオナ】">【Cursed Companions】NGワードで即死!?自滅だけはさけるんだっ!!【ホロライブ DEV_IS 響咲リオナ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('5fWFKEhWZgE','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('5fWFKEhWZgE','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/ubKmGP1jC3M" target="_blank" title="【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】">【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('ubKmGP1jC3M','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('ubKmGP1jC3M','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="natsuiromatsuri" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@natsuiromatsuri</strong></td>
-<td class="title"><a href="https://youtu.be/n8Mp4n7oxq0" target="_blank" title="【Cursed Companions】NGワードで爆破!?異彩コラボで愛をささやけ💓【ホロライブ/夏色まつり】">【Cursed Companions】NGワードで爆破!?異彩コラボで愛をささやけ💓【ホロライブ/夏色まつり】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('n8Mp4n7oxq0','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('n8Mp4n7oxq0','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="tsunomakiwatame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@tsunomakiwatame</strong></td>
-<td class="title"><a href="https://youtu.be/2xyaIHRQIaI" target="_blank" title="【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ4期生】">【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ4期生】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('2xyaIHRQIaI','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('2xyaIHRQIaI','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hoshimachisuisei" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@hoshimachisuisei</strong></td>
-<td class="title"><a href="https://youtu.be/Jb5eLSBiOKM" target="_blank" title="#BEEPBEEP ダンスリレーチャレンジ🕺🕺🕺 #hoshimaticproject @TokoyamiTowa @OozoraSubaru">#BEEPBEEP ダンスリレーチャレンジ🕺🕺🕺 #hoshimaticproject @TokoyamiTowa @OozoraSubar</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('Jb5eLSBiOKM','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('Jb5eLSBiOKM','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shishirobotan" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260506</td>
-<td><strong>@shishirobotan</strong></td>
-<td class="title"><a href="https://youtu.be/xy9_QWW0oLw" target="_blank" title="ホロメンと一緒にミニ四駆を作ったらコースデビューで大暴走?!🚗💨🏁 #ししろんのゴールデンなウィーク ⑤【獅白ぼたん/ホロライブ】">ホロメンと一緒にミニ四駆を作ったらコースデビューで大暴走?!🚗💨🏁 #ししろんのゴールデンなウィーク ⑤【獅白ぼたん/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('xy9_QWW0oLw','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('xy9_QWW0oLw','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
-<td><strong>@holoen_erbloodflame</strong></td>
-<td class="title"><a href="https://youtu.be/z7NC9iRoW-E" target="_blank" title="[#ERBday2026] OTOKONOKO NI NARITAI Cover - FT. Oozora Subaru (Live from COVER Corp. Studio)">[#ERBday2026] OTOKONOKO NI NARITAI Cover - FT. Oozora Subaru (Live fro</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('z7NC9iRoW-E','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('z7NC9iRoW-E','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="sakuramiko" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260505</td>
-<td><strong>@sakuramiko</strong></td>
-<td class="title"><a href="https://youtu.be/MR_gVtWfB-Y" target="_blank" title="【#みこスバ】🔥GWにすべて正解するまで出られない謎解き監禁部屋~GWすぺしゃる~🔥【ホロライブ/さくらみこ/大空スバル】">【#みこスバ】🔥GWにすべて正解するまで出られない謎解き監禁部屋~GWすぺしゃる~🔥【ホロライブ/さくらみこ/大空スバル】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('MR_gVtWfB-Y','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('MR_gVtWfB-Y','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="houshoumarine" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260504</td>
-<td><strong>@houshoumarine</strong></td>
-<td class="title"><a href="https://youtu.be/CvN02o9LAXQ" target="_blank" title="【逆凸】誰でもいいから寝かしつけてよ───【ホロライブ/宝鐘マリン】">【逆凸】誰でもいいから寝かしつけてよ───【ホロライブ/宝鐘マリン】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('CvN02o9LAXQ','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('CvN02o9LAXQ','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="takanelui" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260503</td>
-<td><strong>@takanelui</strong></td>
-<td class="title"><a href="https://youtu.be/XOovxanG7Pg" target="_blank" title="【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】">【 #ホロDTBトーナメント 】エンジョイ!ホロどうぶつタワーバトルトーナメント3rd✨!!!【鷹嶺ルイ/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('XOovxanG7Pg','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('XOovxanG7Pg','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="sakuramiko" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260502</td>
-<td><strong>@sakuramiko</strong></td>
-<td class="title"><a href="https://youtu.be/TnvzkV8lWlQ" target="_blank" title="【企画】俺たちの真剣二人羽織スマブラ【ホロライブ/さくらみこ/大空スバル/猫又おかゆ/常闇トワ】">【企画】俺たちの真剣二人羽織スマブラ【ホロライブ/さくらみこ/大空スバル/猫又おかゆ/常闇トワ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('TnvzkV8lWlQ','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('TnvzkV8lWlQ','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="sakuramiko" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260502</td>
-<td><strong>@sakuramiko</strong></td>
-<td class="title"><a href="https://youtu.be/N7H0CqXGGMg" target="_blank" title="あえんびえん(阿鼻叫喚)を教えてみた‼️🧑‍🏫 #さくらみこ #kosekibijou #takanashikiara #大空スバル #切り抜き #shorts">あえんびえん(阿鼻叫喚)を教えてみた‼️🧑‍🏫 #さくらみこ #kosekibijou #takanashikiara #大空スバル #切り</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('N7H0CqXGGMg','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('N7H0CqXGGMg','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260429</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/CWRVS_VtrrY" target="_blank" title="【 🔴オフコラボ 】地獄のくじ引きが帰ってきた🔥🔥🔥【 #スバおか /ホロライブ 】">【 🔴オフコラボ 】地獄のくじ引きが帰ってきた🔥🔥🔥【 #スバおか /ホロライブ 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('CWRVS_VtrrY','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('CWRVS_VtrrY','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="holoen_erbloodflame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260425</td>
-<td><strong>@holoen_erbloodflame</strong></td>
-<td class="title"><a href="https://youtu.be/PGppUhILuP4" target="_blank" title="【3D BIRTHDAY LIVE】NOW That's an 80s BOP! #ERBday2026">【3D BIRTHDAY LIVE】NOW That's an 80s BOP! #ERBday2026</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('PGppUhILuP4','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('PGppUhILuP4','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nakiri_ayame" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
-<td><strong>@nakiri_ayame</strong></td>
-<td class="title"><a href="https://youtu.be/9QzgnlmSdJY" target="_blank" title="【School 666】みんなで協力して生き残れ!?【百鬼あやめ視点/ホロライブ】">【School 666】みんなで協力して生き残れ!?【百鬼あやめ視点/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('9QzgnlmSdJY','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('9QzgnlmSdJY','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shirakamifubuki" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
-<td><strong>@shirakamifubuki</strong></td>
-<td class="title"><a href="https://youtu.be/2wpT2D0rI4o" target="_blank" title="【 school666 】え???????異変ですか????????? 【白上フブキ/ホロライブ】">【 school666 】え???????異変ですか????????? 【白上フブキ/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('2wpT2D0rI4o','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('2wpT2D0rI4o','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/wz89TnYZQ44" target="_blank" title="【 school666 】異変だらけの学校をみんなで脱出しよう🏫✦【 猫又おかゆ視点/ホロライブ 】">【 school666 】異変だらけの学校をみんなで脱出しよう🏫✦【 猫又おかゆ視点/ホロライブ 】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('wz89TnYZQ44','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('wz89TnYZQ44','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shirakamifubuki" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260422</td>
-<td><strong>@shirakamifubuki</strong></td>
-<td class="title"><a href="https://youtu.be/lvgNO077B0k" target="_blank" title="【 school666 】え???????異変ですか????????? 【白上フブキ/ホロライブ】">【 school666 】え???????異変ですか????????? 【白上フブキ/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('lvgNO077B0k','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('lvgNO077B0k','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hoshimachisuisei" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260421</td>
-<td><strong>@hoshimachisuisei</strong></td>
-<td class="title"><a href="https://youtu.be/__p5CB8_J50" target="_blank" title=""BEEP BEEP" Dance Practice ver. / Hoshimatic Project (official)">"BEEP BEEP" Dance Practice ver. / Hoshimatic Project (official)</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('__p5CB8_J50','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('__p5CB8_J50','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/vAD1-zSpo-I" target="_blank" title="GET THE CROWN (Instrumental)">GET THE CROWN (Instrumental)</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('vAD1-zSpo-I','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('vAD1-zSpo-I','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/B5yGiYJbeE8" target="_blank" title="BEEP BEEP (Instrumental)">BEEP BEEP (Instrumental)</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('B5yGiYJbeE8','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('B5yGiYJbeE8','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/_xaIb9XOsUo" target="_blank" title="GET THE CROWN">GET THE CROWN</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('_xaIb9XOsUo','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('_xaIb9XOsUo','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hololive" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hololive</strong></td>
-<td class="title"><a href="https://youtu.be/Hew0tgd9Ipg" target="_blank" title="BEEP BEEP">BEEP BEEP</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('Hew0tgd9Ipg','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('Hew0tgd9Ipg','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hoshimachisuisei" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hoshimachisuisei</strong></td>
-<td class="title"><a href="https://youtu.be/kPqmld3_lSs" target="_blank" title="BEEP BEEP / Hoshimatic Project (official)">BEEP BEEP / Hoshimatic Project (official)</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('kPqmld3_lSs','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('kPqmld3_lSs','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="hoshimachisuisei" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260417</td>
-<td><strong>@hoshimachisuisei</strong></td>
-<td class="title"><a href="https://youtu.be/c2NL4EnaXj8" target="_blank" title="【3Dで大集合✨】#HoshimaticProject 再始動‼️みんなでMV撮影に挑戦⁉️📸">【3Dで大集合✨】#HoshimaticProject 再始動‼️みんなでMV撮影に挑戦⁉️📸</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('c2NL4EnaXj8','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('c2NL4EnaXj8','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="takanashikiara" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260409</td>
-<td><strong>@takanashikiara</strong></td>
-<td class="title"><a href="https://youtu.be/6qG5QNiAIZw" target="_blank" title="【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members in my book! #kfp #キアライブ">【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members </a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('6qG5QNiAIZw','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('6qG5QNiAIZw','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="nekomataokayu" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260406</td>
-<td><strong>@nekomataokayu</strong></td>
-<td class="title"><a href="https://youtu.be/8JhmTMJ9zB0" target="_blank" title="【 #猫又おかゆ7周年記念 】こんな日に地獄があっても良いじゃない🔥🔥🔥">【 #猫又おかゆ7周年記念 】こんな日に地獄があっても良いじゃない🔥🔥🔥</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('8JhmTMJ9zB0','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('8JhmTMJ9zB0','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="mococo_abyssgard" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260402</td>
-<td><strong>@mococo_abyssgard</strong></td>
-<td class="title"><a href="https://youtu.be/eeK85lZJPLY" target="_blank" title="【DONKEY KONG COUNTRY 2 with SUBARUオフコラボ】クリアした2人 ならいけるよね⁉️ HOWAMOCOでDKC2をRTA🍌【FUWAMOCO|スーパードンキーコング2】">【DONKEY KONG COUNTRY 2 with SUBARUオフコラボ】クリアした2人 ならいけるよね⁉️ HOWAMOCOでDKC</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('eeK85lZJPLY','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('eeK85lZJPLY','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="kazamairoha" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260401</td>
-<td><strong>@kazamairoha</strong></td>
-<td class="title"><a href="https://youtu.be/B9UabapLhqQ" target="_blank" title="【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】">【凸待ち】第1話最終回🍃だとう!アクダイカンズ【風真いろは/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('B9UabapLhqQ','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('B9UabapLhqQ','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="sakuramiko" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260331</td>
-<td><strong>@sakuramiko</strong></td>
-<td class="title"><a href="https://youtu.be/nLqDnhEp75Q" target="_blank" title="🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】">🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('nLqDnhEp75Q','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('nLqDnhEp75Q','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="shiroganenoel" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260328</td>
-<td><strong>@shiroganenoel</strong></td>
-<td class="title"><a href="https://youtu.be/G2Sw_trWoFM" target="_blank" title="【BIG3】重大告知あり!リスナーさんからのマシュマロお便りもぐもぐだ~!!!【白銀ノエル/ホロライブ】">【BIG3】重大告知あり!リスナーさんからのマシュマロお便りもぐもぐだ~!!!【白銀ノエル/ホロライブ】</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('G2Sw_trWoFM','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('G2Sw_trWoFM','reject')">✗</button>
-
-</td>
-</tr>
-
-<tr data-channel="moricalliope" data-status="unreviewed">
-<td style="white-space:nowrap;color:var(--text-2);font-size:.8rem">20260328</td>
-<td><strong>@moricalliope</strong></td>
-<td class="title"><a href="https://youtu.be/4LA5Iu_qE7k" target="_blank" title="【英会話 ENGLISH TIME!】holo no eigo renshuu!! 告知あり #calliolive">【英会話 ENGLISH TIME!】holo no eigo renshuu!! 告知あり #calliolive</a></td>
-<td><span class="status-badge status-unreviewed">unreviewed</span></td>
-<td style="white-space:nowrap">
-
-<button class="btn btn-confirm" onclick="setStatus('4LA5Iu_qE7k','confirm')">✓</button>
-<button class="btn btn-reject" onclick="setStatus('4LA5Iu_qE7k','reject')">✗</button>
-
-</td>
-</tr>
-
-</tbody>
-</table>
 
 </main>
 <script>
@@ -1123,19 +463,16 @@ function toggleTheme() {
   document.body.classList.toggle('dark');
   localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 }
-function filterApps() {
-  const f = document.getElementById('filter').value.toLowerCase().trim();
-  const s = document.getElementById('statusFilter').value;
-  document.querySelectorAll('tbody tr').forEach(r => {
-    const mc = !f || r.dataset.channel.includes(f);
-    const ms = s === 'all' || r.dataset.status === s;
-    r.style.display = mc && ms ? '' : 'none';
+function filterTimeline() {
+  const kw = document.getElementById('keywordFilter').value.toLowerCase();
+  const f = document.getElementById('partnerFilter').value;
+  document.querySelectorAll('.tl-item').forEach(el => {
+    const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
+    const p = el.dataset.partners || '';
+    const matchKw = !kw || title.includes(kw);
+    const matchF = !f || p.includes(f);
+    el.style.display = matchKw && matchF ? '' : 'none';
   });
-}
-async function setStatus(vid, action) {
-  const handle = 'oozora_subaru';
-  /* static */ console.log(${handle}/${vid}/${action}`, { method: 'POST' });
-  location.reload();
 }
 </script>
 </body>

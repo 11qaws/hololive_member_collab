@@ -9,9 +9,9 @@ import uvicorn
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from hcat.timeline import load_timeline_entries
-from hcat.storage import load_members, load_appearances, load_unknowns, save_appearances, find_member
-from hcat.models import Member, Branch, MemberStatus, Appearance
+from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners
+from hcat.storage import load_members, load_appearances, load_unknowns, find_member
+from hcat.models import Member, Branch, MemberStatus
 
 app = FastAPI(title="HCAT - Hololive Collab Tracker")
 
@@ -44,38 +44,15 @@ async def member_detail(handle: str):
     member = find_member(handle)
     if not member:
         return HTMLResponse("Member not found", status_code=404)
-    appearances = load_appearances(handle)
     timeline = load_timeline_entries(handle)
-    total = len(appearances)
-    confirmed = sum(1 for a in appearances if a.status == "confirmed")
-    unreviewed = sum(1 for a in appearances if a.status == "unreviewed")
-    rejected = sum(1 for a in appearances if a.status == "rejected")
-    appearances.sort(key=lambda a: a.published_at, reverse=True)
+    streams = len([e for e in timeline if e.entry_type == "stream"])
+    collabs = len([e for e in timeline if e.entry_type == "collab"])
+    partner_handles = extract_partner_handles(timeline)
+    top_partners = top_collab_partners(timeline)
     return render("member.html",
-        member=member, appearances=appearances, timeline=timeline,
-        total=total, confirmed=confirmed, unreviewed=unreviewed, rejected=rejected)
-
-
-@app.post("/api/appearance/{handle}/{video_id}/confirm")
-async def confirm_appearance(handle: str, video_id: str):
-    apps = load_appearances(handle)
-    for a in apps:
-        if a.video_id == video_id:
-            a.status = "confirmed"
-            break
-    save_appearances(handle, apps)
-    return {"status": "ok"}
-
-
-@app.post("/api/appearance/{handle}/{video_id}/reject")
-async def reject_appearance(handle: str, video_id: str):
-    apps = load_appearances(handle)
-    for a in apps:
-        if a.video_id == video_id:
-            a.status = "rejected"
-            break
-    save_appearances(handle, apps)
-    return {"status": "ok"}
+        member=member, timeline=timeline,
+        streams=streams, collabs=collabs, partner_handles=partner_handles,
+        top_partners=top_partners)
 
 
 @app.get("/unknowns", response_class=HTMLResponse)
