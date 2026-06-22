@@ -60,7 +60,17 @@ _JP_TO_EN = {
 _STOP_WORDS = {"collab", "with", "feat", "featuring", "vs", "and", "the", "a", "an",
                "in", "of", "for", "to", "is", "are", "it", "its", "en", "jp", "id",
                "no", "on", "at", "by", "or", "be", "was", "but", "not", "hololive",
-               "english", "indonesia", "holoen"}
+               "english", "indonesia", "holoen",
+               "new", "year", "day", "night", "time", "live", "stream", "cover", "song",
+               "mv", "pv", "now", "out", "up", "down", "back", "off", "end", "top",
+               "get", "let", "go", "will", "one", "two", "first", "last", "next",
+               "game", "play", "part", "ep", "special", "original", "official",
+               "feat", "ft", "vs", "this", "that", "these", "those",
+               "really", "just", "very", "much", "more", "some", "still",
+               "about", "into", "over", "after", "before", "between",
+               "hello", "good", "bad", "big", "little", "old", "long",
+               "world", "life", "love", "hope", "dream", "time", "place",
+               "man", "woman", "boy", "girl", "friend", "family"}
 
 
 def _expand_abbreviations(text: str) -> str:
@@ -291,7 +301,7 @@ def load_timeline_entries(handle: str) -> list[TimelineEntry]:
             primary.title = _representative_title(primary.title)
             grouped_collabs.append(primary)
 
-    # Index self entries by (date, content_key)
+    # ── First pass: exact (date, content_key) pairing ──
     self_by_ck: dict[tuple[str, str], TimelineEntry] = {}
     for s in selfs:
         key = (s.published_at, s._content_key)
@@ -312,6 +322,38 @@ def load_timeline_entries(handle: str) -> list[TimelineEntry]:
                     "published_at": s.published_at,
                 }
                 used_self.add(id(s))
+
+    # ── Second pass: word-overlap pairing for remaining ──
+    def _collab_group_words(c: TimelineEntry) -> set[str]:
+        words: set[str] = set()
+        words |= _significant_words(c.title)
+        for se in c.sub_entries:
+            words |= _significant_words(se.get("title", ""))
+        return words
+
+    stream_word_index: list[tuple[TimelineEntry, set[str]]] = [
+        (s, _significant_words(s.title)) for s in selfs if id(s) not in used_self
+    ]
+
+    for c in grouped_collabs:
+        if c.paired_self:
+            continue
+        c_words = _collab_group_words(c)
+        for s, s_words in stream_word_index:
+            if id(s) in used_self:
+                continue
+            if s.published_at != c.published_at:
+                continue
+            if c_words & s_words:
+                c.paired_self = {
+                    "video_id": s.video_id,
+                    "title": s.title,
+                    "url": s.url,
+                    "thumbnail": s.thumbnail,
+                    "published_at": s.published_at,
+                }
+                used_self.add(id(s))
+                break
 
     result = [s for s in selfs if id(s) not in used_self]
     result += grouped_collabs
