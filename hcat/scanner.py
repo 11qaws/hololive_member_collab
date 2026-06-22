@@ -218,6 +218,17 @@ def _build_uploader_map(members: list[Member]) -> dict[str, Member]:
     return mapping
 
 
+def _build_shared_channel_owners(members: list[Member]) -> dict[str, set[str]]:
+    """channel_id → set of member handles that own this channel (for shared channels)."""
+    owners: dict[str, set[str]] = {}
+    for m in members:
+        if m.channel_id:
+            cid = m.channel_id.strip()
+            if cid:
+                owners.setdefault(cid, set()).add(m.handle.lower())
+    return {cid: h for cid, h in owners.items() if len(h) > 1}
+
+
 def _parse_holodex_date(date_str: str) -> str:
     if not date_str:
         return ""
@@ -279,6 +290,7 @@ async def scan_for_target_via_holodex(
 
     members = load_members()
     uploader_map = _build_uploader_map(members)
+    shared_owners = _build_shared_channel_owners(members)
 
     if branches:
         branch_set = set(branches)
@@ -316,7 +328,8 @@ async def scan_for_target_via_holodex(
         if branches and uploader.branch not in branch_set:
             continue
 
-        if uploader.handle.lower() == target.handle.lower():
+        all_owners = shared_owners.get(uploader_cid, {uploader.handle.lower()})
+        if target.handle.lower() in all_owners:
             continue
 
         title = v.get("title", "") or ""
@@ -375,6 +388,7 @@ async def scan_all_via_holodex(
         scan_members = members
 
     uploader_map = _build_uploader_map(members)
+    shared_owners = _build_shared_channel_owners(members)
 
     members_with_id = [m for m in scan_members if m.channel_id]
     if verbose:
@@ -445,7 +459,8 @@ async def scan_all_via_holodex(
             continue
 
         for target_handle in targets:
-            if target_handle == uploader.handle.lower():
+            all_owners = shared_owners.get(uploader_cid, {uploader.handle.lower()})
+            if target_handle in all_owners:
                 continue
 
             title = v.get("title", "") or ""

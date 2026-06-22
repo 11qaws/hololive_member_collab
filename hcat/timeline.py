@@ -149,6 +149,9 @@ def _representative_title(title: str) -> str:
 
 def _collab_entries(handle: str) -> list[TimelineEntry]:
     apps = load_appearances(handle)
+    twin_handles = {"fuwawa_abyssgard", "mococo_abyssgard"}
+    if handle in twin_handles:
+        apps = [a for a in apps if a.channel_handle not in twin_handles]
     out = []
     for a in apps:
         if a.detection_method != "holodex_collab":
@@ -266,6 +269,60 @@ async def refresh_all_timelines(months: int = 3, full: bool = False):
             print(f"  @{m.handle}: ERROR {e}")
 
 
+def _twin_pov_filter(handle: str, selfs: list[TimelineEntry]) -> tuple[list[TimelineEntry], list[TimelineEntry]]:
+    """For shared-channel twins: filter stream entries by POV/SOLO markers.
+    Returns (filtered_selfs, extra_collab_entries)."""
+    other_twin = {"fuwawa_abyssgard": "mococo_abyssgard", "mococo_abyssgard": "fuwawa_abyssgard"}
+    if handle not in other_twin:
+        return selfs, []
+
+    is_fuwawa = handle == "fuwawa_abyssgard"
+    my_pov = '【FUWAWA POV】' if is_fuwawa else '【MOCOCO POV】'
+    other_pov = '【MOCOCO POV】' if is_fuwawa else '【FUWAWA POV】'
+    my_solo = '【FUWAWA SOLO】' if is_fuwawa else '【MOCOCO SOLO】'
+    other_solo = '【MOCOCO SOLO】' if is_fuwawa else '【FUWAWA SOLO】'
+
+    my_pov_index: dict[tuple[str, str], TimelineEntry] = {}
+    other_pov_index: dict[tuple[str, str], TimelineEntry] = {}
+    for s in selfs:
+        if my_pov in s.title:
+            my_pov_index[(s.published_at, s._content_key)] = s
+        if other_pov in s.title:
+            other_pov_index[(s.published_at, s._content_key)] = s
+
+    kept: list[TimelineEntry] = []
+    extra_collabs: list[TimelineEntry] = []
+
+    for s in selfs:
+        key = (s.published_at, s._content_key)
+
+        if other_solo in s.title and my_solo not in s.title:
+            continue
+
+        if other_pov in s.title and my_pov not in s.title:
+            continue
+
+        kept.append(s)
+
+        if my_pov in s.title and key in other_pov_index:
+            partner = other_twin[handle]
+            other_entry = other_pov_index[key]
+            c = TimelineEntry(
+                video_id=other_entry.video_id,
+                title=other_entry.title,
+                published_at=other_entry.published_at,
+                url=other_entry.url,
+                entry_type="collab",
+                thumbnail=other_entry.thumbnail,
+                partner_handle=partner,
+                partner_name="",
+                _content_key=other_entry._content_key,
+            )
+            extra_collabs.append(c)
+
+    return kept, extra_collabs
+
+
 def load_timeline_entries(handle: str) -> list[TimelineEntry]:
     entries = load_timeline(handle)
     selfs = [e for e in entries if e.entry_type == "stream"]
@@ -273,6 +330,10 @@ def load_timeline_entries(handle: str) -> list[TimelineEntry]:
 
     for e in entries:
         e._content_key = _content_group_key(e.title)
+
+    filtered_selfs, extra_collabs = _twin_pov_filter(handle, selfs)
+    selfs = filtered_selfs
+    collabs = collabs + extra_collabs
 
     groups: dict[tuple[str, str], list[TimelineEntry]] = {}
     for e in collabs:
