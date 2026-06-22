@@ -78,7 +78,7 @@ def _collab_entries(handle: str) -> list[TimelineEntry]:
     return out
 
 
-async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages: int = 10) -> list[TimelineEntry]:
+async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages: int = 10, full: bool = False) -> list[TimelineEntry]:
     from datetime import datetime, timedelta
     from .holodex_client import HolodexClient
 
@@ -87,7 +87,7 @@ async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages:
     out = []
     for v in raw:
         pid = _parse_yymmdd(v.get("published_at", ""))
-        if pid < cutoff:
+        if not full and pid < cutoff:
             continue
         out.append(TimelineEntry(
             video_id=v.get("id", ""),
@@ -111,7 +111,7 @@ async def refresh_timeline(handle: str, months: int = 3, full: bool = False) -> 
 
     client = HolodexClient()
     max_pages = 100 if full else 10
-    self_vids = await fetch_self_videos(client, member.channel_id, months=months, max_pages=max_pages)
+    self_vids = await fetch_self_videos(client, member.channel_id, months=months, max_pages=max_pages, full=full)
     await client.close()
 
     collabs = _collab_entries(handle)
