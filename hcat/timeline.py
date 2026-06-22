@@ -200,7 +200,7 @@ def _merge_similar_groups(groups: dict[tuple[str, str], list[TimelineEntry]]) ->
     return result
 
 
-async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages: int = 10, full: bool = False) -> list[TimelineEntry]:
+async def fetch_stream_videos(client, channel_id: str, months: int = 3, max_pages: int = 10, full: bool = False) -> list[TimelineEntry]:
     from datetime import datetime, timedelta
     from .holodex_client import HolodexClient
 
@@ -216,7 +216,7 @@ async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages:
             title=v.get("title", ""),
             published_at=pid,
             url=f"https://youtu.be/{v.get('id', '')}",
-            entry_type="self",
+            entry_type="stream",
             thumbnail=v.get("thumbnail", "") or f"https://img.youtube.com/vi/{v.get('id', '')}/mqdefault.jpg",
         ))
     return out
@@ -233,7 +233,7 @@ async def refresh_timeline(handle: str, months: int = 3, full: bool = False) -> 
 
     client = HolodexClient()
     max_pages = 100 if full else 10
-    self_vids = await fetch_self_videos(client, member.channel_id, months=months, max_pages=max_pages, full=full)
+    self_vids = await fetch_stream_videos(client, member.channel_id, months=months, max_pages=max_pages, full=full)
     await client.close()
 
     collabs = _collab_entries(handle)
@@ -241,7 +241,7 @@ async def refresh_timeline(handle: str, months: int = 3, full: bool = False) -> 
     flat_count = len(collabs)
     merged = sorted(self_vids + collabs, key=lambda e: e.published_at, reverse=True)
     save_timeline(handle, merged)
-    print(f"  @{handle}: {len(self_vids)} self + {flat_count} collab = {len(merged)} timeline entries")
+    print(f"  @{handle}: {len(self_vids)} stream + {flat_count} collab = {len(merged)} timeline entries")
     return merged
 
 
@@ -258,7 +258,7 @@ async def refresh_all_timelines(months: int = 3, full: bool = False):
 
 def load_timeline_entries(handle: str) -> list[TimelineEntry]:
     entries = load_timeline(handle)
-    selfs = [e for e in entries if e.entry_type == "self"]
+    selfs = [e for e in entries if e.entry_type == "stream"]
     collabs = [e for e in entries if e.entry_type == "collab"]
 
     for e in entries:

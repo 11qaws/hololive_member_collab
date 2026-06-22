@@ -101,7 +101,7 @@ class TimelineEntry:
     title: str
     published_at: str  # YYYYMMDD
     url: str
-    entry_type: str  # "self" or "collab"
+    entry_type: str  # "stream" or "collab"
     thumbnail: str = ""
     partner_handle: str = ""  # primary partner handle
     partner_name: str = ""  # primary partner name
@@ -119,6 +119,8 @@ class TimelineEntry:
     def from_dict(cls, d):
         valid = {f.name for f in fields(cls) if not f.name.startswith("_")}
         d = {k: v for k, v in d.items() if k in valid}
+        if d.get("entry_type") == "self":
+            d["entry_type"] = "stream"
         return cls(**d)
 
 
