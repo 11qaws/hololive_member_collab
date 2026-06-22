@@ -34,6 +34,81 @@ def _extract_series(title: str) -> str | None:
 
 _ENRECO_KEYWORDS = ["enreco", "enigmatic"]
 
+_ABBREVIATIONS = {
+    "dbd": "dead by daylight",
+    "mc": "minecraft",
+    "mk8": "mario kart 8",
+    "mk8dx": "mario kart 8 deluxe",
+}
+
+_JP_TO_EN = {
+    "マリオカート8dx": "mario kart 8dx",
+    "マリオカート8dx": "mario kart 8dx",
+    "マリオカート": "mario kart",
+    "ホロお正月cup2022": "holo new years cup 2022",
+    "ホロお正月cup2023": "holo new years cup 2023",
+    "ホロお正月cup2024": "holo new years cup 2024",
+    "ホロお正月cup": "holo new years cup",
+    "ホロ鯖夏祭り": "holoserver summer festival",
+    "ホロライブ大運動会2023": "hololive sports festival 2023",
+    "ホロサマ": "holosummer",
+    "ホロライブ": "hololive",
+    "テトリス": "tetris",
+    "アニメ": "anime",
+}
+
+_STOP_WORDS = {"collab", "with", "feat", "featuring", "vs", "and", "the", "a", "an",
+               "in", "of", "for", "to", "is", "are", "it", "its", "en", "jp", "id",
+               "no", "on", "at", "by", "or", "be", "was", "but", "not", "hololive",
+               "english", "indonesia", "holoen"}
+
+
+def _expand_abbreviations(text: str) -> str:
+    words = text.split()
+    expanded = []
+    for w in words:
+        w_low = w.lower()
+        if w_low in _ABBREVIATIONS:
+            expanded.append(_ABBREVIATIONS[w_low])
+        else:
+            expanded.append(w)
+    return " ".join(expanded)
+
+
+def _jp_to_en(text: str) -> str:
+    low = text.strip().lower()
+    if low in _JP_TO_EN:
+        return _JP_TO_EN[low]
+    return text
+
+
+def _significant_words(text: str) -> set[str]:
+    text = text.lower()
+    text = re.sub(r'[【】≪≫\[\]\(\)〈〉《》「」『』、。！？,\.:;!?\-#@#]', ' ', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    words = text.split()
+    expanded = []
+    for w in words:
+        w_en = _jp_to_en(w)
+        if w_en != w:
+            expanded.extend(w_en.split())
+        elif w in _ABBREVIATIONS:
+            expanded.extend(_ABBREVIATIONS[w].split())
+        else:
+            expanded.append(w)
+    result = set()
+    for w in expanded:
+        w = w.strip().lower()
+        w = w.strip("'\"")
+        if not w or len(w) <= 2:
+            continue
+        if w in _STOP_WORDS:
+            continue
+        if w.isdigit() and len(w) <= 3:
+            continue
+        result.add(w)
+    return result
+
 
 def _has_enreco_tag(title: str) -> bool:
     low = title.lower()
@@ -45,7 +120,10 @@ def _content_group_key(title: str) -> str:
         return "enigmatic recollection"
     series = _extract_series(title)
     if series:
-        return _normalize_series(series)
+        normalized = _normalize_series(series)
+        expanded = _expand_abbreviations(normalized)
+        jp_expanded = _jp_to_en(expanded)
+        return jp_expanded
     return title[:30].rstrip()
 
 
@@ -76,6 +154,50 @@ def _collab_entries(handle: str) -> list[TimelineEntry]:
             partner_name=a.channel_name,
         ))
     return out
+
+
+_merge_counter = 0
+
+
+def _merge_similar_groups(groups: dict[tuple[str, str], list[TimelineEntry]]) -> dict[tuple[str, str], list[TimelineEntry]]:
+    by_date: dict[str, list[tuple[tuple[str, str], list[TimelineEntry], set[str]]]] = defaultdict(list)
+    for key, entries in groups.items():
+        all_words: set[str] = set()
+        for e in entries:
+            all_words |= _significant_words(e.title)
+        by_date[key[0]].append((key, entries, all_words))
+
+    result: dict[tuple[str, str], list[TimelineEntry]] = {}
+    for date, date_groups in by_date.items():
+        if len(date_groups) == 1:
+            result[date_groups[0][0]] = date_groups[0][1]
+            continue
+
+        merged = []
+        used: set[int] = set()
+        for i, (key_i, entries_i, words_i) in enumerate(date_groups):
+            if i in used:
+                continue
+            current_entries = list(entries_i)
+            current_words = set(words_i)
+            changed = True
+            while changed:
+                changed = False
+                for j, (key_j, entries_j, words_j) in enumerate(date_groups):
+                    if j in used or j == i:
+                        continue
+                    if current_words & words_j:
+                        current_entries.extend(entries_j)
+                        current_words |= words_j
+                        used.add(j)
+                        changed = True
+            used.add(i)
+            merged.append((key_i, current_entries))
+
+        for key, entries in merged:
+            result[key] = entries
+
+    return result
 
 
 async def fetch_self_videos(client, channel_id: str, months: int = 3, max_pages: int = 10, full: bool = False) -> list[TimelineEntry]:
@@ -146,6 +268,8 @@ def load_timeline_entries(handle: str) -> list[TimelineEntry]:
     for e in collabs:
         key = (e.published_at, e._content_key)
         groups.setdefault(key, []).append(e)
+
+    groups = _merge_similar_groups(groups)
 
     grouped_collabs: list[TimelineEntry] = []
     for (date, ck), group_entries in groups.items():
