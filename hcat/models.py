@@ -95,6 +95,33 @@ class Appearance:
         return cls(**d)
 
 
+@dataclass
+class TimelineEntry:
+    video_id: str
+    title: str
+    published_at: str  # YYYYMMDD
+    url: str
+    entry_type: str  # "self" or "collab"
+    thumbnail: str = ""
+    partner_handle: str = ""  # primary partner handle
+    partner_name: str = ""  # primary partner name
+    sub_entries: list[dict] = field(default_factory=list)  # grouped collab: [{...}, ...]
+    paired_self: Optional[dict] = None  # set at load time: {video_id, title, url, thumbnail}
+    _content_key: str = ""  # runtime: normalized content key for pairing
+
+    def to_dict(self):
+        d = asdict(self)
+        d.pop("paired_self", None)
+        d.pop("_content_key", None)
+        return d
+
+    @classmethod
+    def from_dict(cls, d):
+        valid = {f.name for f in fields(cls) if not f.name.startswith("_")}
+        d = {k: v for k, v in d.items() if k in valid}
+        return cls(**d)
+
+
 SCAN_GROUP_ORDER = [
     Branch.EN,
     Branch.OFFICIAL,

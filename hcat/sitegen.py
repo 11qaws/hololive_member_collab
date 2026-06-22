@@ -9,6 +9,7 @@ import jinja2
 from .config import get_data_dir
 from .models import Member, Branch, MemberStatus, Appearance
 from .storage import load_members, load_appearances
+from .timeline import load_timeline_entries
 
 
 def _fix_links(html: str) -> str:
@@ -60,6 +61,7 @@ def build_site():
     # ── Member pages ──
     for m in members:
         apps = load_appearances(m.handle)
+        timeline = load_timeline_entries(m.handle)
         total = len(apps)
         confirmed = sum(1 for a in apps if a.status == "confirmed")
         unreviewed = sum(1 for a in apps if a.status == "unreviewed")
@@ -67,7 +69,7 @@ def build_site():
         apps.sort(key=lambda a: a.published_at, reverse=True)
         html = _fix_links_member(
             env.get_template("member.html").render(
-                member=m, appearances=apps,
+                member=m, appearances=apps, timeline=timeline,
                 total=total, confirmed=confirmed, unreviewed=unreviewed, rejected=rejected),
             m.handle,
         )

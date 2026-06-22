@@ -9,6 +9,7 @@ import uvicorn
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+from hcat.timeline import load_timeline_entries
 from hcat.storage import load_members, load_appearances, load_unknowns, save_appearances, find_member
 from hcat.models import Member, Branch, MemberStatus, Appearance
 
@@ -44,13 +45,14 @@ async def member_detail(handle: str):
     if not member:
         return HTMLResponse("Member not found", status_code=404)
     appearances = load_appearances(handle)
+    timeline = load_timeline_entries(handle)
     total = len(appearances)
     confirmed = sum(1 for a in appearances if a.status == "confirmed")
     unreviewed = sum(1 for a in appearances if a.status == "unreviewed")
     rejected = sum(1 for a in appearances if a.status == "rejected")
     appearances.sort(key=lambda a: a.published_at, reverse=True)
     return render("member.html",
-        member=member, appearances=appearances,
+        member=member, appearances=appearances, timeline=timeline,
         total=total, confirmed=confirmed, unreviewed=unreviewed, rejected=rejected)
 
 

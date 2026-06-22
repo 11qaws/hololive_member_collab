@@ -191,11 +191,227 @@ td .title a:hover { color: var(--accent); }
   color: var(--text-2);
   font-size: .9rem;
 }
+
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--border);
+  transform: translateX(-50%);
+}
+.tl-item {
+  display: flex;
+  position: relative;
+  margin: 0 0 1.5rem;
+}
+.tl-item .tl-dot {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 3px solid var(--surface);
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.tl-item.self .tl-dot { background: var(--accent-3); }
+.tl-item.collab .tl-dot { background: var(--accent-2); }
+.tl-item .tl-card {
+  width: calc(50% - 24px);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: box-shadow .2s;
+}
+.tl-item .tl-card:hover { box-shadow: var(--shadow-lg); }
+.tl-item.self { justify-content: flex-start; }
+.tl-item.collab { justify-content: flex-end; }
+.tl-item .tl-card a,
+.tl-item a.tl-card,
+.tl-item .tl-card .tl-card-inner {
+  display: flex;
+  gap: .75rem;
+  text-decoration: none;
+  color: var(--text);
+  padding: .75rem;
+}
+.tl-item .tl-thumb {
+  width: 80px;
+  height: 45px;
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--surface-2);
+}
+.tl-item .tl-body { flex: 1; min-width: 0; }
+.tl-item .tl-body .tl-title {
+  font-size: .85rem;
+  font-weight: 500;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.3;
+}
+.tl-item .tl-body .tl-meta {
+  font-size: .75rem;
+  color: var(--text-2);
+  margin-top: .25rem;
+}
+.tl-item .tl-body .tl-meta .tl-badge {
+  display: inline-block;
+  font-size: .65rem;
+  padding: .1rem .45rem;
+  border-radius: 999px;
+  font-weight: 500;
+  margin-right: .35rem;
+}
+.tl-badge-self { background: rgba(6,182,212,.12); color: #06b6d4; }
+.tl-badge-collab { background: rgba(236,72,153,.12); color: #ec4899; }
+.tl-item.collab .tl-card { border-color: rgba(236,72,153,.2); }
+.tl-item.self .tl-card { border-color: rgba(6,182,212,.2); }
+.tl-partners {
+  font-size: .75rem;
+  color: var(--text-2);
+  margin-top: .25rem;
+}
+.tl-partners .partner {
+  display: inline-block;
+  background: var(--surface-2);
+  padding: .1rem .45rem;
+  border-radius: 999px;
+  margin: .15rem .2rem .15rem 0;
+  font-size: .7rem;
+}
+.tl-expand {
+  display: inline-block;
+  font-size: .7rem;
+  color: var(--accent-2);
+  cursor: pointer;
+  margin-top: .25rem;
+  user-select: none;
+}
+.tl-expand:hover { text-decoration: underline; }
+.tl-subs {
+  display: none;
+  border-top: 1px solid var(--border);
+  margin-top: .5rem;
+  padding-top: .5rem;
+}
+.tl-subs.open { display: block; }
+.tl-sub {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .3rem .75rem .3rem 0;
+  font-size: .8rem;
+  color: var(--text);
+  text-decoration: none;
+}
+.tl-sub:hover { background: var(--surface-2); }
+.tl-sub .sub-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent-2);
+  flex-shrink: 0;
+  margin-left: .75rem;
+}
+.tl-sub-title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tl-sub-meta { font-size: .7rem; color: var(--text-2); white-space: nowrap; }
+.tl-sub .sub-label {
+  color: var(--text-2);
+  font-size: .7rem;
+}
+
+/* ── Paired entry (self + collab side by side) ── */
+.tl-item.pair {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 0 0 1.5rem;
+  position: relative;
+}
+.tl-item.pair .tl-dot {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent-3);
+  border: 3px solid var(--surface);
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.tl-pair-self,
+.tl-pair-collab {
+  width: calc(50% - 24px);
+}
+.tl-pair-self .tl-card {
+  width: 100%;
+  border-color: rgba(6,182,212,.2);
+}
+.tl-pair-collab .tl-card {
+  width: 100%;
+  border-color: rgba(236,72,153,.2);
+}
+
 @media (max-width: 640px) {
   main { padding: 0 1rem; }
   .stat-row { grid-template-columns: 1fr; }
   .profile { flex-direction: column; text-align: center; }
   td .title { max-width: 180px; }
+  .timeline::before { left: 16px; }
+  .tl-item .tl-dot { left: 16px; }
+  .tl-item.self,
+  .tl-item.collab { justify-content: flex-end; }
+  .tl-item .tl-card { width: calc(100% - 40px); }
+  .tl-item.pair { flex-direction: column; gap: 1rem; }
+  .tl-item.pair .tl-dot { left: 50%; }
+  .tl-pair-self,
+  .tl-pair-collab { width: 100%; }
+}
+.tl-empty {
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-2);
+  font-size: .9rem;
+}
+.tl-section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+.tl-section-title .tl-count {
+  font-size: .75rem;
+  font-weight: 400;
+  color: var(--text-2);
+}
+
+@media (max-width: 640px) {
+  main { padding: 0 1rem; }
+  .stat-row { grid-template-columns: 1fr; }
+  .profile { flex-direction: column; text-align: center; }
+  td .title { max-width: 180px; }
+  .timeline::before { left: 16px; }
+  .tl-item .tl-dot { left: 16px; }
+  .tl-item.self,
+  .tl-item.collab { justify-content: flex-end; }
+  .tl-item .tl-card { width: calc(100% - 40px); }
 }
 </style>
 </head>
@@ -239,6 +455,10 @@ td .title a:hover { color: var(--accent); }
 <div class="label">Unreviewed</div>
 </div>
 </div>
+
+
+<div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh moricalliope</code> to fetch.</div>
+
 
 
 <div class="filter-bar">

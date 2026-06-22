@@ -92,6 +92,28 @@ class HolodexClient:
         resp = await self._request(f"/channels/{channel_id}")
         return resp.json()
 
+    async def get_channel_videos(self, channel_id: str, limit: int = MAX_LIMIT, offset: int = 0) -> list:
+        resp = await self._request(
+            f"/channels/{channel_id}/videos",
+            params={"limit": min(limit, MAX_LIMIT), "offset": offset},
+        )
+        return resp.json()
+
+    async def get_all_videos(self, channel_id: str, max_pages: int = 5) -> list:
+        all_videos = []
+        offset = 0
+        pages = 0
+        while pages < max_pages:
+            videos = await self.get_channel_videos(channel_id, offset=offset)
+            if not videos:
+                break
+            all_videos.extend(videos)
+            offset += len(videos)
+            pages += 1
+            if len(videos) < MAX_LIMIT:
+                break
+        return all_videos
+
     async def get_all_collabs(self, channel_id: str, max_pages: int = 0) -> list:
         all_videos = []
         offset = 0

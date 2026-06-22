@@ -17,6 +17,7 @@ from hcat.storage import (
 from hcat.models import Branch
 from hcat.scanner import scan_for_target, scan_all_unknowns, scan_for_target_via_holodex, scan_all_via_holodex
 from hcat.sitegen import build_site
+from hcat.timeline import refresh_timeline, refresh_all_timelines
 
 
 def cmd_scan_members(args):
@@ -255,6 +256,17 @@ def cmd_reset_state(args):
         print("State reset.")
 
 
+def cmd_timeline(args):
+    async def run():
+        if args.all_members:
+            await refresh_all_timelines(months=args.months, full=args.full)
+        elif args.handle:
+            await refresh_timeline(args.handle, months=args.months, full=args.full)
+        else:
+            print("Specify a handle or --all")
+    asyncio.run(run())
+
+
 def main():
     parser = argparse.ArgumentParser(description="Hololive Cross-Appearance Tracker")
     sub = parser.add_subparsers(dest="command")
@@ -307,6 +319,14 @@ def main():
     p = sub.add_parser("reset", help="Reset scan state for a member")
     p.add_argument("handle", help="Member handle")
     p.set_defaults(func=cmd_reset_state)
+
+    # timeline
+    p = sub.add_parser("timeline", help="Refresh timeline for a member")
+    p.add_argument("handle", nargs="?", help="Member handle")
+    p.add_argument("--all", dest="all_members", action="store_true", help="Refresh all timelines")
+    p.add_argument("--months", type=int, default=3, help="Recent N months")
+    p.add_argument("--full", action="store_true", help="Scan all available videos (100 pages)")
+    p.set_defaults(func=cmd_timeline)
 
     args = parser.parse_args()
     if not hasattr(args, "func"):

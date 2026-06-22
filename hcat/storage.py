@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Optional
 
 from .config import get_data_dir
-from .models import Member, Appearance, MemberStatus
+from .models import Member, Appearance, MemberStatus, TimelineEntry
 
 
 def load_members() -> list[Member]:
@@ -100,3 +100,24 @@ def save_scan_state(state: dict):
     path = get_data_dir() / "scan_state.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
+
+
+def load_timeline(handle: str) -> list[TimelineEntry]:
+    path = get_data_dir() / "timeline" / f"{handle.lower()}.json"
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    return [TimelineEntry.from_dict(e) for e in data.get("entries", [])]
+
+
+def save_timeline(handle: str, entries: list[TimelineEntry]):
+    path = get_data_dir() / "timeline" / f"{handle.lower()}.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    data = {
+        "target": handle.lower(),
+        "count": len(entries),
+        "entries": [e.to_dict() for e in entries],
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
