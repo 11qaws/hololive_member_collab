@@ -512,6 +512,9 @@ td .title a:hover { color: var(--accent); }
 <div class="tl-meta">
 <span class="tl-badge tl-badge-collab">COLLAB</span>
 {{ e.published_at[:4] }}-{{ e.published_at[4:6] }}-{{ e.published_at[6:8] }}
+{% if not e.sub_entries and e.partner_handle %}
+· by @{{ e.partner_handle }}
+{% endif %}
 </div>
 {% if e.sub_entries %}
 <div class="tl-partners"><span class="partner">{{ e.sub_entries|length }} videos</span></div>
