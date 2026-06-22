@@ -169,8 +169,17 @@ main {
   color: #fff;
   margin-bottom: .25rem;
 }
-.member-card .name { font-size: .875rem; font-weight: 600; text-align: center; }
-.member-card .handle { font-size: .75rem; color: var(--text-2); }
+.member-card .name-en { font-size: .875rem; font-weight: 600; text-align: center; }
+.member-card .name-jp { font-size: .65rem; color: var(--text-2); text-align: center; margin-top: .1rem; }
+.member-card .handle {
+  font-size: .75rem;
+  color: var(--text-2);
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .badge {
   font-size: .65rem;
   padding: .15rem .5rem;
@@ -218,13 +227,13 @@ main {
 {% if m.photo_url %}
 <img class="avatar" src="{{ m.photo_url }}" alt="{{ m.name }}">
 {% else %}
-<div class="avatar">{{ m.name[:1] }}</div>
+<div class="avatar">{{ m.english_name[:1] }}</div>
 {% endif %}
-<div class="name">{{ m.name[:20] }}</div>
-<div class="handle">@{{ m.handle }}</div>
-{% if m.status.value != "active" %}
-<span class="badge badge-graduated">{{ m.status.value }}</span>
+<div class="name-en">{{ m.english_name }}</div>
+{% if m.japanese_name %}
+<div class="name-jp">{{ m.japanese_name }}</div>
 {% endif %}
+<div class="handle">@{{ m.handle }}{% if m.status.value != "active" %} <span class="badge badge-graduated">{{ m.status.value }}</span>{% endif %}</div>
 </a>
 {% endfor %}
 </div>

@@ -97,6 +97,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   flex-shrink: 0;
 }
 .profile .info h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .15rem; }
+.profile .info .name-jp { font-size: .85rem; color: var(--text-2); margin-bottom: .15rem; }
 .profile .info .handle { font-size: .9rem; color: var(--text-2); }
 .profile .info .meta { display: flex; gap: 1rem; margin-top: .5rem; flex-wrap: wrap; }
 .profile .info .meta span { font-size: .8rem; color: var(--text-2); }
@@ -422,16 +423,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% if member.photo_url %}
 <img class="avatar" src="{{ member.photo_url }}" alt="{{ member.name }}">
 {% else %}
-<div class="avatar">{{ member.name[:1] }}</div>
+<div class="avatar">{{ member.english_name[:1] }}</div>
 {% endif %}
 <div class="info">
-<h2>{{ member.name }}</h2>
-<div class="handle">@{{ member.handle }}</div>
+<h2>{{ member.english_name }}</h2>
+{% if member.japanese_name %}
+<div class="name-jp">{{ member.japanese_name }}</div>
+{% endif %}
+<div class="handle">@{{ member.handle }}{% if member.status.value != "active" %} <span class="badge badge-{{ member.status.value }}">{{ member.status.value }}</span>{% endif %}</div>
 <div class="meta">
 <span>{{ member.branch.value }}</span>
-{% if member.status.value != "active" %}
-<span class="badge badge-{{ member.status.value }}">{{ member.status.value }}</span>
-{% endif %}
 {% if member.graduated_at %}
 <span>Graduated: {{ member.graduated_at }}</span>
 {% endif %}

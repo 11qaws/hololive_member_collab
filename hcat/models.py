@@ -1,3 +1,4 @@
+import re
 from dataclasses import dataclass, field, asdict, fields
 from typing import Optional
 from enum import Enum
@@ -72,6 +73,15 @@ class Member:
             handles.append(self.handle.lower())
         return list(set(handles))
 
+    @property
+    def english_name(self) -> str:
+        m = re.match(r'^(.+?)\s+([\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff].*)$', self.name)
+        return m.group(1).strip() if m else self.name
+
+    @property
+    def japanese_name(self) -> str:
+        m = re.match(r'^(.+?)\s+([\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff].*)$', self.name)
+        return m.group(2).strip() if m else ""
 
 @dataclass
 class Appearance:
