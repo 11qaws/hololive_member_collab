@@ -7,7 +7,7 @@ from pathlib import Path
 import jinja2
 
 from .config import get_data_dir
-from .models import Member, Branch, MemberStatus, Appearance
+from .models import Member, Branch, MemberStatus, Appearance, generation_sort_key
 from .storage import load_members, load_appearances
 from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners
 
@@ -53,7 +53,7 @@ def build_site():
     for b in [Branch.EN, Branch.JP, Branch.ID, Branch.OFFICIAL, Branch.DEV_IS, Branch.HOLOSTARS, Branch.OTHER]:
         bm = [m for m in members if m.branch == b]
         if bm:
-            bm.sort(key=lambda m: (m.status != MemberStatus.ACTIVE, m.handle))
+            bm.sort(key=generation_sort_key)
             by_branch.append((b.value, bm))
     html = _fix_links(env.get_template("index.html").render(branches=by_branch))
     (site_dir / "index.html").write_text(html, encoding="utf-8")

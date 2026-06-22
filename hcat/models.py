@@ -133,3 +133,50 @@ SCAN_GROUP_ORDER = [
     Branch.HOLOSTARS,
     Branch.OTHER,
 ]
+
+
+# Generation order within each branch (handle → sort position)
+_GENERATION_ORDER: dict[str, list[str]] = {
+    "EN": [
+        "moricalliope", "takanashikiara", "ninomaeinanis", "watsonamelia", "gawrgura",
+        "irys",
+        "ourokronii", "hakosbaelz", "ceresfauna", "nanashimumei", "tsukumosana",
+        "shiorinovella", "kosekibijou", "nerissaravencroft", "fuwawa_abyssgard", "mococo_abyssgard",
+        "holoen_erbloodflame", "holoen_gigimurin", "holoen_ceciliaimmergreen", "holoen_raorapanthera",
+    ],
+    "JP": [
+        "tokinosora", "robocosan", "sakuramiko",
+        "akirose", "akaihaato", "shirakamifubuki",
+        "inugamikorone", "nekomataokayu", "ookamimio",
+        "minatoaqua", "nakiri_ayame", "murasakishion", "natsuiromatsuri", "oozora_subaru",
+        "houshoumarine", "shiroganenoel", "shiranuiflare", "shishirobotan",
+        "tsunomakiwatame", "tokoyamitowa", "himemoriluna", "kiryucoco", "amanekanata",
+        "yukihanalamy", "momosuzunene", "omarupolka",
+    ],
+    "ID": [
+        "airaniiofifteen", "ayunda_risu", "moona_hoshinova",
+        "kureijiollie", "aniamelfissa", "pavoliareine",
+        "vestia_zeta", "kaelakovalskia", "kobokanaeru",
+    ],
+    "DEV_IS": [
+        "otonosekanade", "ichijouririka", "juufuuteiraden", "todorokihajime",
+        "isakiriona", "koganei_niko", "mizumiya_su", "rindo_chihaya", "kikirara_vivi",
+        "izuki_michiru", "hanazono_sayaka", "kazeshiro_yuki", "hiodoshi_ao",
+    ],
+    "Holostars": [
+    ],
+    "Official": [
+    ],
+    "Other": [
+    ],
+}
+
+
+def generation_sort_key(member: "Member") -> tuple[int, int]:
+    branch_priority = SCAN_GROUP_ORDER.index(member.branch) if member.branch in SCAN_GROUP_ORDER else 99
+    order_list = _GENERATION_ORDER.get(member.branch.value, [])
+    try:
+        gen_idx = order_list.index(member.handle)
+    except ValueError:
+        gen_idx = 999
+    return (branch_priority, gen_idx)
