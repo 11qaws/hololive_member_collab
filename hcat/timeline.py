@@ -495,6 +495,11 @@ def fuwamoco_display(partner_handle: str, title: str) -> str:
     if base not in ("fuwawa", "mococo", "fuwamococh"):
         return partner_handle
     if "POV" in title.upper() or "SOLO" in title.upper():
+        title_upper = title.upper()
+        if "【FUWAWA POV】" in title_upper or "【FUWAWA SOLO】" in title_upper:
+            return "FUWAmoco"
+        if "【MOCOCO POV】" in title_upper or "【MOCOCO SOLO】" in title_upper:
+            return "fuwaMOCO"
         if partner_handle == "fuwawa_abyssgard":
             return "FUWAmoco"
         if partner_handle == "mococo_abyssgard":

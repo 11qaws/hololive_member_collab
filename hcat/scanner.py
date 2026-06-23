@@ -229,6 +229,29 @@ def _build_shared_channel_owners(members: list[Member]) -> dict[str, set[str]]:
     return {cid: h for cid, h in owners.items() if len(h) > 1}
 
 
+def _resolve_shared_channel_uploader(
+    uploader_cid: str,
+    title: str,
+    uploader: Member,
+    shared_owners: dict[str, set[str]],
+    members: list[Member],
+) -> Member:
+    """For shared channels (e.g. FUWAMOCO), determine actual uploader by POV/SOLO markers."""
+    owners = shared_owners.get(uploader_cid, set())
+    if not owners:
+        return uploader
+    title_upper = title.upper()
+    if "POV" not in title_upper and "SOLO" not in title_upper:
+        return uploader
+    for h in sorted(owners):
+        base = h.split("_")[0].upper()
+        if f"【{base} POV】" in title_upper or f"【{base} SOLO】" in title_upper:
+            for m in members:
+                if m.handle.lower() == h:
+                    return m
+    return uploader
+
+
 def _parse_holodex_date(date_str: str) -> str:
     if not date_str:
         return ""
@@ -333,6 +356,7 @@ async def scan_for_target_via_holodex(
             continue
 
         title = v.get("title", "") or ""
+        uploader = _resolve_shared_channel_uploader(uploader_cid, title, uploader, shared_owners, members)
         ts = v.get("published_at") or v.get("available_at") or ""
         date_str = _parse_holodex_date(ts)
 
@@ -458,12 +482,14 @@ async def scan_all_via_holodex(
         if not uploader:
             continue
 
+        title = v.get("title", "") or ""
+        uploader = _resolve_shared_channel_uploader(uploader_cid, title, uploader, shared_owners, members)
+
         for target_handle in targets:
             all_owners = shared_owners.get(uploader_cid, {uploader.handle.lower()})
             if target_handle in all_owners:
                 continue
 
-            title = v.get("title", "") or ""
             ts = v.get("published_at") or v.get("available_at") or ""
             date_str = _parse_holodex_date(ts)
 
