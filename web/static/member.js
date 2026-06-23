@@ -65,8 +65,8 @@
 
   function renderCollabEntry(e) {
     var isGroup = e.sub_entries && e.sub_entries.length > 1;
-    var partners = e.partner_handle || '';
-    var allPartners = partners;
+    var partnerHandle = e.partner_handle || (e.sub_entries && e.sub_entries[0] ? e.sub_entries[0].partner_handle : '') || '';
+    var allPartners = e.partner_handle || '';
     if (e.sub_entries) {
       e.sub_entries.forEach(function(se) { allPartners += ' ' + (se.partner_handle || ''); });
     }
@@ -88,8 +88,8 @@
       '<div class="tl-body"><div class="tl-title">' + escapeHtml(ttl) + '</div>' +
       '<div class="tl-meta"><span class="tl-badge tl-badge-collab">COLLAB</span> ' + fmtDate(e.published_at);
 
-    if (!isGroup && !e.sub_entries && partners) {
-      html += ' \u00b7 by @' + fuwamocoDisplay(partners, ttl);
+    if (!isGroup && partnerHandle) {
+      html += ' \u00b7 by @' + fuwamocoDisplay(partnerHandle, ttl);
     }
     html += '</div>';
 
@@ -150,8 +150,9 @@
       '<div class="tl-body"><div class="tl-title">' + escapeHtml(e.title) + '</div>' +
       '<div class="tl-meta"><span class="tl-badge tl-badge-collab">COLLAB</span> ' + fmtDate(e.published_at);
 
-    if (!isGroup && !e.sub_entries && e.partner_handle) {
-      html += ' \u00b7 by @' + fuwamocoDisplay(e.partner_handle, e.title);
+    if (!isGroup) {
+      var ph = e.partner_handle || (e.sub_entries && e.sub_entries[0] ? e.sub_entries[0].partner_handle : '');
+      if (ph) html += ' \u00b7 by @' + fuwamocoDisplay(ph, e.title);
     }
     html += '</div>';
 
