@@ -761,7 +761,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="tl-badge tl-badge-collab">COLLAB</span>
 {{ e.published_at[:4] }}-{{ e.published_at[4:6] }}-{{ e.published_at[6:8] }}
 {% if not e.sub_entries and e.partner_handle %}
-· by @{{ e.partner_handle }}
+· by @{{ fuwamoco_display(e.partner_handle, e.title, member.handle) }}
 {% endif %}
 </div>
 {% if is_collab_group %}
@@ -782,7 +782,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="sub-dot"></span>
 {% endif %}
 <div class="tl-sub-title">{{ p.title[:60] }}</div>
-<span class="tl-sub-meta">@{{ p.partner_handle }}</span>
+<span class="tl-sub-meta">@{{ fuwamoco_display(p.partner_handle, p.title, member.handle) }}</span>
 </a>
 {% endfor %}
 </div>
@@ -811,14 +811,14 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="tl-badge tl-badge-{{ e.entry_type }}">{{ "STREAM" if e.entry_type == "stream" else "COLLAB" }}</span>
 {{ e.published_at[:4] }}-{{ e.published_at[4:6] }}-{{ e.published_at[6:8] }}
 {% if e.entry_type == "collab" and e.partner_handle and not e.sub_entries %}
-· by @{{ e.partner_handle }}
+· by @{{ fuwamoco_display(e.partner_handle, e.title, member.handle) }}
 {% endif %}
 </div>
 {% if is_grouped %}
 <div class="tl-partners">
 <span class="partner">{{ e.sub_entries|length }} videos</span>
 {% for p in e.sub_entries[:3] %}
-<span class="partner">@{{ p.partner_handle }}</span>
+<span class="partner">@{{ fuwamoco_display(p.partner_handle, p.title, member.handle) }}</span>
 {% endfor %}
 {% if e.sub_entries|length > 3 %}
 <span class="partner">+{{ e.sub_entries|length - 3 }} more</span>
@@ -841,7 +841,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="sub-dot"></span>
 {% endif %}
 <div class="tl-sub-title">{{ p.title[:60] }}</div>
-<span class="tl-sub-meta">@{{ p.partner_handle }}</span>
+<span class="tl-sub-meta">@{{ fuwamoco_display(p.partner_handle, p.title, member.handle) }}</span>
 </a>
 {% endfor %}
 </div>

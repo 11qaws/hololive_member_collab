@@ -9,7 +9,7 @@ import jinja2
 from .config import get_data_dir
 from .models import Member, Branch, MemberStatus, Appearance, generation_sort_key
 from .storage import load_members, load_appearances
-from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch
+from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
 
 
 def _fix_links(html: str) -> str:
@@ -47,6 +47,7 @@ def build_site():
 
     tmpl_dir = Path(__file__).parent.parent / "web" / "templates"
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(str(tmpl_dir)))
+    env.globals["fuwamoco_display"] = fuwamoco_display
 
     # ── Index page ──
     by_branch = []

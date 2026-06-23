@@ -9,7 +9,7 @@ import uvicorn
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch
+from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
 from hcat.storage import load_members, load_appearances, load_unknowns, find_member
 from hcat.models import Member, Branch, MemberStatus
 
@@ -21,6 +21,7 @@ TEMPLATES.mkdir(exist_ok=True)
 _env = jinja2.Environment(
     loader=jinja2.FileSystemLoader(str(TEMPLATES)),
 )
+_env.globals["fuwamoco_display"] = fuwamoco_display
 
 
 def render(name: str, **kwargs):
