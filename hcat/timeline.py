@@ -490,13 +490,13 @@ def group_partners_by_branch(
     return result
 
 
-def fuwamoco_display(partner_handle: str, title: str, viewer_handle: str) -> str:
+def fuwamoco_display(partner_handle: str, title: str) -> str:
     base = partner_handle.lower().replace("_abyssgard", "")
     if base not in ("fuwawa", "mococo", "fuwamococh"):
         return partner_handle
     if "POV" in title.upper() or "SOLO" in title.upper():
-        if viewer_handle == "fuwawa_abyssgard":
+        if partner_handle == "fuwawa_abyssgard":
             return "FUWAmoco"
-        if viewer_handle == "mococo_abyssgard":
+        if partner_handle == "mococo_abyssgard":
             return "fuwaMOCO"
     return "FUWAMOCOch"
