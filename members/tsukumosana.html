@@ -453,22 +453,25 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   margin: .15rem .2rem .15rem 0;
   font-size: .7rem;
 }
-.tl-expand {
-  display: inline-block;
+.tl-arrow {
   font-size: .7rem;
-  color: var(--accent-2);
-  cursor: pointer;
-  margin-top: .25rem;
-  user-select: none;
+  color: var(--text-2);
+  margin-left: .35rem;
+  display: inline-block;
+  transition: transform .2s;
 }
-.tl-expand:hover { text-decoration: underline; }
+.tl-card.collab-group { cursor: pointer; }
+.tl-card.collab-group .tl-arrow.open { transform: rotate(90deg); }
 .tl-subs {
-  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease;
   border-top: 1px solid var(--border);
-  margin-top: .5rem;
-  padding-top: .5rem;
 }
-.tl-subs.open { display: block; }
+.tl-subs.open {
+  max-height: 1000px;
+  padding: .5rem 0;
+}
 .tl-sub {
   display: flex;
   align-items: center;
@@ -635,14 +638,14 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="top-partners-title">Top Collab Partners</div>
 <div class="top-partners-list">
 
-<div class="top-partner-item" onclick="selectPartnerOnly('nanashimumei')">
-<span class="top-partner-name">@nanashimumei</span>
+<div class="top-partner-item" onclick="selectPartnerOnly('hakosbaelz')">
+<span class="top-partner-name">@hakosbaelz</span>
 <span class="top-partner-count">15</span>
 <div class="top-partner-bar" style="width:100%"></div>
 </div>
 
-<div class="top-partner-item" onclick="selectPartnerOnly('hakosbaelz')">
-<span class="top-partner-name">@hakosbaelz</span>
+<div class="top-partner-item" onclick="selectPartnerOnly('nanashimumei')">
+<span class="top-partner-name">@nanashimumei</span>
 <span class="top-partner-count">15</span>
 <div class="top-partner-bar" style="width:100%"></div>
 </div>
@@ -908,7 +911,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -944,7 +946,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -982,7 +983,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1019,7 +1019,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1030,7 +1029,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20221003" data-partners="hakosbaelz hakosbaelz nanashimumei">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1053,14 +1052,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@nanashimumei</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/C3WQPCvZq1I" target="_blank">
@@ -1113,7 +1110,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1124,7 +1120,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20220823" data-partners="hololiveenglish hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1149,14 +1145,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/uwCM48yKAUs" target="_blank">
@@ -1210,7 +1204,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1241,7 +1234,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1277,7 +1269,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1309,7 +1300,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1338,7 +1328,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1369,7 +1358,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1394,15 +1382,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/r-9CRTqMYb8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Minecraft</div>
@@ -1412,14 +1398,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/r-9CRTqMYb8" target="_blank">
@@ -1468,7 +1451,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1479,7 +1461,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20220719" data-partners="ourokronii ourokronii hakosbaelz nanashimumei irys ceresfauna">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1506,14 +1488,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+2 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/agQYsqcuc7s" target="_blank">
@@ -1579,7 +1559,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1611,7 +1590,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1636,15 +1614,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/_CetpLFbv3E" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/_CetpLFbv3E/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MINECRAFT】 SAUNA Renovations 💛💚</div>
@@ -1659,7 +1635,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1693,7 +1668,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1724,7 +1698,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1757,7 +1730,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1789,7 +1761,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1814,15 +1785,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/gG_bQPGUg_4" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/gG_bQPGUg_4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Minecraft】サナちゃんと一緒にパン屋作り!!!【角巻わため/ホロライブ4期生】</div>
@@ -1837,7 +1806,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1871,7 +1839,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1902,7 +1869,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1935,7 +1901,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1967,7 +1932,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1996,7 +1960,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2029,7 +1992,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2058,7 +2020,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2091,7 +2052,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2123,7 +2083,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2152,7 +2111,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2188,7 +2146,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2220,7 +2177,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2249,7 +2205,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2282,7 +2237,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2313,7 +2267,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2346,7 +2299,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2376,7 +2328,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2405,7 +2356,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2438,7 +2388,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2468,7 +2417,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2493,15 +2441,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/5uu5Kp8K7xs" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/5uu5Kp8K7xs/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Birthday Party‼】EN&ID限定凸!沢山お祝いしてもらうよ~♡【 #鷹嶺ルイ生誕祭2022 /ホロライブ</div>
@@ -2516,7 +2462,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2548,7 +2493,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2578,7 +2522,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2607,7 +2550,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2640,7 +2582,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2669,7 +2610,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2705,7 +2645,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2734,7 +2673,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2767,7 +2705,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2799,7 +2736,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2828,7 +2764,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2861,7 +2796,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2893,7 +2827,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2918,15 +2851,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/RE3AU0oSEHc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/RE3AU0oSEHc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MINECRAFT】wow! what this game?</div>
@@ -2941,7 +2872,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2973,7 +2903,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3002,7 +2931,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3034,7 +2962,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3070,7 +2997,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3100,7 +3026,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3129,7 +3054,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3162,7 +3086,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3191,7 +3114,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3224,7 +3146,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3253,7 +3174,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3284,7 +3204,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3313,7 +3232,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3346,7 +3264,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3378,7 +3295,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3408,7 +3324,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3433,15 +3348,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/1gBvxOgGDCc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/1gBvxOgGDCc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Hope & Council April Fools】 What's this???</div>
@@ -3456,7 +3369,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3495,7 +3407,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3524,7 +3435,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3557,7 +3467,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3587,7 +3496,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3616,7 +3524,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3649,7 +3556,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3678,7 +3584,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3711,7 +3616,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3742,7 +3646,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3775,7 +3678,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3806,7 +3708,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3839,7 +3740,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3868,7 +3768,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3900,7 +3799,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3938,7 +3836,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3949,7 +3846,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20220223" data-partners="nanashimumei nanashimumei nanashimumei">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -3972,14 +3869,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@nanashimumei</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/U-9M-BjFYMc" target="_blank">
@@ -4025,7 +3920,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4054,7 +3948,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4090,7 +3983,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4115,15 +4007,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/hmP48PAzPxo/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">POKEMON TOURNAMENT</div>
@@ -4133,14 +4023,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">4 videos</span></div>
+<div class="tl-partners"><span class="partner">4 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/hmP48PAzPxo" target="_blank">
@@ -4201,7 +4088,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4233,7 +4119,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4262,7 +4147,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4295,7 +4179,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4324,7 +4207,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4357,7 +4239,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4387,7 +4268,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4416,7 +4296,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4449,7 +4328,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4474,15 +4352,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/UnboO4XOD4I/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Monster Hunter Rise PC</div>
@@ -4492,14 +4368,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/UnboO4XOD4I" target="_blank">
@@ -4552,7 +4425,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4563,7 +4435,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20220107" data-partners="moricalliope moricalliope tsunomakiwatame tokoyamitowa">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -4588,14 +4460,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@tokoyamitowa</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/h9c04hXwqIg" target="_blank">
@@ -4642,15 +4512,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/l_ttLSkCOpQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">マリオカート8DX</div>
@@ -4660,14 +4528,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/l_ttLSkCOpQ" target="_blank">
@@ -4716,7 +4581,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4741,15 +4605,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/UAWRvTvJeqc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/UAWRvTvJeqc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Pokémon Shining Pearl】 JUST. FEEBAS.  【#6】</div>
@@ -4764,7 +4626,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4798,7 +4659,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4828,7 +4688,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4857,7 +4716,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4889,7 +4747,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4925,7 +4782,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4950,15 +4806,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/fzS16Ln8ANQ" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/fzS16Ln8ANQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【POKEMON: BRILLIANT DIAMOND】SHINY GIRATINA GET IN THE BALL!!</div>
@@ -4973,7 +4827,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5000,15 +4853,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/2iXo0YDhoCA/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">HoloEN</div>
@@ -5018,14 +4869,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/2iXo0YDhoCA" target="_blank">
@@ -5073,15 +4921,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/uW7lXW2p4D8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">MINECRAFT</div>
@@ -5091,14 +4937,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/uW7lXW2p4D8" target="_blank">
@@ -5145,7 +4988,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5177,7 +5019,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5206,7 +5047,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5237,7 +5077,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5262,15 +5101,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/xK12LAJhZwA" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/xK12LAJhZwA/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Pokemon: Shining Pearl】Shiny? Pokedex?</div>
@@ -5285,7 +5122,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5317,7 +5153,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5346,7 +5181,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5377,7 +5211,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5406,7 +5239,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5437,7 +5269,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5466,7 +5297,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5502,7 +5332,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5532,7 +5361,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5561,7 +5389,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5594,7 +5421,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5624,7 +5450,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5649,15 +5474,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/xv_ekvMDOyc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/xv_ekvMDOyc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Pokemon Brilliant Diamond】CONTINUING! THE ROAD TO CHAMPION </div>
@@ -5672,7 +5495,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5704,7 +5526,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5733,7 +5554,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5764,7 +5584,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5793,7 +5612,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5824,7 +5642,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5854,7 +5671,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5883,7 +5699,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5916,7 +5731,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5946,7 +5760,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5971,15 +5784,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/t5-Nfq0Mzmc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/t5-Nfq0Mzmc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【ACNH】Home is where the HEART is!</div>
@@ -5994,7 +5805,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6026,7 +5836,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6055,7 +5864,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6086,7 +5894,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6116,7 +5923,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6145,7 +5951,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6178,7 +5983,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6189,7 +5993,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20211101" data-partners="watsonamelia watsonamelia irys ceresfauna ninomaeinanis">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -6216,14 +6020,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/h38izNV5ZCo" target="_blank">
@@ -6283,7 +6085,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6299,7 +6100,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20211024" data-partners="nanashimumei nanashimumei watsonamelia ourokronii moricalliope gawrgura ninomaeinanis ceresfauna irys takanashikiara hakosbaelz">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -6326,14 +6127,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+7 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 10 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/bQEfKQmzWuQ" target="_blank">
@@ -6427,7 +6226,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6459,7 +6257,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6489,7 +6286,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6518,7 +6314,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6551,7 +6346,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6580,7 +6374,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6613,7 +6406,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6642,7 +6434,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6673,7 +6464,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6703,7 +6493,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6732,7 +6521,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6770,7 +6558,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6800,7 +6587,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6811,7 +6597,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20210929" data-partners="moricalliope moricalliope hakosbaelz hakosbaelz">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -6836,14 +6622,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hakosbaelz</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/TxepfYOKHNQ" target="_blank">
@@ -6895,7 +6679,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6924,7 +6707,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6957,7 +6739,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6989,7 +6770,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7014,15 +6794,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/gvEqnqflFHE/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Minecraft</div>
@@ -7032,14 +6810,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/gvEqnqflFHE" target="_blank">
@@ -7088,7 +6863,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7117,7 +6891,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7148,7 +6921,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7177,7 +6949,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7208,7 +6979,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7237,7 +7007,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7268,7 +7037,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7297,7 +7065,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7328,7 +7095,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7353,15 +7119,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/onEp_9enFXk" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/onEp_9enFXk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【COUNCIL MEETING】Are We Dumber Than A 5th Grader? #holoCounc</div>
@@ -7376,7 +7140,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7408,7 +7171,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7437,7 +7199,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7468,7 +7229,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7493,15 +7253,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/0FBq9C52M4Y" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/0FBq9C52M4Y/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MINECRAFT】 SAUNA #holoCouncil</div>
@@ -7516,7 +7274,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7548,7 +7305,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7573,15 +7329,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/3Tn2XhYMWpw" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/3Tn2XhYMWpw/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【COUNCIL MEETING】 Important council business... JACKBOX PART</div>
@@ -7596,7 +7350,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7627,7 +7380,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7660,7 +7412,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7689,7 +7440,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7725,7 +7475,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7754,7 +7503,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7787,7 +7535,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7812,15 +7559,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/pYss0MaVraE/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">COUNCIL MEETING</div>
@@ -7830,14 +7575,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/pYss0MaVraE" target="_blank">
@@ -7884,7 +7626,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7913,7 +7654,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7944,7 +7684,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7973,7 +7712,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8006,7 +7744,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8035,7 +7772,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8066,7 +7802,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8096,7 +7831,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8107,7 +7841,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20210817" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -8130,14 +7864,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/DJt__EOw-Xs" target="_blank">
@@ -8270,6 +8002,15 @@ function selectPartnerOnly(handle) {
   });
   updateSelectedDisplay();
   filterTimeline();
+}
+
+function toggleCollabGroup(el) {
+  var arrow = el.querySelector('.tl-arrow');
+  var subs = el.querySelector('.tl-subs');
+  if (subs) {
+    subs.classList.toggle('open');
+    if (arrow) arrow.classList.toggle('open');
+  }
 }
 
 function resetFilters() {

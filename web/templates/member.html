@@ -453,22 +453,25 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   margin: .15rem .2rem .15rem 0;
   font-size: .7rem;
 }
-.tl-expand {
-  display: inline-block;
+.tl-arrow {
   font-size: .7rem;
-  color: var(--accent-2);
-  cursor: pointer;
-  margin-top: .25rem;
-  user-select: none;
+  color: var(--text-2);
+  margin-left: .35rem;
+  display: inline-block;
+  transition: transform .2s;
 }
-.tl-expand:hover { text-decoration: underline; }
+.tl-card.collab-group { cursor: pointer; }
+.tl-card.collab-group .tl-arrow.open { transform: rotate(90deg); }
 .tl-subs {
-  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease;
   border-top: 1px solid var(--border);
-  margin-top: .5rem;
-  padding-top: .5rem;
 }
-.tl-subs.open { display: block; }
+.tl-subs.open {
+  max-height: 1000px;
+  padding: .5rem 0;
+}
 .tl-sub {
   display: flex;
   align-items: center;
@@ -732,25 +735,17 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 {% set is_collab_group = e.sub_entries|length > 1 %}
+<div class="tl-card{% if is_collab_group %} collab-group{% endif %}"{% if is_collab_group %} onclick="toggleCollabGroup(this)"{% endif %}>
 {% if is_collab_group %}
 <div class="tl-card-inner no-link">
 {% else %}
 <a class="tl-card-inner" href="{{ e.sub_entries[0].url if e.sub_entries else e.url }}" target="_blank">
 {% endif %}
-{% if is_collab_group %}
 {% if e.thumbnail %}
 <img class="tl-thumb" src="{{ e.thumbnail }}" alt="" loading="lazy">
 {% else %}
 <div class="tl-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.25rem">{{ "🎙" }}</div>
-{% endif %}
-{% else %}
-{% if e.thumbnail %}
-<img class="tl-thumb" src="{{ e.thumbnail }}" alt="" loading="lazy">
-{% else %}
-<div class="tl-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.25rem">{{ "🎙" }}</div>
-{% endif %}
 {% endif %}
 <div class="tl-body">
 <div class="tl-title">{{ e.title[:60] }}</div>
@@ -761,17 +756,14 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 · by @{{ e.partner_handle }}
 {% endif %}
 </div>
-{% if e.sub_entries %}
-<div class="tl-partners"><span class="partner">{{ e.sub_entries|length }} videos</span></div>
+{% if is_collab_group %}
+<div class="tl-partners"><span class="partner">{{ e.sub_entries|length }} videos</span><span class="tl-arrow">▶</span></div>
 {% endif %}
 </div>
-{% if is_collab_group %}
-</div>
-{% else %}
+{% if not is_collab_group %}
 </a>
-{% endif %}
-{% if is_collab_group %}
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ {{ e.sub_entries|length }} videos</div>
+{% else %}
+</div>
 <div class="tl-subs">
 {% for p in e.sub_entries %}
 <a class="tl-sub" href="{{ p.url }}" target="_blank">
@@ -789,7 +781,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% set is_grouped = e.entry_type == "collab" and e.sub_entries|length > 1 %}
 <div class="tl-item {{ e.entry_type }}" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card{% if is_grouped %} collab-group{% endif %}"{% if is_grouped %} onclick="toggleCollabGroup(this)"{% endif %}>
 {% if is_grouped %}
 <div class="tl-card-inner no-link">
 {% else %}
@@ -818,6 +810,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% if e.sub_entries|length > 3 %}
 <span class="partner">+{{ e.sub_entries|length - 3 }} more</span>
 {% endif %}
+<span class="tl-arrow">▶</span>
 </div>
 {% endif %}
 </div>
@@ -825,9 +818,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </a>
 {% else %}
 </div>
-{% endif %}
-{% if is_grouped %}
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ {{ e.sub_entries|length }} videos</div>
 <div class="tl-subs">
 {% for p in e.sub_entries %}
 <a class="tl-sub" href="{{ p.url }}" target="_blank">
@@ -956,6 +946,15 @@ function selectPartnerOnly(handle) {
   });
   updateSelectedDisplay();
   filterTimeline();
+}
+
+function toggleCollabGroup(el) {
+  var arrow = el.querySelector('.tl-arrow');
+  var subs = el.querySelector('.tl-subs');
+  if (subs) {
+    subs.classList.toggle('open');
+    if (arrow) arrow.classList.toggle('open');
+  }
 }
 
 function resetFilters() {

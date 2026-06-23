@@ -453,22 +453,25 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   margin: .15rem .2rem .15rem 0;
   font-size: .7rem;
 }
-.tl-expand {
-  display: inline-block;
+.tl-arrow {
   font-size: .7rem;
-  color: var(--accent-2);
-  cursor: pointer;
-  margin-top: .25rem;
-  user-select: none;
+  color: var(--text-2);
+  margin-left: .35rem;
+  display: inline-block;
+  transition: transform .2s;
 }
-.tl-expand:hover { text-decoration: underline; }
+.tl-card.collab-group { cursor: pointer; }
+.tl-card.collab-group .tl-arrow.open { transform: rotate(90deg); }
 .tl-subs {
-  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease;
   border-top: 1px solid var(--border);
-  margin-top: .5rem;
-  padding-top: .5rem;
 }
-.tl-subs.open { display: block; }
+.tl-subs.open {
+  max-height: 1000px;
+  padding: .5rem 0;
+}
 .tl-sub {
   display: flex;
   align-items: center;
@@ -742,6 +745,15 @@ function selectPartnerOnly(handle) {
   });
   updateSelectedDisplay();
   filterTimeline();
+}
+
+function toggleCollabGroup(el) {
+  var arrow = el.querySelector('.tl-arrow');
+  var subs = el.querySelector('.tl-subs');
+  if (subs) {
+    subs.classList.toggle('open');
+    if (arrow) arrow.classList.toggle('open');
+  }
 }
 
 function resetFilters() {

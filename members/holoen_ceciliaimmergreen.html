@@ -453,22 +453,25 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   margin: .15rem .2rem .15rem 0;
   font-size: .7rem;
 }
-.tl-expand {
-  display: inline-block;
+.tl-arrow {
   font-size: .7rem;
-  color: var(--accent-2);
-  cursor: pointer;
-  margin-top: .25rem;
-  user-select: none;
+  color: var(--text-2);
+  margin-left: .35rem;
+  display: inline-block;
+  transition: transform .2s;
 }
-.tl-expand:hover { text-decoration: underline; }
+.tl-card.collab-group { cursor: pointer; }
+.tl-card.collab-group .tl-arrow.open { transform: rotate(90deg); }
 .tl-subs {
-  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease;
   border-top: 1px solid var(--border);
-  margin-top: .5rem;
-  padding-top: .5rem;
 }
-.tl-subs.open { display: block; }
+.tl-subs.open {
+  max-height: 1000px;
+  padding: .5rem 0;
+}
 .tl-sub {
   display: flex;
   align-items: center;
@@ -1054,7 +1057,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1085,7 +1087,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1118,7 +1119,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1148,7 +1148,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1159,7 +1158,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260620" data-partners="rindo_chihaya rindo_chihaya robocosan irys kikirara_vivi yuzuki_choco ookamimio">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1186,14 +1185,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+3 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 6 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/HFxJG_uIOd8" target="_blank">
@@ -1244,7 +1241,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260619" data-partners="sakuramiko sakuramiko yukihanalamy shiroganenoel hakuikoyori mizumiya_su">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1271,14 +1268,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+2 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/JeVDdNCmZ0M" target="_blank">
@@ -1323,7 +1318,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260619" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1346,14 +1341,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/LSZ3Q6G9A34" target="_blank">
@@ -1380,7 +1373,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260618" data-partners="holoen_gigimurin holoen_gigimurin holoen_erbloodflame hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -1405,14 +1398,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/47DiEPu8w3w" target="_blank">
@@ -1466,7 +1457,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1495,7 +1485,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1526,7 +1515,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1555,7 +1543,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1588,7 +1575,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1617,7 +1603,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1648,7 +1633,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1678,7 +1662,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1707,7 +1690,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1740,7 +1722,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1769,7 +1750,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1802,7 +1782,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1831,7 +1810,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1864,7 +1842,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1893,7 +1870,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -1929,7 +1905,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -1954,15 +1929,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/b0h8kilUBQk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -1972,14 +1945,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">13 videos</span></div>
+<div class="tl-partners"><span class="partner">13 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 13 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/b0h8kilUBQk" target="_blank">
@@ -2087,15 +2057,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/phkMUVqF6aY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -2105,14 +2073,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">13 videos</span></div>
+<div class="tl-partners"><span class="partner">13 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 13 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/phkMUVqF6aY" target="_blank">
@@ -2225,7 +2190,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2254,7 +2218,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2285,7 +2248,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2310,15 +2272,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/uLitDJpSaKQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -2328,14 +2288,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">10 videos</span></div>
+<div class="tl-partners"><span class="partner">10 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 10 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/uLitDJpSaKQ" target="_blank">
@@ -2425,15 +2382,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Up0bZJINZx8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -2443,14 +2398,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">12 videos</span></div>
+<div class="tl-partners"><span class="partner">12 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 12 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/Up0bZJINZx8" target="_blank">
@@ -2552,15 +2504,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/sT4tuLP6UJQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -2570,14 +2520,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">14 videos</span></div>
+<div class="tl-partners"><span class="partner">14 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 14 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/sT4tuLP6UJQ" target="_blank">
@@ -2696,7 +2643,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2728,7 +2674,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2758,7 +2703,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2787,7 +2731,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2820,7 +2763,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2852,7 +2794,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2881,7 +2822,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2912,7 +2852,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -2941,7 +2880,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -2972,7 +2910,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3002,7 +2939,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3027,15 +2963,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/JmnlnzBgMOc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/JmnlnzBgMOc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【3D LIVE】THE CCGG NETWORK PT. 1 #AUTOFISTNETWORK @holoen_cec</div>
@@ -3050,7 +2984,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3082,7 +3015,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3112,7 +3044,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3141,7 +3072,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3174,7 +3104,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3204,7 +3133,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3233,7 +3161,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3266,7 +3193,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3295,7 +3221,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3328,7 +3253,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3360,7 +3284,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3390,7 +3313,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3419,7 +3341,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3451,7 +3372,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3487,7 +3407,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3518,7 +3437,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3551,7 +3469,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3583,7 +3500,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3613,7 +3529,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3642,7 +3557,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3675,7 +3589,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3707,7 +3620,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3736,7 +3648,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3767,7 +3678,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3796,7 +3706,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3829,7 +3738,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3858,7 +3766,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3889,7 +3796,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3918,7 +3824,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -3949,7 +3854,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -3978,7 +3882,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4011,7 +3914,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4022,7 +3924,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260410" data-partners="holoen_gigimurin holoen_gigimurin holoen_erbloodflame">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -4045,14 +3947,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_erbloodflame</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/__ucQDQ4xJQ" target="_blank">
@@ -4100,7 +4000,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4129,7 +4028,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4162,7 +4060,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4191,7 +4088,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4224,7 +4120,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4254,7 +4149,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4283,7 +4177,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4316,7 +4209,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4345,7 +4237,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4376,7 +4267,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4406,15 +4296,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/5FNo2XpzDBo" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/5FNo2XpzDBo/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【CookieRun: OvenSmash】I'M FIGHTING THESE COOKIES!!!! #ad</div>
@@ -4429,7 +4317,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4460,7 +4347,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4493,7 +4379,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4523,7 +4408,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4534,7 +4418,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260328" data-partners="moricalliope moricalliope moricalliope">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -4557,14 +4441,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@moricalliope</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/XQwX8Heu0qA" target="_blank">
@@ -4610,7 +4492,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4639,7 +4520,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4672,7 +4552,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4702,7 +4581,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4713,7 +4591,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260322" data-partners="holoen_gigimurin holoen_gigimurin hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -4736,14 +4614,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/vB86f0joKUg" target="_blank">
@@ -4791,7 +4667,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4823,7 +4698,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4852,7 +4726,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4885,7 +4758,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4914,7 +4786,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -4947,7 +4818,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -4979,7 +4849,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5004,15 +4873,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/GEBtogETOTs" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/GEBtogETOTs/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">🎾ホロライブマリオテニス大会!!Hololive Mario Tennis Tournament!!【#ホロマリオテニス</div>
@@ -5027,7 +4894,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5061,7 +4927,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5092,7 +4957,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5125,7 +4989,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5156,7 +5019,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5189,7 +5051,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5214,15 +5075,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/XX3toTL6ihs" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/XX3toTL6ihs/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #</div>
@@ -5237,7 +5096,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5271,7 +5129,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5302,7 +5159,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5335,7 +5191,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5364,7 +5219,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5402,7 +5256,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5431,7 +5284,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5464,7 +5316,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5495,7 +5346,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5528,7 +5378,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5559,7 +5408,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5592,7 +5440,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5603,7 +5450,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260222" data-partners="holoen_gigimurin holoen_gigimurin holoen_erbloodflame shiorinovella kosekibijou mococo_abyssgard nerissaravencroft hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -5630,14 +5477,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+4 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 7 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/ImltM_Xq6JA" target="_blank">
@@ -5713,7 +5558,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5742,7 +5586,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -5775,7 +5618,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5805,7 +5647,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5830,15 +5671,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/ywURoa_htrg" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/ywURoa_htrg/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Singing KARAOKE for charity! | GO LIVE for LOVE! #GOLIVEforL</div>
@@ -5854,7 +5693,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 </div>
@@ -5866,7 +5704,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260217" data-partners="kosekibijou kosekibijou holoen_gigimurin">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -5889,14 +5727,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_gigimurin</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/17PFTNoO_RE" target="_blank">
@@ -5944,7 +5780,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -5976,7 +5811,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6006,7 +5840,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6035,7 +5868,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6068,7 +5900,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6098,7 +5929,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6127,7 +5957,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6160,7 +5989,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6192,7 +6020,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6203,7 +6030,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260208" data-partners="tokoyamitowa tokoyamitowa irys hakosbaelz">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -6228,14 +6055,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hakosbaelz</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/ri3M799Dyo8" target="_blank">
@@ -6289,7 +6114,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6320,7 +6144,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6353,7 +6176,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6384,7 +6206,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6417,7 +6238,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6447,7 +6267,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6476,7 +6295,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6512,7 +6330,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6537,15 +6354,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/9d354Nu-awM/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">MIMESIS</div>
@@ -6555,14 +6370,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/9d354Nu-awM" target="_blank">
@@ -6615,7 +6427,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6644,7 +6455,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6677,7 +6487,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6707,7 +6516,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6732,15 +6540,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/QntUo5P3nBY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">#ホロ新春ゲーム祭2026 / 花組</div>
@@ -6750,14 +6556,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">9 videos</span></div>
+<div class="tl-partners"><span class="partner">9 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 9 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/QntUo5P3nBY" target="_blank">
@@ -6848,7 +6651,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6878,7 +6680,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6907,7 +6708,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -6940,7 +6740,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -6972,7 +6771,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7002,7 +6800,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7031,7 +6828,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7064,7 +6860,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7096,7 +6891,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7107,7 +6901,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260104" data-partners="holoen_gigimurin holoen_gigimurin shiorinovella">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -7130,14 +6924,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@shiorinovella</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/9STXm1VZRzA" target="_blank">
@@ -7185,7 +6977,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7217,7 +7008,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7228,7 +7018,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20260102" data-partners="holoen_erbloodflame holoen_erbloodflame takanashikiara hakosbaelz ninomaeinanis nerissaravencroft mococo_abyssgard">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -7255,14 +7045,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+3 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 6 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/su8zgxTe3zA" target="_blank">
@@ -7332,7 +7120,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7363,7 +7150,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7399,7 +7185,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7428,7 +7213,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7459,7 +7243,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7488,7 +7271,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7521,7 +7303,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7552,7 +7333,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7585,7 +7365,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7616,7 +7395,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7649,7 +7427,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7681,7 +7458,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7711,7 +7487,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7740,7 +7515,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7773,7 +7547,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7804,7 +7577,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -7837,7 +7609,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7867,7 +7638,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -7878,7 +7648,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20251214" data-partners="rindo_chihaya rindo_chihaya sakuramiko shiroganenoel">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -7903,14 +7673,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@shiroganenoel</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/_oIN6Kf_cS8" target="_blank">
@@ -7957,15 +7725,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/OJIFSguSLs8" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/OJIFSguSLs8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【PEAK】TAKING BABYDOLL TO THE TOP!</div>
@@ -7980,7 +7746,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8014,7 +7779,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8046,7 +7810,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8075,7 +7838,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8108,7 +7870,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8137,7 +7898,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8170,7 +7930,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8199,7 +7958,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8232,7 +7990,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8264,7 +8021,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8294,7 +8050,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8323,7 +8078,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8356,7 +8110,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8385,7 +8138,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8421,7 +8173,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8451,7 +8202,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8480,7 +8230,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8513,7 +8262,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8542,7 +8290,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8573,7 +8320,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8602,7 +8348,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8635,7 +8380,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8666,7 +8410,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8699,7 +8442,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8724,15 +8466,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/nvy2zN6Vbx4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">JUSTICE COLLAB</div>
@@ -8742,14 +8482,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">4 videos</span></div>
+<div class="tl-partners"><span class="partner">4 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/nvy2zN6Vbx4" target="_blank">
@@ -8808,7 +8545,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8837,7 +8573,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8870,7 +8605,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8902,7 +8636,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8931,7 +8664,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -8964,7 +8696,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -8994,7 +8725,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9023,7 +8753,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9056,7 +8785,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9088,7 +8816,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9117,7 +8844,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9150,7 +8876,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9175,15 +8900,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/igR_eCOjGRk" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/igR_eCOjGRk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Justice Girls' Night】Games Night #2</div>
@@ -9198,7 +8921,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9232,7 +8954,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9261,7 +8982,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9294,7 +9014,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9319,15 +9038,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/1mBsihFbFBI" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/1mBsihFbFBI/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【NEW ACCESSORY REVEAL】BIG… CHATTINO?!? #JusticeGirlsNight #h</div>
@@ -9343,7 +9060,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 </div>
@@ -9355,7 +9071,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20251101" data-partners="shiorinovella shiorinovella holoen_gigimurin holoen_erbloodflame nerissaravencroft">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -9382,14 +9098,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/0gUafbITA3I" target="_blank">
@@ -9452,7 +9166,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9484,7 +9197,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9495,7 +9207,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20251030" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -9518,14 +9230,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/16nHwxlskU4" target="_blank">
@@ -9573,7 +9283,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9602,7 +9311,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9633,7 +9341,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9663,7 +9370,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9692,7 +9398,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9725,7 +9430,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -9750,15 +9454,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/ygILKuT0NDE" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/ygILKuT0NDE/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">≪Little Nightmares III≫ We Spoopy Together #1</div>
@@ -9773,7 +9475,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -9800,15 +9501,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/lAP-AA3y8GM/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">#holoEN MAGE ARENA COLLAB</div>
@@ -9818,14 +9517,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">6 videos</span></div>
+<div class="tl-partners"><span class="partner">6 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 6 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/lAP-AA3y8GM" target="_blank">
@@ -9877,7 +9573,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20251022" data-partners="kosekibijou kosekibijou holoen_raorapanthera">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -9900,14 +9596,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_raorapanthera</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/r8MsmrsUIm8" target="_blank">
@@ -9934,7 +9628,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20251021" data-partners="holoen_gigimurin holoen_gigimurin mococo_abyssgard">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -9957,14 +9651,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@mococo_abyssgard</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/b3EuU6gUCpg" target="_blank">
@@ -10010,7 +9702,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10039,7 +9730,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10072,7 +9762,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10097,15 +9786,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/qWyCmpszavw" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/qWyCmpszavw/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【SHADOWVERSE: WORLDS BEYOND】SHOWDOWN vs Cecilia Immergreen! </div>
@@ -10120,7 +9807,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10147,15 +9833,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/pmKECbicZKc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/pmKECbicZKc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【BORDERLANDS 4】Pew pew!! with @holoen_ceciliaimmergreen</div>
@@ -10170,7 +9854,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10202,7 +9885,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10231,7 +9913,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10262,7 +9943,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10291,7 +9971,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10322,7 +10001,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10347,15 +10025,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/2PDMpsW-uak" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/2PDMpsW-uak/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Blue Protocol: Star Resonance】Come join me on a New MMORPG </div>
@@ -10370,7 +10046,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10402,7 +10077,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10431,7 +10105,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10462,7 +10135,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10491,7 +10163,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10522,7 +10193,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10551,7 +10221,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10587,7 +10256,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10598,7 +10266,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250928" data-partners="ourokronii ourokronii holoen_erbloodflame takanashikiara irys mococo_abyssgard holoen_raorapanthera kosekibijou moricalliope">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -10625,14 +10293,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+5 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 8 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/gvNGbSlGJ40" target="_blank">
@@ -10714,7 +10380,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10743,7 +10408,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10776,7 +10440,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10808,7 +10471,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10837,7 +10499,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10870,7 +10531,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10899,7 +10559,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10932,7 +10591,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -10963,7 +10621,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -10996,7 +10653,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11007,7 +10663,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250915" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -11030,14 +10686,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/2iIjzCh7-GE" target="_blank">
@@ -11078,15 +10732,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/WoGXxJ6VTc8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">アニメ</div>
@@ -11096,14 +10748,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/WoGXxJ6VTc8" target="_blank">
@@ -11158,7 +10807,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11188,7 +10836,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11217,7 +10864,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11250,7 +10896,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11280,7 +10925,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11309,7 +10953,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11342,7 +10985,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11371,7 +11013,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11404,7 +11045,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11433,7 +11073,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11464,7 +11103,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11493,7 +11131,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11529,7 +11166,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11558,7 +11194,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11589,7 +11224,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11618,7 +11252,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11651,7 +11284,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11682,7 +11314,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11715,7 +11346,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11744,7 +11374,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11775,7 +11404,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11805,7 +11433,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11834,7 +11461,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11867,7 +11493,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11896,7 +11521,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11929,7 +11553,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -11960,7 +11583,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -11993,7 +11615,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12022,7 +11643,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12053,7 +11673,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12078,15 +11697,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/wpZFczoHchk" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/wpZFczoHchk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【SHADOWVERSE: WORLDS BEYOND】i look into the abyss and it sta</div>
@@ -12101,7 +11718,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12135,7 +11751,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12164,7 +11779,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12195,7 +11809,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12225,7 +11838,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12254,7 +11866,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12287,7 +11898,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12316,7 +11926,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12347,7 +11956,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12376,7 +11984,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12409,7 +12016,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12440,7 +12046,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12473,7 +12078,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12504,7 +12108,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12537,7 +12140,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12569,7 +12171,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12599,7 +12200,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12628,7 +12228,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12664,7 +12263,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12695,7 +12293,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12728,7 +12325,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12759,7 +12355,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12792,7 +12387,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12822,7 +12416,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12847,15 +12440,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/i3Nd5uDRxsY" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/i3Nd5uDRxsY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【ホロナツパラダイス】ビーチで対決!ホロナツクイーン決定戦 in VRChat【#holonatsuParadise】</div>
@@ -12870,7 +12461,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12902,7 +12492,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12932,7 +12521,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -12961,7 +12549,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -12994,7 +12581,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13026,7 +12612,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13037,7 +12622,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250719" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -13060,14 +12645,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/PihdOUsMOO8" target="_blank">
@@ -13115,7 +12698,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13144,7 +12726,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13177,7 +12758,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13206,7 +12786,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13237,7 +12816,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13266,7 +12844,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13297,7 +12874,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13326,7 +12902,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13359,7 +12934,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13388,7 +12962,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13421,7 +12994,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13452,7 +13024,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13485,7 +13056,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13517,7 +13087,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13547,7 +13116,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13576,7 +13144,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13609,7 +13176,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13638,7 +13204,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13676,7 +13241,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13707,7 +13271,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13740,7 +13303,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13771,7 +13333,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13804,7 +13365,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13833,7 +13393,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13866,7 +13425,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13898,7 +13456,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13927,7 +13484,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -13960,7 +13516,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -13971,7 +13526,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250621" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -13994,14 +13549,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/QHG_71NO0lE" target="_blank">
@@ -14028,7 +13581,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250620" data-partners="holoen_gigimurin holoen_gigimurin hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -14053,14 +13606,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/mW1-0BTSQg0" target="_blank">
@@ -14114,7 +13665,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14146,7 +13696,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14175,7 +13724,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -14208,7 +13756,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14240,7 +13787,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14251,7 +13797,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250615" data-partners="holoen_gigimurin holoen_gigimurin kaelakovalskia">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -14274,14 +13820,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@kaelakovalskia</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/xKgnGcm45qU" target="_blank">
@@ -14308,7 +13852,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250614" data-partners="kosekibijou kosekibijou irys irys">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -14333,14 +13877,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@irys</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/wXWmTKSnH1E" target="_blank">
@@ -14392,7 +13934,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14422,7 +13963,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14451,7 +13991,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -14484,7 +14023,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14516,7 +14054,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14541,15 +14078,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/99ECKQQwNkc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ELDEN RING: NIGHTREIGN</div>
@@ -14559,14 +14094,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/99ECKQQwNkc" target="_blank">
@@ -14615,7 +14147,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14647,7 +14178,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14672,15 +14202,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/yXP3gK-ia2c/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Elden Ring Nightreign</div>
@@ -14690,14 +14218,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/yXP3gK-ia2c" target="_blank">
@@ -14745,15 +14270,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/3ztXjd9kiLE/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Elden Ring Nightreign</div>
@@ -14763,14 +14286,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/3ztXjd9kiLE" target="_blank">
@@ -14817,7 +14337,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14846,7 +14365,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -14884,7 +14402,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14913,7 +14430,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -14944,7 +14460,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -14973,7 +14488,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15006,7 +14520,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15036,7 +14549,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15061,15 +14573,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/Qq-fgjrc-uc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Qq-fgjrc-uc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MV】Naimononedari / ないものねだり - Gigi Murin & Cecilia Immergree</div>
@@ -15084,7 +14594,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15115,7 +14624,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15148,7 +14656,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15177,7 +14684,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15208,7 +14714,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15219,7 +14724,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250512" data-partners="holoen_erbloodflame holoen_erbloodflame mococo_abyssgard holoen_raorapanthera">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -15244,14 +14749,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_raorapanthera</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/kQeopZTlqog" target="_blank">
@@ -15298,15 +14801,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/pk29y0n9tBI" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/pk29y0n9tBI/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【#ENreco】ENigmatic Recollection Chapter 2 - Ending【#hololive</div>
@@ -15321,7 +14822,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15353,7 +14853,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15382,7 +14881,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15413,7 +14911,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15443,7 +14940,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15468,15 +14964,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/vbppXmxXo7o" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/vbppXmxXo7o/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【ENigmatic Recollection】Episode 03: "The Chains Of Fate" (Ch</div>
@@ -15491,7 +14985,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15523,7 +15016,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15548,15 +15040,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/wnQuawM-3Jc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/wnQuawM-3Jc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【ENigmatic Recollection】Episode 02: "The Chains Of Fate" (Ch</div>
@@ -15571,7 +15061,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15598,15 +15087,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/xzAqu4vkY7I/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -15616,14 +15103,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">15 videos</span></div>
+<div class="tl-partners"><span class="partner">15 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 15 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/xzAqu4vkY7I" target="_blank">
@@ -15748,7 +15232,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15779,7 +15262,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15812,7 +15294,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15841,7 +15322,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15877,7 +15357,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15908,7 +15387,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -15941,7 +15419,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -15970,7 +15447,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16003,7 +15479,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16034,7 +15509,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16067,7 +15541,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16099,7 +15572,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16128,7 +15600,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16161,7 +15632,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16190,7 +15660,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16223,7 +15692,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16254,7 +15722,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16287,7 +15754,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16318,7 +15784,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16351,7 +15816,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16382,7 +15846,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16415,7 +15878,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16444,7 +15906,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16477,7 +15938,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16508,7 +15968,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -16541,7 +16000,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16566,15 +16024,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/MU40vqlgfjA/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">JUSTICE JAMS</div>
@@ -16584,14 +16040,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/MU40vqlgfjA" target="_blank">
@@ -16644,7 +16097,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16676,7 +16128,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16706,7 +16157,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16717,7 +16167,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250413" data-partners="nanashimumei nanashimumei kaelakovalskia kureijiollie robocosan nerissaravencroft">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -16744,14 +16194,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+2 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/paVEMfMEH20" target="_blank">
@@ -16815,7 +16263,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16845,7 +16292,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16870,15 +16316,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/zO4FceREU6U/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Farming Simulator</div>
@@ -16888,14 +16332,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/zO4FceREU6U" target="_blank">
@@ -16944,7 +16385,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -16973,7 +16413,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17004,7 +16443,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17033,7 +16471,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17066,7 +16503,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17097,7 +16533,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17130,7 +16565,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17159,7 +16593,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17197,7 +16630,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17226,7 +16658,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17259,7 +16690,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17284,15 +16714,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/8TvNCugQg3g" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/8TvNCugQg3g/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【COLLAB】 DID SOMEBODY SAY CHAOS w/ @holoen_ceciliaimmergreen</div>
@@ -17307,7 +16735,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17338,7 +16765,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17371,7 +16797,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17400,7 +16825,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17431,7 +16855,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17456,15 +16879,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/xj-PuCghOtY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Monster Hunter Wilds GAGA Edition</div>
@@ -17474,14 +16895,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/xj-PuCghOtY" target="_blank">
@@ -17528,7 +16946,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17558,7 +16975,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17583,15 +16999,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/mKRAtm2wXHk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">PHASMOPHOBIA</div>
@@ -17601,14 +17015,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/mKRAtm2wXHk" target="_blank">
@@ -17663,7 +17074,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17692,7 +17102,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17725,7 +17134,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17756,7 +17164,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17789,7 +17196,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17818,7 +17224,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17851,7 +17256,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17883,7 +17287,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17912,7 +17315,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -17945,7 +17347,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -17977,7 +17378,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18006,7 +17406,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18039,7 +17438,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18070,7 +17468,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18108,7 +17505,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18139,7 +17535,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18172,7 +17567,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18204,7 +17598,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18233,7 +17626,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18264,7 +17656,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18293,7 +17684,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18324,7 +17714,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18335,7 +17724,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250222" data-partners="hakosbaelz hakosbaelz kaelakovalskia">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -18358,14 +17747,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@kaelakovalskia</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/ZYW19lxvOU8" target="_blank">
@@ -18411,7 +17798,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18440,7 +17826,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18473,7 +17858,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18504,7 +17888,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18537,7 +17920,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18566,7 +17948,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18597,7 +17978,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18626,7 +18006,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18657,7 +18036,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18682,15 +18060,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/-cviTcYugho/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Minecraft</div>
@@ -18700,14 +18076,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/-cviTcYugho" target="_blank">
@@ -18756,7 +18129,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18785,7 +18157,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18816,7 +18187,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18845,7 +18215,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18878,7 +18247,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18903,15 +18271,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/RJ210HHhPEc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/RJ210HHhPEc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Minecraft】セシリアちゃんとコラボで遊ぼう【ホロライブ/ときのそら/Cecilia Immergreen】</div>
@@ -18926,7 +18292,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -18958,7 +18323,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -18987,7 +18351,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19018,7 +18381,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19047,7 +18409,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19078,7 +18439,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19108,7 +18468,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19133,15 +18492,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/-eWD-ASFWOU/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Minecraft</div>
@@ -19151,14 +18508,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">4 videos</span></div>
+<div class="tl-partners"><span class="partner">4 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/-eWD-ASFWOU" target="_blank">
@@ -19219,7 +18573,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19251,7 +18604,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19276,15 +18628,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/set_fCDhJgs" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/set_fCDhJgs/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【 Keep Talking and Nobody Explodes 】 The Vtuber to Bomb Diff</div>
@@ -19299,7 +18649,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19331,7 +18680,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19361,15 +18709,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/JwC5rwW8LaI/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ADVENT VS JUSTICE</div>
@@ -19379,14 +18725,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">6 videos</span></div>
+<div class="tl-partners"><span class="partner">6 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 6 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/JwC5rwW8LaI" target="_blank">
@@ -19459,7 +18802,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19488,7 +18830,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19521,7 +18862,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19546,15 +18886,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/9G7wTFBVBWk" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/9G7wTFBVBWk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Cookie Run Kingdom Isn't Paying for Itself!【Payday 2】</div>
@@ -19569,7 +18907,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19596,15 +18933,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/Die9xpbswFU" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Die9xpbswFU/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【COLLAB】 MORE CHAOS WITH @holoen_ceciliaimmergreen 【STRANGER</div>
@@ -19619,7 +18954,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19653,7 +18987,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19682,7 +19015,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19713,7 +19045,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19743,7 +19074,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19772,7 +19102,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19805,7 +19134,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19834,7 +19162,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19865,7 +19192,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19894,7 +19220,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -19925,7 +19250,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -19950,15 +19274,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/8q8hX3t0c7s" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/8q8hX3t0c7s/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【COLLAB】 TAKING DOWN CHAOS WITH @holoen_ceciliaimmergreen 【S</div>
@@ -19974,7 +19296,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 </div>
@@ -19986,7 +19307,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250115" data-partners="holoen_erbloodflame holoen_erbloodflame holoen_gigimurin kaelakovalskia">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -20011,14 +19332,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@kaelakovalskia</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/-skCkwcKbts" target="_blank">
@@ -20070,7 +19389,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20099,7 +19417,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20132,7 +19449,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20143,7 +19459,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250113" data-partners="pavoliareine pavoliareine kikirara_vivi mizumiya_su kazamairoha nakiri_ayame akirose kikirara_vivi nekomataokayu tokoyamitowa vestia_zeta">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -20170,14 +19486,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+7 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 10 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/JX6S-lzcegs" target="_blank">
@@ -20271,7 +19585,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20300,7 +19613,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20331,7 +19643,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20360,7 +19671,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20391,7 +19701,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20420,7 +19729,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20453,7 +19761,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20482,7 +19789,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20513,7 +19819,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20542,7 +19847,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20575,7 +19879,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20605,7 +19908,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20634,7 +19936,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20667,7 +19968,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20692,15 +19992,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/PTYCG-8J2YU" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/PTYCG-8J2YU/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【FAR CRY 5】Starting off the year with VIOLENCE!</div>
@@ -20715,7 +20013,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -20749,7 +20046,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20781,7 +20077,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20792,7 +20087,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250102" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -20815,14 +20110,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/JDuVdtVcRYs" target="_blank">
@@ -20868,7 +20161,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20898,7 +20190,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -20909,7 +20200,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20250101" data-partners="holoen_raorapanthera holoen_raorapanthera hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -20932,14 +20223,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/9xYlF78J8jk" target="_blank">
@@ -20987,7 +20276,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21024,7 +20312,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21056,7 +20343,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21067,7 +20353,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241231" data-partners="ceresfauna ceresfauna mococo_abyssgard">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -21090,14 +20376,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@mococo_abyssgard</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/3O4jBkgdWRQ" target="_blank">
@@ -21138,15 +20422,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/dZFG3LDDDJU" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/dZFG3LDDDJU/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【#holoJustice】Mission 4: Investigation “Senpai"【Justice Pre-</div>
@@ -21161,7 +20443,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -21195,7 +20476,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21227,7 +20507,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21238,7 +20517,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241228" data-partners="holoen_erbloodflame holoen_erbloodflame hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -21261,14 +20540,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/ZrU2Jn94sIU" target="_blank">
@@ -21316,7 +20593,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21348,7 +20624,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21377,7 +20652,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -21408,7 +20682,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21419,7 +20692,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241226" data-partners="moricalliope moricalliope hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -21444,14 +20717,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/0wO8d70KSXw" target="_blank">
@@ -21503,7 +20774,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21514,7 +20784,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241225" data-partners="takanashikiara takanashikiara takanashikiara">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -21537,14 +20807,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@takanashikiara</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/vdqwTsl9umA" target="_blank">
@@ -21592,7 +20860,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21622,7 +20889,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21633,7 +20899,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241224" data-partners="kosekibijou kosekibijou kosekibijou nerissaravencroft">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -21658,14 +20924,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@nerissaravencroft</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/QIQnwYp3tjY" target="_blank">
@@ -21717,7 +20981,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21746,7 +21009,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -21779,7 +21041,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21809,7 +21070,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21834,15 +21094,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/8n0F1Kpwllg" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/8n0F1Kpwllg/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【WE WERE HERE】CC & GG WERE HERE!!!!!!!!!!!!!!!</div>
@@ -21857,7 +21115,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -21889,7 +21146,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21918,7 +21174,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -21951,7 +21206,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -21983,7 +21237,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22012,7 +21265,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22043,7 +21295,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22072,7 +21323,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22103,7 +21353,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22132,7 +21381,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22165,7 +21413,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22190,15 +21437,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/XRU13f_AAc4" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/XRU13f_AAc4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【FAR CRY 5】They aren't ready for BABYDOLL! With @holoen_ceci</div>
@@ -22214,7 +21459,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 </div>
@@ -22226,7 +21470,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241208" data-partners="holoen_gigimurin holoen_gigimurin holoen_raorapanthera holoen_erbloodflame">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -22251,14 +21495,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_erbloodflame</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/3O93wB_SDS8" target="_blank">
@@ -22310,7 +21552,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22342,7 +21583,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22367,15 +21607,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/o4m8RXwESt4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">LEAGUE OF LEGENDS</div>
@@ -22385,14 +21623,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/o4m8RXwESt4" target="_blank">
@@ -22445,7 +21680,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22477,7 +21711,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22506,7 +21739,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22539,7 +21771,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22568,7 +21799,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22599,7 +21829,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22628,7 +21857,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -22661,7 +21889,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22677,7 +21904,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241130" data-partners="holoen_gigimurin holoen_gigimurin holoen_erbloodflame nerissaravencroft">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -22702,14 +21929,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@nerissaravencroft</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/yrWPhXzSofI" target="_blank">
@@ -22761,7 +21986,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22791,7 +22015,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22802,7 +22025,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241127" data-partners="holoen_erbloodflame holoen_erbloodflame holoen_raorapanthera">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -22825,14 +22048,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_raorapanthera</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/_MJEjpQRCbE" target="_blank">
@@ -22878,7 +22099,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22910,7 +22130,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22940,7 +22159,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -22969,7 +22187,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23002,7 +22219,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23034,7 +22250,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23063,7 +22278,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23094,7 +22308,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23105,7 +22318,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241118" data-partners="holoen_erbloodflame holoen_erbloodflame holoen_gigimurin nerissaravencroft">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -23130,14 +22343,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@nerissaravencroft</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/eCRLPfFYN4c" target="_blank">
@@ -23189,7 +22400,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23218,7 +22428,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23249,7 +22458,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23278,7 +22486,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23311,7 +22518,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23341,7 +22547,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23370,7 +22575,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23403,7 +22607,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23435,7 +22638,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23465,7 +22667,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23494,7 +22695,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23527,7 +22727,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23556,7 +22755,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23589,7 +22787,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23621,7 +22818,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23651,7 +22847,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23676,15 +22871,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/bdwGIYhBXuU/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">VRCHAT</div>
@@ -23694,14 +22887,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">14 videos</span></div>
+<div class="tl-partners"><span class="partner">14 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 14 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/bdwGIYhBXuU" target="_blank">
@@ -23825,7 +23015,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23856,7 +23045,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -23889,7 +23077,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -23914,15 +23101,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/OOnpBYGll7U/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">PANICORE</div>
@@ -23932,14 +23117,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/OOnpBYGll7U" target="_blank">
@@ -23992,7 +23174,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24024,7 +23205,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24053,7 +23233,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24084,7 +23263,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24109,15 +23287,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/t-GnwW639_o" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/t-GnwW639_o/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【JUSTICE WATCHALONG】Let's watch Cabin in the Woods with Just</div>
@@ -24132,7 +23308,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24159,15 +23334,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/CV2X0B1T5h4" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/CV2X0B1T5h4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Assetto Corsa Competizione】I got the ZOOMIES</div>
@@ -24183,7 +23356,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 </div>
@@ -24195,7 +23367,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241025" data-partners="hololiveenglish hololiveenglish hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -24218,14 +23390,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/GXCLPN_RBHE" target="_blank">
@@ -24273,7 +23443,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24298,15 +23467,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/L8Fy0njMG8o/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ASSETO CORSA COMPETIZIONE</div>
@@ -24316,14 +23483,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/L8Fy0njMG8o" target="_blank">
@@ -24370,7 +23534,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24400,7 +23563,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24425,15 +23587,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/LILQVZb9uSk" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/LILQVZb9uSk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【HALO: REACH】The Good Guys Are Here to Win !!!</div>
@@ -24448,7 +23608,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24479,7 +23638,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24512,7 +23670,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24541,7 +23698,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24572,7 +23728,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24602,7 +23757,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24613,7 +23767,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241016" data-partners="mococo_abyssgard mococo_abyssgard ceresfauna moricalliope kosekibijou takanashikiara">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -24640,14 +23794,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+2 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/uLEyJNonnQw" target="_blank">
@@ -24692,7 +23844,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241014" data-partners="moricalliope moricalliope ceresfauna kosekibijou">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -24717,14 +23869,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@kosekibijou</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/sFbACz_hUDo" target="_blank">
@@ -24778,7 +23928,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24807,7 +23956,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -24840,7 +23988,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24872,7 +24019,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24883,7 +24029,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241013" data-partners="ceresfauna ceresfauna kosekibijou moricalliope">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -24908,14 +24054,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@moricalliope</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/akv2nfjvPu4" target="_blank">
@@ -24969,7 +24113,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -24994,15 +24137,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/U21e4jOvYdA" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/U21e4jOvYdA/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">You join Baelz, Bijou, Nerissa and Cecilia for a game of bea</div>
@@ -25017,7 +24158,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25049,7 +24189,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25079,7 +24218,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25090,7 +24228,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20241011" data-partners="ceresfauna ceresfauna holoen_raorapanthera kosekibijou moricalliope">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -25117,14 +24255,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/MMhqW1r-L3g" target="_blank">
@@ -25182,7 +24318,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25207,15 +24342,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/cJoRL1zWndQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">7 Days To Die</div>
@@ -25225,14 +24358,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">9 videos</span></div>
+<div class="tl-partners"><span class="partner">9 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 9 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/cJoRL1zWndQ" target="_blank">
@@ -25316,15 +24446,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/CTOUgAyxX3Q" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/CTOUgAyxX3Q/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Inside the Backrooms】 I AM LOST HELP CC HELP MEEE   #RAVIOL</div>
@@ -25339,7 +24467,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25371,7 +24498,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25401,7 +24527,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25430,7 +24555,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25463,7 +24587,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25492,7 +24615,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25525,7 +24647,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25554,7 +24675,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25590,7 +24710,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25622,7 +24741,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25652,7 +24770,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25663,7 +24780,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240928" data-partners="pavoliareine pavoliareine vestia_zeta aniamelfissa watsonamelia">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -25690,14 +24807,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/lE9pFF0GLe8" target="_blank">
@@ -25736,7 +24851,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240927" data-partners="shiorinovella shiorinovella takanashikiara mococo_abyssgard">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -25761,14 +24876,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@mococo_abyssgard</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/YRq5dG_tD60" target="_blank">
@@ -25820,7 +24933,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25849,7 +24961,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25880,7 +24991,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25905,15 +25015,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/_kwkxV_jKso" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/_kwkxV_jKso/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【#holoGTA】NurseRyS' Last Day in HoloSantos🚑最終日!白衣の天使IRyS❤</div>
@@ -25928,7 +25036,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -25960,7 +25067,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -25989,7 +25095,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26020,7 +25125,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26050,7 +25154,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26075,15 +25178,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/gC52QYTaZZ8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">LETHAL COMPANY</div>
@@ -26093,14 +25194,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/gC52QYTaZZ8" target="_blank">
@@ -26153,7 +25251,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26182,7 +25279,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26213,7 +25309,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26242,7 +25337,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26273,7 +25367,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26303,7 +25396,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26328,15 +25420,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/2wJLvv3WuUE" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/2wJLvv3WuUE/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【LETHAL COMPANY】if there were medals for the bravest person </div>
@@ -26351,7 +25441,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26378,15 +25467,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/YAb5RdPxyiw" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/YAb5RdPxyiw/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Lethal Company】bless you.【hololive】</div>
@@ -26401,7 +25488,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26435,7 +25521,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26464,7 +25549,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26495,7 +25579,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26524,7 +25607,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26555,7 +25637,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26584,7 +25665,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -26617,7 +25697,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -26642,15 +25721,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/cIb5yHw4mvk/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENRECO Minecraft RP</div>
@@ -26660,14 +25737,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">16 videos</span></div>
+<div class="tl-partners"><span class="partner">16 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 16 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/cIb5yHw4mvk" target="_blank">
@@ -26779,7 +25853,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240907" data-partners="tokoyamitowa tokoyamitowa holoen_raorapanthera natsuiromatsuri kaelakovalskia">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -26806,14 +25880,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/yOWy0x5S1y8" target="_blank">
@@ -26866,15 +25938,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/zPJ78C7uNq8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -26884,14 +25954,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">7 videos</span></div>
+<div class="tl-partners"><span class="partner">7 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 7 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/zPJ78C7uNq8" target="_blank">
@@ -26970,7 +26037,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27000,7 +26066,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27025,15 +26090,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/gtOGWDKwQfY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -27043,14 +26106,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/gtOGWDKwQfY" target="_blank">
@@ -27098,15 +26158,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/KE-Qhw2T1CY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -27116,14 +26174,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/KE-Qhw2T1CY" target="_blank">
@@ -27176,7 +26231,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27201,15 +26255,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/efqkfe_5O0s/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -27219,14 +26271,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">5 videos</span></div>
+<div class="tl-partners"><span class="partner">5 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/efqkfe_5O0s" target="_blank">
@@ -27286,15 +26335,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/bOIlLaFiiE4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENRECO Minecraft RP</div>
@@ -27304,14 +26351,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">4 videos</span></div>
+<div class="tl-partners"><span class="partner">4 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/bOIlLaFiiE4" target="_blank">
@@ -27372,7 +26416,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27402,7 +26445,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27427,15 +26469,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Rk7nZ91vme4/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">ENigmatic Recollection</div>
@@ -27445,14 +26485,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">18 videos</span></div>
+<div class="tl-partners"><span class="partner">18 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 18 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/Rk7nZ91vme4" target="_blank">
@@ -27600,7 +26637,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27629,7 +26665,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -27660,7 +26695,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27689,7 +26723,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -27720,7 +26753,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27749,7 +26781,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -27782,7 +26813,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27811,7 +26841,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -27842,7 +26871,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27853,7 +26881,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240825" data-partners="holoen_raorapanthera holoen_raorapanthera hololiveenglish">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -27876,14 +26904,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@hololiveenglish</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/G7o1oj2IEHQ" target="_blank">
@@ -27931,7 +26957,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27961,7 +26986,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -27990,7 +27014,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28023,7 +27046,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28048,15 +27070,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/EeLk1olaabQ" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/EeLk1olaabQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【Q&A】#RAVIOLIN here to answer to your Questions!</div>
@@ -28071,7 +27091,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28103,7 +27122,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28133,7 +27151,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28162,7 +27179,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28195,7 +27211,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28225,7 +27240,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28250,15 +27264,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/I8GQdfHDCdY" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/I8GQdfHDCdY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【7 Days to Die】da final days with da beaver and da thinker</div>
@@ -28273,7 +27285,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28305,7 +27316,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28334,7 +27344,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28365,7 +27374,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28390,15 +27398,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/lyOAlaibnRY" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/lyOAlaibnRY/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【BORDERLANDS 2】ame cece gigi mumei in the wastelands</div>
@@ -28413,7 +27419,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28447,7 +27452,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28476,7 +27480,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28509,7 +27512,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28541,7 +27543,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28566,15 +27567,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/VgQAfDby1nw" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/VgQAfDby1nw/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MINECRAFT】passenger princessing in justice server once more</div>
@@ -28589,7 +27588,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28621,7 +27619,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28632,7 +27629,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240806" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_erbloodflame holoen_raorapanthera">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -28657,14 +27654,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner">@holoen_raorapanthera</span>
 
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/Prumn61dLd8" target="_blank">
@@ -28716,7 +27711,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28748,7 +27742,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28778,7 +27771,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28807,7 +27799,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -28843,7 +27834,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28875,7 +27865,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28905,7 +27894,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -28916,7 +27904,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <div class="tl-item collab" data-date="20240730" data-partners="kosekibijou kosekibijou holoen_raorapanthera holoen_erbloodflame moricalliope">
 <div class="tl-dot"></div>
-<div class="tl-card">
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
@@ -28943,14 +27931,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 <span class="partner">+1 more</span>
 
+<span class="tl-arrow">▶</span>
 </div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 4 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/rokb4-xcHiI" target="_blank">
@@ -29008,7 +27994,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29038,7 +28023,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29067,7 +28051,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29100,7 +28083,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29132,7 +28114,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29157,15 +28138,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/2WkwicMnuPg" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/2WkwicMnuPg/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【PORTAL 2 CO-OP】i'm da puzzle solver</div>
@@ -29180,7 +28159,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29212,7 +28190,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29237,15 +28214,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/brFG95mUUg8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">MINECRAFT</div>
@@ -29255,14 +28230,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">8 videos</span></div>
+<div class="tl-partners"><span class="partner">8 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 8 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/brFG95mUUg8" target="_blank">
@@ -29345,7 +28317,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29377,7 +28348,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29402,15 +28372,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/uZQ2jwWcHKc" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/uZQ2jwWcHKc/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【7 Days to Die】7 days to trauma dump #holoJustice</div>
@@ -29425,7 +28393,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29452,15 +28419,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/zxapgYwDkco/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">MINECRAFT</div>
@@ -29470,14 +28435,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/zxapgYwDkco" target="_blank">
@@ -29530,7 +28492,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29560,7 +28521,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29585,15 +28545,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/BWj6JJ4IbKA" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/BWj6JJ4IbKA/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【MINECRAFT】MORE ADVENTURES WITH CECILIA!!!~ 🍵🐱</div>
@@ -29608,7 +28566,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29635,15 +28592,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/QolpOsUVh_M/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">JUSTICE JAMS</div>
@@ -29653,14 +28608,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/QolpOsUVh_M" target="_blank">
@@ -29702,15 +28654,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/HVhDIJgOG2M" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/HVhDIJgOG2M/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【JUSTICE JAMS】Left 4 Dead 2~! 💄 #hololiveEnglish #holoJustic</div>
@@ -29725,7 +28675,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29757,7 +28706,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29786,7 +28734,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29819,7 +28766,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29849,7 +28795,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29878,7 +28823,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29911,7 +28855,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -29942,7 +28885,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -29975,7 +28917,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30005,7 +28946,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30034,7 +28974,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30067,7 +29006,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30096,7 +29034,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30129,7 +29066,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30154,15 +29090,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/g0HLlIXj5ks/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">holoLIVE EN COLLAB</div>
@@ -30172,14 +29106,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">7 videos</span></div>
+<div class="tl-partners"><span class="partner">7 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 7 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/g0HLlIXj5ks" target="_blank">
@@ -30256,7 +29187,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30285,7 +29215,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30316,7 +29245,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30341,15 +29269,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/kuhaztLEcoQ/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">7 Days to Die</div>
@@ -30359,14 +29285,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">2 videos</span></div>
+<div class="tl-partners"><span class="partner">2 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 2 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/kuhaztLEcoQ" target="_blank">
@@ -30415,7 +29338,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30444,7 +29366,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30480,7 +29401,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30510,7 +29430,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30535,15 +29454,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/lWhR8sk-0xo/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">JUSTICE JAMS</div>
@@ -30553,14 +29470,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">3 videos</span></div>
+<div class="tl-partners"><span class="partner">3 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 3 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/lWhR8sk-0xo" target="_blank">
@@ -30613,7 +29527,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30638,15 +29551,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/Tg_4D1dfP-o" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Tg_4D1dfP-o/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【A WAY OUT】oh nooo i keep alerting the guards with the #holo</div>
@@ -30661,7 +29572,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30693,7 +29603,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30722,7 +29631,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30753,7 +29661,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30778,15 +29685,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card collab-group" onclick="toggleCollabGroup(this)">
 
 <div class="tl-card-inner no-link">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/j89Phi0oom8/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">Ello! Hi! Hallo! Ciao! - Justice's 1st Collab! #ho</div>
@@ -30796,14 +29701,11 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </div>
 
-<div class="tl-partners"><span class="partner">5 videos</span></div>
+<div class="tl-partners"><span class="partner">5 videos</span><span class="tl-arrow">▶</span></div>
 
 </div>
 
 </div>
-
-
-<div class="tl-expand" onclick="this.classList.toggle('open');var s=this.parentElement.querySelector('.tl-subs');if(s)s.classList.toggle('open')">▼ 5 videos</div>
 <div class="tl-subs">
 
 <a class="tl-sub" href="https://youtu.be/j89Phi0oom8" target="_blank">
@@ -30868,7 +29770,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30893,15 +29794,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="tl-dot"></div>
 <div class="tl-pair-collab">
-<div class="tl-card">
 
+<div class="tl-card">
 
 <a class="tl-card-inner" href="https://youtu.be/Q3GiWDqoR3s" target="_blank">
 
 
-
 <img class="tl-thumb" src="https://img.youtube.com/vi/Q3GiWDqoR3s/mqdefault.jpg" alt="" loading="lazy">
-
 
 <div class="tl-body">
 <div class="tl-title">【#holoJustice】The Mission Begins!【hololive English New Unit </div>
@@ -30916,7 +29815,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -30950,7 +29848,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </a>
 
-
 </div>
 </div>
 
@@ -30979,7 +29876,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 
 </a>
-
 
 </div>
 </div>
@@ -31097,6 +29993,15 @@ function selectPartnerOnly(handle) {
   });
   updateSelectedDisplay();
   filterTimeline();
+}
+
+function toggleCollabGroup(el) {
+  var arrow = el.querySelector('.tl-arrow');
+  var subs = el.querySelector('.tl-subs');
+  if (subs) {
+    subs.classList.toggle('open');
+    if (arrow) arrow.classList.toggle('open');
+  }
 }
 
 function resetFilters() {
