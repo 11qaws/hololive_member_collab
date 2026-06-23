@@ -36,6 +36,8 @@ INITIAL_MEMBERS = [
     Member("hololiveenglish", "hololive English", branch=Branch.OFFICIAL),
     Member("hololiveindonesia", "hololive Indonesia", branch=Branch.OFFICIAL),
     Member("hololive_music", "hololive Music", branch=Branch.OFFICIAL),
+    Member("hololivedev_is", "hololive DEV_IS ReGLOSS", branch=Branch.OFFICIAL),
+    Member("dev_is_flowglow", "hololive DEV_IS FLOW GLOW", branch=Branch.OFFICIAL),
 
     # ── ID ────────────────────────────────────────────
     Member("ayunda_risu", "Ayunda Risu", branch=Branch.ID),

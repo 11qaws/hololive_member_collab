@@ -820,6 +820,26 @@
       "status": "active",
       "graduated_at": null,
       "photo_url": null
+    },
+    {
+      "handle": "hololivedev_is",
+      "name": "hololive DEV_IS ReGLOSS",
+      "channel_id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "channel_handle": "hololiveDEV_IS",
+      "branch": "Official",
+      "status": "active",
+      "graduated_at": null,
+      "photo_url": null
+    },
+    {
+      "handle": "dev_is_flowglow",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "channel_id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "channel_handle": "DEV_IS_FLOWGLOW",
+      "branch": "Official",
+      "status": "active",
+      "graduated_at": null,
+      "photo_url": null
     }
   ]
 }
