@@ -1,6 +1,6 @@
 {
   "target": "tsukumosana",
-  "count": 250,
+  "count": 262,
   "entries": [
     {
       "video_id": "gVaRNSao0oU",
@@ -11,6 +11,39 @@
       "thumbnail": "https://img.youtube.com/vi/gVaRNSao0oU/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": []
+    },
+    {
+      "video_id": "2gVBlvZ02Bo",
+      "title": "Big Brain Sana Breaks Kronii  #shorts",
+      "published_at": "20221206",
+      "url": "https://youtu.be/2gVBlvZ02Bo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2gVBlvZ02Bo/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "BAmdk9GzQ4o",
+      "title": "Calliope Gets Hiccups and Screams Her Head Off   #shorts",
+      "published_at": "20221116",
+      "url": "https://youtu.be/BAmdk9GzQ4o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BAmdk9GzQ4o/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "o03BiGUrjOE",
+      "title": "Kronii's Korean Will Blow You Away  #shorts",
+      "published_at": "20221007",
+      "url": "https://youtu.be/o03BiGUrjOE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/o03BiGUrjOE/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": []
     },
     {
@@ -44,6 +77,50 @@
       "thumbnail": "https://img.youtube.com/vi/-3ZfeLpr-v8/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": []
+    },
+    {
+      "video_id": "uwCM48yKAUs",
+      "title": "Rise",
+      "published_at": "20220823",
+      "url": "https://youtu.be/uwCM48yKAUs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uwCM48yKAUs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "xm6BMz3ybwk",
+      "title": "Rise (Instrumental)",
+      "published_at": "20220823",
+      "url": "https://youtu.be/xm6BMz3ybwk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xm6BMz3ybwk/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "FeW-3V2TD9g",
+      "title": "You Can See the Universe in Calliope's Eyes #shorts",
+      "published_at": "20220823",
+      "url": "https://youtu.be/FeW-3V2TD9g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FeW-3V2TD9g/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "jHibTDJlTJw",
+      "title": "【MV】 Rise 【hololive English -Council- Original Song】",
+      "published_at": "20220823",
+      "url": "https://youtu.be/jHibTDJlTJw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jHibTDJlTJw/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": []
     },
     {
@@ -583,6 +660,17 @@
       "thumbnail": "https://img.youtube.com/vi/7Elu1YFqlJM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": []
+    },
+    {
+      "video_id": "b3Z7MbXO1Zs",
+      "title": "Sana is Big #Shorts",
+      "published_at": "20220609",
+      "url": "https://youtu.be/b3Z7MbXO1Zs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/b3Z7MbXO1Zs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": []
     },
     {
@@ -1444,6 +1532,17 @@
       "sub_entries": []
     },
     {
+      "video_id": "uFJHdT_ie9U",
+      "title": "Ochame Kinou - hololive English Cover",
+      "published_at": "20220101",
+      "url": "https://youtu.be/uFJHdT_ie9U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uFJHdT_ie9U/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
       "video_id": "0LBNIh12o4g",
       "title": "holoEN NEW YEARS KARAOKE RELAY #HoloENNYRelay",
       "published_at": "20211230",
@@ -1507,6 +1606,17 @@
       "thumbnail": "https://img.youtube.com/vi/D4Z59YvMmiY/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive-EN",
+      "sub_entries": []
+    },
+    {
+      "video_id": "kPyLnwSXqkA",
+      "title": "The Twelve Days of Christmas - hololive English Cover",
+      "published_at": "20211221",
+      "url": "https://youtu.be/kPyLnwSXqkA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kPyLnwSXqkA/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": []
     },
     {
@@ -2750,6 +2860,28 @@
       "thumbnail": "https://img.youtube.com/vi/54r1SV0gtaw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": []
+    },
+    {
+      "video_id": "DJt__EOw-Xs",
+      "title": "【デビューPV】議会|#holoCouncil",
+      "published_at": "20210817",
+      "url": "https://youtu.be/DJt__EOw-Xs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DJt__EOw-Xs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": []
+    },
+    {
+      "video_id": "SLnxCyzFgPw",
+      "title": "【Debut PV】Council |#holoCouncil",
+      "published_at": "20210817",
+      "url": "https://youtu.be/SLnxCyzFgPw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SLnxCyzFgPw/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": []
     }
   ]

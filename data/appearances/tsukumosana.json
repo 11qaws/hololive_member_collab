@@ -1,6 +1,6 @@
 {
   "target": "tsukumosana",
-  "count": 125,
+  "count": 137,
   "appearances": [
     {
       "video_id": "gVaRNSao0oU",
@@ -1374,6 +1374,138 @@
       "published_at": "20210823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7S9QhFeGw60",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2gVBlvZ02Bo",
+      "title": "Big Brain Sana Breaks Kronii  #shorts",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20221206",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2gVBlvZ02Bo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BAmdk9GzQ4o",
+      "title": "Calliope Gets Hiccups and Screams Her Head Off   #shorts",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20221116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BAmdk9GzQ4o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o03BiGUrjOE",
+      "title": "Kronii's Korean Will Blow You Away  #shorts",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20221007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o03BiGUrjOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uwCM48yKAUs",
+      "title": "Rise",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uwCM48yKAUs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xm6BMz3ybwk",
+      "title": "Rise (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xm6BMz3ybwk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FeW-3V2TD9g",
+      "title": "You Can See the Universe in Calliope's Eyes #shorts",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FeW-3V2TD9g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jHibTDJlTJw",
+      "title": "【MV】 Rise 【hololive English -Council- Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jHibTDJlTJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b3Z7MbXO1Zs",
+      "title": "Sana is Big #Shorts",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220609",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b3Z7MbXO1Zs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uFJHdT_ie9U",
+      "title": "Ochame Kinou - hololive English Cover",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20220101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uFJHdT_ie9U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kPyLnwSXqkA",
+      "title": "The Twelve Days of Christmas - hololive English Cover",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20211221",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kPyLnwSXqkA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DJt__EOw-Xs",
+      "title": "【デビューPV】議会|#holoCouncil",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20210817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DJt__EOw-Xs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SLnxCyzFgPw",
+      "title": "【Debut PV】Council |#holoCouncil",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20210817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SLnxCyzFgPw",
       "status": "unreviewed",
       "note": null
     }
