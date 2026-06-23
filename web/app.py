@@ -92,6 +92,35 @@ async def unknowns_page():
     return _render("unknowns.html", unknowns=unknowns, nav_active="unknowns")
 
 
+@app.get("/dashboard", response_class=HTMLResponse)
+@app.get("/dashboard.html", response_class=HTMLResponse)
+async def dashboard_page():
+    members = load_members()
+    member_stats = []
+    for m in members:
+        timeline = load_timeline_entries(m.handle)
+        streams = len([e for e in timeline if e.entry_type == "stream"])
+        collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
+        partners = extract_partner_handles(timeline)
+        top5 = top_collab_partners(timeline)[:5]
+        monthly_map: dict[str, int] = defaultdict(int)
+        for e in timeline:
+            try:
+                monthly_map[e.published_at[:7]] += 1
+            except Exception:
+                pass
+        monthly = sorted([{"month": k, "count": v} for k, v in monthly_map.items()], key=lambda x: x["month"])
+        member_stats.append({
+            "handle": m.handle, "name": m.name, "branch": m.branch.value,
+            "photo": m.photo_url or "", "streams": streams, "collabs": collabs,
+            "partners": len(partners),
+            "topPartners": [{"handle": p[0], "count": p[1]} for p in top5],
+            "monthly": monthly,
+        })
+    stats_json = json.dumps(member_stats, ensure_ascii=False)
+    return _render("dashboard.html", stats_json=stats_json, nav_active="dashboard")
+
+
 @app.get("/search", response_class=HTMLResponse)
 @app.get("/search.html", response_class=HTMLResponse)
 async def search_page():

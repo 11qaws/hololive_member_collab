@@ -1,0 +1,208 @@
+{% extends "base.html" %}
+{% block title %}Dashboard — HCAT{% endblock %}
+{% block head_extra %}
+<style>
+main { max-width: 1000px; }
+h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
+.page-desc { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: .75rem;
+  margin-bottom: 2rem;
+}
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  text-align: center;
+}
+.summary-card .num {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.summary-card .label {
+  font-size: .78rem;
+  color: var(--text-2);
+  margin-top: .25rem;
+}
+.chart-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+.chart-section h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: .75rem;
+}
+.chart-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 700px) { .chart-row { grid-template-columns: 1fr; } }
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+@media (max-width: 700px) { .two-col { grid-template-columns: 1fr; } }
+.top-list { font-size: .85rem; }
+.top-list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: .35rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.top-list-item:last-child { border-bottom: none; }
+.top-list-item .name { color: var(--accent); cursor: pointer; }
+.top-list-item .name:hover { text-decoration: underline; }
+.top-list-item .val { font-weight: 600; }
+</style>
+{% endblock %}
+{% block content %}
+<h2>Activity Dashboard</h2>
+<p class="page-desc">Aggregate statistics across all members.</p>
+<div class="summary-grid" id="summary-grid"></div>
+
+<div class="chart-row">
+<div class="chart-section" id="monthly-chart"><h3>Activity per Month</h3><canvas id="monthly-canvas"></canvas></div>
+<div class="chart-section" id="branch-chart"><h3>Entries by Branch</h3><canvas id="branch-canvas"></canvas></div>
+</div>
+
+<div class="two-col">
+<div class="chart-section">
+<h3>Top 10 by Streams</h3>
+<div class="top-list" id="top-streams"></div>
+</div>
+<div class="chart-section">
+<h3>Top 10 by Collabs</h3>
+<div class="top-list" id="top-collabs"></div>
+</div>
+</div>
+
+<div class="chart-section">
+<h3>Top 10 Partners (across all members)</h3>
+<div class="top-list" id="top-partners"></div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script id="stats-data" type="application/json">{{ stats_json|safe }}</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script>
+(function() {
+  var stats;
+  try { stats = JSON.parse(document.getElementById('stats-data').textContent); } catch(e) { return; }
+  if (!stats || stats.length === 0) return;
+
+  // Aggregate
+  var totalStreams = 0, totalCollabs = 0, totalPartners = 0;
+  var branchCounts = {};
+  var monthlyAgg = {};
+  var globalPartnerCount = {};
+
+  stats.forEach(function(s) {
+    totalStreams += s.streams;
+    totalCollabs += s.collabs;
+    if (s.partners > totalPartners) totalPartners = s.partners;
+    branchCounts[s.branch] = (branchCounts[s.branch] || 0) + s.streams + s.collabs;
+    (s.monthly || []).forEach(function(m) {
+      monthlyAgg[m.month] = (monthlyAgg[m.month] || 0) + m.count;
+    });
+    // We don't have per-partner global counts without scanning all entries. Skip for now.
+  });
+
+  // Summary grid
+  document.getElementById('summary-grid').innerHTML = [
+    { label: 'Members', num: stats.length },
+    { label: 'Streams', num: totalStreams.toLocaleString() },
+    { label: 'Collabs', num: totalCollabs.toLocaleString() },
+    { label: 'Total Entries', num: (totalStreams + totalCollabs).toLocaleString() },
+  ].map(function(c) {
+    return '<div class="summary-card"><div class="num">' + c.num + '</div><div class="label">' + c.label + '</div></div>';
+  }).join('');
+
+  // Monthly chart
+  var months = Object.keys(monthlyAgg).sort();
+  var monthlyCtx = document.getElementById('monthly-canvas').getContext('2d');
+  new Chart(monthlyCtx, {
+    type: 'line',
+    data: {
+      labels: months,
+      datasets: [{
+        label: 'Entries',
+        data: months.map(function(m) { return monthlyAgg[m]; }),
+        borderColor: '#3b82f6',
+        backgroundColor: 'rgba(59,130,246,.1)',
+        fill: true,
+        tension: 0.3,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#999', maxTicksLimit: 20 } },
+        y: { ticks: { color: '#999' }, beginAtZero: true },
+      },
+    }
+  });
+
+  // Branch chart
+  var branchOrder = ['EN','JP','ID','DEV_IS','holoAN','Official','Holostars','Other'];
+  var branchColors = {EN:'#06b6d4',JP:'#ec4899',ID:'#22c55e','DEV_IS':'#a855f7',holoAN:'#f59e0b',Official:'#6b7280',Holostars:'#f97316',Other:'#94a3b8'};
+  var branchLabels = branchOrder.filter(function(b) { return branchCounts[b]; });
+  var branchData = branchLabels.map(function(b) { return branchCounts[b]; });
+  var branchCtx = document.getElementById('branch-canvas').getContext('2d');
+  new Chart(branchCtx, {
+    type: 'doughnut',
+    data: {
+      labels: branchLabels,
+      datasets: [{
+        data: branchData,
+        backgroundColor: branchLabels.map(function(b) { return branchColors[b] || '#94a3b8'; }),
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'right', labels: { color: '#999', boxWidth: 12, padding: 10 } },
+      },
+    }
+  });
+
+  // Top streams
+  var topStreams = stats.slice().sort(function(a, b) { return b.streams - a.streams; }).slice(0, 10);
+  document.getElementById('top-streams').innerHTML = topStreams.map(function(s) {
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + s.handle + '</span><span class="val">' + s.streams.toLocaleString() + '</span></div>';
+  }).join('');
+
+  // Top collabs
+  var topCollabs = stats.slice().sort(function(a, b) { return b.collabs - a.collabs; }).slice(0, 10);
+  document.getElementById('top-collabs').innerHTML = topCollabs.map(function(s) {
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + s.handle + '</span><span class="val">' + s.collabs.toLocaleString() + '</span></div>';
+  }).join('');
+
+  // Top global partners (reuse network edges data — fetch from graph page data)
+  // For now, cross-ref with member_stats topPartners
+  var partnerAgg = {};
+  stats.forEach(function(s) {
+    (s.topPartners || []).forEach(function(p) {
+      partnerAgg[p.handle] = (partnerAgg[p.handle] || 0) + p.count;
+    });
+  });
+  // Deduplicate: each collab is counted twice (once per member), so divide by 2
+  Object.keys(partnerAgg).forEach(function(k) { partnerAgg[k] = Math.round(partnerAgg[k] / 2); });
+  var topPartners = Object.entries(partnerAgg).sort(function(a, b) { return b[1] - a[1]; }).slice(0, 10);
+  document.getElementById('top-partners').innerHTML = topPartners.map(function(p) {
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + p[0] + '.html\'">' + p[0] + '</span><span class="val">' + p[1] + '</span></div>';
+  }).join('');
+})();
+</script>
+{% endblock %}

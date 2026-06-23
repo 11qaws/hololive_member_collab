@@ -34,6 +34,7 @@ def _fix_links(html: str) -> str:
     html = html.replace('href="/graph"', 'href="graph.html"')
     html = html.replace('href="/compare"', 'href="compare.html"')
     html = html.replace('href="/search"', 'href="search.html"')
+    html = html.replace('href="/dashboard"', 'href="dashboard.html"')
     html = html.replace('href="/"', 'href="index.html"')
     return html
 
@@ -46,6 +47,7 @@ def _fix_links_member(html: str, handle: str) -> str:
     html = html.replace('href="/graph"', 'href="../graph.html"')
     html = html.replace('href="/compare"', 'href="../compare.html"')
     html = html.replace('href="/search"', 'href="../search.html"')
+    html = html.replace('href="/dashboard"', 'href="../dashboard.html"')
     html = html.replace('href="/"', 'href="../index.html"')
     return html
 
@@ -195,6 +197,12 @@ def build_site():
     search_idx_path = data_out_dir / "search_index.json"
     search_idx_path.write_text(json.dumps(search_index, ensure_ascii=False), encoding="utf-8")
     search_size_mb = search_idx_path.stat().st_size / 1024 / 1024
+
+    # ── Dashboard page ──
+    html = _fix_links(env.get_template("dashboard.html").render(
+        stats_json=json.dumps(member_stats, ensure_ascii=False),
+        nav_active="dashboard"))
+    (site_dir / "dashboard.html").write_text(html, encoding="utf-8")
 
     # ── Search page ──
     html = _fix_links(env.get_template("search.html").render(
