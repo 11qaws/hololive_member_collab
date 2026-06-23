@@ -251,6 +251,16 @@ async def refresh_timeline(handle: str, months: int = 3, full: bool = False) -> 
 
     collabs = _collab_entries(handle)
 
+    # Safety check: if we found 0 self videos but previous file had stream entries,
+    # preserve them to avoid accidental data loss from --months default cutoff.
+    if not full and len(self_vids) == 0:
+        existing = load_timeline(handle)
+        existing_streams = [e for e in existing if e.entry_type == "stream"]
+        if existing_streams:
+            print(f"    ⚠ 0 self videos found (recent {months}mo); preserving {len(existing_streams)} existing stream entries.")
+            print(f"      Re-run with --full to scan all stream videos.")
+            self_vids = existing_streams
+
     flat_count = len(collabs)
     merged = sorted(self_vids + collabs, key=lambda e: e.published_at, reverse=True)
     save_timeline(handle, merged)
