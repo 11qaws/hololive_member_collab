@@ -1,83 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>@{{ member.handle }} — HCAT</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+{% extends "base.html" %}
+{% block title %}@{{ member.handle }} — HCAT{% endblock %}
+{% block head_extra %}
 <style>
-:root {
-  --bg: #f8f9fc;
-  --surface: #ffffff;
-  --surface-2: #f0f2f6;
-  --text: #1a1d23;
-  --text-2: #6b7280;
-  --border: #e5e7eb;
-  --accent: #8b5cf6;
-  --accent-2: #ec4899;
-  --accent-3: #06b6d4;
-  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
-  --shadow: 0 1px 3px rgba(0,0,0,.08);
-  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
-  --radius: 12px;
-  --radius-sm: 8px;
-}
-.dark {
-  --bg: #0f1117;
-  --surface: #1a1d26;
-  --surface-2: #252833;
-  --text: #e8eaed;
-  --text-2: #9ca3af;
-  --border: #2d3140;
-  --shadow: 0 1px 3px rgba(0,0,0,.3);
-}
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.6;
-  transition: background .3s, color .3s;
-}
-header {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
-  padding: 1rem 2rem;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  backdrop-filter: blur(12px);
-  background: rgba(255,255,255,.85);
-}
-.dark header { background: rgba(15,17,23,.85); }
-header .inner {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-header h1 { font-size: 1.15rem; font-weight: 600; }
-header h1 a { text-decoration: none; color: var(--text); }
-header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-header nav a {
-  text-decoration: none;
-  color: var(--text-2);
-  font-size: .875rem;
-  padding: .4rem .8rem;
-  border-radius: var(--radius-sm);
-  transition: all .2s;
-}
-header nav a:hover { color: var(--text); background: var(--surface-2); }
-.theme-toggle {
-  background: none; border: 1px solid var(--border); color: var(--text-2);
-  cursor: pointer; padding: .4rem .6rem; border-radius: var(--radius-sm); font-size: 1rem;
-}
-.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+main { max-width: 900px; }
 
-main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
-
+/* ── Profile ── */
 .profile {
   display: flex;
   align-items: center;
@@ -95,12 +22,15 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   display: flex; align-items: center; justify-content: center;
   font-size: 1.75rem; font-weight: 700; color: #fff;
   flex-shrink: 0;
+  object-fit: cover;
 }
 .profile .info h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .15rem; }
 .profile .info .name-jp { font-size: .85rem; color: var(--text-2); margin-bottom: .15rem; }
 .profile .info .handle { font-size: .9rem; color: var(--text-2); }
 .profile .info .meta { display: flex; gap: 1rem; margin-top: .5rem; flex-wrap: wrap; }
 .profile .info .meta span { font-size: .8rem; color: var(--text-2); }
+
+/* ── Stat row ── */
 .stat-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -120,6 +50,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .stat-card.collabs .num { color: var(--accent-2); }
 .stat-card.partners .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 
+/* ── Top partners ── */
 .top-partners {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -152,27 +83,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .top-partner-item:hover { background: var(--surface-2); }
 .top-partner-bar {
   position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
+  left: 0; top: 0; bottom: 0;
   background: var(--gradient);
   opacity: .08;
   border-radius: var(--radius-sm);
   pointer-events: none;
 }
-.top-partner-name {
-  font-size: .8rem;
-  font-weight: 500;
-  min-width: 80px;
-  z-index: 1;
-}
-.top-partner-count {
-  font-size: .8rem;
-  color: var(--text-2);
-  font-weight: 600;
-  z-index: 1;
-}
+.top-partner-name { font-size: .8rem; font-weight: 500; min-width: 80px; z-index: 1; }
+.top-partner-count { font-size: .8rem; color: var(--text-2); font-weight: 600; z-index: 1; }
 
+/* ── Filter bar ── */
 .filter-bar {
   display: flex;
   flex-direction: column;
@@ -196,35 +116,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   color: var(--text-2);
   text-transform: uppercase;
   letter-spacing: .03em;
-}
-.filter-bar input, .filter-bar select {
-  padding: .45rem .65rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  color: var(--text);
-  font-size: .82rem;
-  font-family: inherit;
-  outline: none;
-  transition: border-color .15s;
-  height: 34px;
-}
-.filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
-.filter-reset {
-  height: 34px;
-  padding: 0 .9rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  color: var(--text-2);
-  font-size: .82rem;
-  font-family: inherit;
-  cursor: pointer;
-  transition: all .15s;
-}
-.filter-reset:hover {
-  border-color: var(--accent-2);
-  color: var(--accent-2);
 }
 .partner-select {
   position: relative;
@@ -299,21 +190,9 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .partner-group-header:hover { background: var(--surface-2); }
 .pgg-arrow { font-size: .65rem; color: var(--text-2); transition: transform .2s; }
 .pgg-label { flex: 1; }
-.pgg-count {
-  font-size: .75rem;
-  font-weight: 400;
-  color: var(--text-2);
-}
-.partner-group-body {
-  display: none;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height .25s ease;
-}
-.partner-group-body.open {
-  display: block;
-  max-height: 600px;
-}
+.pgg-count { font-size: .75rem; font-weight: 400; color: var(--text-2); }
+.partner-group-body { display: none; }
+.partner-group-body.open { display: block; }
 .partner-option {
   display: flex;
   align-items: center;
@@ -345,13 +224,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   min-height: 1.2em;
 }
 
-.empty-state {
-  text-align: center;
-  padding: 3rem;
-  color: var(--text-2);
-  font-size: .9rem;
-}
-
+/* ── Timeline ── */
 .timeline {
   position: relative;
   margin: 0 0 2rem;
@@ -375,8 +248,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   position: absolute;
   left: 50%;
   top: 20px;
-  width: 14px;
-  height: 14px;
+  width: 14px; height: 14px;
   border-radius: 50%;
   background: var(--accent);
   border: 3px solid var(--surface);
@@ -406,8 +278,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   padding: .75rem;
 }
 .tl-item .tl-thumb {
-  width: 80px;
-  height: 45px;
+  width: 80px; height: 45px;
   border-radius: 6px;
   object-fit: cover;
   flex-shrink: 0;
@@ -469,7 +340,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   border-top: 1px solid var(--border);
 }
 .tl-subs.open {
-  max-height: 1000px;
+  max-height: 2000px;
   padding: .5rem 0;
 }
 .tl-sub {
@@ -483,8 +354,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .tl-sub:hover { background: var(--surface-2); }
 .tl-sub .sub-dot {
-  width: 8px;
-  height: 8px;
+  width: 8px; height: 8px;
   border-radius: 50%;
   background: var(--accent-2);
   flex-shrink: 0;
@@ -492,20 +362,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .tl-sub-title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .tl-sub-meta { font-size: .7rem; color: var(--text-2); white-space: nowrap; }
-.tl-sub .sub-label {
-  color: var(--text-2);
-  font-size: .7rem;
-}
+.tl-sub .sub-label { color: var(--text-2); font-size: .7rem; }
 .sub-avatar {
-  width: 20px;
-  height: 20px;
+  width: 20px; height: 20px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
   margin-left: .75rem;
 }
 
-/* ── Paired entry (self + collab side by side) ── */
+/* ── Paired entry ── */
 .tl-item.pair {
   display: flex;
   align-items: flex-start;
@@ -517,41 +383,43 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   position: absolute;
   left: 50%;
   top: 20px;
-  width: 14px;
-  height: 14px;
+  width: 14px; height: 14px;
   border-radius: 50%;
   background: var(--accent-3);
   border: 3px solid var(--surface);
   transform: translateX(-50%);
   z-index: 1;
 }
-.tl-pair-stream,
-.tl-pair-collab {
-  width: calc(50% - 24px);
+.tl-pair-stream, .tl-pair-collab { width: calc(50% - 24px); }
+.tl-pair-stream .tl-card { border-color: rgba(6,182,212,.2); }
+.tl-pair-collab .tl-card { border-color: rgba(236,72,153,.2); }
+
+/* ── Month divider ── */
+.tl-month-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem 0 .75rem;
+  position: relative;
+  z-index: 1;
 }
-.tl-pair-stream .tl-card {
-  width: 100%;
-  border-color: rgba(6,182,212,.2);
+.tl-month-divider::before {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; top: 50%;
+  height: 1px;
+  background: var(--border);
 }
-.tl-pair-collab .tl-card {
-  width: 100%;
-  border-color: rgba(236,72,153,.2);
+.tl-month-label {
+  position: relative;
+  padding: 0 .75rem;
+  font-size: .78rem;
+  color: var(--text-2);
+  font-weight: 500;
+  background: var(--bg);
 }
 
-@media (max-width: 640px) {
-  main { padding: 0 1rem; }
-  .stat-row { grid-template-columns: 1fr; }
-  .profile { flex-direction: column; text-align: center; }
-  .timeline::before { left: 16px; }
-  .tl-item .tl-dot { left: 16px; }
-  .tl-item.stream,
-  .tl-item.collab { justify-content: flex-end; }
-  .tl-item .tl-card { width: calc(100% - 40px); }
-  .tl-item.pair { flex-direction: column; gap: 1rem; }
-  .tl-item.pair .tl-dot { left: 50%; }
-  .tl-pair-stream,
-  .tl-pair-collab { width: 100%; }
-}
+/* ── Empty ── */
 .tl-empty {
   text-align: center;
   padding: 3rem;
@@ -571,44 +439,29 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   font-weight: 400;
   color: var(--text-2);
 }
-.tl-month-divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 1.5rem 0 .75rem;
-  position: relative;
-  z-index: 1;
-}
-.tl-month-divider::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  height: 1px;
-  background: var(--border);
-}
-.tl-month-label {
-  position: relative;
-  padding: 0 .75rem;
-  font-size: .78rem;
+
+/* ── Load more ── */
+.tl-load-more {
+  text-align: center;
+  padding: 1rem;
   color: var(--text-2);
-  font-weight: 500;
-  background: var(--bg);
+  font-size: .82rem;
+}
+
+@media (max-width: 640px) {
+  .stat-row { grid-template-columns: 1fr; }
+  .profile { flex-direction: column; text-align: center; }
+  .timeline::before { left: 16px; }
+  .tl-item .tl-dot { left: 16px; }
+  .tl-item.stream, .tl-item.collab { justify-content: flex-end; }
+  .tl-item .tl-card { width: calc(100% - 40px); }
+  .tl-item.pair { flex-direction: column; gap: 1rem; }
+  .tl-item.pair .tl-dot { left: 50%; }
+  .tl-pair-stream, .tl-pair-collab { width: 100%; }
 }
 </style>
-</head>
-<body>
-<header>
-<div class="inner">
-<h1><a href="/"><span>HCAT</span></a></h1>
-<nav>
-<a href="/">Members</a>
-<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
-</nav>
-</div>
-</header>
-<main>
+{% endblock %}
+{% block content %}
 <div class="profile">
 {% if member.photo_url %}
 <img class="avatar" src="{{ member.photo_url }}" alt="{{ member.name }}">
@@ -640,7 +493,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="label">Collabs</div>
 </div>
 <div class="stat-card partners">
-<div class="num">{{ partner_handles|length }}</div>
+<div class="num">{{ partner_count }}</div>
 <div class="label">Partners</div>
 </div>
 </div>
@@ -648,7 +501,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% if top_partners %}
 <div class="top-partners">
 <div class="top-partners-title">Top Collab Partners</div>
-<div class="top-partners-list">
+<div class="top-partners-list" id="top-partners-list">
 {% for handle, count in top_partners %}
 <div class="top-partner-item" onclick="selectPartnerOnly('{{ handle }}')">
 <span class="top-partner-name">@{{ handle }}</span>
@@ -660,22 +513,21 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 {% endif %}
 
-{% if timeline %}
-<div class="tl-section-title">Timeline <span class="tl-count">· {{ timeline|length }} entries</span></div>
-{% if partner_groups %}
-<div class="filter-bar">
+<div id="timeline-section">
+<div class="tl-section-title">Timeline <span class="tl-count" id="tl-count">· loading...</span></div>
+<div id="filter-bar" class="filter-bar" style="display:none">
 <div class="filter-row">
 <div class="filter-group">
 <label>Keyword</label>
-<input type="text" id="keywordFilter" placeholder="Search title..." oninput="filterTimeline()">
+<input type="text" id="keywordFilter" placeholder="Search title..." oninput="queueFilter()">
 </div>
 <div class="filter-group">
 <label>From</label>
-<input type="date" id="dateFrom" onchange="filterTimeline()">
+<input type="date" id="dateFrom" onchange="queueFilter()">
 </div>
 <div class="filter-group">
 <label>To</label>
-<input type="date" id="dateTo" onchange="filterTimeline()">
+<input type="date" id="dateTo" onchange="queueFilter()">
 </div>
 <div class="filter-group">
 <label>&nbsp;</label>
@@ -689,311 +541,20 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <span class="partner-selected-placeholder" id="selectedPlaceholder">Select members...</span>
 <span class="selected-tags" id="selectedTags"></span>
 </div>
-<div class="partner-dropdown" id="partnerDropdown">
-{% for branch, members in partner_groups %}
-<div class="partner-group">
-<div class="partner-group-header" onclick="toggleGroup(this)">
-<span class="pgg-arrow">▶</span>
-<span class="pgg-label">{{ branch }}</span>
-<span class="pgg-count">{{ members|length }}</span>
-</div>
-<div class="partner-group-body">
-{% for p in members %}
-<div class="partner-option" data-handle="{{ p.handle }}" onclick="togglePartnerOption(this)">
-<span class="po-name">{{ p.name }}</span>
-<span class="po-handle">@{{ p.handle }}</span>
-</div>
-{% endfor %}
-</div>
-</div>
-{% endfor %}
-</div>
+<div class="partner-dropdown" id="partnerDropdown"></div>
 </div>
 </div>
 </div>
 <div class="filter-info" id="filterInfo"></div>
-{% endif %}
-<div class="timeline">
-{% set ns = namespace(prev_month='') %}
-{% for e in timeline %}
-{% set cur_month = e.published_at[:6] %}
-{% if cur_month and cur_month != ns.prev_month %}
-{% if ns.prev_month %}
-<div class="tl-month-divider"><span class="tl-month-label">{{ ns.prev_month[:4] }}년 {{ ns.prev_month[4:6]|int }}월</span></div>
-{% endif %}
-{% set ns.prev_month = cur_month %}
-{% endif %}
-{% if e.paired_self %}
-<div class="tl-item pair" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
-<div class="tl-pair-stream">
-<a class="tl-card" href="{{ e.paired_self.url }}" target="_blank">
-{% if e.paired_self.thumbnail %}
-<img class="tl-thumb" src="{{ e.paired_self.thumbnail }}" alt="" loading="lazy">
-{% else %}
-<div class="tl-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.25rem">{{ "🎬" }}</div>
-{% endif %}
-<div class="tl-body">
-<div class="tl-title">{{ e.paired_self.title[:60] }}</div>
-<div class="tl-meta">
-<span class="tl-badge tl-badge-stream">STREAM</span>
-{{ e.paired_self.published_at[:4] }}-{{ e.paired_self.published_at[4:6] }}-{{ e.paired_self.published_at[6:8] }}
+<div class="timeline" id="timeline-container">
+<div class="loading">Loading timeline...</div>
 </div>
 </div>
-</a>
-</div>
-<div class="tl-dot"></div>
-<div class="tl-pair-collab">
-{% set is_collab_group = e.sub_entries|length > 1 %}
-<div class="tl-card{% if is_collab_group %} collab-group{% endif %}"{% if is_collab_group %} onclick="toggleCollabGroup(this)"{% endif %}>
-{% if is_collab_group %}
-<div class="tl-card-inner no-link">
-{% else %}
-<a class="tl-card-inner" href="{{ e.sub_entries[0].url if e.sub_entries else e.url }}" target="_blank">
-{% endif %}
-{% if e.thumbnail %}
-<img class="tl-thumb" src="{{ e.thumbnail }}" alt="" loading="lazy">
-{% else %}
-<div class="tl-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.25rem">{{ "🎙" }}</div>
-{% endif %}
-<div class="tl-body">
-<div class="tl-title">{{ e.title[:60] }}</div>
-<div class="tl-meta">
-<span class="tl-badge tl-badge-collab">COLLAB</span>
-{{ e.published_at[:4] }}-{{ e.published_at[4:6] }}-{{ e.published_at[6:8] }}
-{% if not e.sub_entries and e.partner_handle %}
-· by @{{ fuwamoco_display(e.partner_handle, e.title) }}
-{% endif %}
-</div>
-{% if is_collab_group %}
-<div class="tl-partners"><span class="partner">{{ e.sub_entries|length }} videos</span><span class="tl-arrow">▶</span></div>
-{% endif %}
-</div>
-{% if not is_collab_group %}
-</a>
-{% else %}
-</div>
-<div class="tl-subs">
-{% for p in e.sub_entries %}
-<a class="tl-sub" href="{{ p.url }}" target="_blank">
-{% set photo = member_photos.get(p.partner_handle, '') %}
-{% if photo %}
-<img class="sub-avatar" src="{{ photo }}" alt="">
-{% else %}
-<span class="sub-dot"></span>
-{% endif %}
-<div class="tl-sub-title">{{ p.title[:60] }}</div>
-<span class="tl-sub-meta">@{{ fuwamoco_display(p.partner_handle, p.title) }}</span>
-</a>
-{% endfor %}
-</div>
-{% endif %}
-</div>
-</div>
-</div>
-{% else %}
-{% set is_grouped = e.entry_type == "collab" and e.sub_entries|length > 1 %}
-<div class="tl-item {{ e.entry_type }}" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
-<div class="tl-dot"></div>
-<div class="tl-card{% if is_grouped %} collab-group{% endif %}"{% if is_grouped %} onclick="toggleCollabGroup(this)"{% endif %}>
-{% if is_grouped %}
-<div class="tl-card-inner no-link">
-{% else %}
-<a href="{{ e.url }}" target="_blank">
-{% endif %}
-{% if e.thumbnail %}
-<img class="tl-thumb" src="{{ e.thumbnail }}" alt="" loading="lazy">
-{% else %}
-<div class="tl-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.25rem">{{ "🎬" if e.entry_type == "stream" else "🎙" }}</div>
-{% endif %}
-<div class="tl-body">
-<div class="tl-title">{{ e.title[:80] }}</div>
-<div class="tl-meta">
-<span class="tl-badge tl-badge-{{ e.entry_type }}">{{ "STREAM" if e.entry_type == "stream" else "COLLAB" }}</span>
-{{ e.published_at[:4] }}-{{ e.published_at[4:6] }}-{{ e.published_at[6:8] }}
-{% if e.entry_type == "collab" and e.partner_handle and not e.sub_entries %}
-· by @{{ fuwamoco_display(e.partner_handle, e.title) }}
-{% endif %}
-</div>
-{% if is_grouped %}
-<div class="tl-partners">
-<span class="partner">{{ e.sub_entries|length }} videos</span>
-{% for p in e.sub_entries[:3] %}
-<span class="partner">@{{ fuwamoco_display(p.partner_handle, p.title) }}</span>
-{% endfor %}
-{% if e.sub_entries|length > 3 %}
-<span class="partner">+{{ e.sub_entries|length - 3 }} more</span>
-{% endif %}
-<span class="tl-arrow">▶</span>
-</div>
-{% endif %}
-</div>
-{% if not is_grouped %}
-</a>
-{% else %}
-</div>
-<div class="tl-subs">
-{% for p in e.sub_entries %}
-<a class="tl-sub" href="{{ p.url }}" target="_blank">
-{% set photo = member_photos.get(p.partner_handle, '') %}
-{% if photo %}
-<img class="sub-avatar" src="{{ photo }}" alt="">
-{% else %}
-<span class="sub-dot"></span>
-{% endif %}
-<div class="tl-sub-title">{{ p.title[:60] }}</div>
-<span class="tl-sub-meta">@{{ fuwamoco_display(p.partner_handle, p.title) }}</span>
-</a>
-{% endfor %}
-</div>
-{% endif %}
-</div>
-</div>
-{% endif %}
-{% endfor %}
-{% if ns.prev_month %}
-<div class="tl-month-divider"><span class="tl-month-label">{{ ns.prev_month[:4] }}년 {{ ns.prev_month[4:6]|int }}월</span></div>
-{% endif %}
-</div>
-{% else %}
-<div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh {{ member.handle }}</code> to fetch.</div>
-{% endif %}
-
-
-</main>
-<script>
-let selectedPartners = [];
-
-const saved = localStorage.getItem('hcat-theme');
-if (saved === 'dark') document.body.classList.add('dark');
-function toggleTheme() {
-  document.body.classList.toggle('dark');
-  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-}
-
-function filterTimeline() {
-  const kw = document.getElementById('keywordFilter').value.toLowerCase();
-  const dateFrom = document.getElementById('dateFrom').value;
-  const dateTo = document.getElementById('dateTo').value;
-
-  let visible = 0, total = 0;
-  document.querySelectorAll('.tl-item').forEach(el => {
-    total++;
-    const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
-    const p = el.dataset.partners || '';
-    const d = el.dataset.date || '';
-
-    const matchKw = !kw || title.includes(kw);
-    const matchDate = (!dateFrom || d >= dateFrom.replace(/-/g, '')) && (!dateTo || d <= dateTo.replace(/-/g, ''));
-    const matchPartner = selectedPartners.length === 0 || selectedPartners.some(s => p.includes(s));
-
-    const show = matchKw && matchDate && matchPartner;
-    el.style.display = show ? '' : 'none';
-    if (show) visible++;
-  });
-
-  const info = document.getElementById('filterInfo');
-  if (visible < total) {
-    info.textContent = 'Showing ' + visible + ' of ' + total + ' entries';
-  } else {
-    info.textContent = '';
-  }
-}
-
-function togglePartnerDropdown() {
-  document.getElementById('partnerDropdown').classList.toggle('open');
-}
-
-function toggleGroup(header) {
-  const body = header.nextElementSibling;
-  const arrow = header.querySelector('.pgg-arrow');
-  const isOpen = body.classList.toggle('open');
-  arrow.textContent = isOpen ? '▼' : '▶';
-}
-
-function togglePartnerOption(el) {
-  const handle = el.dataset.handle;
-  const idx = selectedPartners.indexOf(handle);
-  if (idx >= 0) {
-    selectedPartners.splice(idx, 1);
-    el.classList.remove('selected');
-  } else {
-    selectedPartners.push(handle);
-    el.classList.add('selected');
-  }
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-function updateSelectedDisplay() {
-  const container = document.getElementById('selectedTags');
-  const placeholder = document.getElementById('selectedPlaceholder');
-  container.innerHTML = '';
-  if (selectedPartners.length === 0) {
-    placeholder.style.display = '';
-    return;
-  }
-  placeholder.style.display = 'none';
-  selectedPartners.forEach(h => {
-    const tag = document.createElement('span');
-    tag.className = 'selected-tag';
-    tag.innerHTML = '@' + h + ' <span class="selected-tag-remove" data-handle="' + h + '">&times;</span>';
-    container.appendChild(tag);
-  });
-  container.querySelectorAll('.selected-tag-remove').forEach(btn => {
-    btn.onclick = function(e) {
-      e.stopPropagation();
-      removePartner(this.dataset.handle);
-    };
-  });
-}
-
-function removePartner(handle) {
-  const idx = selectedPartners.indexOf(handle);
-  if (idx >= 0) {
-    selectedPartners.splice(idx, 1);
-    document.querySelectorAll('.partner-option.selected[data-handle="' + handle + '"]').forEach(el => el.classList.remove('selected'));
-    updateSelectedDisplay();
-    filterTimeline();
-  }
-}
-
-function selectPartnerOnly(handle) {
-  selectedPartners = [handle];
-  document.querySelectorAll('.partner-option').forEach(el => {
-    el.classList.toggle('selected', el.dataset.handle === handle);
-  });
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-function toggleCollabGroup(el) {
-  var arrow = el.querySelector('.tl-arrow');
-  var subs = el.querySelector('.tl-subs');
-  if (subs) {
-    subs.classList.toggle('open');
-    if (arrow) arrow.classList.toggle('open');
-  }
-}
-
-function resetFilters() {
-  document.getElementById('keywordFilter').value = '';
-  document.getElementById('dateFrom').value = '';
-  document.getElementById('dateTo').value = '';
-  selectedPartners = [];
-  document.querySelectorAll('.partner-option.selected').forEach(el => el.classList.remove('selected'));
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-document.addEventListener('click', function(e) {
-  const widget = document.getElementById('partnerSelect');
-  if (widget && !widget.contains(e.target)) {
-    const dd = document.getElementById('partnerDropdown');
-    if (dd) dd.classList.remove('open');
-    document.querySelectorAll('.partner-group-body.open').forEach(el => el.classList.remove('open'));
-    document.querySelectorAll('.pgg-arrow').forEach(el => el.textContent = '▶');
-  }
-});
-</script>
-</body>
-</html>
+{% endblock %}
+{% block scripts %}
+<meta name="member-handle" content="{{ member.handle }}">
+<script id="timeline-data" type="application/json">{{ timeline_json|safe }}</script>
+<script id="partner-groups" type="application/json">{{ partner_groups_json|safe }}</script>
+<script id="member-photos" type="application/json">{{ member_photos_json|safe }}</script>
+<script src="__STATIC__/member.js"></script>
+{% endblock %}

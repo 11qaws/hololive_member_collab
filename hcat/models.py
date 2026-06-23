@@ -122,7 +122,6 @@ class TimelineEntry:
 
     def to_dict(self):
         d = asdict(self)
-        d.pop("paired_self", None)
         d.pop("_content_key", None)
         return d
 

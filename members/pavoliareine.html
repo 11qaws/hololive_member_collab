@@ -6,78 +6,12 @@
 <title>@pavoliareine — HCAT</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../static/style.css">
+
 <style>
-:root {
-  --bg: #f8f9fc;
-  --surface: #ffffff;
-  --surface-2: #f0f2f6;
-  --text: #1a1d23;
-  --text-2: #6b7280;
-  --border: #e5e7eb;
-  --accent: #8b5cf6;
-  --accent-2: #ec4899;
-  --accent-3: #06b6d4;
-  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
-  --shadow: 0 1px 3px rgba(0,0,0,.08);
-  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
-  --radius: 12px;
-  --radius-sm: 8px;
-}
-.dark {
-  --bg: #0f1117;
-  --surface: #1a1d26;
-  --surface-2: #252833;
-  --text: #e8eaed;
-  --text-2: #9ca3af;
-  --border: #2d3140;
-  --shadow: 0 1px 3px rgba(0,0,0,.3);
-}
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.6;
-  transition: background .3s, color .3s;
-}
-header {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
-  padding: 1rem 2rem;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  backdrop-filter: blur(12px);
-  background: rgba(255,255,255,.85);
-}
-.dark header { background: rgba(15,17,23,.85); }
-header .inner {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-header h1 { font-size: 1.15rem; font-weight: 600; }
-header h1 a { text-decoration: none; color: var(--text); }
-header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-header nav a {
-  text-decoration: none;
-  color: var(--text-2);
-  font-size: .875rem;
-  padding: .4rem .8rem;
-  border-radius: var(--radius-sm);
-  transition: all .2s;
-}
-header nav a:hover { color: var(--text); background: var(--surface-2); }
-.theme-toggle {
-  background: none; border: 1px solid var(--border); color: var(--text-2);
-  cursor: pointer; padding: .4rem .6rem; border-radius: var(--radius-sm); font-size: 1rem;
-}
-.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
+main { max-width: 900px; }
 
-main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
-
+/* ── Profile ── */
 .profile {
   display: flex;
   align-items: center;
@@ -95,12 +29,15 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   display: flex; align-items: center; justify-content: center;
   font-size: 1.75rem; font-weight: 700; color: #fff;
   flex-shrink: 0;
+  object-fit: cover;
 }
 .profile .info h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .15rem; }
 .profile .info .name-jp { font-size: .85rem; color: var(--text-2); margin-bottom: .15rem; }
 .profile .info .handle { font-size: .9rem; color: var(--text-2); }
 .profile .info .meta { display: flex; gap: 1rem; margin-top: .5rem; flex-wrap: wrap; }
 .profile .info .meta span { font-size: .8rem; color: var(--text-2); }
+
+/* ── Stat row ── */
 .stat-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -120,6 +57,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .stat-card.collabs .num { color: var(--accent-2); }
 .stat-card.partners .num { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 
+/* ── Top partners ── */
 .top-partners {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -152,27 +90,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .top-partner-item:hover { background: var(--surface-2); }
 .top-partner-bar {
   position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
+  left: 0; top: 0; bottom: 0;
   background: var(--gradient);
   opacity: .08;
   border-radius: var(--radius-sm);
   pointer-events: none;
 }
-.top-partner-name {
-  font-size: .8rem;
-  font-weight: 500;
-  min-width: 80px;
-  z-index: 1;
-}
-.top-partner-count {
-  font-size: .8rem;
-  color: var(--text-2);
-  font-weight: 600;
-  z-index: 1;
-}
+.top-partner-name { font-size: .8rem; font-weight: 500; min-width: 80px; z-index: 1; }
+.top-partner-count { font-size: .8rem; color: var(--text-2); font-weight: 600; z-index: 1; }
 
+/* ── Filter bar ── */
 .filter-bar {
   display: flex;
   flex-direction: column;
@@ -196,35 +123,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   color: var(--text-2);
   text-transform: uppercase;
   letter-spacing: .03em;
-}
-.filter-bar input, .filter-bar select {
-  padding: .45rem .65rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  color: var(--text);
-  font-size: .82rem;
-  font-family: inherit;
-  outline: none;
-  transition: border-color .15s;
-  height: 34px;
-}
-.filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
-.filter-reset {
-  height: 34px;
-  padding: 0 .9rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  color: var(--text-2);
-  font-size: .82rem;
-  font-family: inherit;
-  cursor: pointer;
-  transition: all .15s;
-}
-.filter-reset:hover {
-  border-color: var(--accent-2);
-  color: var(--accent-2);
 }
 .partner-select {
   position: relative;
@@ -299,21 +197,9 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .partner-group-header:hover { background: var(--surface-2); }
 .pgg-arrow { font-size: .65rem; color: var(--text-2); transition: transform .2s; }
 .pgg-label { flex: 1; }
-.pgg-count {
-  font-size: .75rem;
-  font-weight: 400;
-  color: var(--text-2);
-}
-.partner-group-body {
-  display: none;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height .25s ease;
-}
-.partner-group-body.open {
-  display: block;
-  max-height: 600px;
-}
+.pgg-count { font-size: .75rem; font-weight: 400; color: var(--text-2); }
+.partner-group-body { display: none; }
+.partner-group-body.open { display: block; }
 .partner-option {
   display: flex;
   align-items: center;
@@ -345,13 +231,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   min-height: 1.2em;
 }
 
-.empty-state {
-  text-align: center;
-  padding: 3rem;
-  color: var(--text-2);
-  font-size: .9rem;
-}
-
+/* ── Timeline ── */
 .timeline {
   position: relative;
   margin: 0 0 2rem;
@@ -375,8 +255,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   position: absolute;
   left: 50%;
   top: 20px;
-  width: 14px;
-  height: 14px;
+  width: 14px; height: 14px;
   border-radius: 50%;
   background: var(--accent);
   border: 3px solid var(--surface);
@@ -406,8 +285,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   padding: .75rem;
 }
 .tl-item .tl-thumb {
-  width: 80px;
-  height: 45px;
+  width: 80px; height: 45px;
   border-radius: 6px;
   object-fit: cover;
   flex-shrink: 0;
@@ -469,7 +347,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   border-top: 1px solid var(--border);
 }
 .tl-subs.open {
-  max-height: 1000px;
+  max-height: 2000px;
   padding: .5rem 0;
 }
 .tl-sub {
@@ -483,8 +361,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .tl-sub:hover { background: var(--surface-2); }
 .tl-sub .sub-dot {
-  width: 8px;
-  height: 8px;
+  width: 8px; height: 8px;
   border-radius: 50%;
   background: var(--accent-2);
   flex-shrink: 0;
@@ -492,20 +369,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 }
 .tl-sub-title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .tl-sub-meta { font-size: .7rem; color: var(--text-2); white-space: nowrap; }
-.tl-sub .sub-label {
-  color: var(--text-2);
-  font-size: .7rem;
-}
+.tl-sub .sub-label { color: var(--text-2); font-size: .7rem; }
 .sub-avatar {
-  width: 20px;
-  height: 20px;
+  width: 20px; height: 20px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
   margin-left: .75rem;
 }
 
-/* ── Paired entry (self + collab side by side) ── */
+/* ── Paired entry ── */
 .tl-item.pair {
   display: flex;
   align-items: flex-start;
@@ -517,41 +390,43 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   position: absolute;
   left: 50%;
   top: 20px;
-  width: 14px;
-  height: 14px;
+  width: 14px; height: 14px;
   border-radius: 50%;
   background: var(--accent-3);
   border: 3px solid var(--surface);
   transform: translateX(-50%);
   z-index: 1;
 }
-.tl-pair-stream,
-.tl-pair-collab {
-  width: calc(50% - 24px);
+.tl-pair-stream, .tl-pair-collab { width: calc(50% - 24px); }
+.tl-pair-stream .tl-card { border-color: rgba(6,182,212,.2); }
+.tl-pair-collab .tl-card { border-color: rgba(236,72,153,.2); }
+
+/* ── Month divider ── */
+.tl-month-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem 0 .75rem;
+  position: relative;
+  z-index: 1;
 }
-.tl-pair-stream .tl-card {
-  width: 100%;
-  border-color: rgba(6,182,212,.2);
+.tl-month-divider::before {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; top: 50%;
+  height: 1px;
+  background: var(--border);
 }
-.tl-pair-collab .tl-card {
-  width: 100%;
-  border-color: rgba(236,72,153,.2);
+.tl-month-label {
+  position: relative;
+  padding: 0 .75rem;
+  font-size: .78rem;
+  color: var(--text-2);
+  font-weight: 500;
+  background: var(--bg);
 }
 
-@media (max-width: 640px) {
-  main { padding: 0 1rem; }
-  .stat-row { grid-template-columns: 1fr; }
-  .profile { flex-direction: column; text-align: center; }
-  .timeline::before { left: 16px; }
-  .tl-item .tl-dot { left: 16px; }
-  .tl-item.stream,
-  .tl-item.collab { justify-content: flex-end; }
-  .tl-item .tl-card { width: calc(100% - 40px); }
-  .tl-item.pair { flex-direction: column; gap: 1rem; }
-  .tl-item.pair .tl-dot { left: 50%; }
-  .tl-pair-stream,
-  .tl-pair-collab { width: 100%; }
-}
+/* ── Empty ── */
 .tl-empty {
   text-align: center;
   padding: 3rem;
@@ -571,44 +446,43 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   font-weight: 400;
   color: var(--text-2);
 }
-.tl-month-divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 1.5rem 0 .75rem;
-  position: relative;
-  z-index: 1;
-}
-.tl-month-divider::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  height: 1px;
-  background: var(--border);
-}
-.tl-month-label {
-  position: relative;
-  padding: 0 .75rem;
-  font-size: .78rem;
+
+/* ── Load more ── */
+.tl-load-more {
+  text-align: center;
+  padding: 1rem;
   color: var(--text-2);
-  font-weight: 500;
-  background: var(--bg);
+  font-size: .82rem;
+}
+
+@media (max-width: 640px) {
+  .stat-row { grid-template-columns: 1fr; }
+  .profile { flex-direction: column; text-align: center; }
+  .timeline::before { left: 16px; }
+  .tl-item .tl-dot { left: 16px; }
+  .tl-item.stream, .tl-item.collab { justify-content: flex-end; }
+  .tl-item .tl-card { width: calc(100% - 40px); }
+  .tl-item.pair { flex-direction: column; gap: 1rem; }
+  .tl-item.pair .tl-dot { left: 50%; }
+  .tl-pair-stream, .tl-pair-collab { width: 100%; }
 }
 </style>
+
 </head>
 <body>
 <header>
 <div class="inner">
 <h1><a href="../index.html"><span>HCAT</span></a></h1>
 <nav>
-<a href="../index.html">Members</a>
+<a href="../index.html" class="">Members</a>
+<a href="../stats.html" class="">Stats</a>
+<a href="../unknowns.html" class="">Unknowns</a>
 <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
 </nav>
 </div>
 </header>
 <main>
+
 <div class="profile">
 
 <img class="avatar" src="https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj" alt="Pavolia Reine パヴォリア・レイネ">
@@ -643,146 +517,52 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-
-<div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh pavoliareine</code> to fetch.</div>
-
-
+<div id="timeline-section">
+<div class="tl-section-title">Timeline <span class="tl-count" id="tl-count">· loading...</span></div>
+<div id="filter-bar" class="filter-bar" style="display:none">
+<div class="filter-row">
+<div class="filter-group">
+<label>Keyword</label>
+<input type="text" id="keywordFilter" placeholder="Search title..." oninput="queueFilter()">
+</div>
+<div class="filter-group">
+<label>From</label>
+<input type="date" id="dateFrom" onchange="queueFilter()">
+</div>
+<div class="filter-group">
+<label>To</label>
+<input type="date" id="dateTo" onchange="queueFilter()">
+</div>
+<div class="filter-group">
+<label>&nbsp;</label>
+<button class="filter-reset" onclick="resetFilters()">Reset</button>
+</div>
+</div>
+<div class="filter-group">
+<label>Partners</label>
+<div class="partner-select" id="partnerSelect">
+<div class="partner-selected" onclick="togglePartnerDropdown()">
+<span class="partner-selected-placeholder" id="selectedPlaceholder">Select members...</span>
+<span class="selected-tags" id="selectedTags"></span>
+</div>
+<div class="partner-dropdown" id="partnerDropdown"></div>
+</div>
+</div>
+</div>
+<div class="filter-info" id="filterInfo"></div>
+<div class="timeline" id="timeline-container">
+<div class="loading">Loading timeline...</div>
+</div>
+</div>
 
 </main>
-<script>
-let selectedPartners = [];
+<script src="../static/theme.js"></script>
 
-const saved = localStorage.getItem('hcat-theme');
-if (saved === 'dark') document.body.classList.add('dark');
-function toggleTheme() {
-  document.body.classList.toggle('dark');
-  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-}
+<meta name="member-handle" content="pavoliareine">
+<script id="timeline-data" type="application/json">[]</script>
+<script id="partner-groups" type="application/json">[]</script>
+<script id="member-photos" type="application/json">{"tokinosora": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj", "robocosan": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj", "akirose": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj", "akaihaato": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj", "shirakamifubuki": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj", "natsuiromatsuri": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj", "nakiri_ayame": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj", "yuzuki_choco": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj", "oozora_subaru": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj", "azki": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj", "ookamimio": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj", "sakuramiko": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj", "nekomataokayu": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj", "inugamikorone": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj", "hoshimachisuisei": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj", "usadapekora": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj", "shiranuiflare": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj", "shiroganenoel": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj", "houshoumarine": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj", "tsunomakiwatame": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj", "tokoyamitowa": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj", "himemoriluna": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj", "yukihanalamy": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj", "momosuzunene": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj", "shishirobotan": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj", "omarupolka": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj", "ladarknesss": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj", "takanelui": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj", "hakuikoyori": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj", "kazamairoha": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj", "sakamatachloe": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj", "ayunda_risu": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj", "moona_hoshinova": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj", "airaniiofifteen": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj", "kureijiollie": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj", "aniamelfissa": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj", "pavoliareine": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj", "vestia_zeta": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj", "kaelakovalskia": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj", "kobokanaeru": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj", "moricalliope": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj", "takanashikiara": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj", "ninomaeinanis": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj", "watsonamelia": "https://yt3.ggpht.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO=s800-c-k-c0x00ffffff-no-rj", "irys": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj", "ourokronii": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj", "hakosbaelz": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj", "shiorinovella": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj", "kosekibijou": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj", "nerissaravencroft": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj", "fuwawa_abyssgard": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj", "mococo_abyssgard": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj", "holoen_erbloodflame": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj", "holoen_gigimurin": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj", "holoen_ceciliaimmergreen": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj", "holoen_raorapanthera": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj", "otonosekanade": "https://yt3.googleusercontent.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj", "ichijouririka": "https://yt3.googleusercontent.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj", "juufuuteiraden": "https://yt3.googleusercontent.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj", "todorokihajime": "https://yt3.googleusercontent.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj", "isakiriona": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj", "koganei_niko": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj", "mizumiya_su": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj", "rindo_chihaya": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj", "kikirara_vivi": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj", "minatoaqua": "https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj", "murasakishion": "https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj", "amanekanata": "https://yt3.ggpht.com/KjtzUgvj7v4socyPBkwZVlRJC9YU7Seka_a2lYf-LuBgc_YXXknzaR--5rbtYR46Q-JAWcR-=s800-c-k-c0x00ffffff-no-rj", "kiryucoco": "https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s800-c-k-c0x00ffffff-no-rj", "gawrgura": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj", "tsukumosana": "https://yt3.googleusercontent.com/bQ_VNhq6yY4PuswimicflR3TqdKul27xxDwLpf-dLuSBX77R2bjmw2XWfJnZo0ShOLaylHHZybw=s800-c-k-c0x00ffffff-no-rj", "ceresfauna": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf=s800-c-k-c0x00ffffff-no-rj", "nanashimumei": "https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj", "hiodoshi_ao": "https://yt3.ggpht.com/nVC4JesCnpLsaI14cM-c3PSecCq9MvnSiLk4V-MuLrY_OL9UYRXnXFUUUy-bCn4iub7j4V0ZOA=s800-c-k-c0x00ffffff-no-rj", "hololive": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj"}</script>
+<script src="../static/member.js"></script>
 
-function filterTimeline() {
-  const kw = document.getElementById('keywordFilter').value.toLowerCase();
-  const dateFrom = document.getElementById('dateFrom').value;
-  const dateTo = document.getElementById('dateTo').value;
-
-  let visible = 0, total = 0;
-  document.querySelectorAll('.tl-item').forEach(el => {
-    total++;
-    const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
-    const p = el.dataset.partners || '';
-    const d = el.dataset.date || '';
-
-    const matchKw = !kw || title.includes(kw);
-    const matchDate = (!dateFrom || d >= dateFrom.replace(/-/g, '')) && (!dateTo || d <= dateTo.replace(/-/g, ''));
-    const matchPartner = selectedPartners.length === 0 || selectedPartners.some(s => p.includes(s));
-
-    const show = matchKw && matchDate && matchPartner;
-    el.style.display = show ? '' : 'none';
-    if (show) visible++;
-  });
-
-  const info = document.getElementById('filterInfo');
-  if (visible < total) {
-    info.textContent = 'Showing ' + visible + ' of ' + total + ' entries';
-  } else {
-    info.textContent = '';
-  }
-}
-
-function togglePartnerDropdown() {
-  document.getElementById('partnerDropdown').classList.toggle('open');
-}
-
-function toggleGroup(header) {
-  const body = header.nextElementSibling;
-  const arrow = header.querySelector('.pgg-arrow');
-  const isOpen = body.classList.toggle('open');
-  arrow.textContent = isOpen ? '▼' : '▶';
-}
-
-function togglePartnerOption(el) {
-  const handle = el.dataset.handle;
-  const idx = selectedPartners.indexOf(handle);
-  if (idx >= 0) {
-    selectedPartners.splice(idx, 1);
-    el.classList.remove('selected');
-  } else {
-    selectedPartners.push(handle);
-    el.classList.add('selected');
-  }
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-function updateSelectedDisplay() {
-  const container = document.getElementById('selectedTags');
-  const placeholder = document.getElementById('selectedPlaceholder');
-  container.innerHTML = '';
-  if (selectedPartners.length === 0) {
-    placeholder.style.display = '';
-    return;
-  }
-  placeholder.style.display = 'none';
-  selectedPartners.forEach(h => {
-    const tag = document.createElement('span');
-    tag.className = 'selected-tag';
-    tag.innerHTML = '@' + h + ' <span class="selected-tag-remove" data-handle="' + h + '">&times;</span>';
-    container.appendChild(tag);
-  });
-  container.querySelectorAll('.selected-tag-remove').forEach(btn => {
-    btn.onclick = function(e) {
-      e.stopPropagation();
-      removePartner(this.dataset.handle);
-    };
-  });
-}
-
-function removePartner(handle) {
-  const idx = selectedPartners.indexOf(handle);
-  if (idx >= 0) {
-    selectedPartners.splice(idx, 1);
-    document.querySelectorAll('.partner-option.selected[data-handle="' + handle + '"]').forEach(el => el.classList.remove('selected'));
-    updateSelectedDisplay();
-    filterTimeline();
-  }
-}
-
-function selectPartnerOnly(handle) {
-  selectedPartners = [handle];
-  document.querySelectorAll('.partner-option').forEach(el => {
-    el.classList.toggle('selected', el.dataset.handle === handle);
-  });
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-function toggleCollabGroup(el) {
-  var arrow = el.querySelector('.tl-arrow');
-  var subs = el.querySelector('.tl-subs');
-  if (subs) {
-    subs.classList.toggle('open');
-    if (arrow) arrow.classList.toggle('open');
-  }
-}
-
-function resetFilters() {
-  document.getElementById('keywordFilter').value = '';
-  document.getElementById('dateFrom').value = '';
-  document.getElementById('dateTo').value = '';
-  selectedPartners = [];
-  document.querySelectorAll('.partner-option.selected').forEach(el => el.classList.remove('selected'));
-  updateSelectedDisplay();
-  filterTimeline();
-}
-
-document.addEventListener('click', function(e) {
-  const widget = document.getElementById('partnerSelect');
-  if (widget && !widget.contains(e.target)) {
-    const dd = document.getElementById('partnerDropdown');
-    if (dd) dd.classList.remove('open');
-    document.querySelectorAll('.partner-group-body.open').forEach(el => el.classList.remove('open'));
-    document.querySelectorAll('.pgg-arrow').forEach(el => el.textContent = '▶');
-  }
-});
-</script>
 </body>
 </html>

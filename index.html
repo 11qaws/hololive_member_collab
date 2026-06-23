@@ -6,106 +6,17 @@
 <title>HCAT — Hololive Collab Tracker</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="static/style.css">
+
 <style>
-:root {
-  --bg: #f8f9fc;
-  --surface: #ffffff;
-  --surface-2: #f0f2f6;
-  --text: #1a1d23;
-  --text-2: #6b7280;
-  --border: #e5e7eb;
-  --accent: #8b5cf6;
-  --accent-2: #ec4899;
-  --accent-3: #06b6d4;
-  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
-  --gradient-2: linear-gradient(135deg, var(--accent-3), var(--accent));
-  --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.06);
-  --shadow-lg: 0 10px 25px rgba(0,0,0,.1);
-  --radius: 12px;
-  --radius-sm: 8px;
-}
-.dark {
-  --bg: #0f1117;
-  --surface: #1a1d26;
-  --surface-2: #252833;
-  --text: #e8eaed;
-  --text-2: #9ca3af;
-  --border: #2d3140;
-  --shadow: 0 1px 3px rgba(0,0,0,.3);
-  --shadow-lg: 0 10px 25px rgba(0,0,0,.5);
-}
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.6;
-  transition: background .3s, color .3s;
-}
-header {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
-  padding: 1rem 2rem;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  backdrop-filter: blur(12px);
-  background: rgba(255,255,255,.85);
-}
-.dark header { background: rgba(15,17,23,.85); }
-header .inner {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-}
-header h1 { font-size: 1.25rem; font-weight: 600; }
-header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-header nav { display: flex; gap: .5rem; align-items: center; }
-header nav a {
-  text-decoration: none;
-  color: var(--text-2);
-  font-size: .875rem;
-  padding: .4rem .8rem;
-  border-radius: var(--radius-sm);
-  transition: all .2s;
-}
-header nav a:hover { color: var(--text); background: var(--surface-2); }
-.theme-toggle {
-  background: none;
-  border: 1px solid var(--border);
-  color: var(--text-2);
-  cursor: pointer;
-  padding: .4rem .6rem;
-  border-radius: var(--radius-sm);
-  font-size: 1rem;
-  transition: all .2s;
-}
-.theme-toggle:hover { color: var(--text); border-color: var(--accent); }
-main {
-  max-width: 1200px;
-  margin: 2rem auto;
-  padding: 0 2rem;
+.filter-bar input {
+  width: 100%;
+  padding: .75rem 1rem .75rem 2.75rem;
 }
 .filter-bar {
   position: relative;
   margin-bottom: 2rem;
 }
-.filter-bar input {
-  width: 100%;
-  padding: .75rem 1rem .75rem 2.75rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: var(--surface);
-  color: var(--text);
-  font-size: .9rem;
-  font-family: inherit;
-  transition: all .2s;
-  outline: none;
-}
-.filter-bar input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(139,92,246,.15); }
 .filter-bar .icon {
   position: absolute;
   left: 1rem;
@@ -113,6 +24,7 @@ main {
   transform: translateY(-50%);
   color: var(--text-2);
   font-size: 1rem;
+  pointer-events: none;
 }
 .branch-section { margin-bottom: 2.5rem; }
 .branch-header {
@@ -157,60 +69,40 @@ main {
   border-color: var(--accent);
 }
 .member-card .avatar {
-  width: 56px;
-  height: 56px;
+  width: 56px; height: 56px;
   border-radius: 50%;
   background: var(--gradient);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.25rem; font-weight: 600; color: #fff;
   margin-bottom: .25rem;
 }
+.member-card img.avatar { object-fit: cover; }
 .member-card .name-en { font-size: .875rem; font-weight: 600; text-align: center; }
 .member-card .name-jp { font-size: .65rem; color: var(--text-2); text-align: center; margin-top: .1rem; }
 .member-card .handle {
-  font-size: .75rem;
-  color: var(--text-2);
-  display: flex;
-  align-items: center;
-  gap: .35rem;
-  flex-wrap: wrap;
-  justify-content: center;
+  font-size: .75rem; color: var(--text-2);
+  display: flex; align-items: center; gap: .35rem; flex-wrap: wrap; justify-content: center;
 }
-.badge {
-  font-size: .65rem;
-  padding: .15rem .5rem;
-  border-radius: 999px;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: .03em;
-}
-.badge-active { background: rgba(52,211,153,.15); color: #34d399; }
-.badge-graduated { background: rgba(251,146,60,.15); color: #fb923c; }
-.badge-terminated { background: rgba(248,113,113,.15); color: #f87171; }
 @media (max-width: 640px) {
-  header .inner { flex-wrap: wrap; }
-  main { padding: 0 1rem; }
   .member-grid { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
+
 </head>
 <body>
 <header>
 <div class="inner">
-<h1><span>HCAT</span> · Hololive Collab Tracker</h1>
+<h1><a href="index.html"><span>HCAT</span></a></h1>
 <nav>
-<a href="index.html">Members</a>
-<a href="stats.html">Stats</a>
-<a href="unknowns.html">Unknowns</a>
+<a href="index.html" class="active">Members</a>
+<a href="stats.html" class="">Stats</a>
+<a href="unknowns.html" class="">Unknowns</a>
 <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
 </nav>
 </div>
 </header>
 <main>
+
 <div class="filter-bar">
 <span class="icon">🔍</span>
 <input type="text" id="filter" placeholder="Search member by name or handle..." oninput="filterMembers()" autofocus>
@@ -223,9 +115,9 @@ main {
 </div>
 <div class="member-grid">
 
-<a href="members/moricalliope" class="member-card" data-name="mori calliope 森カリオペ moricalliope">
+<a href="members/moricalliope.html" class="member-card" data-name="mori calliope 森カリオペ moricalliope">
 
-<img class="avatar" src="https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj" alt="Mori Calliope 森カリオペ">
+<img class="avatar" src="https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj" alt="Mori Calliope 森カリオペ" loading="lazy">
 
 <div class="name-en">Mori Calliope</div>
 
@@ -234,9 +126,9 @@ main {
 <div class="handle">@moricalliope</div>
 </a>
 
-<a href="members/takanashikiara" class="member-card" data-name="takanashi kiara 小鳥遊キアラ takanashikiara">
+<a href="members/takanashikiara.html" class="member-card" data-name="takanashi kiara 小鳥遊キアラ takanashikiara">
 
-<img class="avatar" src="https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj" alt="Takanashi Kiara 小鳥遊キアラ">
+<img class="avatar" src="https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj" alt="Takanashi Kiara 小鳥遊キアラ" loading="lazy">
 
 <div class="name-en">Takanashi Kiara</div>
 
@@ -245,9 +137,9 @@ main {
 <div class="handle">@takanashikiara</div>
 </a>
 
-<a href="members/ninomaeinanis" class="member-card" data-name="ninomae ina’nis 一伊那尓栖 ninomaeinanis">
+<a href="members/ninomaeinanis.html" class="member-card" data-name="ninomae ina’nis 一伊那尓栖 ninomaeinanis">
 
-<img class="avatar" src="https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj" alt="Ninomae Ina’nis 一伊那尓栖">
+<img class="avatar" src="https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj" alt="Ninomae Ina’nis 一伊那尓栖" loading="lazy">
 
 <div class="name-en">Ninomae Ina’nis</div>
 
@@ -256,9 +148,9 @@ main {
 <div class="handle">@ninomaeinanis</div>
 </a>
 
-<a href="members/watsonamelia" class="member-card" data-name="watson amelia ワトソン・アメリア watsonamelia">
+<a href="members/watsonamelia.html" class="member-card" data-name="watson amelia ワトソン・アメリア watsonamelia">
 
-<img class="avatar" src="https://yt3.ggpht.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO=s800-c-k-c0x00ffffff-no-rj" alt="Watson Amelia ワトソン・アメリア">
+<img class="avatar" src="https://yt3.ggpht.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO=s800-c-k-c0x00ffffff-no-rj" alt="Watson Amelia ワトソン・アメリア" loading="lazy">
 
 <div class="name-en">Watson Amelia</div>
 
@@ -267,9 +159,9 @@ main {
 <div class="handle">@watsonamelia</div>
 </a>
 
-<a href="members/gawrgura" class="member-card" data-name="gawr gura がうる・ぐら gawrgura">
+<a href="members/gawrgura.html" class="member-card" data-name="gawr gura がうる・ぐら gawrgura">
 
-<img class="avatar" src="https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj" alt="Gawr Gura がうる・ぐら">
+<img class="avatar" src="https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj" alt="Gawr Gura がうる・ぐら" loading="lazy">
 
 <div class="name-en">Gawr Gura</div>
 
@@ -278,18 +170,18 @@ main {
 <div class="handle">@gawrgura <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/irys" class="member-card" data-name="irys irys irys">
+<a href="members/irys.html" class="member-card" data-name="irys irys irys">
 
-<img class="avatar" src="https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj" alt="IRyS IRyS">
+<img class="avatar" src="https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj" alt="IRyS IRyS" loading="lazy">
 
 <div class="name-en">IRyS IRyS</div>
 
 <div class="handle">@irys</div>
 </a>
 
-<a href="members/ourokronii" class="member-card" data-name="ouro kronii オーロ・クロニー ourokronii">
+<a href="members/ourokronii.html" class="member-card" data-name="ouro kronii オーロ・クロニー ourokronii">
 
-<img class="avatar" src="https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj" alt="Ouro Kronii オーロ・クロニー">
+<img class="avatar" src="https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj" alt="Ouro Kronii オーロ・クロニー" loading="lazy">
 
 <div class="name-en">Ouro Kronii</div>
 
@@ -298,9 +190,9 @@ main {
 <div class="handle">@ourokronii</div>
 </a>
 
-<a href="members/hakosbaelz" class="member-card" data-name="hakos baelz ハコス・ベールズ hakosbaelz">
+<a href="members/hakosbaelz.html" class="member-card" data-name="hakos baelz ハコス・ベールズ hakosbaelz">
 
-<img class="avatar" src="https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj" alt="Hakos Baelz ハコス・ベールズ">
+<img class="avatar" src="https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj" alt="Hakos Baelz ハコス・ベールズ" loading="lazy">
 
 <div class="name-en">Hakos Baelz</div>
 
@@ -309,9 +201,9 @@ main {
 <div class="handle">@hakosbaelz</div>
 </a>
 
-<a href="members/ceresfauna" class="member-card" data-name="ceres fauna セレス・ファウナ ceresfauna">
+<a href="members/ceresfauna.html" class="member-card" data-name="ceres fauna セレス・ファウナ ceresfauna">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf=s800-c-k-c0x00ffffff-no-rj" alt="Ceres Fauna セレス・ファウナ">
+<img class="avatar" src="https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf=s800-c-k-c0x00ffffff-no-rj" alt="Ceres Fauna セレス・ファウナ" loading="lazy">
 
 <div class="name-en">Ceres Fauna</div>
 
@@ -320,9 +212,9 @@ main {
 <div class="handle">@ceresfauna <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/nanashimumei" class="member-card" data-name="nanashi mumei 七詩ムメイ nanashimumei">
+<a href="members/nanashimumei.html" class="member-card" data-name="nanashi mumei 七詩ムメイ nanashimumei">
 
-<img class="avatar" src="https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj" alt="Nanashi Mumei 七詩ムメイ">
+<img class="avatar" src="https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj" alt="Nanashi Mumei 七詩ムメイ" loading="lazy">
 
 <div class="name-en">Nanashi Mumei</div>
 
@@ -331,9 +223,9 @@ main {
 <div class="handle">@nanashimumei <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/tsukumosana" class="member-card" data-name="tsukumo sana 九十九佐命 tsukumosana">
+<a href="members/tsukumosana.html" class="member-card" data-name="tsukumo sana 九十九佐命 tsukumosana">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/bQ_VNhq6yY4PuswimicflR3TqdKul27xxDwLpf-dLuSBX77R2bjmw2XWfJnZo0ShOLaylHHZybw=s800-c-k-c0x00ffffff-no-rj" alt="Tsukumo Sana 九十九佐命">
+<img class="avatar" src="https://yt3.googleusercontent.com/bQ_VNhq6yY4PuswimicflR3TqdKul27xxDwLpf-dLuSBX77R2bjmw2XWfJnZo0ShOLaylHHZybw=s800-c-k-c0x00ffffff-no-rj" alt="Tsukumo Sana 九十九佐命" loading="lazy">
 
 <div class="name-en">Tsukumo Sana</div>
 
@@ -342,9 +234,9 @@ main {
 <div class="handle">@tsukumosana <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/shiorinovella" class="member-card" data-name="shiori novella シオリ・ノヴェラ shiorinovella">
+<a href="members/shiorinovella.html" class="member-card" data-name="shiori novella シオリ・ノヴェラ shiorinovella">
 
-<img class="avatar" src="https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj" alt="Shiori Novella シオリ・ノヴェラ">
+<img class="avatar" src="https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj" alt="Shiori Novella シオリ・ノヴェラ" loading="lazy">
 
 <div class="name-en">Shiori Novella</div>
 
@@ -353,9 +245,9 @@ main {
 <div class="handle">@shiorinovella</div>
 </a>
 
-<a href="members/kosekibijou" class="member-card" data-name="koseki bijou 古石ビジュー kosekibijou">
+<a href="members/kosekibijou.html" class="member-card" data-name="koseki bijou 古石ビジュー kosekibijou">
 
-<img class="avatar" src="https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj" alt="Koseki Bijou 古石ビジュー">
+<img class="avatar" src="https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj" alt="Koseki Bijou 古石ビジュー" loading="lazy">
 
 <div class="name-en">Koseki Bijou</div>
 
@@ -364,9 +256,9 @@ main {
 <div class="handle">@kosekibijou</div>
 </a>
 
-<a href="members/nerissaravencroft" class="member-card" data-name="nerissa ravencroft ネリッサ・レイヴンクロフト nerissaravencroft">
+<a href="members/nerissaravencroft.html" class="member-card" data-name="nerissa ravencroft ネリッサ・レイヴンクロフト nerissaravencroft">
 
-<img class="avatar" src="https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj" alt="Nerissa Ravencroft ネリッサ・レイヴンクロフト">
+<img class="avatar" src="https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj" alt="Nerissa Ravencroft ネリッサ・レイヴンクロフト" loading="lazy">
 
 <div class="name-en">Nerissa Ravencroft</div>
 
@@ -375,9 +267,9 @@ main {
 <div class="handle">@nerissaravencroft</div>
 </a>
 
-<a href="members/fuwawa_abyssgard" class="member-card" data-name="fuwawa abyssgard フワワ・アビスガード fuwawa_abyssgard">
+<a href="members/fuwawa_abyssgard.html" class="member-card" data-name="fuwawa abyssgard フワワ・アビスガード fuwawa_abyssgard">
 
-<img class="avatar" src="https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj" alt="Fuwawa Abyssgard フワワ・アビスガード">
+<img class="avatar" src="https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj" alt="Fuwawa Abyssgard フワワ・アビスガード" loading="lazy">
 
 <div class="name-en">Fuwawa Abyssgard</div>
 
@@ -386,9 +278,9 @@ main {
 <div class="handle">@fuwawa_abyssgard</div>
 </a>
 
-<a href="members/mococo_abyssgard" class="member-card" data-name="mococo abyssgard モココ・アビスガード mococo_abyssgard">
+<a href="members/mococo_abyssgard.html" class="member-card" data-name="mococo abyssgard モココ・アビスガード mococo_abyssgard">
 
-<img class="avatar" src="https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj" alt="Mococo Abyssgard モココ・アビスガード">
+<img class="avatar" src="https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj" alt="Mococo Abyssgard モココ・アビスガード" loading="lazy">
 
 <div class="name-en">Mococo Abyssgard</div>
 
@@ -397,9 +289,9 @@ main {
 <div class="handle">@mococo_abyssgard</div>
 </a>
 
-<a href="members/holoen_erbloodflame" class="member-card" data-name="elizabeth rose bloodflame エリザベス・ローズ・ブラッドフレイム holoen_erbloodflame">
+<a href="members/holoen_erbloodflame.html" class="member-card" data-name="elizabeth rose bloodflame エリザベス・ローズ・ブラッドフレイム holoen_erbloodflame">
 
-<img class="avatar" src="https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj" alt="Elizabeth Rose Bloodflame エリザベス・ローズ・ブラッドフレイム">
+<img class="avatar" src="https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj" alt="Elizabeth Rose Bloodflame エリザベス・ローズ・ブラッドフレイム" loading="lazy">
 
 <div class="name-en">Elizabeth Rose Bloodflame</div>
 
@@ -408,9 +300,9 @@ main {
 <div class="handle">@holoen_erbloodflame</div>
 </a>
 
-<a href="members/holoen_gigimurin" class="member-card" data-name="gigi murin ジジ・ムリン holoen_gigimurin">
+<a href="members/holoen_gigimurin.html" class="member-card" data-name="gigi murin ジジ・ムリン holoen_gigimurin">
 
-<img class="avatar" src="https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj" alt="Gigi Murin ジジ・ムリン">
+<img class="avatar" src="https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj" alt="Gigi Murin ジジ・ムリン" loading="lazy">
 
 <div class="name-en">Gigi Murin</div>
 
@@ -419,9 +311,9 @@ main {
 <div class="handle">@holoen_gigimurin</div>
 </a>
 
-<a href="members/holoen_ceciliaimmergreen" class="member-card" data-name="cecilia immergreen セシリア・イマーグリーン holoen_ceciliaimmergreen">
+<a href="members/holoen_ceciliaimmergreen.html" class="member-card" data-name="cecilia immergreen セシリア・イマーグリーン holoen_ceciliaimmergreen">
 
-<img class="avatar" src="https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj" alt="Cecilia Immergreen セシリア・イマーグリーン">
+<img class="avatar" src="https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj" alt="Cecilia Immergreen セシリア・イマーグリーン" loading="lazy">
 
 <div class="name-en">Cecilia Immergreen</div>
 
@@ -430,9 +322,9 @@ main {
 <div class="handle">@holoen_ceciliaimmergreen</div>
 </a>
 
-<a href="members/holoen_raorapanthera" class="member-card" data-name="raora panthera ラオーラ・パンテーラ holoen_raorapanthera">
+<a href="members/holoen_raorapanthera.html" class="member-card" data-name="raora panthera ラオーラ・パンテーラ holoen_raorapanthera">
 
-<img class="avatar" src="https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj" alt="Raora Panthera ラオーラ・パンテーラ">
+<img class="avatar" src="https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj" alt="Raora Panthera ラオーラ・パンテーラ" loading="lazy">
 
 <div class="name-en">Raora Panthera</div>
 
@@ -451,9 +343,9 @@ main {
 </div>
 <div class="member-grid">
 
-<a href="members/tokinosora" class="member-card" data-name="tokino sora ときのそら tokinosora">
+<a href="members/tokinosora.html" class="member-card" data-name="tokino sora ときのそら tokinosora">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj" alt="Tokino Sora ときのそら">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj" alt="Tokino Sora ときのそら" loading="lazy">
 
 <div class="name-en">Tokino Sora</div>
 
@@ -462,9 +354,9 @@ main {
 <div class="handle">@tokinosora</div>
 </a>
 
-<a href="members/robocosan" class="member-card" data-name="robocosan ロボ子さん robocosan">
+<a href="members/robocosan.html" class="member-card" data-name="robocosan ロボ子さん robocosan">
 
-<img class="avatar" src="https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj" alt="Robocosan ロボ子さん">
+<img class="avatar" src="https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj" alt="Robocosan ロボ子さん" loading="lazy">
 
 <div class="name-en">Robocosan</div>
 
@@ -473,9 +365,9 @@ main {
 <div class="handle">@robocosan</div>
 </a>
 
-<a href="members/sakuramiko" class="member-card" data-name="sakura miko さくらみこ sakuramiko">
+<a href="members/sakuramiko.html" class="member-card" data-name="sakura miko さくらみこ sakuramiko">
 
-<img class="avatar" src="https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj" alt="Sakura Miko さくらみこ">
+<img class="avatar" src="https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj" alt="Sakura Miko さくらみこ" loading="lazy">
 
 <div class="name-en">Sakura Miko</div>
 
@@ -484,9 +376,9 @@ main {
 <div class="handle">@sakuramiko</div>
 </a>
 
-<a href="members/akirose" class="member-card" data-name="aki rosenthal アキ・ローゼンタール akirose">
+<a href="members/akirose.html" class="member-card" data-name="aki rosenthal アキ・ローゼンタール akirose">
 
-<img class="avatar" src="https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj" alt="Aki Rosenthal アキ・ローゼンタール">
+<img class="avatar" src="https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj" alt="Aki Rosenthal アキ・ローゼンタール" loading="lazy">
 
 <div class="name-en">Aki Rosenthal</div>
 
@@ -495,9 +387,9 @@ main {
 <div class="handle">@akirose</div>
 </a>
 
-<a href="members/akaihaato" class="member-card" data-name="akai haato 赤井はあと akaihaato">
+<a href="members/akaihaato.html" class="member-card" data-name="akai haato 赤井はあと akaihaato">
 
-<img class="avatar" src="https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj" alt="Akai Haato 赤井はあと">
+<img class="avatar" src="https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj" alt="Akai Haato 赤井はあと" loading="lazy">
 
 <div class="name-en">Akai Haato</div>
 
@@ -506,9 +398,9 @@ main {
 <div class="handle">@akaihaato</div>
 </a>
 
-<a href="members/shirakamifubuki" class="member-card" data-name="shirakami fubuki 白上フブキ shirakamifubuki">
+<a href="members/shirakamifubuki.html" class="member-card" data-name="shirakami fubuki 白上フブキ shirakamifubuki">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj" alt="Shirakami Fubuki 白上フブキ">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj" alt="Shirakami Fubuki 白上フブキ" loading="lazy">
 
 <div class="name-en">Shirakami Fubuki</div>
 
@@ -517,9 +409,9 @@ main {
 <div class="handle">@shirakamifubuki</div>
 </a>
 
-<a href="members/inugamikorone" class="member-card" data-name="inugami korone 戌神ころね inugamikorone">
+<a href="members/inugamikorone.html" class="member-card" data-name="inugami korone 戌神ころね inugamikorone">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj" alt="Inugami Korone 戌神ころね">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj" alt="Inugami Korone 戌神ころね" loading="lazy">
 
 <div class="name-en">Inugami Korone</div>
 
@@ -528,9 +420,9 @@ main {
 <div class="handle">@inugamikorone</div>
 </a>
 
-<a href="members/nekomataokayu" class="member-card" data-name="nekomata okayu 猫又おかゆ nekomataokayu">
+<a href="members/nekomataokayu.html" class="member-card" data-name="nekomata okayu 猫又おかゆ nekomataokayu">
 
-<img class="avatar" src="https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj" alt="Nekomata Okayu 猫又おかゆ">
+<img class="avatar" src="https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj" alt="Nekomata Okayu 猫又おかゆ" loading="lazy">
 
 <div class="name-en">Nekomata Okayu</div>
 
@@ -539,9 +431,9 @@ main {
 <div class="handle">@nekomataokayu</div>
 </a>
 
-<a href="members/ookamimio" class="member-card" data-name="ookami mio 大神ミオ ookamimio">
+<a href="members/ookamimio.html" class="member-card" data-name="ookami mio 大神ミオ ookamimio">
 
-<img class="avatar" src="https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj" alt="Ookami Mio 大神ミオ">
+<img class="avatar" src="https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj" alt="Ookami Mio 大神ミオ" loading="lazy">
 
 <div class="name-en">Ookami Mio</div>
 
@@ -550,9 +442,9 @@ main {
 <div class="handle">@ookamimio</div>
 </a>
 
-<a href="members/minatoaqua" class="member-card" data-name="minato aqua 湊あくあ minatoaqua">
+<a href="members/minatoaqua.html" class="member-card" data-name="minato aqua 湊あくあ minatoaqua">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj" alt="Minato Aqua 湊あくあ">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj" alt="Minato Aqua 湊あくあ" loading="lazy">
 
 <div class="name-en">Minato Aqua</div>
 
@@ -561,9 +453,9 @@ main {
 <div class="handle">@minatoaqua <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/nakiri_ayame" class="member-card" data-name="nakiri ayame 百鬼あやめ nakiri_ayame">
+<a href="members/nakiri_ayame.html" class="member-card" data-name="nakiri ayame 百鬼あやめ nakiri_ayame">
 
-<img class="avatar" src="https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj" alt="Nakiri Ayame 百鬼あやめ">
+<img class="avatar" src="https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj" alt="Nakiri Ayame 百鬼あやめ" loading="lazy">
 
 <div class="name-en">Nakiri Ayame</div>
 
@@ -572,9 +464,9 @@ main {
 <div class="handle">@nakiri_ayame</div>
 </a>
 
-<a href="members/murasakishion" class="member-card" data-name="murasaki shion 紫咲シオン murasakishion">
+<a href="members/murasakishion.html" class="member-card" data-name="murasaki shion 紫咲シオン murasakishion">
 
-<img class="avatar" src="https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj" alt="Murasaki Shion 紫咲シオン">
+<img class="avatar" src="https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj" alt="Murasaki Shion 紫咲シオン" loading="lazy">
 
 <div class="name-en">Murasaki Shion</div>
 
@@ -583,9 +475,9 @@ main {
 <div class="handle">@murasakishion <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/natsuiromatsuri" class="member-card" data-name="natsuiro matsuri 夏色まつり natsuiromatsuri">
+<a href="members/natsuiromatsuri.html" class="member-card" data-name="natsuiro matsuri 夏色まつり natsuiromatsuri">
 
-<img class="avatar" src="https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj" alt="Natsuiro Matsuri 夏色まつり">
+<img class="avatar" src="https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj" alt="Natsuiro Matsuri 夏色まつり" loading="lazy">
 
 <div class="name-en">Natsuiro Matsuri</div>
 
@@ -594,9 +486,9 @@ main {
 <div class="handle">@natsuiromatsuri</div>
 </a>
 
-<a href="members/oozora_subaru" class="member-card" data-name="oozora subaru 大空スバル oozora_subaru">
+<a href="members/oozora_subaru.html" class="member-card" data-name="oozora subaru 大空スバル oozora_subaru">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj" alt="Oozora Subaru 大空スバル">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj" alt="Oozora Subaru 大空スバル" loading="lazy">
 
 <div class="name-en">Oozora Subaru</div>
 
@@ -605,9 +497,9 @@ main {
 <div class="handle">@oozora_subaru</div>
 </a>
 
-<a href="members/houshoumarine" class="member-card" data-name="houshou marine 宝鐘マリン houshoumarine">
+<a href="members/houshoumarine.html" class="member-card" data-name="houshou marine 宝鐘マリン houshoumarine">
 
-<img class="avatar" src="https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj" alt="Houshou Marine 宝鐘マリン">
+<img class="avatar" src="https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj" alt="Houshou Marine 宝鐘マリン" loading="lazy">
 
 <div class="name-en">Houshou Marine</div>
 
@@ -616,9 +508,9 @@ main {
 <div class="handle">@houshoumarine</div>
 </a>
 
-<a href="members/shiroganenoel" class="member-card" data-name="shirogane noel 白銀ノエル shiroganenoel">
+<a href="members/shiroganenoel.html" class="member-card" data-name="shirogane noel 白銀ノエル shiroganenoel">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj" alt="Shirogane Noel 白銀ノエル">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj" alt="Shirogane Noel 白銀ノエル" loading="lazy">
 
 <div class="name-en">Shirogane Noel</div>
 
@@ -627,9 +519,9 @@ main {
 <div class="handle">@shiroganenoel</div>
 </a>
 
-<a href="members/shiranuiflare" class="member-card" data-name="shiranui flare 不知火フレア shiranuiflare">
+<a href="members/shiranuiflare.html" class="member-card" data-name="shiranui flare 不知火フレア shiranuiflare">
 
-<img class="avatar" src="https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj" alt="Shiranui Flare 不知火フレア">
+<img class="avatar" src="https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj" alt="Shiranui Flare 不知火フレア" loading="lazy">
 
 <div class="name-en">Shiranui Flare</div>
 
@@ -638,9 +530,9 @@ main {
 <div class="handle">@shiranuiflare</div>
 </a>
 
-<a href="members/shishirobotan" class="member-card" data-name="shishiro botan 獅白ぼたん shishirobotan">
+<a href="members/shishirobotan.html" class="member-card" data-name="shishiro botan 獅白ぼたん shishirobotan">
 
-<img class="avatar" src="https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj" alt="Shishiro Botan 獅白ぼたん">
+<img class="avatar" src="https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj" alt="Shishiro Botan 獅白ぼたん" loading="lazy">
 
 <div class="name-en">Shishiro Botan</div>
 
@@ -649,9 +541,9 @@ main {
 <div class="handle">@shishirobotan</div>
 </a>
 
-<a href="members/tsunomakiwatame" class="member-card" data-name="tsunomaki watame 角巻わため tsunomakiwatame">
+<a href="members/tsunomakiwatame.html" class="member-card" data-name="tsunomaki watame 角巻わため tsunomakiwatame">
 
-<img class="avatar" src="https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj" alt="Tsunomaki Watame 角巻わため">
+<img class="avatar" src="https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj" alt="Tsunomaki Watame 角巻わため" loading="lazy">
 
 <div class="name-en">Tsunomaki Watame</div>
 
@@ -660,9 +552,9 @@ main {
 <div class="handle">@tsunomakiwatame</div>
 </a>
 
-<a href="members/tokoyamitowa" class="member-card" data-name="tokoyami towa 常闇トワ tokoyamitowa">
+<a href="members/tokoyamitowa.html" class="member-card" data-name="tokoyami towa 常闇トワ tokoyamitowa">
 
-<img class="avatar" src="https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj" alt="Tokoyami Towa 常闇トワ">
+<img class="avatar" src="https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj" alt="Tokoyami Towa 常闇トワ" loading="lazy">
 
 <div class="name-en">Tokoyami Towa</div>
 
@@ -671,9 +563,9 @@ main {
 <div class="handle">@tokoyamitowa</div>
 </a>
 
-<a href="members/himemoriluna" class="member-card" data-name="himemori luna 姫森ルーナ himemoriluna">
+<a href="members/himemoriluna.html" class="member-card" data-name="himemori luna 姫森ルーナ himemoriluna">
 
-<img class="avatar" src="https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj" alt="Himemori Luna 姫森ルーナ">
+<img class="avatar" src="https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj" alt="Himemori Luna 姫森ルーナ" loading="lazy">
 
 <div class="name-en">Himemori Luna</div>
 
@@ -682,9 +574,9 @@ main {
 <div class="handle">@himemoriluna</div>
 </a>
 
-<a href="members/kiryucoco" class="member-card" data-name="kiryu coco 桐生ココ kiryucoco">
+<a href="members/kiryucoco.html" class="member-card" data-name="kiryu coco 桐生ココ kiryucoco">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s800-c-k-c0x00ffffff-no-rj" alt="Kiryu Coco 桐生ココ">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s800-c-k-c0x00ffffff-no-rj" alt="Kiryu Coco 桐生ココ" loading="lazy">
 
 <div class="name-en">Kiryu Coco</div>
 
@@ -693,9 +585,9 @@ main {
 <div class="handle">@kiryucoco <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/amanekanata" class="member-card" data-name="amane kanata 天音かなた amanekanata">
+<a href="members/amanekanata.html" class="member-card" data-name="amane kanata 天音かなた amanekanata">
 
-<img class="avatar" src="https://yt3.ggpht.com/KjtzUgvj7v4socyPBkwZVlRJC9YU7Seka_a2lYf-LuBgc_YXXknzaR--5rbtYR46Q-JAWcR-=s800-c-k-c0x00ffffff-no-rj" alt="Amane Kanata 天音かなた">
+<img class="avatar" src="https://yt3.ggpht.com/KjtzUgvj7v4socyPBkwZVlRJC9YU7Seka_a2lYf-LuBgc_YXXknzaR--5rbtYR46Q-JAWcR-=s800-c-k-c0x00ffffff-no-rj" alt="Amane Kanata 天音かなた" loading="lazy">
 
 <div class="name-en">Amane Kanata</div>
 
@@ -704,9 +596,9 @@ main {
 <div class="handle">@amanekanata <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/yukihanalamy" class="member-card" data-name="yukihana lamy 雪花ラミィ yukihanalamy">
+<a href="members/yukihanalamy.html" class="member-card" data-name="yukihana lamy 雪花ラミィ yukihanalamy">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj" alt="Yukihana Lamy 雪花ラミィ">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj" alt="Yukihana Lamy 雪花ラミィ" loading="lazy">
 
 <div class="name-en">Yukihana Lamy</div>
 
@@ -715,9 +607,9 @@ main {
 <div class="handle">@yukihanalamy</div>
 </a>
 
-<a href="members/momosuzunene" class="member-card" data-name="momosuzu nene 桃鈴ねね momosuzunene">
+<a href="members/momosuzunene.html" class="member-card" data-name="momosuzu nene 桃鈴ねね momosuzunene">
 
-<img class="avatar" src="https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj" alt="Momosuzu Nene 桃鈴ねね">
+<img class="avatar" src="https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj" alt="Momosuzu Nene 桃鈴ねね" loading="lazy">
 
 <div class="name-en">Momosuzu Nene</div>
 
@@ -726,9 +618,9 @@ main {
 <div class="handle">@momosuzunene</div>
 </a>
 
-<a href="members/omarupolka" class="member-card" data-name="omaru polka 尾丸ポルカ omarupolka">
+<a href="members/omarupolka.html" class="member-card" data-name="omaru polka 尾丸ポルカ omarupolka">
 
-<img class="avatar" src="https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj" alt="Omaru Polka 尾丸ポルカ">
+<img class="avatar" src="https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj" alt="Omaru Polka 尾丸ポルカ" loading="lazy">
 
 <div class="name-en">Omaru Polka</div>
 
@@ -737,9 +629,9 @@ main {
 <div class="handle">@omarupolka</div>
 </a>
 
-<a href="members/yuzuki_choco" class="member-card" data-name="yuzuki choco 癒月ちょこ yuzuki_choco">
+<a href="members/yuzuki_choco.html" class="member-card" data-name="yuzuki choco 癒月ちょこ yuzuki_choco">
 
-<img class="avatar" src="https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj" alt="Yuzuki Choco 癒月ちょこ">
+<img class="avatar" src="https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj" alt="Yuzuki Choco 癒月ちょこ" loading="lazy">
 
 <div class="name-en">Yuzuki Choco</div>
 
@@ -748,18 +640,18 @@ main {
 <div class="handle">@yuzuki_choco</div>
 </a>
 
-<a href="members/azki" class="member-card" data-name="azki azki azki">
+<a href="members/azki.html" class="member-card" data-name="azki azki azki">
 
-<img class="avatar" src="https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj" alt="AZKi AZKi">
+<img class="avatar" src="https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj" alt="AZKi AZKi" loading="lazy">
 
 <div class="name-en">AZKi AZKi</div>
 
 <div class="handle">@azki</div>
 </a>
 
-<a href="members/hoshimachisuisei" class="member-card" data-name="hoshimachi suisei 星街すいせい hoshimachisuisei">
+<a href="members/hoshimachisuisei.html" class="member-card" data-name="hoshimachi suisei 星街すいせい hoshimachisuisei">
 
-<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj" alt="Hoshimachi Suisei 星街すいせい">
+<img class="avatar" src="https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj" alt="Hoshimachi Suisei 星街すいせい" loading="lazy">
 
 <div class="name-en">Hoshimachi Suisei</div>
 
@@ -768,9 +660,9 @@ main {
 <div class="handle">@hoshimachisuisei</div>
 </a>
 
-<a href="members/usadapekora" class="member-card" data-name="usada pekora 兎田ぺこら usadapekora">
+<a href="members/usadapekora.html" class="member-card" data-name="usada pekora 兎田ぺこら usadapekora">
 
-<img class="avatar" src="https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj" alt="Usada Pekora 兎田ぺこら">
+<img class="avatar" src="https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj" alt="Usada Pekora 兎田ぺこら" loading="lazy">
 
 <div class="name-en">Usada Pekora</div>
 
@@ -779,9 +671,9 @@ main {
 <div class="handle">@usadapekora</div>
 </a>
 
-<a href="members/ladarknesss" class="member-card" data-name="la+ darknesss ラプラス・ダークネス ladarknesss">
+<a href="members/ladarknesss.html" class="member-card" data-name="la+ darknesss ラプラス・ダークネス ladarknesss">
 
-<img class="avatar" src="https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj" alt="La+ Darknesss ラプラス・ダークネス">
+<img class="avatar" src="https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj" alt="La+ Darknesss ラプラス・ダークネス" loading="lazy">
 
 <div class="name-en">La+ Darknesss</div>
 
@@ -790,9 +682,9 @@ main {
 <div class="handle">@ladarknesss</div>
 </a>
 
-<a href="members/takanelui" class="member-card" data-name="takane lui 鷹嶺ルイ takanelui">
+<a href="members/takanelui.html" class="member-card" data-name="takane lui 鷹嶺ルイ takanelui">
 
-<img class="avatar" src="https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj" alt="Takane Lui 鷹嶺ルイ">
+<img class="avatar" src="https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj" alt="Takane Lui 鷹嶺ルイ" loading="lazy">
 
 <div class="name-en">Takane Lui</div>
 
@@ -801,9 +693,9 @@ main {
 <div class="handle">@takanelui</div>
 </a>
 
-<a href="members/hakuikoyori" class="member-card" data-name="hakui koyori 博衣こより hakuikoyori">
+<a href="members/hakuikoyori.html" class="member-card" data-name="hakui koyori 博衣こより hakuikoyori">
 
-<img class="avatar" src="https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj" alt="Hakui Koyori 博衣こより">
+<img class="avatar" src="https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj" alt="Hakui Koyori 博衣こより" loading="lazy">
 
 <div class="name-en">Hakui Koyori</div>
 
@@ -812,9 +704,9 @@ main {
 <div class="handle">@hakuikoyori</div>
 </a>
 
-<a href="members/kazamairoha" class="member-card" data-name="kazama iroha 風真いろは kazamairoha">
+<a href="members/kazamairoha.html" class="member-card" data-name="kazama iroha 風真いろは kazamairoha">
 
-<img class="avatar" src="https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj" alt="Kazama Iroha 風真いろは">
+<img class="avatar" src="https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj" alt="Kazama Iroha 風真いろは" loading="lazy">
 
 <div class="name-en">Kazama Iroha</div>
 
@@ -823,9 +715,9 @@ main {
 <div class="handle">@kazamairoha</div>
 </a>
 
-<a href="members/sakamatachloe" class="member-card" data-name="sakamata chloe 沙花叉クロヱ sakamatachloe">
+<a href="members/sakamatachloe.html" class="member-card" data-name="sakamata chloe 沙花叉クロヱ sakamatachloe">
 
-<img class="avatar" src="https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj" alt="Sakamata Chloe 沙花叉クロヱ">
+<img class="avatar" src="https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj" alt="Sakamata Chloe 沙花叉クロヱ" loading="lazy">
 
 <div class="name-en">Sakamata Chloe</div>
 
@@ -834,7 +726,7 @@ main {
 <div class="handle">@sakamatachloe</div>
 </a>
 
-<a href="members/friend_a" class="member-card" data-name="friend a (a-chan) 友人a（えーちゃん） friend_a">
+<a href="members/friend_a.html" class="member-card" data-name="friend a (a-chan) 友人a（えーちゃん） friend_a">
 
 <div class="avatar">F</div>
 
@@ -855,9 +747,9 @@ main {
 </div>
 <div class="member-grid">
 
-<a href="members/airaniiofifteen" class="member-card" data-name="airani iofifteen アイラニ・イオフィフティーン airaniiofifteen">
+<a href="members/airaniiofifteen.html" class="member-card" data-name="airani iofifteen アイラニ・イオフィフティーン airaniiofifteen">
 
-<img class="avatar" src="https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj" alt="Airani Iofifteen アイラニ・イオフィフティーン">
+<img class="avatar" src="https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj" alt="Airani Iofifteen アイラニ・イオフィフティーン" loading="lazy">
 
 <div class="name-en">Airani Iofifteen</div>
 
@@ -866,9 +758,9 @@ main {
 <div class="handle">@airaniiofifteen</div>
 </a>
 
-<a href="members/ayunda_risu" class="member-card" data-name="ayunda risu アユンダ・リス ayunda_risu">
+<a href="members/ayunda_risu.html" class="member-card" data-name="ayunda risu アユンダ・リス ayunda_risu">
 
-<img class="avatar" src="https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj" alt="Ayunda Risu アユンダ・リス">
+<img class="avatar" src="https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj" alt="Ayunda Risu アユンダ・リス" loading="lazy">
 
 <div class="name-en">Ayunda Risu</div>
 
@@ -877,9 +769,9 @@ main {
 <div class="handle">@ayunda_risu</div>
 </a>
 
-<a href="members/moona_hoshinova" class="member-card" data-name="moona hoshinova ムーナ・ホシノヴァ moona_hoshinova">
+<a href="members/moona_hoshinova.html" class="member-card" data-name="moona hoshinova ムーナ・ホシノヴァ moona_hoshinova">
 
-<img class="avatar" src="https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj" alt="Moona Hoshinova ムーナ・ホシノヴァ">
+<img class="avatar" src="https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj" alt="Moona Hoshinova ムーナ・ホシノヴァ" loading="lazy">
 
 <div class="name-en">Moona Hoshinova</div>
 
@@ -888,9 +780,9 @@ main {
 <div class="handle">@moona_hoshinova</div>
 </a>
 
-<a href="members/kureijiollie" class="member-card" data-name="kureiji ollie クレイジー・オリー kureijiollie">
+<a href="members/kureijiollie.html" class="member-card" data-name="kureiji ollie クレイジー・オリー kureijiollie">
 
-<img class="avatar" src="https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj" alt="Kureiji Ollie クレイジー・オリー">
+<img class="avatar" src="https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj" alt="Kureiji Ollie クレイジー・オリー" loading="lazy">
 
 <div class="name-en">Kureiji Ollie</div>
 
@@ -899,9 +791,9 @@ main {
 <div class="handle">@kureijiollie</div>
 </a>
 
-<a href="members/aniamelfissa" class="member-card" data-name="anya melfissa アーニャ・メルフィッサ aniamelfissa">
+<a href="members/aniamelfissa.html" class="member-card" data-name="anya melfissa アーニャ・メルフィッサ aniamelfissa">
 
-<img class="avatar" src="https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj" alt="Anya Melfissa アーニャ・メルフィッサ">
+<img class="avatar" src="https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj" alt="Anya Melfissa アーニャ・メルフィッサ" loading="lazy">
 
 <div class="name-en">Anya Melfissa</div>
 
@@ -910,9 +802,9 @@ main {
 <div class="handle">@aniamelfissa</div>
 </a>
 
-<a href="members/pavoliareine" class="member-card" data-name="pavolia reine パヴォリア・レイネ pavoliareine">
+<a href="members/pavoliareine.html" class="member-card" data-name="pavolia reine パヴォリア・レイネ pavoliareine">
 
-<img class="avatar" src="https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj" alt="Pavolia Reine パヴォリア・レイネ">
+<img class="avatar" src="https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj" alt="Pavolia Reine パヴォリア・レイネ" loading="lazy">
 
 <div class="name-en">Pavolia Reine</div>
 
@@ -921,9 +813,9 @@ main {
 <div class="handle">@pavoliareine</div>
 </a>
 
-<a href="members/vestia_zeta" class="member-card" data-name="vestia zeta ベスティア・ゼータ vestia_zeta">
+<a href="members/vestia_zeta.html" class="member-card" data-name="vestia zeta ベスティア・ゼータ vestia_zeta">
 
-<img class="avatar" src="https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj" alt="Vestia Zeta ベスティア・ゼータ">
+<img class="avatar" src="https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj" alt="Vestia Zeta ベスティア・ゼータ" loading="lazy">
 
 <div class="name-en">Vestia Zeta</div>
 
@@ -932,9 +824,9 @@ main {
 <div class="handle">@vestia_zeta</div>
 </a>
 
-<a href="members/kaelakovalskia" class="member-card" data-name="kaela kovalskia カエラ・コヴァルスキア kaelakovalskia">
+<a href="members/kaelakovalskia.html" class="member-card" data-name="kaela kovalskia カエラ・コヴァルスキア kaelakovalskia">
 
-<img class="avatar" src="https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj" alt="Kaela Kovalskia カエラ・コヴァルスキア">
+<img class="avatar" src="https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj" alt="Kaela Kovalskia カエラ・コヴァルスキア" loading="lazy">
 
 <div class="name-en">Kaela Kovalskia</div>
 
@@ -943,9 +835,9 @@ main {
 <div class="handle">@kaelakovalskia</div>
 </a>
 
-<a href="members/kobokanaeru" class="member-card" data-name="kobo kanaeru こぼ・かなえる kobokanaeru">
+<a href="members/kobokanaeru.html" class="member-card" data-name="kobo kanaeru こぼ・かなえる kobokanaeru">
 
-<img class="avatar" src="https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj" alt="Kobo Kanaeru こぼ・かなえる">
+<img class="avatar" src="https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj" alt="Kobo Kanaeru こぼ・かなえる" loading="lazy">
 
 <div class="name-en">Kobo Kanaeru</div>
 
@@ -964,16 +856,16 @@ main {
 </div>
 <div class="member-grid">
 
-<a href="members/hololive" class="member-card" data-name="ホロライブ公式 hololive">
+<a href="members/hololive.html" class="member-card" data-name="ホロライブ公式 hololive">
 
-<img class="avatar" src="https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj" alt="ホロライブ公式">
+<img class="avatar" src="https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj" alt="ホロライブ公式" loading="lazy">
 
 <div class="name-en">ホロライブ公式</div>
 
 <div class="handle">@hololive</div>
 </a>
 
-<a href="members/hololiveenglish" class="member-card" data-name="hololive english hololiveenglish">
+<a href="members/hololiveenglish.html" class="member-card" data-name="hololive english hololiveenglish">
 
 <div class="avatar">h</div>
 
@@ -982,7 +874,7 @@ main {
 <div class="handle">@hololiveenglish</div>
 </a>
 
-<a href="members/hololiveindonesia" class="member-card" data-name="hololive indonesia hololiveindonesia">
+<a href="members/hololiveindonesia.html" class="member-card" data-name="hololive indonesia hololiveindonesia">
 
 <div class="avatar">h</div>
 
@@ -991,7 +883,7 @@ main {
 <div class="handle">@hololiveindonesia</div>
 </a>
 
-<a href="members/hololivedev_is" class="member-card" data-name="hololive dev_is regloss hololivedev_is">
+<a href="members/hololivedev_is.html" class="member-card" data-name="hololive dev_is regloss hololivedev_is">
 
 <div class="avatar">h</div>
 
@@ -1000,7 +892,7 @@ main {
 <div class="handle">@hololivedev_is</div>
 </a>
 
-<a href="members/dev_is_flowglow" class="member-card" data-name="hololive dev_is flow glow dev_is_flowglow">
+<a href="members/dev_is_flowglow.html" class="member-card" data-name="hololive dev_is flow glow dev_is_flowglow">
 
 <div class="avatar">h</div>
 
@@ -1019,9 +911,9 @@ main {
 </div>
 <div class="member-grid">
 
-<a href="members/otonosekanade" class="member-card" data-name="otonose kanade 音乃瀬奏 otonosekanade">
+<a href="members/otonosekanade.html" class="member-card" data-name="otonose kanade 音乃瀬奏 otonosekanade">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj" alt="Otonose Kanade 音乃瀬奏">
+<img class="avatar" src="https://yt3.googleusercontent.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj" alt="Otonose Kanade 音乃瀬奏" loading="lazy">
 
 <div class="name-en">Otonose Kanade</div>
 
@@ -1030,9 +922,9 @@ main {
 <div class="handle">@otonosekanade</div>
 </a>
 
-<a href="members/ichijouririka" class="member-card" data-name="ichijou ririka 一条莉々華 ichijouririka">
+<a href="members/ichijouririka.html" class="member-card" data-name="ichijou ririka 一条莉々華 ichijouririka">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj" alt="Ichijou Ririka 一条莉々華">
+<img class="avatar" src="https://yt3.googleusercontent.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj" alt="Ichijou Ririka 一条莉々華" loading="lazy">
 
 <div class="name-en">Ichijou Ririka</div>
 
@@ -1041,9 +933,9 @@ main {
 <div class="handle">@ichijouririka</div>
 </a>
 
-<a href="members/juufuuteiraden" class="member-card" data-name="juufuutei raden 儒烏風亭らでん juufuuteiraden">
+<a href="members/juufuuteiraden.html" class="member-card" data-name="juufuutei raden 儒烏風亭らでん juufuuteiraden">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj" alt="Juufuutei Raden 儒烏風亭らでん">
+<img class="avatar" src="https://yt3.googleusercontent.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj" alt="Juufuutei Raden 儒烏風亭らでん" loading="lazy">
 
 <div class="name-en">Juufuutei Raden</div>
 
@@ -1052,9 +944,9 @@ main {
 <div class="handle">@juufuuteiraden</div>
 </a>
 
-<a href="members/todorokihajime" class="member-card" data-name="todoroki hajime 轟はじめ todorokihajime">
+<a href="members/todorokihajime.html" class="member-card" data-name="todoroki hajime 轟はじめ todorokihajime">
 
-<img class="avatar" src="https://yt3.googleusercontent.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj" alt="Todoroki Hajime 轟はじめ">
+<img class="avatar" src="https://yt3.googleusercontent.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj" alt="Todoroki Hajime 轟はじめ" loading="lazy">
 
 <div class="name-en">Todoroki Hajime</div>
 
@@ -1063,9 +955,9 @@ main {
 <div class="handle">@todorokihajime</div>
 </a>
 
-<a href="members/hiodoshi_ao" class="member-card" data-name="hiodoshi ao 火威青 hiodoshi_ao">
+<a href="members/hiodoshi_ao.html" class="member-card" data-name="hiodoshi ao 火威青 hiodoshi_ao">
 
-<img class="avatar" src="https://yt3.ggpht.com/nVC4JesCnpLsaI14cM-c3PSecCq9MvnSiLk4V-MuLrY_OL9UYRXnXFUUUy-bCn4iub7j4V0ZOA=s800-c-k-c0x00ffffff-no-rj" alt="Hiodoshi Ao 火威青">
+<img class="avatar" src="https://yt3.ggpht.com/nVC4JesCnpLsaI14cM-c3PSecCq9MvnSiLk4V-MuLrY_OL9UYRXnXFUUUy-bCn4iub7j4V0ZOA=s800-c-k-c0x00ffffff-no-rj" alt="Hiodoshi Ao 火威青" loading="lazy">
 
 <div class="name-en">Hiodoshi Ao</div>
 
@@ -1074,9 +966,9 @@ main {
 <div class="handle">@hiodoshi_ao <span class="badge badge-graduated">graduated</span></div>
 </a>
 
-<a href="members/isakiriona" class="member-card" data-name="isaki riona 響咲リオナ isakiriona">
+<a href="members/isakiriona.html" class="member-card" data-name="isaki riona 響咲リオナ isakiriona">
 
-<img class="avatar" src="https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj" alt="Isaki Riona 響咲リオナ">
+<img class="avatar" src="https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj" alt="Isaki Riona 響咲リオナ" loading="lazy">
 
 <div class="name-en">Isaki Riona</div>
 
@@ -1085,9 +977,9 @@ main {
 <div class="handle">@isakiriona</div>
 </a>
 
-<a href="members/koganei_niko" class="member-card" data-name="koganei niko 虎金妃笑虎 koganei_niko">
+<a href="members/koganei_niko.html" class="member-card" data-name="koganei niko 虎金妃笑虎 koganei_niko">
 
-<img class="avatar" src="https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj" alt="Koganei Niko 虎金妃笑虎">
+<img class="avatar" src="https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj" alt="Koganei Niko 虎金妃笑虎" loading="lazy">
 
 <div class="name-en">Koganei Niko</div>
 
@@ -1096,9 +988,9 @@ main {
 <div class="handle">@koganei_niko</div>
 </a>
 
-<a href="members/mizumiya_su" class="member-card" data-name="mizumiya su 水宮枢 mizumiya_su">
+<a href="members/mizumiya_su.html" class="member-card" data-name="mizumiya su 水宮枢 mizumiya_su">
 
-<img class="avatar" src="https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj" alt="Mizumiya Su 水宮枢">
+<img class="avatar" src="https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj" alt="Mizumiya Su 水宮枢" loading="lazy">
 
 <div class="name-en">Mizumiya Su</div>
 
@@ -1107,9 +999,9 @@ main {
 <div class="handle">@mizumiya_su</div>
 </a>
 
-<a href="members/rindo_chihaya" class="member-card" data-name="rindo chihaya 輪堂千速 rindo_chihaya">
+<a href="members/rindo_chihaya.html" class="member-card" data-name="rindo chihaya 輪堂千速 rindo_chihaya">
 
-<img class="avatar" src="https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj" alt="Rindo Chihaya 輪堂千速">
+<img class="avatar" src="https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj" alt="Rindo Chihaya 輪堂千速" loading="lazy">
 
 <div class="name-en">Rindo Chihaya</div>
 
@@ -1118,9 +1010,9 @@ main {
 <div class="handle">@rindo_chihaya</div>
 </a>
 
-<a href="members/kikirara_vivi" class="member-card" data-name="kikirara vivi 綺々羅々ヴィヴィ kikirara_vivi">
+<a href="members/kikirara_vivi.html" class="member-card" data-name="kikirara vivi 綺々羅々ヴィヴィ kikirara_vivi">
 
-<img class="avatar" src="https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj" alt="Kikirara Vivi 綺々羅々ヴィヴィ">
+<img class="avatar" src="https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj" alt="Kikirara Vivi 綺々羅々ヴィヴィ" loading="lazy">
 
 <div class="name-en">Kikirara Vivi</div>
 
@@ -1132,22 +1024,20 @@ main {
 </div>
 </section>
 
+
 </main>
+<script src="static/theme.js"></script>
+
 <script>
 function filterMembers() {
-  const f = document.getElementById('filter').value.toLowerCase().trim();
-  document.querySelectorAll('.member-card').forEach(c => {
-    const search = c.dataset.name;
-    const match = !f || f.split(/\s+/).every(w => search.includes(w));
+  var f = document.getElementById('filter').value.toLowerCase().trim();
+  document.querySelectorAll('.member-card').forEach(function(c) {
+    var search = c.dataset.name;
+    var match = !f || f.split(/\s+/).every(function(w) { return search.includes(w); });
     c.style.display = match ? '' : 'none';
   });
 }
-const saved = localStorage.getItem('hcat-theme');
-if (saved === 'dark') document.body.classList.add('dark');
-function toggleTheme() {
-  document.body.classList.toggle('dark');
-  localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-}
 </script>
+
 </body>
 </html>

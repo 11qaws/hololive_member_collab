@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% block title %}HCAT — Hololive Collab Tracker{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="__STATIC__/style.css">
+{% block head_extra %}{% endblock %}
+</head>
+<body>
+<header>
+<div class="inner">
+<h1><a href="__ROOT__/index.html"><span>HCAT</span></a></h1>
+<nav>
+<a href="__ROOT__/index.html" class="{% if nav_active == 'members' %}active{% endif %}">Members</a>
+<a href="__ROOT__/stats.html" class="{% if nav_active == 'stats' %}active{% endif %}">Stats</a>
+<a href="__ROOT__/unknowns.html" class="{% if nav_active == 'unknowns' %}active{% endif %}">Unknowns</a>
+<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
+</nav>
+</div>
+</header>
+<main{% if main_class %} class="{{ main_class }}"{% endif %}>
+{% block content %}{% endblock %}
+</main>
+<script src="__STATIC__/theme.js"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

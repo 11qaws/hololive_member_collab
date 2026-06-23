@@ -6,49 +6,12 @@
 <title>Unknowns — HCAT</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="static/style.css">
+
 <style>
-:root {
-  --bg: #f8f9fc; --surface: #fff; --surface-2: #f0f2f6;
-  --text: #1a1d23; --text-2: #6b7280; --border: #e5e7eb;
-  --accent: #8b5cf6; --accent-2: #ec4899;
-  --gradient: linear-gradient(135deg, var(--accent), var(--accent-2));
-  --radius: 12px; --radius-sm: 8px;
-}
-.dark {
-  --bg: #0f1117; --surface: #1a1d26; --surface-2: #252833;
-  --text: #e8eaed; --text-2: #9ca3af; --border: #2d3140;
-}
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background: var(--bg); color: var(--text); line-height: 1.6;
-  transition: background .3s, color .3s;
-}
-header {
-  background: var(--surface); border-bottom: 1px solid var(--border);
-  padding: 1rem 2rem; position: sticky; top: 0; z-index: 100;
-  backdrop-filter: blur(12px);
-}
-.dark header { background: rgba(15,17,23,.85); }
-header .inner {
-  max-width: 1200px; margin: 0 auto;
-  display: flex; align-items: center; justify-content: space-between;
-}
-header h1 { font-size: 1.15rem; font-weight: 600; }
-header h1 a { text-decoration: none; color: var(--text); }
-header h1 span { background: var(--gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-header nav a {
-  text-decoration: none; color: var(--text-2); font-size: .875rem;
-  padding: .4rem .8rem; border-radius: var(--radius-sm); transition: all .2s;
-}
-header nav a:hover { color: var(--text); background: var(--surface-2); }
-main { max-width: 800px; margin: 2rem auto; padding: 0 2rem; }
+main { max-width: 800px; }
 h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
 p { color: var(--text-2); margin-bottom: 1.5rem; }
-.card {
-  background: var(--surface); border: 1px solid var(--border);
-  border-radius: var(--radius);
-}
 .item {
   display: flex; align-items: center; gap: 1rem;
   padding: .875rem 1.25rem;
@@ -62,15 +25,22 @@ p { color: var(--text-2); margin-bottom: 1.5rem; }
 .item .video a:hover { color: var(--accent); }
 .empty { text-align: center; padding: 3rem; color: var(--text-2); }
 </style>
+
 </head>
 <body>
 <header>
 <div class="inner">
-<h1><a href="index.html"><span>HCAT</span> · Unknowns</a></h1>
-<nav><a href="index.html">Members</a><a href="stats.html">Stats</a></nav>
+<h1><a href="index.html"><span>HCAT</span></a></h1>
+<nav>
+<a href="index.html" class="">Members</a>
+<a href="stats.html" class="">Stats</a>
+<a href="unknowns.html" class="active">Unknowns</a>
+<button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">🌙</button>
+</nav>
 </div>
 </header>
 <main>
+
 <h2>Unknown @Handles</h2>
 <p>224 handles that appeared in descriptions but aren't in the member list.</p>
 <div class="card">
@@ -1422,6 +1392,9 @@ p { color: var(--text-2); margin-bottom: 1.5rem; }
 
 
 </div>
+
 </main>
+<script src="static/theme.js"></script>
+
 </body>
 </html>
