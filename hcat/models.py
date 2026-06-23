@@ -15,13 +15,14 @@ class Branch(str, Enum):
     EN = "EN"
     ID = "ID"
     DEV_IS = "DEV_IS"
+    HOLOAN = "holoAN"
     OFFICIAL = "Official"
     HOLOSTARS = "Holostars"
     OTHER = "Other"
 
     @property
     def scan_priority(self) -> int:
-        order = [Branch.EN, Branch.OFFICIAL, Branch.ID, Branch.JP, Branch.DEV_IS, Branch.HOLOSTARS, Branch.OTHER]
+        order = [Branch.EN, Branch.OFFICIAL, Branch.ID, Branch.JP, Branch.DEV_IS, Branch.HOLOAN, Branch.HOLOSTARS, Branch.OTHER]
         return order.index(self)
 
 
@@ -140,6 +141,7 @@ SCAN_GROUP_ORDER = [
     Branch.ID,
     Branch.JP,
     Branch.DEV_IS,
+    Branch.HOLOAN,
     Branch.HOLOSTARS,
     Branch.OTHER,
 ]
@@ -170,8 +172,11 @@ _GENERATION_ORDER: dict[str, list[str]] = {
     ],
     "DEV_IS": [
         "otonosekanade", "ichijouririka", "juufuuteiraden", "todorokihajime",
+        "hiodoshi_ao",
         "isakiriona", "koganei_niko", "mizumiya_su", "rindo_chihaya", "kikirara_vivi",
-        "izuki_michiru", "hanazono_sayaka", "kazeshiro_yuki", "hiodoshi_ao",
+    ],
+    "holoAN": [
+        "izuki_michiru", "hanazono_sayaka", "kazeshiro_yuki", "harusaki_nodoka",
     ],
     "Holostars": [
     ],

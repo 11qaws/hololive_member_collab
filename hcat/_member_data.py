@@ -85,12 +85,27 @@ INITIAL_MEMBERS = [
     Member("sakamatachloe", "Sakamata Chloe", branch=Branch.JP),
     Member("kazamairoha", "Kazama Iroha", branch=Branch.JP),
 
-    # ── JP (DEV_IS / ReGLOSS / FLOW GLOW) ────────────
+    # ── DEV_IS / ReGLOSS ────────────────────────────
     Member("otonosekanade", "Otonose Kanade", branch=Branch.DEV_IS),
     Member("ichijouririka", "Ichijou Ririka", branch=Branch.DEV_IS),
     Member("juufuuteiraden", "Juufuutei Raden", branch=Branch.DEV_IS),
     Member("todorokihajime", "Todoroki Hajime", branch=Branch.DEV_IS),
+
+    # ── DEV_IS / FLOW GLOW ──────────────────────────
     Member("isakiriona", "Isaki Riona", branch=Branch.DEV_IS),
+    Member("koganei_niko", "Koganei Niko", branch=Branch.DEV_IS),
+    Member("mizumiya_su", "Mizumiya Su", branch=Branch.DEV_IS),
+    Member("rindo_chihaya", "Rindo Chihaya", branch=Branch.DEV_IS),
+    Member("kikirara_vivi", "Kikirara Vivi", branch=Branch.DEV_IS),
+
+    # ── DEV_IS (graduated) ──────────────────────────
+    Member("hiodoshi_ao", "Hiodoshi Ao", branch=Branch.DEV_IS, status=MemberStatus.GRADUATED, graduated_at="2025-04-01"),
+
+    # ── holoAN (공식 아나운서, 개인 채널 없음) ──────
+    Member("izuki_michiru", "Izuki Michiru", branch=Branch.HOLOAN),
+    Member("hanazono_sayaka", "Hanazono Sayaka", branch=Branch.HOLOAN),
+    Member("kazeshiro_yuki", "Kazeshiro Yuki", branch=Branch.HOLOAN),
+    Member("harusaki_nodoka", "Harusaki Nodoka", branch=Branch.HOLOAN, status=MemberStatus.GRADUATED, graduated_at="2025-09-30"),
 
     # ── JP (graduated/terminated) ─────────────────────
     Member("kiryucoco", "Kiryu Coco", branch=Branch.JP, status=MemberStatus.GRADUATED, graduated_at="2021-07-01"),

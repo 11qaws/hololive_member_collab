@@ -20,17 +20,19 @@ Holodex API → 출연 데이터 → appearances/<handle>.json
 
 ---
 
-## 멤버 구성 (총 82명)
+## 멤버 구성 (총 87명)
 
 | Branch | 인원 | 비고 |
 |--------|------|------|
 | EN | 20 | Myth 5, Council 5, Advent 4, Justice 4, 졸업(Amelia/Gura/Sana/Mumei/Fauna) |
 | JP | 29 | 0기~6기, 졸업(Aqua/Shion/Kanata/Coco) 포함 |
 | ID | 9 | 1기~3기 |
-| DEV_IS | 12 | ReGLOSS 5 + 2기?명, 일부 channel_id 없음 |
+| DEV_IS | 10 | ReGLOSS 5(Hiodoshi Ao 졸업) + FLOW GLOW 5 |
+| holoAN | 4 | Izuki Michiru, Hanazono Sayaka, Kazeshiro Yuki, Harusaki Nodoka(졸업) |
 | Official | 3 | hololive, hololiveenglish, hololiveindonesia |
-| 기타 | 9 | Holostars 등 |
-| **합계** | **82** | |
+| Holostars | 6 | |
+| Other | 6 | 기타 |
+| **합계** | **87** | |
 
 ---
 
@@ -123,6 +125,13 @@ Holodex API → 출연 데이터 → appearances/<handle>.json
 - Fuwawa 솔로(POV/SOLO, partner_handle=fuwawa_abyssgard): `@FUWAmoco`
 - Mococo 솔로(POV/SOLO, partner_handle=mococo_abyssgard): `@fuwaMOCO`
 - 모든 멤버 페이지에서 위 규칙 동일 적용 (viewer 무관, partner_handle 기준)
+
+### DEV_IS / holoAN 분류 정리 (2026-06-23)
+- **ReGLOSS** (DEV_IS 1기, 자체 채널 있음): otonosekanade, ichijouririka, juufuuteiraden, todorokihajime, hiodoshi_ao(졸업)
+- **FLOW GLOW** (DEV_IS 2기, 자체 채널 있음): isakiriona, koganei_niko, mizumiya_su, rindo_chihaya, kikirara_vivi
+- **holoAN** (공식 아나운서 채널, 개인 채널 없음): izuki_michiru, hanazono_sayaka, kazeshiro_yuki, harusaki_nodoka(졸업)
+- ReGLOSS 4명에 `channel_id` 추가 (기존에 비어있었음), 모든 DEV_IS 멤버에 `channel_handle` 설정
+- `Branch.HOLOAN` enum 추가
 
 ### YouTube @handle 검증 (2026-06-23)
 - 전체 82명 YouTube @handle 일괄 확인

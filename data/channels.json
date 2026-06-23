@@ -564,48 +564,48 @@
     {
       "handle": "otonosekanade",
       "name": "Otonose Kanade 音乃瀬奏",
-      "channel_id": "",
-      "channel_handle": null,
+      "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "channel_handle": "OtonoseKanade",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
-      "photo_url": null
+      "photo_url": "https://yt3.googleusercontent.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "handle": "ichijouririka",
       "name": "Ichijou Ririka 一条莉々華",
-      "channel_id": "",
-      "channel_handle": null,
+      "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "channel_handle": "IchijouRirika",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
-      "photo_url": null
+      "photo_url": "https://yt3.googleusercontent.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "handle": "juufuuteiraden",
       "name": "Juufuutei Raden 儒烏風亭らでん",
-      "channel_id": "",
-      "channel_handle": null,
+      "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "channel_handle": "JuufuuteiRaden",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
-      "photo_url": null
+      "photo_url": "https://yt3.googleusercontent.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "handle": "todorokihajime",
       "name": "Todoroki Hajime 轟はじめ",
-      "channel_id": "",
-      "channel_handle": null,
+      "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "channel_handle": "TodorokiHajime",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
-      "photo_url": null
+      "photo_url": "https://yt3.googleusercontent.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "handle": "isakiriona",
       "name": "Isaki Riona 響咲リオナ",
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "channel_handle": null,
+      "channel_handle": "IsakiRiona",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
@@ -615,7 +615,7 @@
       "handle": "koganei_niko",
       "name": "Koganei Niko 虎金妃笑虎",
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "channel_handle": null,
+      "channel_handle": "KoganeiNiko",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
@@ -635,7 +635,7 @@
       "handle": "rindo_chihaya",
       "name": "Rindo Chihaya 輪堂千速",
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "channel_handle": null,
+      "channel_handle": "RindoChihaya",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
@@ -645,7 +645,7 @@
       "handle": "kikirara_vivi",
       "name": "Kikirara Vivi 綺々羅々ヴィヴィ",
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "channel_handle": null,
+      "channel_handle": "KikiraraVivi",
       "branch": "DEV_IS",
       "status": "active",
       "graduated_at": null,
@@ -656,7 +656,7 @@
       "name": "Izuki Michiru 井月みちる",
       "channel_id": "",
       "channel_handle": null,
-      "branch": "DEV_IS",
+      "branch": "holoAN",
       "status": "active",
       "graduated_at": null,
       "photo_url": null
@@ -666,7 +666,7 @@
       "name": "Hanazono Sayaka 花園さやか",
       "channel_id": "",
       "channel_handle": null,
-      "branch": "DEV_IS",
+      "branch": "holoAN",
       "status": "active",
       "graduated_at": null,
       "photo_url": null
@@ -676,7 +676,7 @@
       "name": "Kazeshiro Yuki 風白ゆき",
       "channel_id": "",
       "channel_handle": null,
-      "branch": "DEV_IS",
+      "branch": "holoAN",
       "status": "active",
       "graduated_at": null,
       "photo_url": null
@@ -765,7 +765,7 @@
       "handle": "hiodoshi_ao",
       "name": "Hiodoshi Ao 火威青",
       "channel_id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "channel_handle": null,
+      "channel_handle": "HiodoshiAo",
       "branch": "DEV_IS",
       "status": "graduated",
       "graduated_at": null,
@@ -776,7 +776,7 @@
       "name": "Harusaki Nodoka 春先のどか",
       "channel_id": "",
       "channel_handle": null,
-      "branch": "JP",
+      "branch": "holoAN",
       "status": "graduated",
       "graduated_at": null,
       "photo_url": null
