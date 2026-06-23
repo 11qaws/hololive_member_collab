@@ -560,6 +560,31 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   font-weight: 400;
   color: var(--text-2);
 }
+.tl-month-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem 0 .75rem;
+  position: relative;
+  z-index: 1;
+}
+.tl-month-divider::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1px;
+  background: var(--border);
+}
+.tl-month-label {
+  position: relative;
+  padding: 0 .75rem;
+  font-size: .78rem;
+  color: var(--text-2);
+  font-weight: 500;
+  background: var(--bg);
+}
 </style>
 </head>
 <body>
@@ -678,7 +703,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="filter-info" id="filterInfo"></div>
 {% endif %}
 <div class="timeline">
+{% set ns = namespace(prev_month='') %}
 {% for e in timeline %}
+{% set cur_month = e.published_at[:6] %}
+{% if cur_month and cur_month != ns.prev_month %}
+<div class="tl-month-divider"><span class="tl-month-label">{{ cur_month[:4] }}년 {{ cur_month[4:6]|int }}월</span></div>
+{% set ns.prev_month = cur_month %}
+{% endif %}
 {% if e.paired_self %}
 <div class="tl-item pair" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
 <div class="tl-pair-stream">
