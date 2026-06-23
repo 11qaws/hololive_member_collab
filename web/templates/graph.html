@@ -1,0 +1,258 @@
+{% extends "base.html" %}
+{% block title %}Network — HCAT{% endblock %}
+{% block head_extra %}
+<style>
+main { max-width: 1200px; }
+h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
+p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
+#graph-container {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  position: relative;
+}
+#graph-container svg {
+  display: block;
+  width: 100%;
+  height: 700px;
+}
+.graph-tooltip {
+  position: absolute;
+  padding: .5rem .75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-lg);
+  font-size: .82rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .15s;
+  z-index: 10;
+}
+.graph-tooltip.visible { opacity: 1; }
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin: 1rem 0 1.5rem;
+  justify-content: center;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+  font-size: .8rem;
+  color: var(--text-2);
+}
+.legend-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+}
+</style>
+{% endblock %}
+{% block content %}
+<h2>Collab Network</h2>
+<p>Nodes = members, edges = collab frequency. Drag to explore. Scroll to zoom.</p>
+
+<div class="legend">
+{% for br, color in branch_colors %}
+<span class="legend-item"><span class="legend-dot" style="background:{{ color }}"></span> {{ br }}</span>
+{% endfor %}
+</div>
+
+<div id="graph-container">
+<div class="graph-tooltip" id="tooltip"></div>
+<svg id="graph-svg"></svg>
+</div>
+{% endblock %}
+{% block scripts %}
+<script id="graph-data" type="application/json">{{ graph_json|safe }}</script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+(function() {
+  var data;
+  try { data = JSON.parse(document.getElementById('graph-data').textContent); } catch(e) { return; }
+  if (!data || !data.nodes || data.nodes.length === 0) return;
+
+  var svg = d3.select('#graph-svg');
+  var tooltip = d3.select('#tooltip');
+  var width = svg.node().parentNode.clientWidth;
+  var height = 700;
+  svg.attr('width', width).attr('height', height);
+
+  // Filter: only nodes with at least 1 collab
+  var validIds = {};
+  data.nodes.forEach(function(n) { validIds[n.id] = true; });
+
+  var linkData = data.edges.filter(function(e) {
+    return validIds[e.source] && validIds[e.target];
+  });
+  var nodeData = data.nodes.filter(function(n) { return validIds[n.id]; });
+
+  // Scale node radius by collabCount (log)
+  var rScale = d3.scaleSqrt()
+    .domain([1, d3.max(nodeData, function(d) { return d.collabCount; }) || 1])
+    .range([5, 25]);
+
+  var simulation = d3.forceSimulation(nodeData)
+    .force('link', d3.forceLink(linkData).id(function(d) { return d.id; }).distance(80))
+    .force('charge', d3.forceManyBody().strength(-200))
+    .force('center', d3.forceCenter(width / 2, height / 2))
+    .force('collision', d3.forceCollide().radius(function(d) { return rScale(d.collabCount) + 2; }));
+
+  var link = svg.append('g')
+    .selectAll('line')
+    .data(linkData)
+    .enter().append('line')
+    .attr('stroke', 'var(--border)')
+    .attr('stroke-width', function(d) { return Math.sqrt(d.weight) * 1.5; })
+    .attr('stroke-opacity', 0.5);
+
+  var node = svg.append('g')
+    .selectAll('circle')
+    .data(nodeData)
+    .enter().append('circle')
+    .attr('r', function(d) { return rScale(d.collabCount); })
+    .attr('fill', function(d) { return d.color; })
+    .attr('stroke', 'var(--surface)')
+    .attr('stroke-width', 2)
+    .attr('cursor', 'pointer')
+    .on('mouseover', function(ev, d) {
+      tooltip.html('<strong>' + d.id + '</strong><br>' + d.collabCount + ' collabs<br>' + d.group)
+        .classed('visible', true);
+    })
+    .on('mousemove', function(ev) {
+      tooltip.style('left', (ev.offsetX + 12) + 'px').style('top', (ev.offsetY - 10) + 'px');
+    })
+    .on('mouseout', function() { tooltip.classed('visible', false); })
+    .on('click', function(ev, d) {
+      window.location.href = 'members/' + d.id + '.html';
+    })
+    .call(d3.drag()
+      .on('start', function(ev, d) {
+        if (!ev.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      })
+      .on('drag', function(ev, d) {
+        d.fx = ev.x;
+        d.fy = ev.y;
+      })
+      .on('end', function(ev, d) {
+        if (!ev.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      })
+    );
+
+  var label = svg.append('g')
+    .selectAll('text')
+    .data(nodeData)
+    .enter().append('text')
+    .text(function(d) { return d.id; })
+    .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.5); })
+    .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
+    .attr('dy', 4)
+    .attr('fill', 'var(--text-2)')
+    .attr('pointer-events', 'none');
+
+  simulation.on('tick', function() {
+    link
+      .attr('x1', function(d) { return d.source.x; })
+      .attr('y1', function(d) { return d.source.y; })
+      .attr('x2', function(d) { return d.target.x; })
+      .attr('y2', function(d) { return d.target.y; });
+    node
+      .attr('cx', function(d) { return d.x; })
+      .attr('cy', function(d) { return d.y; });
+    label
+      .attr('x', function(d) { return d.x; })
+      .attr('y', function(d) { return d.y; });
+  });
+
+  // Zoom
+  var zoom = d3.zoom()
+    .scaleExtent([0.1, 4])
+    .on('zoom', function(ev) {
+      svg.select('g').attr('transform', ev.transform);
+    });
+  svg.call(zoom);
+
+  // Wrap nodes/links in a group for zoom
+  svg.selectAll('g').each(function() {
+    if (this.childElementCount > 0) {
+      var g = svg.select('g').node();
+      if (!g || g.childElementCount === 0) {
+        var group = svg.append('g');
+        group.append(function() { return link.node().parentNode; });
+        group.append(function() { return node.node().parentNode; });
+        group.append(function() { return label.node().parentNode; });
+        svg.on('zoom', null);
+        svg.call(zoom);
+      }
+    }
+  });
+
+  // Simple zoom wrapper
+  svg.selectAll('*').remove(); // clear and redo with proper group
+  var mainGroup = svg.append('g');
+
+  var links2 = mainGroup.selectAll('line').data(linkData).enter().append('line')
+    .attr('stroke', 'var(--border)')
+    .attr('stroke-width', function(d) { return Math.sqrt(d.weight) * 1.5; })
+    .attr('stroke-opacity', 0.5);
+
+  var nodes2 = mainGroup.selectAll('circle').data(nodeData).enter().append('circle')
+    .attr('r', function(d) { return rScale(d.collabCount); })
+    .attr('fill', function(d) { return d.color; })
+    .attr('stroke', 'var(--surface)').attr('stroke-width', 2)
+    .attr('cursor', 'pointer')
+    .on('mouseover', function(ev, d) {
+      tooltip.html('<strong>' + d.id + '</strong><br>' + d.collabCount + ' collabs<br>' + d.group)
+        .classed('visible', true);
+    })
+    .on('mousemove', function(ev) {
+      tooltip.style('left', (ev.offsetX + 12) + 'px').style('top', (ev.offsetY - 10) + 'px');
+    })
+    .on('mouseout', function() { tooltip.classed('visible', false); })
+    .on('click', function(ev, d) {
+      window.location.href = 'members/' + d.id + '.html';
+    })
+    .call(d3.drag()
+      .on('start', function(ev, d) {
+        if (!ev.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x; d.fy = d.y;
+      })
+      .on('drag', function(ev, d) { d.fx = ev.x; d.fy = ev.y; })
+      .on('end', function(ev, d) {
+        if (!ev.active) simulation.alphaTarget(0);
+        d.fx = null; d.fy = null;
+      })
+    );
+
+  var labels2 = mainGroup.selectAll('text').data(nodeData).enter().append('text')
+    .text(function(d) { return d.id; })
+    .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.5); })
+    .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
+    .attr('dy', 4)
+    .attr('fill', 'var(--text-2)')
+    .attr('pointer-events', 'none');
+
+  simulation.nodes(nodeData).on('tick', function() {
+    links2.attr('x1', function(d) { return d.source.x; })
+      .attr('y1', function(d) { return d.source.y; })
+      .attr('x2', function(d) { return d.target.x; })
+      .attr('y2', function(d) { return d.target.y; });
+    nodes2.attr('cx', function(d) { return d.x; }).attr('cy', function(d) { return d.y; });
+    labels2.attr('x', function(d) { return d.x; }).attr('y', function(d) { return d.y; });
+  });
+
+  simulation.force('link').links(linkData);
+
+  svg.call(d3.zoom().scaleExtent([0.1, 4]).on('zoom', function(ev) {
+    mainGroup.attr('transform', ev.transform);
+  }));
+})();
+</script>
+{% endblock %}

@@ -9,6 +9,7 @@ from .config import get_data_dir
 from .models import Branch, generation_sort_key
 from .storage import load_members, load_appearances
 from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
+from .network import build_graph_data
 
 
 def _replace_placeholders(html: str, prefix: str) -> str:
@@ -27,6 +28,7 @@ def _fix_links(html: str) -> str:
     html = html.replace('href="/member/', 'href="members/')
     html = html.replace('href="/stats"', 'href="stats.html"')
     html = html.replace('href="/unknowns"', 'href="unknowns.html"')
+    html = html.replace('href="/graph"', 'href="graph.html"')
     html = html.replace('href="/"', 'href="index.html"')
     return html
 
@@ -36,6 +38,7 @@ def _fix_links_member(html: str, handle: str) -> str:
     html = html.replace('href="/member/', 'href="members/')
     html = html.replace('href="/stats"', 'href="../stats.html"')
     html = html.replace('href="/unknowns"', 'href="../unknowns.html"')
+    html = html.replace('href="/graph"', 'href="../graph.html"')
     html = html.replace('href="/"', 'href="../index.html"')
     return html
 
@@ -129,6 +132,23 @@ def build_site():
     html = _fix_links(env.get_template("unknowns.html").render(
         unknowns=unknowns, nav_active="unknowns"))
     (site_dir / "unknowns.html").write_text(html, encoding="utf-8")
+
+    # ── Network Graph page ──
+    branch_order = [Branch.EN, Branch.JP, Branch.ID, Branch.DEV_IS, Branch.HOLOAN, Branch.OFFICIAL, Branch.HOLOSTARS, Branch.OTHER]
+    branch_colors = {
+        Branch.EN: "#06b6d4", Branch.JP: "#ec4899", Branch.ID: "#22c55e",
+        Branch.DEV_IS: "#a855f7", Branch.HOLOAN: "#f59e0b",
+        Branch.OFFICIAL: "#6b7280", Branch.HOLOSTARS: "#f97316", Branch.OTHER: "#94a3b8",
+    }
+    branch_colors_list = [
+        (b.value, branch_colors[b])
+        for b in branch_order if b in branch_colors and any(m.branch == b for m in members)
+    ]
+    graph_data = build_graph_data()
+    graph_json = json.dumps(graph_data, ensure_ascii=False)
+    html = _fix_links(env.get_template("graph.html").render(
+        graph_json=graph_json, branch_colors=branch_colors_list, nav_active="graph"))
+    (site_dir / "graph.html").write_text(html, encoding="utf-8")
 
     print(f"Site built: {site_dir}")
     print(f"  {len(members)} member pages")

@@ -14,6 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
 from hcat.storage import load_members, load_appearances, load_unknowns, find_member
 from hcat.models import Member, Branch, MemberStatus
+from hcat.network import build_graph_data
 
 app = FastAPI(title="HCAT - Hololive Collab Tracker")
 
@@ -84,6 +85,24 @@ async def member_detail(handle: str):
 async def unknowns_page():
     unknowns = load_unknowns()
     return _render("unknowns.html", unknowns=unknowns, nav_active="unknowns")
+
+
+@app.get("/graph", response_class=HTMLResponse)
+async def graph_page():
+    members = load_members()
+    branch_order = [Branch.EN, Branch.JP, Branch.ID, Branch.DEV_IS, Branch.HOLOAN, Branch.OFFICIAL, Branch.HOLOSTARS, Branch.OTHER]
+    branch_colors_map = {
+        Branch.EN: "#06b6d4", Branch.JP: "#ec4899", Branch.ID: "#22c55e",
+        Branch.DEV_IS: "#a855f7", Branch.HOLOAN: "#f59e0b",
+        Branch.OFFICIAL: "#6b7280", Branch.HOLOSTARS: "#f97316", Branch.OTHER: "#94a3b8",
+    }
+    branch_colors = [
+        (b.value, branch_colors_map[b])
+        for b in branch_order if b in branch_colors_map and any(m.branch == b for m in members)
+    ]
+    graph_data = build_graph_data()
+    graph_json = json.dumps(graph_data, ensure_ascii=False)
+    return _render("graph.html", graph_json=graph_json, branch_colors=branch_colors, nav_active="graph")
 
 
 @app.get("/stats", response_class=HTMLResponse)
