@@ -51,10 +51,12 @@ async def member_detail(handle: str):
     top_partners = top_collab_partners(timeline)
     members = load_members()
     partner_groups = group_partners_by_branch(partner_handles, members)
+    member_photos = {m.handle: m.photo_url for m in members if m.photo_url}
     return render("member.html",
         member=member, timeline=timeline,
         streams=streams, collabs=collabs, partner_handles=partner_handles,
-        partner_groups=partner_groups, top_partners=top_partners)
+        partner_groups=partner_groups, top_partners=top_partners,
+        member_photos=member_photos)
 
 
 @app.get("/unknowns", response_class=HTMLResponse)

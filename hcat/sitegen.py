@@ -66,11 +66,13 @@ def build_site():
         partner_handles = extract_partner_handles(timeline)
         top_partners = top_collab_partners(timeline)
         partner_groups = group_partners_by_branch(partner_handles, members)
+        member_photos = {m2.handle: m2.photo_url for m2 in members if m2.photo_url}
         html = _fix_links_member(
             env.get_template("member.html").render(
                 member=m, timeline=timeline,
                 streams=streams, collabs=collabs, partner_handles=partner_handles,
-                partner_groups=partner_groups, top_partners=top_partners),
+                partner_groups=partner_groups, top_partners=top_partners,
+                member_photos=member_photos),
             m.handle,
         )
         (members_dir / f"{m.handle}.html").write_text(html, encoding="utf-8")

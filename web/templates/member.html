@@ -496,6 +496,14 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   color: var(--text-2);
   font-size: .7rem;
 }
+.sub-avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin-left: .75rem;
+}
 
 /* ── Paired entry (self + collab side by side) ── */
 .tl-item.pair {
@@ -767,7 +775,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="tl-subs">
 {% for p in e.sub_entries %}
 <a class="tl-sub" href="{{ p.url }}" target="_blank">
+{% set photo = member_photos.get(p.partner_handle, '') %}
+{% if photo %}
+<img class="sub-avatar" src="{{ photo }}" alt="">
+{% else %}
 <span class="sub-dot"></span>
+{% endif %}
 <div class="tl-sub-title">{{ p.title[:60] }}</div>
 <span class="tl-sub-meta">@{{ p.partner_handle }}</span>
 </a>
@@ -821,7 +834,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="tl-subs">
 {% for p in e.sub_entries %}
 <a class="tl-sub" href="{{ p.url }}" target="_blank">
+{% set photo = member_photos.get(p.partner_handle, '') %}
+{% if photo %}
+<img class="sub-avatar" src="{{ photo }}" alt="">
+{% else %}
 <span class="sub-dot"></span>
+{% endif %}
 <div class="tl-sub-title">{{ p.title[:60] }}</div>
 <span class="tl-sub-meta">@{{ p.partner_handle }}</span>
 </a>
