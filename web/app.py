@@ -9,7 +9,7 @@ import uvicorn
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners
+from hcat.timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch
 from hcat.storage import load_members, load_appearances, load_unknowns, find_member
 from hcat.models import Member, Branch, MemberStatus
 
@@ -49,10 +49,12 @@ async def member_detail(handle: str):
     collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
     partner_handles = extract_partner_handles(timeline)
     top_partners = top_collab_partners(timeline)
+    members = load_members()
+    partner_groups = group_partners_by_branch(partner_handles, members)
     return render("member.html",
         member=member, timeline=timeline,
         streams=streams, collabs=collabs, partner_handles=partner_handles,
-        top_partners=top_partners)
+        partner_groups=partner_groups, top_partners=top_partners)
 
 
 @app.get("/unknowns", response_class=HTMLResponse)

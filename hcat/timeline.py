@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 
 from .config import load_config
-from .models import TimelineEntry
+from .models import TimelineEntry, Member
 from .storage import load_members, load_appearances, load_timeline, save_timeline
 
 
@@ -459,3 +459,32 @@ def extract_partner_handles(entries: list[TimelineEntry]) -> list[str]:
             if e.partner_handle:
                 handles.add(e.partner_handle)
     return sorted(handles)
+
+
+_BRANCH_ORDER = ["EN", "ID", "JP", "DEV_IS"]
+
+
+def group_partners_by_branch(
+    partner_handles: list[str],
+    all_members: list[Member],
+) -> list[tuple[str, list[dict]]]:
+    by_handle = {m.handle: m for m in all_members}
+    raw: dict[str, list[dict]] = {}
+    for h in partner_handles:
+        m = by_handle.get(h)
+        branch = m.branch.value if m else "Other"
+        if branch not in _BRANCH_ORDER:
+            branch = "Other"
+        raw.setdefault(branch, []).append({
+            "handle": h,
+            "name": m.english_name or m.name if m else h,
+        })
+    result = []
+    for b in _BRANCH_ORDER:
+        if b in raw:
+            raw[b].sort(key=lambda p: p["handle"])
+            result.append((b, raw[b]))
+    if "Other" in raw:
+        raw["Other"].sort(key=lambda p: p["handle"])
+        result.append(("Other", raw["Other"]))
+    return result

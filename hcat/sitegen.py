@@ -9,7 +9,7 @@ import jinja2
 from .config import get_data_dir
 from .models import Member, Branch, MemberStatus, Appearance, generation_sort_key
 from .storage import load_members, load_appearances
-from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners
+from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch
 
 
 def _fix_links(html: str) -> str:
@@ -65,11 +65,12 @@ def build_site():
         collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
         partner_handles = extract_partner_handles(timeline)
         top_partners = top_collab_partners(timeline)
+        partner_groups = group_partners_by_branch(partner_handles, members)
         html = _fix_links_member(
             env.get_template("member.html").render(
                 member=m, timeline=timeline,
                 streams=streams, collabs=collabs, partner_handles=partner_handles,
-                top_partners=top_partners),
+                partner_groups=partner_groups, top_partners=top_partners),
             m.handle,
         )
         (members_dir / f"{m.handle}.html").write_text(html, encoding="utf-8")

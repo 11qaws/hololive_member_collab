@@ -226,33 +226,117 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   border-color: var(--accent-2);
   color: var(--accent-2);
 }
-.partner-tags {
+.partner-select {
+  position: relative;
+  width: 100%;
+}
+.partner-selected {
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
   gap: .35rem;
-  padding: .2rem 0;
-}
-.partner-tag {
-  display: inline-block;
-  padding: .22rem .6rem;
+  flex-wrap: wrap;
+  min-height: 34px;
+  padding: .25rem .5rem;
   border: 1px solid var(--border);
-  border-radius: 999px;
-  font-size: .78rem;
-  cursor: pointer;
-  transition: all .15s;
-  user-select: none;
+  border-radius: var(--radius-sm);
   background: var(--surface);
+  cursor: pointer;
+  transition: border-color .15s;
+}
+.partner-selected:hover { border-color: var(--accent); }
+.partner-selected-placeholder {
+  font-size: .82rem;
   color: var(--text-2);
-  line-height: 1.5;
 }
-.partner-tag:hover {
-  border-color: var(--accent);
-  color: var(--text);
-}
-.partner-tag.selected {
+.selected-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
+  padding: .15rem .5rem;
   background: var(--accent);
   color: #fff;
-  border-color: var(--accent);
+  border-radius: 999px;
+  font-size: .75rem;
+  font-weight: 500;
+}
+.selected-tag-remove {
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  opacity: .7;
+  transition: opacity .15s;
+}
+.selected-tag-remove:hover { opacity: 1; }
+.partner-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  margin-top: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  box-shadow: var(--shadow-lg);
+  max-height: 360px;
+  overflow-y: auto;
+}
+.partner-dropdown.open { display: block; }
+.partner-group { border-bottom: 1px solid var(--border); }
+.partner-group:last-child { border-bottom: none; }
+.partner-group-header {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .55rem .75rem;
+  cursor: pointer;
+  font-size: .82rem;
+  font-weight: 600;
+  transition: background .1s;
+  user-select: none;
+}
+.partner-group-header:hover { background: var(--surface-2); }
+.pgg-arrow { font-size: .65rem; color: var(--text-2); transition: transform .2s; }
+.pgg-label { flex: 1; }
+.pgg-count {
+  font-size: .75rem;
+  font-weight: 400;
+  color: var(--text-2);
+}
+.partner-group-body {
+  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .25s ease;
+}
+.partner-group-body.open {
+  display: block;
+  max-height: 600px;
+}
+.partner-option {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .35rem .75rem .35rem 1.75rem;
+  cursor: pointer;
+  font-size: .8rem;
+  transition: background .1s;
+  user-select: none;
+}
+.partner-option:hover { background: var(--surface-2); }
+.partner-option .po-name { flex: 1; }
+.partner-option .po-handle { font-size: .72rem; color: var(--text-2); }
+.partner-option::before {
+  content: '○';
+  font-size: .75rem;
+  color: var(--text-2);
+  width: 1rem;
+}
+.partner-option.selected::before {
+  content: '✓';
+  color: var(--accent);
+  font-weight: 700;
 }
 .filter-info {
   font-size: .78rem;
@@ -526,31 +610,31 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="top-partners-title">Top Collab Partners</div>
 <div class="top-partners-list">
 
-<div class="top-partner-item" onclick="document.getElementById('partnerFilter').value='shiorinovella';filterTimeline()">
+<div class="top-partner-item" onclick="selectPartnerOnly('shiorinovella')">
 <span class="top-partner-name">@shiorinovella</span>
 <span class="top-partner-count">134</span>
 <div class="top-partner-bar" style="width:100%"></div>
 </div>
 
-<div class="top-partner-item" onclick="document.getElementById('partnerFilter').value='mococo_abyssgard';filterTimeline()">
+<div class="top-partner-item" onclick="selectPartnerOnly('mococo_abyssgard')">
 <span class="top-partner-name">@mococo_abyssgard</span>
 <span class="top-partner-count">130</span>
 <div class="top-partner-bar" style="width:97%"></div>
 </div>
 
-<div class="top-partner-item" onclick="document.getElementById('partnerFilter').value='nerissaravencroft';filterTimeline()">
+<div class="top-partner-item" onclick="selectPartnerOnly('nerissaravencroft')">
 <span class="top-partner-name">@nerissaravencroft</span>
 <span class="top-partner-count">126</span>
 <div class="top-partner-bar" style="width:94%"></div>
 </div>
 
-<div class="top-partner-item" onclick="document.getElementById('partnerFilter').value='moricalliope';filterTimeline()">
+<div class="top-partner-item" onclick="selectPartnerOnly('moricalliope')">
 <span class="top-partner-name">@moricalliope</span>
 <span class="top-partner-count">102</span>
 <div class="top-partner-bar" style="width:76%"></div>
 </div>
 
-<div class="top-partner-item" onclick="document.getElementById('partnerFilter').value='hololive';filterTimeline()">
+<div class="top-partner-item" onclick="selectPartnerOnly('hololive')">
 <span class="top-partner-name">@hololive</span>
 <span class="top-partner-count">71</span>
 <div class="top-partner-bar" style="width:52%"></div>
@@ -584,122 +668,354 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 <div class="filter-group">
 <label>Partners</label>
-<div class="partner-tags" id="partnerTags">
+<div class="partner-select" id="partnerSelect">
+<div class="partner-selected" onclick="togglePartnerDropdown()">
+<span class="partner-selected-placeholder" id="selectedPlaceholder">Select members...</span>
+<span class="selected-tags" id="selectedTags"></span>
+</div>
+<div class="partner-dropdown" id="partnerDropdown">
 
-<span class="partner-tag" data-handle="airaniiofifteen" onclick="togglePartner(this)">@airaniiofifteen</span>
+<div class="partner-group">
+<div class="partner-group-header" onclick="toggleGroup(this)">
+<span class="pgg-arrow">▶</span>
+<span class="pgg-label">EN</span>
+<span class="pgg-count">17</span>
+</div>
+<div class="partner-group-body">
 
-<span class="partner-tag" data-handle="akaihaato" onclick="togglePartner(this)">@akaihaato</span>
+<div class="partner-option" data-handle="ceresfauna" onclick="togglePartnerOption(this)">
+<span class="po-name">Ceres Fauna</span>
+<span class="po-handle">@ceresfauna</span>
+</div>
 
-<span class="partner-tag" data-handle="akirose" onclick="togglePartner(this)">@akirose</span>
+<div class="partner-option" data-handle="gawrgura" onclick="togglePartnerOption(this)">
+<span class="po-name">Gawr Gura</span>
+<span class="po-handle">@gawrgura</span>
+</div>
 
-<span class="partner-tag" data-handle="amanekanata" onclick="togglePartner(this)">@amanekanata</span>
+<div class="partner-option" data-handle="hakosbaelz" onclick="togglePartnerOption(this)">
+<span class="po-name">Hakos Baelz</span>
+<span class="po-handle">@hakosbaelz</span>
+</div>
 
-<span class="partner-tag" data-handle="aniamelfissa" onclick="togglePartner(this)">@aniamelfissa</span>
+<div class="partner-option" data-handle="holoen_ceciliaimmergreen" onclick="togglePartnerOption(this)">
+<span class="po-name">Cecilia Immergreen</span>
+<span class="po-handle">@holoen_ceciliaimmergreen</span>
+</div>
 
-<span class="partner-tag" data-handle="ayunda_risu" onclick="togglePartner(this)">@ayunda_risu</span>
+<div class="partner-option" data-handle="holoen_erbloodflame" onclick="togglePartnerOption(this)">
+<span class="po-name">Elizabeth Rose Bloodflame</span>
+<span class="po-handle">@holoen_erbloodflame</span>
+</div>
 
-<span class="partner-tag" data-handle="azki" onclick="togglePartner(this)">@azki</span>
+<div class="partner-option" data-handle="holoen_gigimurin" onclick="togglePartnerOption(this)">
+<span class="po-name">Gigi Murin</span>
+<span class="po-handle">@holoen_gigimurin</span>
+</div>
 
-<span class="partner-tag" data-handle="ceresfauna" onclick="togglePartner(this)">@ceresfauna</span>
+<div class="partner-option" data-handle="holoen_raorapanthera" onclick="togglePartnerOption(this)">
+<span class="po-name">Raora Panthera</span>
+<span class="po-handle">@holoen_raorapanthera</span>
+</div>
 
-<span class="partner-tag" data-handle="gawrgura" onclick="togglePartner(this)">@gawrgura</span>
+<div class="partner-option" data-handle="irys" onclick="togglePartnerOption(this)">
+<span class="po-name">IRyS IRyS</span>
+<span class="po-handle">@irys</span>
+</div>
 
-<span class="partner-tag" data-handle="hakosbaelz" onclick="togglePartner(this)">@hakosbaelz</span>
+<div class="partner-option" data-handle="mococo_abyssgard" onclick="togglePartnerOption(this)">
+<span class="po-name">Mococo Abyssgard</span>
+<span class="po-handle">@mococo_abyssgard</span>
+</div>
 
-<span class="partner-tag" data-handle="hakuikoyori" onclick="togglePartner(this)">@hakuikoyori</span>
+<div class="partner-option" data-handle="moricalliope" onclick="togglePartnerOption(this)">
+<span class="po-name">Mori Calliope</span>
+<span class="po-handle">@moricalliope</span>
+</div>
 
-<span class="partner-tag" data-handle="hiodoshi_ao" onclick="togglePartner(this)">@hiodoshi_ao</span>
+<div class="partner-option" data-handle="nanashimumei" onclick="togglePartnerOption(this)">
+<span class="po-name">Nanashi Mumei</span>
+<span class="po-handle">@nanashimumei</span>
+</div>
 
-<span class="partner-tag" data-handle="holoen_ceciliaimmergreen" onclick="togglePartner(this)">@holoen_ceciliaimmergreen</span>
+<div class="partner-option" data-handle="nerissaravencroft" onclick="togglePartnerOption(this)">
+<span class="po-name">Nerissa Ravencroft</span>
+<span class="po-handle">@nerissaravencroft</span>
+</div>
 
-<span class="partner-tag" data-handle="holoen_erbloodflame" onclick="togglePartner(this)">@holoen_erbloodflame</span>
+<div class="partner-option" data-handle="ninomaeinanis" onclick="togglePartnerOption(this)">
+<span class="po-name">Ninomae Ina’nis</span>
+<span class="po-handle">@ninomaeinanis</span>
+</div>
 
-<span class="partner-tag" data-handle="holoen_gigimurin" onclick="togglePartner(this)">@holoen_gigimurin</span>
+<div class="partner-option" data-handle="ourokronii" onclick="togglePartnerOption(this)">
+<span class="po-name">Ouro Kronii</span>
+<span class="po-handle">@ourokronii</span>
+</div>
 
-<span class="partner-tag" data-handle="holoen_raorapanthera" onclick="togglePartner(this)">@holoen_raorapanthera</span>
+<div class="partner-option" data-handle="shiorinovella" onclick="togglePartnerOption(this)">
+<span class="po-name">Shiori Novella</span>
+<span class="po-handle">@shiorinovella</span>
+</div>
 
-<span class="partner-tag" data-handle="hololive" onclick="togglePartner(this)">@hololive</span>
+<div class="partner-option" data-handle="takanashikiara" onclick="togglePartnerOption(this)">
+<span class="po-name">Takanashi Kiara</span>
+<span class="po-handle">@takanashikiara</span>
+</div>
 
-<span class="partner-tag" data-handle="hoshimachisuisei" onclick="togglePartner(this)">@hoshimachisuisei</span>
+<div class="partner-option" data-handle="watsonamelia" onclick="togglePartnerOption(this)">
+<span class="po-name">Watson Amelia</span>
+<span class="po-handle">@watsonamelia</span>
+</div>
 
-<span class="partner-tag" data-handle="houshoumarine" onclick="togglePartner(this)">@houshoumarine</span>
+</div>
+</div>
 
-<span class="partner-tag" data-handle="irys" onclick="togglePartner(this)">@irys</span>
+<div class="partner-group">
+<div class="partner-group-header" onclick="toggleGroup(this)">
+<span class="pgg-arrow">▶</span>
+<span class="pgg-label">ID</span>
+<span class="pgg-count">9</span>
+</div>
+<div class="partner-group-body">
 
-<span class="partner-tag" data-handle="isakiriona" onclick="togglePartner(this)">@isakiriona</span>
+<div class="partner-option" data-handle="airaniiofifteen" onclick="togglePartnerOption(this)">
+<span class="po-name">Airani Iofifteen</span>
+<span class="po-handle">@airaniiofifteen</span>
+</div>
 
-<span class="partner-tag" data-handle="kaelakovalskia" onclick="togglePartner(this)">@kaelakovalskia</span>
+<div class="partner-option" data-handle="aniamelfissa" onclick="togglePartnerOption(this)">
+<span class="po-name">Anya Melfissa</span>
+<span class="po-handle">@aniamelfissa</span>
+</div>
 
-<span class="partner-tag" data-handle="kazamairoha" onclick="togglePartner(this)">@kazamairoha</span>
+<div class="partner-option" data-handle="ayunda_risu" onclick="togglePartnerOption(this)">
+<span class="po-name">Ayunda Risu</span>
+<span class="po-handle">@ayunda_risu</span>
+</div>
 
-<span class="partner-tag" data-handle="kikirara_vivi" onclick="togglePartner(this)">@kikirara_vivi</span>
+<div class="partner-option" data-handle="kaelakovalskia" onclick="togglePartnerOption(this)">
+<span class="po-name">Kaela Kovalskia</span>
+<span class="po-handle">@kaelakovalskia</span>
+</div>
 
-<span class="partner-tag" data-handle="kobokanaeru" onclick="togglePartner(this)">@kobokanaeru</span>
+<div class="partner-option" data-handle="kobokanaeru" onclick="togglePartnerOption(this)">
+<span class="po-name">Kobo Kanaeru</span>
+<span class="po-handle">@kobokanaeru</span>
+</div>
 
-<span class="partner-tag" data-handle="koganei_niko" onclick="togglePartner(this)">@koganei_niko</span>
+<div class="partner-option" data-handle="kureijiollie" onclick="togglePartnerOption(this)">
+<span class="po-name">Kureiji Ollie</span>
+<span class="po-handle">@kureijiollie</span>
+</div>
 
-<span class="partner-tag" data-handle="kureijiollie" onclick="togglePartner(this)">@kureijiollie</span>
+<div class="partner-option" data-handle="moona_hoshinova" onclick="togglePartnerOption(this)">
+<span class="po-name">Moona Hoshinova</span>
+<span class="po-handle">@moona_hoshinova</span>
+</div>
 
-<span class="partner-tag" data-handle="mizumiya_su" onclick="togglePartner(this)">@mizumiya_su</span>
+<div class="partner-option" data-handle="pavoliareine" onclick="togglePartnerOption(this)">
+<span class="po-name">Pavolia Reine</span>
+<span class="po-handle">@pavoliareine</span>
+</div>
 
-<span class="partner-tag" data-handle="mococo_abyssgard" onclick="togglePartner(this)">@mococo_abyssgard</span>
+<div class="partner-option" data-handle="vestia_zeta" onclick="togglePartnerOption(this)">
+<span class="po-name">Vestia Zeta</span>
+<span class="po-handle">@vestia_zeta</span>
+</div>
 
-<span class="partner-tag" data-handle="momosuzunene" onclick="togglePartner(this)">@momosuzunene</span>
+</div>
+</div>
 
-<span class="partner-tag" data-handle="moona_hoshinova" onclick="togglePartner(this)">@moona_hoshinova</span>
+<div class="partner-group">
+<div class="partner-group-header" onclick="toggleGroup(this)">
+<span class="pgg-arrow">▶</span>
+<span class="pgg-label">JP</span>
+<span class="pgg-count">24</span>
+</div>
+<div class="partner-group-body">
 
-<span class="partner-tag" data-handle="moricalliope" onclick="togglePartner(this)">@moricalliope</span>
+<div class="partner-option" data-handle="akaihaato" onclick="togglePartnerOption(this)">
+<span class="po-name">Akai Haato</span>
+<span class="po-handle">@akaihaato</span>
+</div>
 
-<span class="partner-tag" data-handle="nanashimumei" onclick="togglePartner(this)">@nanashimumei</span>
+<div class="partner-option" data-handle="akirose" onclick="togglePartnerOption(this)">
+<span class="po-name">Aki Rosenthal</span>
+<span class="po-handle">@akirose</span>
+</div>
 
-<span class="partner-tag" data-handle="nekomataokayu" onclick="togglePartner(this)">@nekomataokayu</span>
+<div class="partner-option" data-handle="amanekanata" onclick="togglePartnerOption(this)">
+<span class="po-name">Amane Kanata</span>
+<span class="po-handle">@amanekanata</span>
+</div>
 
-<span class="partner-tag" data-handle="nerissaravencroft" onclick="togglePartner(this)">@nerissaravencroft</span>
+<div class="partner-option" data-handle="azki" onclick="togglePartnerOption(this)">
+<span class="po-name">AZKi AZKi</span>
+<span class="po-handle">@azki</span>
+</div>
 
-<span class="partner-tag" data-handle="ninomaeinanis" onclick="togglePartner(this)">@ninomaeinanis</span>
+<div class="partner-option" data-handle="hakuikoyori" onclick="togglePartnerOption(this)">
+<span class="po-name">Hakui Koyori</span>
+<span class="po-handle">@hakuikoyori</span>
+</div>
 
-<span class="partner-tag" data-handle="omarupolka" onclick="togglePartner(this)">@omarupolka</span>
+<div class="partner-option" data-handle="hoshimachisuisei" onclick="togglePartnerOption(this)">
+<span class="po-name">Hoshimachi Suisei</span>
+<span class="po-handle">@hoshimachisuisei</span>
+</div>
 
-<span class="partner-tag" data-handle="oozora_subaru" onclick="togglePartner(this)">@oozora_subaru</span>
+<div class="partner-option" data-handle="houshoumarine" onclick="togglePartnerOption(this)">
+<span class="po-name">Houshou Marine</span>
+<span class="po-handle">@houshoumarine</span>
+</div>
 
-<span class="partner-tag" data-handle="ourokronii" onclick="togglePartner(this)">@ourokronii</span>
+<div class="partner-option" data-handle="kazamairoha" onclick="togglePartnerOption(this)">
+<span class="po-name">Kazama Iroha</span>
+<span class="po-handle">@kazamairoha</span>
+</div>
 
-<span class="partner-tag" data-handle="pavoliareine" onclick="togglePartner(this)">@pavoliareine</span>
+<div class="partner-option" data-handle="momosuzunene" onclick="togglePartnerOption(this)">
+<span class="po-name">Momosuzu Nene</span>
+<span class="po-handle">@momosuzunene</span>
+</div>
 
-<span class="partner-tag" data-handle="rindo_chihaya" onclick="togglePartner(this)">@rindo_chihaya</span>
+<div class="partner-option" data-handle="nekomataokayu" onclick="togglePartnerOption(this)">
+<span class="po-name">Nekomata Okayu</span>
+<span class="po-handle">@nekomataokayu</span>
+</div>
 
-<span class="partner-tag" data-handle="robocosan" onclick="togglePartner(this)">@robocosan</span>
+<div class="partner-option" data-handle="omarupolka" onclick="togglePartnerOption(this)">
+<span class="po-name">Omaru Polka</span>
+<span class="po-handle">@omarupolka</span>
+</div>
 
-<span class="partner-tag" data-handle="sakamatachloe" onclick="togglePartner(this)">@sakamatachloe</span>
+<div class="partner-option" data-handle="oozora_subaru" onclick="togglePartnerOption(this)">
+<span class="po-name">Oozora Subaru</span>
+<span class="po-handle">@oozora_subaru</span>
+</div>
 
-<span class="partner-tag" data-handle="sakuramiko" onclick="togglePartner(this)">@sakuramiko</span>
+<div class="partner-option" data-handle="robocosan" onclick="togglePartnerOption(this)">
+<span class="po-name">Robocosan</span>
+<span class="po-handle">@robocosan</span>
+</div>
 
-<span class="partner-tag" data-handle="shiorinovella" onclick="togglePartner(this)">@shiorinovella</span>
+<div class="partner-option" data-handle="sakamatachloe" onclick="togglePartnerOption(this)">
+<span class="po-name">Sakamata Chloe</span>
+<span class="po-handle">@sakamatachloe</span>
+</div>
 
-<span class="partner-tag" data-handle="shirakamifubuki" onclick="togglePartner(this)">@shirakamifubuki</span>
+<div class="partner-option" data-handle="sakuramiko" onclick="togglePartnerOption(this)">
+<span class="po-name">Sakura Miko</span>
+<span class="po-handle">@sakuramiko</span>
+</div>
 
-<span class="partner-tag" data-handle="shiroganenoel" onclick="togglePartner(this)">@shiroganenoel</span>
+<div class="partner-option" data-handle="shirakamifubuki" onclick="togglePartnerOption(this)">
+<span class="po-name">Shirakami Fubuki</span>
+<span class="po-handle">@shirakamifubuki</span>
+</div>
 
-<span class="partner-tag" data-handle="shishirobotan" onclick="togglePartner(this)">@shishirobotan</span>
+<div class="partner-option" data-handle="shiroganenoel" onclick="togglePartnerOption(this)">
+<span class="po-name">Shirogane Noel</span>
+<span class="po-handle">@shiroganenoel</span>
+</div>
 
-<span class="partner-tag" data-handle="takanashikiara" onclick="togglePartner(this)">@takanashikiara</span>
+<div class="partner-option" data-handle="shishirobotan" onclick="togglePartnerOption(this)">
+<span class="po-name">Shishiro Botan</span>
+<span class="po-handle">@shishirobotan</span>
+</div>
 
-<span class="partner-tag" data-handle="takanelui" onclick="togglePartner(this)">@takanelui</span>
+<div class="partner-option" data-handle="takanelui" onclick="togglePartnerOption(this)">
+<span class="po-name">Takane Lui</span>
+<span class="po-handle">@takanelui</span>
+</div>
 
-<span class="partner-tag" data-handle="tokinosora" onclick="togglePartner(this)">@tokinosora</span>
+<div class="partner-option" data-handle="tokinosora" onclick="togglePartnerOption(this)">
+<span class="po-name">Tokino Sora</span>
+<span class="po-handle">@tokinosora</span>
+</div>
 
-<span class="partner-tag" data-handle="tokoyamitowa" onclick="togglePartner(this)">@tokoyamitowa</span>
+<div class="partner-option" data-handle="tokoyamitowa" onclick="togglePartnerOption(this)">
+<span class="po-name">Tokoyami Towa</span>
+<span class="po-handle">@tokoyamitowa</span>
+</div>
 
-<span class="partner-tag" data-handle="tsunomakiwatame" onclick="togglePartner(this)">@tsunomakiwatame</span>
+<div class="partner-option" data-handle="tsunomakiwatame" onclick="togglePartnerOption(this)">
+<span class="po-name">Tsunomaki Watame</span>
+<span class="po-handle">@tsunomakiwatame</span>
+</div>
 
-<span class="partner-tag" data-handle="usadapekora" onclick="togglePartner(this)">@usadapekora</span>
+<div class="partner-option" data-handle="usadapekora" onclick="togglePartnerOption(this)">
+<span class="po-name">Usada Pekora</span>
+<span class="po-handle">@usadapekora</span>
+</div>
 
-<span class="partner-tag" data-handle="vestia_zeta" onclick="togglePartner(this)">@vestia_zeta</span>
+<div class="partner-option" data-handle="yukihanalamy" onclick="togglePartnerOption(this)">
+<span class="po-name">Yukihana Lamy</span>
+<span class="po-handle">@yukihanalamy</span>
+</div>
 
-<span class="partner-tag" data-handle="watsonamelia" onclick="togglePartner(this)">@watsonamelia</span>
+</div>
+</div>
 
-<span class="partner-tag" data-handle="yukihanalamy" onclick="togglePartner(this)">@yukihanalamy</span>
+<div class="partner-group">
+<div class="partner-group-header" onclick="toggleGroup(this)">
+<span class="pgg-arrow">▶</span>
+<span class="pgg-label">DEV_IS</span>
+<span class="pgg-count">6</span>
+</div>
+<div class="partner-group-body">
 
+<div class="partner-option" data-handle="hiodoshi_ao" onclick="togglePartnerOption(this)">
+<span class="po-name">Hiodoshi Ao</span>
+<span class="po-handle">@hiodoshi_ao</span>
+</div>
+
+<div class="partner-option" data-handle="isakiriona" onclick="togglePartnerOption(this)">
+<span class="po-name">Isaki Riona</span>
+<span class="po-handle">@isakiriona</span>
+</div>
+
+<div class="partner-option" data-handle="kikirara_vivi" onclick="togglePartnerOption(this)">
+<span class="po-name">Kikirara Vivi</span>
+<span class="po-handle">@kikirara_vivi</span>
+</div>
+
+<div class="partner-option" data-handle="koganei_niko" onclick="togglePartnerOption(this)">
+<span class="po-name">Koganei Niko</span>
+<span class="po-handle">@koganei_niko</span>
+</div>
+
+<div class="partner-option" data-handle="mizumiya_su" onclick="togglePartnerOption(this)">
+<span class="po-name">Mizumiya Su</span>
+<span class="po-handle">@mizumiya_su</span>
+</div>
+
+<div class="partner-option" data-handle="rindo_chihaya" onclick="togglePartnerOption(this)">
+<span class="po-name">Rindo Chihaya</span>
+<span class="po-handle">@rindo_chihaya</span>
+</div>
+
+</div>
+</div>
+
+<div class="partner-group">
+<div class="partner-group-header" onclick="toggleGroup(this)">
+<span class="pgg-arrow">▶</span>
+<span class="pgg-label">Other</span>
+<span class="pgg-count">1</span>
+</div>
+<div class="partner-group-body">
+
+<div class="partner-option" data-handle="hololive" onclick="togglePartnerOption(this)">
+<span class="po-name">ホロライブ公式</span>
+<span class="po-handle">@hololive</span>
+</div>
+
+</div>
+</div>
+
+</div>
 </div>
 </div>
 </div>
@@ -50900,17 +51216,19 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </main>
 <script>
+let selectedPartners = [];
+
 const saved = localStorage.getItem('hcat-theme');
 if (saved === 'dark') document.body.classList.add('dark');
 function toggleTheme() {
   document.body.classList.toggle('dark');
   localStorage.setItem('hcat-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
 }
+
 function filterTimeline() {
   const kw = document.getElementById('keywordFilter').value.toLowerCase();
   const dateFrom = document.getElementById('dateFrom').value;
   const dateTo = document.getElementById('dateTo').value;
-  const selected = Array.from(document.querySelectorAll('.partner-tag.selected')).map(el => el.dataset.handle);
 
   let visible = 0, total = 0;
   document.querySelectorAll('.tl-item').forEach(el => {
@@ -50921,7 +51239,7 @@ function filterTimeline() {
 
     const matchKw = !kw || title.includes(kw);
     const matchDate = (!dateFrom || d >= dateFrom.replace(/-/g, '')) && (!dateTo || d <= dateTo.replace(/-/g, ''));
-    const matchPartner = selected.length === 0 || selected.some(s => p.includes(s));
+    const matchPartner = selectedPartners.length === 0 || selectedPartners.some(s => p.includes(s));
 
     const show = matchKw && matchDate && matchPartner;
     el.style.display = show ? '' : 'none';
@@ -50936,8 +51254,70 @@ function filterTimeline() {
   }
 }
 
-function togglePartner(el) {
-  el.classList.toggle('selected');
+function togglePartnerDropdown() {
+  document.getElementById('partnerDropdown').classList.toggle('open');
+}
+
+function toggleGroup(header) {
+  const body = header.nextElementSibling;
+  const arrow = header.querySelector('.pgg-arrow');
+  const isOpen = body.classList.toggle('open');
+  arrow.textContent = isOpen ? '▼' : '▶';
+}
+
+function togglePartnerOption(el) {
+  const handle = el.dataset.handle;
+  const idx = selectedPartners.indexOf(handle);
+  if (idx >= 0) {
+    selectedPartners.splice(idx, 1);
+    el.classList.remove('selected');
+  } else {
+    selectedPartners.push(handle);
+    el.classList.add('selected');
+  }
+  updateSelectedDisplay();
+  filterTimeline();
+}
+
+function updateSelectedDisplay() {
+  const container = document.getElementById('selectedTags');
+  const placeholder = document.getElementById('selectedPlaceholder');
+  container.innerHTML = '';
+  if (selectedPartners.length === 0) {
+    placeholder.style.display = '';
+    return;
+  }
+  placeholder.style.display = 'none';
+  selectedPartners.forEach(h => {
+    const tag = document.createElement('span');
+    tag.className = 'selected-tag';
+    tag.innerHTML = '@' + h + ' <span class="selected-tag-remove" data-handle="' + h + '">&times;</span>';
+    container.appendChild(tag);
+  });
+  container.querySelectorAll('.selected-tag-remove').forEach(btn => {
+    btn.onclick = function(e) {
+      e.stopPropagation();
+      removePartner(this.dataset.handle);
+    };
+  });
+}
+
+function removePartner(handle) {
+  const idx = selectedPartners.indexOf(handle);
+  if (idx >= 0) {
+    selectedPartners.splice(idx, 1);
+    document.querySelectorAll('.partner-option.selected[data-handle="' + handle + '"]').forEach(el => el.classList.remove('selected'));
+    updateSelectedDisplay();
+    filterTimeline();
+  }
+}
+
+function selectPartnerOnly(handle) {
+  selectedPartners = [handle];
+  document.querySelectorAll('.partner-option').forEach(el => {
+    el.classList.toggle('selected', el.dataset.handle === handle);
+  });
+  updateSelectedDisplay();
   filterTimeline();
 }
 
@@ -50945,9 +51325,21 @@ function resetFilters() {
   document.getElementById('keywordFilter').value = '';
   document.getElementById('dateFrom').value = '';
   document.getElementById('dateTo').value = '';
-  document.querySelectorAll('.partner-tag.selected').forEach(el => el.classList.remove('selected'));
+  selectedPartners = [];
+  document.querySelectorAll('.partner-option.selected').forEach(el => el.classList.remove('selected'));
+  updateSelectedDisplay();
   filterTimeline();
 }
+
+document.addEventListener('click', function(e) {
+  const widget = document.getElementById('partnerSelect');
+  if (widget && !widget.contains(e.target)) {
+    const dd = document.getElementById('partnerDropdown');
+    if (dd) dd.classList.remove('open');
+    document.querySelectorAll('.partner-group-body.open').forEach(el => el.classList.remove('open'));
+    document.querySelectorAll('.pgg-arrow').forEach(el => el.textContent = '▶');
+  }
+});
 </script>
 </body>
 </html>
