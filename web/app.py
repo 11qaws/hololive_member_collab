@@ -46,7 +46,7 @@ async def member_detail(handle: str):
         return HTMLResponse("Member not found", status_code=404)
     timeline = load_timeline_entries(handle)
     streams = len([e for e in timeline if e.entry_type == "stream"])
-    collabs = len([e for e in timeline if e.entry_type == "collab"])
+    collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
     partner_handles = extract_partner_handles(timeline)
     top_partners = top_collab_partners(timeline)
     return render("member.html",

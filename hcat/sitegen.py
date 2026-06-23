@@ -62,7 +62,7 @@ def build_site():
     for m in members:
         timeline = load_timeline_entries(m.handle)
         streams = len([e for e in timeline if e.entry_type == "stream"])
-        collabs = len([e for e in timeline if e.entry_type == "collab"])
+        collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
         partner_handles = extract_partner_handles(timeline)
         top_partners = top_collab_partners(timeline)
         html = _fix_links_member(
