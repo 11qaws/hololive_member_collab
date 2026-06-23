@@ -183,3 +183,36 @@ python cli.py build-site                 # 정적 사이트 생성
 - `otonosekanade`, `ichijouririka`, `juufuuteiraden`, `todorokihajime`, `izuki_michiru`, `hanazono_sayaka`, `kazeshiro_yuki`: channel_id 없음 (DEV_IS 일부)
 - `harusaki_nodoka`: 자체 채널 없음 (holoAN 채널에서 활동), 2025년 9월 퇴사
 - `friend_a`: 자체 채널 없음, 2024년 은퇴
+
+## Session 2 — 2026-06-23: Phase 2-5 구현 + 배포
+
+### Phase 2: 콜라보 네트워크 그래프
+- `hcat/network.py`: `build_graph_data()` — 모든 멤버의 collab 출연 기반으로 노드(73개) + 엣지(1011개) 계산
+- `web/templates/graph.html`: D3.js force-directed graph
+  - 노드 크기 = collab count (sqrt scale), 색상 = branch별
+  - 드래그/줌 가능, 툴팁, 클릭 시 멤버 페이지 이동
+- base.html + sitegen.py + app.py 업데이트
+
+### Phase 3: 멤버 비교 뷰
+- `web/templates/compare.html`: branch별 그룹화된 멀티셀렉트 드롭다운
+  - 선택한 멤버의 stats 카드 (streams/collabs/partners/topPartners)
+  - Chart.js 라인 차트로 월별 활동 추이 비교
+- `data/member_stats.json` 생성 (84명 전체 통계)
+
+### Phase 4: 크로스 멤버 검색
+- `web/templates/search.html`: 전체 타임라인 검색 페이지
+  - 외부 `data/search_index.json` (7.2MB, 33,561 entries, 84 members) fetch 후 클라이언트 검색
+  - 제목/핸들/파트너/이름 전체 검색 + highlight
+  - Stream → YouTube 링크, Collab → 멤버 페이지 링크
+- `_replace_placeholders`: `__ROOT__/` → prefix 일반화
+
+### Phase 5: 활동 통계 대시보드
+- `web/templates/dashboard.html`: Chart.js 기반
+  - 요약 카드 (Members/Streams/Collabs/Total Entries)
+  - 월별 활동 라인 차트
+  - Branch별 도넛 차트
+  - Top 10 streams/collabs/partners 리스트
+
+### 배포
+- 모든 변경사항 GitHub Pages에 배포 완료
+- `https://11qaws.github.io/hololive_member_collab/`
