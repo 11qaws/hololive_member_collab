@@ -75,12 +75,15 @@ select { font-size: .9rem; }
 <div id="timeline-chart"><p style="color:var(--text-2);text-align:center;padding:2rem">Select 2+ members to view comparison</p></div>
 {% endblock %}
 {% block scripts %}
+<script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
 <script id="stats-data" type="application/json">{{ stats_json|safe }}</script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script>
 (function() {
-  var stats;
+  var stats, nicknames = {};
+  try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
   try { stats = JSON.parse(document.getElementById('stats-data').textContent); } catch(e) { return; }
+  function getNickname(h) { return nicknames[h] || h; }
   if (!stats || stats.length === 0) return;
 
   var select = document.getElementById('member-select');
@@ -95,7 +98,7 @@ select { font-size: .9rem; }
     if (!groups[s.branch]) groups[s.branch] = [];
     groups[s.branch].push(s);
   });
-  var branchOrder = ['EN','JP','ID','DEV_IS','holoAN','Official','Holostars','Other'];
+  var branchOrder = ['EN','JP','ID','DEV_IS','holoAN','Official','Other'];
   branchOrder.forEach(function(br) {
     if (!groups[br]) return;
     var optgroup = document.createElement('optgroup');
@@ -103,7 +106,7 @@ select { font-size: .9rem; }
     groups[br].forEach(function(s) {
       var opt = document.createElement('option');
       opt.value = s.handle;
-      opt.textContent = s.handle;
+      opt.textContent = getNickname(s.handle);
       optgroup.appendChild(opt);
     });
     select.appendChild(optgroup);
@@ -139,7 +142,7 @@ select { font-size: .9rem; }
         '<div class="stat-row"><span class="stat-label">Total Entries</span><span class="stat-value">' + (s.streams + s.collabs) + '</span></div>' +
         (s.topPartners && s.topPartners.length ? 
           '<div class="top-partners"><h4>Top Partners</h4>' +
-          s.topPartners.map(function(p) { return '<span class="partner-pill" onclick="location.href=\'members/' + p.handle + '.html\'">' + p.handle + ' (' + p.count + ')</span>'; }).join('') +
+          s.topPartners.map(function(p) { return '<span class="partner-pill" onclick="location.href=\'members/' + p.handle + '.html\'">' + getNickname(p.handle) + ' (' + p.count + ')</span>'; }).join('') +
           '</div>' : '');
       grid.appendChild(card);
     });

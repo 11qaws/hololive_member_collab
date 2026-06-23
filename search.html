@@ -117,15 +117,20 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
 </main>
 <script src="static/theme.js"></script>
 
+<script id="nicknames" type="application/json">{"tokinosora": "Sora", "robocosan": "Roboco", "akirose": "Akirose", "akaihaato": "Haato", "shirakamifubuki": "Fubuki", "natsuiromatsuri": "Matsuri", "nakiri_ayame": "Ayame", "yuzuki_choco": "Choco", "oozora_subaru": "Subaru", "azki": "AZKi", "ookamimio": "Mio", "sakuramiko": "Miko", "nekomataokayu": "Okayu", "inugamikorone": "Korone", "hoshimachisuisei": "Suisei", "usadapekora": "Pekora", "shiranuiflare": "Flare", "shiroganenoel": "Noel", "houshoumarine": "Marine", "tsunomakiwatame": "Watame", "tokoyamitowa": "Towa", "himemoriluna": "Luna", "yukihanalamy": "Lamy", "momosuzunene": "Nene", "shishirobotan": "Botan", "omarupolka": "Polka", "ladarknesss": "La+", "takanelui": "Lui", "hakuikoyori": "Koyori", "kazamairoha": "Iroha", "sakamatachloe": "Chloe", "ayunda_risu": "Risu", "moona_hoshinova": "Moona", "airaniiofifteen": "Iofi", "kureijiollie": "Ollie", "aniamelfissa": "Anya", "pavoliareine": "Reine", "vestia_zeta": "Zeta", "kaelakovalskia": "Kaela", "kobokanaeru": "Kobo", "moricalliope": "Calli", "takanashikiara": "Kiara", "ninomaeinanis": "Ina", "watsonamelia": "Amelia", "irys": "IRyS", "ourokronii": "Kronii", "hakosbaelz": "Baelz", "shiorinovella": "Shiori", "kosekibijou": "Bijou", "nerissaravencroft": "Nerissa", "fuwawa_abyssgard": "Fuwawa", "mococo_abyssgard": "Mococo", "holoen_erbloodflame": "ERB", "holoen_gigimurin": "Gigi", "holoen_ceciliaimmergreen": "Cecilia", "holoen_raorapanthera": "Raora", "otonosekanade": "Kanade", "ichijouririka": "Ririka", "juufuuteiraden": "Raden", "todorokihajime": "Hajime", "isakiriona": "Riona", "koganei_niko": "Niko", "mizumiya_su": "Su", "rindo_chihaya": "Chihaya", "kikirara_vivi": "Vivi", "izuki_michiru": "Michiru", "hanazono_sayaka": "Sayaka", "kazeshiro_yuki": "Yuki", "minatoaqua": "Aqua", "murasakishion": "Shion", "amanekanata": "Kanata", "kiryucoco": "Coco", "gawrgura": "Gura", "tsukumosana": "Sana", "ceresfauna": "Fauna", "nanashimumei": "Mumei", "hiodoshi_ao": "Ao", "harusaki_nodoka": "Nodoka", "friend_a": "(A-chan)", "hololive": "ホロライブ公式", "hololiveenglish": "English", "hololiveindonesia": "Indonesia", "hololivedev_is": "ReGLOSS", "dev_is_flowglow": "GLOW"}</script>
 <script>
 (function() {
   var index = null;
   var loading = false;
+  var nicknames = {};
+  try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
 
   var input = document.getElementById('search-input');
   var list = document.getElementById('results');
   var status = document.getElementById('search-status');
   var countSpan = document.getElementById('result-count');
+
+  function getNickname(h) { return nicknames[h] || h; }
 
   function loadIndex() {
     if (index || loading) return;
@@ -184,14 +189,15 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
     list.innerHTML = results.map(function(e) {
       var type = e.ty === 'stream' ? 'stream' : 'collab';
       var iconText = type === 'stream' ? 'S' : 'C';
-      var partnerStr = e.p ? 'with ' + e.p : '';
+      var partners = (e.p || '').split(', ').filter(Boolean).map(function(h) { return getNickname(h.trim()); });
+      var partnerStr = partners.length > 0 ? 'with ' + partners.join(', ') : '';
       return '<a href="' + (type === 'stream' ? 'https://youtube.com/watch?v=' + e.v : 'members/' + e.h + '.html') + '" class="result-item" target="_blank" rel="noopener">' +
         '<div class="result-icon ' + type + '">' + iconText + '</div>' +
         '<div class="result-body">' +
           '<div class="result-title">' + highlight(e.t, query) + '</div>' +
           '<div class="result-meta">' +
             '<span>' + (e.d ? e.d.slice(0, 10) : '') + '</span>' +
-            '<a class="member-link" href="members/' + e.h + '.html">@' + highlight(e.h, query) + '</a>' +
+            '<span class="member-link">' + highlight(getNickname(e.h), query) + '</span>' +
             (partnerStr ? '<span class="partner-list">' + highlight(partnerStr, query) + '</span>' : '') +
           '</div>' +
         '</div>' +

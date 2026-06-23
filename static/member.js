@@ -8,6 +8,7 @@
   var BATCH_SIZE = 50;
   var selectedPartners = [];
   var memberPhotos = {};
+  var nicknames = {};
   var filterTimer = null;
 
   var container = document.getElementById('timeline-container');
@@ -15,17 +16,8 @@
   var filterInfo = document.getElementById('filterInfo');
 
   /* ── Utility ── */
-  function fuwamocoDisplay(handle, title) {
-    var base = (handle || '').toLowerCase().replace('_abyssgard', '');
-    if (['fuwawa','mococo','fuwamococh'].indexOf(base) === -1) return handle;
-    var tu = (title || '').toUpperCase();
-    if (tu.indexOf('POV') !== -1 || tu.indexOf('SOLO') !== -1) {
-      if (tu.indexOf('\u3010FUWAWA POV\u3011') !== -1 || tu.indexOf('\u3010FUWAWA SOLO\u3011') !== -1) return 'FUWAmoco';
-      if (tu.indexOf('\u3010MOCOCO POV\u3011') !== -1 || tu.indexOf('\u3010MOCOCO SOLO\u3011') !== -1) return 'fuwaMOCO';
-      if (handle === 'fuwawa_abyssgard') return 'FUWAmoco';
-      if (handle === 'mococo_abyssgard') return 'fuwaMOCO';
-    }
-    return 'FUWAMOCOch';
+  function getNickname(handle) {
+    return nicknames[handle] || handle;
   }
 
   function fmtDate(d) {
@@ -89,7 +81,7 @@
       '<div class="tl-meta"><span class="tl-badge tl-badge-collab">COLLAB</span> ' + fmtDate(e.published_at);
 
     if (!isGroup && partnerHandle) {
-      html += ' \u00b7 by @' + fuwamocoDisplay(partnerHandle, ttl);
+      html += ' \u00b7 ' + getNickname(partnerHandle);
     }
     html += '</div>';
 
@@ -97,7 +89,7 @@
       var subCount = e.sub_entries.length;
       html += '<div class="tl-partners"><span class="partner">' + subCount + ' videos</span>';
       for (var i = 0; i < Math.min(3, subCount); i++) {
-        html += ' <span class="partner">@' + fuwamocoDisplay(e.sub_entries[i].partner_handle, e.sub_entries[i].title) + '</span>';
+        html += ' <span class="partner">' + getNickname(e.sub_entries[i].partner_handle) + '</span>';
       }
       if (subCount > 3) html += ' <span class="partner">+' + (subCount - 3) + ' more</span>';
       html += '<span class="tl-arrow">\u25b6</span></div>';
@@ -112,7 +104,7 @@
         html += '<a class="tl-sub" href="' + escapeHtml(se.url) + '" target="_blank">' +
           subAvatar(se.partner_handle) +
           '<div class="tl-sub-title">' + escapeHtml(se.title) + '</div>' +
-          '<span class="tl-sub-meta">@' + fuwamocoDisplay(se.partner_handle, se.title) + '</span></a>';
+          '<span class="tl-sub-meta">' + getNickname(se.partner_handle) + '</span></a>';
       });
       html += '</div>';
     }
@@ -152,7 +144,7 @@
 
     if (!isGroup) {
       var ph = e.partner_handle || (e.sub_entries && e.sub_entries[0] ? e.sub_entries[0].partner_handle : '');
-      if (ph) html += ' \u00b7 by @' + fuwamocoDisplay(ph, e.title);
+      if (ph) html += ' \u00b7 ' + getNickname(ph);
     }
     html += '</div>';
 
@@ -170,7 +162,7 @@
         html += '<a class="tl-sub" href="' + escapeHtml(se.url) + '" target="_blank">' +
           subAvatar(se.partner_handle) +
           '<div class="tl-sub-title">' + escapeHtml(se.title) + '</div>' +
-          '<span class="tl-sub-meta">@' + fuwamocoDisplay(se.partner_handle, se.title) + '</span></a>';
+          '<span class="tl-sub-meta">' + getNickname(se.partner_handle) + '</span></a>';
       });
       html += '</div>';
     }
@@ -398,6 +390,11 @@
       try { memberPhotos = JSON.parse(photosScript.textContent); } catch(e) {}
     }
 
+    var nickScript = document.getElementById('nicknames');
+    if (nickScript) {
+      try { nicknames = JSON.parse(nickScript.textContent); } catch(e) {}
+    }
+
     var groupsScript = document.getElementById('partner-groups');
     if (groupsScript) {
       try {
@@ -451,7 +448,7 @@
     selectedPartners.forEach(function(h) {
       var tag = document.createElement('span');
       tag.className = 'selected-tag';
-      tag.innerHTML = '@' + h + ' <span class="selected-tag-remove" data-handle="' + h + '">&times;</span>';
+      tag.innerHTML = getNickname(h) + ' <span class="selected-tag-remove" data-handle="' + h + '">&times;</span>';
       container.appendChild(tag);
     });
     container.querySelectorAll('.selected-tag-remove').forEach(function(btn) {

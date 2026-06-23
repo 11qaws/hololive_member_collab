@@ -67,12 +67,15 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 </div>
 {% endblock %}
 {% block scripts %}
+<script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
 <script id="graph-data" type="application/json">{{ graph_json|safe }}</script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
 (function() {
-  var data;
+  var data, nicknames = {};
+  try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
   try { data = JSON.parse(document.getElementById('graph-data').textContent); } catch(e) { return; }
+  function getNickname(h) { return nicknames[h] || h; }
   if (!data || !data.nodes || data.nodes.length === 0) return;
 
   var svg = d3.select('#graph-svg');
@@ -119,7 +122,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     .attr('stroke-width', 2)
     .attr('cursor', 'pointer')
     .on('mouseover', function(ev, d) {
-      tooltip.html('<strong>' + d.id + '</strong><br>' + d.collabCount + ' collabs<br>' + d.group)
+      tooltip.html('<strong>' + d.id + '</strong> (' + getNickname(d.id) + ')<br>' + d.collabCount + ' collabs<br>' + d.group)
         .classed('visible', true);
     })
     .on('mousemove', function(ev) {
@@ -150,7 +153,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     .selectAll('text')
     .data(nodeData)
     .enter().append('text')
-    .text(function(d) { return d.id; })
+    .text(function(d) { return getNickname(d.id); })
     .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.5); })
     .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
     .attr('dy', 4)
@@ -209,7 +212,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     .attr('stroke', 'var(--surface)').attr('stroke-width', 2)
     .attr('cursor', 'pointer')
     .on('mouseover', function(ev, d) {
-      tooltip.html('<strong>' + d.id + '</strong><br>' + d.collabCount + ' collabs<br>' + d.group)
+      tooltip.html('<strong>' + d.id + '</strong> (' + getNickname(d.id) + ')<br>' + d.collabCount + ' collabs<br>' + d.group)
         .classed('visible', true);
     })
     .on('mousemove', function(ev) {
@@ -232,7 +235,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     );
 
   var labels2 = mainGroup.selectAll('text').data(nodeData).enter().append('text')
-    .text(function(d) { return d.id; })
+    .text(function(d) { return getNickname(d.id); })
     .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.5); })
     .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
     .attr('dy', 4)

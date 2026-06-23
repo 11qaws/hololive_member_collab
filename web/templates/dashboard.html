@@ -93,12 +93,15 @@ h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
 </div>
 {% endblock %}
 {% block scripts %}
+<script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
 <script id="stats-data" type="application/json">{{ stats_json|safe }}</script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script>
 (function() {
-  var stats;
+  var stats, nicknames = {};
+  try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
   try { stats = JSON.parse(document.getElementById('stats-data').textContent); } catch(e) { return; }
+  function getNickname(h) { return nicknames[h] || h; }
   if (!stats || stats.length === 0) return;
 
   // Aggregate
@@ -180,13 +183,13 @@ h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
   // Top streams
   var topStreams = stats.slice().sort(function(a, b) { return b.streams - a.streams; }).slice(0, 10);
   document.getElementById('top-streams').innerHTML = topStreams.map(function(s) {
-    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + s.handle + '</span><span class="val">' + s.streams.toLocaleString() + '</span></div>';
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + getNickname(s.handle) + '</span><span class="val">' + s.streams.toLocaleString() + '</span></div>';
   }).join('');
 
   // Top collabs
   var topCollabs = stats.slice().sort(function(a, b) { return b.collabs - a.collabs; }).slice(0, 10);
   document.getElementById('top-collabs').innerHTML = topCollabs.map(function(s) {
-    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + s.handle + '</span><span class="val">' + s.collabs.toLocaleString() + '</span></div>';
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + s.handle + '.html\'">' + getNickname(s.handle) + '</span><span class="val">' + s.collabs.toLocaleString() + '</span></div>';
   }).join('');
 
   // Top global partners (reuse network edges data — fetch from graph page data)
@@ -201,7 +204,7 @@ h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
   Object.keys(partnerAgg).forEach(function(k) { partnerAgg[k] = Math.round(partnerAgg[k] / 2); });
   var topPartners = Object.entries(partnerAgg).sort(function(a, b) { return b[1] - a[1]; }).slice(0, 10);
   document.getElementById('top-partners').innerHTML = topPartners.map(function(p) {
-    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + p[0] + '.html\'">' + p[0] + '</span><span class="val">' + p[1] + '</span></div>';
+    return '<div class="top-list-item"><span class="name" onclick="location.href=\'members/' + p[0] + '.html\'">' + getNickname(p[0]) + '</span><span class="val">' + p[1] + '</span></div>';
   }).join('');
 })();
 </script>

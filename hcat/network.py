@@ -5,7 +5,7 @@ from .models import Branch
 
 
 def build_graph_data():
-    members = load_members()
+    members = [m for m in load_members() if m.branch != Branch.HOLOSTARS]
     handle_map = {m.handle: m for m in members}
     handle_branch = {m.handle: m.branch.value for m in members}
 

@@ -503,11 +503,11 @@ main { max-width: 900px; }
 <div class="top-partners">
 <div class="top-partners-title">Top Collab Partners</div>
 <div class="top-partners-list" id="top-partners-list">
-{% for handle, count in top_partners %}
+{% for handle, count in top_partners_orig %}
 <div class="top-partner-item" onclick="selectPartnerOnly('{{ handle }}')">
-<span class="top-partner-name">@{{ handle }}</span>
+<span class="top-partner-name">{{ get_nickname(handle, "") }}</span>
 <span class="top-partner-count">{{ count }}</span>
-<div class="top-partner-bar" style="width:{{ (count / top_partners[0][1] * 100)|int }}%"></div>
+<div class="top-partner-bar" style="width:{{ (count / top_partners_orig[0][1] * 100)|int }}%"></div>
 </div>
 {% endfor %}
 </div>
@@ -556,6 +556,7 @@ main { max-width: 900px; }
 <meta name="member-handle" content="{{ member.handle }}">
 <script id="timeline-data" type="application/json">{{ timeline_json|safe }}</script>
 <script id="partner-groups" type="application/json">{{ partner_groups_json|safe }}</script>
+<script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
 <script id="member-photos" type="application/json">{{ member_photos_json|safe }}</script>
 <script src="__STATIC__/member.js"></script>
 {% endblock %}

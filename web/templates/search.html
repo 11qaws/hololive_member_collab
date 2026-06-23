@@ -90,15 +90,20 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
 <div id="search-status">Loading index…</div>
 {% endblock %}
 {% block scripts %}
+<script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
 <script>
 (function() {
   var index = null;
   var loading = false;
+  var nicknames = {};
+  try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
 
   var input = document.getElementById('search-input');
   var list = document.getElementById('results');
   var status = document.getElementById('search-status');
   var countSpan = document.getElementById('result-count');
+
+  function getNickname(h) { return nicknames[h] || h; }
 
   function loadIndex() {
     if (index || loading) return;
@@ -157,14 +162,15 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
     list.innerHTML = results.map(function(e) {
       var type = e.ty === 'stream' ? 'stream' : 'collab';
       var iconText = type === 'stream' ? 'S' : 'C';
-      var partnerStr = e.p ? 'with ' + e.p : '';
+      var partners = (e.p || '').split(', ').filter(Boolean).map(function(h) { return getNickname(h.trim()); });
+      var partnerStr = partners.length > 0 ? 'with ' + partners.join(', ') : '';
       return '<a href="' + (type === 'stream' ? 'https://youtube.com/watch?v=' + e.v : 'members/' + e.h + '.html') + '" class="result-item" target="_blank" rel="noopener">' +
         '<div class="result-icon ' + type + '">' + iconText + '</div>' +
         '<div class="result-body">' +
           '<div class="result-title">' + highlight(e.t, query) + '</div>' +
           '<div class="result-meta">' +
             '<span>' + (e.d ? e.d.slice(0, 10) : '') + '</span>' +
-            '<a class="member-link" href="members/' + e.h + '.html">@' + highlight(e.h, query) + '</a>' +
+            '<span class="member-link">' + highlight(getNickname(e.h), query) + '</span>' +
             (partnerStr ? '<span class="partner-list">' + highlight(partnerStr, query) + '</span>' : '') +
           '</div>' +
         '</div>' +

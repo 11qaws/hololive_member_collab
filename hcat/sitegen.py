@@ -12,6 +12,7 @@ from collections import defaultdict
 from datetime import datetime
 from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
 from .network import build_graph_data
+from .names import get_nickname, build_nicknames_map
 
 
 def _replace_placeholders(html: str, prefix: str) -> str:
@@ -74,17 +75,20 @@ def build_site():
             shutil.rmtree(static_dir)
         shutil.copytree(src_static, static_dir)
 
-    members = load_members()
+    members = [m for m in load_members() if m.branch != Branch.HOLOSTARS]
 
     tmpl_dir = Path(__file__).parent.parent / "web" / "templates"
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(str(tmpl_dir)))
     env.globals["fuwamoco_display"] = fuwamoco_display
+    env.globals["get_nickname"] = get_nickname
 
     member_photos = {m.handle: m.photo_url for m in members if m.photo_url}
+    nicknames = build_nicknames_map(members)
+    nicknames_json = json.dumps(nicknames, ensure_ascii=False)
 
     # ── Index page ──
     by_branch = []
-    for b in [Branch.EN, Branch.JP, Branch.ID, Branch.OFFICIAL, Branch.DEV_IS, Branch.HOLOSTARS, Branch.OTHER]:
+    for b in [Branch.EN, Branch.JP, Branch.ID, Branch.OFFICIAL, Branch.DEV_IS, Branch.OTHER]:
         bm = [m for m in members if m.branch == b]
         if bm:
             bm.sort(key=generation_sort_key)
@@ -113,6 +117,7 @@ def build_site():
                 partner_count=len(partner_handles),
                 partner_groups_json=partner_groups_json,
                 member_photos_json=member_photos_json,
+                nicknames_json=nicknames_json,
                 top_partners=top_partners, nav_active=""),
             m.handle,
         )
@@ -122,6 +127,8 @@ def build_site():
     stats = []
     total_apps = 0
     for b in Branch:
+        if b == Branch.HOLOSTARS:
+            continue
         bm = [m for m in members if m.branch == b]
         if not bm:
             continue
@@ -185,6 +192,9 @@ def build_site():
                         partners.append(ph)
             elif e.partner_handle and e.partner_handle not in partners:
                 partners.append(e.partner_handle)
+            p_str = ", ".join(partners)
+            if m.handle == "ladarknesss":
+                p_str = ("La+, " + p_str) if p_str else "La+"
             search_index.append({
                 "h": m.handle,
                 "n": m.name,
@@ -192,7 +202,7 @@ def build_site():
                 "t": e.title or "",
                 "ty": e.entry_type,
                 "v": e.video_id or "",
-                "p": ", ".join(partners),
+                "p": p_str,
             })
     search_idx_path = data_out_dir / "search_index.json"
     search_idx_path.write_text(json.dumps(search_index, ensure_ascii=False), encoding="utf-8")
@@ -201,23 +211,23 @@ def build_site():
     # ── Dashboard page ──
     html = _fix_links(env.get_template("dashboard.html").render(
         stats_json=json.dumps(member_stats, ensure_ascii=False),
-        nav_active="dashboard"))
+        nicknames_json=nicknames_json, nav_active="dashboard"))
     (site_dir / "dashboard.html").write_text(html, encoding="utf-8")
 
     # ── Search page ──
     html = _fix_links(env.get_template("search.html").render(
         search_index_size=len(search_index), search_index_mb=round(search_size_mb, 1),
-        nav_active="search"))
+        nicknames_json=nicknames_json, nav_active="search"))
     (site_dir / "search.html").write_text(html, encoding="utf-8")
 
     # ── Compare page ──
     stats_json = json.dumps(member_stats, ensure_ascii=False)
     html = _fix_links(env.get_template("compare.html").render(
-        stats_json=stats_json, nav_active="compare"))
+        stats_json=stats_json, nicknames_json=nicknames_json, nav_active="compare"))
     (site_dir / "compare.html").write_text(html, encoding="utf-8")
 
     # ── Network Graph page ──
-    branch_order = [Branch.EN, Branch.JP, Branch.ID, Branch.DEV_IS, Branch.HOLOAN, Branch.OFFICIAL, Branch.HOLOSTARS, Branch.OTHER]
+    branch_order = [Branch.EN, Branch.JP, Branch.ID, Branch.DEV_IS, Branch.HOLOAN, Branch.OFFICIAL, Branch.OTHER]
     branch_colors = {
         Branch.EN: "#06b6d4", Branch.JP: "#ec4899", Branch.ID: "#22c55e",
         Branch.DEV_IS: "#a855f7", Branch.HOLOAN: "#f59e0b",
@@ -230,7 +240,8 @@ def build_site():
     graph_data = build_graph_data()
     graph_json = json.dumps(graph_data, ensure_ascii=False)
     html = _fix_links(env.get_template("graph.html").render(
-        graph_json=graph_json, branch_colors=branch_colors_list, nav_active="graph"))
+        graph_json=graph_json, branch_colors=branch_colors_list,
+        nicknames_json=nicknames_json, nav_active="graph"))
     (site_dir / "graph.html").write_text(html, encoding="utf-8")
 
     print(f"Site built: {site_dir}")
