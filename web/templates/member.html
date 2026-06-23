@@ -200,7 +200,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 .timeline {
   position: relative;
-  margin: 2rem 0;
+  margin: 0 0 2rem;
 }
 .timeline::before {
   content: '';
@@ -471,7 +471,6 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% endif %}
 
 {% if timeline %}
-<div class="timeline">
 <div class="tl-section-title">Timeline <span class="tl-count">· {{ timeline|length }} entries</span></div>
 {% if partner_handles %}
 <div class="filter-bar">
@@ -484,6 +483,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </select>
 </div>
 {% endif %}
+<div class="timeline">
 {% for e in timeline %}
 {% if e.paired_self %}
 <div class="tl-item pair" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
