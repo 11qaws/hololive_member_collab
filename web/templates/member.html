@@ -707,7 +707,9 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 {% for e in timeline %}
 {% set cur_month = e.published_at[:6] %}
 {% if cur_month and cur_month != ns.prev_month %}
-<div class="tl-month-divider"><span class="tl-month-label">{{ cur_month[:4] }}년 {{ cur_month[4:6]|int }}월</span></div>
+{% if ns.prev_month %}
+<div class="tl-month-divider"><span class="tl-month-label">{{ ns.prev_month[:4] }}년 {{ ns.prev_month[4:6]|int }}월</span></div>
+{% endif %}
 {% set ns.prev_month = cur_month %}
 {% endif %}
 {% if e.paired_self %}
@@ -840,6 +842,9 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 {% endif %}
 {% endfor %}
+{% if ns.prev_month %}
+<div class="tl-month-divider"><span class="tl-month-label">{{ ns.prev_month[:4] }}년 {{ ns.prev_month[4:6]|int }}월</span></div>
+{% endif %}
 </div>
 {% else %}
 <div class="tl-empty">No timeline data yet. Run <code>python cli.py timeline refresh {{ member.handle }}</code> to fetch.</div>
