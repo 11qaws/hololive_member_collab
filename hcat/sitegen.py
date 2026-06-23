@@ -8,6 +8,8 @@ import jinja2
 from .config import get_data_dir
 from .models import Branch, generation_sort_key
 from .storage import load_members, load_appearances
+from collections import defaultdict
+from datetime import datetime
 from .timeline import load_timeline_entries, extract_partner_handles, top_collab_partners, group_partners_by_branch, fuwamoco_display
 from .network import build_graph_data
 
@@ -29,6 +31,7 @@ def _fix_links(html: str) -> str:
     html = html.replace('href="/stats"', 'href="stats.html"')
     html = html.replace('href="/unknowns"', 'href="unknowns.html"')
     html = html.replace('href="/graph"', 'href="graph.html"')
+    html = html.replace('href="/compare"', 'href="compare.html"')
     html = html.replace('href="/"', 'href="index.html"')
     return html
 
@@ -39,6 +42,7 @@ def _fix_links_member(html: str, handle: str) -> str:
     html = html.replace('href="/stats"', 'href="../stats.html"')
     html = html.replace('href="/unknowns"', 'href="../unknowns.html"')
     html = html.replace('href="/graph"', 'href="../graph.html"')
+    html = html.replace('href="/compare"', 'href="../compare.html"')
     html = html.replace('href="/"', 'href="../index.html"')
     return html
 
@@ -132,6 +136,42 @@ def build_site():
     html = _fix_links(env.get_template("unknowns.html").render(
         unknowns=unknowns, nav_active="unknowns"))
     (site_dir / "unknowns.html").write_text(html, encoding="utf-8")
+
+    # ── Member stats data (for compare page) ──
+    member_stats = []
+    for m in members:
+        timeline = load_timeline_entries(m.handle)
+        streams = len([e for e in timeline if e.entry_type == "stream"])
+        collabs = sum(len(e.sub_entries) if e.sub_entries else 1 for e in timeline if e.entry_type == "collab")
+        partners = extract_partner_handles(timeline)
+        top5 = top_collab_partners(timeline)[:5]
+        monthly_map: dict[str, int] = defaultdict(int)
+        for e in timeline:
+            try:
+                month = e.published_at[:7]
+                monthly_map[month] += 1
+            except Exception:
+                pass
+        monthly = sorted([{"month": k, "count": v} for k, v in monthly_map.items()], key=lambda x: x["month"])
+        member_stats.append({
+            "handle": m.handle,
+            "name": m.name,
+            "branch": m.branch.value,
+            "photo": m.photo_url or "",
+            "streams": streams,
+            "collabs": collabs,
+            "partners": len(partners),
+            "topPartners": [{"handle": p[0], "count": p[1]} for p in top5],
+            "monthly": monthly,
+        })
+    (data_out_dir / "member_stats.json").write_text(
+        json.dumps(member_stats, ensure_ascii=False), encoding="utf-8")
+
+    # ── Compare page ──
+    stats_json = json.dumps(member_stats, ensure_ascii=False)
+    html = _fix_links(env.get_template("compare.html").render(
+        stats_json=stats_json, nav_active="compare"))
+    (site_dir / "compare.html").write_text(html, encoding="utf-8")
 
     # ── Network Graph page ──
     branch_order = [Branch.EN, Branch.JP, Branch.ID, Branch.DEV_IS, Branch.HOLOAN, Branch.OFFICIAL, Branch.HOLOSTARS, Branch.OTHER]

@@ -1,0 +1,192 @@
+{% extends "base.html" %}
+{% block title %}Compare — HCAT{% endblock %}
+{% block head_extra %}
+<style>
+main { max-width: 1000px; }
+h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
+p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
+.controls { margin-bottom: 1.5rem; }
+.compare-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+.compare-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+}
+.compare-card .handle {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: .75rem;
+}
+.compare-card .handle img {
+  width: 32px; height: 32px; border-radius: 50%; object-fit: cover;
+}
+.stat-row {
+  display: flex;
+  justify-content: space-between;
+  padding: .35rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: .85rem;
+}
+.stat-row:last-child { border-bottom: none; }
+.stat-label { color: var(--text-2); }
+.stat-value { font-weight: 600; }
+.top-partners { margin-top: .75rem; }
+.top-partners h4 { font-size: .8rem; color: var(--text-2); margin-bottom: .35rem; }
+.partner-pill {
+  display: inline-block;
+  padding: .15rem .5rem;
+  margin: .15rem;
+  background: var(--bg);
+  border-radius: 999px;
+  font-size: .75rem;
+  cursor: pointer;
+}
+.partner-pill:hover { background: var(--hover); }
+select { font-size: .9rem; }
+#timeline-chart {
+  margin-top: 2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  position: relative;
+  min-height: 300px;
+}
+</style>
+{% endblock %}
+{% block content %}
+<h2>Compare Members</h2>
+<p>Select 2+ members to compare stats side by side.</p>
+
+<div class="controls">
+<select id="member-select" multiple size="10" style="width:100%;max-width:400px;background:var(--surface);color:var(--text-1);border:1px solid var(--border);border-radius:var(--radius-sm);padding:.35rem">
+</select>
+</div>
+
+<div class="compare-grid" id="compare-grid"></div>
+<div id="timeline-chart"><p style="color:var(--text-2);text-align:center;padding:2rem">Select 2+ members to view comparison</p></div>
+{% endblock %}
+{% block scripts %}
+<script id="stats-data" type="application/json">{{ stats_json|safe }}</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script>
+(function() {
+  var stats;
+  try { stats = JSON.parse(document.getElementById('stats-data').textContent); } catch(e) { return; }
+  if (!stats || stats.length === 0) return;
+
+  var select = document.getElementById('member-select');
+  var grid = document.getElementById('compare-grid');
+  var chartCanvas = document.createElement('canvas');
+  document.getElementById('timeline-chart').appendChild(chartCanvas);
+  var chart = null;
+
+  // Populate select
+  var groups = {};
+  stats.forEach(function(s) {
+    if (!groups[s.branch]) groups[s.branch] = [];
+    groups[s.branch].push(s);
+  });
+  var branchOrder = ['EN','JP','ID','DEV_IS','holoAN','Official','Holostars','Other'];
+  branchOrder.forEach(function(br) {
+    if (!groups[br]) return;
+    var optgroup = document.createElement('optgroup');
+    optgroup.label = br;
+    groups[br].forEach(function(s) {
+      var opt = document.createElement('option');
+      opt.value = s.handle;
+      opt.textContent = s.handle;
+      optgroup.appendChild(opt);
+    });
+    select.appendChild(optgroup);
+  });
+
+  function renderComparison() {
+    var selected = Array.from(select.selectedOptions).map(function(o) { return o.value; });
+    if (selected.length < 2) {
+      grid.innerHTML = '<p style="color:var(--text-2)">Select 2+ members to compare</p>';
+      if (chart) { chart.destroy(); chart = null; }
+      return;
+    }
+
+    var selectedData = stats.filter(function(s) { return selected.indexOf(s.handle) !== -1; });
+    renderCards(selectedData);
+    renderChart(selectedData);
+  }
+
+  function renderCards(data) {
+    grid.innerHTML = '';
+    data.forEach(function(s) {
+      var card = document.createElement('div');
+      card.className = 'compare-card';
+      card.innerHTML =
+        '<div class="handle">' +
+          (s.photo ? '<img src="' + s.photo + '" alt="">' : '<div style="width:32px;height:32px;border-radius:50%;background:var(--border)"></div>') +
+          s.name + ' (@' + s.handle + ')' +
+        '</div>' +
+        '<div class="stat-row"><span class="stat-label">Branch</span><span class="stat-value">' + s.branch + '</span></div>' +
+        '<div class="stat-row"><span class="stat-label">Streams</span><span class="stat-value">' + s.streams + '</span></div>' +
+        '<div class="stat-row"><span class="stat-label">Collabs</span><span class="stat-value">' + s.collabs + '</span></div>' +
+        '<div class="stat-row"><span class="stat-label">Partners</span><span class="stat-value">' + s.partners + '</span></div>' +
+        '<div class="stat-row"><span class="stat-label">Total Entries</span><span class="stat-value">' + (s.streams + s.collabs) + '</span></div>' +
+        (s.topPartners && s.topPartners.length ? 
+          '<div class="top-partners"><h4>Top Partners</h4>' +
+          s.topPartners.map(function(p) { return '<span class="partner-pill" onclick="location.href=\'members/' + p.handle + '.html\'">' + p.handle + ' (' + p.count + ')</span>'; }).join('') +
+          '</div>' : '');
+      grid.appendChild(card);
+    });
+  }
+
+  function renderChart(data) {
+    if (chart) { chart.destroy(); chart = null; }
+
+    // Gather all monthly keys
+    var allMonths = {};
+    data.forEach(function(s) {
+      (s.monthly || []).forEach(function(m) { allMonths[m.month] = true; });
+    });
+    var months = Object.keys(allMonths).sort();
+
+    if (months.length === 0) { return; }
+
+    var datasets = data.map(function(s) {
+      var monthlyMap = {};
+      (s.monthly || []).forEach(function(m) { monthlyMap[m.month] = m.count; });
+      return {
+        label: s.handle,
+        data: months.map(function(m) { return monthlyMap[m] || 0; }),
+        borderColor: '#' + Math.floor(Math.random()*0xFFFFFF).toString(16).padStart(6,'0'),
+        tension: 0.3,
+        fill: false,
+      };
+    });
+
+    chart = new Chart(chartCanvas, {
+      type: 'line',
+      data: { labels: months, datasets: datasets },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: 'top', labels: { color: '#ccc' } },
+        },
+        scales: {
+          x: { ticks: { color: '#999' } },
+          y: { ticks: { color: '#999' }, beginAtZero: true },
+        },
+      },
+    });
+  }
+
+  select.addEventListener('change', renderComparison);
+  renderComparison();
+})();
+</script>
+{% endblock %}
