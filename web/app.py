@@ -23,6 +23,10 @@ STATIC_DIR = Path(__file__).parent / "static"
 STATIC_DIR.mkdir(exist_ok=True)
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
 
+DATA_DIR = Path(__file__).parent.parent / "data"
+DATA_DIR.mkdir(exist_ok=True)
+app.mount("/data", StaticFiles(directory=str(DATA_DIR)), name="data")
+
 TEMPLATES = Path(__file__).parent / "templates"
 TEMPLATES.mkdir(exist_ok=True)
 
@@ -87,6 +91,11 @@ async def unknowns_page():
     unknowns = load_unknowns()
     return _render("unknowns.html", unknowns=unknowns, nav_active="unknowns")
 
+
+@app.get("/search", response_class=HTMLResponse)
+@app.get("/search.html", response_class=HTMLResponse)
+async def search_page():
+    return _render("search.html", search_index_size=0, search_index_mb=0, nav_active="search")
 
 @app.get("/compare", response_class=HTMLResponse)
 @app.get("/compare.html", response_class=HTMLResponse)

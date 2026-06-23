@@ -18,10 +18,11 @@ def _replace_placeholders(html: str, prefix: str) -> str:
     """Replace __ROOT__ and __STATIC__ placeholders.
     prefix: '' for root-level pages, '../' for member pages.
     """
-    html = html.replace('__ROOT__/members/', prefix + 'members/')
-    html = html.replace('href="__ROOT__/', 'href="' + prefix)
-    html = html.replace('src="__ROOT__/', 'src="' + prefix)
+    # Do __ROOT__/ first so members/ still works
+    html = html.replace('__ROOT__/', prefix)
     html = html.replace('__STATIC__/', prefix + 'static/')
+    # If prefix is empty, // cleanup
+    html = html.replace('"" + ', '').replace('" + "', '')
     return html
 
 
@@ -32,6 +33,7 @@ def _fix_links(html: str) -> str:
     html = html.replace('href="/unknowns"', 'href="unknowns.html"')
     html = html.replace('href="/graph"', 'href="graph.html"')
     html = html.replace('href="/compare"', 'href="compare.html"')
+    html = html.replace('href="/search"', 'href="search.html"')
     html = html.replace('href="/"', 'href="index.html"')
     return html
 
@@ -43,6 +45,7 @@ def _fix_links_member(html: str, handle: str) -> str:
     html = html.replace('href="/unknowns"', 'href="../unknowns.html"')
     html = html.replace('href="/graph"', 'href="../graph.html"')
     html = html.replace('href="/compare"', 'href="../compare.html"')
+    html = html.replace('href="/search"', 'href="../search.html"')
     html = html.replace('href="/"', 'href="../index.html"')
     return html
 
@@ -166,6 +169,38 @@ def build_site():
         })
     (data_out_dir / "member_stats.json").write_text(
         json.dumps(member_stats, ensure_ascii=False), encoding="utf-8")
+
+    # ── Search index (compact, all entries) ──
+    search_index = []
+    for m in members:
+        timeline = load_timeline_entries(m.handle)
+        for e in timeline:
+            partners = []
+            if e.sub_entries:
+                for se in e.sub_entries:
+                    ph = se.get("partner_handle") if isinstance(se, dict) else getattr(se, "partner_handle", None)
+                    if ph and ph not in partners:
+                        partners.append(ph)
+            elif e.partner_handle and e.partner_handle not in partners:
+                partners.append(e.partner_handle)
+            search_index.append({
+                "h": m.handle,
+                "n": m.name,
+                "d": e.published_at or "",
+                "t": e.title or "",
+                "ty": e.entry_type,
+                "v": e.video_id or "",
+                "p": ", ".join(partners),
+            })
+    search_idx_path = data_out_dir / "search_index.json"
+    search_idx_path.write_text(json.dumps(search_index, ensure_ascii=False), encoding="utf-8")
+    search_size_mb = search_idx_path.stat().st_size / 1024 / 1024
+
+    # ── Search page ──
+    html = _fix_links(env.get_template("search.html").render(
+        search_index_size=len(search_index), search_index_mb=round(search_size_mb, 1),
+        nav_active="search"))
+    (site_dir / "search.html").write_text(html, encoding="utf-8")
 
     # ── Compare page ──
     stats_json = json.dumps(member_stats, ensure_ascii=False)
