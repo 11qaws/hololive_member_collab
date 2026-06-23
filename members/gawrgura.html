@@ -175,8 +175,13 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 .filter-bar {
   display: flex;
-  gap: .75rem;
+  flex-direction: column;
+  gap: .5rem;
   margin-bottom: .5rem;
+}
+.filter-row {
+  display: flex;
+  gap: .75rem;
   flex-wrap: wrap;
   align-items: flex-end;
 }
@@ -202,23 +207,12 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   font-family: inherit;
   outline: none;
   transition: border-color .15s;
+  height: 34px;
 }
 .filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
-.filter-bar select[multiple] {
-  height: 110px;
-  min-width: 160px;
-  cursor: pointer;
-}
-.filter-bar select[multiple] option {
-  padding: .2rem .4rem;
-  font-size: .78rem;
-}
-.filter-bar select[multiple] option:checked {
-  background: var(--accent);
-  color: #fff;
-}
 .filter-reset {
-  padding: .45rem .9rem;
+  height: 34px;
+  padding: 0 .9rem;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   background: var(--surface);
@@ -232,14 +226,39 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
   border-color: var(--accent-2);
   color: var(--accent-2);
 }
+.partner-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  padding: .2rem 0;
+}
+.partner-tag {
+  display: inline-block;
+  padding: .22rem .6rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: .78rem;
+  cursor: pointer;
+  transition: all .15s;
+  user-select: none;
+  background: var(--surface);
+  color: var(--text-2);
+  line-height: 1.5;
+}
+.partner-tag:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+.partner-tag.selected {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
 .filter-info {
   font-size: .78rem;
   color: var(--text-2);
   margin-bottom: 1rem;
   min-height: 1.2em;
-}
-@media (max-width: 640px) {
-  .filter-bar select[multiple] { height: 80px; min-width: 120px; }
 }
 
 .empty-state {
@@ -545,6 +564,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="tl-section-title">Timeline <span class="tl-count">· 923 entries</span></div>
 
 <div class="filter-bar">
+<div class="filter-row">
 <div class="filter-group">
 <label>Keyword</label>
 <input type="text" id="keywordFilter" placeholder="Search title..." oninput="filterTimeline()">
@@ -558,117 +578,117 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <input type="date" id="dateTo" onchange="filterTimeline()">
 </div>
 <div class="filter-group">
-<label>Partners</label>
-<select id="partnerFilter" multiple size="5" onchange="filterTimeline()">
-<option value="">All Members</option>
-
-<option value="airaniiofifteen">@airaniiofifteen</option>
-
-<option value="akirose">@akirose</option>
-
-<option value="amanekanata">@amanekanata</option>
-
-<option value="aniamelfissa">@aniamelfissa</option>
-
-<option value="ayunda_risu">@ayunda_risu</option>
-
-<option value="ceresfauna">@ceresfauna</option>
-
-<option value="hakosbaelz">@hakosbaelz</option>
-
-<option value="hakuikoyori">@hakuikoyori</option>
-
-<option value="himemoriluna">@himemoriluna</option>
-
-<option value="holoen_ceciliaimmergreen">@holoen_ceciliaimmergreen</option>
-
-<option value="holoen_erbloodflame">@holoen_erbloodflame</option>
-
-<option value="holoen_gigimurin">@holoen_gigimurin</option>
-
-<option value="holoen_raorapanthera">@holoen_raorapanthera</option>
-
-<option value="hololive">@hololive</option>
-
-<option value="hoshimachisuisei">@hoshimachisuisei</option>
-
-<option value="houshoumarine">@houshoumarine</option>
-
-<option value="irys">@irys</option>
-
-<option value="kaelakovalskia">@kaelakovalskia</option>
-
-<option value="kiryucoco">@kiryucoco</option>
-
-<option value="kobokanaeru">@kobokanaeru</option>
-
-<option value="kosekibijou">@kosekibijou</option>
-
-<option value="kureijiollie">@kureijiollie</option>
-
-<option value="minatoaqua">@minatoaqua</option>
-
-<option value="mococo_abyssgard">@mococo_abyssgard</option>
-
-<option value="momosuzunene">@momosuzunene</option>
-
-<option value="moona_hoshinova">@moona_hoshinova</option>
-
-<option value="moricalliope">@moricalliope</option>
-
-<option value="murasakishion">@murasakishion</option>
-
-<option value="nanashimumei">@nanashimumei</option>
-
-<option value="natsuiromatsuri">@natsuiromatsuri</option>
-
-<option value="nekomataokayu">@nekomataokayu</option>
-
-<option value="nerissaravencroft">@nerissaravencroft</option>
-
-<option value="ninomaeinanis">@ninomaeinanis</option>
-
-<option value="omarupolka">@omarupolka</option>
-
-<option value="oozora_subaru">@oozora_subaru</option>
-
-<option value="ourokronii">@ourokronii</option>
-
-<option value="pavoliareine">@pavoliareine</option>
-
-<option value="robocosan">@robocosan</option>
-
-<option value="sakuramiko">@sakuramiko</option>
-
-<option value="shiorinovella">@shiorinovella</option>
-
-<option value="shishirobotan">@shishirobotan</option>
-
-<option value="takanashikiara">@takanashikiara</option>
-
-<option value="takanelui">@takanelui</option>
-
-<option value="tokoyamitowa">@tokoyamitowa</option>
-
-<option value="tsukumosana">@tsukumosana</option>
-
-<option value="tsunomakiwatame">@tsunomakiwatame</option>
-
-<option value="usadapekora">@usadapekora</option>
-
-<option value="vestia_zeta">@vestia_zeta</option>
-
-<option value="watsonamelia">@watsonamelia</option>
-
-<option value="yukihanalamy">@yukihanalamy</option>
-
-<option value="yuzuki_choco">@yuzuki_choco</option>
-
-</select>
-</div>
-<div class="filter-group">
 <label>&nbsp;</label>
 <button class="filter-reset" onclick="resetFilters()">Reset</button>
+</div>
+</div>
+<div class="filter-group">
+<label>Partners</label>
+<div class="partner-tags" id="partnerTags">
+
+<span class="partner-tag" data-handle="airaniiofifteen" onclick="togglePartner(this)">@airaniiofifteen</span>
+
+<span class="partner-tag" data-handle="akirose" onclick="togglePartner(this)">@akirose</span>
+
+<span class="partner-tag" data-handle="amanekanata" onclick="togglePartner(this)">@amanekanata</span>
+
+<span class="partner-tag" data-handle="aniamelfissa" onclick="togglePartner(this)">@aniamelfissa</span>
+
+<span class="partner-tag" data-handle="ayunda_risu" onclick="togglePartner(this)">@ayunda_risu</span>
+
+<span class="partner-tag" data-handle="ceresfauna" onclick="togglePartner(this)">@ceresfauna</span>
+
+<span class="partner-tag" data-handle="hakosbaelz" onclick="togglePartner(this)">@hakosbaelz</span>
+
+<span class="partner-tag" data-handle="hakuikoyori" onclick="togglePartner(this)">@hakuikoyori</span>
+
+<span class="partner-tag" data-handle="himemoriluna" onclick="togglePartner(this)">@himemoriluna</span>
+
+<span class="partner-tag" data-handle="holoen_ceciliaimmergreen" onclick="togglePartner(this)">@holoen_ceciliaimmergreen</span>
+
+<span class="partner-tag" data-handle="holoen_erbloodflame" onclick="togglePartner(this)">@holoen_erbloodflame</span>
+
+<span class="partner-tag" data-handle="holoen_gigimurin" onclick="togglePartner(this)">@holoen_gigimurin</span>
+
+<span class="partner-tag" data-handle="holoen_raorapanthera" onclick="togglePartner(this)">@holoen_raorapanthera</span>
+
+<span class="partner-tag" data-handle="hololive" onclick="togglePartner(this)">@hololive</span>
+
+<span class="partner-tag" data-handle="hoshimachisuisei" onclick="togglePartner(this)">@hoshimachisuisei</span>
+
+<span class="partner-tag" data-handle="houshoumarine" onclick="togglePartner(this)">@houshoumarine</span>
+
+<span class="partner-tag" data-handle="irys" onclick="togglePartner(this)">@irys</span>
+
+<span class="partner-tag" data-handle="kaelakovalskia" onclick="togglePartner(this)">@kaelakovalskia</span>
+
+<span class="partner-tag" data-handle="kiryucoco" onclick="togglePartner(this)">@kiryucoco</span>
+
+<span class="partner-tag" data-handle="kobokanaeru" onclick="togglePartner(this)">@kobokanaeru</span>
+
+<span class="partner-tag" data-handle="kosekibijou" onclick="togglePartner(this)">@kosekibijou</span>
+
+<span class="partner-tag" data-handle="kureijiollie" onclick="togglePartner(this)">@kureijiollie</span>
+
+<span class="partner-tag" data-handle="minatoaqua" onclick="togglePartner(this)">@minatoaqua</span>
+
+<span class="partner-tag" data-handle="mococo_abyssgard" onclick="togglePartner(this)">@mococo_abyssgard</span>
+
+<span class="partner-tag" data-handle="momosuzunene" onclick="togglePartner(this)">@momosuzunene</span>
+
+<span class="partner-tag" data-handle="moona_hoshinova" onclick="togglePartner(this)">@moona_hoshinova</span>
+
+<span class="partner-tag" data-handle="moricalliope" onclick="togglePartner(this)">@moricalliope</span>
+
+<span class="partner-tag" data-handle="murasakishion" onclick="togglePartner(this)">@murasakishion</span>
+
+<span class="partner-tag" data-handle="nanashimumei" onclick="togglePartner(this)">@nanashimumei</span>
+
+<span class="partner-tag" data-handle="natsuiromatsuri" onclick="togglePartner(this)">@natsuiromatsuri</span>
+
+<span class="partner-tag" data-handle="nekomataokayu" onclick="togglePartner(this)">@nekomataokayu</span>
+
+<span class="partner-tag" data-handle="nerissaravencroft" onclick="togglePartner(this)">@nerissaravencroft</span>
+
+<span class="partner-tag" data-handle="ninomaeinanis" onclick="togglePartner(this)">@ninomaeinanis</span>
+
+<span class="partner-tag" data-handle="omarupolka" onclick="togglePartner(this)">@omarupolka</span>
+
+<span class="partner-tag" data-handle="oozora_subaru" onclick="togglePartner(this)">@oozora_subaru</span>
+
+<span class="partner-tag" data-handle="ourokronii" onclick="togglePartner(this)">@ourokronii</span>
+
+<span class="partner-tag" data-handle="pavoliareine" onclick="togglePartner(this)">@pavoliareine</span>
+
+<span class="partner-tag" data-handle="robocosan" onclick="togglePartner(this)">@robocosan</span>
+
+<span class="partner-tag" data-handle="sakuramiko" onclick="togglePartner(this)">@sakuramiko</span>
+
+<span class="partner-tag" data-handle="shiorinovella" onclick="togglePartner(this)">@shiorinovella</span>
+
+<span class="partner-tag" data-handle="shishirobotan" onclick="togglePartner(this)">@shishirobotan</span>
+
+<span class="partner-tag" data-handle="takanashikiara" onclick="togglePartner(this)">@takanashikiara</span>
+
+<span class="partner-tag" data-handle="takanelui" onclick="togglePartner(this)">@takanelui</span>
+
+<span class="partner-tag" data-handle="tokoyamitowa" onclick="togglePartner(this)">@tokoyamitowa</span>
+
+<span class="partner-tag" data-handle="tsukumosana" onclick="togglePartner(this)">@tsukumosana</span>
+
+<span class="partner-tag" data-handle="tsunomakiwatame" onclick="togglePartner(this)">@tsunomakiwatame</span>
+
+<span class="partner-tag" data-handle="usadapekora" onclick="togglePartner(this)">@usadapekora</span>
+
+<span class="partner-tag" data-handle="vestia_zeta" onclick="togglePartner(this)">@vestia_zeta</span>
+
+<span class="partner-tag" data-handle="watsonamelia" onclick="togglePartner(this)">@watsonamelia</span>
+
+<span class="partner-tag" data-handle="yukihanalamy" onclick="togglePartner(this)">@yukihanalamy</span>
+
+<span class="partner-tag" data-handle="yuzuki_choco" onclick="togglePartner(this)">@yuzuki_choco</span>
+
+</div>
 </div>
 </div>
 <div class="filter-info" id="filterInfo"></div>
@@ -31197,8 +31217,7 @@ function filterTimeline() {
   const kw = document.getElementById('keywordFilter').value.toLowerCase();
   const dateFrom = document.getElementById('dateFrom').value;
   const dateTo = document.getElementById('dateTo').value;
-  const partnerSel = document.getElementById('partnerFilter');
-  const selected = Array.from(partnerSel.selectedOptions).map(o => o.value).filter(v => v);
+  const selected = Array.from(document.querySelectorAll('.partner-tag.selected')).map(el => el.dataset.handle);
 
   let visible = 0, total = 0;
   document.querySelectorAll('.tl-item').forEach(el => {
@@ -31224,12 +31243,16 @@ function filterTimeline() {
   }
 }
 
+function togglePartner(el) {
+  el.classList.toggle('selected');
+  filterTimeline();
+}
+
 function resetFilters() {
   document.getElementById('keywordFilter').value = '';
   document.getElementById('dateFrom').value = '';
   document.getElementById('dateTo').value = '';
-  const sel = document.getElementById('partnerFilter');
-  for (let o of sel.options) o.selected = false;
+  document.querySelectorAll('.partner-tag.selected').forEach(el => el.classList.remove('selected'));
   filterTimeline();
 }
 </script>
