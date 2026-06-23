@@ -176,20 +176,71 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .filter-bar {
   display: flex;
   gap: .75rem;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
   flex-wrap: wrap;
+  align-items: flex-end;
+}
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: .2rem;
+}
+.filter-group label {
+  font-size: .7rem;
+  font-weight: 500;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: .03em;
 }
 .filter-bar input, .filter-bar select {
-  padding: .5rem .75rem;
+  padding: .45rem .65rem;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   background: var(--surface);
   color: var(--text);
-  font-size: .85rem;
+  font-size: .82rem;
   font-family: inherit;
   outline: none;
+  transition: border-color .15s;
 }
 .filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
+.filter-bar select[multiple] {
+  height: 110px;
+  min-width: 160px;
+  cursor: pointer;
+}
+.filter-bar select[multiple] option {
+  padding: .2rem .4rem;
+  font-size: .78rem;
+}
+.filter-bar select[multiple] option:checked {
+  background: var(--accent);
+  color: #fff;
+}
+.filter-reset {
+  padding: .45rem .9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-2);
+  font-size: .82rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .15s;
+}
+.filter-reset:hover {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
+}
+.filter-info {
+  font-size: .78rem;
+  color: var(--text-2);
+  margin-bottom: 1rem;
+  min-height: 1.2em;
+}
+@media (max-width: 640px) {
+  .filter-bar select[multiple] { height: 80px; min-width: 120px; }
+}
 
 .empty-state {
   text-align: center;
@@ -474,19 +525,38 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="tl-section-title">Timeline <span class="tl-count">· {{ timeline|length }} entries</span></div>
 {% if partner_handles %}
 <div class="filter-bar">
+<div class="filter-group">
+<label>Keyword</label>
 <input type="text" id="keywordFilter" placeholder="Search title..." oninput="filterTimeline()">
-<select id="partnerFilter" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>From</label>
+<input type="date" id="dateFrom" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>To</label>
+<input type="date" id="dateTo" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>Partners</label>
+<select id="partnerFilter" multiple size="5" onchange="filterTimeline()">
 <option value="">All Members</option>
 {% for h in partner_handles %}
 <option value="{{ h }}">@{{ h }}</option>
 {% endfor %}
 </select>
 </div>
+<div class="filter-group">
+<label>&nbsp;</label>
+<button class="filter-reset" onclick="resetFilters()">Reset</button>
+</div>
+</div>
+<div class="filter-info" id="filterInfo"></div>
 {% endif %}
 <div class="timeline">
 {% for e in timeline %}
 {% if e.paired_self %}
-<div class="tl-item pair" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
+<div class="tl-item pair" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
 <div class="tl-pair-stream">
 <a class="tl-card" href="{{ e.paired_self.url }}" target="_blank">
 {% if e.paired_self.thumbnail %}
@@ -560,7 +630,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 </div>
 {% else %}
 {% set is_grouped = e.entry_type == "collab" and e.sub_entries|length > 1 %}
-<div class="tl-item {{ e.entry_type }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
+<div class="tl-item {{ e.entry_type }}" data-date="{{ e.published_at }}" data-partners="{% if e.partner_handle %}{{ e.partner_handle }}{% endif %}{% for se in e.sub_entries %} {{ se.partner_handle }}{% endfor %}">
 <div class="tl-dot"></div>
 <div class="tl-card">
 {% if is_grouped %}
@@ -631,14 +701,42 @@ function toggleTheme() {
 }
 function filterTimeline() {
   const kw = document.getElementById('keywordFilter').value.toLowerCase();
-  const f = document.getElementById('partnerFilter').value;
+  const dateFrom = document.getElementById('dateFrom').value;
+  const dateTo = document.getElementById('dateTo').value;
+  const partnerSel = document.getElementById('partnerFilter');
+  const selected = Array.from(partnerSel.selectedOptions).map(o => o.value).filter(v => v);
+
+  let visible = 0, total = 0;
   document.querySelectorAll('.tl-item').forEach(el => {
+    total++;
     const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
     const p = el.dataset.partners || '';
+    const d = el.dataset.date || '';
+
     const matchKw = !kw || title.includes(kw);
-    const matchF = !f || p.includes(f);
-    el.style.display = matchKw && matchF ? '' : 'none';
+    const matchDate = (!dateFrom || d >= dateFrom.replace(/-/g, '')) && (!dateTo || d <= dateTo.replace(/-/g, ''));
+    const matchPartner = selected.length === 0 || selected.some(s => p.includes(s));
+
+    const show = matchKw && matchDate && matchPartner;
+    el.style.display = show ? '' : 'none';
+    if (show) visible++;
   });
+
+  const info = document.getElementById('filterInfo');
+  if (visible < total) {
+    info.textContent = 'Showing ' + visible + ' of ' + total + ' entries';
+  } else {
+    info.textContent = '';
+  }
+}
+
+function resetFilters() {
+  document.getElementById('keywordFilter').value = '';
+  document.getElementById('dateFrom').value = '';
+  document.getElementById('dateTo').value = '';
+  const sel = document.getElementById('partnerFilter');
+  for (let o of sel.options) o.selected = false;
+  filterTimeline();
 }
 </script>
 </body>

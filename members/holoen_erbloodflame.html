@@ -176,20 +176,71 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 .filter-bar {
   display: flex;
   gap: .75rem;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
   flex-wrap: wrap;
+  align-items: flex-end;
+}
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: .2rem;
+}
+.filter-group label {
+  font-size: .7rem;
+  font-weight: 500;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: .03em;
 }
 .filter-bar input, .filter-bar select {
-  padding: .5rem .75rem;
+  padding: .45rem .65rem;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   background: var(--surface);
   color: var(--text);
-  font-size: .85rem;
+  font-size: .82rem;
   font-family: inherit;
   outline: none;
+  transition: border-color .15s;
 }
 .filter-bar input:focus, .filter-bar select:focus { border-color: var(--accent); }
+.filter-bar select[multiple] {
+  height: 110px;
+  min-width: 160px;
+  cursor: pointer;
+}
+.filter-bar select[multiple] option {
+  padding: .2rem .4rem;
+  font-size: .78rem;
+}
+.filter-bar select[multiple] option:checked {
+  background: var(--accent);
+  color: #fff;
+}
+.filter-reset {
+  padding: .45rem .9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-2);
+  font-size: .82rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .15s;
+}
+.filter-reset:hover {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
+}
+.filter-info {
+  font-size: .78rem;
+  color: var(--text-2);
+  margin-bottom: 1rem;
+  min-height: 1.2em;
+}
+@media (max-width: 640px) {
+  .filter-bar select[multiple] { height: 80px; min-width: 120px; }
+}
 
 .empty-state {
   text-align: center;
@@ -494,8 +545,21 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 <div class="tl-section-title">Timeline <span class="tl-count">· 606 entries</span></div>
 
 <div class="filter-bar">
+<div class="filter-group">
+<label>Keyword</label>
 <input type="text" id="keywordFilter" placeholder="Search title..." oninput="filterTimeline()">
-<select id="partnerFilter" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>From</label>
+<input type="date" id="dateFrom" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>To</label>
+<input type="date" id="dateTo" onchange="filterTimeline()">
+</div>
+<div class="filter-group">
+<label>Partners</label>
+<select id="partnerFilter" multiple size="5" onchange="filterTimeline()">
 <option value="">All Members</option>
 
 <option value="airaniiofifteen">@airaniiofifteen</option>
@@ -584,12 +648,18 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 </select>
 </div>
+<div class="filter-group">
+<label>&nbsp;</label>
+<button class="filter-reset" onclick="resetFilters()">Reset</button>
+</div>
+</div>
+<div class="filter-info" id="filterInfo"></div>
 
 <div class="timeline">
 
 
 
-<div class="tl-item collab" data-partners="tsunomakiwatame">
+<div class="tl-item collab" data-date="20260621" data-partners="tsunomakiwatame">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -619,7 +689,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20260620" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -648,7 +718,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20260618" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/Y8Vni2s3epM" target="_blank">
 
@@ -696,7 +766,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20260614" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/cRRFdgxCOgg" target="_blank">
 
@@ -745,7 +815,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260610" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -773,7 +843,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260608" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -803,7 +873,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260604" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -831,7 +901,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="tsunomakiwatame">
+<div class="tl-item collab" data-date="20260602" data-partners="tsunomakiwatame">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -861,7 +931,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260601" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -888,7 +958,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii irys holoen_gigimurin hakosbaelz ninomaeinanis nerissaravencroft shiorinovella mococo_abyssgard mococo_abyssgard holoen_raorapanthera kosekibijou holoen_ceciliaimmergreen moricalliope">
+<div class="tl-item pair" data-date="20260530" data-partners="ourokronii ourokronii irys holoen_gigimurin hakosbaelz ninomaeinanis nerissaravencroft shiorinovella mococo_abyssgard mococo_abyssgard holoen_raorapanthera kosekibijou holoen_ceciliaimmergreen moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/6HUbJshXMAI" target="_blank">
 
@@ -1020,7 +1090,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260529" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1047,7 +1117,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii holoen_gigimurin kosekibijou hakosbaelz holoen_raorapanthera ninomaeinanis shiorinovella nerissaravencroft mococo_abyssgard mococo_abyssgard holoen_ceciliaimmergreen moricalliope">
+<div class="tl-item pair" data-date="20260529" data-partners="ourokronii ourokronii holoen_gigimurin kosekibijou hakosbaelz holoen_raorapanthera ninomaeinanis shiorinovella nerissaravencroft mococo_abyssgard mococo_abyssgard holoen_ceciliaimmergreen moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/FzangfLML4E" target="_blank">
 
@@ -1172,7 +1242,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii holoen_gigimurin hakosbaelz holoen_raorapanthera shiorinovella mococo_abyssgard mococo_abyssgard nerissaravencroft">
+<div class="tl-item pair" data-date="20260528" data-partners="ourokronii ourokronii holoen_gigimurin hakosbaelz holoen_raorapanthera shiorinovella mococo_abyssgard mococo_abyssgard nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/HEWSty8elxo" target="_blank">
 
@@ -1273,7 +1343,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ninomaeinanis ninomaeinanis holoen_gigimurin hakosbaelz ninomaeinanis holoen_raorapanthera mococo_abyssgard shiorinovella mococo_abyssgard nerissaravencroft holoen_ceciliaimmergreen kosekibijou">
+<div class="tl-item pair" data-date="20260527" data-partners="ninomaeinanis ninomaeinanis holoen_gigimurin hakosbaelz ninomaeinanis holoen_raorapanthera mococo_abyssgard shiorinovella mococo_abyssgard nerissaravencroft holoen_ceciliaimmergreen kosekibijou">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/rg_rZ8reBVA" target="_blank">
 
@@ -1392,7 +1462,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii holoen_raorapanthera hakosbaelz holoen_gigimurin kosekibijou mococo_abyssgard mococo_abyssgard shiorinovella nerissaravencroft ninomaeinanis holoen_ceciliaimmergreen moricalliope">
+<div class="tl-item pair" data-date="20260526" data-partners="ourokronii ourokronii holoen_raorapanthera hakosbaelz holoen_gigimurin kosekibijou mococo_abyssgard mococo_abyssgard shiorinovella nerissaravencroft ninomaeinanis holoen_ceciliaimmergreen moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/7SzxeEiLGFs" target="_blank">
 
@@ -1517,7 +1587,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii holoen_gigimurin ninomaeinanis takanashikiara kosekibijou holoen_ceciliaimmergreen irys hakosbaelz holoen_raorapanthera mococo_abyssgard mococo_abyssgard shiorinovella nerissaravencroft moricalliope">
+<div class="tl-item pair" data-date="20260525" data-partners="ourokronii ourokronii holoen_gigimurin ninomaeinanis takanashikiara kosekibijou holoen_ceciliaimmergreen irys hakosbaelz holoen_raorapanthera mococo_abyssgard mococo_abyssgard shiorinovella nerissaravencroft moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/2rnclFeQ5EM" target="_blank">
 
@@ -1655,7 +1725,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260524" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1683,7 +1753,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260523" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1711,7 +1781,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ninomaeinanis">
+<div class="tl-item collab" data-date="20260521" data-partners="ninomaeinanis">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1741,7 +1811,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260519" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1769,7 +1839,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260518" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1797,7 +1867,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260517" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1827,7 +1897,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260516" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1855,7 +1925,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260514" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1883,7 +1953,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260512" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1911,7 +1981,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260511" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1939,7 +2009,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260510" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1967,7 +2037,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260510" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -1995,7 +2065,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260510" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2023,7 +2093,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260510" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2051,7 +2121,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260509" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2079,7 +2149,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260509" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2107,7 +2177,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260508" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2135,7 +2205,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260507" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2163,7 +2233,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260507" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2191,7 +2261,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20260506" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2221,7 +2291,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260505" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2249,7 +2319,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260505" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2277,7 +2347,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260501" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2305,7 +2375,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260429" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2333,7 +2403,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260429" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2361,7 +2431,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260429" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2389,7 +2459,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260428" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2417,7 +2487,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260425" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2445,7 +2515,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260422" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2473,7 +2543,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260422" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2501,7 +2571,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260421" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2529,7 +2599,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260419" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2557,7 +2627,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260419" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2585,7 +2655,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260419" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2615,7 +2685,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260417" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2643,7 +2713,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260416" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2671,7 +2741,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260415" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2699,7 +2769,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260413" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2727,7 +2797,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260412" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2755,7 +2825,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260412" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2783,7 +2853,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260412" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2811,7 +2881,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260412" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2839,7 +2909,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20260412" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2869,7 +2939,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260410" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2896,7 +2966,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20260410" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/YnSQiI-RBDg" target="_blank">
 
@@ -2945,7 +3015,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20260409" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -2975,7 +3045,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260407" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3003,7 +3073,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260406" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3031,7 +3101,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260406" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3059,7 +3129,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260406" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3089,7 +3159,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260322" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3117,7 +3187,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260322" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3147,7 +3217,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260317" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3175,7 +3245,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260317" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3203,7 +3273,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260315" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3231,7 +3301,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20260309" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3261,7 +3331,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260307" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3291,7 +3361,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20260306" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3321,7 +3391,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="sakuramiko">
+<div class="tl-item collab" data-date="20260304" data-partners="sakuramiko">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3351,7 +3421,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260304" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3381,7 +3451,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260301" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3409,7 +3479,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260301" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3437,7 +3507,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20260228" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3467,7 +3537,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260227" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3497,7 +3567,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260222" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3525,7 +3595,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260222" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3552,7 +3622,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin shiorinovella kosekibijou mococo_abyssgard nerissaravencroft">
+<div class="tl-item pair" data-date="20260222" data-partners="holoen_gigimurin holoen_gigimurin shiorinovella kosekibijou mococo_abyssgard nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/LoqiPbgrAXw" target="_blank">
 
@@ -3636,7 +3706,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20260221" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3666,7 +3736,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260220" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3694,7 +3764,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260220" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3723,7 +3793,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="takanashikiara takanashikiara shiorinovella">
+<div class="tl-item pair" data-date="20260219" data-partners="takanashikiara takanashikiara shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/mWDPEwpPUSQ" target="_blank">
 
@@ -3789,7 +3859,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20260219" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3819,7 +3889,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260217" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3847,7 +3917,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260217" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3874,7 +3944,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="nerissaravencroft nerissaravencroft shiorinovella kureijiollie">
+<div class="tl-item pair" data-date="20260216" data-partners="nerissaravencroft nerissaravencroft shiorinovella kureijiollie">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/Vr754pOQzgA" target="_blank">
 
@@ -3946,7 +4016,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260215" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -3974,7 +4044,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260215" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4002,7 +4072,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260215" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4030,7 +4100,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260214" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4058,7 +4128,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260214" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4086,7 +4156,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260213" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4114,7 +4184,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260212" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4142,7 +4212,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260211" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4170,7 +4240,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="mococo_abyssgard">
+<div class="tl-item collab" data-date="20260211" data-partners="mococo_abyssgard">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4200,7 +4270,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20260211" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4230,7 +4300,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260210" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4258,7 +4328,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260210" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4286,7 +4356,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="vestia_zeta vestia_zeta kosekibijou shiorinovella nerissaravencroft">
+<div class="tl-item collab" data-date="20260210" data-partners="vestia_zeta vestia_zeta kosekibijou shiorinovella nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4357,7 +4427,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260208" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4385,7 +4455,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260208" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4414,7 +4484,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="shiorinovella">
+<div class="tl-item pair" data-date="20260205" data-partners="shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/AqpUtZAZex8" target="_blank">
 
@@ -4463,7 +4533,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260204" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4491,7 +4561,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260203" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4519,7 +4589,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260201" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4547,7 +4617,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260131" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4574,7 +4644,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen holoen_raorapanthera">
+<div class="tl-item pair" data-date="20260131" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/9d354Nu-awM" target="_blank">
 
@@ -4646,7 +4716,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope moricalliope nerissaravencroft">
+<div class="tl-item collab" data-date="20260130" data-partners="moricalliope moricalliope nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4701,7 +4771,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260128" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4729,7 +4799,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260127" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4757,7 +4827,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260125" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4785,7 +4855,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260123" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4813,7 +4883,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kosekibijou">
+<div class="tl-item collab" data-date="20260121" data-partners="kosekibijou">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4843,7 +4913,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260120" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4871,7 +4941,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260118" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4899,7 +4969,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20260116" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4929,7 +4999,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260115" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4957,7 +5027,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ayunda_risu">
+<div class="tl-item collab" data-date="20260115" data-partners="ayunda_risu">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -4987,7 +5057,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260114" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5015,7 +5085,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hoshimachisuisei">
+<div class="tl-item collab" data-date="20260107" data-partners="hoshimachisuisei">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5045,7 +5115,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260106" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5073,7 +5143,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260106" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5101,7 +5171,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260105" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5131,7 +5201,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20260103" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5158,7 +5228,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="takanashikiara takanashikiara hakosbaelz ninomaeinanis nerissaravencroft mococo_abyssgard">
+<div class="tl-item pair" data-date="20260102" data-partners="takanashikiara takanashikiara hakosbaelz ninomaeinanis nerissaravencroft mococo_abyssgard">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/su8zgxTe3zA" target="_blank">
 
@@ -5242,7 +5312,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20260101" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5271,7 +5341,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20251231" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/ljTUyvw1VRY" target="_blank">
 
@@ -5320,7 +5390,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20251231" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5350,7 +5420,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251230" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5378,7 +5448,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251228" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5406,7 +5476,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20251226" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5436,7 +5506,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251225" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5464,7 +5534,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251225" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5492,7 +5562,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="amanekanata">
+<div class="tl-item collab" data-date="20251223" data-partners="amanekanata">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5522,7 +5592,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251222" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5550,7 +5620,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251221" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5578,7 +5648,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251219" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5606,7 +5676,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251216" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5634,7 +5704,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251213" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5661,7 +5731,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="takanashikiara takanashikiara vestia_zeta shiorinovella nerissaravencroft">
+<div class="tl-item pair" data-date="20251213" data-partners="takanashikiara takanashikiara vestia_zeta shiorinovella nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/NFnrbe6Jt1I" target="_blank">
 
@@ -5739,7 +5809,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251210" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5767,7 +5837,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20251210" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5797,7 +5867,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20251208" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5827,7 +5897,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251202" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5855,7 +5925,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251202" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5883,7 +5953,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251129" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5911,7 +5981,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251127" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5939,7 +6009,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251127" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5967,7 +6037,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251127" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -5995,7 +6065,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251126" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6023,7 +6093,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251126" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6050,7 +6120,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20251123" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/DVS6agqJijs" target="_blank">
 
@@ -6099,7 +6169,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20251122" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6128,7 +6198,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_ceciliaimmergreen holoen_gigimurin">
+<div class="tl-item pair" data-date="20251121" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_ceciliaimmergreen holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/DJyNUCkbew0" target="_blank">
 
@@ -6200,7 +6270,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251119" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6228,7 +6298,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251116" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6255,7 +6325,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ninomaeinanis ninomaeinanis ourokronii takanashikiara irys hakosbaelz kosekibijou">
+<div class="tl-item pair" data-date="20251116" data-partners="ninomaeinanis ninomaeinanis ourokronii takanashikiara irys hakosbaelz kosekibijou">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/ksP7-TnEvKo" target="_blank">
 
@@ -6345,7 +6415,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20251116" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6375,7 +6445,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251115" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6402,7 +6472,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera">
+<div class="tl-item pair" data-date="20251113" data-partners="holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/4bWfw5fMbu0" target="_blank">
 
@@ -6451,7 +6521,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251110" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6479,7 +6549,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251110" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6507,7 +6577,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251108" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6535,7 +6605,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20251106" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6565,7 +6635,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20251105" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6595,7 +6665,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin">
+<div class="tl-item collab" data-date="20251104" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6650,7 +6720,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251102" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6678,7 +6748,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20251102" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6707,7 +6777,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera">
+<div class="tl-item pair" data-date="20251101" data-partners="holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/fNugCYXlblw" target="_blank">
 
@@ -6755,7 +6825,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="shiorinovella shiorinovella holoen_gigimurin nerissaravencroft">
+<div class="tl-item pair" data-date="20251101" data-partners="shiorinovella shiorinovella holoen_gigimurin nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/x7WPM9FSGko" target="_blank">
 
@@ -6827,7 +6897,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20251030" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6856,7 +6926,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="kosekibijou kosekibijou nerissaravencroft">
+<div class="tl-item pair" data-date="20251021" data-partners="kosekibijou kosekibijou nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/NDEkkwrKEjY" target="_blank">
 
@@ -6921,7 +6991,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="takanashikiara">
+<div class="tl-item pair" data-date="20251020" data-partners="takanashikiara">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/bV_OIC4PAWA" target="_blank">
 
@@ -6970,7 +7040,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251019" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -6998,7 +7068,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20251019" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7027,7 +7097,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20251016" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/bNoVsoLRaYg" target="_blank">
 
@@ -7076,7 +7146,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251012" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7104,7 +7174,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251012" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7132,7 +7202,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kureijiollie">
+<div class="tl-item collab" data-date="20251012" data-partners="kureijiollie">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7162,7 +7232,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251007" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7190,7 +7260,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251006" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7218,7 +7288,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251004" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7246,7 +7316,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251004" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7274,7 +7344,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251004" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7302,7 +7372,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20251002" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7330,7 +7400,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250930" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7358,7 +7428,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250930" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7386,7 +7456,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250928" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7414,7 +7484,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250928" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7441,7 +7511,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii ourokronii takanashikiara irys mococo_abyssgard holoen_raorapanthera kosekibijou moricalliope">
+<div class="tl-item pair" data-date="20250928" data-partners="ourokronii ourokronii takanashikiara irys mococo_abyssgard holoen_raorapanthera kosekibijou moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/VUURP218SOc" target="_blank">
 
@@ -7537,7 +7607,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250927" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7565,7 +7635,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250922" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7593,7 +7663,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250922" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7621,7 +7691,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250921" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7649,7 +7719,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250919" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7677,7 +7747,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250918" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7705,7 +7775,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="vestia_zeta">
+<div class="tl-item collab" data-date="20250918" data-partners="vestia_zeta">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7735,7 +7805,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250914" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7762,7 +7832,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="shiorinovella">
+<div class="tl-item pair" data-date="20250914" data-partners="shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/J5d-bZt-H38" target="_blank">
 
@@ -7811,7 +7881,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20250913" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7841,7 +7911,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250911" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7869,7 +7939,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250910" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7899,7 +7969,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250909" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7927,7 +7997,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250907" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7955,7 +8025,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250906" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -7983,7 +8053,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250904" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8011,7 +8081,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250901" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8041,7 +8111,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250831" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8069,7 +8139,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250831" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8099,7 +8169,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250830" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8127,7 +8197,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20250830" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8157,7 +8227,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250820" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8187,7 +8257,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250819" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8215,7 +8285,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250819" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8243,7 +8313,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250819" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8271,7 +8341,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20250819" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8301,7 +8371,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250818" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8329,7 +8399,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250817" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8357,7 +8427,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250817" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8386,7 +8456,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="usadapekora">
+<div class="tl-item pair" data-date="20250815" data-partners="usadapekora">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/Ar8VP6fNeuA" target="_blank">
 
@@ -8435,7 +8505,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="mococo_abyssgard">
+<div class="tl-item collab" data-date="20250813" data-partners="mococo_abyssgard">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8465,7 +8535,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250811" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8493,7 +8563,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250811" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8521,7 +8591,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250811" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8549,7 +8619,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250811" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8577,7 +8647,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250811" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8605,7 +8675,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250810" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8633,7 +8703,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250810" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8661,7 +8731,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250810" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8689,7 +8759,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250810" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8717,7 +8787,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250806" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8747,7 +8817,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8775,7 +8845,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8803,7 +8873,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8831,7 +8901,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8859,7 +8929,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8887,7 +8957,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20250803" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8917,7 +8987,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250802" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8945,7 +9015,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250802" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -8973,7 +9043,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20250728" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9002,7 +9072,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="hololive">
+<div class="tl-item pair" data-date="20250726" data-partners="hololive">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/J07lSfUD6ew" target="_blank">
 
@@ -9051,7 +9121,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250725" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9079,7 +9149,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20250721" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9109,7 +9179,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20250720" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9139,7 +9209,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250718" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9167,7 +9237,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250716" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9195,7 +9265,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250713" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9223,7 +9293,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250713" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9251,7 +9321,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250709" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9279,7 +9349,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250709" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9309,7 +9379,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250707" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9339,7 +9409,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20250707" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9369,7 +9439,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250707" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9399,7 +9469,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250707" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9429,7 +9499,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250705" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9457,7 +9527,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250703" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9485,7 +9555,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250703" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9513,7 +9583,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20250630" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9543,7 +9613,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kosekibijou kosekibijou moricalliope">
+<div class="tl-item collab" data-date="20250629" data-partners="kosekibijou kosekibijou moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9598,7 +9668,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="akaihaato">
+<div class="tl-item collab" data-date="20250629" data-partners="akaihaato">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9628,7 +9698,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20250621" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9658,7 +9728,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20250620" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9688,7 +9758,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250615" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9716,7 +9786,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250611" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9744,7 +9814,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250611" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9774,7 +9844,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250603" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9802,7 +9872,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250603" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9831,7 +9901,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="shiorinovella">
+<div class="tl-item pair" data-date="20250603" data-partners="shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/pQPYPc41Zzc" target="_blank">
 
@@ -9880,7 +9950,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250601" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9908,7 +9978,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20250531" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9938,7 +10008,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250527" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9966,7 +10036,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250525" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -9994,7 +10064,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="robocosan">
+<div class="tl-item collab" data-date="20250523" data-partners="robocosan">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10024,7 +10094,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ninomaeinanis">
+<div class="tl-item collab" data-date="20250520" data-partners="ninomaeinanis">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10054,7 +10124,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250518" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10081,7 +10151,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="mococo_abyssgard mococo_abyssgard holoen_raorapanthera">
+<div class="tl-item pair" data-date="20250512" data-partners="mococo_abyssgard mococo_abyssgard holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/kQeopZTlqog" target="_blank">
 
@@ -10147,7 +10217,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250511" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10175,7 +10245,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250510" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10203,7 +10273,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250509" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10231,7 +10301,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250508" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10259,7 +10329,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250508" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10289,7 +10359,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250507" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10317,7 +10387,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250507" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10345,7 +10415,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250506" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10373,7 +10443,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250505" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10400,7 +10470,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="irys irys irys hakosbaelz ourokronii takanashikiara mococo_abyssgard mococo_abyssgard ninomaeinanis holoen_gigimurin kosekibijou moricalliope shiorinovella holoen_ceciliaimmergreen nerissaravencroft holoen_raorapanthera">
+<div class="tl-item pair" data-date="20250504" data-partners="irys irys irys hakosbaelz ourokronii takanashikiara mococo_abyssgard mococo_abyssgard ninomaeinanis holoen_gigimurin kosekibijou moricalliope shiorinovella holoen_ceciliaimmergreen nerissaravencroft holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/2toZfafpyW8" target="_blank">
 
@@ -10543,7 +10613,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="ourokronii">
+<div class="tl-item pair" data-date="20250503" data-partners="ourokronii">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/qSm3l2YLu80" target="_blank">
 
@@ -10592,7 +10662,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20250503" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10622,7 +10692,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20250503" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10652,7 +10722,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20250503" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10682,7 +10752,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250502" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10710,7 +10780,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nanashimumei">
+<div class="tl-item collab" data-date="20250428" data-partners="nanashimumei">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10740,7 +10810,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nanashimumei">
+<div class="tl-item collab" data-date="20250427" data-partners="nanashimumei">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10770,7 +10840,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250425" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10798,7 +10868,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250425" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10826,7 +10896,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250424" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10854,7 +10924,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250423" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10882,7 +10952,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20250421" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10912,7 +10982,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kosekibijou">
+<div class="tl-item collab" data-date="20250418" data-partners="kosekibijou">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -10941,7 +11011,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen holoen_raorapanthera">
+<div class="tl-item pair" data-date="20250416" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/MU40vqlgfjA" target="_blank">
 
@@ -11013,7 +11083,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kobokanaeru kobokanaeru nanashimumei airaniiofifteen vestia_zeta">
+<div class="tl-item collab" data-date="20250414" data-partners="kobokanaeru kobokanaeru nanashimumei airaniiofifteen vestia_zeta">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11084,7 +11154,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250409" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11112,7 +11182,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250407" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11142,7 +11212,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250406" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11169,7 +11239,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="shiorinovella">
+<div class="tl-item pair" data-date="20250406" data-partners="shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/xlvI03HHAuE" target="_blank">
 
@@ -11218,7 +11288,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250405" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11246,7 +11316,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250404" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11274,7 +11344,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250329" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11302,7 +11372,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250329" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11330,7 +11400,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250326" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11358,7 +11428,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20250326" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11388,7 +11458,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20250324" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11418,7 +11488,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250323" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11446,7 +11516,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250323" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11474,7 +11544,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250323" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11502,7 +11572,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250321" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11530,7 +11600,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250320" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11558,7 +11628,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250316" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11586,7 +11656,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20250316" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11616,7 +11686,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250314" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11644,7 +11714,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250312" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11674,7 +11744,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20250309" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11704,7 +11774,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250309" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11734,7 +11804,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250308" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11764,7 +11834,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250306" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11792,7 +11862,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250303" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11822,7 +11892,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250302" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11850,7 +11920,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250302" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11878,7 +11948,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250228" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11906,7 +11976,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250227" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11934,7 +12004,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250226" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11962,7 +12032,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250226" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -11990,7 +12060,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250225" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12018,7 +12088,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250223" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12046,7 +12116,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250223" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12074,7 +12144,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250222" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12102,7 +12172,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250221" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12130,7 +12200,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250221" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12158,7 +12228,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250220" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12185,7 +12255,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="takanashikiara">
+<div class="tl-item pair" data-date="20250220" data-partners="takanashikiara">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/brMTfRnWUXU" target="_blank">
 
@@ -12234,7 +12304,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250216" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12262,7 +12332,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250215" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12290,7 +12360,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hakosbaelz">
+<div class="tl-item collab" data-date="20250215" data-partners="hakosbaelz">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12320,7 +12390,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250214" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12348,7 +12418,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250213" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12376,7 +12446,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250209" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12404,7 +12474,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250208" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12432,7 +12502,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250207" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12460,7 +12530,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250206" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12488,7 +12558,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250205" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12516,7 +12586,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20250203" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12546,7 +12616,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250202" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12573,7 +12643,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen kosekibijou shiorinovella nerissaravencroft mococo_abyssgard">
+<div class="tl-item pair" data-date="20250131" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen kosekibijou shiorinovella nerissaravencroft mococo_abyssgard">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/JwC5rwW8LaI" target="_blank">
 
@@ -12663,7 +12733,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250130" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12691,7 +12761,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250130" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12719,7 +12789,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250126" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12747,7 +12817,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250125" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12775,7 +12845,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20250125" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12804,7 +12874,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="kaelakovalskia kaelakovalskia kosekibijou">
+<div class="tl-item pair" data-date="20250125" data-partners="kaelakovalskia kaelakovalskia kosekibijou">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/VxhdDv6cnoA" target="_blank">
 
@@ -12870,7 +12940,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250124" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12898,7 +12968,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250123" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12926,7 +12996,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250123" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12954,7 +13024,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250122" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -12982,7 +13052,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250119" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13010,7 +13080,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250118" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13038,7 +13108,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250118" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13066,7 +13136,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250118" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13093,7 +13163,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="vestia_zeta">
+<div class="tl-item pair" data-date="20250118" data-partners="vestia_zeta">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/IBxTwNL0-Ds" target="_blank">
 
@@ -13142,7 +13212,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20250117" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13171,7 +13241,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin kaelakovalskia">
+<div class="tl-item pair" data-date="20250115" data-partners="holoen_gigimurin holoen_gigimurin kaelakovalskia">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/-skCkwcKbts" target="_blank">
 
@@ -13237,7 +13307,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250114" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13265,7 +13335,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="tokoyamitowa">
+<div class="tl-item collab" data-date="20250114" data-partners="tokoyamitowa">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13294,7 +13364,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="natsuiromatsuri natsuiromatsuri momosuzunene mococo_abyssgard azki tokoyamitowa ourokronii natsuiromatsuri">
+<div class="tl-item pair" data-date="20250113" data-partners="natsuiromatsuri natsuiromatsuri momosuzunene mococo_abyssgard azki tokoyamitowa ourokronii natsuiromatsuri">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/BuLIolGKeGQ" target="_blank">
 
@@ -13390,7 +13460,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250111" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13418,7 +13488,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="tokoyamitowa">
+<div class="tl-item collab" data-date="20250111" data-partners="tokoyamitowa">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13448,7 +13518,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250110" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13476,7 +13546,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ourokronii ourokronii tokoyamitowa rindo_chihaya">
+<div class="tl-item collab" data-date="20250110" data-partners="ourokronii ourokronii tokoyamitowa rindo_chihaya">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13539,7 +13609,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20250110" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13569,7 +13639,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250108" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13597,7 +13667,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250107" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13625,7 +13695,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250107" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13653,7 +13723,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20250106" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13683,7 +13753,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250105" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13711,7 +13781,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250104" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13739,7 +13809,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ceresfauna">
+<div class="tl-item collab" data-date="20250104" data-partners="ceresfauna">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13769,7 +13839,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250103" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13797,7 +13867,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250102" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13825,7 +13895,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20250101" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13853,7 +13923,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20250101" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13883,7 +13953,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20241231" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13913,7 +13983,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20241231" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13943,7 +14013,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ceresfauna ceresfauna mococo_abyssgard">
+<div class="tl-item collab" data-date="20241231" data-partners="ceresfauna ceresfauna mococo_abyssgard">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -13998,7 +14068,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241228" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14026,7 +14096,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241228" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14054,7 +14124,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20241228" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14084,7 +14154,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20241227" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14114,7 +14184,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241226" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14142,7 +14212,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20241226" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14172,7 +14242,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241225" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14200,7 +14270,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241225" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14228,7 +14298,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara takanashikiara takanashikiara">
+<div class="tl-item collab" data-date="20241225" data-partners="takanashikiara takanashikiara takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14283,7 +14353,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241223" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14311,7 +14381,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241223" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14339,7 +14409,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241222" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14367,7 +14437,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241219" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14395,7 +14465,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241218" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14423,7 +14493,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241218" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14451,7 +14521,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241217" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14479,7 +14549,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241217" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14507,7 +14577,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ceresfauna">
+<div class="tl-item collab" data-date="20241217" data-partners="ceresfauna">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14537,7 +14607,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241214" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14565,7 +14635,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241213" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14593,7 +14663,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241212" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14621,7 +14691,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241212" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14649,7 +14719,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241212" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14677,7 +14747,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241210" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14705,7 +14775,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241210" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14733,7 +14803,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241208" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14761,7 +14831,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241208" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14788,7 +14858,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin holoen_raorapanthera">
+<div class="tl-item pair" data-date="20241208" data-partners="holoen_gigimurin holoen_gigimurin holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/Gtft6Mp-CB4" target="_blank">
 
@@ -14854,7 +14924,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241207" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14882,7 +14952,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241207" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14910,7 +14980,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20241207" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -14939,7 +15009,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin nerissaravencroft">
+<div class="tl-item pair" data-date="20241206" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/HeB6Z2zGGRQ" target="_blank">
 
@@ -15011,7 +15081,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241205" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15039,7 +15109,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241204" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15067,7 +15137,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20241203" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15097,7 +15167,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241201" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15125,7 +15195,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241201" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15153,7 +15223,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20241201" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15182,7 +15252,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin nerissaravencroft">
+<div class="tl-item pair" data-date="20241130" data-partners="holoen_gigimurin holoen_gigimurin nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/cBekcLjAW00" target="_blank">
 
@@ -15248,7 +15318,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20241128" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15278,7 +15348,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241127" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15305,7 +15375,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera">
+<div class="tl-item pair" data-date="20241127" data-partners="holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/_MJEjpQRCbE" target="_blank">
 
@@ -15354,7 +15424,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hakosbaelz">
+<div class="tl-item collab" data-date="20241124" data-partners="hakosbaelz">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15384,7 +15454,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella">
+<div class="tl-item collab" data-date="20241122" data-partners="shiorinovella">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15414,7 +15484,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20241122" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15443,7 +15513,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="nerissaravencroft nerissaravencroft shiorinovella">
+<div class="tl-item pair" data-date="20241119" data-partners="nerissaravencroft nerissaravencroft shiorinovella">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/xrdUzJB5xV8" target="_blank">
 
@@ -15508,7 +15578,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin nerissaravencroft">
+<div class="tl-item pair" data-date="20241118" data-partners="holoen_gigimurin holoen_gigimurin nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/eCRLPfFYN4c" target="_blank">
 
@@ -15574,7 +15644,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241117" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15602,7 +15672,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20241116" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15631,7 +15701,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="kureijiollie">
+<div class="tl-item pair" data-date="20241115" data-partners="kureijiollie">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/T5VttZ423u8" target="_blank">
 
@@ -15680,7 +15750,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20241114" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15710,7 +15780,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20241114" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15740,7 +15810,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241112" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15768,7 +15838,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241112" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15796,7 +15866,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20241111" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15826,7 +15896,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241110" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15854,7 +15924,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241109" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15882,7 +15952,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20241108" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15912,7 +15982,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241107" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15940,7 +16010,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241107" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15968,7 +16038,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241107" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -15996,7 +16066,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="vestia_zeta">
+<div class="tl-item collab" data-date="20241107" data-partners="vestia_zeta">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16026,7 +16096,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241106" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16054,7 +16124,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241105" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16082,7 +16152,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241105" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16110,7 +16180,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241104" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16137,7 +16207,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin holoen_raorapanthera holoen_ceciliaimmergreen mococo_abyssgard kureijiollie shiorinovella shirakamifubuki aniamelfissa pavoliareine hiodoshi_ao kosekibijou vestia_zeta akirose nerissaravencroft">
+<div class="tl-item pair" data-date="20241101" data-partners="holoen_gigimurin holoen_gigimurin holoen_raorapanthera holoen_ceciliaimmergreen mococo_abyssgard kureijiollie shiorinovella shirakamifubuki aniamelfissa pavoliareine hiodoshi_ao kosekibijou vestia_zeta akirose nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/bdwGIYhBXuU" target="_blank">
 
@@ -16275,7 +16345,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241031" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16303,7 +16373,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="akaihaato">
+<div class="tl-item collab" data-date="20241031" data-partners="akaihaato">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16333,7 +16403,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241030" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16361,7 +16431,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241030" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16389,7 +16459,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241030" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16417,7 +16487,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241029" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16445,7 +16515,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20241029" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16475,7 +16545,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241028" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16503,7 +16573,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241027" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16531,7 +16601,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_raorapanthera">
+<div class="tl-item collab" data-date="20241026" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16586,7 +16656,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241024" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16614,7 +16684,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241024" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16641,7 +16711,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen kosekibijou holoen_gigimurin">
+<div class="tl-item pair" data-date="20241024" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen kosekibijou holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/9onjfxeWVCw" target="_blank">
 
@@ -16713,7 +16783,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241021" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16741,7 +16811,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241020" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16769,7 +16839,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241020" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16797,7 +16867,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20241019" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16827,7 +16897,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241016" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16854,7 +16924,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="nerissaravencroft">
+<div class="tl-item pair" data-date="20241015" data-partners="nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/y8Nn0CdTlzU" target="_blank">
 
@@ -16902,7 +16972,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="robocosan">
+<div class="tl-item pair" data-date="20241013" data-partners="robocosan">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/AomT5J0Udjo" target="_blank">
 
@@ -16951,7 +17021,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241012" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -16979,7 +17049,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241011" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17007,7 +17077,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241011" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17035,7 +17105,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241010" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17063,7 +17133,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241006" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17091,7 +17161,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241006" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17119,7 +17189,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241005" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17147,7 +17217,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241004" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17175,7 +17245,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20241003" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17203,7 +17273,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20241003" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17232,7 +17302,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20241002" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/D6priUlfgnM" target="_blank">
 
@@ -17281,7 +17351,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240929" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17309,7 +17379,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240928" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17337,7 +17407,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240928" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17365,7 +17435,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="watsonamelia">
+<div class="tl-item collab" data-date="20240928" data-partners="watsonamelia">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17395,7 +17465,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="shiorinovella shiorinovella takanashikiara mococo_abyssgard">
+<div class="tl-item collab" data-date="20240927" data-partners="shiorinovella shiorinovella takanashikiara mococo_abyssgard">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17458,7 +17528,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20240927" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17488,7 +17558,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240926" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17516,7 +17586,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240925" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17544,7 +17614,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240924" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17572,7 +17642,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240922" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17600,7 +17670,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240922" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17628,7 +17698,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240921" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17656,7 +17726,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240918" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17684,7 +17754,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240915" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17712,7 +17782,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240914" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17740,7 +17810,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="moricalliope">
+<div class="tl-item collab" data-date="20240912" data-partners="moricalliope">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17770,7 +17840,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240910" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17797,7 +17867,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="gawrgura gawrgura hakosbaelz irys shiorinovella nanashimumei ninomaeinanis ceresfauna holoen_raorapanthera holoen_ceciliaimmergreen mococo_abyssgard mococo_abyssgard holoen_gigimurin nerissaravencroft moricalliope kosekibijou watsonamelia">
+<div class="tl-item pair" data-date="20240908" data-partners="gawrgura gawrgura hakosbaelz irys shiorinovella nanashimumei ninomaeinanis ceresfauna holoen_raorapanthera holoen_ceciliaimmergreen mococo_abyssgard mococo_abyssgard holoen_gigimurin nerissaravencroft moricalliope kosekibijou watsonamelia">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/_urPfTQnLes" target="_blank">
 
@@ -17947,7 +18017,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240906" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -17975,7 +18045,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20240906" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18005,7 +18075,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="watsonamelia">
+<div class="tl-item collab" data-date="20240906" data-partners="watsonamelia">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18034,7 +18104,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin holoen_gigimurin kosekibijou takanashikiara">
+<div class="tl-item pair" data-date="20240906" data-partners="holoen_gigimurin holoen_gigimurin kosekibijou takanashikiara">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/Gw0dZbPKTG4" target="_blank">
 
@@ -18105,7 +18175,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="irys">
+<div class="tl-item pair" data-date="20240905" data-partners="irys">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/1_dhGL0K5-k" target="_blank">
 
@@ -18154,7 +18224,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240904" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18181,7 +18251,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen kosekibijou nerissaravencroft ceresfauna">
+<div class="tl-item pair" data-date="20240903" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen kosekibijou nerissaravencroft ceresfauna">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/oVguNTPnDww" target="_blank">
 
@@ -18258,7 +18328,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="irys irys holoen_raorapanthera mococo_abyssgard mococo_abyssgard takanashikiara">
+<div class="tl-item pair" data-date="20240902" data-partners="irys irys holoen_raorapanthera mococo_abyssgard mococo_abyssgard takanashikiara">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/M3cuDNZrIKM" target="_blank">
 
@@ -18341,7 +18411,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="irys irys ourokronii holoen_ceciliaimmergreen watsonamelia nanashimumei gawrgura holoen_gigimurin shiorinovella hakosbaelz mococo_abyssgard mococo_abyssgard ninomaeinanis ceresfauna takanashikiara moricalliope holoen_raorapanthera kosekibijou nerissaravencroft">
+<div class="tl-item pair" data-date="20240901" data-partners="irys irys ourokronii holoen_ceciliaimmergreen watsonamelia nanashimumei gawrgura holoen_gigimurin shiorinovella hakosbaelz mococo_abyssgard mococo_abyssgard ninomaeinanis ceresfauna takanashikiara moricalliope holoen_raorapanthera kosekibijou nerissaravencroft">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/2qiX7084obE" target="_blank">
 
@@ -18503,7 +18573,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20240831" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18533,7 +18603,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="omarupolka">
+<div class="tl-item collab" data-date="20240829" data-partners="omarupolka">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18563,7 +18633,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240828" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18590,7 +18660,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="kureijiollie">
+<div class="tl-item pair" data-date="20240827" data-partners="kureijiollie">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/oZufzBfeXlU" target="_blank">
 
@@ -18639,7 +18709,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240826" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18667,7 +18737,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20240826" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18697,7 +18767,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="kureijiollie">
+<div class="tl-item collab" data-date="20240826" data-partners="kureijiollie">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18727,7 +18797,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20240825" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18757,7 +18827,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240822" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18785,7 +18855,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240822" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18813,7 +18883,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240821" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18841,7 +18911,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20240821" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18871,7 +18941,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hiodoshi_ao">
+<div class="tl-item collab" data-date="20240821" data-partners="hiodoshi_ao">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18901,7 +18971,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240820" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18929,7 +18999,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240818" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18957,7 +19027,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240817" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -18985,7 +19055,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240816" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19013,7 +19083,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240814" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19041,7 +19111,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240810" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19069,7 +19139,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240809" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19097,7 +19167,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20240809" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19127,7 +19197,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240808" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19155,7 +19225,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen">
+<div class="tl-item collab" data-date="20240807" data-partners="holoen_gigimurin holoen_gigimurin holoen_ceciliaimmergreen">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19209,7 +19279,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_raorapanthera">
+<div class="tl-item pair" data-date="20240806" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/NHDlgPjY9fM" target="_blank">
 
@@ -19275,7 +19345,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240805" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19303,7 +19373,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240804" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19331,7 +19401,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nanashimumei">
+<div class="tl-item collab" data-date="20240804" data-partners="nanashimumei">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19361,7 +19431,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240803" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19389,7 +19459,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240802" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19417,7 +19487,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_gigimurin">
+<div class="tl-item collab" data-date="20240801" data-partners="holoen_gigimurin">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19446,7 +19516,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="kosekibijou kosekibijou holoen_raorapanthera moricalliope">
+<div class="tl-item pair" data-date="20240730" data-partners="kosekibijou kosekibijou holoen_raorapanthera moricalliope">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/_if-b00-7tg" target="_blank">
 
@@ -19518,7 +19588,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240729" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19546,7 +19616,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240728" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19574,7 +19644,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240726" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19602,7 +19672,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240724" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19630,7 +19700,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240724" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19658,7 +19728,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240723" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19686,7 +19756,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240722" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19714,7 +19784,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240722" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19741,7 +19811,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_raorapanthera shiorinovella nerissaravencroft holoen_gigimurin kosekibijou mococo_abyssgard">
+<div class="tl-item pair" data-date="20240722" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_raorapanthera shiorinovella nerissaravencroft holoen_gigimurin kosekibijou mococo_abyssgard">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/brFG95mUUg8" target="_blank">
 
@@ -19837,7 +19907,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240721" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19865,7 +19935,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240720" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19892,7 +19962,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen">
+<div class="tl-item pair" data-date="20240719" data-partners="holoen_ceciliaimmergreen">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/zxapgYwDkco" target="_blank">
 
@@ -19941,7 +20011,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240718" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19969,7 +20039,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nerissaravencroft">
+<div class="tl-item collab" data-date="20240718" data-partners="nerissaravencroft">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -19998,7 +20068,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin">
+<div class="tl-item pair" data-date="20240717" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/QolpOsUVh_M" target="_blank">
 
@@ -20064,7 +20134,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240716" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20092,7 +20162,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240716" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20120,7 +20190,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240716" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20148,7 +20218,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240715" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20176,7 +20246,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240714" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20204,7 +20274,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240714" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20232,7 +20302,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="nanashimumei">
+<div class="tl-item collab" data-date="20240714" data-partners="nanashimumei">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20262,7 +20332,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20240711" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20292,7 +20362,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="ceresfauna">
+<div class="tl-item collab" data-date="20240709" data-partners="ceresfauna">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20322,7 +20392,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240708" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20350,7 +20420,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240707" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20378,7 +20448,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20240707" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20408,7 +20478,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240706" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20436,7 +20506,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="takanashikiara">
+<div class="tl-item collab" data-date="20240706" data-partners="takanashikiara">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20465,7 +20535,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen shiorinovella ceresfauna moricalliope nerissaravencroft holoen_gigimurin mococo_abyssgard">
+<div class="tl-item pair" data-date="20240706" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen shiorinovella ceresfauna moricalliope nerissaravencroft holoen_gigimurin mococo_abyssgard">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/g0HLlIXj5ks" target="_blank">
 
@@ -20561,7 +20631,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240705" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20588,7 +20658,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20240704" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/oTP1YGH6qhU" target="_blank">
 
@@ -20637,7 +20707,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240703" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20665,7 +20735,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="hololive">
+<div class="tl-item collab" data-date="20240703" data-partners="hololive">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20695,7 +20765,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240702" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20723,7 +20793,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240702" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20751,7 +20821,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240630" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20779,7 +20849,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240630" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20807,7 +20877,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240629" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20834,7 +20904,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin holoen_raorapanthera">
+<div class="tl-item pair" data-date="20240628" data-partners="holoen_ceciliaimmergreen holoen_ceciliaimmergreen holoen_gigimurin holoen_raorapanthera">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/lWhR8sk-0xo" target="_blank">
 
@@ -20906,7 +20976,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240627" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20934,7 +21004,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item collab" data-partners="holoen_raorapanthera">
+<div class="tl-item collab" data-date="20240626" data-partners="holoen_raorapanthera">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20964,7 +21034,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240625" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -20992,7 +21062,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240625" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21020,7 +21090,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240624" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21048,7 +21118,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240623" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21076,7 +21146,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240623" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21103,7 +21173,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_ceciliaimmergreen">
+<div class="tl-item pair" data-date="20240623" data-partners="holoen_raorapanthera holoen_raorapanthera holoen_ceciliaimmergreen">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/7AON-46cnOQ" target="_blank">
 
@@ -21169,7 +21239,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240622" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21196,7 +21266,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item pair" data-partners="holoen_gigimurin">
+<div class="tl-item pair" data-date="20240622" data-partners="holoen_gigimurin">
 <div class="tl-pair-stream">
 <a class="tl-card" href="https://youtu.be/NdlSHUEVCj8" target="_blank">
 
@@ -21245,7 +21315,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240620" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21273,7 +21343,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="20240619" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21301,7 +21371,7 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 2rem; }
 
 
 
-<div class="tl-item stream" data-partners="">
+<div class="tl-item stream" data-date="" data-partners="">
 <div class="tl-dot"></div>
 <div class="tl-card">
 
@@ -21341,14 +21411,42 @@ function toggleTheme() {
 }
 function filterTimeline() {
   const kw = document.getElementById('keywordFilter').value.toLowerCase();
-  const f = document.getElementById('partnerFilter').value;
+  const dateFrom = document.getElementById('dateFrom').value;
+  const dateTo = document.getElementById('dateTo').value;
+  const partnerSel = document.getElementById('partnerFilter');
+  const selected = Array.from(partnerSel.selectedOptions).map(o => o.value).filter(v => v);
+
+  let visible = 0, total = 0;
   document.querySelectorAll('.tl-item').forEach(el => {
+    total++;
     const title = (el.querySelector('.tl-title')?.textContent || '').toLowerCase();
     const p = el.dataset.partners || '';
+    const d = el.dataset.date || '';
+
     const matchKw = !kw || title.includes(kw);
-    const matchF = !f || p.includes(f);
-    el.style.display = matchKw && matchF ? '' : 'none';
+    const matchDate = (!dateFrom || d >= dateFrom.replace(/-/g, '')) && (!dateTo || d <= dateTo.replace(/-/g, ''));
+    const matchPartner = selected.length === 0 || selected.some(s => p.includes(s));
+
+    const show = matchKw && matchDate && matchPartner;
+    el.style.display = show ? '' : 'none';
+    if (show) visible++;
   });
+
+  const info = document.getElementById('filterInfo');
+  if (visible < total) {
+    info.textContent = 'Showing ' + visible + ' of ' + total + ' entries';
+  } else {
+    info.textContent = '';
+  }
+}
+
+function resetFilters() {
+  document.getElementById('keywordFilter').value = '';
+  document.getElementById('dateFrom').value = '';
+  document.getElementById('dateTo').value = '';
+  const sel = document.getElementById('partnerFilter');
+  for (let o of sel.options) o.selected = false;
+  filterTimeline();
 }
 </script>
 </body>
