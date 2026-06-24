@@ -1,7 +1,19 @@
 {
   "target": "juufuuteiraden",
-  "count": 1721,
+  "count": 1722,
   "entries": [
+    {
+      "video_id": "UihIB2stPzo",
+      "title": "【 #らでピク続報 】（リスナーさんが）クイズ正解するまで告知できません！、「儒烏風亭らでんがご案内！ピクセルミュージアム」 追加コンテンツ【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260624",
+      "url": "https://youtu.be/UihIB2stPzo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UihIB2stPzo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "vypJ9loQjGQ",
       "title": "izooダンス踊ってみた「体感型動物園iZoo公式テーマソング『iZooはいずこだ！？伊豆！ iZoo！』」",
@@ -2643,24 +2655,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aSmPF7QwVUI",
-      "title": "出囃子ジャポニズム",
-      "published_at": "20260204",
-      "url": "https://youtu.be/aSmPF7QwVUI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zGxgs3Nw5EY",
       "title": "出囃子ジャポニズム (Instrumental)",
       "published_at": "20260204",
       "url": "https://youtu.be/zGxgs3Nw5EY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aSmPF7QwVUI",
+      "title": "出囃子ジャポニズム",
+      "published_at": "20260204",
+      "url": "https://youtu.be/aSmPF7QwVUI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

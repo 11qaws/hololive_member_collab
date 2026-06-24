@@ -110,7 +110,7 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
 <h2>Search Timeline</h2>
 <p>Search across all members' timeline entries.</p>
 <input type="text" id="search-input" placeholder="Search titles, members, partners…" autofocus>
-<div class="search-hint"><span id="result-count">59835</span> entries indexed (12.6MB). Type to search.</div>
+<div class="search-hint"><span id="result-count">160855</span> entries indexed (35.4MB). Type to search.</div>
 <ul id="results"></ul>
 <div id="search-status">Loading index…</div>
 
@@ -135,7 +135,7 @@ p { color: var(--text-2); margin-bottom: 1rem; font-size: .9rem; }
   function loadIndex() {
     if (index || loading) return;
     loading = true;
-    status.textContent = 'Loading search index (12.6MB)…';
+    status.textContent = 'Loading search index (35.4MB)…';
     status.classList.add('loading');
     fetch('data/search_index.json')
       .then(function(r) { return r.json(); })

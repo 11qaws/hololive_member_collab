@@ -1,7 +1,19 @@
 {
   "target": "mizumiya_su",
-  "count": 1988,
+  "count": 1989,
   "entries": [
+    {
+      "video_id": "DlIk6xQ9n5w",
+      "title": "夜の踊り子/みにみやが踊ってみた #hololive #vtuber #dance",
+      "published_at": "20260624",
+      "url": "https://youtu.be/DlIk6xQ9n5w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DlIk6xQ9n5w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "TWM-l7T1ih8",
       "title": "【freechat】💬💙/フリーチャット【水宮枢/ホロライブDEV_IS】",
@@ -88,7 +100,7 @@
     },
     {
       "video_id": "Mj0dkQj0AHU",
-      "title": "【Minecraft】ワンブロックの世界で目指せエンドラ討伐⚔️✨#2【水宮枢/ホロライブDEV_IS】",
+      "title": "【Minecraft】ワンブロックの世界で目指せエンドラ討伐⚔️✨#２【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260622",
       "url": "https://youtu.be/Mj0dkQj0AHU",
       "entry_type": "stream",
@@ -111,8 +123,20 @@
       "paired_self": null
     },
     {
+      "video_id": "MI9Ajk_RJ4s",
+      "title": "#7 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260622",
+      "url": "https://youtu.be/MI9Ajk_RJ4s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MI9Ajk_RJ4s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "juGZtnSNIFk",
-      "title": "【#ポケチャンホロライブ杯】初心者🔰だけど愛で勝ちたい！楽しむぞ〜！【水宮枢／ホロライブDEV_IS】",
+      "title": "【#ポケチャンホロライブ杯】初心者🔰だけど愛で勝ちたい!楽しむぞ〜!【水宮枢/ホロライブDEV_IS】",
       "published_at": "20260622",
       "url": "https://youtu.be/juGZtnSNIFk",
       "entry_type": "stream",
@@ -179,18 +203,6 @@
       "thumbnail": "https://img.youtube.com/vi/NBOtojTB5bI/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "MI9Ajk_RJ4s",
-      "title": "#7 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260621",
-      "url": "https://youtu.be/MI9Ajk_RJ4s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MI9Ajk_RJ4s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
