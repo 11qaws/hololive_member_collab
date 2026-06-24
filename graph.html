@@ -317,12 +317,16 @@ g.node.selected circle:first-child {
 
   function forceCluster(alpha) {
     if (filterHandle && activeSet.size > 0) {
-      // Filter mode: active nodes gently toward center, inactive nodes untouched
       var cx = width / 2, cy = height / 2;
       nodeData.forEach(function(n) {
-        if (activeSet.has(n.id)) {
-          n.vx += (cx - n.x) * 0.04 * alpha;
-          n.vy += (cy - n.y) * 0.04 * alpha;
+        if (n.id === filterHandle) {
+          n.fx = cx; n.fy = cy;
+        } else if (!activeSet.has(n.id)) {
+          n.fx = n.x; n.fy = n.y;
+        } else {
+          n.fx = null; n.fy = null;
+          n.vx += (cx - n.x) * 0.03 * alpha;
+          n.vy += (cy - n.y) * 0.03 * alpha;
         }
       });
     } else {
@@ -475,6 +479,7 @@ g.node.selected circle:first-child {
     if (!filterHandle) return;
     filterHandle = '';
     activeSet = new Set();
+    nodeData.forEach(function(n) { n.fx = null; n.fy = null; });
     filterInput.value = '';
     filterClear.classList.remove('show');
     nodeGroups.classed('inactive selected', false);
