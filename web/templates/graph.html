@@ -275,23 +275,40 @@ g.node.selected circle:first-child {
       .append('circle').attr('r', r);
   });
 
-  /* ── Cluster force ── */
+  /* ── Cluster force (2-mode) ── */
+  var activeSet = new Set();
+
   function forceCluster(alpha) {
-    var centers = {}, counts = {};
-    nodeData.forEach(function(n) {
-      var cid = n.clusterId;
-      if (!centers[cid]) { centers[cid] = {x: 0, y: 0}; counts[cid] = 0; }
-      centers[cid].x += n.x; centers[cid].y += n.y;
-      counts[cid] += 1;
-    });
-    Object.keys(centers).forEach(function(k) {
-      centers[k].x /= counts[k]; centers[k].y /= counts[k];
-    });
-    nodeData.forEach(function(n) {
-      var c = centers[n.clusterId];
-      n.vx += (c.x - n.x) * 0.05 * alpha;
-      n.vy += (c.y - n.y) * 0.05 * alpha;
-    });
+    if (filterHandle && activeSet.size > 0) {
+      // Filter mode: active nodes → center, inactive → push away
+      var cx = width / 2, cy = height / 2;
+      nodeData.forEach(function(n) {
+        if (activeSet.has(n.id)) {
+          n.vx += (cx - n.x) * 0.08 * alpha;
+          n.vy += (cy - n.y) * 0.08 * alpha;
+        } else {
+          n.vx += (n.x - cx) * 0.04 * alpha;
+          n.vy += (n.y - cy) * 0.04 * alpha;
+        }
+      });
+    } else {
+      // Normal mode: community centroids
+      var centers = {}, counts = {};
+      nodeData.forEach(function(n) {
+        var cid = n.clusterId;
+        if (!centers[cid]) { centers[cid] = {x: 0, y: 0}; counts[cid] = 0; }
+        centers[cid].x += n.x; centers[cid].y += n.y;
+        counts[cid] += 1;
+      });
+      Object.keys(centers).forEach(function(k) {
+        centers[k].x /= counts[k]; centers[k].y /= counts[k];
+      });
+      nodeData.forEach(function(n) {
+        var c = centers[n.clusterId];
+        n.vx += (c.x - n.x) * 0.05 * alpha;
+        n.vy += (c.y - n.y) * 0.05 * alpha;
+      });
+    }
   }
 
   var simulation = d3.forceSimulation(nodeData)
@@ -302,6 +319,7 @@ g.node.selected circle:first-child {
       return -80 - (d.collabCount || 0) * 0.3;
     }))
     .force('cluster', forceCluster)
+    .force('center', d3.forceCenter(width / 2, height / 2).strength(0.03))
     .force('collision', d3.forceCollide().radius(function(d) { return rScale(d.collabCount) + 3; }));
 
   var mainGroup = svg.append('g');
@@ -398,6 +416,7 @@ g.node.selected circle:first-child {
     filterClear.classList.add('show');
 
     var connected = getConnectedSet(handle);
+    activeSet = connected;
 
     nodeGroups.classed('inactive', function(d) { return !connected.has(d.id); })
       .classed('selected', function(d) { return d.id === handle; });
@@ -408,12 +427,13 @@ g.node.selected circle:first-child {
     });
 
     renderPanel(handle, connected);
-    simulation.alpha(0.5).restart();
+    simulation.alpha(0.8).restart();
   }
 
   function clearFilter() {
     if (!filterHandle) return;
     filterHandle = '';
+    activeSet = new Set();
     filterInput.value = '';
     filterClear.classList.remove('show');
     nodeGroups.classed('inactive selected', false);
