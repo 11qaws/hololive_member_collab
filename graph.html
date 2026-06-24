@@ -317,15 +317,12 @@ g.node.selected circle:first-child {
 
   function forceCluster(alpha) {
     if (filterHandle && activeSet.size > 0) {
-      // Filter mode: active nodes → center, inactive → push away
+      // Filter mode: active nodes gently toward center, inactive nodes untouched
       var cx = width / 2, cy = height / 2;
       nodeData.forEach(function(n) {
         if (activeSet.has(n.id)) {
-          n.vx += (cx - n.x) * 0.08 * alpha;
-          n.vy += (cy - n.y) * 0.08 * alpha;
-        } else {
-          n.vx += (n.x - cx) * 0.04 * alpha;
-          n.vy += (n.y - cy) * 0.04 * alpha;
+          n.vx += (cx - n.x) * 0.04 * alpha;
+          n.vy += (cy - n.y) * 0.04 * alpha;
         }
       });
     } else {
@@ -464,6 +461,13 @@ g.node.selected circle:first-child {
     });
 
     renderPanel(handle, connected);
+    // Only apply force to active↔active links so inactive nodes don't drag active ones
+    var filteredLinks = linkData.filter(function(e) {
+      var s = typeof e.source === 'object' ? e.source.id : e.source;
+      var t = typeof e.target === 'object' ? e.target.id : e.target;
+      return connected.has(s) && connected.has(t);
+    });
+    simulation.force('link').links(filteredLinks);
     simulation.alpha(0.8).restart();
   }
 
@@ -477,6 +481,7 @@ g.node.selected circle:first-child {
     links.classed('edge-inactive', false);
     detailPanel.classList.remove('open');
     detailPanel.innerHTML = '';
+    simulation.force('link').links(linkData);
     simulation.alpha(0.3).restart();
   }
 
