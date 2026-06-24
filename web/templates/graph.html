@@ -53,7 +53,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 {% endblock %}
 {% block content %}
 <h2>Collab Network</h2>
-<p>Nodes = members, edges = collab frequency. Nodes are grouped by community detection — closer = more frequent collabs. Drag to explore. Scroll to zoom.</p>
+<p>Nodes = members (profile photo + branch color border), edges = collab frequency. Nodes are grouped by community detection — closer = more frequent collabs. Drag to explore. Scroll to zoom.</p>
 
 <div class="legend">
 {% for br, color in branch_colors %}
@@ -68,12 +68,14 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 {% endblock %}
 {% block scripts %}
 <script id="nicknames" type="application/json">{{ nicknames_json|safe }}</script>
+<script id="member-photos" type="application/json">{{ member_photos_json|safe }}</script>
 <script id="graph-data" type="application/json">{{ graph_json|safe }}</script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
 (function() {
-  var data, nicknames = {};
+  var data, nicknames = {}, memberPhotos = {};
   try { nicknames = JSON.parse(document.getElementById('nicknames').textContent); } catch(e) {}
+  try { memberPhotos = JSON.parse(document.getElementById('member-photos').textContent); } catch(e) {}
   try { data = JSON.parse(document.getElementById('graph-data').textContent); } catch(e) { return; }
   function getNickname(h) { return nicknames[h] || h; }
   if (!data || !data.nodes || data.nodes.length === 0) return;
@@ -82,7 +84,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
   var tooltip = d3.select('#tooltip');
   var width = svg.node().parentNode.clientWidth;
   var height = 700;
-  svg.attr('width', width).attr('height', height);
+  svg.attr('width', width).attr('height', height).style('background', 'var(--surface)');
 
   var validIds = {};
   data.nodes.forEach(function(n) { validIds[n.id] = true; });
@@ -96,20 +98,26 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     .domain([1, d3.max(nodeData, function(d) { return d.collabCount; }) || 1])
     .range([4, 22]);
 
-  // Cluster force — pull nodes toward their own cluster's centroid
+  // Create defs with clip paths for circular images
+  var defs = svg.append('defs');
+  nodeData.forEach(function(d) {
+    var r = Math.max(rScale(d.collabCount), 4);
+    var cid = 'cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_');
+    defs.append('clipPath').attr('id', cid)
+      .append('circle').attr('r', r);
+  });
+
+  // Cluster force
   function forceCluster(alpha) {
-    var centers = {};
-    var counts = {};
+    var centers = {}, counts = {};
     nodeData.forEach(function(n) {
       var cid = n.clusterId;
       if (!centers[cid]) { centers[cid] = {x: 0, y: 0}; counts[cid] = 0; }
-      centers[cid].x += n.x;
-      centers[cid].y += n.y;
+      centers[cid].x += n.x; centers[cid].y += n.y;
       counts[cid] += 1;
     });
     Object.keys(centers).forEach(function(k) {
-      centers[k].x /= counts[k];
-      centers[k].y /= counts[k];
+      centers[k].x /= counts[k]; centers[k].y /= counts[k];
     });
     nodeData.forEach(function(n) {
       var c = centers[n.clusterId];
@@ -130,15 +138,16 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 
   var mainGroup = svg.append('g');
 
-  var links2 = mainGroup.selectAll('line').data(linkData).enter().append('line')
+  // Links
+  var links = mainGroup.selectAll('line').data(linkData).enter().append('line')
     .attr('stroke', 'var(--border)')
     .attr('stroke-width', function(d) { return Math.sqrt(d.weight) * 1.2; })
     .attr('stroke-opacity', function(d) { return Math.min(0.7, 0.1 + d.weight * 0.02); });
 
-  var nodes2 = mainGroup.selectAll('circle').data(nodeData).enter().append('circle')
-    .attr('r', function(d) { return rScale(d.collabCount); })
-    .attr('fill', function(d) { return d.color; })
-    .attr('stroke', 'var(--surface)').attr('stroke-width', 2)
+  // Node groups (centered via transform in tick)
+  var nodeGroups = mainGroup.selectAll('g.node')
+    .data(nodeData).enter().append('g')
+    .attr('class', 'node')
     .attr('cursor', 'pointer')
     .on('mouseover', function(ev, d) {
       tooltip.html('<strong>' + d.id + '</strong> (' + getNickname(d.id) + ')<br>'
@@ -164,7 +173,29 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
       })
     );
 
-  var labels2 = mainGroup.selectAll('text').data(nodeData).enter().append('text')
+  // Branch-colored border circle (white fill)
+  nodeGroups.append('circle')
+    .attr('r', function(d) { return Math.max(rScale(d.collabCount), 4); })
+    .attr('fill', function(d) { return memberPhotos[d.id] ? 'var(--surface)' : d.color; })
+    .attr('stroke', function(d) { return d.color; })
+    .attr('stroke-width', 2.5);
+
+  // Profile image (only if photo available)
+  nodeGroups.each(function(d) {
+    var photo = memberPhotos[d.id];
+    if (photo) {
+      var r = Math.max(rScale(d.collabCount), 4);
+      var cid = 'cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_');
+      d3.select(this).append('image')
+        .attr('href', photo)
+        .attr('x', -r).attr('y', -r)
+        .attr('width', r * 2).attr('height', r * 2)
+        .attr('clip-path', 'url(#' + cid + ')');
+    }
+  });
+
+  // Label
+  nodeGroups.append('text')
     .text(function(d) { return getNickname(d.id); })
     .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.45); })
     .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
@@ -173,12 +204,12 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     .attr('pointer-events', 'none');
 
   simulation.nodes(nodeData).on('tick', function() {
-    links2.attr('x1', function(d) { return d.source.x; })
+    links
+      .attr('x1', function(d) { return d.source.x; })
       .attr('y1', function(d) { return d.source.y; })
       .attr('x2', function(d) { return d.target.x; })
       .attr('y2', function(d) { return d.target.y; });
-    nodes2.attr('cx', function(d) { return d.x; }).attr('cy', function(d) { return d.y; });
-    labels2.attr('x', function(d) { return d.x; }).attr('y', function(d) { return d.y; });
+    nodeGroups.attr('transform', function(d) { return 'translate(' + d.x + ',' + d.y + ')'; });
   });
 
   simulation.force('link').links(linkData);
@@ -186,9 +217,6 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
   svg.call(d3.zoom().scaleExtent([0.1, 4]).on('zoom', function(ev) {
     mainGroup.attr('transform', ev.transform);
   }));
-
-  // Color the svg background to make white labels visible on any background
-  svg.style('background', 'var(--surface)');
 })();
 </script>
 {% endblock %}

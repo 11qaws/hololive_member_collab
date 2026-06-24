@@ -239,9 +239,12 @@ def build_site():
     ]
     graph_data = build_graph_data()
     graph_json = json.dumps(graph_data, ensure_ascii=False)
+    member_photos = {m.handle: m.photo_url for m in members if m.photo_url}
+    member_photos_json = json.dumps(member_photos, ensure_ascii=False)
     html = _fix_links(env.get_template("graph.html").render(
         graph_json=graph_json, branch_colors=branch_colors_list,
-        nicknames_json=nicknames_json, nav_active="graph"))
+        nicknames_json=nicknames_json, member_photos_json=member_photos_json,
+        nav_active="graph"))
     (site_dir / "graph.html").write_text(html, encoding="utf-8")
 
     print(f"Site built: {site_dir}")
