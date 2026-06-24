@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 668,
+  "count": 673,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7347,6 +7347,61 @@
       "published_at": "20240618",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-2MvcDyYYZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yh7M2Js1aHQ",
+      "title": "[New Original Audio Story] #holoJustice  — One Tale After Another",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yh7M2Js1aHQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uk6w4h6-b1w",
+      "title": "【JUSTICE'S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな~🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uk6w4h6-b1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjD5PolJkII",
+      "title": "【初VRChat】Justiceからの招待状…?おや…? #JusticeHalloween【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjD5PolJkII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gFWRNduoUaQ",
+      "title": "【OFF COLLAB】ラオーラママと空想料理「ピザバーグ」作ってみたーい!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gFWRNduoUaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D-gzKc20Rkw",
+      "title": "【Radicon cooking】ラオーラママにイタリア料理を学ぼう✨【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20240819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D-gzKc20Rkw",
       "status": "unreviewed",
       "note": null
     }

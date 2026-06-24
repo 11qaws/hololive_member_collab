@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 980,
+  "count": 986,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -10779,6 +10779,72 @@
       "published_at": "20210817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SLnxCyzFgPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9ZO5XCNu2uY",
+      "title": "【KEEP TALKING AND NOBODY EXPLODES with KRONII】how fast can we make the clock crack 🐾 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260623",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9ZO5XCNu2uY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hzh2q88f9yg",
+      "title": "【 #ホロ新春ゲーム祭2026 】花チームいくぞ~!Hololive New Year Game Festival 2026⛩️【#一条莉々華 #hololive 】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hzh2q88f9yg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cLZXcIV9PdI",
+      "title": "【 #ホロナツ歌枠リレー 】ぎょえええええええ【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20250725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cLZXcIV9PdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bjD5rbzRaN4",
+      "title": "【#ホロ新春ゲーム祭】本番!Fall Guysた生き残るぞ~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bjD5rbzRaN4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9YfCICERGi0",
+      "title": "【#ホロ新春ゲーム祭】本番!8番出口RTAとFall Guysたのしく勝つぞー!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9YfCICERGi0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u2qXADcK0oY",
+      "title": "【 #AstonishinglyKAEOTIC 】カエラ先輩の誕生日パーティー🎈【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20240830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u2qXADcK0oY",
       "status": "unreviewed",
       "note": null
     }

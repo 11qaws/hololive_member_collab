@@ -176,7 +176,7 @@
   function insertMonthDivider(prevMonth, currentMonth) {
     if (!currentMonth) return '';
     if (currentMonth !== prevMonth) {
-      return '<div class="tl-month-divider"><span class="tl-month-label">' + monthLabel(currentMonth) + '</span></div>';
+      return '<div class="tl-month-divider"><span class="tl-month-label">' + monthLabel(prevMonth) + '</span></div>';
     }
     return '';
   }

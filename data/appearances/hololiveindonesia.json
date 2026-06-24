@@ -1,0 +1,28 @@
+{
+  "target": "hololiveindonesia",
+  "count": 2,
+  "appearances": [
+    {
+      "video_id": "GvDwA90OOuU",
+      "title": "【チラ見せ】hololive Indonesia 5th Anniversary LIVE Chromatic Future【#holoIDChromaticFuture 】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260224",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GvDwA90OOuU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mwWZ7ix_qBw",
+      "title": "【DXプラン限定】hololive Indonesia 5th Anniversary LIVE Chromatic Future【#holoIDChromaticFuture 】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mwWZ7ix_qBw",
+      "status": "unreviewed",
+      "note": null
+    }
+  ]
+}

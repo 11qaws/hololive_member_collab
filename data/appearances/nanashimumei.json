@@ -1,6 +1,6 @@
 {
   "target": "nanashimumei",
-  "count": 676,
+  "count": 677,
   "appearances": [
     {
       "video_id": "3n1AThmEii8",
@@ -7435,6 +7435,17 @@
       "published_at": "20210817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SLnxCyzFgPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YQuwPNdU5L8",
+      "title": "【#ホロライブ大運動会2023】黄組の先輩と一緒に練習するー!!! #Minecraft【#一条莉々華/hololive DEV_IS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20231102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YQuwPNdU5L8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 540,
+  "count": 545,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -5939,6 +5939,61 @@
       "published_at": "20240618",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-2MvcDyYYZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yh7M2Js1aHQ",
+      "title": "[New Original Audio Story] #holoJustice  — One Tale After Another",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yh7M2Js1aHQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bjD5rbzRaN4",
+      "title": "【#ホロ新春ゲーム祭】本番!Fall Guysた生き残るぞ~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bjD5rbzRaN4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9YfCICERGi0",
+      "title": "【#ホロ新春ゲーム祭】本番!8番出口RTAとFall Guysたのしく勝つぞー!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9YfCICERGi0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uk6w4h6-b1w",
+      "title": "【JUSTICE'S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな~🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uk6w4h6-b1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjD5PolJkII",
+      "title": "【初VRChat】Justiceからの招待状…?おや…? #JusticeHalloween【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjD5PolJkII",
       "status": "unreviewed",
       "note": null
     }

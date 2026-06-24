@@ -1,0 +1,50 @@
+{
+  "target": "dev_is_flowglow",
+  "count": 4,
+  "appearances": [
+    {
+      "video_id": "Ve_h81vqsR8",
+      "title": "【#FG3Dライブ】MAKE IT, BREAK IT 推しカメラ【綺々羅々ヴィヴィ】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20251121",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ve_h81vqsR8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r-K3opIpw1s",
+      "title": "【#FG3Dライブ】MAKE IT, BREAK IT 推しカメラ【水宮枢】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20251121",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r-K3opIpw1s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Nmp2SM1LcNE",
+      "title": "#1【龍が如く7】初めてのゲーム実況 #hololiveDEV_IS #FLOWGLOW ※ネタバレあり",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20241116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Nmp2SM1LcNE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iJpIGu5HuGY",
+      "title": "【 #フブミオ大予想】FLOW GLOWデビュー前妄想プロフィール!【ホロライブ/白上フブキ/大神ミオ 】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20241109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iJpIGu5HuGY",
+      "status": "unreviewed",
+      "note": null
+    }
+  ]
+}

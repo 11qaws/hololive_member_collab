@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 838,
+  "count": 844,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9217,6 +9217,72 @@
       "published_at": "20240618",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-2MvcDyYYZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yh7M2Js1aHQ",
+      "title": "[New Original Audio Story] #holoJustice  — One Tale After Another",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yh7M2Js1aHQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IFS3ksi_Qr8",
+      "title": "【EN×JP Collab】はちゃめちゃGartic Phone【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260208",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IFS3ksi_Qr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dWJWYb9abiM",
+      "title": "【 #ホロ新春ゲーム祭2025 】ついに本番!!!スバル先輩チームで頑張るぞおおおお~Fall guys編~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dWJWYb9abiM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uk6w4h6-b1w",
+      "title": "【JUSTICE'S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな~🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uk6w4h6-b1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjD5PolJkII",
+      "title": "【初VRChat】Justiceからの招待状…?おや…? #JusticeHalloween【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjD5PolJkII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u2qXADcK0oY",
+      "title": "【 #AstonishinglyKAEOTIC 】カエラ先輩の誕生日パーティー🎈【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20240830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u2qXADcK0oY",
       "status": "unreviewed",
       "note": null
     }

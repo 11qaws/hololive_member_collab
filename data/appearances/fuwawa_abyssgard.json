@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1063,
+  "count": 1082,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11692,6 +11692,215 @@
       "published_at": "20230724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g5-VtyLYb2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hzh2q88f9yg",
+      "title": "【 #ホロ新春ゲーム祭2026 】花チームいくぞ~!Hololive New Year Game Festival 2026⛩️【#一条莉々華 #hololive 】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hzh2q88f9yg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lajxiOmRMUg",
+      "title": "【#DEV_IS正月リレー】緊急凸待ち発生!!くじ引きもあるよ 新衣装お披露目!!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lajxiOmRMUg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bjPYXtxhm0I",
+      "title": "【3DLIVE】First Starring Role【轟はじめ/ReGLOSS】 #轟はじめ生誕祭2025",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250607",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bjPYXtxhm0I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I7EU970mmgI",
+      "title": "【R.E.P.O.】ひよらない【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250525",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I7EU970mmgI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZGKeTbhk9gY",
+      "title": "【ホロハニワクイズ】これ誰が作ったハニワでしょうか!?【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20250401",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZGKeTbhk9gY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bjD5rbzRaN4",
+      "title": "【#ホロ新春ゲーム祭】本番!Fall Guysた生き残るぞ~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bjD5rbzRaN4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9YfCICERGi0",
+      "title": "【#ホロ新春ゲーム祭】本番!8番出口RTAとFall Guysたのしく勝つぞー!【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9YfCICERGi0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q9dGQnWnDaQ",
+      "title": "【 #ホロ新春ゲーム祭2025 】 ついに本番!!!スバル先輩チームで頑張るぞおおおお~マリパ編~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q9dGQnWnDaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uk6w4h6-b1w",
+      "title": "【JUSTICE'S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな~🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uk6w4h6-b1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjD5PolJkII",
+      "title": "【初VRChat】Justiceからの招待状…?おや…? #JusticeHalloween【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjD5PolJkII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6aOajYgBROk",
+      "title": "【 #holoGTA DAY2 】心を入れ替えて、真っ当にギャンブルします!!!💖【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20240918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6aOajYgBROk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qpJ3vtg1WEo",
+      "title": "【 #holoGTA DAY1 】ギャンブル費用を稼ぐため、いっぱいお注射するね💖【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20240917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qpJ3vtg1WEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TpDClo7JSvo",
+      "title": "【#ホロドロケイ2024】後夜祭あそぶぞー!!!【轟はじめ/ReGLOSS】#hololivedev_is",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20240502",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TpDClo7JSvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KpdnCuCIShk",
+      "title": "【凸待ち】急に現れた凸待ち会場【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20240424",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KpdnCuCIShk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wob6Ashp8fY",
+      "title": "【#ゆるホロチームカート】車、ぶつけるのは得意です!!!!【一条莉々華 視点 / ホロライブ】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20231212",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wob6Ashp8fY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8l7tRRQDbtY",
+      "title": "【#ゆるホロチームカート】ぶんぶんぶーん!!!【轟はじめ視点/ReGLOSS】#hololiveDEV_IS",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20231212",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8l7tRRQDbtY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aROzHWYvFS8",
+      "title": "【 #ホロライブ大運動会2023 】楽しく、優勝目指して頑張ります!!!RED TEAM WIN!! #ホロライブ大運動会2023【音乃瀬奏視点】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20231104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aROzHWYvFS8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E1LN5kL4tqE",
+      "title": "【Minecraft】前夜祭!!わくわく!! #ホロライブ大運動会2023【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20231103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E1LN5kL4tqE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62gEdDdLgT4",
+      "title": "【Minecraft】赤組で練習すっぞおおお #ホロライブ大運動会2023【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20231030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62gEdDdLgT4",
       "status": "unreviewed",
       "note": null
     }

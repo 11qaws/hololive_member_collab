@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 995,
+  "count": 998,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -10944,6 +10944,39 @@
       "published_at": "20230724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g5-VtyLYb2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RuSlkUkKf9g",
+      "title": "【 #ホロ新春ゲーム祭2026 】いっぱい楽しむぞー!!!ﾄﾞｷﾄﾞｷ✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RuSlkUkKf9g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uk6w4h6-b1w",
+      "title": "【JUSTICE'S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな~🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uk6w4h6-b1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjD5PolJkII",
+      "title": "【初VRChat】Justiceからの招待状…?おや…? #JusticeHalloween【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20241101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjD5PolJkII",
       "status": "unreviewed",
       "note": null
     }
