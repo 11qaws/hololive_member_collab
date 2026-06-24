@@ -4,6 +4,32 @@ from .storage import load_members, load_appearances
 from .models import Branch
 
 
+def _detect_clusters(pair_count, node_handles):
+    """Detect communities using greedy modularity on weighted collab graph."""
+    import networkx as nx
+    from networkx.algorithms.community import greedy_modularity_communities
+
+    G = nx.Graph()
+    for h in node_handles:
+        G.add_node(h)
+    for (a, b), weight in pair_count.items():
+        G.add_edge(a, b, weight=weight)
+
+    communities = list(greedy_modularity_communities(G, weight="weight"))
+    cluster_map = {}
+    for i, comm in enumerate(communities):
+        for node in comm:
+            cluster_map[node] = i
+    # Assign unconnected nodes to their own cluster
+    next_id = len(communities)
+    for h in node_handles:
+        if h not in cluster_map:
+            cluster_map[h] = next_id
+            next_id += 1
+
+    return cluster_map
+
+
 def build_graph_data():
     members = [m for m in load_members() if m.branch != Branch.HOLOSTARS]
     handle_map = {m.handle: m for m in members}
@@ -32,6 +58,10 @@ def build_graph_data():
             node_total[m.handle] += 1
             node_total[other] += 1
 
+    # Detect communities
+    all_handles = [m.handle for m in members]
+    cluster_map = _detect_clusters(pair_count, all_handles)
+
     # Build nodes
     branch_order = [
         Branch.EN.value, Branch.ID.value, Branch.JP.value,
@@ -59,10 +89,23 @@ def build_graph_data():
                 nodes.append({
                     "id": h,
                     "group": br,
+                    "clusterId": cluster_map.get(h, 0),
                     "collabCount": node_total.get(h, 0),
                     "color": branch_color.get(br, "#94a3b8"),
                     "sortOrder": branch_order.index(br) if br in branch_order else 99,
                 })
+    # Add any unconnected members that never appear in pair_count
+    for m in members:
+        if m.handle not in node_set:
+            br = handle_branch.get(m.handle, "OTHER")
+            nodes.append({
+                "id": m.handle,
+                "group": br,
+                "clusterId": cluster_map.get(m.handle, 0),
+                "collabCount": 0,
+                "color": branch_color.get(br, "#94a3b8"),
+                "sortOrder": branch_order.index(br) if br in branch_order else 99,
+            })
 
     edges = []
     for (a, b), weight in pair_count.items():
