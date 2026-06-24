@@ -1,70 +1,30 @@
-name: Scan & Deploy
-
+name: Scan
 on:
   workflow_dispatch:
-    inputs:
-      months:
-        description: 'Scan recent N months'
-        required: false
-        default: '3'
-        type: string
   schedule:
-    - cron: '0 0 * * 0'  # Weekly on Sunday
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
+    - cron: '0 0 * * *'
 
 jobs:
   scan:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-          cache: pip
-
+          python-version: '3.11'
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Check Holodex API key
-        env:
-          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
-        run: |
-          if [ -z "$HOLODEX_API_KEY" ]; then
-            echo "::error::HOLODEX_API_KEY secret is not set!"
-            echo "Go to Settings → Secrets and variables → Actions → New repository secret"
-            exit 1
-          fi
-          echo "API key OK (${#HOLODEX_API_KEY} chars)"
-
-      - name: Run Holodex scan for all members
-        env:
-          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
-        run: |
-          python cli.py config --set holodex_api_key "$HOLODEX_API_KEY"
-          python cli.py scan --all --source holodex --months ${{ inputs.months || 3 }}
-
-      - name: Build static site
+        run: pip install httpx jinja2
+      - name: Setup API key
+        run: echo '{"holodex_api_key":"${{ secrets.HOLODEX_API_KEY }}"}' > data/config.json
+      - name: Scan all members (one per minute)
+        run: python scripts/gha_scan_all.py
+      - name: Refresh timelines
+        run: python cli.py timeline --all --full
+      - name: Build site
         run: python cli.py build-site
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          path: docs
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          commit_message: "chore: 자동 스캔 $(date +'%Y-%m-%d')"
+          commit_user_name: "HCAT Bot"
+          commit_user_email: "actions@github.com"
