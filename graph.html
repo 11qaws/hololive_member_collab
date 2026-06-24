@@ -325,8 +325,6 @@ g.node.selected circle:first-child {
           n.fx = n.x; n.fy = n.y;
         } else {
           n.fx = null; n.fy = null;
-          n.vx += (cx - n.x) * 0.03 * alpha;
-          n.vy += (cy - n.y) * 0.03 * alpha;
         }
       });
     } else {
@@ -351,9 +349,12 @@ g.node.selected circle:first-child {
 
   var simulation = d3.forceSimulation(nodeData)
     .force('link', d3.forceLink(linkData).id(function(d) { return d.id; })
-      .distance(function(d) { return Math.max(30, 180 - d.weight * 2); })
+      .distance(function(d) { return Math.max(40, 250 - d.weight * 4); })
       .strength(function(d) { return Math.min(0.8, d.weight / 20); }))
     .force('charge', d3.forceManyBody().strength(function(d) {
+      if (filterHandle && d.id === filterHandle) return 0;
+      if (filterHandle && activeSet.has(d.id)) return -60;
+      if (filterHandle) return 0;
       return -80 - (d.collabCount || 0) * 0.3;
     }))
     .force('cluster', forceCluster)
@@ -465,11 +466,11 @@ g.node.selected circle:first-child {
     });
 
     renderPanel(handle, connected);
-    // Only apply force to active↔active links so inactive nodes don't drag active ones
+    // Only apply force to direct links from selected member
     var filteredLinks = linkData.filter(function(e) {
       var s = typeof e.source === 'object' ? e.source.id : e.source;
       var t = typeof e.target === 'object' ? e.target.id : e.target;
-      return connected.has(s) && connected.has(t);
+      return s === handle || t === handle;
     });
     simulation.force('link').links(filteredLinks);
     simulation.alpha(0.8).restart();
