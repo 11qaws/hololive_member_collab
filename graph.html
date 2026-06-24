@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="static/style.css">
 
 <style>
-main { max-width: 1200px; }
+main { max-width: 1200px; position: relative; }
 h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: .5rem; }
 p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 #graph-container {
@@ -56,6 +56,145 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
   width: 10px; height: 10px;
   border-radius: 50%;
 }
+
+/* Filter bar */
+#filter-bar {
+  display: flex;
+  gap: .5rem;
+  margin-bottom: .75rem;
+  align-items: center;
+}
+#filter-bar input {
+  flex: 1;
+  max-width: 320px;
+  padding: .5rem .75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-1);
+  font-size: .9rem;
+}
+#filter-bar input:focus { outline: none; border-color: var(--accent); }
+#filter-bar .clear-btn {
+  background: none;
+  border: none;
+  color: var(--text-3);
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: .25rem .5rem;
+  display: none;
+}
+#filter-bar .clear-btn:hover { color: var(--text-1); }
+#filter-bar .clear-btn.show { display: inline; }
+
+/* Node states */
+g.node.inactive { opacity: 0.06; }
+g.node.inactive text { display: none; }
+g.node.inactive image { display: none; }
+g.node.inactive circle { display: none; }
+line.edge-inactive { opacity: 0 !important; }
+
+g.node.selected circle:first-child {
+  stroke-width: 4;
+  stroke: #ffd700;
+  filter: drop-shadow(0 0 6px rgba(255,215,0,.6));
+}
+
+/* Detail panel */
+#detail-panel {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  width: 280px;
+  max-height: calc(100% - 24px);
+  overflow-y: auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  padding: 1rem;
+  display: none;
+  z-index: 20;
+}
+#detail-panel.open { display: block; }
+.panel-header {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  padding-bottom: .75rem;
+  border-bottom: 1px solid var(--border);
+}
+.panel-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--border);
+  flex-shrink: 0;
+}
+.panel-name {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+.panel-handle {
+  color: var(--text-3);
+  font-size: .8rem;
+}
+.panel-title {
+  font-weight: 600;
+  font-size: .85rem;
+  color: var(--text-2);
+  margin-bottom: .5rem;
+}
+.partner-row {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .3rem 0;
+  font-size: .82rem;
+}
+.partner-avatar {
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1.5px solid var(--border);
+}
+.partner-name {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text-1);
+}
+.partner-bar-wrap {
+  width: 80px;
+  flex-shrink: 0;
+  height: 10px;
+  background: var(--bg);
+  border-radius: 5px;
+  overflow: hidden;
+}
+.partner-bar {
+  height: 100%;
+  border-radius: 5px;
+  min-width: 2px;
+  transition: width .3s;
+}
+.partner-count {
+  width: 32px;
+  text-align: right;
+  color: var(--text-3);
+  font-size: .78rem;
+  flex-shrink: 0;
+}
+.no-partners {
+  color: var(--text-3);
+  font-size: .82rem;
+  padding: .5rem 0;
+}
 </style>
 
 </head>
@@ -78,7 +217,13 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 <main>
 
 <h2>Collab Network</h2>
-<p>Nodes = members (profile photo + branch color border), edges = collab frequency. Nodes are grouped by community detection — closer = more frequent collabs. Drag to explore. Scroll to zoom.</p>
+<p>Nodes = members (profile photo + branch color border), edges = collab frequency. Nodes are grouped by community detection. Search or click a member to highlight their collab network. Drag to explore. Scroll to zoom.</p>
+
+<div id="filter-bar">
+  <input id="member-filter" list="member-list" placeholder="Search member to highlight network..." autocomplete="off">
+  <datalist id="member-list"></datalist>
+  <button class="clear-btn" id="filter-clear" title="Clear filter">✕</button>
+</div>
 
 <div class="legend">
 
@@ -99,6 +244,7 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 <div id="graph-container">
 <div class="graph-tooltip" id="tooltip"></div>
 <svg id="graph-svg"></svg>
+<div id="detail-panel"></div>
 </div>
 
 </main>
@@ -117,12 +263,27 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
   function getNickname(h) { return nicknames[h] || h; }
   if (!data || !data.nodes || data.nodes.length === 0) return;
 
+  /* ── DOM refs ── */
   var svg = d3.select('#graph-svg');
   var tooltip = d3.select('#tooltip');
   var width = svg.node().parentNode.clientWidth;
   var height = 700;
   svg.attr('width', width).attr('height', height).style('background', 'var(--surface)');
 
+  var filterInput = document.getElementById('member-filter');
+  var filterClear = document.getElementById('filter-clear');
+  var memberList = document.getElementById('member-list');
+  var detailPanel = document.getElementById('detail-panel');
+
+  /* ── Populate datalist ── */
+  data.nodes.forEach(function(n) {
+    var opt = document.createElement('option');
+    opt.value = getNickname(n.id);
+    opt.dataset.handle = n.id;
+    memberList.appendChild(opt);
+  });
+
+  /* ── Data prep ── */
   var validIds = {};
   data.nodes.forEach(function(n) { validIds[n.id] = true; });
 
@@ -131,20 +292,27 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
   });
   var nodeData = data.nodes.filter(function(n) { return validIds[n.id]; });
 
+  /* Build handle->node lookup */
+  var nodeMap = {};
+  nodeData.forEach(function(n) { nodeMap[n.id] = n; });
+
+  /* Build handle->color lookup */
+  var colorMap = {};
+  nodeData.forEach(function(n) { colorMap[n.id] = n.color; });
+
   var rScale = d3.scaleSqrt()
     .domain([1, d3.max(nodeData, function(d) { return d.collabCount; }) || 1])
     .range([4, 22]);
 
-  // Create defs with clip paths for circular images
+  /* ── Clip paths ── */
   var defs = svg.append('defs');
   nodeData.forEach(function(d) {
     var r = Math.max(rScale(d.collabCount), 4);
-    var cid = 'cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_');
-    defs.append('clipPath').attr('id', cid)
+    defs.append('clipPath').attr('id', 'cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_'))
       .append('circle').attr('r', r);
   });
 
-  // Cluster force
+  /* ── Cluster force ── */
   function forceCluster(alpha) {
     var centers = {}, counts = {};
     nodeData.forEach(function(n) {
@@ -175,20 +343,48 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
 
   var mainGroup = svg.append('g');
 
-  // Links
+  /* ── Links ── */
   var links = mainGroup.selectAll('line').data(linkData).enter().append('line')
     .attr('stroke', 'var(--border)')
     .attr('stroke-width', function(d) { return Math.sqrt(d.weight) * 1.2; })
     .attr('stroke-opacity', function(d) { return Math.min(0.7, 0.1 + d.weight * 0.02); });
 
-  // Node groups (centered via transform in tick)
+  /* ── Node groups ── */
   var nodeGroups = mainGroup.selectAll('g.node')
     .data(nodeData).enter().append('g')
-    .attr('class', 'node')
-    .attr('cursor', 'pointer')
+    .attr('class', 'node');
+
+  nodeGroups.append('circle')
+    .attr('r', function(d) { return Math.max(rScale(d.collabCount), 4); })
+    .attr('fill', function(d) { return memberPhotos[d.id] ? 'var(--surface)' : d.color; })
+    .attr('stroke', function(d) { return d.color; })
+    .attr('stroke-width', 2.5);
+
+  nodeGroups.each(function(d) {
+    var photo = memberPhotos[d.id];
+    if (photo) {
+      var r = Math.max(rScale(d.collabCount), 4);
+      d3.select(this).append('image')
+        .attr('href', photo)
+        .attr('x', -r).attr('y', -r)
+        .attr('width', r * 2).attr('height', r * 2)
+        .attr('clip-path', 'url(#cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_') + ')');
+    }
+  });
+
+  nodeGroups.append('text')
+    .text(function(d) { return getNickname(d.id); })
+    .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.45); })
+    .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
+    .attr('dy', 4)
+    .attr('fill', 'var(--text-2)')
+    .attr('pointer-events', 'none');
+
+  /* ── Interactivity ── */
+  nodeGroups
     .on('mouseover', function(ev, d) {
       tooltip.html('<strong>' + d.id + '</strong> (' + getNickname(d.id) + ')<br>'
-        + d.collabCount + ' collabs<br>' + d.group + ' | cluster ' + d.clusterId)
+        + d.collabCount + ' collabs<br>' + d.group)
         .classed('visible', true);
     })
     .on('mousemove', function(ev) {
@@ -196,7 +392,9 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
     })
     .on('mouseout', function() { tooltip.classed('visible', false); })
     .on('click', function(ev, d) {
-      window.location.href = 'members/' + d.id + '.html';
+      ev.stopPropagation();
+      filterInput.value = getNickname(d.id);
+      applyFilter(d.id);
     })
     .call(d3.drag()
       .on('start', function(ev, d) {
@@ -210,36 +408,149 @@ p { color: var(--text-2); margin-bottom: 1.5rem; font-size: .9rem; }
       })
     );
 
-  // Branch-colored border circle (white fill)
-  nodeGroups.append('circle')
-    .attr('r', function(d) { return Math.max(rScale(d.collabCount), 4); })
-    .attr('fill', function(d) { return memberPhotos[d.id] ? 'var(--surface)' : d.color; })
-    .attr('stroke', function(d) { return d.color; })
-    .attr('stroke-width', 2.5);
-
-  // Profile image (only if photo available)
-  nodeGroups.each(function(d) {
-    var photo = memberPhotos[d.id];
-    if (photo) {
-      var r = Math.max(rScale(d.collabCount), 4);
-      var cid = 'cp-' + d.id.replace(/[^a-zA-Z0-9]/g, '_');
-      d3.select(this).append('image')
-        .attr('href', photo)
-        .attr('x', -r).attr('y', -r)
-        .attr('width', r * 2).attr('height', r * 2)
-        .attr('clip-path', 'url(#' + cid + ')');
+  /* ── Click background to clear ── */
+  svg.on('click', function(ev) {
+    if (ev.target === svg.node() || ev.target === mainGroup.node()) {
+      clearFilter();
     }
   });
 
-  // Label
-  nodeGroups.append('text')
-    .text(function(d) { return getNickname(d.id); })
-    .attr('font-size', function(d) { return Math.max(8, rScale(d.collabCount) * 0.45); })
-    .attr('dx', function(d) { return rScale(d.collabCount) + 3; })
-    .attr('dy', 4)
-    .attr('fill', 'var(--text-2)')
-    .attr('pointer-events', 'none');
+  /* ── Filter logic ── */
+  var filterHandle = '';
 
+  function getConnectedSet(handle) {
+    var set = new Set([handle]);
+    linkData.forEach(function(e) {
+      var s = typeof e.source === 'object' ? e.source.id : e.source;
+      var t = typeof e.target === 'object' ? e.target.id : e.target;
+      if (s === handle) set.add(t);
+      if (t === handle) set.add(s);
+    });
+    return set;
+  }
+
+  function applyFilter(handle) {
+    if (handle === filterHandle) { clearFilter(); return; }
+    filterHandle = handle;
+    filterClear.classList.add('show');
+
+    var connected = getConnectedSet(handle);
+
+    nodeGroups.classed('inactive', function(d) { return !connected.has(d.id); })
+      .classed('selected', function(d) { return d.id === handle; });
+    links.classed('edge-inactive', function(d) {
+      var s = typeof d.source === 'object' ? d.source.id : d.source;
+      var t = typeof d.target === 'object' ? d.target.id : d.target;
+      return !connected.has(s) || !connected.has(t);
+    });
+
+    renderPanel(handle, connected);
+    simulation.alpha(0.5).restart();
+  }
+
+  function clearFilter() {
+    if (!filterHandle) return;
+    filterHandle = '';
+    filterInput.value = '';
+    filterClear.classList.remove('show');
+    nodeGroups.classed('inactive selected', false);
+    links.classed('edge-inactive', false);
+    detailPanel.classList.remove('open');
+    detailPanel.innerHTML = '';
+    simulation.alpha(0.3).restart();
+  }
+
+  /* ── Detail panel ── */
+  function renderPanel(handle, connected) {
+    var node = nodeMap[handle];
+    if (!node) return;
+
+    // Build partner list from edges
+    var partners = [];
+    linkData.forEach(function(e) {
+      var s = typeof e.source === 'object' ? e.source.id : e.source;
+      var t = typeof e.target === 'object' ? e.target.id : e.target;
+      if (s === handle) partners.push({handle: t, weight: e.weight});
+      if (t === handle) partners.push({handle: s, weight: e.weight});
+    });
+    partners.sort(function(a, b) { return b.weight - a.weight; });
+
+    var maxW = partners.length > 0 ? partners[0].weight : 1;
+    var photo = memberPhotos[handle] || '';
+    var nickname = getNickname(handle);
+
+    var html = '<div class="panel-header">';
+    if (photo) {
+      html += '<img class="panel-avatar" src="' + photo.replace(/&/g,'&amp;').replace(/"/g,'&quot;') + '" alt="">';
+    } else {
+      html += '<span class="panel-avatar" style="background:' + (node.color || '#888') + '"></span>';
+    }
+    html += '<div><div class="panel-name">' + nickname + '</div>'
+      + '<div class="panel-handle">@' + handle + '</div></div></div>';
+
+    html += '<div class="panel-title">Top Collab Partners</div>';
+
+    if (partners.length === 0) {
+      html += '<div class="no-partners">No collab partners</div>';
+    } else {
+      var topN = Math.min(partners.length, 15);
+      for (var i = 0; i < topN; i++) {
+        var p = partners[i];
+        var pPhoto = memberPhotos[p.handle] || '';
+        var pNick = getNickname(p.handle);
+        var pColor = colorMap[p.handle] || '#888';
+        var barPct = Math.round((p.weight / maxW) * 100);
+
+        html += '<div class="partner-row">';
+        if (pPhoto) {
+          html += '<img class="partner-avatar" src="' + pPhoto.replace(/&/g,'&amp;').replace(/"/g,'&quot;') + '" alt="">';
+        } else {
+          html += '<span class="partner-avatar" style="background:' + pColor + '"></span>';
+        }
+        html += '<span class="partner-name">' + pNick + '</span>'
+          + '<div class="partner-bar-wrap"><div class="partner-bar" style="width:' + barPct + '%;background:' + pColor + '"></div></div>'
+          + '<span class="partner-count">' + p.weight + '</span>'
+          + '</div>';
+      }
+    }
+
+    detailPanel.innerHTML = html;
+    detailPanel.classList.add('open');
+  }
+
+  /* ── Search input handlers ── */
+  filterInput.addEventListener('input', function() {
+    var val = this.value.trim();
+    if (!val) { clearFilter(); return; }
+    // Find member by nickname or handle
+    var found = null;
+    for (var k in nicknames) {
+      if (nicknames[k] === val || k === val) { found = k; break; }
+    }
+    if (!found) {
+      // Try partial match on handle
+      for (var k in nicknames) {
+        if (k.toLowerCase().indexOf(val.toLowerCase()) !== -1) { found = k; break; }
+      }
+    }
+    if (!found) {
+      for (var k in nicknames) {
+        if (nicknames[k].toLowerCase().indexOf(val.toLowerCase()) !== -1) { found = k; break; }
+      }
+    }
+    if (found && found !== filterHandle) {
+      this.value = getNickname(found);
+      applyFilter(found);
+    }
+  });
+
+  filterClear.addEventListener('click', clearFilter);
+
+  document.addEventListener('keydown', function(ev) {
+    if (ev.key === 'Escape' && filterHandle) clearFilter();
+  });
+
+  /* ── Tick ── */
   simulation.nodes(nodeData).on('tick', function() {
     links
       .attr('x1', function(d) { return d.source.x; })
