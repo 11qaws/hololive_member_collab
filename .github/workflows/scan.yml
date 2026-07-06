@@ -13,7 +13,8 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install httpx jinja2
+        run:  python -m pip install --upgrade pip
+              pip install -r requirements.txt
       - name: Setup API key
         run: echo '{"holodex_api_key":"${{ secrets.HOLODEX_API_KEY }}"}' > data/config.json
       - name: Scan all members (one per minute)
