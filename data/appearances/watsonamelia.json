@@ -1,6 +1,6 @@
 {
   "target": "watsonamelia",
-  "count": 623,
+  "count": 624,
   "appearances": [
     {
       "video_id": "qqi8yXuH35Y",
@@ -6852,6 +6852,17 @@
       "published_at": "20200909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8c4_22LjGQo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
       "status": "unreviewed",
       "note": null
     }

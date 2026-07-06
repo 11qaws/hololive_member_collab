@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2228,
+  "count": 2234,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24507,6 +24507,72 @@
       "published_at": "20181227",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zE-5j_Uughg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WybVvRW85xE",
+      "title": "【】みこスバ3D!謎解き大脱出【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WybVvRW85xE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lGaBMHyHvmU",
+      "title": "【#大空スバル生誕祭2026】お誕生日おめでとうスバル!!!重大告知ありしゅばあああああああああああああああああ!!!!：HAPPY BIRTH DAY STREAM【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lGaBMHyHvmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Wxn2M9twiXs",
+      "title": "【 #キズナアイ杯2026】vtuberの先輩方、優勝ははじめがいただくぜ【轟はじめ】【Among Us 3D/Fall Guys】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Wxn2M9twiXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9n3DQIMbzaM",
+      "title": "【#キズナアイ杯2026】NAKAYOKU NARITAI ZE!! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9n3DQIMbzaM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OQUjTpoot_U",
+      "title": "【いつの間に!?】💉保健医のプロ技 #hololive #ホロライブ #お注射",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OQUjTpoot_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

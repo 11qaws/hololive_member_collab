@@ -1,6 +1,6 @@
 {
   "target": "murasakishion",
-  "count": 1488,
+  "count": 1489,
   "entries": [
     {
       "video_id": "tA81jxo_kPQ",
@@ -6255,24 +6255,24 @@
       "paired_self": null
     },
     {
-      "video_id": "t8EPSl2XD7o",
-      "title": "アカシア・シンドローム (FX_Stem)",
-      "published_at": "20211227",
-      "url": "https://youtu.be/t8EPSl2XD7o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/t8EPSl2XD7o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "RweYQf0RkMo",
       "title": "アカシア・シンドローム (EGtrL_Stem)",
       "published_at": "20211227",
       "url": "https://youtu.be/RweYQf0RkMo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/RweYQf0RkMo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t8EPSl2XD7o",
+      "title": "アカシア・シンドローム (FX_Stem)",
+      "published_at": "20211227",
+      "url": "https://youtu.be/t8EPSl2XD7o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t8EPSl2XD7o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -11099,6 +11099,18 @@
       "thumbnail": "https://img.youtube.com/vi/s3NRAwv9ZtQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "published_at": "20200422",
+      "url": "https://youtu.be/IuCETj76Nvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IuCETj76Nvg/mqdefault.jpg",
+      "partner_handle": "amanekanata",
+      "partner_name": "Kanata Ch. 天音かなた",
       "sub_entries": [],
       "paired_self": null
     },
@@ -17823,12 +17835,12 @@
       "paired_self": null
     },
     {
-      "video_id": "Qf0pcfaD-9k",
-      "title": "配信予定～～～！！！最強になったシオンちゃん！！【ホロライブ/紫咲シオン】",
+      "video_id": "I6Efp02plEY",
+      "title": "【#SAOVS】SAOの世界へ、リンクスタートっ！【ホロライブ/紫咲シオン】",
       "published_at": "",
-      "url": "https://youtu.be/Qf0pcfaD-9k",
+      "url": "https://youtu.be/I6Efp02plEY",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qf0pcfaD-9k/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/I6Efp02plEY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -17847,12 +17859,12 @@
       "paired_self": null
     },
     {
-      "video_id": "I6Efp02plEY",
-      "title": "【#SAOVS】SAOの世界へ、リンクスタートっ！【ホロライブ/紫咲シオン】",
+      "video_id": "Qf0pcfaD-9k",
+      "title": "配信予定～～～！！！最強になったシオンちゃん！！【ホロライブ/紫咲シオン】",
       "published_at": "",
-      "url": "https://youtu.be/I6Efp02plEY",
+      "url": "https://youtu.be/Qf0pcfaD-9k",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/I6Efp02plEY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qf0pcfaD-9k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

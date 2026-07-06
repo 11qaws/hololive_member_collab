@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 806,
+  "count": 812,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -8865,6 +8865,72 @@
       "published_at": "20230901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w8tMTkRo-jY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yq0pfyjH_Po",
+      "title": "【 #ことよろReGLOSS 】お餅にバターとハニーをかけたら? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yq0pfyjH_Po",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yXeMMZyl2SI",
+      "title": "#LuckyLoud のコスプレを見る奏とらでん #LLchallenge ご応募ありがとうございました!#ReGLOSS #Vtuber #音乃瀬奏 #儒烏風亭らでん #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yXeMMZyl2SI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NXisMI9p_oA",
+      "title": "はじめの「Deep Dive」にReGLOSSでカッコつけてみた✨ #轟はじめ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260629",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NXisMI9p_oA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OIqgEc0T8e0",
+      "title": "【同時視聴】サンリオキャラクター大賞🥚がおぱわるぅ全力応援!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260628",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OIqgEc0T8e0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z9s0ae0XgYI",
+      "title": "【同時視聴】サンリオキャラクター大賞 サムくん🥲💙見届ける!!【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260628",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z9s0ae0XgYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cRwCPSQFE0",
+      "title": "#LuckyLoud の演奏を見る奏とらでん#LLchallenge ご応募ありがとうございました!#ReGLOSS #Vtuber #音乃瀬奏 #儒烏風亭らでん #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cRwCPSQFE0",
       "status": "unreviewed",
       "note": null
     }

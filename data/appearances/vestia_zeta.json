@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 927,
+  "count": 944,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10196,6 +10196,193 @@
       "published_at": "20220324",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/911mrZY49x0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-S5o6ZPf92A",
+      "title": "【BDAY COUNTDOWN】Call Ins and Counting Down in LA✨#kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-S5o6ZPf92A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aSOGCMZchLw",
+      "title": "MECCHA CHAMELEON 100% camouflage",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aSOGCMZchLw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yvV7w8f1lYU",
+      "title": "【MECCHA CHAMELEON】hide with holoID【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yvV7w8f1lYU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E8UhEzoDaI0",
+      "title": "【MECCHA CHAMELEON】 I'M TRYING TO SNEAK AROUND, BUT THE CLAP OF MY  【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E8UhEzoDaI0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2U2xPquq5h8",
+      "title": "【MECCHA CHAMELEON】Girls, do not check the horse【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2U2xPquq5h8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WbK4RRQDY24",
+      "title": "【Meccha Chameleon】I Am the Wall. Do Not Perceive Me.【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WbK4RRQDY24",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HdW-8nNUrss",
+      "title": "【MECCHA CHAMELEON】KOBO COBA GAME VIRAL YANG KATANYA BISA JADI BUNGLON ???",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HdW-8nNUrss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sdVtichP8Z8",
+      "title": "Bukan Sabotase, tapi Solidaritas #shorts #vtuber #kobo #kaela #holoh3ro",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260617",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sdVtichP8Z8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aDz4VkoxXl8",
+      "title": "Iya maaf ya sayang #zeta #kobo #vtuber #shorts",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260503",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aDz4VkoxXl8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VE8jT1XJ8S4",
+      "title": "JANGAN DEKET-DEKET ZETAYANG AKU #shorts #vtuber #holoid #kobo #zeta #anya",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260427",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VE8jT1XJ8S4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hAhAI1O8zc4",
+      "title": "Kita gak curang kok... #shorts #vtuber #kobo #zeta #kaela",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260331",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hAhAI1O8zc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qs5ZNQxujPg",
+      "title": "CINTA JUGA PERLU NALAR #shorts #vtuber #kobo #kaela #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260330",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qs5ZNQxujPg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XvbfPhxz5Pc",
+      "title": "Zeta oh Zeta... #shorts #vtuber #kobo #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20250112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XvbfPhxz5Pc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "okjA8pxgdDI",
+      "title": "Meong nya mana cantik #shorts #vtuber #kobo #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20250102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/okjA8pxgdDI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mrYZ5VeCe5Q",
+      "title": "I Love You Zeta 🫶 #shorts #vtuber #kobo #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20241018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mrYZ5VeCe5Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8T0yS1rIoM0",
+      "title": "what the heck she did with my parents ??  #shorts #vtuber #hololive #kobokaneru",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20240626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8T0yS1rIoM0",
       "status": "unreviewed",
       "note": null
     }

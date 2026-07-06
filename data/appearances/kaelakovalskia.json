@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1035,
+  "count": 1042,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11384,6 +11384,83 @@
       "published_at": "20220324",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/911mrZY49x0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BxzvgkwIixE",
+      "title": "CACING HYTAM, HYTAM LEGAM #shorts #vtuber #onaeru #kobo #kaela #holoid",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BxzvgkwIixE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LaeO259WkF8",
+      "title": "【PRATFALL】groandstone yes",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LaeO259WkF8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sdVtichP8Z8",
+      "title": "Bukan Sabotase, tapi Solidaritas #shorts #vtuber #kobo #kaela #holoh3ro",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260617",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sdVtichP8Z8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hAhAI1O8zc4",
+      "title": "Kita gak curang kok... #shorts #vtuber #kobo #zeta #kaela",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260331",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hAhAI1O8zc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qs5ZNQxujPg",
+      "title": "CINTA JUGA PERLU NALAR #shorts #vtuber #kobo #kaela #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260330",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qs5ZNQxujPg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mrYZ5VeCe5Q",
+      "title": "I Love You Zeta 🫶 #shorts #vtuber #kobo #zeta",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20241018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mrYZ5VeCe5Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K2TabBvQhQ4",
+      "title": "I WANT KISS TOO!! :( #shorts #kobokanaeru #vtuber",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20240824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K2TabBvQhQ4",
       "status": "unreviewed",
       "note": null
     }

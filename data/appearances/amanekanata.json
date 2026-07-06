@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1312,
+  "count": 1313,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14431,6 +14431,17 @@
       "published_at": "20191226",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pKDJ6kc9vA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NTC5kWgW1sQ",
+      "title": "ブラッディ・グルービー / ラプラス・ダークネス×天音かなた cover-ChroNoiR[叶&葛葉]【歌ってみた】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NTC5kWgW1sQ",
       "status": "unreviewed",
       "note": null
     }

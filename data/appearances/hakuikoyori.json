@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1327,
+  "count": 1333,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14596,6 +14596,72 @@
       "published_at": "20211126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vqmh-8qU5Wg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WGOGJw_s5dQ",
+      "title": "【インドネシア魂】🌧️#夜の踊り子 も止まらない #pacujalur #hololive #ホロライブ #memes #indonesia",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WGOGJw_s5dQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "23qdzlX4m3Y",
+      "title": "【アニメ】ちょっと​酔っちゃったかも。。。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/23qdzlX4m3Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OQUjTpoot_U",
+      "title": "【いつの間に!?】💉保健医のプロ技 #hololive #ホロライブ #お注射",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OQUjTpoot_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HgKvfwNGpdg",
+      "title": "【 FOAMSTARS 】スクエニ新作ゲーム‼8人でアワ泡対決🫧アワアワしないように気をつけなきゃ…ﾊﾊﾊ【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20240213",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HgKvfwNGpdg",
       "status": "unreviewed",
       "note": null
     }

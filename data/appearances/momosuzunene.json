@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1183,
+  "count": 1186,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13012,6 +13012,39 @@
       "published_at": "20200806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F76OBO9W7ZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BBmU9yo_48E",
+      "title": "【#それが大事WIN】下見ない!前を向け!『それが大事』大会本番!hololive × VALORANT MEETUP powered by Holizontal【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20230803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BBmU9yo_48E",
       "status": "unreviewed",
       "note": null
     }

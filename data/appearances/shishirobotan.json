@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1562,
+  "count": 1565,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17181,6 +17181,39 @@
       "published_at": "20200806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F76OBO9W7ZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-dqLfiQ5IHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CgqV9sGvgo4",
+      "title": "【超自然スクワッド】キョンシーになっちゃった!?",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CgqV9sGvgo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WjwKzqsf6go",
+      "title": "【手描き切り抜き】なんだよ、がっかりすんなよ #shorts #vtuber",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WjwKzqsf6go",
       "status": "unreviewed",
       "note": null
     }

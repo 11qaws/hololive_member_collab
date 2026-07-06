@@ -1,6 +1,6 @@
 {
   "target": "kiryucoco",
-  "count": 1312,
+  "count": 1313,
   "entries": [
     {
       "video_id": "8WphWiNYbzk",
@@ -11759,6 +11759,18 @@
       "thumbnail": "https://img.youtube.com/vi/bW-DI1gN5Xo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "published_at": "20200422",
+      "url": "https://youtu.be/IuCETj76Nvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IuCETj76Nvg/mqdefault.jpg",
+      "partner_handle": "amanekanata",
+      "partner_name": "Kanata Ch. 天音かなた",
       "sub_entries": [],
       "paired_self": null
     },

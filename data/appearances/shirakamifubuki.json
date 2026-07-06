@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3242,
+  "count": 3248,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35661,6 +35661,72 @@
       "published_at": "20180609",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KUtueqFkYZc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KGhmjOFa404",
+      "title": "Oozora Subaru Truth or Lie Chat w/ Fubuki, Matsuri, Mio & Okayu",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KGhmjOFa404",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WybVvRW85xE",
+      "title": "【】みこスバ3D!謎解き大脱出【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WybVvRW85xE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4J_nFaGHHMM",
+      "title": "【】オタククイズ!【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4J_nFaGHHMM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DYnzwJox4b8",
+      "title": "【告知】パワプロ ケモミミリーグ開催!説明会&チーム決め!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DYnzwJox4b8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CsebRyEQupE",
+      "title": "静かにできない #shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CsebRyEQupE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ObW6CLETbqk",
+      "title": "【 同時視聴/Watchalong 】『ドラゴンボール超 スーパーヒーロー』視聴会。【白上フブキ/鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260627",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ObW6CLETbqk",
       "status": "unreviewed",
       "note": null
     }

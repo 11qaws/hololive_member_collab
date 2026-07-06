@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1866,
+  "count": 1870,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20525,6 +20525,50 @@
       "published_at": "20181214",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vlgW5LeAQO8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wVEuJIUZHQM",
+      "title": "Irohanihohetto Shopping",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wVEuJIUZHQM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KGhmjOFa404",
+      "title": "Oozora Subaru Truth or Lie Chat w/ Fubuki, Matsuri, Mio & Okayu",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KGhmjOFa404",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-S5o6ZPf92A",
+      "title": "【BDAY COUNTDOWN】Call Ins and Counting Down in LA✨#kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-S5o6ZPf92A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6GzX4iJbX2M",
+      "title": "【 歌って踊ってみた 】フレンズ【 桃鈴ねね / 大神ミオ / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6GzX4iJbX2M",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1241,
+  "count": 1247,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13650,6 +13650,72 @@
       "published_at": "20180810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yil1WuTfKQU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MS3HLv4DbNE",
+      "title": "【 #漢義リーグ 】第5節!折り返し!応援は #秋麗宝燈 で!w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MS3HLv4DbNE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kib9k58WLn0",
+      "title": "【3D LIVE】AZKi 8th Birthday Live \"Cross Over\" 新衣装お披露目&重大告知【#AZKi生誕ライブ2026】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kib9k58WLn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hzDrIoEslPg",
+      "title": "【ブレインスリープ】#夢みるロボタール 女子会!w.ロボ子さん【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260627",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hzDrIoEslPg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I2rwr1at568",
+      "title": "【衝撃のラスト】音に合わせて変わるよ♪ #hololive #ホロライブ #無事でした",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I2rwr1at568",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

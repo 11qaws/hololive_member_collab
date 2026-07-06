@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1511,
+  "count": 1514,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16620,6 +16620,39 @@
       "published_at": "20191226",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pKDJ6kc9vA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kib9k58WLn0",
+      "title": "【3D LIVE】AZKi 8th Birthday Live \"Cross Over\" 新衣装お披露目&重大告知【#AZKi生誕ライブ2026】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kib9k58WLn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

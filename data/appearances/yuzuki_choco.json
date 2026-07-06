@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 966,
+  "count": 971,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10625,6 +10625,61 @@
       "published_at": "20180921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c7RDOSXX_Ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J44qEVCv0Gk",
+      "title": "『 #人生で一度は行きたい所』 #アキちょこナイパレ 第42回 ~ホロライブ深夜ラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J44qEVCv0Gk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZgHCNLsYb4I",
+      "title": "『 #今だから言える叶わなかった夢』 #アキちょこナイパレ 第41回 ～ホロライブ深夜ラジオ～",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZgHCNLsYb4I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lGaBMHyHvmU",
+      "title": "【#大空スバル生誕祭2026】お誕生日おめでとうスバル!!!重大告知ありしゅばあああああああああああああああああ!!!!：HAPPY BIRTH DAY STREAM【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lGaBMHyHvmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OQUjTpoot_U",
+      "title": "【いつの間に!?】💉保健医のプロ技 #hololive #ホロライブ #お注射",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OQUjTpoot_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
       "status": "unreviewed",
       "note": null
     }

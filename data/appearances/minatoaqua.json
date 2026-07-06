@@ -1,6 +1,6 @@
 {
   "target": "minatoaqua",
-  "count": 638,
+  "count": 639,
   "appearances": [
     {
       "video_id": "P2v2eXrKxT0",
@@ -7017,6 +7017,17 @@
       "published_at": "20180822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yw8Z-0V82Nc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1432,
+  "count": 1435,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15751,6 +15751,39 @@
       "published_at": "20190529",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/is0hTBJ86ek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WybVvRW85xE",
+      "title": "【】みこスバ3D!謎解き大脱出【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WybVvRW85xE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9caAYEEkRac",
+      "title": "ワードで魔法が使える悲劇のみこめっと⁉️#手描き切り抜き #さくらみこ #星街すいせい",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9caAYEEkRac",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

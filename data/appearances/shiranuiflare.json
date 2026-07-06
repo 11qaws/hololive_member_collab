@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1497,
+  "count": 1498,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16466,6 +16466,17 @@
       "published_at": "20190809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vBNUFHDjlAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TK7gLAwRUHc",
+      "title": "【リズム天国 ミラクルスターズ】4年ぶりに!ふたりの地獄リズムオフコラボ【ホロライブ/宝鐘マリン・不知火フレア】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TK7gLAwRUHc",
       "status": "unreviewed",
       "note": null
     }

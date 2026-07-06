@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1016,
+  "count": 1023,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11175,6 +11175,83 @@
       "published_at": "20200414",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4Lc7t47qWq8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SF9VFV8KDLE",
+      "title": "Kelakuan aku dan seekor Ayunda Risu #hololive #pratfall",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260627",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SF9VFV8KDLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yvV7w8f1lYU",
+      "title": "【MECCHA CHAMELEON】hide with holoID【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yvV7w8f1lYU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3e0UsIdq0g4",
+      "title": "【MECCHA CHAMELEON】 agent in disguise",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3e0UsIdq0g4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E8UhEzoDaI0",
+      "title": "【MECCHA CHAMELEON】 I'M TRYING TO SNEAK AROUND, BUT THE CLAP OF MY  【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E8UhEzoDaI0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2U2xPquq5h8",
+      "title": "【MECCHA CHAMELEON】Girls, do not check the horse【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2U2xPquq5h8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WbK4RRQDY24",
+      "title": "【Meccha Chameleon】I Am the Wall. Do Not Perceive Me.【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WbK4RRQDY24",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HdW-8nNUrss",
+      "title": "【MECCHA CHAMELEON】KOBO COBA GAME VIRAL YANG KATANYA BISA JADI BUNGLON ???",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HdW-8nNUrss",
       "status": "unreviewed",
       "note": null
     }

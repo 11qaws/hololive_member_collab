@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1643,
+  "count": 1649,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18072,6 +18072,72 @@
       "published_at": "20190406",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WOipbg7EHMg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KGhmjOFa404",
+      "title": "Oozora Subaru Truth or Lie Chat w/ Fubuki, Matsuri, Mio & Okayu",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KGhmjOFa404",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iT_WJkHPIRs",
+      "title": "【#生スバル】沈黙のスバおか【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iT_WJkHPIRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CgqV9sGvgo4",
+      "title": "【超自然スクワッド】キョンシーになっちゃった!?",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CgqV9sGvgo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lGaBMHyHvmU",
+      "title": "【#大空スバル生誕祭2026】お誕生日おめでとうスバル!!!重大告知ありしゅばあああああああああああああああああ!!!!：HAPPY BIRTH DAY STREAM【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lGaBMHyHvmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DYnzwJox4b8",
+      "title": "【告知】パワプロ ケモミミリーグ開催!説明会&チーム決め!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DYnzwJox4b8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

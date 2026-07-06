@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1054,
+  "count": 1060,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11593,6 +11593,72 @@
       "published_at": "20231104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aROzHWYvFS8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mqMEU_YIQbw",
+      "title": "【Day 2】hololive English 4th Concert -Serendipity-【Free Preview】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260619",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mqMEU_YIQbw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C-_cnE7PTDU",
+      "title": "【Day 1】hololive English 4th Concert -Serendipity-【Free Preview】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C-_cnE7PTDU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lLxDBO-rcFU",
+      "title": "ラムネ開けられるかな?/How To Open Ramune soda bottle💧 #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260629",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lLxDBO-rcFU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Df6etdLFqso",
+      "title": "【MV】Serendipity【hololive English Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Df6etdLFqso",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KmczU8q1oqE",
+      "title": "#holoSerendipity It's Time for Octo'Clock!",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KmczU8q1oqE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-GU0YutAi1w",
+      "title": "hololive English 3rd Concert -All for One- Blu-ray Digest Video",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260620",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-GU0YutAi1w",
       "status": "unreviewed",
       "note": null
     }

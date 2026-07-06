@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 996,
+  "count": 1000,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -10955,6 +10955,50 @@
       "published_at": "20211126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vqmh-8qU5Wg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WGOGJw_s5dQ",
+      "title": "【インドネシア魂】🌧️#夜の踊り子 も止まらない #pacujalur #hololive #ホロライブ #memes #indonesia",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WGOGJw_s5dQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lvglSXv1dM0",
+      "title": "ラプちゃんの【お姉さま♡ラヴコール】踊ってみた #shorts #hololive #踊ってみた #mmd",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lvglSXv1dM0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t4H67iy5EVQ",
+      "title": "【共感】会社の電話取りたくないよね~ #hololive #ホロライブ #ホロぐら #本音と建前",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t4H67iy5EVQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yKPuzjRZfAE",
+      "title": "I danced to Oneesama Love Call by @LaplusDarknesss !!!",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yKPuzjRZfAE",
       "status": "unreviewed",
       "note": null
     }

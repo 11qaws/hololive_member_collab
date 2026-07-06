@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1085,
+  "count": 1091,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -11934,6 +11934,72 @@
       "published_at": "20190406",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WOipbg7EHMg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GOj0uNRO6O4",
+      "title": "【早起きは三文の徳】尾丸ポルカの朝活集【ポルカ公式切り抜き/ポルカット✂️】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GOj0uNRO6O4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CsebRyEQupE",
+      "title": "静かにできない #shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260701",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CsebRyEQupE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ayx2NDknAvo",
+      "title": "【REPO】れぽおおおおおおおおおおおおおおお【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260629",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ayx2NDknAvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OQUjTpoot_U",
+      "title": "【いつの間に!?】💉保健医のプロ技 #hololive #ホロライブ #お注射",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OQUjTpoot_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

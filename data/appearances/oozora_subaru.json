@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1941,
+  "count": 1946,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21350,6 +21350,61 @@
       "published_at": "20181004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Im-5c35I5F4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KGhmjOFa404",
+      "title": "Oozora Subaru Truth or Lie Chat w/ Fubuki, Matsuri, Mio & Okayu",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KGhmjOFa404",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1AuOtcneQww",
+      "title": "【HOLOEARTH】最後の最後まで!!🌍️ thank you and goodbye holoearth 🐾 【FUWAMOCO|ホロアース】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260628",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1AuOtcneQww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ryx2HuMhN8M",
+      "title": "【HOLOEARTH】 THE LAST HOURS, OTSUKARESAMA 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260628",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ryx2HuMhN8M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jCeOLBESXWE",
+      "title": "【サービス終了】ホロアース最後の瞬間を見届ける【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260628",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jCeOLBESXWE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C9bwkUOZFQ0",
+      "title": "フワモコ並みにハモるホワみこ🌸🚑 #手描き切り抜き #大空スバル #さくらみこ",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260624",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C9bwkUOZFQ0",
       "status": "unreviewed",
       "note": null
     }

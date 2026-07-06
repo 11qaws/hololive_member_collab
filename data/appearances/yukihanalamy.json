@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1297,
+  "count": 1302,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14266,6 +14266,61 @@
       "published_at": "20200806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F76OBO9W7ZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "23qdzlX4m3Y",
+      "title": "【アニメ】ちょっと​酔っちゃったかも。。。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/23qdzlX4m3Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CgqV9sGvgo4",
+      "title": "【超自然スクワッド】キョンシーになっちゃった!?",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CgqV9sGvgo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ioDANnojrJw",
+      "title": "【リズム天国 ミラクルスターズ】セルフ3Dで最新リズム天国をオフコラボで楽しむ!その先は天国?地獄? #KoZMy 【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ioDANnojrJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z2SMUQOFPD4",
+      "title": "【#サマージャンボ】#マリノエラミジャンボ 開催!夏にピッタリなテーマで盛り上がろう☀【白銀ノエル・宝鐘マリン・雪花ラミィ/ホロライブ】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z2SMUQOFPD4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
       "status": "unreviewed",
       "note": null
     }

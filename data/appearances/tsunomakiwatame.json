@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1693,
+  "count": 1696,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18622,6 +18622,39 @@
       "published_at": "20191226",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pKDJ6kc9vA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-dqLfiQ5IHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-S5o6ZPf92A",
+      "title": "【BDAY COUNTDOWN】Call Ins and Counting Down in LA✨#kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-S5o6ZPf92A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

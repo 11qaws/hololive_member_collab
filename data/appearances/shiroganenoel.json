@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1697,
+  "count": 1702,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18666,6 +18666,61 @@
       "published_at": "20190809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WqcoGVZYSWI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BrIqPsWvuOM",
+      "title": "【見せられないよ!】🍚マシンの裏側🍚 #hololive #ホロライブ #牛丼",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BrIqPsWvuOM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lGaBMHyHvmU",
+      "title": "【#大空スバル生誕祭2026】お誕生日おめでとうスバル!!!重大告知ありしゅばあああああああああああああああああ!!!!：HAPPY BIRTH DAY STREAM【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lGaBMHyHvmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z2SMUQOFPD4",
+      "title": "【#サマージャンボ】#マリノエラミジャンボ 開催!夏にピッタリなテーマで盛り上がろう☀【白銀ノエル・宝鐘マリン・雪花ラミィ/ホロライブ】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260630",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z2SMUQOFPD4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IuCETj76Nvg",
+      "title": "【#天音かなた生誕祭】みんなと祝う初めてのお誕生日っ!!歌ったり語ったり、ホロメンからのメッセージもあり【天音かなた/ホロライブ4期生】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200422",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IuCETj76Nvg",
       "status": "unreviewed",
       "note": null
     }

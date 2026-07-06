@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1865,
+  "count": 1868,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20514,6 +20514,39 @@
       "published_at": "20200806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F76OBO9W7ZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4J_nFaGHHMM",
+      "title": "【】オタククイズ!【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4J_nFaGHHMM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OP1HSJ6m6Ug",
+      "title": "【新ボイス】 今日も一日、頑張ったね!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260626",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OP1HSJ6m6Ug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FdsPMD8L_ZA",
+      "title": "【その6】チルラジオ配信 #狐族密会 「 ステッカー作っちゃった♥」【ホロライブ/白上フブキ/尾丸ポルカ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260625",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FdsPMD8L_ZA",
       "status": "unreviewed",
       "note": null
     }

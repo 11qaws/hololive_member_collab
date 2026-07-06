@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1221,
+  "count": 1223,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13430,6 +13430,28 @@
       "published_at": "20180617",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pH1VushdffE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTB3hkuCNs0",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260703",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTB3hkuCNs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2L0YCt9h3iI",
+      "title": "【 #漢義リーグ 第5節】運の継続を信じて楽しく打つ!! #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260704",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2L0YCt9h3iI",
       "status": "unreviewed",
       "note": null
     }
