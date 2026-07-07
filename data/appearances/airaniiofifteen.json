@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1088,
+  "count": 1089,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11967,6 +11967,17 @@
       "published_at": "20260625",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HdW-8nNUrss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1310,
+  "count": 1311,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14409,6 +14409,17 @@
       "published_at": "20260628",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z9s0ae0XgYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,31 @@
 {
   "target": "kureijiollie",
-  "count": 3224,
+  "count": 3225,
   "entries": [
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "published_at": "20260706",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EaFSTPm9oGQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LYAl1tlseE4",
+      "title": "【EN CONCERT WATCHALONG - DAY 2】 EMBRACING SERENDIPITY!! #holoSerendipity  【Kureiji Ollie】",
+      "published_at": "20260705",
+      "url": "https://youtu.be/LYAl1tlseE4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LYAl1tlseE4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "fbAn44xOKZ8",
       "title": "【BUM SIMULATOR】 SPARE CHANGE? SPARE CHANGE MA'AM?  【Kureiji Ollie】",
@@ -81,18 +105,6 @@
       "url": "https://youtu.be/GA8hOzQxY7U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GA8hOzQxY7U/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "LYAl1tlseE4",
-      "title": "【EN CONCERT WATCHALONG - DAY 2】 EMBRACING SERENDIPITY!! #holoSerendipity 【Kureiji Ollie】",
-      "published_at": "20260701",
-      "url": "https://youtu.be/LYAl1tlseE4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LYAl1tlseE4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

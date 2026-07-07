@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1167,
+  "count": 1169,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12836,6 +12836,28 @@
       "published_at": "20260616",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5jF0k7Ghwzw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foUgVcpF4x8",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foUgVcpF4x8",
       "status": "unreviewed",
       "note": null
     }

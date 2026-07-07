@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1223,
+  "count": 1224,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13452,6 +13452,17 @@
       "published_at": "20260704",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2L0YCt9h3iI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foUgVcpF4x8",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foUgVcpF4x8",
       "status": "unreviewed",
       "note": null
     }

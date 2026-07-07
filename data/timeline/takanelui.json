@@ -27,21 +27,9 @@
       "paired_self": null
     },
     {
-      "video_id": "iT_WJkHPIRs",
-      "title": "【#生スバル】沈黙のスバおか【ホロライブ/大空スバル】",
-      "published_at": "20260705",
-      "url": "https://youtu.be/iT_WJkHPIRs",
-      "entry_type": "collab",
-      "thumbnail": "https://img.youtube.com/vi/iT_WJkHPIRs/mqdefault.jpg",
-      "partner_handle": "oozora_subaru",
-      "partner_name": "Subaru Ch. 大空スバル",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "gse5e3emiIY",
-      "title": "【 北九州記念 】夏の短距離レース1200mを制すのはどの馬だ！？【鷹嶺ルイ/ホロライブ】",
-      "published_at": "20260704",
+      "title": "【 北九州記念 】夏の短距離レース1200mを制すのはどの馬だ!?【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260705",
       "url": "https://youtu.be/gse5e3emiIY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/gse5e3emiIY/mqdefault.jpg",
@@ -52,13 +40,25 @@
     },
     {
       "video_id": "otPR2IOrDjE",
-      "title": "【 SAND LAND 】完全初見！めちゃ名作やん・・・朝からやります。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-      "published_at": "20260704",
+      "title": "【 SAND LAND 】完全初見!めちゃ名作やん・・・朝からやります。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+      "published_at": "20260705",
       "url": "https://youtu.be/otPR2IOrDjE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/otPR2IOrDjE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iT_WJkHPIRs",
+      "title": "【#生スバル】沈黙のスバおか【ホロライブ/大空スバル】",
+      "published_at": "20260705",
+      "url": "https://youtu.be/iT_WJkHPIRs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iT_WJkHPIRs/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -21639,24 +21639,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kEH7SJvgIwQ",
-      "title": "TSUBASA",
-      "published_at": "20240611",
-      "url": "https://youtu.be/kEH7SJvgIwQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "he7uObcHFdk",
       "title": "オーバード",
       "published_at": "20240611",
       "url": "https://youtu.be/he7uObcHFdk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/he7uObcHFdk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kEH7SJvgIwQ",
+      "title": "TSUBASA",
+      "published_at": "20240611",
+      "url": "https://youtu.be/kEH7SJvgIwQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

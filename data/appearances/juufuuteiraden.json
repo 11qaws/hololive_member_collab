@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 812,
+  "count": 813,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -8931,6 +8931,17 @@
       "published_at": "20260626",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-cRwCPSQFE0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
       "status": "unreviewed",
       "note": null
     }

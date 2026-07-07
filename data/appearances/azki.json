@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1014,
+  "count": 1015,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11153,6 +11153,17 @@
       "published_at": "20260625",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6QbCxiI2lUk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
       "status": "unreviewed",
       "note": null
     }

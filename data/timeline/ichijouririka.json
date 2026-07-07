@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2537,
+  "count": 2538,
   "entries": [
     {
       "video_id": "vz77Vd_BPG0",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/dacMJXgrT9U/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "published_at": "20260706",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EaFSTPm9oGQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19287,24 +19299,24 @@
       "paired_self": null
     },
     {
-      "video_id": "JR6shpFnMLQ",
-      "title": "今日も大天才っ!",
-      "published_at": "20240910",
-      "url": "https://youtu.be/JR6shpFnMLQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "U5zGOt3OOAE",
       "title": "今日も大天才っ!(Instrumental)",
       "published_at": "20240910",
       "url": "https://youtu.be/U5zGOt3OOAE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U5zGOt3OOAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JR6shpFnMLQ",
+      "title": "今日も大天才っ!",
+      "published_at": "20240910",
+      "url": "https://youtu.be/JR6shpFnMLQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

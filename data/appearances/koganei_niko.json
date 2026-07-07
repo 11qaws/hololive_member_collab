@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 783,
+  "count": 784,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8612,6 +8612,17 @@
       "published_at": "20260625",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LloxAoNZFRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foUgVcpF4x8",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foUgVcpF4x8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 2893,
+  "count": 2894,
   "entries": [
     {
       "video_id": "WA4Xl9w-1h8",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/lZzUgJQ_rII/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "published_at": "20260706",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EaFSTPm9oGQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
