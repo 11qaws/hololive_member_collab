@@ -1,7 +1,19 @@
 {
   "target": "irys",
-  "count": 2028,
+  "count": 2029,
   "entries": [
+    {
+      "video_id": "x03-mhBVn70",
+      "title": "【Echoes of Aincrad】Pre-Release Special Death Game Challenge!!【IRyS / hololive】",
+      "published_at": "20260707",
+      "url": "https://youtu.be/x03-mhBVn70",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x03-mhBVn70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "C-_cnE7PTDU",
       "title": "【Day 1】hololive English 4th Concert -Serendipity-【Free Preview】",
@@ -16,7 +28,7 @@
     },
     {
       "video_id": "mDz6at3wXws",
-      "title": "【#holoSerendipity】CHEER SPACE!!!!!",
+      "title": "【#holoSerendipity】Me back! SERENDIPITY AFTERTALK :D",
       "published_at": "20260703",
       "url": "https://youtu.be/mDz6at3wXws",
       "entry_type": "stream",

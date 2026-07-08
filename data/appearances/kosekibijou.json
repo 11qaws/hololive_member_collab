@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1411,
+  "count": 1412,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15520,6 +15520,17 @@
       "published_at": "20260620",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-GU0YutAi1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NpHjLiknW-V",
+      "title": "Street Fighter 1994 Watchalong w/ Beebs",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NpHjLiknW-V",
       "status": "unreviewed",
       "note": null
     }

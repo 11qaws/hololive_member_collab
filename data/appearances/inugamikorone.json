@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1092,
+  "count": 1093,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12011,6 +12011,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bWK2juN5IJc",
+      "title": "【 🔴R.E.P.O. 】#おかころ で超久しぶりREPOやるよ~~💜🤝💛【 猫又おかゆ支店/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bWK2juN5IJc",
       "status": "unreviewed",
       "note": null
     }

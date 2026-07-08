@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1247,
+  "count": 1248,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13716,6 +13716,17 @@
       "published_at": "20200422",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IuCETj76Nvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EaFSTPm9oGQ",
+      "title": "【新ボイス】夏になると、あなたのことを思い出す。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EaFSTPm9oGQ",
       "status": "unreviewed",
       "note": null
     }

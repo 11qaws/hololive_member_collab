@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3578,
+  "count": 3579,
   "entries": [
     {
       "video_id": "foUgVcpF4x8",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/FTB3hkuCNs0/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "published_at": "20260702",
+      "url": "https://youtu.be/-dqLfiQ5IHU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-dqLfiQ5IHU/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -4755,24 +4767,24 @@
       "paired_self": null
     },
     {
-      "video_id": "darS1jexgTw",
-      "title": "TRUTH",
-      "published_at": "20251007",
-      "url": "https://youtu.be/darS1jexgTw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "c2hP0qWGgaA",
       "title": "凛",
       "published_at": "20251007",
       "url": "https://youtu.be/c2hP0qWGgaA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "darS1jexgTw",
+      "title": "TRUTH",
+      "published_at": "20251007",
+      "url": "https://youtu.be/darS1jexgTw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -18687,24 +18699,24 @@
       "paired_self": null
     },
     {
-      "video_id": "llLjylG44DQ",
-      "title": "Present Day",
-      "published_at": "20230926",
-      "url": "https://youtu.be/llLjylG44DQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oXAObuOS1U4",
       "title": "サンビタリア",
       "published_at": "20230926",
       "url": "https://youtu.be/oXAObuOS1U4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "llLjylG44DQ",
+      "title": "Present Day",
+      "published_at": "20230926",
+      "url": "https://youtu.be/llLjylG44DQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1515,
+  "count": 1516,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16664,6 +16664,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-dqLfiQ5IHU",
       "status": "unreviewed",
       "note": null
     }

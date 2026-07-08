@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1055,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11604,6 +11604,17 @@
       "published_at": "20240824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/K2TabBvQhQ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zn7C02HNQYI",
+      "title": "【おまけ】#LLchallenge の撮影の裏側📸 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zn7C02HNQYI",
       "status": "unreviewed",
       "note": null
     }

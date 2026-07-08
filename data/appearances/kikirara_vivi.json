@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1169,
+  "count": 1170,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12858,6 +12858,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y1b3YSqcQrI",
+      "title": "【ワールドカップ】W杯 アルゼンチン vs エジプト戦 全力応援！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260706",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y1b3YSqcQrI",
       "status": "unreviewed",
       "note": null
     }

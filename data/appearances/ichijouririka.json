@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1254,
+  "count": 1256,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -13793,6 +13793,28 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ENZLX5etF6Y",
+      "title": "【パワプロ2026】新作でお試し対戦!3D!こんこよ高校VS限界条高校⚾ #こよりり 【一条莉々華・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ENZLX5etF6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zn7C02HNQYI",
+      "title": "【おまけ】#LLchallenge の撮影の裏側📸 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zn7C02HNQYI",
       "status": "unreviewed",
       "note": null
     }

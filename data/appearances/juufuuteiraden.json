@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 813,
+  "count": 814,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -8942,6 +8942,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zn7C02HNQYI",
+      "title": "【おまけ】#LLchallenge の撮影の裏側📸 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zn7C02HNQYI",
       "status": "unreviewed",
       "note": null
     }

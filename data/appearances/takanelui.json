@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1404,
+  "count": 1406,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15443,6 +15443,28 @@
       "published_at": "20260624",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0uz1R0vrBrI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-dqLfiQ5IHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MKjXgiJSB_o",
+      "title": "【七夕】🌠星街すいせい限定凸待ち会場🌠【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MKjXgiJSB_o",
       "status": "unreviewed",
       "note": null
     }

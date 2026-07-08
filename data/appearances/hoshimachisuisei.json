@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1435,
+  "count": 1436,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15784,6 +15784,17 @@
       "published_at": "20200422",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IuCETj76Nvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MKjXgiJSB_o",
+      "title": "【七夕】🌠星街すいせい限定凸待ち会場🌠【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MKjXgiJSB_o",
       "status": "unreviewed",
       "note": null
     }

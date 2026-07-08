@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 814,
+  "count": 815,
   "entries": [
+    {
+      "video_id": "Zn7C02HNQYI",
+      "title": "【おまけ】#LLchallenge の撮影の裏側📸 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260707",
+      "url": "https://youtu.be/Zn7C02HNQYI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zn7C02HNQYI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "dacMJXgrT9U",
       "title": "#Kiepi の #RENA さん (@kiepi_official ) と莉々華が一緒に #LuckyLoud 踊ってみた✨ #ReGLOSS #一条莉々華  #Vtuber #shorts",
@@ -2259,18 +2271,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Qo_Xhp72DUk",
-      "title": "落噺 (儒烏風亭らでん SOLO)",
-      "published_at": "20251111",
-      "url": "https://youtu.be/Qo_Xhp72DUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PSLHyLxQXIw",
       "title": "Bangarang",
       "published_at": "20251111",
@@ -2283,12 +2283,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JvM1DDsQVzA",
-      "title": "XOVERLINE",
+      "video_id": "Qo_Xhp72DUk",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
-      "url": "https://youtu.be/JvM1DDsQVzA",
+      "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2301,6 +2301,18 @@
       "url": "https://youtu.be/K9Lj5AFi__I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JvM1DDsQVzA",
+      "title": "XOVERLINE",
+      "published_at": "20251111",
+      "url": "https://youtu.be/JvM1DDsQVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
