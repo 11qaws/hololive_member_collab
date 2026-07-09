@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1003,
+  "count": 1005,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11032,6 +11032,28 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MKjXgiJSB_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrTA0d2FnR0",
+      "title": "緊急🚨ゲリララジオ📻Vivi Ch. 綺々羅々ヴィヴィ がライブ配信中！",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260121",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrTA0d2FnR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cjhLB4GVgPw",
+      "title": "ジェスチャーゲームでセクシーになった水宮枢🫣🩵",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cjhLB4GVgPw",
       "status": "unreviewed",
       "note": null
     }

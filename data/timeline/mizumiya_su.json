@@ -1,10 +1,46 @@
 {
   "target": "mizumiya_su",
-  "count": 2045,
+  "count": 2049,
   "entries": [
     {
+      "video_id": "03YykSTLPR0",
+      "title": "【ウマ娘プリティーダービー】完全初見💙ゴールドシップ育成編【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260708",
+      "url": "https://youtu.be/03YykSTLPR0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/03YykSTLPR0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t8udCUPu1pI",
+      "title": "2時間3分/みにみやが踊ってみた #hololive #vtuber #dance",
+      "published_at": "20260708",
+      "url": "https://youtu.be/t8udCUPu1pI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t8udCUPu1pI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cjhLB4GVgPw",
+      "title": "ジェスチャーゲームでセクシーになった水宮枢🫣🩵",
+      "published_at": "20260708",
+      "url": "https://youtu.be/cjhLB4GVgPw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cjhLB4GVgPw/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "vVRLAYQxVTc",
-      "title": "【リズム天国ミラクルスターズ】待っていた新作💙リズムにのる2【水宮枢/ホロライブDEV_IS】",
+      "title": "【リズム天国ミラクルスターズ】待っていた新作💙リズムにのる2【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260707",
       "url": "https://youtu.be/vVRLAYQxVTc",
       "entry_type": "stream",
@@ -69,6 +105,18 @@
       "url": "https://youtu.be/H5t4_eFYwg4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/H5t4_eFYwg4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dhiBuRYeiCQ",
+      "title": "【70万人耐久】歌と雑談!/KARAOKE➕freeTalk【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260706",
+      "url": "https://youtu.be/dhiBuRYeiCQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dhiBuRYeiCQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -191,18 +239,6 @@
       "thumbnail": "https://img.youtube.com/vi/AtMkKpVDVKo/mqdefault.jpg",
       "partner_handle": "kikirara_vivi",
       "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "dhiBuRYeiCQ",
-      "title": "【70万人耐久】歌と雑談！／KARAOKE➕freeTalk【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260704",
-      "url": "https://youtu.be/dhiBuRYeiCQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dhiBuRYeiCQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -6827,6 +6863,18 @@
       "thumbnail": "https://img.youtube.com/vi/njP4gkV3eJw/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zrTA0d2FnR0",
+      "title": "緊急🚨ゲリララジオ📻Vivi Ch. 綺々羅々ヴィヴィ がライブ配信中！",
+      "published_at": "20260121",
+      "url": "https://youtu.be/zrTA0d2FnR0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zrTA0d2FnR0/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

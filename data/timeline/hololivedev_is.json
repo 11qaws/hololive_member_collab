@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 815,
+  "count": 816,
   "entries": [
+    {
+      "video_id": "BhvKee6mlRo",
+      "title": "#Kiepi の #CERA さん ( @kiepi_official  )とはじめが一緒に #LuckyLoud 踊ってみた✨ #ReGLOSS #轟はじめ  #Vtuber #shorts",
+      "published_at": "20260708",
+      "url": "https://youtu.be/BhvKee6mlRo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BhvKee6mlRo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Zn7C02HNQYI",
       "title": "【おまけ】#LLchallenge の撮影の裏側📸 #ReGLOSS #Vtuber #shorts",
@@ -2271,24 +2283,24 @@
       "paired_self": null
     },
     {
-      "video_id": "PSLHyLxQXIw",
-      "title": "Bangarang",
-      "published_at": "20251111",
-      "url": "https://youtu.be/PSLHyLxQXIw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Qo_Xhp72DUk",
       "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
       "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PSLHyLxQXIw",
+      "title": "Bangarang",
+      "published_at": "20251111",
+      "url": "https://youtu.be/PSLHyLxQXIw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

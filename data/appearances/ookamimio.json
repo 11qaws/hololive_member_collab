@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1870,
+  "count": 1871,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20569,6 +20569,17 @@
       "published_at": "20260625",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6GzX4iJbX2M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Cx2v685UNgU",
+      "title": "【 #生スバル 】大空スバルの嘘を見抜け!嘘?ホント?トーク🍉【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Cx2v685UNgU",
       "status": "unreviewed",
       "note": null
     }

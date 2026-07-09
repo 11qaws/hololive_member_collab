@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1188,
+  "count": 1189,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13067,6 +13067,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Dpie3k8IK9g",
+      "title": "【 #ねねねトワワ 】💜 💛#ねねねトワワ4周年記念 お揃いの…⁉️そしてついに…⁉️💛💜 【 桃鈴ねね / 常闇トワ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Dpie3k8IK9g",
       "status": "unreviewed",
       "note": null
     }

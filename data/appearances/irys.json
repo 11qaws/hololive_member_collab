@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1089,
+  "count": 1090,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11978,6 +11978,17 @@
       "published_at": "20260620",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-GU0YutAi1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KQn_4mpsqYw",
+      "title": "3D LIVE #shorts 「残酷な天使のテーゼ with IRyS」「One Last Kiss with 音乃瀬奏」#AZKi生誕ライブ2026",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KQn_4mpsqYw",
       "status": "unreviewed",
       "note": null
     }

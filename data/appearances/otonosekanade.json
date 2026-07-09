@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1056,
+  "count": 1058,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11615,6 +11615,28 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Zn7C02HNQYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1_sH3V-YYS4",
+      "title": "悪いコト選手権でガキンチョたちが大暴れ…!? #shorts #reglossの日常",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1_sH3V-YYS4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KQn_4mpsqYw",
+      "title": "3D LIVE #shorts 「残酷な天使のテーゼ with IRyS」「One Last Kiss with 音乃瀬奏」#AZKi生誕ライブ2026",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KQn_4mpsqYw",
       "status": "unreviewed",
       "note": null
     }

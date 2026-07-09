@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1102,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12121,6 +12121,28 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Zn7C02HNQYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1_sH3V-YYS4",
+      "title": "悪いコト選手権でガキンチョたちが大暴れ…!? #shorts #reglossの日常",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1_sH3V-YYS4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BhvKee6mlRo",
+      "title": "#Kiepi の #CERA さん ( @kiepi_official  )とはじめが一緒に #LuckyLoud 踊ってみた✨ #ReGLOSS #轟はじめ  #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BhvKee6mlRo",
       "status": "unreviewed",
       "note": null
     }

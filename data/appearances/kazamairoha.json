@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 985,
+  "count": 986,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -10834,6 +10834,17 @@
       "published_at": "20260628",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CFQy9EyQttg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHlljCectbA",
+      "title": "罵倒レベル：小学生 #hololive #ホロライブ #ホロぐら #秘密結社",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHlljCectbA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1696,
+  "count": 1697,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18655,6 +18655,17 @@
       "published_at": "20200422",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IuCETj76Nvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fPdJfzYNKEk",
+      "title": "【#アキロゼ生誕祭】全身3Dでお祝いだ～！！ドコドン！【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20200217",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fPdJfzYNKEk",
       "status": "unreviewed",
       "note": null
     }

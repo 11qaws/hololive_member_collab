@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1000,
+  "count": 1001,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -10999,6 +10999,17 @@
       "published_at": "20260630",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yKPuzjRZfAE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHlljCectbA",
+      "title": "罵倒レベル：小学生 #hololive #ホロライブ #ホロぐら #秘密結社",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHlljCectbA",
       "status": "unreviewed",
       "note": null
     }

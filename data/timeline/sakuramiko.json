@@ -1,7 +1,19 @@
 {
   "target": "sakuramiko",
-  "count": 5355,
+  "count": 5357,
   "entries": [
+    {
+      "video_id": "H6jFgLOMGxc",
+      "title": "【メンバー限定】VRChatでみことデートにぇえええええええ！！！！！！！！！【ホロライブ/さくらみこ】",
+      "published_at": "20260708",
+      "url": "https://youtu.be/H6jFgLOMGxc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H6jFgLOMGxc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "MKjXgiJSB_o",
       "title": "【七夕】🌠星街すいせい限定凸待ち会場🌠【ホロライブ/さくらみこ】",
@@ -48171,24 +48183,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TThKPMBMK_o",
-      "title": "さくら色ハイテンション! (Instrumental)",
-      "published_at": "20210125",
-      "url": "https://youtu.be/TThKPMBMK_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dgkijs3AfAs",
       "title": "さくら色ハイテンション!",
       "published_at": "20210125",
       "url": "https://youtu.be/dgkijs3AfAs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TThKPMBMK_o",
+      "title": "さくら色ハイテンション! (Instrumental)",
+      "published_at": "20210125",
+      "url": "https://youtu.be/TThKPMBMK_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -50595,24 +50607,24 @@
       "paired_self": null
     },
     {
-      "video_id": "H_haJQ20B3A",
-      "title": "サクラカゼ (Instrumental)",
-      "published_at": "20201021",
-      "url": "https://youtu.be/H_haJQ20B3A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/H_haJQ20B3A/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "XdWh7yD-AL8",
       "title": "サクラカゼ",
       "published_at": "20201021",
       "url": "https://youtu.be/XdWh7yD-AL8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/XdWh7yD-AL8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H_haJQ20B3A",
+      "title": "サクラカゼ (Instrumental)",
+      "published_at": "20201021",
+      "url": "https://youtu.be/H_haJQ20B3A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H_haJQ20B3A/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -55031,6 +55043,18 @@
       "thumbnail": "https://img.youtube.com/vi/4K0WBC9Imk8/mqdefault.jpg",
       "partner_handle": "murasakishion",
       "partner_name": "Shion Ch. 紫咲シオン",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fPdJfzYNKEk",
+      "title": "【#アキロゼ生誕祭】全身3Dでお祝いだ～！！ドコドン！【ホロライブ/アキロゼ】",
+      "published_at": "20200217",
+      "url": "https://youtu.be/fPdJfzYNKEk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fPdJfzYNKEk/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },

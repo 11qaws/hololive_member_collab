@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 4632,
+  "count": 4633,
   "entries": [
     {
       "video_id": "KGhmjOFa404",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "Cx2v685UNgU",
+      "title": "【 #生スバル 】大空スバルの嘘を見抜け!嘘?ホント?トーク🍉【ホロライブ/夏色まつり】",
+      "published_at": "20260708",
+      "url": "https://youtu.be/Cx2v685UNgU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Cx2v685UNgU/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iT_WJkHPIRs",
+      "title": "【#生スバル】沈黙のスバおか【ホロライブ/大空スバル】",
+      "published_at": "20260706",
+      "url": "https://youtu.be/iT_WJkHPIRs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iT_WJkHPIRs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "WybVvRW85xE",
-      "title": "【#みこスバ謎解き】みこスバ3D!謎解き大脱出やるしゅばあああああああああああああああああああああああああああああ!!!!!!：Mystery solving MIKOSUBA 3D【ホロライブ】",
+      "title": "【#みこスバ謎解き】みこスバ3D！謎解き大脱出やるしゅばあああああああああああああああああああああああああああああ！！！！！！：Mystery solving MIKOSUBA 3D【ホロライブ】",
       "published_at": "20260705",
       "url": "https://youtu.be/WybVvRW85xE",
       "entry_type": "stream",
@@ -33,18 +57,6 @@
       "url": "https://youtu.be/4J_nFaGHHMM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/4J_nFaGHHMM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "iT_WJkHPIRs",
-      "title": "【#生スバル】沈黙のスバおか【ホロライブ/大空スバル】",
-      "published_at": "20260705",
-      "url": "https://youtu.be/iT_WJkHPIRs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/iT_WJkHPIRs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

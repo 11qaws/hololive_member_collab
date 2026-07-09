@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1334,
+  "count": 1335,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14673,6 +14673,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHlljCectbA",
+      "title": "罵倒レベル：小学生 #hololive #ホロライブ #ホロぐら #秘密結社",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHlljCectbA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1406,
+  "count": 1407,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15465,6 +15465,17 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MKjXgiJSB_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHlljCectbA",
+      "title": "罵倒レベル：小学生 #hololive #ホロライブ #ホロぐら #秘密結社",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHlljCectbA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1313,
+  "count": 1314,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14442,6 +14442,17 @@
       "published_at": "20260630",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NTC5kWgW1sQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fPdJfzYNKEk",
+      "title": "【#アキロゼ生誕祭】全身3Dでお祝いだ～！！ドコドン！【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20200217",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fPdJfzYNKEk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,31 @@
 {
   "target": "irys",
-  "count": 2029,
+  "count": 2031,
   "entries": [
+    {
+      "video_id": "KQn_4mpsqYw",
+      "title": "3D LIVE #shorts 「残酷な天使のテーゼ with IRyS」「One Last Kiss with 音乃瀬奏」#AZKi生誕ライブ2026",
+      "published_at": "20260708",
+      "url": "https://youtu.be/KQn_4mpsqYw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KQn_4mpsqYw/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gEp7-SgCods",
+      "title": "[BIG ANNOUNCEMENT / 重大告知] Initial I: Racing for the Fastest & ANNOUNCEMENTS #5thAnniversaRyS",
+      "published_at": "20260707",
+      "url": "https://youtu.be/gEp7-SgCods",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gEp7-SgCods/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "x03-mhBVn70",
       "title": "【Echoes of Aincrad】Pre-Release Special Death Game Challenge!!【IRyS / hololive】",
@@ -19059,24 +19083,24 @@
       "paired_self": null
     },
     {
-      "video_id": "pj9yqqTYa-E",
-      "title": "One Step at a Time",
-      "published_at": "20220629",
-      "url": "https://youtu.be/pj9yqqTYa-E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pj9yqqTYa-E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1IW5FEVUNZU",
       "title": "One Step at a Time (Instrumental)",
       "published_at": "20220629",
       "url": "https://youtu.be/1IW5FEVUNZU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1IW5FEVUNZU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pj9yqqTYa-E",
+      "title": "One Step at a Time",
+      "published_at": "20220629",
+      "url": "https://youtu.be/pj9yqqTYa-E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pj9yqqTYa-E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1412,
+  "count": 1413,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15531,6 +15531,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NpHjLiknW-V",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gEp7-SgCods",
+      "title": "[BIG ANNOUNCEMENT / 重大告知] Initial I: Racing for the Fastest & ANNOUNCEMENTS #5thAnniversaRyS",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gEp7-SgCods",
       "status": "unreviewed",
       "note": null
     }
