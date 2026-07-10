@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1629,
+  "count": 1630,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -17918,6 +17918,17 @@
       "published_at": "20260629",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ufvkWOE-GZQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kJTovys8urU",
+      "title": "全速力で未来も現在も駆け抜けろ #hololive #shorts #兎田ぺこら #宝鐘マリン",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kJTovys8urU",
       "status": "unreviewed",
       "note": null
     }

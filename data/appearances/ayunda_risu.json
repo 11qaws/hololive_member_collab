@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1024,
+  "count": 1025,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11263,6 +11263,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O6IKaCGEdVs",
+      "title": "【PUBGM X NARUTO】TRUST THE KAELA NINJA WAY",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O6IKaCGEdVs",
       "status": "unreviewed",
       "note": null
     }

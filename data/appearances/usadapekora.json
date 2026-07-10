@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1545,
+  "count": 1546,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16994,6 +16994,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xd98Hcc7DEI",
+      "title": "【#生スバル】ぺこスバ in ぺこらハウス【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xd98Hcc7DEI",
       "status": "unreviewed",
       "note": null
     }

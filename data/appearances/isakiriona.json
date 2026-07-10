@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1005,
+  "count": 1007,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11054,6 +11054,28 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cjhLB4GVgPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M1mZrusy-xY",
+      "title": "3D LIVE #shorts 「Don't say \"lazy\" with 常闇トワ」「星座になれたら with 響咲リオナ」#AZKi生誕ライブ2026",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M1mZrusy-xY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3Q1-P7VhlI4",
+      "title": "リオナとヴィヴィで踊ってみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3Q1-P7VhlI4",
       "status": "unreviewed",
       "note": null
     }

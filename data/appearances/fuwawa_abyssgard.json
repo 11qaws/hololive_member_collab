@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1103,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12132,6 +12132,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kmySz5sUfKI",
+      "title": "\"The Off-Collab\"💀🐾👧#holoEN3DRepeat",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kmySz5sUfKI",
       "status": "unreviewed",
       "note": null
     }

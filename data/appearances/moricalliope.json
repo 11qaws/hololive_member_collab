@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1395,
+  "count": 1397,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15344,6 +15344,28 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kmySz5sUfKI",
+      "title": "\"The Off-Collab\"💀🐾👧#holoEN3DRepeat",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kmySz5sUfKI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HZR3gJCYtA8",
+      "title": "【急募】＠ホロメン 深夜に闇のゲームで戦わないか❓【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HZR3gJCYtA8",
       "status": "unreviewed",
       "note": null
     }

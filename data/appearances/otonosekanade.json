@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1058,
+  "count": 1060,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11637,6 +11637,28 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KQn_4mpsqYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z3QU7H7j0ec",
+      "title": "演技力VS見極め力!ReGLOSSに潜む人狼は誰だ?【#ReGLOSS人狼バトル】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z3QU7H7j0ec",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KVPgTRLO334",
+      "title": "【解釈一致ゲーム】ReGLOSSで一番乙女なのは誰〜? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KVPgTRLO334",
       "status": "unreviewed",
       "note": null
     }

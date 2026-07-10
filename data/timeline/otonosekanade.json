@@ -1,7 +1,31 @@
 {
   "target": "otonosekanade",
-  "count": 2011,
+  "count": 2014,
   "entries": [
+    {
+      "video_id": "TktGPteN2_0",
+      "title": "【 リズム天国 ミラクルスターズ 】ぷるるるぱ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260709",
+      "url": "https://youtu.be/TktGPteN2_0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TktGPteN2_0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KVPgTRLO334",
+      "title": "【解釈一致ゲーム】ReGLOSSで一番乙女なのは誰〜? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260709",
+      "url": "https://youtu.be/KVPgTRLO334",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KVPgTRLO334/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1_sH3V-YYS4",
       "title": "悪いコト選手権でガキンチョたちが大暴れ…!? #shorts #reglossの日常",
@@ -33,6 +57,18 @@
       "url": "https://youtu.be/Zn7C02HNQYI",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/Zn7C02HNQYI/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Z3QU7H7j0ec",
+      "title": "演技力VS見極め力!ReGLOSSに潜む人狼は誰だ?【#ReGLOSS人狼バトル】",
+      "published_at": "20260707",
+      "url": "https://youtu.be/Z3QU7H7j0ec",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Z3QU7H7j0ec/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
@@ -24111,24 +24147,24 @@
       "paired_self": null
     },
     {
-      "video_id": "MBxH_i3bAhA",
-      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
-      "published_at": "",
-      "url": "https://youtu.be/MBxH_i3bAhA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "mVNF0Opghnc",
       "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "",
       "url": "https://youtu.be/mVNF0Opghnc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MBxH_i3bAhA",
+      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
+      "published_at": "",
+      "url": "https://youtu.be/MBxH_i3bAhA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

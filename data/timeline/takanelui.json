@@ -1,7 +1,43 @@
 {
   "target": "takanelui",
-  "count": 3818,
+  "count": 3821,
   "entries": [
+    {
+      "video_id": "sgwshFCjyX8",
+      "title": "おつかれSUMMER #shorts #hololive #おつかれsummer",
+      "published_at": "20260710",
+      "url": "https://youtu.be/sgwshFCjyX8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sgwshFCjyX8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LyxvRkQycus",
+      "title": "【 雑談 】このあとBAYFMで2回目のラジオ開始!そのあとは奪還のロゼ!  #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260709",
+      "url": "https://youtu.be/LyxvRkQycus",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LyxvRkQycus/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pJeJcX12n50",
+      "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見!最終回になるか⁉他の場所からきたキャラたちはどーなる⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "published_at": "20260709",
+      "url": "https://youtu.be/pJeJcX12n50",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pJeJcX12n50/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "HzIQa0Liqlw",
       "title": "サカナクションのLIVEいきてぇ! #shorts #hololive #夜の踊り子",
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "rM_JNZ-Zqmc",
-      "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見！始原の里攻略へ・・・世界樹を助けることはできるのか⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見!始原の里攻略へ・・・世界樹を助けることはできるのか⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
       "published_at": "20260708",
       "url": "https://youtu.be/rM_JNZ-Zqmc",
       "entry_type": "stream",
@@ -21723,24 +21759,24 @@
       "paired_self": null
     },
     {
-      "video_id": "he7uObcHFdk",
-      "title": "オーバード",
-      "published_at": "20240611",
-      "url": "https://youtu.be/he7uObcHFdk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/he7uObcHFdk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "kEH7SJvgIwQ",
       "title": "TSUBASA",
       "published_at": "20240611",
       "url": "https://youtu.be/kEH7SJvgIwQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "he7uObcHFdk",
+      "title": "オーバード",
+      "published_at": "20240611",
+      "url": "https://youtu.be/he7uObcHFdk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/he7uObcHFdk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

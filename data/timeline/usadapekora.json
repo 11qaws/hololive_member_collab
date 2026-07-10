@@ -1,7 +1,31 @@
 {
   "target": "usadapekora",
-  "count": 4514,
+  "count": 4516,
   "entries": [
+    {
+      "video_id": "kJTovys8urU",
+      "title": "全速力で未来も現在も駆け抜けろ #hololive #shorts #兎田ぺこら #宝鐘マリン",
+      "published_at": "20260709",
+      "url": "https://youtu.be/kJTovys8urU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kJTovys8urU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xd98Hcc7DEI",
+      "title": "【#生スバル】ぺこスバ in ぺこらハウス【ホロライブ/大空スバル】",
+      "published_at": "20260709",
+      "url": "https://youtu.be/xd98Hcc7DEI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xd98Hcc7DEI/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "7KEjKt4mMLw",
       "title": "#最終回【初見】『コードギアス 反逆のルルーシュ』同時視聴【ホロライブ/兎田ぺこら】",
@@ -27,21 +51,9 @@
       "paired_self": null
     },
     {
-      "video_id": "fYRmMuq0300",
-      "title": "【#ノエぺこの戦う七夕】神社に行って祈ってきた!!!年に一度の大勝負!勝たせていただきますゾ!【白銀ノエル/ホロライブ】",
-      "published_at": "20260707",
-      "url": "https://youtu.be/fYRmMuq0300",
-      "entry_type": "collab",
-      "thumbnail": "https://img.youtube.com/vi/fYRmMuq0300/mqdefault.jpg",
-      "partner_handle": "shiroganenoel",
-      "partner_name": "Noel Ch. 白銀ノエル",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "y1b3YSqcQrI",
-      "title": "【ワールドカップ】W杯 アルゼンチン vs エジプト戦 全力応援！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "20260706",
+      "title": "【ワールドカップ】W杯 アルゼンチン vs エジプト戦 全力応援!同時視聴!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20260707",
       "url": "https://youtu.be/y1b3YSqcQrI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/y1b3YSqcQrI/mqdefault.jpg",
@@ -52,13 +64,25 @@
     },
     {
       "video_id": "-NdBu39ZNLY",
-      "title": "【#ノエぺこの戦う七夕】年に一度の大勝負！ノエルVSぺこらカジノ対決2026！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "20260706",
+      "title": "【#ノエぺこの戦う七夕】年に一度の大勝負!ノエルVSぺこらカジノ対決2026!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20260707",
       "url": "https://youtu.be/-NdBu39ZNLY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-NdBu39ZNLY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fYRmMuq0300",
+      "title": "【#ノエぺこの戦う七夕】神社に行って祈ってきた!!!年に一度の大勝負!勝たせていただきますゾ!【白銀ノエル/ホロライブ】",
+      "published_at": "20260707",
+      "url": "https://youtu.be/fYRmMuq0300",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fYRmMuq0300/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
       "sub_entries": [],
       "paired_self": null
     },

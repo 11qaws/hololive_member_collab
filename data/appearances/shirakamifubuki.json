@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3250,
+  "count": 3251,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35749,6 +35749,17 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Cx2v685UNgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HZR3gJCYtA8",
+      "title": "【急募】＠ホロメン 深夜に闇のゲームで戦わないか❓【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HZR3gJCYtA8",
       "status": "unreviewed",
       "note": null
     }

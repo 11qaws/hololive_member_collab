@@ -1,7 +1,55 @@
 {
   "target": "tokoyamitowa",
-  "count": 3581,
+  "count": 3585,
   "entries": [
+    {
+      "video_id": "0bEJgWdoq74",
+      "title": "#ウチらしか勝たん (Instrumental)",
+      "published_at": "20260709",
+      "url": "https://youtu.be/0bEJgWdoq74",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0bEJgWdoq74/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YiZw79bvG6c",
+      "title": "#ウチらしか勝たん",
+      "published_at": "20260709",
+      "url": "https://youtu.be/YiZw79bvG6c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YiZw79bvG6c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oUd1hLK7p2I",
+      "title": "#ウチらしか勝たん / 常闇トワ×桃鈴ねね (official)",
+      "published_at": "20260709",
+      "url": "https://youtu.be/oUd1hLK7p2I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oUd1hLK7p2I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M1mZrusy-xY",
+      "title": "3D LIVE #shorts 「Don't say \"lazy\" with 常闇トワ」「星座になれたら with 響咲リオナ」#AZKi生誕ライブ2026",
+      "published_at": "20260709",
+      "url": "https://youtu.be/M1mZrusy-xY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/M1mZrusy-xY/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Dpie3k8IK9g",
       "title": "【 #ねねねトワワ 】💜 💛#ねねねトワワ4周年記念 お揃いの…⁉️そしてついに…⁉️💛💜 【 桃鈴ねね / 常闇トワ 】",
@@ -16,7 +64,7 @@
     },
     {
       "video_id": "sfdkD9Gl-Yg",
-      "title": "【 雑談-Freetalk- 】ご心配とご迷惑をおかけしました…！落ち着きました！！【常闇トワ/ホロライブ】",
+      "title": "【 雑談-Freetalk- 】ご心配とご迷惑をおかけしました…!落ち着きました!!【常闇トワ/ホロライブ】",
       "published_at": "20260708",
       "url": "https://youtu.be/sfdkD9Gl-Yg",
       "entry_type": "stream",
@@ -4791,24 +4839,24 @@
       "paired_self": null
     },
     {
-      "video_id": "darS1jexgTw",
-      "title": "TRUTH",
-      "published_at": "20251007",
-      "url": "https://youtu.be/darS1jexgTw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "c2hP0qWGgaA",
       "title": "凛",
       "published_at": "20251007",
       "url": "https://youtu.be/c2hP0qWGgaA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "darS1jexgTw",
+      "title": "TRUTH",
+      "published_at": "20251007",
+      "url": "https://youtu.be/darS1jexgTw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -18723,24 +18771,24 @@
       "paired_self": null
     },
     {
-      "video_id": "oXAObuOS1U4",
-      "title": "サンビタリア",
-      "published_at": "20230926",
-      "url": "https://youtu.be/oXAObuOS1U4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "llLjylG44DQ",
       "title": "Present Day",
       "published_at": "20230926",
       "url": "https://youtu.be/llLjylG44DQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oXAObuOS1U4",
+      "title": "サンビタリア",
+      "published_at": "20230926",
+      "url": "https://youtu.be/oXAObuOS1U4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1312,
+  "count": 1313,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14431,6 +14431,17 @@
       "published_at": "20200217",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fPdJfzYNKEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qs797KmBNEo",
+      "title": "【#ホロアツ】ホロライブの激アツ最新情報を大放出🔥",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qs797KmBNEo",
       "status": "unreviewed",
       "note": null
     }

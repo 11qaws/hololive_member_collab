@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1189,
+  "count": 1192,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13078,6 +13078,39 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Dpie3k8IK9g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0bEJgWdoq74",
+      "title": "#ウチらしか勝たん (Instrumental)",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0bEJgWdoq74",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YiZw79bvG6c",
+      "title": "#ウチらしか勝たん",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YiZw79bvG6c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oUd1hLK7p2I",
+      "title": "#ウチらしか勝たん / 常闇トワ×桃鈴ねね (official)",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oUd1hLK7p2I",
       "status": "unreviewed",
       "note": null
     }

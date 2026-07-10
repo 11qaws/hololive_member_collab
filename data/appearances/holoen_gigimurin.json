@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 872,
+  "count": 873,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9591,6 +9591,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kmySz5sUfKI",
+      "title": "\"The Off-Collab\"💀🐾👧#holoEN3DRepeat",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kmySz5sUfKI",
       "status": "unreviewed",
       "note": null
     }

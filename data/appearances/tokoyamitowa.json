@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1516,
+  "count": 1517,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16675,6 +16675,17 @@
       "published_at": "20260702",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-dqLfiQ5IHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M1mZrusy-xY",
+      "title": "3D LIVE #shorts 「Don't say \"lazy\" with 常闇トワ」「星座になれたら with 響咲リオナ」#AZKi生誕ライブ2026",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M1mZrusy-xY",
       "status": "unreviewed",
       "note": null
     }
