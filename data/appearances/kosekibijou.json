@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1414,
+  "count": 1415,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15553,6 +15553,17 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JhNms3qc_IM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PhoUTJqqDpK",
+      "title": "GRAONDSTONE Collab (time unknown)",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PhoUTJqqDpK",
       "status": "unreviewed",
       "note": null
     }

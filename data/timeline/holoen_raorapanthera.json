@@ -1,7 +1,31 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1247,
+  "count": 1249,
   "entries": [
+    {
+      "video_id": "peibFeGeBbS",
+      "title": "PizzaTimeSmith Collab (time unknown)",
+      "published_at": "20260717",
+      "url": "https://youtu.be/peibFeGeBbS",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/peibFeGeBbS/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PhoUTJqqDpK",
+      "title": "GRAONDSTONE Collab (time unknown)",
+      "published_at": "20260715",
+      "url": "https://youtu.be/PhoUTJqqDpK",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PhoUTJqqDpK/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "M16C_uhQk5s",
       "title": "Pokémon FireRed SoulLink w/ Raora",

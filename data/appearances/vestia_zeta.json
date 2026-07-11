@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 946,
+  "count": 947,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10405,6 +10405,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-HHxj70HRe0",
+      "title": "【Granblue Fantasy: Relink - Endless Ragnarok】ENDLESS RAGNAROK IS HEREEEEEEE #PR【hololive ID | Anya】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-HHxj70HRe0",
       "status": "unreviewed",
       "note": null
     }

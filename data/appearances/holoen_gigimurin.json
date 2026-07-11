@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 873,
+  "count": 874,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9602,6 +9602,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kmySz5sUfKI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KTVevcs8mFs",
+      "title": "😊友達を笑顔にする方法 / POV: How to Make Your Friend Smile #ホロライブ #hololive",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KTVevcs8mFs",
       "status": "unreviewed",
       "note": null
     }

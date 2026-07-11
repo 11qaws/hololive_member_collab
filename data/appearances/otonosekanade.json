@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1060,
+  "count": 1063,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11659,6 +11659,39 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KVPgTRLO334",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5ipKg06AISU",
+      "title": "【Vlog】ヨーロッパ最大級の観覧車から愛を叫ぶ!?【#ReGLOSSロンドン】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5ipKg06AISU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Yzucp_yM7Hk",
+      "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Yzucp_yM7Hk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TvCIT_hO9lc",
+      "title": "厨二病のグーチョキパー #shorts #ReGLOSSの日常",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TvCIT_hO9lc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2347,
+  "count": 2348,
   "entries": [
+    {
+      "video_id": "PhoUTJqqDpK",
+      "title": "GRAONDSTONE Collab (time unknown)",
+      "published_at": "20260715",
+      "url": "https://youtu.be/PhoUTJqqDpK",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PhoUTJqqDpK/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "NpHjLiknW-V",
       "title": "Street Fighter 1994 Watchalong w/ Beebs",
@@ -15,24 +27,24 @@
       "paired_self": null
     },
     {
-      "video_id": "sLOaaGPfVtw",
-      "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
-      "published_at": "20260708",
-      "url": "https://youtu.be/sLOaaGPfVtw",
+      "video_id": "FQ4NYEkT7iE",
+      "title": "【VRCHAT】biboo back we yap",
+      "published_at": "20260709",
+      "url": "https://youtu.be/FQ4NYEkT7iE",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sLOaaGPfVtw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/FQ4NYEkT7iE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
     {
-      "video_id": "FQ4NYEkT7iE",
-      "title": "【VRCHAT】biboo back we yap",
+      "video_id": "sLOaaGPfVtw",
+      "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
       "published_at": "20260708",
-      "url": "https://youtu.be/FQ4NYEkT7iE",
+      "url": "https://youtu.be/sLOaaGPfVtw",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/FQ4NYEkT7iE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/sLOaaGPfVtw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

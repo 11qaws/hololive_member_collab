@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1630,
+  "count": 1632,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -17929,6 +17929,28 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kJTovys8urU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KTVevcs8mFs",
+      "title": "😊友達を笑顔にする方法 / POV: How to Make Your Friend Smile #ホロライブ #hololive",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KTVevcs8mFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0PtM3NwUmf4",
+      "title": "みんなはどっちが姉だと思う?",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0PtM3NwUmf4",
       "status": "unreviewed",
       "note": null
     }

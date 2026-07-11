@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 699,
+  "count": 701,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7688,6 +7688,28 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M16C_uhQk5s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "peibFeGeBbS",
+      "title": "PizzaTimeSmith Collab (time unknown)",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/peibFeGeBbS",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PhoUTJqqDpK",
+      "title": "GRAONDSTONE Collab (time unknown)",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PhoUTJqqDpK",
       "status": "unreviewed",
       "note": null
     }

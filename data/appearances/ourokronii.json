@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1006,
+  "count": 1007,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11065,6 +11065,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "peibFeGeBbS",
+      "title": "PizzaTimeSmith Collab (time unknown)",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/peibFeGeBbS",
       "status": "unreviewed",
       "note": null
     }

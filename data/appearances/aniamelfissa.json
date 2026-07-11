@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1321,
+  "count": 1322,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -14530,6 +14530,17 @@
       "published_at": "20240624",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0Zsxmr9Q8-I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OvVlD-NZXEU",
+      "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】ready for a new oshi ! #PR",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OvVlD-NZXEU",
       "status": "unreviewed",
       "note": null
     }

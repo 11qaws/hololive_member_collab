@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1175,
+  "count": 1177,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12924,6 +12924,28 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cjhLB4GVgPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JmUi3RSdB4E",
+      "title": "【#FGヘタレクイーン決定戦】怪談まじ怖すぎ!!チキンレース勇気出ない…😭ってか全然ビビってないし!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JmUi3RSdB4E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V3JG_85kMb8",
+      "title": "FGリーダーのNew才能開花🎤👑",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V3JG_85kMb8",
       "status": "unreviewed",
       "note": null
     }

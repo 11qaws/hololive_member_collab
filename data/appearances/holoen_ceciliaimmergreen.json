@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 769,
+  "count": 770,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8458,6 +8458,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KTVevcs8mFs",
+      "title": "😊友達を笑顔にする方法 / POV: How to Make Your Friend Smile #ホロライブ #hololive",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KTVevcs8mFs",
       "status": "unreviewed",
       "note": null
     }

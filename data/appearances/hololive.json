@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 143,
+  "count": 144,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1572,6 +1572,17 @@
       "published_at": "20200422",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IuCETj76Nvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ejL2rWhEw1k",
+      "title": "【踊ってみた】SNAKE EYES【#shorts /ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ejL2rWhEw1k",
       "status": "unreviewed",
       "note": null
     }

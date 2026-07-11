@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 1674,
+  "count": 1676,
   "entries": [
     {
       "video_id": "wVEuJIUZHQM",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "xaUD9qKc5eU",
+      "title": "【#ホロ謎解き部】謎まみれ ~特別編~ 111コの答えを見つけ出せ!! ※ネタバレ注意【ホロライブ/白上フブキ】",
+      "published_at": "20260710",
+      "url": "https://youtu.be/xaUD9qKc5eU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xaUD9qKc5eU/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "UqxS0JzCPI4",
       "title": "【member ship only】ゆる雑談+ほんの少しの歌を添えて(いく予定)【百鬼あやめ/ホロライブ】",
       "published_at": "20260709",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/UqxS0JzCPI4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Okv6wBhiG1o",
+      "title": "【#日本HP27周年大祭り】本日の配信は、あやふぶみでお届け致します。【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
+      "published_at": "20260709",
+      "url": "https://youtu.be/Okv6wBhiG1o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Okv6wBhiG1o/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -387,18 +411,6 @@
       "paired_self": null
     },
     {
-      "video_id": "8YWrEO8moqI",
-      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!!【百鬼あやめ/ホロライブ】",
-      "published_at": "20260419",
-      "url": "https://youtu.be/8YWrEO8moqI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/8YWrEO8moqI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "4SwHoqp58qM",
       "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
       "published_at": "20260419",
@@ -417,6 +429,18 @@
       "url": "https://youtu.be/5VS7gbKt46U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5VS7gbKt46U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8YWrEO8moqI",
+      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!!【百鬼あやめ/ホロライブ】",
+      "published_at": "20260419",
+      "url": "https://youtu.be/8YWrEO8moqI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8YWrEO8moqI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

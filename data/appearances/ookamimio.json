@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1871,
+  "count": 1873,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20580,6 +20580,28 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Cx2v685UNgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M0L1S2y7hNE",
+      "title": "すぷらてぅんフェス!!!!!!!(起きれたら9時、万が一寝坊したら誠に申し訳ありません。その時は起きたら連絡いたしますm(__)m)",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M0L1S2y7hNE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Okv6wBhiG1o",
+      "title": "【#日本HP27周年大祭り】本日の配信は、あやふぶみでお届け致します。【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Okv6wBhiG1o",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1007,
+  "count": 1008,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11076,6 +11076,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3Q1-P7VhlI4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JmUi3RSdB4E",
+      "title": "【#FGヘタレクイーン決定戦】怪談まじ怖すぎ!!チキンレース勇気出ない…😭ってか全然ビビってないし!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260709",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JmUi3RSdB4E",
       "status": "unreviewed",
       "note": null
     }

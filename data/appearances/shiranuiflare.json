@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1498,
+  "count": 1499,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16477,6 +16477,17 @@
       "published_at": "20260704",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TK7gLAwRUHc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M0L1S2y7hNE",
+      "title": "すぷらてぅんフェス!!!!!!!(起きれたら9時、万が一寝坊したら誠に申し訳ありません。その時は起きたら連絡いたしますm(__)m)",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M0L1S2y7hNE",
       "status": "unreviewed",
       "note": null
     }

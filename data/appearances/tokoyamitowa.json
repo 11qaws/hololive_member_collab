@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1517,
+  "count": 1518,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16686,6 +16686,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M1mZrusy-xY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xaUD9qKc5eU",
+      "title": "【#ホロ謎解き部】謎まみれ ~特別編~ 111コの答えを見つけ出せ!! ※ネタバレ注意【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xaUD9qKc5eU",
       "status": "unreviewed",
       "note": null
     }

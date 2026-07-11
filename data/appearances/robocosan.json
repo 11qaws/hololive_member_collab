@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1249,
+  "count": 1250,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13738,6 +13738,17 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Qs797KmBNEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fqGI67bRcXQ",
+      "title": "3D LIVE #shorts 「Agape with ロボ子さん」「トウキョウ・シャンディ・ランデブ with 水宮枢」#AZKi生誕ライブ2026",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fqGI67bRcXQ",
       "status": "unreviewed",
       "note": null
     }

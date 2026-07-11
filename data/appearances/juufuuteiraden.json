@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 816,
+  "count": 818,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -8975,6 +8975,28 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KVPgTRLO334",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5ipKg06AISU",
+      "title": "【Vlog】ヨーロッパ最大級の観覧車から愛を叫ぶ!?【#ReGLOSSロンドン】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260708",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5ipKg06AISU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YAhY4xvVlxE",
+      "title": "Lucky Loud (儒烏風亭らでん SOLO ver.)",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260710",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YAhY4xvVlxE",
       "status": "unreviewed",
       "note": null
     }
