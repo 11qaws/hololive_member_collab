@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2348,
+  "count": 2349,
   "entries": [
     {
       "video_id": "PhoUTJqqDpK",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/PhoUTJqqDpK/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TbICJnCsKmY",
+      "title": "【WARFRAME】TENNOLIVE CO-STREAM, WAKE UP TENNO! #sponsored",
+      "published_at": "20260711",
+      "url": "https://youtu.be/TbICJnCsKmY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TbICJnCsKmY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sLOaaGPfVtw",
+      "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
+      "published_at": "20260710",
+      "url": "https://youtu.be/sLOaaGPfVtw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sLOaaGPfVtw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -33,18 +57,6 @@
       "url": "https://youtu.be/FQ4NYEkT7iE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/FQ4NYEkT7iE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "sLOaaGPfVtw",
-      "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
-      "published_at": "20260708",
-      "url": "https://youtu.be/sLOaaGPfVtw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sLOaaGPfVtw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -28155,24 +28167,24 @@
       "paired_self": null
     },
     {
-      "video_id": "UPrSfuUGmgg",
-      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
-      "published_at": "",
-      "url": "https://youtu.be/UPrSfuUGmgg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nJ-CPqxE9Q0",
       "title": "【Armored Core 6】Activating Combat Mode! - #4",
       "published_at": "",
       "url": "https://youtu.be/nJ-CPqxE9Q0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UPrSfuUGmgg",
+      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
+      "published_at": "",
+      "url": "https://youtu.be/UPrSfuUGmgg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1546,
+  "count": 1547,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17005,6 +17005,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xd98Hcc7DEI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "neJ8GlmqrUw",
+      "title": "【W杯同時視聴】アルゼンチンVSスイス!ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/neJ8GlmqrUw",
       "status": "unreviewed",
       "note": null
     }

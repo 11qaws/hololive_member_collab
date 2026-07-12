@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2018,
+  "count": 2019,
   "entries": [
     {
       "video_id": "S9d3SEIUV1Q",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/S9d3SEIUV1Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iiJ61CS9Oho",
+      "title": "#LuckyLoud で合唱してみた🎵 素敵な(?)ハーモニー✨ #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260711",
+      "url": "https://youtu.be/iiJ61CS9Oho",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iiJ61CS9Oho/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,7 +52,7 @@
     },
     {
       "video_id": "TktGPteN2_0",
-      "title": "【 リズム天国 ミラクルスターズ 】ぷるるるぱ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 リズム天国 ミラクルスターズ 】ぷるるるぱ!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260709",
       "url": "https://youtu.be/TktGPteN2_0",
       "entry_type": "stream",
@@ -24195,24 +24207,24 @@
       "paired_self": null
     },
     {
-      "video_id": "MBxH_i3bAhA",
-      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
-      "published_at": "",
-      "url": "https://youtu.be/MBxH_i3bAhA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "mVNF0Opghnc",
       "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "",
       "url": "https://youtu.be/mVNF0Opghnc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MBxH_i3bAhA",
+      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
+      "published_at": "",
+      "url": "https://youtu.be/MBxH_i3bAhA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

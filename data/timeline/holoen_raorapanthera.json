@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1249,
+  "count": 1252,
   "entries": [
     {
       "video_id": "peibFeGeBbS",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/PhoUTJqqDpK/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L9KTz5nvg0I",
+      "title": "【POKÉMON FIRE RED】an italian and an austrian walk into a bar【SOUL-LINK NUZLOCKE】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/L9KTz5nvg0I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L9KTz5nvg0I/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xu1_bo10Vyk",
+      "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
+      "published_at": "20260711",
+      "url": "https://youtu.be/xu1_bo10Vyk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xu1_bo10Vyk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eRbxlDpxIPc",
+      "title": "CHATTINI ASSEMBLE!",
+      "published_at": "20260711",
+      "url": "https://youtu.be/eRbxlDpxIPc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eRbxlDpxIPc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -14967,24 +15003,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7C0BUIptm64",
-      "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
-      "published_at": "",
-      "url": "https://youtu.be/7C0BUIptm64",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7C0BUIptm64/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "6BZ79yNXJA4",
       "title": "My first Concert ever!!! #holoAllforOne #shorts",
       "published_at": "",
       "url": "https://youtu.be/6BZ79yNXJA4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/6BZ79yNXJA4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7C0BUIptm64",
+      "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
+      "published_at": "",
+      "url": "https://youtu.be/7C0BUIptm64",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7C0BUIptm64/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

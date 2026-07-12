@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1335,
+  "count": 1336,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14684,6 +14684,17 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OHlljCectbA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fpS7zL01Fi0",
+      "title": "【パワプロ2026】交流戦‼⚾🔥こんこよ高校&限界条高校VS桜咲高校だあああああああああ!!!【ホロライブ/さくらみこ/博衣こより/一条莉々華】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fpS7zL01Fi0",
       "status": "unreviewed",
       "note": null
     }

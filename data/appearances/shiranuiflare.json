@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1499,
+  "count": 1500,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16488,6 +16488,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M0L1S2y7hNE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v2kONOKZaTo",
+      "title": "すぷらてぅんフェス！！！夜の部！！！！",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v2kONOKZaTo",
       "status": "unreviewed",
       "note": null
     }

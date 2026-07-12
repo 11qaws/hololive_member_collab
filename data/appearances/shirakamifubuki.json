@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3251,
+  "count": 3252,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35760,6 +35760,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HZR3gJCYtA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LnaiI-rtR3Y",
+      "title": "【 R.E.P.O. 】REPOやろう~~~!が!実現した!!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LnaiI-rtR3Y",
       "status": "unreviewed",
       "note": null
     }

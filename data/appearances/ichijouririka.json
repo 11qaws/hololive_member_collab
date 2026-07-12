@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1260,
+  "count": 1262,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -13859,6 +13859,28 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QqzRAVsrSE4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fpS7zL01Fi0",
+      "title": "【パワプロ2026】交流戦‼⚾🔥こんこよ高校&限界条高校VS桜咲高校だあああああああああ!!!【ホロライブ/さくらみこ/博衣こより/一条莉々華】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fpS7zL01Fi0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iiJ61CS9Oho",
+      "title": "#LuckyLoud で合唱してみた🎵 素敵な(?)ハーモニー✨ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iiJ61CS9Oho",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1056,
+  "count": 1057,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11615,6 +11615,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fqGI67bRcXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LnaiI-rtR3Y",
+      "title": "【 R.E.P.O. 】REPOやろう~~~!が!実現した!!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LnaiI-rtR3Y",
       "status": "unreviewed",
       "note": null
     }

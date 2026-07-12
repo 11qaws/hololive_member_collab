@@ -1,7 +1,55 @@
 {
   "target": "airaniiofifteen",
-  "count": 2900,
+  "count": 2904,
   "entries": [
+    {
+      "video_id": "_CHgQ06lKbA",
+      "title": "REPO! 初REPOだー!!!!! 「iofi / hololiveID」",
+      "published_at": "20260712",
+      "url": "https://youtu.be/_CHgQ06lKbA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_CHgQ06lKbA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SmAsydAmWHc",
+      "title": "The lady in Assasin's Creed can do parkour #assassinscreed",
+      "published_at": "20260711",
+      "url": "https://youtu.be/SmAsydAmWHc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SmAsydAmWHc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "r5TzLsU2_aU",
+      "title": "Birthday Update!",
+      "published_at": "20260711",
+      "url": "https://youtu.be/r5TzLsU2_aU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/r5TzLsU2_aU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LnaiI-rtR3Y",
+      "title": "【 R.E.P.O. 】REPOやろう~~~!が!実現した!!!!【角巻わため/ホロライブ4期生】",
+      "published_at": "20260711",
+      "url": "https://youtu.be/LnaiI-rtR3Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LnaiI-rtR3Y/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "0T_sLL6RrcY",
       "title": "お姉さま♡ラブコール!!! by ラプラス・ダークネス Dance",
@@ -2896,7 +2944,7 @@
     },
     {
       "video_id": "mP6agXNDiXk",
-      "title": "爆ラブ＋ケミストリー ! ラブラブ！#爆ラブ #爆ラブダンス #博衣こより",
+      "title": "爆ラブ+ケミストリー ! ラブラブ!#爆ラブ #爆ラブダンス #博衣こより",
       "published_at": "20251218",
       "url": "https://youtu.be/mP6agXNDiXk",
       "entry_type": "stream",

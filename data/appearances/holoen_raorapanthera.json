@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 701,
+  "count": 702,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7710,6 +7710,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PhoUTJqqDpK",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L9KTz5nvg0I",
+      "title": "【POKÉMON FIRE RED】an italian and an austrian walk into a bar【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L9KTz5nvg0I",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1093,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12022,6 +12022,17 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bWK2juN5IJc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GoNX6Lu_n5k",
+      "title": "【スプラトゥーン3】10か月振りにスプラフェス参加！テクニック陣営で暴れる【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GoNX6Lu_n5k",
       "status": "unreviewed",
       "note": null
     }

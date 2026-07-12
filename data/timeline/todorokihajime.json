@@ -1,10 +1,34 @@
 {
   "target": "todorokihajime",
-  "count": 2208,
+  "count": 2210,
   "entries": [
     {
+      "video_id": "srmdCAJOHz0",
+      "title": "【リズム天国ミラクルスターズ】全ハイレベル耐久いくぜっ【轟はじめ/ReGLOSS】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/srmdCAJOHz0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/srmdCAJOHz0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iiJ61CS9Oho",
+      "title": "#LuckyLoud で合唱してみた🎵 素敵な(?)ハーモニー✨ #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260711",
+      "url": "https://youtu.be/iiJ61CS9Oho",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iiJ61CS9Oho/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "sAKfB5OnCNc",
-      "title": "神崎杏菜さん🥝と#deepdive 【轟はじめ】",
+      "title": "神綺杏菜さん🥝と#deepdive 【轟はじめ】",
       "published_at": "20260710",
       "url": "https://youtu.be/sAKfB5OnCNc",
       "entry_type": "stream",

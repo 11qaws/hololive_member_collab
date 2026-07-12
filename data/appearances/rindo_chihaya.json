@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1177,
+  "count": 1178,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12946,6 +12946,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/V3JG_85kMb8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cP1ZBAQp5xQ",
+      "title": "【 七夕賞 】的中を願う七夕賞🎋緋月ゆいちゃんと千速と勉強会もやるよ‼【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cP1ZBAQp5xQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1063,
+  "count": 1064,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11692,6 +11692,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TvCIT_hO9lc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iiJ61CS9Oho",
+      "title": "#LuckyLoud で合唱してみた🎵 素敵な(?)ハーモニー✨ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iiJ61CS9Oho",
       "status": "unreviewed",
       "note": null
     }
