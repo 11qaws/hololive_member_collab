@@ -1,7 +1,31 @@
 {
   "target": "mizumiya_su",
-  "count": 2059,
+  "count": 2065,
   "entries": [
+    {
+      "video_id": "GcpmLoufi_g",
+      "title": "【メン限】作業雑談(OFFモードかも?)【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/GcpmLoufi_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GcpmLoufi_g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "weIZwFj237c",
+      "title": "【R･E･P･O】大初心者🔰やっと久々にレポやるぞ〜！【水宮枢／ホロライブDEV_IS】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/weIZwFj237c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/weIZwFj237c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "teA8fLixnoc",
       "title": "【手書き】腐った〇〇?! #ホロライブ  #vtuber #animation",
@@ -11,6 +35,54 @@
       "thumbnail": "https://img.youtube.com/vi/teA8fLixnoc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FUroIcdQhd8",
+      "title": "【R.E.P.O.】カートはまかせろ🛒💨 #ホロREPO【獅白ぼたん/ホロライブ】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/FUroIcdQhd8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FUroIcdQhd8/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "akGw-BcbDCg",
+      "title": "【R.E.P.O.】#ホロREPO　初心者と征くREPOの世界で楽しみたい狐【ホロライブ/白上フブキ】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/akGw-BcbDCg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/akGw-BcbDCg/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_CHgQ06lKbA",
+      "title": "REPO! 初REPOだー！！！！！ 「iofi / hololiveID」",
+      "published_at": "20260712",
+      "url": "https://youtu.be/_CHgQ06lKbA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_CHgQ06lKbA/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "81aPEt5hVEA",
+      "title": "笑虎に(ちょっと変な)質問してみた!",
+      "published_at": "20260712",
+      "url": "https://youtu.be/81aPEt5hVEA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/81aPEt5hVEA/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,6 +135,18 @@
       "paired_self": null
     },
     {
+      "video_id": "O6N5C07Wdb4",
+      "title": "#9 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260710",
+      "url": "https://youtu.be/O6N5C07Wdb4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/O6N5C07Wdb4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "5LIX8VLXmb8",
       "title": "右肩の蝶/みにみやが踊ってみた #hololive #vtuber #dance",
       "published_at": "20260710",
@@ -83,18 +167,6 @@
       "thumbnail": "https://img.youtube.com/vi/fqGI67bRcXQ/mqdefault.jpg",
       "partner_handle": "azki",
       "partner_name": "AZKi Channel",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "O6N5C07Wdb4",
-      "title": "#9 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260709",
-      "url": "https://youtu.be/O6N5C07Wdb4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/O6N5C07Wdb4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

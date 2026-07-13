@@ -1,16 +1,40 @@
 {
   "target": "rindo_chihaya",
-  "count": 1890,
+  "count": 1892,
   "entries": [
     {
+      "video_id": "iQsVKoX5HIM",
+      "title": "【ポケモン/リーフグリーン】#13 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/iQsVKoX5HIM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iQsVKoX5HIM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "GJi7lhfSZUU",
-      "title": "【競馬/七夕賞】夏競馬だ~~~~~!🎋【 緋月ゆいさん / 鷹嶺ルイ /  輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "title": "【競馬/七夕賞】夏競馬だ～～～～～！🎋【 緋月ゆいさん / 鷹嶺ルイ / 輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "20260712",
       "url": "https://youtu.be/GJi7lhfSZUU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GJi7lhfSZUU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "81aPEt5hVEA",
+      "title": "笑虎に(ちょっと変な)質問してみた!",
+      "published_at": "20260712",
+      "url": "https://youtu.be/81aPEt5hVEA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/81aPEt5hVEA/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

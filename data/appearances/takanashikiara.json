@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1082,
+  "count": 1083,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -11901,6 +11901,17 @@
       "published_at": "20260620",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-GU0YutAi1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xu1_bo10Vyk",
+      "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260711",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xu1_bo10Vyk",
       "status": "unreviewed",
       "note": null
     }

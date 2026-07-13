@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1653,
+  "count": 1654,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18182,6 +18182,17 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M6b3XEy5dgE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BP7H7bASFek",
+      "title": "【アニメ】地図・連絡手段・​食料なし。​無人島で​生き残るには……",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BP7H7bASFek",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "akirose",
-  "count": 3333,
+  "count": 3334,
   "entries": [
+    {
+      "video_id": "ql5I8fA9Ou0",
+      "title": "【 #漢義リーグ 】第6節！連戦いけるか！？応援は #秋麗宝燈 で！w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "published_at": "20260712",
+      "url": "https://youtu.be/ql5I8fA9Ou0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ql5I8fA9Ou0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "sEDsNLxcJ8E",
       "title": "【 #漢義リーグ 第6節】わくわくする牌を打ちたい、漢気みせつけ飛び込んでけ!!  #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
@@ -29091,24 +29103,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jNVqF2efWsY",
-      "title": "ヒロインオーディション (Instrumental)",
-      "published_at": "20210217",
-      "url": "https://youtu.be/jNVqF2efWsY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jNVqF2efWsY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "iuA06PWPB9U",
       "title": "ヒロインオーディション",
       "published_at": "20210217",
       "url": "https://youtu.be/iuA06PWPB9U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/iuA06PWPB9U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jNVqF2efWsY",
+      "title": "ヒロインオーディション (Instrumental)",
+      "published_at": "20210217",
+      "url": "https://youtu.be/jNVqF2efWsY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jNVqF2efWsY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

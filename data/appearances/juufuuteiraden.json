@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 819,
+  "count": 820,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9008,6 +9008,17 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iiJ61CS9Oho",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o3SycS4a2lg",
+      "title": "【トークコラボ】ら で ん 先 輩 召 喚【虎金妃笑虎/儒烏風亭らでん】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o3SycS4a2lg",
       "status": "unreviewed",
       "note": null
     }

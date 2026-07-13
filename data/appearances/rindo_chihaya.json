@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1178,
+  "count": 1179,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12957,6 +12957,17 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cP1ZBAQp5xQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "81aPEt5hVEA",
+      "title": "笑虎に(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/81aPEt5hVEA",
       "status": "unreviewed",
       "note": null
     }

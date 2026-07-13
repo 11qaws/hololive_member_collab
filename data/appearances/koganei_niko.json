@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 788,
+  "count": 789,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8667,6 +8667,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JmUi3RSdB4E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "81aPEt5hVEA",
+      "title": "笑虎に(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/81aPEt5hVEA",
       "status": "unreviewed",
       "note": null
     }

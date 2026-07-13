@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1408,
+  "count": 1409,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15487,6 +15487,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xaUD9qKc5eU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GJi7lhfSZUU",
+      "title": "【競馬/七夕賞】夏競馬だ～～～～～！🎋【 緋月ゆいさん / 鷹嶺ルイ / 輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GJi7lhfSZUU",
       "status": "unreviewed",
       "note": null
     }

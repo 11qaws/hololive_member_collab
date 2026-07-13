@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1632,
+  "count": 1633,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -17951,6 +17951,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0PtM3NwUmf4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BP7H7bASFek",
+      "title": "【アニメ】地図・連絡手段・​食料なし。​無人島で​生き残るには……",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BP7H7bASFek",
       "status": "unreviewed",
       "note": null
     }
