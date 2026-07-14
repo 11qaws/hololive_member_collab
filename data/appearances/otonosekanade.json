@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1064,
+  "count": 1067,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11703,6 +11703,39 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iiJ61CS9Oho",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Fk-66Jv1b70",
+      "title": "morizakaya #anime #animation #hololive #vtuber #hololiveenglish #envtuber #storytime",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Fk-66Jv1b70",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xEaafuZLrzc",
+      "title": "【せーのっ!】同時にジャンプで下までたどり着け! #ホロライブ #hololive #ゲーム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xEaafuZLrzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_1RGn71Dldk",
+      "title": "【おまけ】#LuckyLoud 合唱してみて笑っちゃうReGLOSS #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_1RGn71Dldk",
       "status": "unreviewed",
       "note": null
     }

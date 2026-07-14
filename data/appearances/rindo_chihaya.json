@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1179,
+  "count": 1182,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -12968,6 +12968,39 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/81aPEt5hVEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CVCsPKeJs6k",
+      "title": "リオナに(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CVCsPKeJs6k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VenmdtTP3Ro",
+      "title": "【推しカメ】Full LOAD #FG3Dライブ",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20251211",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VenmdtTP3Ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fLnv2Ly5jw8",
+      "title": "【メン限】推しカメFull/MAKE IT BREAK IT  #FG3Dライブ",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20251207",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fLnv2Ly5jw8",
       "status": "unreviewed",
       "note": null
     }

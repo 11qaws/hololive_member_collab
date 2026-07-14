@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2350,
+  "count": 2351,
   "entries": [
     {
       "video_id": "PhoUTJqqDpK",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/PhoUTJqqDpK/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Vv4B0qZkKWc",
+      "title": "【RESIDENT EVIL 4】WHERE IS SHE (ashley)",
+      "published_at": "20260713",
+      "url": "https://youtu.be/Vv4B0qZkKWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Vv4B0qZkKWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29,7 +41,7 @@
     {
       "video_id": "TbICJnCsKmY",
       "title": "【WARFRAME】TENNOLIVE CO-STREAM, WAKE UP TENNO! #sponsored",
-      "published_at": "20260711",
+      "published_at": "20260712",
       "url": "https://youtu.be/TbICJnCsKmY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TbICJnCsKmY/mqdefault.jpg",

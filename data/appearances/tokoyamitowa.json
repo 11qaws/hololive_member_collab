@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1518,
+  "count": 1520,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16697,6 +16697,28 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xaUD9qKc5eU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JG48VfeF5tQ",
+      "title": "【凸待ち】俺と素敵な一夜を過ごさない?🥃【猫又おかゆ/ホロライブ】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20210419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JG48VfeF5tQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jG-vBGJSTcU",
+      "title": "【SPACE for Virtual GHOST切り抜き】HOLOBAND:エアーズ「EXPOSE ‘Burn out!!!'」【#星街すいせい3周年LIVE】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20210416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jG-vBGJSTcU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 789,
+  "count": 793,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8678,6 +8678,50 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/81aPEt5hVEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CVCsPKeJs6k",
+      "title": "リオナに(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CVCsPKeJs6k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3LBCyp70prk",
+      "title": "やっぱうちのお笑い担当ですわ #shorts #切り抜き #minecraft",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3LBCyp70prk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VenmdtTP3Ro",
+      "title": "【推しカメ】Full LOAD #FG3Dライブ",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20251211",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VenmdtTP3Ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fLnv2Ly5jw8",
+      "title": "【メン限】推しカメFull/MAKE IT BREAK IT  #FG3Dライブ",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20251207",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fLnv2Ly5jw8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1438,
+  "count": 1440,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15817,6 +15817,28 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KTVevcs8mFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xEaafuZLrzc",
+      "title": "【せーのっ!】同時にジャンプで下までたどり着け! #ホロライブ #hololive #ゲーム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xEaafuZLrzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jG-vBGJSTcU",
+      "title": "【SPACE for Virtual GHOST切り抜き】HOLOBAND:エアーズ「EXPOSE ‘Burn out!!!'」【#星街すいせい3周年LIVE】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20210416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jG-vBGJSTcU",
       "status": "unreviewed",
       "note": null
     }

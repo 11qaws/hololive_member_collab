@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 2953,
+  "count": 2954,
   "entries": [
     {
       "video_id": "J44qEVCv0Gk",
@@ -5835,24 +5835,24 @@
       "paired_self": null
     },
     {
-      "video_id": "AZo4NIQeuGU",
-      "title": "Got Cheat",
-      "published_at": "20240904",
-      "url": "https://youtu.be/AZo4NIQeuGU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "IPZwmgO_F1Y",
       "title": "NoDistance",
       "published_at": "20240904",
       "url": "https://youtu.be/IPZwmgO_F1Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AZo4NIQeuGU",
+      "title": "Got Cheat",
+      "published_at": "20240904",
+      "url": "https://youtu.be/AZo4NIQeuGU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -21059,6 +21059,18 @@
       "thumbnail": "https://img.youtube.com/vi/3_0ShRkXCwc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JG48VfeF5tQ",
+      "title": "【凸待ち】俺と素敵な一夜を過ごさない?🥃【猫又おかゆ/ホロライブ】",
+      "published_at": "20210419",
+      "url": "https://youtu.be/JG48VfeF5tQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JG48VfeF5tQ/mqdefault.jpg",
+      "partner_handle": "nekomataokayu",
+      "partner_name": "Okayu Ch. 猫又おかゆ",
       "sub_entries": [],
       "paired_self": null
     },

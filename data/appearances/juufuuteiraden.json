@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 820,
+  "count": 821,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9019,6 +9019,17 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/o3SycS4a2lg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_1RGn71Dldk",
+      "title": "【おまけ】#LuckyLoud 合唱してみて笑っちゃうReGLOSS #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_1RGn71Dldk",
       "status": "unreviewed",
       "note": null
     }

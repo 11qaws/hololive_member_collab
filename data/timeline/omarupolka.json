@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 4369,
+  "count": 4370,
   "entries": [
     {
       "video_id": "aVnsgjemlxz",
@@ -16,7 +16,7 @@
     },
     {
       "video_id": "lXjdYXQ0wQw",
-      "title": "【鳴潮】最新情報3.5を見て自らネタバレを踏む！そして水着を拝む！！！！！！【尾丸ポルカ/ホロライブ】",
+      "title": "【鳴潮】最新情報3.5を見て自らネタバレを踏む!そして水着を拝む!!!!!!【尾丸ポルカ/ホロライブ】",
       "published_at": "20260711",
       "url": "https://youtu.be/lXjdYXQ0wQw",
       "entry_type": "stream",
@@ -16047,24 +16047,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZTjry52_Ou4",
-      "title": "パペット",
-      "published_at": "20250130",
-      "url": "https://youtu.be/ZTjry52_Ou4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v5kXEPBEVSw",
       "title": "無理ぽ to ポジ",
       "published_at": "20250130",
       "url": "https://youtu.be/v5kXEPBEVSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZTjry52_Ou4",
+      "title": "パペット",
+      "published_at": "20250130",
+      "url": "https://youtu.be/ZTjry52_Ou4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -36939,24 +36939,24 @@
       "paired_self": null
     },
     {
-      "video_id": "F7RQo4pOc2g",
-      "title": "サイキョウチックポルカ (Instrumental)",
-      "published_at": "20220816",
-      "url": "https://youtu.be/F7RQo4pOc2g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/F7RQo4pOc2g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7YJ1Dyoznms",
       "title": "サイキョウチックポルカ",
       "published_at": "20220816",
       "url": "https://youtu.be/7YJ1Dyoznms",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7YJ1Dyoznms/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "F7RQo4pOc2g",
+      "title": "サイキョウチックポルカ (Instrumental)",
+      "published_at": "20220816",
+      "url": "https://youtu.be/F7RQo4pOc2g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/F7RQo4pOc2g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -46695,6 +46695,18 @@
       "paired_self": null
     },
     {
+      "video_id": "jG-vBGJSTcU",
+      "title": "【SPACE for Virtual GHOST切り抜き】HOLOBAND:エアーズ「EXPOSE ‘Burn out!!!'」【#星街すいせい3周年LIVE】",
+      "published_at": "20210416",
+      "url": "https://youtu.be/jG-vBGJSTcU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jG-vBGJSTcU/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "oD2MEveeGO4",
       "title": "【ウマ娘 プリティーダービー】引くかカレンチャン!?ガチャはやすぎまぢむりぃ。。。【尾丸ポルカ/ホロライブ】",
       "published_at": "20210415",
@@ -52347,6 +52359,18 @@
       "paired_self": null
     },
     {
+      "video_id": "vbaff8W1Zrw",
+      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
+      "published_at": "20200815",
+      "url": "https://youtu.be/vbaff8W1Zrw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vbaff8W1Zrw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "g4G7bbRhBaQ",
       "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
       "published_at": "20200815",
@@ -52365,18 +52389,6 @@
       "url": "https://youtu.be/q4eXcXl3BtI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "vbaff8W1Zrw",
-      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
-      "published_at": "20200815",
-      "url": "https://youtu.be/vbaff8W1Zrw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vbaff8W1Zrw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

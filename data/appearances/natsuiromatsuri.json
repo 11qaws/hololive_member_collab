@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1313,
+  "count": 1316,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14442,6 +14442,39 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Qs797KmBNEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xEaafuZLrzc",
+      "title": "【せーのっ!】同時にジャンプで下までたどり着け! #ホロライブ #hololive #ゲーム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xEaafuZLrzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JG48VfeF5tQ",
+      "title": "【凸待ち】俺と素敵な一夜を過ごさない?🥃【猫又おかゆ/ホロライブ】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20210419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JG48VfeF5tQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jG-vBGJSTcU",
+      "title": "【SPACE for Virtual GHOST切り抜き】HOLOBAND:エアーズ「EXPOSE ‘Burn out!!!'」【#星街すいせい3周年LIVE】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20210416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jG-vBGJSTcU",
       "status": "unreviewed",
       "note": null
     }

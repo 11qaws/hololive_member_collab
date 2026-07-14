@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 715,
+  "count": 716,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7864,6 +7864,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Fk-66Jv1b70",
+      "title": "morizakaya #anime #animation #hololive #vtuber #hololiveenglish #envtuber #storytime",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260713",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Fk-66Jv1b70",
       "status": "unreviewed",
       "note": null
     }

@@ -1,16 +1,52 @@
 {
   "target": "otonosekanade",
-  "count": 2020,
+  "count": 2023,
   "entries": [
     {
       "video_id": "1tVeGLok61w",
-      "title": "【 リズム天国 ミラクルスターズ 】全クリア目指して!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 リズム天国 ミラクルスターズ 】全クリア目指して！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260713",
       "url": "https://youtu.be/1tVeGLok61w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1tVeGLok61w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Fk-66Jv1b70",
+      "title": "morizakaya #anime #animation #hololive #vtuber #hololiveenglish #envtuber #storytime",
+      "published_at": "20260713",
+      "url": "https://youtu.be/Fk-66Jv1b70",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Fk-66Jv1b70/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xEaafuZLrzc",
+      "title": "【せーのっ!】同時にジャンプで下までたどり着け! #ホロライブ #hololive #ゲーム",
+      "published_at": "20260713",
+      "url": "https://youtu.be/xEaafuZLrzc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xEaafuZLrzc/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_1RGn71Dldk",
+      "title": "【おまけ】#LuckyLoud 合唱してみて笑っちゃうReGLOSS #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260713",
+      "url": "https://youtu.be/_1RGn71Dldk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_1RGn71Dldk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -24219,24 +24255,24 @@
       "paired_self": null
     },
     {
-      "video_id": "MBxH_i3bAhA",
-      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
-      "published_at": "",
-      "url": "https://youtu.be/MBxH_i3bAhA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "mVNF0Opghnc",
       "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "",
       "url": "https://youtu.be/mVNF0Opghnc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MBxH_i3bAhA",
+      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
+      "published_at": "",
+      "url": "https://youtu.be/MBxH_i3bAhA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

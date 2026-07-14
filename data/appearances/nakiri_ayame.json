@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 890,
+  "count": 891,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -9789,6 +9789,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Okv6wBhiG1o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JG48VfeF5tQ",
+      "title": "【凸待ち】俺と素敵な一夜を過ごさない?🥃【猫又おかゆ/ホロライブ】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20210419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JG48VfeF5tQ",
       "status": "unreviewed",
       "note": null
     }
