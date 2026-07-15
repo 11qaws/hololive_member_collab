@@ -1,10 +1,22 @@
 {
   "target": "isakiriona",
-  "count": 1845,
+  "count": 1846,
   "entries": [
     {
+      "video_id": "tkWEdEEuvN4",
+      "title": "【 パワプロ2026 】実は野球好き！２年目きちゃ✨栄冠ナイン３年モードを初見プレイ⚾✨【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260714",
+      "url": "https://youtu.be/tkWEdEEuvN4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tkWEdEEuvN4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "s1xmTZs_f0U",
-      "title": "【 耐久歌枠 】ついに５０万人耐久です🔥歌います！【ホロライブ DEV_IS 響咲リオナ】",
+      "title": "【 耐久歌枠 】ついに50万人耐久です🔥歌います!【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "20260713",
       "url": "https://youtu.be/s1xmTZs_f0U",
       "entry_type": "stream",
@@ -22095,30 +22107,6 @@
       "paired_self": null
     },
     {
-      "video_id": "sa4kyeVj9Wk",
-      "title": "【Dance practice】LOAD 響咲リオナver",
-      "published_at": "",
-      "url": "https://youtu.be/sa4kyeVj9Wk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "d7mYLP8c6LE",
       "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "",
@@ -22131,12 +22119,36 @@
       "paired_self": null
     },
     {
+      "video_id": "sa4kyeVj9Wk",
+      "title": "【Dance practice】LOAD 響咲リオナver",
+      "published_at": "",
+      "url": "https://youtu.be/sa4kyeVj9Wk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "f2x5-aQuSzA",
       "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
       "published_at": "",
       "url": "https://youtu.be/f2x5-aQuSzA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/GMv9AlmncJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

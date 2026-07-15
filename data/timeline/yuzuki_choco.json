@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 2954,
+  "count": 2956,
   "entries": [
+    {
+      "video_id": "ORsOPsIYgAs",
+      "title": "サマーラブ (Instrumental)",
+      "published_at": "20260714",
+      "url": "https://youtu.be/ORsOPsIYgAs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ORsOPsIYgAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_s9BczKouIY",
+      "title": "サマーラブ",
+      "published_at": "20260714",
+      "url": "https://youtu.be/_s9BczKouIY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_s9BczKouIY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "J44qEVCv0Gk",
       "title": "『 #人生で一度は行きたい所』 #アキちょこナイパレ 第42回 ~ホロライブ深夜ラジオ~",
@@ -5835,24 +5859,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

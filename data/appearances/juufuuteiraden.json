@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 821,
+  "count": 822,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9030,6 +9030,17 @@
       "published_at": "20260713",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_1RGn71Dldk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EQYakj7usOA",
+      "title": "ポーズを決めちゃえっ らでんver. #儒烏風亭らでん #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EQYakj7usOA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,31 @@
 {
   "target": "nekomataokayu",
-  "count": 3909,
+  "count": 3911,
   "entries": [
+    {
+      "video_id": "ygYxQEWfmdI",
+      "title": "【 作業用BGM / CHILL OUT 】 一緒に作業しよ～～✦ | 30MIN RELAX / STUDY / SLEEP✦ 【 猫又おかゆ / official 】",
+      "published_at": "20260714",
+      "url": "https://youtu.be/ygYxQEWfmdI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ygYxQEWfmdI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_HJHNXPPpCk",
+      "title": "【リズム天国ミラクルスターズ】リズ天マルチで遊びたいゲマズの3Dでオフコラボ!!!! 【#リズ天ゲマズ】",
+      "published_at": "20260714",
+      "url": "https://youtu.be/_HJHNXPPpCk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_HJHNXPPpCk/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "BSEUwd5wqKY",
       "title": "結婚したらどうなる??🍙💜 #VTuber #shorts #猫又おかゆ",
@@ -27,6 +51,18 @@
       "paired_self": null
     },
     {
+      "video_id": "JL9jZTdvLS0",
+      "title": "【 FF7リメイク 】ユフィ編クリアまで遊ぶ!!! | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "published_at": "20260712",
+      "url": "https://youtu.be/JL9jZTdvLS0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JL9jZTdvLS0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "BP7H7bASFek",
       "title": "【アニメ】地図・連絡手段・​食料なし。​無人島で​生き残るには……",
       "published_at": "20260712",
@@ -35,18 +71,6 @@
       "thumbnail": "https://img.youtube.com/vi/BP7H7bASFek/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "JL9jZTdvLS0",
-      "title": "【 FF7リメイク 】ユフィ編クリアまで遊ぶ!!! | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-      "published_at": "20260711",
-      "url": "https://youtu.be/JL9jZTdvLS0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JL9jZTdvLS0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28839,24 +28863,24 @@
       "paired_self": null
     },
     {
-      "video_id": "oM68RFoEi1M",
-      "title": "毒杯スワロウ (Instrumental)",
-      "published_at": "20220725",
-      "url": "https://youtu.be/oM68RFoEi1M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jQFxkLtrl3c",
       "title": "毒杯スワロウ",
       "published_at": "20220725",
       "url": "https://youtu.be/jQFxkLtrl3c",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oM68RFoEi1M",
+      "title": "毒杯スワロウ (Instrumental)",
+      "published_at": "20220725",
+      "url": "https://youtu.be/oM68RFoEi1M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

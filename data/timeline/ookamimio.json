@@ -1,10 +1,34 @@
 {
   "target": "ookamimio",
-  "count": 3984,
+  "count": 3986,
   "entries": [
     {
+      "video_id": "u3Y8oIstI2A",
+      "title": "【雑談】眠くなるまで、深夜の雑談枠【ホロライブ/大神ミオ】",
+      "published_at": "20260714",
+      "url": "https://youtu.be/u3Y8oIstI2A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/u3Y8oIstI2A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_HJHNXPPpCk",
+      "title": "【リズム天国ミラクルスターズ】リズ天マルチで遊びたいゲマズの3Dでオフコラボ!!!! 【#リズ天ゲマズ】",
+      "published_at": "20260714",
+      "url": "https://youtu.be/_HJHNXPPpCk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_HJHNXPPpCk/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Xd8XBp9OMR0",
-      "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
+      "title": "【#朝ミオ 】月曜日だよ~!おはみぉーん!",
       "published_at": "20260712",
       "url": "https://youtu.be/Xd8XBp9OMR0",
       "entry_type": "stream",
@@ -6255,24 +6279,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Pb99o_S6ZmE",
-      "title": "小心旅行",
-      "published_at": "20250819",
-      "url": "https://youtu.be/Pb99o_S6ZmE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Pb99o_S6ZmE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "SBLh1Z6XuCQ",
       "title": "Colorful Universe",
       "published_at": "20250819",
       "url": "https://youtu.be/SBLh1Z6XuCQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SBLh1Z6XuCQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Pb99o_S6ZmE",
+      "title": "小心旅行",
+      "published_at": "20250819",
+      "url": "https://youtu.be/Pb99o_S6ZmE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Pb99o_S6ZmE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2351,
+  "count": 2352,
   "entries": [
+    {
+      "video_id": "Js8UoHpcM-g",
+      "title": "【MECCHA CHAMELEON】very graondstone",
+      "published_at": "20260715",
+      "url": "https://youtu.be/Js8UoHpcM-g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Js8UoHpcM-g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "PhoUTJqqDpK",
       "title": "GRAONDSTONE Collab (time unknown)",
@@ -29,7 +41,7 @@
     {
       "video_id": "95mK363njH0",
       "title": "【RESIDENT EVIL 4】LEON, HELP.",
-      "published_at": "20260712",
+      "published_at": "20260713",
       "url": "https://youtu.be/95mK363njH0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/95mK363njH0/mqdefault.jpg",

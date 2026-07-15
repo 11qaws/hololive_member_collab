@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1703,
+  "count": 1704,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18732,6 +18732,17 @@
       "published_at": "20210419",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JG48VfeF5tQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wukEn7hQecs",
+      "title": "#01 【バイオハザード5】フレわたのわちゃわちゃ劇場始まるよ~【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wukEn7hQecs",
       "status": "unreviewed",
       "note": null
     }
