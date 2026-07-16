@@ -1,7 +1,19 @@
 {
   "target": "vestia_zeta",
-  "count": 2008,
+  "count": 2011,
   "entries": [
+    {
+      "video_id": "2TLd35BEnFW",
+      "title": "holo Hit & Blow Tournament",
+      "published_at": "20260718",
+      "url": "https://youtu.be/2TLd35BEnFW",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2TLd35BEnFW/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "wdnGu3kAGs0",
       "title": "GreyScaleX Resident Evil 5",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/wdnGu3kAGs0/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "33Ou1TPyQbw",
+      "title": "【Assassin's Creed Black Flag Resynced】TO THE SEA ! ※Major Spoilers! (also guerilla stream)",
+      "published_at": "20260715",
+      "url": "https://youtu.be/33Ou1TPyQbw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/33Ou1TPyQbw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "published_at": "20260714",
+      "url": "https://youtu.be/gd4O5uNxqcY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gd4O5uNxqcY/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1397,
+  "count": 1398,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15366,6 +15366,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HZR3gJCYtA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2TLd35BEnFW",
+      "title": "holo Hit & Blow Tournament",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2TLd35BEnFW",
       "status": "unreviewed",
       "note": null
     }

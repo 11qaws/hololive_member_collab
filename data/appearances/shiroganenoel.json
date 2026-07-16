@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1704,
+  "count": 1705,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18743,6 +18743,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PjAf2kKVp2g",
+      "title": "ぱら…ぱら… #hololive #ホロライブ #ホロぐら #圧倒的",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PjAf2kKVp2g",
       "status": "unreviewed",
       "note": null
     }

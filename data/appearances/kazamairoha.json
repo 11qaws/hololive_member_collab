@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 986,
+  "count": 989,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -10845,6 +10845,39 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OHlljCectbA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2TLd35BEnFW",
+      "title": "holo Hit & Blow Tournament",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2TLd35BEnFW",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "liCzFZguCC4",
+      "title": "Pekora's 7th Anniversary 3D Live - Pachislot no.3",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/liCzFZguCC4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "R3vMwkWnk5s",
+      "title": "【 #カゲマス 】#ルイろは で超超超重大告知‼全プレイヤー豪華プレゼントもあり✨【鷹嶺ルイ/風真いろは/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/R3vMwkWnk5s",
       "status": "unreviewed",
       "note": null
     }

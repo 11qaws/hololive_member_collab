@@ -1,7 +1,43 @@
 {
   "target": "takanelui",
-  "count": 3830,
+  "count": 3834,
   "entries": [
+    {
+      "video_id": "mWikmpaIVJY",
+      "title": "ヒドイ!(褒め言葉) #shorts #hololive #ホロライブ切り抜き",
+      "published_at": "20260716",
+      "url": "https://youtu.be/mWikmpaIVJY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mWikmpaIVJY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7LT4upUkSFw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "R3vMwkWnk5s",
+      "title": "【 #カゲマス 】#ルイろは で超超超重大告知‼全プレイヤー豪華プレゼントもあり✨【鷹嶺ルイ/風真いろは/ホロライブ】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/R3vMwkWnk5s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/R3vMwkWnk5s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "oGkYIEUgroY",
       "title": "挑戦してみた!できてる? #shorts #hololive #爆裂愛してる",
@@ -11,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/oGkYIEUgroY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PjAf2kKVp2g",
+      "title": "ぱら…ぱら… #hololive #ホロライブ #ホロぐら #圧倒的",
+      "published_at": "20260715",
+      "url": "https://youtu.be/PjAf2kKVp2g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PjAf2kKVp2g/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

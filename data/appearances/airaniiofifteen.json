@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1093,
+  "count": 1095,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12022,6 +12022,28 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/akGw-BcbDCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c73XkoyaJaY",
+      "title": "【雑談】飲食店のビックリエピソードが止まらない【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c73XkoyaJaY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hkemDh9zngQ",
+      "title": "RISU MENEMUKAN KOLOR MAYOR ?!?!",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hkemDh9zngQ",
       "status": "unreviewed",
       "note": null
     }

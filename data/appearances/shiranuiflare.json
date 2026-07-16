@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1500,
+  "count": 1502,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16499,6 +16499,28 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v2kONOKZaTo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-4n5BJIACzU",
+      "title": "【 バイオハザード5 】フレわたでバイオ!今日もがんばいお!!!#2【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-4n5BJIACzU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zkMZ2ZLm2yU",
+      "title": "【 バイオハザード5 】フレわたでバイオ！がんばいお！！！【角巻わため/ホロライブ４期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zkMZ2ZLm2yU",
       "status": "unreviewed",
       "note": null
     }

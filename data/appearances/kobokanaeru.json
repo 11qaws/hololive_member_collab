@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 716,
+  "count": 717,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7875,6 +7875,17 @@
       "published_at": "20260713",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Fk-66Jv1b70",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }

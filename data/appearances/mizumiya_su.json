@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1063,
+  "count": 1065,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11692,6 +11692,28 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KiCXtE_feJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2TLd35BEnFW",
+      "title": "holo Hit & Blow Tournament",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2TLd35BEnFW",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mg2Xbflbqik",
+      "title": "生配信直前のFLOW GLOWを覗き見!①",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mg2Xbflbqik",
       "status": "unreviewed",
       "note": null
     }

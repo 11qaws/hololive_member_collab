@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1025,
+  "count": 1026,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11274,6 +11274,17 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/O6IKaCGEdVs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }

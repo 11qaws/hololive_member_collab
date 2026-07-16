@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1015,
+  "count": 1017,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11164,6 +11164,28 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "liCzFZguCC4",
+      "title": "Pekora's 7th Anniversary 3D Live - Pachislot no.3",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/liCzFZguCC4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zdUzvl-Tz50",
+      "title": "今日はAZKi先輩と踊ってみたよ🕺 #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zdUzvl-Tz50",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1082,
+  "count": 1083,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11901,6 +11901,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EaFSTPm9oGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }

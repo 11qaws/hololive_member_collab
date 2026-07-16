@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1015,
+  "count": 1017,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11164,6 +11164,28 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gEp7-SgCods",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "liCzFZguCC4",
+      "title": "Pekora's 7th Anniversary 3D Live - Pachislot no.3",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/liCzFZguCC4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }

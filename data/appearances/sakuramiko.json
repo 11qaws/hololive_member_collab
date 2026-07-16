@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2235,
+  "count": 2237,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24584,6 +24584,28 @@
       "published_at": "20200217",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fPdJfzYNKEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2TLd35BEnFW",
+      "title": "holo Hit & Blow Tournament",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2TLd35BEnFW",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }

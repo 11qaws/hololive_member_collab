@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 702,
+  "count": 704,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7721,6 +7721,28 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L9KTz5nvg0I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Js8UoHpcM-g",
+      "title": "【MECCHA CHAMELEON】very graondstone",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Js8UoHpcM-g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cjc7lYGNRXM",
+      "title": "【MECCHA CHAMELEON】if you see me: say Kaela doko and just move on【Graondstone】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cjc7lYGNRXM",
       "status": "unreviewed",
       "note": null
     }

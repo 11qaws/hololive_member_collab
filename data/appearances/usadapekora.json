@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1547,
+  "count": 1549,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17016,6 +17016,28 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/neJ8GlmqrUw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zRZd5Xc5KTk",
+      "title": "【W杯同時視聴】イングランドVSアルゼンチン！ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zRZd5Xc5KTk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eLmtgfFjL3Y",
+      "title": "クマリンが月で出会ったのは…!?🐻🐰#兎田ぺこら #shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eLmtgfFjL3Y",
       "status": "unreviewed",
       "note": null
     }

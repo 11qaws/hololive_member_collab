@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 571,
+  "count": 572,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6280,6 +6280,17 @@
       "published_at": "20260706",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foUgVcpF4x8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "liCzFZguCC4",
+      "title": "Pekora's 7th Anniversary 3D Live - Pachislot no.3",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/liCzFZguCC4",
       "status": "unreviewed",
       "note": null
     }

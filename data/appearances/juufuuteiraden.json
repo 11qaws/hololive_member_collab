@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 822,
+  "count": 824,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9041,6 +9041,28 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EQYakj7usOA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PjAf2kKVp2g",
+      "title": "ぱら…ぱら… #hololive #ホロライブ #ホロぐら #圧倒的",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PjAf2kKVp2g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NzINlgiz5Tk",
+      "title": "【 #らではじ食事の流儀 】らでんによるはじめの真似とは...👀 #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NzINlgiz5Tk",
       "status": "unreviewed",
       "note": null
     }

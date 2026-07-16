@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1415,
+  "count": 1417,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15564,6 +15564,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PhoUTJqqDpK",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "95puMqaPmOM",
+      "title": "…they're releasing WHAT?!?!? #anime #animation #persona #hololive #vtuber #persona6",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/95puMqaPmOM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cjc7lYGNRXM",
+      "title": "【MECCHA CHAMELEON】if you see me: say Kaela doko and just move on【Graondstone】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cjc7lYGNRXM",
       "status": "unreviewed",
       "note": null
     }

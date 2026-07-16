@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 828,
+  "count": 829,
   "entries": [
+    {
+      "video_id": "NzINlgiz5Tk",
+      "title": "【 #らではじ食事の流儀 】らでんによるはじめの真似とは...👀 #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "published_at": "20260715",
+      "url": "https://youtu.be/NzINlgiz5Tk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NzINlgiz5Tk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "EQYakj7usOA",
       "title": "ポーズを決めちゃえっ らでんver. #儒烏風亭らでん #ReGLOSS #Vtuber #shorts",
@@ -63,24 +75,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QqzRAVsrSE4",
-      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
-      "published_at": "20260710",
-      "url": "https://youtu.be/QqzRAVsrSE4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Yzucp_yM7Hk",
       "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
       "published_at": "20260710",
       "url": "https://youtu.be/Yzucp_yM7Hk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QqzRAVsrSE4",
+      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
+      "published_at": "20260710",
+      "url": "https://youtu.be/QqzRAVsrSE4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2451,24 +2463,24 @@
       "paired_self": null
     },
     {
-      "video_id": "K9Lj5AFi__I",
-      "title": "サクラミラージュ Snapshot ver.",
-      "published_at": "20251111",
-      "url": "https://youtu.be/K9Lj5AFi__I",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "JvM1DDsQVzA",
       "title": "XOVERLINE",
       "published_at": "20251111",
       "url": "https://youtu.be/JvM1DDsQVzA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "K9Lj5AFi__I",
+      "title": "サクラミラージュ Snapshot ver.",
+      "published_at": "20251111",
+      "url": "https://youtu.be/K9Lj5AFi__I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

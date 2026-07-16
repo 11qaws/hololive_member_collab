@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1095,
+  "count": 1096,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12044,6 +12044,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_HJHNXPPpCk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8FaW645nD7I",
+      "title": "【 3D / #NELLマットレス 】#おかころ で!!あのNELLマットレスを実際に体験しちゃいます🍙🥐✦【 猫又おかゆ / 戌神ころね 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8FaW645nD7I",
       "status": "unreviewed",
       "note": null
     }

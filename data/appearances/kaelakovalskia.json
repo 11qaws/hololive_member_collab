@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1043,
+  "count": 1045,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11472,6 +11472,28 @@
       "published_at": "20260708",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7zhOGkVPfDk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Js8UoHpcM-g",
+      "title": "【MECCHA CHAMELEON】very graondstone",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Js8UoHpcM-g",
       "status": "unreviewed",
       "note": null
     }

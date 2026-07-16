@@ -1,10 +1,58 @@
 {
   "target": "usadapekora",
-  "count": 4524,
+  "count": 4528,
   "entries": [
     {
+      "video_id": "MqBUOKnETIQ",
+      "title": "#1【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/MqBUOKnETIQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MqBUOKnETIQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1QyeseuG93c",
+      "title": "【ワールドカップ】W杯 アルゼンチン vs イングランド戦 全力応援！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/1QyeseuG93c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1QyeseuG93c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zRZd5Xc5KTk",
+      "title": "【W杯同時視聴】イングランドVSアルゼンチン！ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/zRZd5Xc5KTk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zRZd5Xc5KTk/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eLmtgfFjL3Y",
+      "title": "クマリンが月で出会ったのは…!?🐻🐰#兎田ぺこら #shorts",
+      "published_at": "20260715",
+      "url": "https://youtu.be/eLmtgfFjL3Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eLmtgfFjL3Y/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Ojk7rlFsI2M",
-      "title": "【パワプロ2026】1年目春甲子園!兎☆ダイナマイト高校 いくぞおおおおおおおおおおお!ぺこ!【ホロライブ/兎田ぺこら】#パワプロケモミミリーグ",
+      "title": "【パワプロ2026】1年目春甲子園！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
       "published_at": "20260714",
       "url": "https://youtu.be/Ojk7rlFsI2M",
       "entry_type": "stream",
@@ -28,7 +76,7 @@
     },
     {
       "video_id": "1aLcpQIwpLc",
-      "title": "【重大告知】2つ告知するよおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "title": "【重大告知】2つ告知するよおおおおおおおおおおおおおおおおおおお!!!ぺこ!【ホロライブ/兎田ぺこら】",
       "published_at": "20260713",
       "url": "https://youtu.be/1aLcpQIwpLc",
       "entry_type": "stream",
@@ -54267,24 +54315,24 @@
       "paired_self": null
     },
     {
-      "video_id": "vGB9ansRy_E",
-      "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "",
-      "url": "https://youtu.be/vGB9ansRy_E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "ysnmwuuCJvs",
       "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "",
       "url": "https://youtu.be/ysnmwuuCJvs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vGB9ansRy_E",
+      "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "",
+      "url": "https://youtu.be/vGB9ansRy_E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

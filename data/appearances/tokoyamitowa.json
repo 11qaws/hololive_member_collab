@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1520,
+  "count": 1521,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16719,6 +16719,17 @@
       "published_at": "20210416",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jG-vBGJSTcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gd4O5uNxqcY",
+      "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260714",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gd4O5uNxqcY",
       "status": "unreviewed",
       "note": null
     }
