@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 923,
+  "count": 925,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10152,6 +10152,28 @@
       "published_at": "20260620",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-GU0YutAi1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7r6krp31ZsI",
+      "title": "【Resident Evil 5】together we pew pew ※SPOILERS",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7r6krp31ZsI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6-7XMGA-HoU",
+      "title": "my loudest scream yet all cuz of some GOLF #anime #animation #hololive #vtuber #envtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6-7XMGA-HoU",
       "status": "unreviewed",
       "note": null
     }

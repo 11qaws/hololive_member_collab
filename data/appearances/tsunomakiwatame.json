@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1705,
+  "count": 1707,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18754,6 +18754,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qHGjCikuIQs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bMsijYu3Ab8",
+      "title": "【R.E.P.O.】久々のREPOいくぞ【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bMsijYu3Ab8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lizBewW66gs",
+      "title": "REPO! またREPOだー!!!!! 「iofi / hololiveID」",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lizBewW66gs",
       "status": "unreviewed",
       "note": null
     }

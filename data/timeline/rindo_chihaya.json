@@ -1,7 +1,19 @@
 {
   "target": "rindo_chihaya",
-  "count": 1901,
+  "count": 1908,
   "entries": [
+    {
+      "video_id": "1izBd_B1_Ld",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 2",
+      "published_at": "20270110",
+      "url": "https://youtu.be/1izBd_B1_Ld",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "2TLd35BEnFW",
       "title": "holo Hit & Blow Tournament",
@@ -11,6 +23,54 @@
       "thumbnail": "https://img.youtube.com/vi/2TLd35BEnFW/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fGjR_DSvAZw",
+      "title": "BeatYourSelf / 輪堂千速 (official)",
+      "published_at": "20260716",
+      "url": "https://youtu.be/fGjR_DSvAZw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fGjR_DSvAZw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QSqPN-gk-Cs",
+      "title": "【 漢字でGOGO! 】まあまあ読めるけど本当に書けないです。【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260716",
+      "url": "https://youtu.be/QSqPN-gk-Cs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QSqPN-gk-Cs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7jM_1oNML0U",
+      "title": "特大投げキッスです、本当です #shorts #切り抜き",
+      "published_at": "20260716",
+      "url": "https://youtu.be/7jM_1oNML0U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7jM_1oNML0U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IovzHgo5fdI",
+      "title": "千速と枢、アイドル宣言💞",
+      "published_at": "20260716",
+      "url": "https://youtu.be/IovzHgo5fdI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IovzHgo5fdI/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/Mg2Xbflbqik/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7LT4upUkSFw/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -22809,6 +22881,18 @@
       "url": "https://youtu.be/rJYGFNy7FeQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rJYGFNy7FeQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YbCspLC7xD8",
+      "title": "きらめきDRIVE / 輪堂千速 (official)",
+      "published_at": "",
+      "url": "https://youtu.be/YbCspLC7xD8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YbCspLC7xD8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

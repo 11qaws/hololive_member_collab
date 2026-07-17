@@ -1,7 +1,19 @@
 {
   "target": "sakuramiko",
-  "count": 5368,
+  "count": 5373,
   "entries": [
+    {
+      "video_id": "UdLwgvlJqL5",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 1",
+      "published_at": "20270109",
+      "url": "https://youtu.be/UdLwgvlJqL5",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "2TLd35BEnFW",
       "title": "holo Hit & Blow Tournament",
@@ -9,6 +21,54 @@
       "url": "https://youtu.be/2TLd35BEnFW",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/2TLd35BEnFW/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H4tPesC4DzA",
+      "title": "【 はいしんよてちぃ~】【ホロライブ/さくらみこ】",
+      "published_at": "20260716",
+      "url": "https://youtu.be/H4tPesC4DzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H4tPesC4DzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YyqYBAg1pO8",
+      "title": "【初見】沼スーパードンキーコングやるにぇえええええええええ‼③【ホロライブ/さくらみこ】",
+      "published_at": "20260716",
+      "url": "https://youtu.be/YyqYBAg1pO8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YyqYBAg1pO8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mWikmpaIVJY",
+      "title": "ヒドイ!(褒め言葉) #shorts #hololive #ホロライブ切り抜き",
+      "published_at": "20260716",
+      "url": "https://youtu.be/mWikmpaIVJY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/mWikmpaIVJY/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7LT4upUkSFw/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
@@ -3592,7 +3652,7 @@
     },
     {
       "video_id": "CBtvLOWbiME",
-      "title": "#好きすぎて滅!踊ってみた❤️ #さくらみこ #vtuber #ホロライブ #shorts",
+      "title": "#好きすぎて滅！踊ってみた❤️ #さくらみこ #vtuber #ホロライブ #shorts",
       "published_at": "20260110",
       "url": "https://youtu.be/CBtvLOWbiME",
       "entry_type": "stream",
@@ -3964,7 +4024,7 @@
     },
     {
       "video_id": "DeJKA4XnDLU",
-      "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【4枠目】",
+      "title": "【#年末みこち25時】即席⁉ 年末みこち２５時間生放送やっちゃうにぇ！！！？？【４枠目】",
       "published_at": "20251229",
       "url": "https://youtu.be/DeJKA4XnDLU",
       "entry_type": "stream",
@@ -48315,24 +48375,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TThKPMBMK_o",
-      "title": "さくら色ハイテンション! (Instrumental)",
-      "published_at": "20210125",
-      "url": "https://youtu.be/TThKPMBMK_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dgkijs3AfAs",
       "title": "さくら色ハイテンション!",
       "published_at": "20210125",
       "url": "https://youtu.be/dgkijs3AfAs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TThKPMBMK_o",
+      "title": "さくら色ハイテンション! (Instrumental)",
+      "published_at": "20210125",
+      "url": "https://youtu.be/TThKPMBMK_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

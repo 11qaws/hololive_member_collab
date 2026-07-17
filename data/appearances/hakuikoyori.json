@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1338,
+  "count": 1339,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14717,6 +14717,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PjAf2kKVp2g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LT4upUkSFw",
       "status": "unreviewed",
       "note": null
     }

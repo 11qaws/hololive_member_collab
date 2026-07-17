@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1949,
+  "count": 1950,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21438,6 +21438,17 @@
       "published_at": "20210419",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JG48VfeF5tQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WJWg8kGKoP0",
       "status": "unreviewed",
       "note": null
     }

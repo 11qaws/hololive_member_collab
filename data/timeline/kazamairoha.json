@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 2278,
+  "count": 2281,
   "entries": [
     {
       "video_id": "2TLd35BEnFW",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/2TLd35BEnFW/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_RboFlDMwbM",
+      "title": "【#あずいろ食堂】冷やし中華はじめました。【風真いろは/ホロライブ】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/_RboFlDMwbM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_RboFlDMwbM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,12 +39,36 @@
       "paired_self": null
     },
     {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "published_at": "20260716",
+      "url": "https://youtu.be/WJWg8kGKoP0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WJWg8kGKoP0/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "R3vMwkWnk5s",
       "title": "【 #カゲマス 】#ルイろは で超超超重大告知‼全プレイヤー豪華プレゼントもあり✨【鷹嶺ルイ/風真いろは/ホロライブ】",
       "published_at": "20260715",
       "url": "https://youtu.be/R3vMwkWnk5s",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/R3vMwkWnk5s/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260715",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7LT4upUkSFw/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],

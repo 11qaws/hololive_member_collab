@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1095,
+  "count": 1097,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12044,6 +12044,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hkemDh9zngQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bMsijYu3Ab8",
+      "title": "【R.E.P.O.】久々のREPOいくぞ【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bMsijYu3Ab8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ECvhnFVCR0Q",
+      "title": "【 R.E.P.O. 】本日はREPOのお時間です!コスメ出るかな~~?!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ECvhnFVCR0Q",
       "status": "unreviewed",
       "note": null
     }

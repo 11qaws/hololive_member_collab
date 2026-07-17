@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1083,
+  "count": 1084,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -11912,6 +11912,17 @@
       "published_at": "20260711",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xu1_bo10Vyk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rwmYu21PAkQ",
+      "title": "【Short Version】 ダイダイダイダイダイキライ  / Takanashi Kiara VS Anya Melfissa #shorts #vtuber #歌ってみた",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rwmYu21PAkQ",
       "status": "unreviewed",
       "note": null
     }

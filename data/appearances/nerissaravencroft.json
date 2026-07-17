@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1017,
+  "count": 1018,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11186,6 +11186,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WJWg8kGKoP0",
       "status": "unreviewed",
       "note": null
     }

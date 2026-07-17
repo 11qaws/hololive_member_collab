@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 572,
+  "count": 573,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6291,6 +6291,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/liCzFZguCC4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WJWg8kGKoP0",
       "status": "unreviewed",
       "note": null
     }

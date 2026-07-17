@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 989,
+  "count": 991,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -10878,6 +10878,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/R3vMwkWnk5s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LT4upUkSFw",
       "status": "unreviewed",
       "note": null
     }

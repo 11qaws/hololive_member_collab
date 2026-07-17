@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1017,
+  "count": 1019,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11186,6 +11186,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zdUzvl-Tz50",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UdLwgvlJqL5",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 1",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UdLwgvlJqL5",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WJWg8kGKoP0",
+      "title": "【#兎田ぺこら7周年記念LIVE】7周年3D LIVE!NewOutfit BONUS!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WJWg8kGKoP0",
       "status": "unreviewed",
       "note": null
     }

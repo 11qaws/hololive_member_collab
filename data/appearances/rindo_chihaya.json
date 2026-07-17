@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1184,
+  "count": 1187,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13023,6 +13023,39 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Mg2Xbflbqik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1izBd_B1_Ld",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1izBd_B1_Ld",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IovzHgo5fdI",
+      "title": "千速と枢、アイドル宣言💞",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IovzHgo5fdI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1324,
+  "count": 1328,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -14563,6 +14563,50 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bMsijYu3Ab8",
+      "title": "【R.E.P.O.】久々のREPOいくぞ【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bMsijYu3Ab8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ECvhnFVCR0Q",
+      "title": "【 R.E.P.O. 】本日はREPOのお時間です!コスメ出るかな~~?!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ECvhnFVCR0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lizBewW66gs",
+      "title": "REPO! またREPOだー!!!!! 「iofi / hololiveID」",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lizBewW66gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LT4upUkSFw",
       "status": "unreviewed",
       "note": null
     }

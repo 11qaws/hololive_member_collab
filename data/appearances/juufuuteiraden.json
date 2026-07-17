@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 824,
+  "count": 825,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9063,6 +9063,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NzINlgiz5Tk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UdLwgvlJqL5",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 1",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UdLwgvlJqL5",
       "status": "unreviewed",
       "note": null
     }

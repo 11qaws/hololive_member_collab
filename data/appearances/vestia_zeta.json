@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 950,
+  "count": 952,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10449,6 +10449,28 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LT4upUkSFw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦の抽選会✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LT4upUkSFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zABLEHgW6mg",
+      "title": "We Can Spare You 7 Minutes 【Resident Evil 5】 SPOILERS",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zABLEHgW6mg",
       "status": "unreviewed",
       "note": null
     }

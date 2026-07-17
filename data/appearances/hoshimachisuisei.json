@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1440,
+  "count": 1441,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15839,6 +15839,17 @@
       "published_at": "20210416",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jG-vBGJSTcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XpDQG_R9Lx4",
+      "title": "すみません、疾走ネメシスが最強だと聞いたのですが。Shadowverse: Worlds Beyond【一条莉々華/hololive DEV_IS　ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260716",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XpDQG_R9Lx4",
       "status": "unreviewed",
       "note": null
     }
