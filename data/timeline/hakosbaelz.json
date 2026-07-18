@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2620,
+  "count": 2621,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RxNcN0xrSJQ",
+      "title": "≪WORK STREAM≫ rat is drowning in homework",
+      "published_at": "20260717",
+      "url": "https://youtu.be/RxNcN0xrSJQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RxNcN0xrSJQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -15207,24 +15219,24 @@
       "paired_self": null
     },
     {
-      "video_id": "A2prYynvtJY",
-      "title": "BITE! カム! BITE!",
-      "published_at": "20240229",
-      "url": "https://youtu.be/A2prYynvtJY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7KyZi4-KdWc",
       "title": "EIEN",
       "published_at": "20240229",
       "url": "https://youtu.be/7KyZi4-KdWc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A2prYynvtJY",
+      "title": "BITE! カム! BITE!",
+      "published_at": "20240229",
+      "url": "https://youtu.be/A2prYynvtJY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

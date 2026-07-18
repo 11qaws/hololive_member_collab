@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2358,
+  "count": 2360,
   "entries": [
+    {
+      "video_id": "weRaXfBiIqs",
+      "title": "【RESIDENT EVIL 4】Inventory management with a side of combat",
+      "published_at": "20260717",
+      "url": "https://youtu.be/weRaXfBiIqs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/weRaXfBiIqs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "AGFvVmUp9KM",
       "title": "Go! Biboo! Go! #holodori",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/AGFvVmUp9KM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AGFvVmUp9KM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AZdh3TCV4xk",
+      "title": "【HANDCAM】Howdy, let's build various Pokémon",
+      "published_at": "20260716",
+      "url": "https://youtu.be/AZdh3TCV4xk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AZdh3TCV4xk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/6-7XMGA-HoU/mqdefault.jpg",
       "partner_handle": "moricalliope",
       "partner_name": "Mori Calliope Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "AZdh3TCV4xk",
-      "title": "【HANDCAM】Howdy, let's build various Pokémon",
-      "published_at": "20260715",
-      "url": "https://youtu.be/AZdh3TCV4xk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AZdh3TCV4xk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19047,6 +19059,18 @@
       "paired_self": null
     },
     {
+      "video_id": "EWdy0nq4nQU",
+      "title": "【hololive English -Advent-】 Special 3D Collab! #Advent3D",
+      "published_at": "20240818",
+      "url": "https://youtu.be/EWdy0nq4nQU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EWdy0nq4nQU/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "zLGjmK2Mcrg",
       "title": "【BIJOU OFF-COLLAB KARAOKE】BAU BAUing and ROCK ROCKing all night 🗿🐾【FUWAMOCO🐾】",
       "published_at": "20240815",
@@ -28275,24 +28299,24 @@
       "paired_self": null
     },
     {
-      "video_id": "UPrSfuUGmgg",
-      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
-      "published_at": "",
-      "url": "https://youtu.be/UPrSfuUGmgg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nJ-CPqxE9Q0",
       "title": "【Armored Core 6】Activating Combat Mode! - #4",
       "published_at": "",
       "url": "https://youtu.be/nJ-CPqxE9Q0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UPrSfuUGmgg",
+      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
+      "published_at": "",
+      "url": "https://youtu.be/UPrSfuUGmgg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

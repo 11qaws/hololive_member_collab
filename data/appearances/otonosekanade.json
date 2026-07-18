@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1070,
+  "count": 1072,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11769,6 +11769,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7LT4upUkSFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QB2tT48CvOI",
+      "title": "【 コラボ歌枠 】夏曲✨3Ⅾでカラオケ祭り🎵#夏曲ホロ3Dカラオケ【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QB2tT48CvOI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qACbRJSpxXw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦✨【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qACbRJSpxXw",
       "status": "unreviewed",
       "note": null
     }

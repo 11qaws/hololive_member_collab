@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1068,
+  "count": 1070,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11747,6 +11747,28 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IovzHgo5fdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qACbRJSpxXw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦✨【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eql4RXyyMks",
+      "title": "生配信直前のFLOW GLOWを覗き見!②",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eql4RXyyMks",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 795,
+  "count": 797,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8744,6 +8744,28 @@
       "published_at": "20270110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1izBd_B1_Ld",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QB2tT48CvOI",
+      "title": "【 コラボ歌枠 】夏曲✨3Ⅾでカラオケ祭り🎵#夏曲ホロ3Dカラオケ【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QB2tT48CvOI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eql4RXyyMks",
+      "title": "生配信直前のFLOW GLOWを覗き見!②",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eql4RXyyMks",
       "status": "unreviewed",
       "note": null
     }

@@ -1,10 +1,46 @@
 {
   "target": "tokinosora",
-  "count": 3082,
+  "count": 3085,
   "entries": [
     {
+      "video_id": "vs9XIOEcKYg",
+      "title": "#ホロドリ で最高の1枚が撮れる!【ホロライブ/ときのそら/#shorts 】",
+      "published_at": "20260718",
+      "url": "https://youtu.be/vs9XIOEcKYg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vs9XIOEcKYg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TLFZavj3PqQ",
+      "title": "#そらぱぴあアリ2026 ときのそらってどんな人?Vol.1 ときのそらの原点は? 【#shorts /ときのそら/ホロライブ】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/TLFZavj3PqQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TLFZavj3PqQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "published_at": "20260717",
+      "url": "https://youtu.be/3w9WBEiqVNw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3w9WBEiqVNw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "8lLqK_oEnzg",
-      "title": "【リズム天国 ミラクルスターズ】今日もチャレンジ少しだけ！【ホロライブ/ときのそら】",
+      "title": "【リズム天国 ミラクルスターズ】今日もチャレンジ少しだけ!【ホロライブ/ときのそら】",
       "published_at": "20260715",
       "url": "https://youtu.be/8lLqK_oEnzg",
       "entry_type": "stream",
@@ -30003,18 +30039,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Mxysqo6Tbks",
-      "title": "マイオドレ!舞舞タイム",
-      "published_at": "20201020",
-      "url": "https://youtu.be/Mxysqo6Tbks",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Mxysqo6Tbks/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Bqj5DsHNJpE",
       "title": "空祭り",
       "published_at": "20201020",
@@ -30027,12 +30051,12 @@
       "paired_self": null
     },
     {
-      "video_id": "DoecM99tPxw",
-      "title": "リア/リモシンパサイザー",
+      "video_id": "Mxysqo6Tbks",
+      "title": "マイオドレ!舞舞タイム",
       "published_at": "20201020",
-      "url": "https://youtu.be/DoecM99tPxw",
+      "url": "https://youtu.be/Mxysqo6Tbks",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/DoecM99tPxw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Mxysqo6Tbks/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30051,18 +30075,6 @@
       "paired_self": null
     },
     {
-      "video_id": "JC_FYkbUbAE",
-      "title": "青空のシンフォニー",
-      "published_at": "20201020",
-      "url": "https://youtu.be/JC_FYkbUbAE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JC_FYkbUbAE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Bhl2ZJ58LFY",
       "title": "ぐるぐる・ラブストーリー",
       "published_at": "20201020",
@@ -30075,12 +30087,36 @@
       "paired_self": null
     },
     {
+      "video_id": "DoecM99tPxw",
+      "title": "リア/リモシンパサイザー",
+      "published_at": "20201020",
+      "url": "https://youtu.be/DoecM99tPxw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DoecM99tPxw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "G5Y4lDRHDrc",
       "title": "ブルーベリームーン",
       "published_at": "20201020",
       "url": "https://youtu.be/G5Y4lDRHDrc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/G5Y4lDRHDrc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JC_FYkbUbAE",
+      "title": "青空のシンフォニー",
+      "published_at": "20201020",
+      "url": "https://youtu.be/JC_FYkbUbAE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JC_FYkbUbAE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30243,24 +30279,24 @@
       "paired_self": null
     },
     {
-      "video_id": "EgiBGYwqINU",
-      "title": "あの子とシンパシー (instrumental)",
-      "published_at": "20200930",
-      "url": "https://youtu.be/EgiBGYwqINU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EgiBGYwqINU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Lfb1Et1tF_o",
       "title": "あの子とシンパシー",
       "published_at": "20200930",
       "url": "https://youtu.be/Lfb1Et1tF_o",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Lfb1Et1tF_o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EgiBGYwqINU",
+      "title": "あの子とシンパシー (instrumental)",
+      "published_at": "20200930",
+      "url": "https://youtu.be/EgiBGYwqINU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EgiBGYwqINU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32079,18 +32115,6 @@
       "paired_self": null
     },
     {
-      "video_id": "9BTqE6r4-N8",
-      "title": "サヨナラブロッサム",
-      "published_at": "20200303",
-      "url": "https://youtu.be/9BTqE6r4-N8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9BTqE6r4-N8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "uhdsIrVpCHg",
       "title": "ゆっくり走れば風は吹く",
       "published_at": "20200303",
@@ -32103,12 +32127,12 @@
       "paired_self": null
     },
     {
-      "video_id": "irPvyFjTZyA",
-      "title": "Equation of Love",
+      "video_id": "9BTqE6r4-N8",
+      "title": "サヨナラブロッサム",
       "published_at": "20200303",
-      "url": "https://youtu.be/irPvyFjTZyA",
+      "url": "https://youtu.be/9BTqE6r4-N8",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9BTqE6r4-N8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32121,6 +32145,18 @@
       "url": "https://youtu.be/dCkYVk-adow",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dCkYVk-adow/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "irPvyFjTZyA",
+      "title": "Equation of Love",
+      "published_at": "20200303",
+      "url": "https://youtu.be/irPvyFjTZyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

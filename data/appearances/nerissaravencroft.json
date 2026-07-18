@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1018,
+  "count": 1019,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11197,6 +11197,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EWdy0nq4nQU",
+      "title": "【hololive English -Advent-】 Special 3D Collab! #Advent3D",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20240818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EWdy0nq4nQU",
       "status": "unreviewed",
       "note": null
     }

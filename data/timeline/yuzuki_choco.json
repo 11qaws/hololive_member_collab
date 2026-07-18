@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 2956,
+  "count": 2957,
   "entries": [
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "published_at": "20260717",
+      "url": "https://youtu.be/3w9WBEiqVNw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3w9WBEiqVNw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ORsOPsIYgAs",
       "title": "サマーラブ (Instrumental)",
@@ -35451,24 +35463,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Zd6Fl-wZVHk",
-      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/Zd6Fl-wZVHk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hTzLA7c04JM",
       "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/hTzLA7c04JM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd6Fl-wZVHk",
+      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/Zd6Fl-wZVHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

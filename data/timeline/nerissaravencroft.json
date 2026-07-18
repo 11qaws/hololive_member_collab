@@ -1,7 +1,19 @@
 {
   "target": "nerissaravencroft",
-  "count": 1742,
+  "count": 1744,
   "entries": [
+    {
+      "video_id": "0WXjD02P9II",
+      "title": "Sorry, how many stones did you say there were? | The Legend of Zelda: The Wind Waker",
+      "published_at": "20260718",
+      "url": "https://youtu.be/0WXjD02P9II",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0WXjD02P9II/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "liCzFZguCC4",
       "title": "Pekora's 7th Anniversary 3D Live - Pachislot no.3",
@@ -13895,6 +13907,18 @@
       "thumbnail": "https://img.youtube.com/vi/QMkw4N4SmPE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EWdy0nq4nQU",
+      "title": "【hololive English -Advent-】 Special 3D Collab! #Advent3D",
+      "published_at": "20240818",
+      "url": "https://youtu.be/EWdy0nq4nQU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EWdy0nq4nQU/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },

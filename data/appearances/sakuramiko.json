@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2240,
+  "count": 2241,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24639,6 +24639,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mWikmpaIVJY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qACbRJSpxXw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦✨【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qACbRJSpxXw",
       "status": "unreviewed",
       "note": null
     }

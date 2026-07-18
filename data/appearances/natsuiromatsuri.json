@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1317,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14486,6 +14486,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZnYED532-mA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3w9WBEiqVNw",
       "status": "unreviewed",
       "note": null
     }

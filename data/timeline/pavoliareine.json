@@ -1,7 +1,19 @@
 {
   "target": "pavoliareine",
-  "count": 3017,
+  "count": 3019,
   "entries": [
+    {
+      "video_id": "kw7LZBnVAGY",
+      "title": "Managing My Own Thrift Shop【Thrifty Business】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/kw7LZBnVAGY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kw7LZBnVAGY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "BQP4R8CGoTg",
       "title": "Reine Detective is Back. Finding the Killer【The Big Hollow: 1982】",
@@ -8843,6 +8855,18 @@
       "thumbnail": "https://img.youtube.com/vi/1ZccyjsPsKM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zJ-qM86yJws",
+      "title": "When you find someone who matches your freak",
+      "published_at": "20250124",
+      "url": "https://youtu.be/zJ-qM86yJws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zJ-qM86yJws/mqdefault.jpg",
+      "partner_handle": "nerissaravencroft",
+      "partner_name": "Nerissa Ravencroft Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29355,24 +29379,24 @@
       "paired_self": null
     },
     {
-      "video_id": "m_noinhha_g",
-      "title": "Love Me Love Me(Instrumental)",
-      "published_at": "20211206",
-      "url": "https://youtu.be/m_noinhha_g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "yz8AiQc1Bk8",
       "title": "あの青空のせいだ",
       "published_at": "20211206",
       "url": "https://youtu.be/yz8AiQc1Bk8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/yz8AiQc1Bk8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "m_noinhha_g",
+      "title": "Love Me Love Me(Instrumental)",
+      "published_at": "20211206",
+      "url": "https://youtu.be/m_noinhha_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

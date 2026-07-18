@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 704,
+  "count": 705,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7743,6 +7743,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cjc7lYGNRXM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "50EgoYEMwqY",
+      "title": "【POKÉMON FIRE RED】smooth sailing on S.S. Anne!!!【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/50EgoYEMwqY",
       "status": "unreviewed",
       "note": null
     }

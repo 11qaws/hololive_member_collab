@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3754,
+  "count": 3756,
   "entries": [
     {
       "video_id": "I8wZbim14a4",
@@ -15,9 +15,33 @@
       "paired_self": null
     },
     {
+      "video_id": "ktZkFIMS7Y4",
+      "title": "【Solarpunk】深夜のまったりスローライフ【ホロライブ/夏色まつり】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/ktZkFIMS7Y4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ktZkFIMS7Y4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "published_at": "20260717",
+      "url": "https://youtu.be/3w9WBEiqVNw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3w9WBEiqVNw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "IT5zPafOmmw",
       "title": "【 漢字でGOGO! 】漢字テストいつも赤点です・・・【ホロライブ/夏色まつり】",
-      "published_at": "20260714",
+      "published_at": "20260715",
       "url": "https://youtu.be/IT5zPafOmmw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/IT5zPafOmmw/mqdefault.jpg",
@@ -2583,24 +2607,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kFLKwEFutm4",
-      "title": "ウェディングしよっ!",
-      "published_at": "20260224",
-      "url": "https://youtu.be/kFLKwEFutm4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "imYqFvZ2PS0",
       "title": "ウーニャカ",
       "published_at": "20260224",
       "url": "https://youtu.be/imYqFvZ2PS0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kFLKwEFutm4",
+      "title": "ウェディングしよっ!",
+      "published_at": "20260224",
+      "url": "https://youtu.be/kFLKwEFutm4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

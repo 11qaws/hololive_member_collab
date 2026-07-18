@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1097,
+  "count": 1099,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12066,6 +12066,28 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ECvhnFVCR0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cY6vshTBiZM",
+      "title": "【R.E.P.O.】本日のREPO会場です。#ホロREPO【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cY6vshTBiZM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3w9WBEiqVNw",
       "status": "unreviewed",
       "note": null
     }

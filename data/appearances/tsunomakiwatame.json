@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1707,
+  "count": 1709,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18776,6 +18776,28 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lizBewW66gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bolfWVNsr7k",
+      "title": "#03 【バイオハザード5】フレわたのわちゃわちゃ劇場始まるよ~【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bolfWVNsr7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cY6vshTBiZM",
+      "title": "【R.E.P.O.】本日のREPO会場です。#ホロREPO【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cY6vshTBiZM",
       "status": "unreviewed",
       "note": null
     }

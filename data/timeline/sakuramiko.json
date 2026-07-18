@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5373,
+  "count": 5375,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q2ORypCbmfo",
+      "title": "みこスバ謎解き監禁部屋の様子…🌀#手描き切り抜き #さくらみこ #大空スバル",
+      "published_at": "20260718",
+      "url": "https://youtu.be/Q2ORypCbmfo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Q2ORypCbmfo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,8 +39,20 @@
       "paired_self": null
     },
     {
+      "video_id": "qACbRJSpxXw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦✨【ホロライブ】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/qACbRJSpxXw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qACbRJSpxXw/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "H4tPesC4DzA",
-      "title": "【 はいしんよてちぃ~】【ホロライブ/さくらみこ】",
+      "title": "【初見】沼スーパードンキーコングやるにぇえええええええええ‼④【ホロライブ/さくらみこ】",
       "published_at": "20260716",
       "url": "https://youtu.be/H4tPesC4DzA",
       "entry_type": "stream",
@@ -3652,7 +3676,7 @@
     },
     {
       "video_id": "CBtvLOWbiME",
-      "title": "#好きすぎて滅！踊ってみた❤️ #さくらみこ #vtuber #ホロライブ #shorts",
+      "title": "#好きすぎて滅!踊ってみた❤️ #さくらみこ #vtuber #ホロライブ #shorts",
       "published_at": "20260110",
       "url": "https://youtu.be/CBtvLOWbiME",
       "entry_type": "stream",
@@ -4036,7 +4060,7 @@
     },
     {
       "video_id": "GZ9PAk__D-Y",
-      "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【3枠目】",
+      "title": "【#年末みこち25時】即席⁉ 年末みこち２５時間生放送やっちゃうにぇ！！！？？【３枠目】",
       "published_at": "20251229",
       "url": "https://youtu.be/GZ9PAk__D-Y",
       "entry_type": "stream",

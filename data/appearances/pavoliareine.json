@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 947,
+  "count": 948,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -10416,6 +10416,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zJ-qM86yJws",
+      "title": "When you find someone who matches your freak",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20250124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zJ-qM86yJws",
       "status": "unreviewed",
       "note": null
     }

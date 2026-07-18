@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1102,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12121,6 +12121,28 @@
       "published_at": "20260709",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kmySz5sUfKI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zJ-qM86yJws",
+      "title": "When you find someone who matches your freak",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20250124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zJ-qM86yJws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EWdy0nq4nQU",
+      "title": "【hololive English -Advent-】 Special 3D Collab! #Advent3D",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20240818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EWdy0nq4nQU",
       "status": "unreviewed",
       "note": null
     }

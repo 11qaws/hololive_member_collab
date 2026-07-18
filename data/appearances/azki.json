@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1019,
+  "count": 1021,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11208,6 +11208,28 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_RboFlDMwbM",
+      "title": "【#あずいろ食堂】冷やし中華はじめました。【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_RboFlDMwbM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3w9WBEiqVNw",
+      "title": "人生がやけに濃く感じる瞬間 #hololive #ホロライブ #エモい",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3w9WBEiqVNw",
       "status": "unreviewed",
       "note": null
     }

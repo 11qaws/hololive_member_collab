@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1505,
+  "count": 1507,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16554,6 +16554,28 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_EjepvKb_NU",
+      "title": "【 バイオハザード5 】フレわたでバイオ!なんかやばいお!!!#3【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_EjepvKb_NU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cY6vshTBiZM",
+      "title": "【R.E.P.O.】本日のREPO会場です。#ホロREPO【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cY6vshTBiZM",
       "status": "unreviewed",
       "note": null
     }

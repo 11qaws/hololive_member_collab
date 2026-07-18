@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1400,
+  "count": 1401,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15399,6 +15399,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7LT4upUkSFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qACbRJSpxXw",
+      "title": "【 #ホロヒットアンドブロー決定戦 】エンジョイ!ホロヒット&ブロー最強決定戦✨【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qACbRJSpxXw",
       "status": "unreviewed",
       "note": null
     }
