@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1084,
+  "count": 1085,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -11923,6 +11923,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rwmYu21PAkQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ft5ERZtJSr0",
+      "title": "【POKÉMON LEAF GREEN】our Pokémon are in a long distance relationship【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ft5ERZtJSr0",
       "status": "unreviewed",
       "note": null
     }

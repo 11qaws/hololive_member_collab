@@ -1,10 +1,22 @@
 {
   "target": "shiranuiflare",
-  "count": 3776,
+  "count": 3777,
   "entries": [
     {
+      "video_id": "CvvFr_1dAeU",
+      "title": "【 SOUND VOLTEX 】フレわた!お泊まりオフコラボ!初心者なので教えてもらう🎶【角巻わため/ホロライブ4期生】",
+      "published_at": "20260718",
+      "url": "https://youtu.be/CvvFr_1dAeU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CvvFr_1dAeU/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "bolfWVNsr7k",
-      "title": "#03 【バイオハザード5】フレわたのわちゃわちゃ劇場始まるよ~【不知火フレア/ホロライブ】",
+      "title": "#03 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
       "published_at": "20260717",
       "url": "https://youtu.be/bolfWVNsr7k",
       "entry_type": "stream",
@@ -51,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "qHGjCikuIQs",
+      "title": "#02 【バイオハザード5】フレわたのわちゃわちゃ劇場始まるよ~【不知火フレア/ホロライブ】",
+      "published_at": "20260716",
+      "url": "https://youtu.be/qHGjCikuIQs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qHGjCikuIQs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "ECvhnFVCR0Q",
       "title": "【 R.E.P.O. 】本日はREPOのお時間です!コスメ出るかな~~?!!【角巻わため/ホロライブ4期生】",
       "published_at": "20260716",
@@ -83,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/WJWg8kGKoP0/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "qHGjCikuIQs",
-      "title": "#02 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
-      "published_at": "20260715",
-      "url": "https://youtu.be/qHGjCikuIQs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/qHGjCikuIQs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -25695,24 +25707,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LndV_sp65kk",
-      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
-      "published_at": "20220322",
-      "url": "https://youtu.be/LndV_sp65kk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AByRY55F9_A",
       "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
       "published_at": "20220322",
       "url": "https://youtu.be/AByRY55F9_A",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LndV_sp65kk",
+      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
+      "published_at": "20220322",
+      "url": "https://youtu.be/LndV_sp65kk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

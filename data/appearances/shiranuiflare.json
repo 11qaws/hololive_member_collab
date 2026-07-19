@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1507,
+  "count": 1508,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16576,6 +16576,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cY6vshTBiZM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CvvFr_1dAeU",
+      "title": "【 SOUND VOLTEX 】フレわた!お泊まりオフコラボ!初心者なので教えてもらう🎶【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CvvFr_1dAeU",
       "status": "unreviewed",
       "note": null
     }

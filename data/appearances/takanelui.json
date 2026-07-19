@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1410,
+  "count": 1412,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15509,6 +15509,28 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PjAf2kKVp2g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j0p24Q3KOTg",
+      "title": "T4Uをねぽらぼと一緒に同時視聴しよ!-アベマでホロライブ 真夏のウォッチパーティー!ホロライブ5th Generation Live \"Twinkle 4 You\"【#ねぽらぼ / ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j0p24Q3KOTg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9sWrkQv-2_c",
+      "title": "【ヒットアンドブロー】頭脳なんです不憫だっただけなんです凸待ちさせてください【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9sWrkQv-2_c",
       "status": "unreviewed",
       "note": null
     }

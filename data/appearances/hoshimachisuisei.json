@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1441,
+  "count": 1442,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15850,6 +15850,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XpDQG_R9Lx4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QB2tT48CvOI",
+      "title": "【 コラボ歌枠 】夏曲✨3Ⅾでカラオケ祭り🎵#夏曲ホロ3Dカラオケ【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QB2tT48CvOI",
       "status": "unreviewed",
       "note": null
     }

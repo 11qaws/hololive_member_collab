@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 573,
+  "count": 574,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6302,6 +6302,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aOA4jWCbFLw",
+      "title": "You need to know @holoen_erbloodflame's part... 🤫💄",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aOA4jWCbFLw",
       "status": "unreviewed",
       "note": null
     }

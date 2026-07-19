@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1189,
+  "count": 1191,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13078,6 +13078,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eql4RXyyMks",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aQCNB8DopS0",
+      "title": "【手書き】さよならを言わなきゃ #ホロライブ  #vtuber #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aQCNB8DopS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9sWrkQv-2_c",
+      "title": "【ヒットアンドブロー】頭脳なんです不憫だっただけなんです凸待ちさせてください【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9sWrkQv-2_c",
       "status": "unreviewed",
       "note": null
     }

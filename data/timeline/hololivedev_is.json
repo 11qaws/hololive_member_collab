@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 831,
+  "count": 832,
   "entries": [
+    {
+      "video_id": "t_Uq7itLhl0",
+      "title": "【おまけ】🦀...? 体感型動物園iZoo公式テーマソング『iZooはいずこだ!?伊豆! iZoo!』 #音乃瀬奏 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260718",
+      "url": "https://youtu.be/t_Uq7itLhl0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t_Uq7itLhl0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "6OfZAR8pWzk",
       "title": "ポーズを決めちゃえっ 莉々華ver. #一条莉々華 #ReGLOSS #Vtuber #shorts",
@@ -99,24 +111,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QqzRAVsrSE4",
-      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
-      "published_at": "20260710",
-      "url": "https://youtu.be/QqzRAVsrSE4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Yzucp_yM7Hk",
       "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
       "published_at": "20260710",
       "url": "https://youtu.be/Yzucp_yM7Hk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QqzRAVsrSE4",
+      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
+      "published_at": "20260710",
+      "url": "https://youtu.be/QqzRAVsrSE4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2463,24 +2475,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Qo_Xhp72DUk",
-      "title": "落噺 (儒烏風亭らでん SOLO)",
-      "published_at": "20251111",
-      "url": "https://youtu.be/Qo_Xhp72DUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PSLHyLxQXIw",
       "title": "Bangarang",
       "published_at": "20251111",
       "url": "https://youtu.be/PSLHyLxQXIw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Qo_Xhp72DUk",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
+      "published_at": "20251111",
+      "url": "https://youtu.be/Qo_Xhp72DUk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

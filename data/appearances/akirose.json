@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1227,
+  "count": 1228,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13496,6 +13496,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eTBtJQYbluI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LbwgmGzzLJU",
+      "title": "レトロ自販機&JAXAで初めていっぱいの旅!【角巻わためのHave a nice day】#はばない",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LbwgmGzzLJU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1019,
+  "count": 1021,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11208,6 +11208,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eql4RXyyMks",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9sWrkQv-2_c",
+      "title": "【ヒットアンドブロー】頭脳なんです不憫だっただけなんです凸待ちさせてください【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9sWrkQv-2_c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cxph6wyUgEQ",
+      "title": "リオナと笑虎、アイドル宣言💞",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cxph6wyUgEQ",
       "status": "unreviewed",
       "note": null
     }

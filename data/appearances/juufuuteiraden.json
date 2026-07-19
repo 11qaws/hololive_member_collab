@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 825,
+  "count": 826,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9074,6 +9074,17 @@
       "published_at": "20270109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UdLwgvlJqL5",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LbwgmGzzLJU",
+      "title": "レトロ自販機&JAXAで初めていっぱいの旅!【角巻わためのHave a nice day】#はばない",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260712",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LbwgmGzzLJU",
       "status": "unreviewed",
       "note": null
     }
