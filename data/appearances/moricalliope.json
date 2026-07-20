@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1401,
+  "count": 1402,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15410,6 +15410,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z1CXDCK8oi7",
+      "title": "「星炎 Fierstra Diva」Niko-tan's Birthday 3D Live ☺️🐅",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z1CXDCK8oi7",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1412,
+  "count": 1414,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15531,6 +15531,28 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9sWrkQv-2_c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hIDrJm8mEP8",
+      "title": "【企画ウィーク】ルイ先輩とクッキング?!【虎金妃笑虎/鷹嶺ルイ】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hIDrJm8mEP8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "A3xqc1E3cxk",
+      "title": "【競馬/小倉記念】夏競馬だ～～～～～！🎋【 輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/A3xqc1E3cxk",
       "status": "unreviewed",
       "note": null
     }

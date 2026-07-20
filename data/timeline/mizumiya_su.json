@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2088,
+  "count": 2090,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PffaFW7_9Oc",
+      "title": "【スーパーマリオブラザーズ】完全初見🍄キレたら即終了初代マリオ【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260719",
+      "url": "https://youtu.be/PffaFW7_9Oc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PffaFW7_9Oc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,8 +39,20 @@
       "paired_self": null
     },
     {
+      "video_id": "7MkeZx7plRQ",
+      "title": "【アニメ】は?デカいけど文句あるか?【お前の街も壊す】",
+      "published_at": "20260719",
+      "url": "https://youtu.be/7MkeZx7plRQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7MkeZx7plRQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "JmoAUjMi8W8",
-      "title": "#11 【JUDGE EYES：死神の遺言 】完全シリーズ初見!※ネタバレあり【水宮枢/ホロライブDEV_IS】",
+      "title": "#11 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260718",
       "url": "https://youtu.be/JmoAUjMi8W8",
       "entry_type": "stream",
@@ -40,7 +64,7 @@
     },
     {
       "video_id": "3nteQqfgj1w",
-      "title": "【アソビ大全】1時間練習【水宮枢／ホロライブDEV_IS】",
+      "title": "【アソビ大全】1時間練習【水宮枢/ホロライブDEV_IS】",
       "published_at": "20260718",
       "url": "https://youtu.be/3nteQqfgj1w",
       "entry_type": "stream",
@@ -81,6 +105,18 @@
       "url": "https://youtu.be/R4Eh-yOjP9k",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/R4Eh-yOjP9k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tz069iavpCs",
+      "title": "【スーパーマリオブラザーズ】完全初見🍄初代マリオやってみる【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/tz069iavpCs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tz069iavpCs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -203,18 +239,6 @@
       "thumbnail": "https://img.youtube.com/vi/7LT4upUkSFw/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "tz069iavpCs",
-      "title": "【スーパーマリオブラザーズ】完全初見🍄初代マリオやってみる【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260714",
-      "url": "https://youtu.be/tz069iavpCs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tz069iavpCs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

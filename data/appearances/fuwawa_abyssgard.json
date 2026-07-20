@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1106,
+  "count": 1108,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12165,6 +12165,28 @@
       "published_at": "20240818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EWdy0nq4nQU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CBUuJzW2AzA",
+      "title": "Troll 2 (1990) Watchalong w/ FUWAMOCO",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CBUuJzW2AzA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D7EnNgJDQXd",
+      "title": "-Advent- Pratfall",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D7EnNgJDQXd",
       "status": "unreviewed",
       "note": null
     }

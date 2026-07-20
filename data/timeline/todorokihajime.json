@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2226,
+  "count": 2230,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/1t_qL1-QBh8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FVoOnS96Y7E",
+      "title": "モデルになったばんちょー【轟はじめ】#shorts #vtuber",
+      "published_at": "20260719",
+      "url": "https://youtu.be/FVoOnS96Y7E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FVoOnS96Y7E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LMOVs4kogug",
+      "title": "【めっちゃカメレオン】トカゲ飼ってるからいける【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260719",
+      "url": "https://youtu.be/LMOVs4kogug",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LMOVs4kogug/mqdefault.jpg",
+      "partner_handle": "juufuuteiraden",
+      "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7MkeZx7plRQ",
+      "title": "【アニメ】は?デカいけど文句あるか?【お前の街も壊す】",
+      "published_at": "20260719",
+      "url": "https://youtu.be/7MkeZx7plRQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7MkeZx7plRQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/qACbRJSpxXw/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0h8FdBv0AO4",
+      "title": "【Vlog】ロンドンで緊急ミッション!笑ってはいけないアフタヌーンティー開幕【#ReGLOSSロンドン】",
+      "published_at": "20260717",
+      "url": "https://youtu.be/0h8FdBv0AO4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0h8FdBv0AO4/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18099,24 +18147,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aVywsgBF8Js",
-      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
-      "published_at": "20240927",
-      "url": "https://youtu.be/aVywsgBF8Js",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jwYEbr39tis",
       "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
       "published_at": "20240927",
       "url": "https://youtu.be/jwYEbr39tis",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aVywsgBF8Js",
+      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "published_at": "20240927",
+      "url": "https://youtu.be/aVywsgBF8Js",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
