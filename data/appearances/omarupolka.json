@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1876,
+  "count": 1877,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20635,6 +20635,17 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j0p24Q3KOTg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3XkrZriDuN0",
+      "title": "【その7】チルラジオ配信 #狐族密会 「 狐族密会に何やらせる?」【ホロライブ/白上フブキ/尾丸ポルカ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3XkrZriDuN0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1228,
+  "count": 1229,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13507,6 +13507,17 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LbwgmGzzLJU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T-9wvhhyc6o",
+      "title": "【プロデュース】かわいい&セクシーどっちのアキロゼが好きですか?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T-9wvhhyc6o",
       "status": "unreviewed",
       "note": null
     }

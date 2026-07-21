@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2265,
+  "count": 2268,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "SJIVtNhoThg",
+      "title": "KYUTO",
+      "published_at": "20260720",
+      "url": "https://youtu.be/SJIVtNhoThg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SJIVtNhoThg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2eQdJPZW_4M",
+      "title": "ヴィヴィに(ちょっと変な)質問してみた!",
+      "published_at": "20260720",
+      "url": "https://youtu.be/2eQdJPZW_4M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2eQdJPZW_4M/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "cze8CH62xUU",
-      "title": "【 Toilet 8 】8番出口ライク!?トイレで異変を探す!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【 Toilet 8 】8番出口ライク！？トイレで異変を探す！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published_at": "20260719",
       "url": "https://youtu.be/cze8CH62xUU",
       "entry_type": "stream",
@@ -63,8 +87,20 @@
       "paired_self": null
     },
     {
+      "video_id": "Xd11sW6ye_E",
+      "title": "千速に(ちょっと変な)質問してみた!",
+      "published_at": "20260719",
+      "url": "https://youtu.be/Xd11sW6ye_E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Xd11sW6ye_E/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "o7RYaxvHgT0",
-      "title": "【W杯同時視聴】フランスVSイングランド！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "title": "【W杯同時視聴】フランスVSイングランド!みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
       "published_at": "20260718",
       "url": "https://youtu.be/o7RYaxvHgT0",
       "entry_type": "stream",
@@ -27147,24 +27183,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-OUvYpkxlVo",
-      "title": "💖⋱メンバーシップ限定壁紙配布⋰💖\n3月はなんと‼️\nPCとスマホ用の2パターンご用意しました✨ 春をテーマに制服ヴィヴィと綺麗な桜が最高に美しいです(自分で言う) いろんな出会いがあるなかで\nヴ",
-      "published_at": "",
-      "url": "https://youtu.be/-OUvYpkxlVo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-OUvYpkxlVo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zYJcWGgg5LU",
       "title": "🌼お知らせ🌼 /／ ㊗️50万人記念グッズが出ました✨ \\＼ 🎀ヴィヴィ大歓喜🎶タペストリー\n🎀ヴィヴィ語録ボイスキーホルダー\n🎀魅了しちゃうぞ♡ランダム缶バッジ\n🎀アイドルヴィヴィぬいぐるみ",
       "published_at": "",
       "url": "https://youtu.be/zYJcWGgg5LU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zYJcWGgg5LU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-OUvYpkxlVo",
+      "title": "💖⋱メンバーシップ限定壁紙配布⋰💖\n3月はなんと‼️\nPCとスマホ用の2パターンご用意しました✨ 春をテーマに制服ヴィヴィと綺麗な桜が最高に美しいです(自分で言う) いろんな出会いがあるなかで\nヴ",
+      "published_at": "",
+      "url": "https://youtu.be/-OUvYpkxlVo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-OUvYpkxlVo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 770,
+  "count": 771,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8469,6 +8469,17 @@
       "published_at": "20260710",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KTVevcs8mFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iV-9KSn37DY",
+      "title": "Our Tea Lord with her spinning teacup 🍵",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iV-9KSn37DY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1002,
+  "count": 1004,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11021,6 +11021,28 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j0p24Q3KOTg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T-9wvhhyc6o",
+      "title": "【プロデュース】かわいい&セクシーどっちのアキロゼが好きですか?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T-9wvhhyc6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I9DG4bfhxW8",
+      "title": "【イタズラ】どっちのコップに入ってるかな? #hololive #ホロライブ #ござるクッキー #元を狙うという発想",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I9DG4bfhxW8",
       "status": "unreviewed",
       "note": null
     }

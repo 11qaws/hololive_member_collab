@@ -1,7 +1,19 @@
 {
   "target": "hoshimachisuisei",
-  "count": 2989,
+  "count": 2990,
   "entries": [
+    {
+      "video_id": "quc_vwkSc9Y",
+      "title": "【#miComet6周年】6年だってよ【ホロライブ/さくらみこ】",
+      "published_at": "20260720",
+      "url": "https://youtu.be/quc_vwkSc9Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/quc_vwkSc9Y/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "QB2tT48CvOI",
       "title": "【 コラボ歌枠 】夏曲✨3Ⅾでカラオケ祭り🎵#夏曲ホロ3Dカラオケ【ホロライブ DEV_IS 響咲リオナ】",
@@ -2739,18 +2751,6 @@
       "paired_self": null
     },
     {
-      "video_id": "S2PZC0vFsbs",
-      "title": "月に向かって撃て (TVアニメver.)",
-      "published_at": "20251226",
-      "url": "https://youtu.be/S2PZC0vFsbs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "2kp67GHIIXQ",
       "title": "comet (TAKU INOUE Remix)",
       "published_at": "20251226",
@@ -2781,6 +2781,18 @@
       "url": "https://youtu.be/GBf_dIZUVIc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GBf_dIZUVIc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S2PZC0vFsbs",
+      "title": "月に向かって撃て (TVアニメver.)",
+      "published_at": "20251226",
+      "url": "https://youtu.be/S2PZC0vFsbs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3147,24 +3159,24 @@
       "paired_self": null
     },
     {
-      "video_id": "BzTNgHHXTRg",
-      "title": "彗星 (Instrumental)",
-      "published_at": "20251204",
-      "url": "https://youtu.be/BzTNgHHXTRg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BzTNgHHXTRg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "E5hVng18OvA",
       "title": "彗星",
       "published_at": "20251204",
       "url": "https://youtu.be/E5hVng18OvA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/E5hVng18OvA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BzTNgHHXTRg",
+      "title": "彗星 (Instrumental)",
+      "published_at": "20251204",
+      "url": "https://youtu.be/BzTNgHHXTRg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BzTNgHHXTRg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25479,18 +25491,6 @@
       "paired_self": null
     },
     {
-      "video_id": "OF3W2m4lh2M",
-      "title": "天球、彗星は夜を跨いで",
-      "published_at": "20210709",
-      "url": "https://youtu.be/OF3W2m4lh2M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "tHR9WFXBtjA",
       "title": "天球、彗星は夜を跨いで(Instrumental)",
       "published_at": "20210709",
@@ -25503,24 +25503,36 @@
       "paired_self": null
     },
     {
-      "video_id": "1gScCSRgupQ",
-      "title": "駆けろ(Instrumental)",
-      "published_at": "20210709",
-      "url": "https://youtu.be/1gScCSRgupQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1gScCSRgupQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9FAjJP5um9c",
       "title": "駆けろ",
       "published_at": "20210709",
       "url": "https://youtu.be/9FAjJP5um9c",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OF3W2m4lh2M",
+      "title": "天球、彗星は夜を跨いで",
+      "published_at": "20210709",
+      "url": "https://youtu.be/OF3W2m4lh2M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1gScCSRgupQ",
+      "title": "駆けろ(Instrumental)",
+      "published_at": "20210709",
+      "url": "https://youtu.be/1gScCSRgupQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1gScCSRgupQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25635,18 +25647,6 @@
       "paired_self": null
     },
     {
-      "video_id": "-qnJEqg1iqo",
-      "title": "comet",
-      "published_at": "20210628",
-      "url": "https://youtu.be/-qnJEqg1iqo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-qnJEqg1iqo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "LpJXc5_uIak",
       "title": "Bluerose(Instrumental)",
       "published_at": "20210628",
@@ -25677,6 +25677,18 @@
       "url": "https://youtu.be/vCaVl0BxeqA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-qnJEqg1iqo",
+      "title": "comet",
+      "published_at": "20210628",
+      "url": "https://youtu.be/-qnJEqg1iqo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-qnJEqg1iqo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

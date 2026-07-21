@@ -1,7 +1,31 @@
 {
   "target": "hololivedev_is",
-  "count": 834,
+  "count": 835,
   "entries": [
+    {
+      "video_id": "XBX_Gyhgedk",
+      "title": "らでんに答えを合わせろ! 学び直したい授業は英語?国語? #儒烏風亭らでん #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260720",
+      "url": "https://youtu.be/XBX_Gyhgedk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XBX_Gyhgedk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0h8FdBv0AO4",
+      "title": "【Vlog】ロンドンで緊急ミッション!笑ってはいけないアフタヌーンティー開幕【#ReGLOSSロンドン】",
+      "published_at": "20260720",
+      "url": "https://youtu.be/0h8FdBv0AO4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0h8FdBv0AO4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "o5hJTcySO6U",
       "title": "【 #ReGLOSSロンドン 】アフタヌーンティーでおかしくなるReGLOSS👀 #ReGLOSS #Vtuber #shorts",
@@ -21,18 +45,6 @@
       "url": "https://youtu.be/t_Uq7itLhl0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/t_Uq7itLhl0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "0h8FdBv0AO4",
-      "title": "【Vlog】ロンドンで緊急ミッション!笑ってはいけないアフタヌーンティー開幕【#ReGLOSSロンドン】",
-      "published_at": "20260717",
-      "url": "https://youtu.be/0h8FdBv0AO4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0h8FdBv0AO4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2499,18 +2511,6 @@
       "paired_self": null
     },
     {
-      "video_id": "PSLHyLxQXIw",
-      "title": "Bangarang",
-      "published_at": "20251111",
-      "url": "https://youtu.be/PSLHyLxQXIw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Qo_Xhp72DUk",
       "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
@@ -2523,12 +2523,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JvM1DDsQVzA",
-      "title": "XOVERLINE",
+      "video_id": "PSLHyLxQXIw",
+      "title": "Bangarang",
       "published_at": "20251111",
-      "url": "https://youtu.be/JvM1DDsQVzA",
+      "url": "https://youtu.be/PSLHyLxQXIw",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2541,6 +2541,18 @@
       "url": "https://youtu.be/K9Lj5AFi__I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JvM1DDsQVzA",
+      "title": "XOVERLINE",
+      "published_at": "20251111",
+      "url": "https://youtu.be/JvM1DDsQVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

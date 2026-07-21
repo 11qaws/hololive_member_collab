@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3262,
+  "count": 3264,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35881,6 +35881,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VS7QtkVhiX8",
+      "title": "【企画ウィーク】心拍数装着!ガチババ抜き対決【白上フブキ/一条莉々華/響咲リオナ/虎金妃笑虎】#オフコラボ",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VS7QtkVhiX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I9DG4bfhxW8",
+      "title": "【イタズラ】どっちのコップに入ってるかな? #hololive #ホロライブ #ござるクッキー #元を狙うという発想",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I9DG4bfhxW8",
       "status": "unreviewed",
       "note": null
     }

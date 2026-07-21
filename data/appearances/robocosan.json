@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1255,
+  "count": 1256,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13804,6 +13804,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1ueOh3Gd40k",
+      "title": "【 #漢義リーグ 】第7節！今日の命運は？応援は #秋麗宝燈 で！w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1ueOh3Gd40k",
       "status": "unreviewed",
       "note": null
     }

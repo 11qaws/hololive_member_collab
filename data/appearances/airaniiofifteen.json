@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1099,
+  "count": 1102,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12088,6 +12088,39 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3w9WBEiqVNw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NPfwmAVfqzQ",
+      "title": "【R.E.P.O.】敵はお金。まつりのために消えてね💓【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NPfwmAVfqzQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j4AvE2ucY8Y",
+      "title": "【R.E.P.O.】REPOですか!?いきますいきます【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j4AvE2ucY8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k1Fo9gKmj8g",
+      "title": "【R･E･P･O】大初心者🔰オシャレになりたい!!✨️!【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k1Fo9gKmj8g",
       "status": "unreviewed",
       "note": null
     }

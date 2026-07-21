@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1593,
+  "count": 1596,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RxY1ovTm5bY",
+      "title": "【Fears to Fathom® - Scratch Creek】TENANG AMARIS, DON'T BE AFRAID JANGAN TAKUT, ada aku",
+      "published_at": "20260721",
+      "url": "https://youtu.be/RxY1ovTm5bY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RxY1ovTm5bY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M66bFhX7vIo",
+      "title": "【Dread Neighbor】What's wrong with my neighbor",
+      "published_at": "20260721",
+      "url": "https://youtu.be/M66bFhX7vIo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/M66bFhX7vIo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VM9LoNE4xnQ",
+      "title": "Prepare yourself tomorrow !!!! #shorts #KoboSwitch",
+      "published_at": "20260720",
+      "url": "https://youtu.be/VM9LoNE4xnQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VM9LoNE4xnQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

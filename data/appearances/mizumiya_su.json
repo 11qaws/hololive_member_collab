@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1071,
+  "count": 1075,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11780,6 +11780,50 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7MkeZx7plRQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NPfwmAVfqzQ",
+      "title": "【R.E.P.O.】敵はお金。まつりのために消えてね💓【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NPfwmAVfqzQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j4AvE2ucY8Y",
+      "title": "【R.E.P.O.】REPOですか!?いきますいきます【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j4AvE2ucY8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2eQdJPZW_4M",
+      "title": "ヴィヴィに(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2eQdJPZW_4M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xd11sW6ye_E",
+      "title": "千速に(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xd11sW6ye_E",
       "status": "unreviewed",
       "note": null
     }

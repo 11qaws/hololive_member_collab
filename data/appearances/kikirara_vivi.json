@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1188,
+  "count": 1190,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13067,6 +13067,28 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZTg3w0lPN-8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2eQdJPZW_4M",
+      "title": "ヴィヴィに(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2eQdJPZW_4M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xd11sW6ye_E",
+      "title": "千速に(ちょっと変な)質問してみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xd11sW6ye_E",
       "status": "unreviewed",
       "note": null
     }

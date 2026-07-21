@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2658,
+  "count": 2659,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "F4kYBLIof04",
+      "title": "【ロケ企画】AZKi's LOCATION!  Vol.6 ~AZKiが一日署長に!? 香川県でまだ見ぬ魅力をゲスしてきた!~【#AZロケ】",
+      "published_at": "20260720",
+      "url": "https://youtu.be/F4kYBLIof04",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/F4kYBLIof04/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G1ZPLI5LuJs",
+      "title": "【GeoGuessr】告知あり！海の日特集！海の見える駅をGUESS【ホロライブ / AZKi】",
+      "published_at": "20260720",
+      "url": "https://youtu.be/G1ZPLI5LuJs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G1ZPLI5LuJs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "ib3NChHFzXU",
-      "title": "【パラノマサイト FILE23 本所七不思議】完全初見！ホラー×群像ミステリーの名作 #4【ホロライブ / AZKi】※ネタバレあり",
+      "title": "【パラノマサイト FILE23 本所七不思議】完全初見!ホラー×群像ミステリーの名作 #4【ホロライブ / AZKi】※ネタバレあり",
       "published_at": "20260718",
       "url": "https://youtu.be/ib3NChHFzXU",
       "entry_type": "stream",
@@ -436,7 +460,7 @@
     },
     {
       "video_id": "vcFNKYPvpuE",
-      "title": "AZKiがJR高松駅前で交通安全を呼びかけます!⚒️🚗",
+      "title": "【香川県警コラボ】AZKiがJR高松駅前で交通安全を呼びかけます!⚒️🚗",
       "published_at": "20260629",
       "url": "https://youtu.be/vcFNKYPvpuE",
       "entry_type": "stream",
@@ -2751,18 +2775,6 @@
       "paired_self": null
     },
     {
-      "video_id": "--xdFW4-XNA",
-      "title": "good days hello",
-      "published_at": "20260221",
-      "url": "https://youtu.be/--xdFW4-XNA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/--xdFW4-XNA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v2CVLesE2U4",
       "title": "開拓者くんはどう思う?【ホロライブ / AZKi】#ぷちあず #shorts #マリカ #マリオカートワールド #猫又おかゆ",
       "published_at": "20260221",
@@ -3568,7 +3580,7 @@
     },
     {
       "video_id": "oTpppDvpzn0",
-      "title": "【ロケ企画】AZKi's LOCATION!~天音かなた縁の場所へ!?かなあずが埼玉でゲスしてきた!~【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION!  Vol.5 ~天音かなた縁の場所へ!?かなあずが埼玉でゲスしてきた!~【#AZロケ】",
       "published_at": "20260112",
       "url": "https://youtu.be/oTpppDvpzn0",
       "entry_type": "stream",
@@ -5296,7 +5308,7 @@
     },
     {
       "video_id": "4_Q_55y6qsQ",
-      "title": "【ロケ企画】AZKi's LOCATION!~初体験の連続!?こよあずが北海道でゲスしてきた!〜【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION! 第4弾～初体験の連続！？こよあずが北海道でゲスしてきた！〜【#AZロケ】",
       "published_at": "20251116",
       "url": "https://youtu.be/4_Q_55y6qsQ",
       "entry_type": "stream",
@@ -5511,24 +5523,24 @@
       "paired_self": null
     },
     {
-      "video_id": "0Q90Yw1ZSI8",
-      "title": "自己アレルギー",
-      "published_at": "20251110",
-      "url": "https://youtu.be/0Q90Yw1ZSI8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aH2u7EKJLjc",
       "title": "世界は巡り、やがて君のものになる",
       "published_at": "20251110",
       "url": "https://youtu.be/aH2u7EKJLjc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0Q90Yw1ZSI8",
+      "title": "自己アレルギー",
+      "published_at": "20251110",
+      "url": "https://youtu.be/0Q90Yw1ZSI8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -12688,7 +12700,7 @@
     },
     {
       "video_id": "7iFpWrSkBi8",
-      "title": "【ロケ企画】AZKi's LOCATION! ~絶景を堪能!あずいろが小豆島でゲスしてきた!~【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION! Vol.3 ~絶景を堪能!あずいろが小豆島でゲスしてきた!~【#AZロケ】",
       "published_at": "20250122",
       "url": "https://youtu.be/7iFpWrSkBi8",
       "entry_type": "stream",
@@ -18208,7 +18220,7 @@
     },
     {
       "video_id": "7fjHXGDnKs8",
-      "title": "【ロケ企画】AZKi's LOCATION! ~念願!ぺこあずで静岡のさわやかにゲスしてきた!~【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION! ～念願！ぺこあずで静岡のさわやかにゲスしてきた！～【#AZロケ】",
       "published_at": "20240501",
       "url": "https://youtu.be/7fjHXGDnKs8",
       "entry_type": "stream",
@@ -21112,7 +21124,7 @@
     },
     {
       "video_id": "Pwyxi69B0S8",
-      "title": "【ロケ企画】AZKi's LOCATION! 後編~広島の帝釈峡でゲスしてきた!~【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION! Vol.1 後編 ~広島の帝釈峡でゲスしてきた!~【#AZロケ】",
       "published_at": "20231124",
       "url": "https://youtu.be/Pwyxi69B0S8",
       "entry_type": "stream",
@@ -21292,7 +21304,7 @@
     },
     {
       "video_id": "yFhdmAv3M0o",
-      "title": "【ロケ企画】AZKi's LOCATION! 前編~日本のハワイでゲスしてきた!~【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION! 前編～日本のハワイでゲスしてきた！～【#AZロケ】",
       "published_at": "20231117",
       "url": "https://youtu.be/yFhdmAv3M0o",
       "entry_type": "stream",
@@ -25347,24 +25359,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e5nxG5QCIRM",
-      "title": "リアルメランコリー",
-      "published_at": "20221130",
-      "url": "https://youtu.be/e5nxG5QCIRM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5wqJ6yOf8qY",
       "title": "青い夢(Instrumental)",
       "published_at": "20221130",
       "url": "https://youtu.be/5wqJ6yOf8qY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5wqJ6yOf8qY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e5nxG5QCIRM",
+      "title": "リアルメランコリー",
+      "published_at": "20221130",
+      "url": "https://youtu.be/e5nxG5QCIRM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25407,24 +25419,24 @@
       "paired_self": null
     },
     {
-      "video_id": "b6rEZlYYWSw",
-      "title": "The Last Frontier",
-      "published_at": "20221130",
-      "url": "https://youtu.be/b6rEZlYYWSw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5bOH1CU_w40",
       "title": "画面の中の君が好き",
       "published_at": "20221130",
       "url": "https://youtu.be/5bOH1CU_w40",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b6rEZlYYWSw",
+      "title": "The Last Frontier",
+      "published_at": "20221130",
+      "url": "https://youtu.be/b6rEZlYYWSw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25527,24 +25539,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nAaUKgTHxPQ",
-      "title": "画面の中の君が好き(Instrumental)",
-      "published_at": "20221130",
-      "url": "https://youtu.be/nAaUKgTHxPQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "J2zew4y-nwU",
       "title": "フェリシア",
       "published_at": "20221130",
       "url": "https://youtu.be/J2zew4y-nwU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nAaUKgTHxPQ",
+      "title": "画面の中の君が好き(Instrumental)",
+      "published_at": "20221130",
+      "url": "https://youtu.be/nAaUKgTHxPQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30579,24 +30591,24 @@
       "paired_self": null
     },
     {
-      "video_id": "t17vgEG6Yv4",
-      "title": "自己アレルギー",
-      "published_at": "20191111",
-      "url": "https://youtu.be/t17vgEG6Yv4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/t17vgEG6Yv4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "HpuzZS0gOZg",
       "title": "フロンティアローカス",
       "published_at": "20191111",
       "url": "https://youtu.be/HpuzZS0gOZg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HpuzZS0gOZg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t17vgEG6Yv4",
+      "title": "自己アレルギー",
+      "published_at": "20191111",
+      "url": "https://youtu.be/t17vgEG6Yv4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t17vgEG6Yv4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30639,6 +30651,18 @@
       "paired_self": null
     },
     {
+      "video_id": "EKEPMKRZ85E",
+      "title": "世界は巡り、やがて君のものになる",
+      "published_at": "20191111",
+      "url": "https://youtu.be/EKEPMKRZ85E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "zf-9KS_N3ZI",
       "title": "のんびりと、",
       "published_at": "20191111",
@@ -30657,18 +30681,6 @@
       "url": "https://youtu.be/UasbmTP2lTA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UasbmTP2lTA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "EKEPMKRZ85E",
-      "title": "世界は巡り、やがて君のものになる",
-      "published_at": "20191111",
-      "url": "https://youtu.be/EKEPMKRZ85E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

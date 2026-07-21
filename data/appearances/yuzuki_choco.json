@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 974,
+  "count": 976,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10713,6 +10713,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3w9WBEiqVNw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JqHpSqQpR00",
+      "title": "『 #夏の思い出 』 #アキちょこナイパレ 第44回 ~ホロライブ深夜ラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JqHpSqQpR00",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8ZF0hEZvNuE",
+      "title": "『 #夏に言われたいあざといセリフ』 #アキちょこナイパレ 第43回 ～ホロライブ深夜ラジオ～",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8ZF0hEZvNuE",
       "status": "unreviewed",
       "note": null
     }
