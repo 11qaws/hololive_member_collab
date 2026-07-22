@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1314,
+  "count": 1315,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14453,6 +14453,17 @@
       "published_at": "20200217",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fPdJfzYNKEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KpduGHV1GWo",
+      "title": "【作業ARK】拠点をつくれ!原始人卒業だ!【#とまらないARK】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200617",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KpduGHV1GWo",
       "status": "unreviewed",
       "note": null
     }

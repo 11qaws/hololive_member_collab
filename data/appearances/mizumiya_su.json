@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1075,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11824,6 +11824,50 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Xd11sW6ye_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vYVf9Pl1zCc",
+      "title": "【 R.E.P.O. 】アップデートされたレポ遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vYVf9Pl1zCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Cz7mK8-lRg",
+      "title": "REPO! REPO! REPO! 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Cz7mK8-lRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RmO3W0XA4J4",
+      "title": "【 R.E.P.O. 】みんなでおしゃれ番長になろうねっ！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RmO3W0XA4J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lyNpiMc539E",
+      "title": "惑星ループ🪐踊ってみた【#綺々羅々ヴィヴィ】#vtuber#hololive #dance #shorts",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lyNpiMc539E",
       "status": "unreviewed",
       "note": null
     }

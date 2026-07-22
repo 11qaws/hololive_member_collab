@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1078,
+  "count": 1080,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11857,6 +11857,28 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j4AvE2ucY8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Cz7mK8-lRg",
+      "title": "REPO! REPO! REPO! 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Cz7mK8-lRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RmO3W0XA4J4",
+      "title": "【 R.E.P.O. 】みんなでおしゃれ番長になろうねっ！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RmO3W0XA4J4",
       "status": "unreviewed",
       "note": null
     }

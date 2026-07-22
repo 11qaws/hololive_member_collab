@@ -1,7 +1,43 @@
 {
   "target": "airaniiofifteen",
-  "count": 2924,
+  "count": 2927,
   "entries": [
+    {
+      "video_id": "7Cz7mK8-lRg",
+      "title": "REPO! REPO! REPO! 【 iofi / hololiveID 】",
+      "published_at": "20260721",
+      "url": "https://youtu.be/7Cz7mK8-lRg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7Cz7mK8-lRg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vYVf9Pl1zCc",
+      "title": "【 R.E.P.O. 】アップデートされたレポ遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260721",
+      "url": "https://youtu.be/vYVf9Pl1zCc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vYVf9Pl1zCc/mqdefault.jpg",
+      "partner_handle": "otonosekanade",
+      "partner_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RmO3W0XA4J4",
+      "title": "【 R.E.P.O. 】みんなでおしゃれ番長になろうねっ！！【角巻わため/ホロライブ４期生】",
+      "published_at": "20260721",
+      "url": "https://youtu.be/RmO3W0XA4J4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RmO3W0XA4J4/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GSYOmSNRIg4",
       "title": "【Senin Produktif】リクエストいただきました！ 【 iofi / hololiveID 】",

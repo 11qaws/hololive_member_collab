@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2623,
+  "count": 2624,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AsvJPO_H1kY",
+      "title": "NEW COVER 「ReawakeR」OUT NOW! Hakos Baelz x @ChogakuseiOfficial #reawaker #hololive #vtuber #shorts",
+      "published_at": "20260721",
+      "url": "https://youtu.be/AsvJPO_H1kY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AsvJPO_H1kY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

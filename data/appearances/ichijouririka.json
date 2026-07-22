@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1272,
+  "count": 1273,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -13991,6 +13991,17 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VS7QtkVhiX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xRCOtVk9sj4",
+      "title": "【リズム天国ミラクルスターズ】オフコラボで仲良く遊んでハヤシライス食べるだけなわけがないリズ天【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xRCOtVk9sj4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1102,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12121,6 +12121,28 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k1Fo9gKmj8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vYVf9Pl1zCc",
+      "title": "【 R.E.P.O. 】アップデートされたレポ遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vYVf9Pl1zCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RmO3W0XA4J4",
+      "title": "【 R.E.P.O. 】みんなでおしゃれ番長になろうねっ！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RmO3W0XA4J4",
       "status": "unreviewed",
       "note": null
     }

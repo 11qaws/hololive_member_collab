@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 705,
+  "count": 706,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7754,6 +7754,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/50EgoYEMwqY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u8L9ZX4ZYgY",
+      "title": "The big pink cat you didn't know you needed today 🐱🎶",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u8L9ZX4ZYgY",
       "status": "unreviewed",
       "note": null
     }

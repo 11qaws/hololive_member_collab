@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1320,
+  "count": 1324,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14519,6 +14519,50 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j4AvE2ucY8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vYVf9Pl1zCc",
+      "title": "【 R.E.P.O. 】アップデートされたレポ遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vYVf9Pl1zCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Cz7mK8-lRg",
+      "title": "REPO! REPO! REPO! 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Cz7mK8-lRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RmO3W0XA4J4",
+      "title": "【 R.E.P.O. 】みんなでおしゃれ番長になろうねっ！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RmO3W0XA4J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "quc_vwkSc9Y",
+      "title": "【#miComet6周年】みこめっとビジネス会議逆凸！！！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260720",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/quc_vwkSc9Y",
       "status": "unreviewed",
       "note": null
     }

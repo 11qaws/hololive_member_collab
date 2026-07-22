@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1552,
+  "count": 1553,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17071,6 +17071,17 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HD4INEABrW4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PA4F02G7AjM",
+      "title": "今日はぺこら先輩と一緒にRing my name🌹踊ってみた✨ #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PA4F02G7AjM",
       "status": "unreviewed",
       "note": null
     }

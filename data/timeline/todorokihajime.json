@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2230,
+  "count": 2231,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RJvSAxLmONA",
+      "title": "【メン限】まったりしたいなあ【轟はじめ/ReGLOSS】",
+      "published_at": "20260721",
+      "url": "https://youtu.be/RJvSAxLmONA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RJvSAxLmONA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

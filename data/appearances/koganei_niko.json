@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 800,
+  "count": 801,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8799,6 +8799,17 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Xd11sW6ye_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lyNpiMc539E",
+      "title": "惑星ループ🪐踊ってみた【#綺々羅々ヴィヴィ】#vtuber#hololive #dance #shorts",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lyNpiMc539E",
       "status": "unreviewed",
       "note": null
     }

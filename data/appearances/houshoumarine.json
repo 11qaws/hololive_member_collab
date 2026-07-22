@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1636,
+  "count": 1637,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -17995,6 +17995,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pCZg-iYaDg8",
+      "title": "HOWARD BIG BONUS 1時間耐久 #兎田ぺこら7周年記念LIVE",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pCZg-iYaDg8",
       "status": "unreviewed",
       "note": null
     }

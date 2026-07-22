@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1443,
+  "count": 1444,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -15872,6 +15872,17 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/quc_vwkSc9Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vyYQlInmI2c",
+      "title": "マリン船長がよく誤解されていること#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vyYQlInmI2c",
       "status": "unreviewed",
       "note": null
     }
