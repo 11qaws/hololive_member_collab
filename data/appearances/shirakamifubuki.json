@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3265,
+  "count": 3266,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35914,6 +35914,17 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/quc_vwkSc9Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I6L9hnGCpwk",
+      "title": "【 Full Stride 】白上騎手と直接対決。ーーーいざ、勝負。【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I6L9hnGCpwk",
       "status": "unreviewed",
       "note": null
     }

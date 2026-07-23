@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1422,
+  "count": 1425,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15641,6 +15641,39 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pCZg-iYaDg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k60PYI6AHAM",
+      "title": "【Dreadline: Net Quota】can i just fish.... peacefully? elp【GRAONDSTONE】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k60PYI6AHAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y2xUvultGOE",
+      "title": "DIGGING INTO YOUR HOME! 【Pratfall】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y2xUvultGOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Blen0XcU9gg",
       "status": "unreviewed",
       "note": null
     }

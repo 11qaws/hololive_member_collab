@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 706,
+  "count": 707,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7765,6 +7765,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u8L9ZX4ZYgY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k60PYI6AHAM",
+      "title": "【Dreadline: Net Quota】can i just fish.... peacefully? elp【GRAONDSTONE】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k60PYI6AHAM",
       "status": "unreviewed",
       "note": null
     }

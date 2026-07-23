@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1585,
+  "count": 1587,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hE9poARajBo",
+      "title": "#ホロドリ のミニゲームがカオスすぎる!【ホロライブ/虎金妃笑虎】",
+      "published_at": "20260722",
+      "url": "https://youtu.be/hE9poARajBo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hE9poARajBo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JKOGahblQIQ",
+      "title": "たけのこニョッキ!負けたら全力ファンサ編!",
+      "published_at": "20260722",
+      "url": "https://youtu.be/JKOGahblQIQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JKOGahblQIQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VS7QtkVhiX8",
+      "title": "【企画ウィーク】心拍数装着!ガチババ抜き対決【白上フブキ/一条莉々華/響咲リオナ/虎金妃笑虎】#オフコラボ",
+      "published_at": "20260721",
+      "url": "https://youtu.be/VS7QtkVhiX8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VS7QtkVhiX8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -64,7 +100,7 @@
     },
     {
       "video_id": "5z8osqEvceo",
-      "title": "【生誕3Dライブ】星炎-Firestra Diva-  #ニコたん生たん2026【虎金妃笑虎】",
+      "title": "【生誕3Dライブ】星炎-Fierstra Diva-  #ニコたん生たん2026【虎金妃笑",
       "published_at": "20260718",
       "url": "https://youtu.be/5z8osqEvceo",
       "entry_type": "stream",
@@ -100,7 +136,7 @@
     },
     {
       "video_id": "I7wIui0oKAE",
-      "title": "3",
+      "title": "【願望Tierづくり2/3D】ホロメンにバブりたい?バブられたい? ケツもち🍙おかゆん先輩【二刀流の虎金妃笑虎/猫又おかゆ】",
       "published_at": "20260718",
       "url": "https://youtu.be/I7wIui0oKAE",
       "entry_type": "stream",
@@ -112,23 +148,11 @@
     },
     {
       "video_id": "z7t523K7kYE",
-      "title": "【 #笑虎ネクト 】第2回目!歌って!笑虎ネクト🐯ゲスト 角巻わため先輩🐏【虎金妃笑虎/角巻わため】",
+      "title": "【 #笑虎ネクト 】第２回目！歌って！笑虎ネクト🐯ゲスト 角巻わため先輩🐏【虎金妃笑虎/角巻わため】",
       "published_at": "20260718",
       "url": "https://youtu.be/z7t523K7kYE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/z7t523K7kYE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "VS7QtkVhiX8",
-      "title": "【企画ウィーク】心拍数装着！ガチババ抜き対決【白上フブキ/一条莉々華/響咲リオナ/虎金妃笑虎】＃オフコラボ",
-      "published_at": "20260718",
-      "url": "https://youtu.be/VS7QtkVhiX8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VS7QtkVhiX8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -18987,24 +19011,24 @@
       "paired_self": null
     },
     {
-      "video_id": "v9ea3cDKhX4",
-      "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
-      "published_at": "",
-      "url": "https://youtu.be/v9ea3cDKhX4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "pylOG0ntH_s",
       "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
       "published_at": "",
       "url": "https://youtu.be/pylOG0ntH_s",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v9ea3cDKhX4",
+      "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
+      "published_at": "",
+      "url": "https://youtu.be/v9ea3cDKhX4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

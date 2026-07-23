@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1415,
+  "count": 1418,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15564,6 +15564,39 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tvBS-wRK0XM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5z8osqEvceo",
+      "title": "【生誕3Dライブ】星炎-Fierstra Diva-  #ニコたん生たん2026【虎金妃笑",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5z8osqEvceo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d3X_gsAZGrE",
+      "title": "【 #カゲマス 】かざま!!ついに実装!!ホロメン復刻も!?ガチャ引きまくるでござる✨【ホロライブ/鷹嶺ルイ・風真いろは】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d3X_gsAZGrE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T4rUBNWmKfA",
+      "title": "【Full Stride】鷹嶺騎手VS白上騎手　ジョッキー勝負！！！！！　【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T4rUBNWmKfA",
       "status": "unreviewed",
       "note": null
     }

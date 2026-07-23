@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1093,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12022,6 +12022,17 @@
       "published_at": "20260712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3SDYVWk4M7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uLvilDwP6HE",
+      "title": "今日はIRyS先輩とRing my name🌹 #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uLvilDwP6HE",
       "status": "unreviewed",
       "note": null
     }

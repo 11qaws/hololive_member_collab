@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1025,
+  "count": 1029,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11274,6 +11274,50 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lyNpiMc539E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5z8osqEvceo",
+      "title": "【生誕3Dライブ】星炎-Fierstra Diva-  #ニコたん生たん2026【虎金妃笑",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5z8osqEvceo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w7jCD1uO3H8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JKOGahblQIQ",
+      "title": "たけのこニョッキ!負けたら全力ファンサ編!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JKOGahblQIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TTh-HcEHqb4",
+      "title": "リオナとヴィヴィと千速、アイドル宣言💞",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TTh-HcEHqb4",
       "status": "unreviewed",
       "note": null
     }

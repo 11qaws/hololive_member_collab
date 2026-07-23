@@ -1,7 +1,31 @@
 {
   "target": "takanashikiara",
-  "count": 2997,
+  "count": 2999,
   "entries": [
+    {
+      "video_id": "8OPK5cr5pKs",
+      "title": "【FINAL FANTASY VII REMAKE】i havent seen jessie in a while :( #kfp #キアライブ (spoiler warning)",
+      "published_at": "20260722",
+      "url": "https://youtu.be/8OPK5cr5pKs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8OPK5cr5pKs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "published_at": "20260722",
+      "url": "https://youtu.be/Blen0XcU9gg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "hUEB9BkKuPk",
       "title": "【FINAL FANTASY VII REMAKE】dense male protagonist syndrome #kfp #キアライブ (spoiler warning)",
@@ -33015,24 +33039,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e3w1R869Kc8",
-      "title": "Heart Challenger",
-      "published_at": "20210214",
-      "url": "https://youtu.be/e3w1R869Kc8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e3w1R869Kc8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "t_oZp7uLttI",
       "title": "Heart Challenger (Instrumental)",
       "published_at": "20210214",
       "url": "https://youtu.be/t_oZp7uLttI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/t_oZp7uLttI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e3w1R869Kc8",
+      "title": "Heart Challenger",
+      "published_at": "20210214",
+      "url": "https://youtu.be/e3w1R869Kc8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e3w1R869Kc8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

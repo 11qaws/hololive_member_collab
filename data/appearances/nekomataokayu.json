@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1655,
+  "count": 1657,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18204,6 +18204,28 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_HJHNXPPpCk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Blen0XcU9gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "599LRRvx3Fg",
+      "title": "【#生スバル】スバおかREPOやるしゅばあああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260721",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/599LRRvx3Fg",
       "status": "unreviewed",
       "note": null
     }

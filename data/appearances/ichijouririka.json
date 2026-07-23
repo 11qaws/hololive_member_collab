@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1273,
+  "count": 1274,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14002,6 +14002,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xRCOtVk9sj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w7jCD1uO3H8",
       "status": "unreviewed",
       "note": null
     }

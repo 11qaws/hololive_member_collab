@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1061,
+  "count": 1062,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11670,6 +11670,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Blen0XcU9gg",
       "status": "unreviewed",
       "note": null
     }

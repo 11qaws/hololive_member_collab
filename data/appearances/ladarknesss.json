@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1004,
+  "count": 1005,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11043,6 +11043,17 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I9DG4bfhxW8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wA2K3usJhno",
+      "title": "【 3Dコラボ 】地獄くじ引き一緒に引いて絆を深めよう💜🤝💜【 猫又おかゆ / ラプラス・ダークネス / ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wA2K3usJhno",
       "status": "unreviewed",
       "note": null
     }

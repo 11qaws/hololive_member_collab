@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1707,
+  "count": 1709,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18776,6 +18776,28 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pCZg-iYaDg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w7jCD1uO3H8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kgvB7YRGZvA",
+      "title": "【オリジナル曲】美少女戦士まつりみっとZero【ホロライブ/夏色まつり/佐藤貴文】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kgvB7YRGZvA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1121,
+  "count": 1123,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12330,6 +12330,28 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7MkeZx7plRQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Blen0XcU9gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p8a0FlqsljQ",
+      "title": "カメラ目線チャレンジ はじめの挑戦💪 #轟はじめ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p8a0FlqsljQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1597,
+  "count": 1599,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kZd_ZxcILmY",
+      "title": "Kobo Kanaeru? Dare? #shorts #kobo #kobokanaeru #onaeru #vtuber",
+      "published_at": "20260722",
+      "url": "https://youtu.be/kZd_ZxcILmY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kZd_ZxcILmY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "published_at": "20260722",
+      "url": "https://youtu.be/Blen0XcU9gg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "h8EBJSabzcs",
-      "title": "Swich It Up",
+      "title": "Switch It Up",
       "published_at": "20260721",
       "url": "https://youtu.be/h8EBJSabzcs",
       "entry_type": "stream",

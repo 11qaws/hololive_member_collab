@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1108,
+  "count": 1109,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12187,6 +12187,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/D7EnNgJDQXd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y2xUvultGOE",
+      "title": "DIGGING INTO YOUR HOME! 【Pratfall】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y2xUvultGOE",
       "status": "unreviewed",
       "note": null
     }
