@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 895,
+  "count": 896,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -9844,6 +9844,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hIwqPl8k48o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w7jCD1uO3H8",
       "status": "unreviewed",
       "note": null
     }

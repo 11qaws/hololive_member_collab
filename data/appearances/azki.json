@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1023,
+  "count": 1024,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11252,6 +11252,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pCZg-iYaDg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w7jCD1uO3H8",
       "status": "unreviewed",
       "note": null
     }

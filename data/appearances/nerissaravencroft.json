@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1024,
+  "count": 1026,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11263,6 +11263,28 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/y2xUvultGOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JLE3AYgZEcU",
+      "title": "【PRATFALL】WE FAAAAAAAAAAAALLLLLLLLLLLLL 【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JLE3AYgZEcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BaOCTxNbHMY",
+      "title": "【PRATFALL COLLAB】we are the lost dogs please help find us in this cave 🐾 #holoAdvent 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BaOCTxNbHMY",
       "status": "unreviewed",
       "note": null
     }

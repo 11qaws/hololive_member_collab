@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2662,
+  "count": 2665,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -9,6 +9,42 @@
       "url": "https://youtu.be/UdLwgvlJqL5",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3wmcsy3zSuk",
+      "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams【ホロライブ / AZKi】",
+      "published_at": "20260723",
+      "url": "https://youtu.be/3wmcsy3zSuk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3wmcsy3zSuk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XVhXHtoDepw",
+      "title": "【ダイジェスト映像】AZKi SOLO LiVE 2025 \"Departure\" at ぴあアリーナMM Blu-ray 受注は 8月3日 18:00まで!",
+      "published_at": "20260723",
+      "url": "https://youtu.be/XVhXHtoDepw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XVhXHtoDepw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "w7jCD1uO3H8",
+      "title": "【新ボイス】いっしょに作業しよっか♪",
+      "published_at": "20260723",
+      "url": "https://youtu.be/w7jCD1uO3H8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/w7jCD1uO3H8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "F4kYBLIof04",
-      "title": "【ロケ企画】AZKi's LOCATION! Vol.6 ～AZKiが一日署長に！？ 香川県でまだ見ぬ魅力をゲスしてきた！～【#AZロケ】",
+      "title": "【ロケ企画】AZKi's LOCATION!  Vol.6 ~AZKiが一日署長に!? 香川県でまだ見ぬ魅力をゲスしてきた!~【#AZロケ】",
       "published_at": "20260721",
       "url": "https://youtu.be/F4kYBLIof04",
       "entry_type": "stream",
@@ -1395,24 +1431,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cwysw8Fzk_w",
-      "title": "Going My Way (Instrumental)",
-      "published_at": "20260518",
-      "url": "https://youtu.be/cwysw8Fzk_w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "-7cYjcTL7OE",
       "title": "Going My Way",
       "published_at": "20260518",
       "url": "https://youtu.be/-7cYjcTL7OE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cwysw8Fzk_w",
+      "title": "Going My Way (Instrumental)",
+      "published_at": "20260518",
+      "url": "https://youtu.be/cwysw8Fzk_w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25455,24 +25491,24 @@
       "paired_self": null
     },
     {
-      "video_id": "b6rEZlYYWSw",
-      "title": "The Last Frontier",
-      "published_at": "20221130",
-      "url": "https://youtu.be/b6rEZlYYWSw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5bOH1CU_w40",
       "title": "画面の中の君が好き",
       "published_at": "20221130",
       "url": "https://youtu.be/5bOH1CU_w40",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b6rEZlYYWSw",
+      "title": "The Last Frontier",
+      "published_at": "20221130",
+      "url": "https://youtu.be/b6rEZlYYWSw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25575,24 +25611,24 @@
       "paired_self": null
     },
     {
-      "video_id": "J2zew4y-nwU",
-      "title": "フェリシア",
-      "published_at": "20221130",
-      "url": "https://youtu.be/J2zew4y-nwU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nAaUKgTHxPQ",
       "title": "画面の中の君が好き(Instrumental)",
       "published_at": "20221130",
       "url": "https://youtu.be/nAaUKgTHxPQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "J2zew4y-nwU",
+      "title": "フェリシア",
+      "published_at": "20221130",
+      "url": "https://youtu.be/J2zew4y-nwU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30663,24 +30699,24 @@
       "paired_self": null
     },
     {
-      "video_id": "YLZRPGqtMv4",
-      "title": "ちいさな心が決めたこと",
-      "published_at": "20191111",
-      "url": "https://youtu.be/YLZRPGqtMv4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jV51aZvAwPo",
       "title": "コトノハ",
       "published_at": "20191111",
       "url": "https://youtu.be/jV51aZvAwPo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jV51aZvAwPo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YLZRPGqtMv4",
+      "title": "ちいさな心が決めたこと",
+      "published_at": "20191111",
+      "url": "https://youtu.be/YLZRPGqtMv4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

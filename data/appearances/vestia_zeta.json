@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 953,
+  "count": 955,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10482,6 +10482,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-6kQtn7Nz8A",
+      "title": "【PLUS SURVEY - holoplus】 Episode 2: DO THEY SHARE THE SAME BRAINCELLS AS THE FANS?? 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-6kQtn7Nz8A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y0VKPl07vLo",
+      "title": "maklum masih pemula #shorts #vtuber  #onaeru #kobo #kobokanaeru",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y0VKPl07vLo",
       "status": "unreviewed",
       "note": null
     }

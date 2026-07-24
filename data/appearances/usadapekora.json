@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1553,
+  "count": 1554,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17082,6 +17082,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PA4F02G7AjM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v-HbYm4y8F8",
+      "title": "兎から鷹、鷹から自認虎の人間へ #shorts #hololive #ホロライブ切り抜き",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v-HbYm4y8F8",
       "status": "unreviewed",
       "note": null
     }

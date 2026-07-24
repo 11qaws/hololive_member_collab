@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 707,
+  "count": 708,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7776,6 +7776,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k60PYI6AHAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eLFyb76AkjI",
+      "title": "【graondstone】we play a game :D",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eLFyb76AkjI",
       "status": "unreviewed",
       "note": null
     }

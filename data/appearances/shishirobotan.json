@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1571,
+  "count": 1573,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17280,6 +17280,28 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kgvB7YRGZvA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OxzrYhVmSgA",
+      "title": "【コール動画 / MV】ごきげんドリンクバー【 hololive / 桃鈴ねね 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OxzrYhVmSgA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TQmcUxtKYxA",
+      "title": "ごきげんドリンクバー",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260707",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TQmcUxtKYxA",
       "status": "unreviewed",
       "note": null
     }

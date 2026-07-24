@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1109,
+  "count": 1111,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12198,6 +12198,28 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/y2xUvultGOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tFmyV9YahiQ",
+      "title": "Advent's Diggy Diggy Hole | Pratfall",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tFmyV9YahiQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JLE3AYgZEcU",
+      "title": "【PRATFALL】WE FAAAAAAAAAAAALLLLLLLLLLLLL 【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JLE3AYgZEcU",
       "status": "unreviewed",
       "note": null
     }

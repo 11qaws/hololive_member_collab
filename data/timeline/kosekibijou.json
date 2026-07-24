@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2370,
+  "count": 2374,
   "entries": [
+    {
+      "video_id": "eLFyb76AkjI",
+      "title": "【graondstone】we play a game :D",
+      "published_at": "20260724",
+      "url": "https://youtu.be/eLFyb76AkjI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eLFyb76AkjI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "D7EnNgJDQXd",
       "title": "-Advent- Pratfall",
@@ -11,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/D7EnNgJDQXd/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JLE3AYgZEcU",
+      "title": "【PRATFALL】WE FAAAAAAAAAAAALLLLLLLLLLLLL 【Advent Collab】",
+      "published_at": "20260723",
+      "url": "https://youtu.be/JLE3AYgZEcU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JLE3AYgZEcU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tFmyV9YahiQ",
+      "title": "Advent's Diggy Diggy Hole | Pratfall",
+      "published_at": "20260723",
+      "url": "https://youtu.be/tFmyV9YahiQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tFmyV9YahiQ/mqdefault.jpg",
+      "partner_handle": "nerissaravencroft",
+      "partner_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BaOCTxNbHMY",
+      "title": "【PRATFALL COLLAB】we are the lost dogs please help find us in this cave 🐾 #holoAdvent 【FUWAMOCO】",
+      "published_at": "20260723",
+      "url": "https://youtu.be/BaOCTxNbHMY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BaOCTxNbHMY/mqdefault.jpg",
+      "partner_handle": "mococo_abyssgard",
+      "partner_name": "FUWAMOCO Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -33,6 +81,18 @@
       "url": "https://youtu.be/N982uvppLCY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/N982uvppLCY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jwtA5_gnGJg",
+      "title": "【Arknights: Endfield】I grew my factory just for Arcane",
+      "published_at": "20260722",
+      "url": "https://youtu.be/jwtA5_gnGJg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jwtA5_gnGJg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +131,6 @@
       "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "jwtA5_gnGJg",
-      "title": "【Arknights: Endfield】I grew my factory just for Arcane",
-      "published_at": "20260721",
-      "url": "https://youtu.be/jwtA5_gnGJg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jwtA5_gnGJg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28419,24 +28467,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nJ-CPqxE9Q0",
-      "title": "【Armored Core 6】Activating Combat Mode! - #4",
-      "published_at": "",
-      "url": "https://youtu.be/nJ-CPqxE9Q0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "UPrSfuUGmgg",
       "title": "Biboo tank is real! #shorts #worldoftanksblitz",
       "published_at": "",
       "url": "https://youtu.be/UPrSfuUGmgg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nJ-CPqxE9Q0",
+      "title": "【Armored Core 6】Activating Combat Mode! - #4",
+      "published_at": "",
+      "url": "https://youtu.be/nJ-CPqxE9Q0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

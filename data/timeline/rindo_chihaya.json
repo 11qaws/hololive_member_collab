@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1929,
+  "count": 1932,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M5OswK1n5Uo",
+      "title": "【同時視聴】ひつじ探偵団🐑 一緒に見よう~~~!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260724",
+      "url": "https://youtu.be/M5OswK1n5Uo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/M5OswK1n5Uo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "skC-NvmSH9c",
+      "title": "【ガンダムシリーズ新作発表同時視聴】新作きちゃああ！！！一緒に見よう～～！！！！ 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260723",
+      "url": "https://youtu.be/skC-NvmSH9c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/skC-NvmSH9c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +76,7 @@
     },
     {
       "video_id": "LSN-jKtlcis",
-      "title": "【FF6】#6 初めてのFF！ケフカに会いに行くぞ〜〜！！※ネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "title": "【FF6】#6 初めてのFF!ケフカに会いに行くぞ〜〜!!※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published_at": "20260721",
       "url": "https://youtu.be/LSN-jKtlcis",
       "entry_type": "stream",
@@ -261,6 +285,18 @@
       "url": "https://youtu.be/5z8osqEvceo",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/5z8osqEvceo/mqdefault.jpg",
+      "partner_handle": "koganei_niko",
+      "partner_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IbyN7S23r9Y",
+      "title": "【 #FGママ力対決 】ママはこのあたしよ♡【ラプラス・ダークネス/水宮枢/輪堂千速/虎金妃笑虎】",
+      "published_at": "20260718",
+      "url": "https://youtu.be/IbyN7S23r9Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IbyN7S23r9Y/mqdefault.jpg",
       "partner_handle": "koganei_niko",
       "partner_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
       "sub_entries": [],

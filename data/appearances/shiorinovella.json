@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 926,
+  "count": 929,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10185,6 +10185,39 @@
       "published_at": "20240818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EWdy0nq4nQU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tFmyV9YahiQ",
+      "title": "Advent's Diggy Diggy Hole | Pratfall",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tFmyV9YahiQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JLE3AYgZEcU",
+      "title": "【PRATFALL】WE FAAAAAAAAAAAALLLLLLLLLLLLL 【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JLE3AYgZEcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BaOCTxNbHMY",
+      "title": "【PRATFALL COLLAB】we are the lost dogs please help find us in this cave 🐾 #holoAdvent 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BaOCTxNbHMY",
       "status": "unreviewed",
       "note": null
     }

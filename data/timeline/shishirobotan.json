@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 3309,
+  "count": 3311,
   "entries": [
     {
       "video_id": "aVnsgjemlxz",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/aVnsgjemlxz",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/aVnsgjemlxz/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OxzrYhVmSgA",
+      "title": "【コール動画 / MV】ごきげんドリンクバー【 hololive / 桃鈴ねね 】",
+      "published_at": "20260723",
+      "url": "https://youtu.be/OxzrYhVmSgA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OxzrYhVmSgA/mqdefault.jpg",
       "partner_handle": "momosuzunene",
       "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
@@ -131,6 +143,18 @@
       "thumbnail": "https://img.youtube.com/vi/2d5nvKrOq0I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TQmcUxtKYxA",
+      "title": "ごきげんドリンクバー",
+      "published_at": "20260707",
+      "url": "https://youtu.be/TQmcUxtKYxA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TQmcUxtKYxA/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1199,
+  "count": 1200,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13188,6 +13188,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TTh-HcEHqb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IbyN7S23r9Y",
+      "title": "【 #FGママ力対決 】ママはこのあたしよ♡【ラプラス・ダークネス/水宮枢/輪堂千速/虎金妃笑虎】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IbyN7S23r9Y",
       "status": "unreviewed",
       "note": null
     }

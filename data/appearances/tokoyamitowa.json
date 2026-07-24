@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1521,
+  "count": 1522,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16730,6 +16730,17 @@
       "published_at": "20260714",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gd4O5uNxqcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KeNc8WhPiQU",
+      "title": "今日はトワ先輩とRing my name🌹 #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KeNc8WhPiQU",
       "status": "unreviewed",
       "note": null
     }

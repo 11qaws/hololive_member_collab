@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1005,
+  "count": 1006,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11054,6 +11054,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wA2K3usJhno",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IbyN7S23r9Y",
+      "title": "【 #FGママ力対決 】ママはこのあたしよ♡【ラプラス・ダークネス/水宮枢/輪堂千速/虎金妃笑虎】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IbyN7S23r9Y",
       "status": "unreviewed",
       "note": null
     }

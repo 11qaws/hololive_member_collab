@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1080,
+  "count": 1082,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -11879,6 +11879,28 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RmO3W0XA4J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RfrleUDUdAs",
+      "title": "#美少女戦士まつりみっとZero のMVはもう見たかな!?沢山食べても踊ればむしろマイナスカロリーだ🍜",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RfrleUDUdAs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mgzVUzWysWk",
+      "title": "【解釈一致ゲーム】 ReGLOSSで一番生徒会長っぽいのは誰? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mgzVUzWysWk",
       "status": "unreviewed",
       "note": null
     }

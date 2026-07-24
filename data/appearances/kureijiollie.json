@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1360,
+  "count": 1361,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -14959,6 +14959,17 @@
       "published_at": "20250124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zJ-qM86yJws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y0VKPl07vLo",
+      "title": "maklum masih pemula #shorts #vtuber  #onaeru #kobo #kobokanaeru",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260723",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y0VKPl07vLo",
       "status": "unreviewed",
       "note": null
     }
