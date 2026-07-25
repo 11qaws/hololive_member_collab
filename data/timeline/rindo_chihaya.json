@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1932,
+  "count": 1934,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,14 +15,38 @@
       "paired_self": null
     },
     {
+      "video_id": "cgQBNMhvmYo",
+      "title": "【F1同時視聴】ハンガリーGP予選!ついに!!!アプデ来る!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/cgQBNMhvmYo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cgQBNMhvmYo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "M5OswK1n5Uo",
-      "title": "【同時視聴】ひつじ探偵団🐑 一緒に見よう~~~!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "title": "【同時視聴】ひつじ探偵団🐑 一緒に見よう～～～！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "20260724",
       "url": "https://youtu.be/M5OswK1n5Uo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/M5OswK1n5Uo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nOr_wGi3QKQ",
+      "title": "たけのこニョッキ!負けたら全力モノマネ編!",
+      "published_at": "20260724",
+      "url": "https://youtu.be/nOr_wGi3QKQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/nOr_wGi3QKQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1193,
+  "count": 1194,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13122,6 +13122,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TTh-HcEHqb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nOr_wGi3QKQ",
+      "title": "たけのこニョッキ!負けたら全力モノマネ編!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nOr_wGi3QKQ",
       "status": "unreviewed",
       "note": null
     }

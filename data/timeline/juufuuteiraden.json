@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1771,
+  "count": 1774,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "043G5mWQ-Pk",
+      "title": "【 #らでさんぽ 】大地の魅力に迫る!?in伊豆半島!~専門家たちを添えて~【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/043G5mWQ-Pk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/043G5mWQ-Pk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OrMqXaCScp0",
+      "title": "らでんちゃんが念白を詠んだ!?「特撮人形劇の世界展」宣伝PVついに公開!",
+      "published_at": "20260725",
+      "url": "https://youtu.be/OrMqXaCScp0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OrMqXaCScp0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MOP1SbJHM7A",
+      "title": "らでんちゃんが念白を詠んだ!?「特撮人形劇の世界展」宣伝PVついに公開!",
+      "published_at": "20260724",
+      "url": "https://youtu.be/MOP1SbJHM7A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MOP1SbJHM7A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +88,7 @@
     },
     {
       "video_id": "7_nBgPQ93Zo",
-      "title": "【#らでんのラジオ 】第39回！サウナのように暑い【儒烏風亭らでん #ReGLOSS 】",
+      "title": "【#らでんのラジオ 】第39回!サウナのように暑い【儒烏風亭らでん #ReGLOSS 】",
       "published_at": "20260722",
       "url": "https://youtu.be/7_nBgPQ93Zo",
       "entry_type": "stream",

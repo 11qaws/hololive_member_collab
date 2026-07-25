@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1275,
+  "count": 1276,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14024,6 +14024,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mgzVUzWysWk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1y021FoUDZQ",
+      "title": "【おまけ】🐊🐊🐊🐊 体感型動物園iZoo公式テーマソング『iZooはいずこだ!?伊豆! iZoo!』 #一条莉々華 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1y021FoUDZQ",
       "status": "unreviewed",
       "note": null
     }

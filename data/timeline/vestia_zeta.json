@@ -1,7 +1,31 @@
 {
   "target": "vestia_zeta",
-  "count": 2018,
+  "count": 2020,
   "entries": [
+    {
+      "video_id": "lJ4H6KOqyFA",
+      "title": "i only have 1.5 hours to show off my rhythm game skills lol #ホロドリ",
+      "published_at": "20260724",
+      "url": "https://youtu.be/lJ4H6KOqyFA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lJ4H6KOqyFA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "smNYvzfWa04",
+      "title": "KITA ADALAH SERANGGA #shorts #kobo #onaeru  #vtuber #holoid",
+      "published_at": "20260724",
+      "url": "https://youtu.be/smNYvzfWa04",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/smNYvzfWa04/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "-6kQtn7Nz8A",
       "title": "【PLUS SURVEY - holoplus】 Episode 2: DO THEY SHARE THE SAME BRAINCELLS AS THE FANS?? 【Kureiji Ollie】",

@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1111,
+  "count": 1112,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12220,6 +12220,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JLE3AYgZEcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HJAIha3culk",
+      "title": "そういう競技だったんかい!#hololive #ホロライブ #hololiveenglish #holoadvent #安全",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HJAIha3culk",
       "status": "unreviewed",
       "note": null
     }

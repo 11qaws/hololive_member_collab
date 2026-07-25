@@ -1,6 +1,6 @@
 {
   "target": "akaihaato",
-  "count": 717,
+  "count": 718,
   "appearances": [
     {
       "video_id": "dKhLn-042Yo",
@@ -7886,6 +7886,17 @@
       "published_at": "20200217",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fPdJfzYNKEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t0CegIodyhg",
+      "title": "【Minecraft】放送事故…ネザーでちゃまたん会議【赤井はあと&天音かなた/ホロライブ】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t0CegIodyhg",
       "status": "unreviewed",
       "note": null
     }

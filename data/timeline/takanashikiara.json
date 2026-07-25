@@ -1,7 +1,19 @@
 {
   "target": "takanashikiara",
-  "count": 3000,
+  "count": 3001,
   "entries": [
+    {
+      "video_id": "0C5zs6WjtGI",
+      "title": "【ARKNIGHTS: ENDFIELD】BIG new story update and NEW WAIFU (manifesting luck) ✨ #kfp #pr",
+      "published_at": "20260725",
+      "url": "https://youtu.be/0C5zs6WjtGI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0C5zs6WjtGI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Hh124TzQLPI",
       "title": "【FINAL FANTASY VII REMAKE】havent i suffered enough? (ENDING) #kfp #キアライブ (spoiler warning)",
@@ -27,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "hUEB9BkKuPk",
+      "title": "【FINAL FANTASY VII REMAKE】dense male protagonist syndrome #kfp #キアライブ (spoiler warning)",
+      "published_at": "20260722",
+      "url": "https://youtu.be/hUEB9BkKuPk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hUEB9BkKuPk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Blen0XcU9gg",
       "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
       "published_at": "20260722",
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "hUEB9BkKuPk",
-      "title": "【FINAL FANTASY VII REMAKE】dense male protagonist syndrome #kfp #キアライブ (spoiler warning)",
-      "published_at": "20260721",
-      "url": "https://youtu.be/hUEB9BkKuPk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hUEB9BkKuPk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35979,24 +35991,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QjO79DLKmF4",
-      "title": "POLAROIDS!\nsend it in the current stream (3D aftertalk) to get one !!! dont forget to choose one!\n今日",
-      "published_at": "",
-      "url": "https://youtu.be/QjO79DLKmF4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QjO79DLKmF4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "wUlmWVtnU-4",
       "title": "Drawn to Dawn has concluded...\nI don't know if I have registered everything that happened these 2 da",
       "published_at": "",
       "url": "https://youtu.be/wUlmWVtnU-4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/wUlmWVtnU-4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QjO79DLKmF4",
+      "title": "POLAROIDS!\nsend it in the current stream (3D aftertalk) to get one !!! dont forget to choose one!\n今日",
+      "published_at": "",
+      "url": "https://youtu.be/QjO79DLKmF4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QjO79DLKmF4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

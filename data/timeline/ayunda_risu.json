@@ -1,7 +1,19 @@
 {
   "target": "ayunda_risu",
-  "count": 2804,
+  "count": 2805,
   "entries": [
+    {
+      "video_id": "smNYvzfWa04",
+      "title": "KITA ADALAH SERANGGA #shorts #kobo #onaeru  #vtuber #holoid",
+      "published_at": "20260724",
+      "url": "https://youtu.be/smNYvzfWa04",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/smNYvzfWa04/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "-6kQtn7Nz8A",
       "title": "【PLUS SURVEY - holoplus】 Episode 2: DO THEY SHARE THE SAME BRAINCELLS AS THE FANS?? 【Kureiji Ollie】",
@@ -711,24 +723,24 @@
       "paired_self": null
     },
     {
-      "video_id": "toMMyF1ZxKM",
-      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
-      "published_at": "20260622",
-      "url": "https://youtu.be/toMMyF1ZxKM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1PxEmKQvM70",
       "title": "【RISU VERSION】MIR//or 【KARAOKE】",
       "published_at": "20260622",
       "url": "https://youtu.be/1PxEmKQvM70",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1PxEmKQvM70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "toMMyF1ZxKM",
+      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+      "published_at": "20260622",
+      "url": "https://youtu.be/toMMyF1ZxKM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -33603,24 +33615,12 @@
       "paired_self": null
     },
     {
-      "video_id": "h_7u630S0Bk",
-      "title": "FIRST OF APRIL !!! IT'S UNARCHIVED KARAOKE TIME !! 🎤🎤🎤 Whar songs are we gonna sing ~? Tune in t",
+      "video_id": "L_uUweBx4_g",
+      "title": "APRIL FOOL IS HERE !!! We're gonna do the funny ! IF I act unseiso, the stream will end ! 😱😱😱😱😱",
       "published_at": "",
-      "url": "https://youtu.be/h_7u630S0Bk",
+      "url": "https://youtu.be/L_uUweBx4_g",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/h_7u630S0Bk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "cWZuAf3qk1Q",
-      "title": "test",
-      "published_at": "",
-      "url": "https://youtu.be/cWZuAf3qk1Q",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cWZuAf3qk1Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/L_uUweBx4_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -33639,12 +33639,24 @@
       "paired_self": null
     },
     {
-      "video_id": "L_uUweBx4_g",
-      "title": "APRIL FOOL IS HERE !!! We're gonna do the funny ! IF I act unseiso, the stream will end ! 😱😱😱😱😱",
+      "video_id": "h_7u630S0Bk",
+      "title": "FIRST OF APRIL !!! IT'S UNARCHIVED KARAOKE TIME !! 🎤🎤🎤 Whar songs are we gonna sing ~? Tune in t",
       "published_at": "",
-      "url": "https://youtu.be/L_uUweBx4_g",
+      "url": "https://youtu.be/h_7u630S0Bk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/L_uUweBx4_g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/h_7u630S0Bk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cWZuAf3qk1Q",
+      "title": "test",
+      "published_at": "",
+      "url": "https://youtu.be/cWZuAf3qk1Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cWZuAf3qk1Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

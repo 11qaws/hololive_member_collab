@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1513,
+  "count": 1515,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16642,6 +16642,28 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RmO3W0XA4J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bvaHq-LCbG4",
+      "title": "【 バイオハザード5 】フレわたでバイオ!クライマックスでやばいお!!!#最終回【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bvaHq-LCbG4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nT_n_fp9eDo",
+      "title": "【R.E.P.O.】深夜のコラボREPOでコスメティックを狙う　#突発ホロREPO【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nT_n_fp9eDo",
       "status": "unreviewed",
       "note": null
     }

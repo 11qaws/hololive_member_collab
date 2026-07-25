@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 955,
+  "count": 956,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10504,6 +10504,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y0VKPl07vLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "smNYvzfWa04",
+      "title": "KITA ADALAH SERANGGA #shorts #kobo #onaeru  #vtuber #holoid",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/smNYvzfWa04",
       "status": "unreviewed",
       "note": null
     }

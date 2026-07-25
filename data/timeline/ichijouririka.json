@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2583,
+  "count": 2587,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CFqlF8tsJeE",
+      "title": "大会本戦!!P.U.N.K.力を貸して…!!!!遊戯王 マスターデュエル パーク2 【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/CFqlF8tsJeE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CFqlF8tsJeE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MCUCNeWt-8o",
+      "title": "大会当日!顔合わせだあああ!!! 遊戯王 マスターデュエル パーク2 【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/MCUCNeWt-8o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MCUCNeWt-8o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GMIkqyE57yg",
+      "title": "マメリリカ 頭が良くなる雑学 #shorts",
+      "published_at": "20260724",
+      "url": "https://youtu.be/GMIkqyE57yg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMIkqyE57yg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1y021FoUDZQ",
+      "title": "【おまけ】🐊🐊🐊🐊 体感型動物園iZoo公式テーマソング『iZooはいずこだ!?伊豆! iZoo!』 #一条莉々華 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260724",
+      "url": "https://youtu.be/1y021FoUDZQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1y021FoUDZQ/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

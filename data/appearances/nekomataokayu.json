@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1658,
+  "count": 1659,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18237,6 +18237,17 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I7wIui0oKAE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vw3xdUYsE_0",
+      "title": "【超自然スクワッド】わちゃわちゃすぎるお宝探し!",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vw3xdUYsE_0",
       "status": "unreviewed",
       "note": null
     }

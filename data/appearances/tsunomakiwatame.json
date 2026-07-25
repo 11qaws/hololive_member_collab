@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1715,
+  "count": 1716,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18864,6 +18864,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7Cz7mK8-lRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5z8osqEvceo",
+      "title": "【生誕3Dライブ】星炎-Fierstra Diva-  #ニコたん生たん2026【虎金妃笑虎】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260718",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5z8osqEvceo",
       "status": "unreviewed",
       "note": null
     }

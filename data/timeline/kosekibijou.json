@@ -1,10 +1,22 @@
 {
   "target": "kosekibijou",
-  "count": 2374,
+  "count": 2376,
   "entries": [
     {
+      "video_id": "G007tD6tLt8",
+      "title": "【HOLOLIVE DREAMS】I'm in a gacha game oh no.",
+      "published_at": "20260724",
+      "url": "https://youtu.be/G007tD6tLt8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G007tD6tLt8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "eLFyb76AkjI",
-      "title": "【graondstone】we play a game :D",
+      "title": "【graondstone】we play a fishing game :D",
       "published_at": "20260724",
       "url": "https://youtu.be/eLFyb76AkjI",
       "entry_type": "stream",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/D7EnNgJDQXd/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HJAIha3culk",
+      "title": "そういう競技だったんかい!#hololive #ホロライブ #hololiveenglish #holoadvent #安全",
+      "published_at": "20260724",
+      "url": "https://youtu.be/HJAIha3culk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HJAIha3culk/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,7 +1,31 @@
 {
   "target": "nekomataokayu",
-  "count": 3924,
+  "count": 3926,
   "entries": [
+    {
+      "video_id": "zoe_UJjS4Y4",
+      "title": "【 FF7リバース 】みんなと冒険だああ!! #03 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "published_at": "20260724",
+      "url": "https://youtu.be/zoe_UJjS4Y4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zoe_UJjS4Y4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vw3xdUYsE_0",
+      "title": "【超自然スクワッド】わちゃわちゃすぎるお宝探し!",
+      "published_at": "20260724",
+      "url": "https://youtu.be/vw3xdUYsE_0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vw3xdUYsE_0/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "wsnmUBn1g3Y",
       "title": "【 パワプロ2026 】初めての栄冠ナイン!! 2年目夏甲子園から🌞【 猫又おかゆ/ホロライブ 】#パワプロケモミミリーグ",
@@ -27,21 +51,9 @@
       "paired_self": null
     },
     {
-      "video_id": "Blen0XcU9gg",
-      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
-      "published_at": "20260722",
-      "url": "https://youtu.be/Blen0XcU9gg",
-      "entry_type": "collab",
-      "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
-      "partner_handle": "hololive",
-      "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1753Taop1N8",
       "title": "【 🔴R.E.P.O. 】#スバおか 初心者しかいないREPO🔰【 猫又おかゆ支店/ホロライブ 】",
-      "published_at": "20260721",
+      "published_at": "20260722",
       "url": "https://youtu.be/1753Taop1N8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1753Taop1N8/mqdefault.jpg",
@@ -52,13 +64,25 @@
     },
     {
       "video_id": "hOgLHTiFn30",
-      "title": "もしも～し 聞こえてる？",
-      "published_at": "20260721",
+      "title": "もしも~し 聞こえてる?",
+      "published_at": "20260722",
       "url": "https://youtu.be/hOgLHTiFn30",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hOgLHTiFn30/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Blen0XcU9gg",
+      "title": "【3D】ホロライブNo.1パープル決定戦!?【#パープル争奪戦】",
+      "published_at": "20260722",
+      "url": "https://youtu.be/Blen0XcU9gg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
