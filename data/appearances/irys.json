@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1094,
+  "count": 1095,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12033,6 +12033,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uLvilDwP6HE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2jViS4EIDVg",
+      "title": "【THE AMAZING DIGITAL CIRCUS ON STREAM WATCHALONG】LET'S WATCH THE FULL THING!",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2jViS4EIDVg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1573,
+  "count": 1574,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17302,6 +17302,17 @@
       "published_at": "20260707",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TQmcUxtKYxA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ikhbg7qIUkQ",
+      "title": "それ爆発するイオフィ!!イオフィ!!!#REPO",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ikhbg7qIUkQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1032,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11351,6 +11351,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nOr_wGi3QKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L2bT6Y2KHv8",
+      "title": "リオナと枢で恋風踊ってみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L2bT6Y2KHv8",
       "status": "unreviewed",
       "note": null
     }

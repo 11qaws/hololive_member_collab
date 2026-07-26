@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1418,
+  "count": 1419,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15597,6 +15597,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/T4rUBNWmKfA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DENKjONUpB8",
+      "title": "【#ホロ謎解き部】4人には異界「後悔の迷宮」に挑んでもらいます。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DENKjONUpB8",
       "status": "unreviewed",
       "note": null
     }

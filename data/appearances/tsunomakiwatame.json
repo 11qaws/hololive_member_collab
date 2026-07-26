@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1716,
+  "count": 1718,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18875,6 +18875,28 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5z8osqEvceo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W6ElEhnxK7I",
+      "title": "#04 【バイオハザード５】フレわたのわちゃわちゃ劇場感動の最終回！？【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W6ElEhnxK7I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ikhbg7qIUkQ",
+      "title": "それ爆発するイオフィ!!イオフィ!!!#REPO",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ikhbg7qIUkQ",
       "status": "unreviewed",
       "note": null
     }

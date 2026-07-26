@@ -1,10 +1,22 @@
 {
   "target": "nekomataokayu",
-  "count": 3926,
+  "count": 3927,
   "entries": [
     {
+      "video_id": "RKqVFt2gMCg",
+      "title": "【 FF7リバース 】みんなと冒険だああ!! #04 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "published_at": "20260725",
+      "url": "https://youtu.be/RKqVFt2gMCg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RKqVFt2gMCg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "zoe_UJjS4Y4",
-      "title": "【 FF7リバース 】みんなと冒険だああ!! #03 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "title": "【 FF7リバース 】みんなと冒険だああ!! #03 | FINAL FANTASY VII REBIRTH 【 猫又おかゆ/ホロライブ 】※ネタバレあり",
       "published_at": "20260724",
       "url": "https://youtu.be/zoe_UJjS4Y4",
       "entry_type": "stream",
@@ -41,7 +53,7 @@
     {
       "video_id": "wA2K3usJhno",
       "title": "【 3Dコラボ 】地獄くじ引き一緒に引いて絆を深めよう💜🤝💜【 猫又おかゆ / ラプラス・ダークネス / ホロライブ 】",
-      "published_at": "20260722",
+      "published_at": "20260723",
       "url": "https://youtu.be/wA2K3usJhno",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/wA2K3usJhno/mqdefault.jpg",
@@ -29043,24 +29055,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jQFxkLtrl3c",
-      "title": "毒杯スワロウ",
-      "published_at": "20220725",
-      "url": "https://youtu.be/jQFxkLtrl3c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oM68RFoEi1M",
       "title": "毒杯スワロウ (Instrumental)",
       "published_at": "20220725",
       "url": "https://youtu.be/oM68RFoEi1M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jQFxkLtrl3c",
+      "title": "毒杯スワロウ",
+      "published_at": "20220725",
+      "url": "https://youtu.be/jQFxkLtrl3c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

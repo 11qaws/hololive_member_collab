@@ -1,7 +1,19 @@
 {
   "target": "hololiveenglish",
-  "count": 652,
+  "count": 653,
   "entries": [
+    {
+      "video_id": "jTf2j9yMLoc",
+      "title": "\"Go for her neck.\" --The demon dog who sold her sister.  #hololiveenglish #hololive #holoEN3drepeat",
+      "published_at": "20260726",
+      "url": "https://youtu.be/jTf2j9yMLoc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jTf2j9yMLoc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "u8L9ZX4ZYgY",
       "title": "The big pink cat you didn't know you needed today 🐱🎶",
@@ -7683,24 +7695,24 @@
       "paired_self": null
     },
     {
-      "video_id": "xAp6QzMlTEY",
-      "title": "兆し|#holoENOmen",
-      "published_at": "20210815",
-      "url": "https://youtu.be/xAp6QzMlTEY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BOWi6Pclr48",
       "title": "Omen|#holoENOmen",
       "published_at": "20210815",
       "url": "https://youtu.be/BOWi6Pclr48",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BOWi6Pclr48/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xAp6QzMlTEY",
+      "title": "兆し|#holoENOmen",
+      "published_at": "20210815",
+      "url": "https://youtu.be/xAp6QzMlTEY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

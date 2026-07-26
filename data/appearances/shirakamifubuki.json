@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3266,
+  "count": 3267,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35925,6 +35925,17 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I6L9hnGCpwk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ikhbg7qIUkQ",
+      "title": "それ爆発するイオフィ!!イオフィ!!!#REPO",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ikhbg7qIUkQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1637,
+  "count": 1638,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18006,6 +18006,17 @@
       "published_at": "20260721",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pCZg-iYaDg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BMtdhvzgG_g",
+      "title": "【ホロドリ】ぺこマリでガチャ並走！どっちが★5たくさん引ける？！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BMtdhvzgG_g",
       "status": "unreviewed",
       "note": null
     }

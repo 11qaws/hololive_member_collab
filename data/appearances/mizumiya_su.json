@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1083,
+  "count": 1085,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -11912,6 +11912,28 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nOr_wGi3QKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ikhbg7qIUkQ",
+      "title": "それ爆発するイオフィ!!イオフィ!!!#REPO",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ikhbg7qIUkQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L2bT6Y2KHv8",
+      "title": "リオナと枢で恋風踊ってみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L2bT6Y2KHv8",
       "status": "unreviewed",
       "note": null
     }

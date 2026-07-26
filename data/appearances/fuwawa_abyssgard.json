@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1112,
+  "count": 1113,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12231,6 +12231,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HJAIha3culk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VW2Jg618VnI",
+      "title": "【Troll 2 MOVIE Watchalong】 Oh my GOOOOOOOOOOOOOOOOOOOOOSH!",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VW2Jg618VnI",
       "status": "unreviewed",
       "note": null
     }

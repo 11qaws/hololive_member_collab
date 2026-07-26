@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1027,
+  "count": 1028,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11296,6 +11296,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HJAIha3culk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GpFkh-QWq6U",
+      "title": "今日はネリッサ先輩とRing my name🌹 #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GpFkh-QWq6U",
       "status": "unreviewed",
       "note": null
     }

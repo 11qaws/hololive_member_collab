@@ -1,7 +1,19 @@
 {
   "target": "hoshimachisuisei",
-  "count": 2995,
+  "count": 2996,
   "entries": [
+    {
+      "video_id": "DENKjONUpB8",
+      "title": "【#ホロ謎解き部】4人には異界「後悔の迷宮」に挑んでもらいます。【ホロライブ/白上フブキ】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/DENKjONUpB8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DENKjONUpB8/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "R5nosbi9T5o",
       "title": "目があうと魔法がかかっちゃうカモ⁉️ #星街すいせい #すいちゃんは今日も可愛い #vtuber",
@@ -2799,18 +2811,6 @@
       "paired_self": null
     },
     {
-      "video_id": "2kp67GHIIXQ",
-      "title": "comet (TAKU INOUE Remix)",
-      "published_at": "20251226",
-      "url": "https://youtu.be/2kp67GHIIXQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/2kp67GHIIXQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "GBf_dIZUVIc",
       "title": "月に向かって撃て",
       "published_at": "20251226",
@@ -2823,12 +2823,12 @@
       "paired_self": null
     },
     {
-      "video_id": "S2PZC0vFsbs",
-      "title": "月に向かって撃て (TVアニメver.)",
+      "video_id": "2kp67GHIIXQ",
+      "title": "comet (TAKU INOUE Remix)",
       "published_at": "20251226",
-      "url": "https://youtu.be/S2PZC0vFsbs",
+      "url": "https://youtu.be/2kp67GHIIXQ",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2kp67GHIIXQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2853,6 +2853,18 @@
       "url": "https://youtu.be/y8Md0KNRMZQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/y8Md0KNRMZQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S2PZC0vFsbs",
+      "title": "月に向かって撃て (TVアニメver.)",
+      "published_at": "20251226",
+      "url": "https://youtu.be/S2PZC0vFsbs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -7371,24 +7383,24 @@
       "paired_self": null
     },
     {
-      "video_id": "1dNw1KeKJxU",
-      "title": "綺麗事",
-      "published_at": "20250121",
-      "url": "https://youtu.be/1dNw1KeKJxU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1dNw1KeKJxU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5CvGNEi7RMM",
       "title": "ビーナスバグ",
       "published_at": "20250121",
       "url": "https://youtu.be/5CvGNEi7RMM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5CvGNEi7RMM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1dNw1KeKJxU",
+      "title": "綺麗事",
+      "published_at": "20250121",
+      "url": "https://youtu.be/1dNw1KeKJxU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1dNw1KeKJxU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25551,12 +25563,12 @@
       "paired_self": null
     },
     {
-      "video_id": "9FAjJP5um9c",
-      "title": "駆けろ",
+      "video_id": "OF3W2m4lh2M",
+      "title": "天球、彗星は夜を跨いで",
       "published_at": "20210709",
-      "url": "https://youtu.be/9FAjJP5um9c",
+      "url": "https://youtu.be/OF3W2m4lh2M",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25575,24 +25587,24 @@
       "paired_self": null
     },
     {
-      "video_id": "tHR9WFXBtjA",
-      "title": "天球、彗星は夜を跨いで(Instrumental)",
+      "video_id": "9FAjJP5um9c",
+      "title": "駆けろ",
       "published_at": "20210709",
-      "url": "https://youtu.be/tHR9WFXBtjA",
+      "url": "https://youtu.be/9FAjJP5um9c",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tHR9WFXBtjA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
     {
-      "video_id": "OF3W2m4lh2M",
-      "title": "天球、彗星は夜を跨いで",
+      "video_id": "tHR9WFXBtjA",
+      "title": "天球、彗星は夜を跨いで(Instrumental)",
       "published_at": "20210709",
-      "url": "https://youtu.be/OF3W2m4lh2M",
+      "url": "https://youtu.be/tHR9WFXBtjA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/tHR9WFXBtjA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25707,6 +25719,18 @@
       "paired_self": null
     },
     {
+      "video_id": "vCaVl0BxeqA",
+      "title": "Bluerose",
+      "published_at": "20210628",
+      "url": "https://youtu.be/vCaVl0BxeqA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "-qnJEqg1iqo",
       "title": "comet",
       "published_at": "20210628",
@@ -25725,18 +25749,6 @@
       "url": "https://youtu.be/mRIMbLlkbhk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/mRIMbLlkbhk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "vCaVl0BxeqA",
-      "title": "Bluerose",
-      "published_at": "20210628",
-      "url": "https://youtu.be/vCaVl0BxeqA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
