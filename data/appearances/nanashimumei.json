@@ -1,6 +1,6 @@
 {
   "target": "nanashimumei",
-  "count": 677,
+  "count": 678,
   "appearances": [
     {
       "video_id": "3n1AThmEii8",
@@ -7446,6 +7446,17 @@
       "published_at": "20231102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YQuwPNdU5L8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WHOsFw-00l4",
+      "title": "Ghost Rule",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20230314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WHOsFw-00l4",
       "status": "unreviewed",
       "note": null
     }

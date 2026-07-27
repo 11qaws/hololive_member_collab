@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1325,
+  "count": 1326,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14574,6 +14574,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w7jCD1uO3H8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fDblSFY7fo4",
+      "title": "【レーシングマスター】4人でレース開幕!!|ラミィ視点【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fDblSFY7fo4",
       "status": "unreviewed",
       "note": null
     }

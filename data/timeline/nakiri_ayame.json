@@ -1,7 +1,19 @@
 {
   "target": "nakiri_ayame",
-  "count": 1689,
+  "count": 1690,
   "entries": [
+    {
+      "video_id": "DENKjONUpB8",
+      "title": "【#ホロ謎解き部】４人には異界「後悔の迷宮」に挑んでもらいます。【ホロライブ/白上フブキ】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/DENKjONUpB8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DENKjONUpB8/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "w7jCD1uO3H8",
       "title": "【新ボイス】いっしょに作業しよっか♪",
@@ -111,12 +123,12 @@
       "paired_self": null
     },
     {
-      "video_id": "lPLL0NOqm3g",
-      "title": "禍津百鬼、黄泉を裂きて天を侵す",
+      "video_id": "Elt_AThFeUs",
+      "title": "神殺荒魂",
       "published_at": "20260706",
-      "url": "https://youtu.be/lPLL0NOqm3g",
+      "url": "https://youtu.be/Elt_AThFeUs",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/lPLL0NOqm3g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Elt_AThFeUs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -135,36 +147,12 @@
       "paired_self": null
     },
     {
-      "video_id": "nMJxgUR5HpQ",
-      "title": "独虚残生",
+      "video_id": "lPLL0NOqm3g",
+      "title": "禍津百鬼、黄泉を裂きて天を侵す",
       "published_at": "20260706",
-      "url": "https://youtu.be/nMJxgUR5HpQ",
+      "url": "https://youtu.be/lPLL0NOqm3g",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nMJxgUR5HpQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "R6TtWftz_-0",
-      "title": "気炎万丈",
-      "published_at": "20260706",
-      "url": "https://youtu.be/R6TtWftz_-0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/R6TtWftz_-0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Elt_AThFeUs",
-      "title": "神殺荒魂",
-      "published_at": "20260706",
-      "url": "https://youtu.be/Elt_AThFeUs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Elt_AThFeUs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/lPLL0NOqm3g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -183,12 +171,36 @@
       "paired_self": null
     },
     {
+      "video_id": "nMJxgUR5HpQ",
+      "title": "独虚残生",
+      "published_at": "20260706",
+      "url": "https://youtu.be/nMJxgUR5HpQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nMJxgUR5HpQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "SpgG8etqRw8",
       "title": "痕 (-百鬼-Ver)",
       "published_at": "20260706",
       "url": "https://youtu.be/SpgG8etqRw8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SpgG8etqRw8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "R6TtWftz_-0",
+      "title": "気炎万丈",
+      "published_at": "20260706",
+      "url": "https://youtu.be/R6TtWftz_-0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/R6TtWftz_-0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -567,24 +579,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5VS7gbKt46U",
-      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
-      "published_at": "20260419",
-      "url": "https://youtu.be/5VS7gbKt46U",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5VS7gbKt46U/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "4SwHoqp58qM",
       "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
       "published_at": "20260419",
       "url": "https://youtu.be/4SwHoqp58qM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/4SwHoqp58qM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5VS7gbKt46U",
+      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
+      "published_at": "20260419",
+      "url": "https://youtu.be/5VS7gbKt46U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5VS7gbKt46U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

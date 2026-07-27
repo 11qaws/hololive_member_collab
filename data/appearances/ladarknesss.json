@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1006,
+  "count": 1008,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11065,6 +11065,28 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IbyN7S23r9Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B3OXwTGm0Hw",
+      "title": "Lip-Sync",
+      "channel_handle": "murasakishion",
+      "channel_name": "Shion Ch. 紫咲シオン",
+      "published_at": "20230314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B3OXwTGm0Hw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kIxh2oQdMm0",
+      "title": "Lip-Sync",
+      "channel_handle": "murasakishion",
+      "channel_name": "Shion Ch. 紫咲シオン",
+      "published_at": "20221219",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kIxh2oQdMm0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1096,
+  "count": 1097,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12055,6 +12055,17 @@
       "published_at": "20260715",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8FaW645nD7I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_Si_8iyJkJA",
+      "title": "【オフコラボ】かなたが愛した女たち ~今だから語れるエピソード~【ホロライブ / AZKi / 戌神ころね / 雪花ラミィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_Si_8iyJkJA",
       "status": "unreviewed",
       "note": null
     }

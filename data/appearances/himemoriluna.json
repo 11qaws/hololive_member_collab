@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1018,
+  "count": 1019,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11197,6 +11197,17 @@
       "published_at": "20200217",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fPdJfzYNKEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fDblSFY7fo4",
+      "title": "【レーシングマスター】4人でレース開幕!!|ラミィ視点【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fDblSFY7fo4",
       "status": "unreviewed",
       "note": null
     }

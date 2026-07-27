@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1877,
+  "count": 1878,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20646,6 +20646,17 @@
       "published_at": "20260716",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WJWg8kGKoP0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5MRnzq5y6S0",
+      "title": "【アニメ】世界一過酷な​訓練を​受けさせられた​結果…",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5MRnzq5y6S0",
       "status": "unreviewed",
       "note": null
     }

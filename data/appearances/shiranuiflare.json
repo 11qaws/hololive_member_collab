@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1515,
+  "count": 1516,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16664,6 +16664,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nT_n_fp9eDo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JlTQaZE2fVk",
+      "title": "【ポッピュコム / POPUCOM】 協力だー！！！パズルだ！！！PUZZLES AND FUN!!!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JlTQaZE2fVk",
       "status": "unreviewed",
       "note": null
     }

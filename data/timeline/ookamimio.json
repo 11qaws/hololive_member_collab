@@ -1,7 +1,31 @@
 {
   "target": "ookamimio",
-  "count": 3997,
+  "count": 3999,
   "entries": [
+    {
+      "video_id": "vaA9RCNW8Z8",
+      "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
+      "published_at": "20260726",
+      "url": "https://youtu.be/vaA9RCNW8Z8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vaA9RCNW8Z8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5MRnzq5y6S0",
+      "title": "【アニメ】世界一過酷な​訓練を​受けさせられた​結果…",
+      "published_at": "20260726",
+      "url": "https://youtu.be/5MRnzq5y6S0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5MRnzq5y6S0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "zJH6Wz946_U",
       "title": "【リズム天国ミラクルスターズ】やるタイミング逃してたけど、楽しみにしておりました【ホロライブ/大神ミオ】",

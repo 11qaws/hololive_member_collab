@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1718,
+  "count": 1719,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18897,6 +18897,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ikhbg7qIUkQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5MRnzq5y6S0",
+      "title": "【アニメ】世界一過酷な​訓練を​受けさせられた​結果…",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5MRnzq5y6S0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2046,
+  "count": 2047,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JGj6nmJHHAQ",
+      "title": "【 #奏ちゃんを返せ 】名前を返してください。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260726",
+      "url": "https://youtu.be/JGj6nmJHHAQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JGj6nmJHHAQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1403,
+  "count": 1404,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15432,6 +15432,17 @@
       "published_at": "20260718",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5z8osqEvceo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jTf2j9yMLoc",
+      "title": "\"Go for her neck.\" --The demon dog who sold her sister.  #hololiveenglish #hololive #holoEN3drepeat",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jTf2j9yMLoc",
       "status": "unreviewed",
       "note": null
     }

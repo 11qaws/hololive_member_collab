@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 147,
+  "count": 148,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1616,6 +1616,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hOOw2IWdZnI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-J7QLibOWkA",
+      "title": "【#桐生ココ爆誕祭】お誕生日記念!プレゼント凸待ち!【ホロライブ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200617",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-J7QLibOWkA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1419,
+  "count": 1420,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15608,6 +15608,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DENKjONUpB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yn1DOjXiUFE",
+      "title": "Baby Don't Stop",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20230314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yn1DOjXiUFE",
       "status": "unreviewed",
       "note": null
     }

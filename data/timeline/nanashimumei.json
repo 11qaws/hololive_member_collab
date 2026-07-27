@@ -1,6 +1,6 @@
 {
   "target": "nanashimumei",
-  "count": 1333,
+  "count": 1334,
   "entries": [
     {
       "video_id": "9qkkPOD85YE",
@@ -7631,6 +7631,18 @@
       "thumbnail": "https://img.youtube.com/vi/NkJt2kg9RwQ/mqdefault.jpg",
       "partner_handle": "ourokronii",
       "partner_name": "Ouro Kronii Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WHOsFw-00l4",
+      "title": "Ghost Rule",
+      "published_at": "20230314",
+      "url": "https://youtu.be/WHOsFw-00l4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WHOsFw-00l4/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
