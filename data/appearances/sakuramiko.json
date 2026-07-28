@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2241,
+  "count": 2243,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24650,6 +24650,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qACbRJSpxXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PBwuXFKQcNM",
+      "title": "【hololive Dreams】 GOING FOR A HIGHSCORE!! POKAJAN POKAJAN!!!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PBwuXFKQcNM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "159TwnYzu28",
+      "title": "【ホロドリ】ホロメン各位ー！！！！！ポカジャンしませんか凸待ち！！！！！！【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/159TwnYzu28",
       "status": "unreviewed",
       "note": null
     }

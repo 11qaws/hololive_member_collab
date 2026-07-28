@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1276,
+  "count": 1277,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14035,6 +14035,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1y021FoUDZQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qZS6e6ZxlL8",
+      "title": "【見えちゃった?】可愛い自撮りのはずが… #hololive #ホロライブ #撮影",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qZS6e6ZxlL8",
       "status": "unreviewed",
       "note": null
     }

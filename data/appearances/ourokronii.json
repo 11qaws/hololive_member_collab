@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1007,
+  "count": 1008,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11076,6 +11076,17 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/peibFeGeBbS",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oXReodrHcS0",
+      "title": "【Sons Of The Forest】PizzaTimeSmith in a Forest",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oXReodrHcS0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1574,
+  "count": 1575,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17313,6 +17313,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ikhbg7qIUkQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l-6MH204aH8",
+      "title": "本気の罰ゲームってなんだろう ────",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l-6MH204aH8",
       "status": "unreviewed",
       "note": null
     }

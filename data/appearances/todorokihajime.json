@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1124,
+  "count": 1125,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12363,6 +12363,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mgzVUzWysWk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qZS6e6ZxlL8",
+      "title": "【見えちゃった?】可愛い自撮りのはずが… #hololive #ホロライブ #撮影",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qZS6e6ZxlL8",
       "status": "unreviewed",
       "note": null
     }

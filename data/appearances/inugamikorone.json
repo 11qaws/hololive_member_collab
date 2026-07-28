@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1097,
+  "count": 1099,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12066,6 +12066,28 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_Si_8iyJkJA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bus1nuOZzn8",
+      "title": "ギミギミエンターテイメント",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bus1nuOZzn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NY4jLVGEgkc",
+      "title": "ギミギミエンターテイメント (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NY4jLVGEgkc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1046,
+  "count": 1049,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11505,6 +11505,39 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eLFyb76AkjI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oXReodrHcS0",
+      "title": "【Sons Of The Forest】PizzaTimeSmith in a Forest",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oXReodrHcS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bus1nuOZzn8",
+      "title": "ギミギミエンターテイメント",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bus1nuOZzn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NY4jLVGEgkc",
+      "title": "ギミギミエンターテイメント (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NY4jLVGEgkc",
       "status": "unreviewed",
       "note": null
     }

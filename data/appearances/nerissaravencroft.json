@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1028,
+  "count": 1030,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11307,6 +11307,28 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GpFkh-QWq6U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bus1nuOZzn8",
+      "title": "ギミギミエンターテイメント",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bus1nuOZzn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NY4jLVGEgkc",
+      "title": "ギミギミエンターテイメント (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NY4jLVGEgkc",
       "status": "unreviewed",
       "note": null
     }

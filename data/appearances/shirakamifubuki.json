@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3267,
+  "count": 3268,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35936,6 +35936,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ikhbg7qIUkQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PBwuXFKQcNM",
+      "title": "【hololive Dreams】 GOING FOR A HIGHSCORE!! POKAJAN POKAJAN!!!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PBwuXFKQcNM",
       "status": "unreviewed",
       "note": null
     }

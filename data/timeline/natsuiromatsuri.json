@@ -1,7 +1,43 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3773,
+  "count": 3777,
   "entries": [
+    {
+      "video_id": "BxaTkJQhRaQ",
+      "title": "【ホロライブドリームス】夏だ！水着だ！イベントだ！！【ホロライブ/夏色まつり】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/BxaTkJQhRaQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BxaTkJQhRaQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PBwuXFKQcNM",
+      "title": "【hololive Dreams】 GOING FOR A HIGHSCORE!! POKAJAN POKAJAN!!!! 【Kureiji Ollie】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/PBwuXFKQcNM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PBwuXFKQcNM/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "159TwnYzu28",
+      "title": "【ホロドリ】ホロメン各位ー！！！！！ポカジャンしませんか凸待ち！！！！！！【ホロライブ/白上フブキ】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/159TwnYzu28",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/159TwnYzu28/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "fDblSFY7fo4",
       "title": "【レーシングマスター】4人でレース開幕!!|ラミィ視点【雪花ラミィ /ホロライブ】",
@@ -11,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/fDblSFY7fo4/mqdefault.jpg",
       "partner_handle": "yukihanalamy",
       "partner_name": "Lamy Ch. 雪花ラミィ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G9StjYx5rOA",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました!🏎【ホロライブ/夏色まつり】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/G9StjYx5rOA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G9StjYx5rOA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

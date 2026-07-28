@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 708,
+  "count": 709,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7787,6 +7787,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eLFyb76AkjI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CWCRroEiwZo",
+      "title": "【Sons Of The Forest】we've been waiting for this collab for 10.000 years【PIZZATIMESMITH】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CWCRroEiwZo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 1948,
+  "count": 1950,
   "entries": [
     {
       "video_id": "UwL8L6KjYP8",
@@ -17,7 +17,7 @@
     {
       "video_id": "VW2Jg618VnI",
       "title": "【Troll 2 MOVIE Watchalong】 Oh my GOOOOOOOOOOOOOOOOOOOOOSH!",
-      "published_at": "20260724",
+      "published_at": "20260726",
       "url": "https://youtu.be/VW2Jg618VnI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/VW2Jg618VnI/mqdefault.jpg",
@@ -45,6 +45,30 @@
       "url": "https://youtu.be/HJAIha3culk",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/HJAIha3culk/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bus1nuOZzn8",
+      "title": "ギミギミエンターテイメント",
+      "published_at": "20260724",
+      "url": "https://youtu.be/bus1nuOZzn8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bus1nuOZzn8/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NY4jLVGEgkc",
+      "title": "ギミギミエンターテイメント (Instrumental)",
+      "published_at": "20260724",
+      "url": "https://youtu.be/NY4jLVGEgkc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NY4jLVGEgkc/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

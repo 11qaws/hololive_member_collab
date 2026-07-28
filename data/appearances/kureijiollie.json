@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1362,
+  "count": 1363,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -14981,6 +14981,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/smNYvzfWa04",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "159TwnYzu28",
+      "title": "【ホロドリ】ホロメン各位ー！！！！！ポカジャンしませんか凸待ち！！！！！！【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/159TwnYzu28",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1638,
+  "count": 1639,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18017,6 +18017,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BMtdhvzgG_g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gh23DYnNskw",
+      "title": "≪Self 3D KARAOKE≫ Pre-Lucky Fes KARAOKE w/ Houshou Marine",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gh23DYnNskw",
       "status": "unreviewed",
       "note": null
     }
