@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2631,
+  "count": 2633,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "94gGlcnvnUM",
+      "title": "『キュートなキューたい』- CUTIE STREET || Dance Cover #hakosbaelz #hololive #vtuber #dance #shorts #キューピカダンス",
+      "published_at": "20260728",
+      "url": "https://youtu.be/94gGlcnvnUM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/94gGlcnvnUM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VhaWvzgi9zQ",
+      "title": "【 空耳 】英語版Siriに聞かせた元の日本語を当てろッ!!【ホロライブ/夏色まつり】",
+      "published_at": "20260728",
+      "url": "https://youtu.be/VhaWvzgi9zQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VhaWvzgi9zQ/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },
@@ -41,7 +65,7 @@
     {
       "video_id": "TU0hJVmSQSk",
       "title": "≪hololive Dreams≫ MORE HOLODORI!!!",
-      "published_at": "20260726",
+      "published_at": "20260727",
       "url": "https://youtu.be/TU0hJVmSQSk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TU0hJVmSQSk/mqdefault.jpg",

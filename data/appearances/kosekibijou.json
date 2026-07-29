@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1428,
+  "count": 1429,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15707,6 +15707,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HJAIha3culk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lIU0GTAL4Iq",
+      "title": "-Advent- 3rd Anniversary Off-Collab",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lIU0GTAL4Iq",
       "status": "unreviewed",
       "note": null
     }

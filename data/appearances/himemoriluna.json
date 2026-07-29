@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1019,
+  "count": 1023,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11208,6 +11208,50 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fDblSFY7fo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L8tcseL2jJs",
+      "title": "【ロードモバイル】ルーナたんと#ローモバ やるよ~!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L8tcseL2jJs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X8j2AY48TCY",
+      "title": "【レーシングマスター】先輩たちとレースするぞ～～～！！！！#PR 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X8j2AY48TCY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G9StjYx5rOA",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました！🏎【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G9StjYx5rOA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUW6CcY-Yf0",
+      "title": "【#天音かなた3D】天音かなた3Dお披露目!いっぱい見てっ!【#JointhefutureJP】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUW6CcY-Yf0",
       "status": "unreviewed",
       "note": null
     }

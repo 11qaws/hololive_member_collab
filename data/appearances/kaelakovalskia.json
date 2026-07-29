@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1049,
+  "count": 1050,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11538,6 +11538,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NY4jLVGEgkc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6X5_qH5W3bY",
+      "title": "【Sons Of The Forest】Don't Eat That",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6X5_qH5W3bY",
       "status": "unreviewed",
       "note": null
     }

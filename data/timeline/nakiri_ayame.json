@@ -1,7 +1,19 @@
 {
   "target": "nakiri_ayame",
-  "count": 1683,
+  "count": 1684,
   "entries": [
+    {
+      "video_id": "3x5AtSwnldA",
+      "title": "【新ボイス】お隣の幼なじみと、距離が近づく夜",
+      "published_at": "20260727",
+      "url": "https://youtu.be/3x5AtSwnldA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3x5AtSwnldA/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "DENKjONUpB8",
       "title": "【#ホロ謎解き部】４人には異界「後悔の迷宮」に挑んでもらいます。【ホロライブ/白上フブキ】",
@@ -495,24 +507,24 @@
       "paired_self": null
     },
     {
-      "video_id": "4SwHoqp58qM",
-      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
-      "published_at": "20260419",
-      "url": "https://youtu.be/4SwHoqp58qM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/4SwHoqp58qM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5VS7gbKt46U",
       "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
       "published_at": "20260419",
       "url": "https://youtu.be/5VS7gbKt46U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5VS7gbKt46U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4SwHoqp58qM",
+      "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食!!【百鬼あやめ/ホロライブ】",
+      "published_at": "20260419",
+      "url": "https://youtu.be/4SwHoqp58qM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4SwHoqp58qM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -10695,24 +10707,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Z_9B2J1z_vY",
-      "title": "宵の余、良い! (Instrumental)",
-      "published_at": "20211005",
-      "url": "https://youtu.be/Z_9B2J1z_vY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Z_9B2J1z_vY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "uQR_JZpYAEU",
       "title": "宵の余、良い!",
       "published_at": "20211005",
       "url": "https://youtu.be/uQR_JZpYAEU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/uQR_JZpYAEU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Z_9B2J1z_vY",
+      "title": "宵の余、良い! (Instrumental)",
+      "published_at": "20211005",
+      "url": "https://youtu.be/Z_9B2J1z_vY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Z_9B2J1z_vY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

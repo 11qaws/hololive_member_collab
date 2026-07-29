@@ -1,6 +1,6 @@
 {
   "target": "kiryucoco",
-  "count": 404,
+  "count": 405,
   "appearances": [
     {
       "video_id": "8WphWiNYbzk",
@@ -4443,6 +4443,17 @@
       "published_at": "20200712",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/25wGzLctaj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUW6CcY-Yf0",
+      "title": "【#天音かなた3D】天音かなた3Dお披露目!いっぱい見てっ!【#JointhefutureJP】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUW6CcY-Yf0",
       "status": "unreviewed",
       "note": null
     }

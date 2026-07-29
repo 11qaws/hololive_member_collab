@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1112,
+  "count": 1113,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12231,6 +12231,17 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jTf2j9yMLoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lIU0GTAL4Iq",
+      "title": "-Advent- 3rd Anniversary Off-Collab",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lIU0GTAL4Iq",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1559,
+  "count": 1561,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17148,6 +17148,28 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NY4jLVGEgkc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6P_QNG1al3Q",
+      "title": "【ホロドリ】ぺこマリで水着ガチャバトル！水着コンプリートできるのはどっちだ！！【ホロライブ/宝鐘マリン・兎田ぺこら】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6P_QNG1al3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUW6CcY-Yf0",
+      "title": "【#天音かなた3D】天音かなた3Dお披露目!いっぱい見てっ!【#JointhefutureJP】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUW6CcY-Yf0",
       "status": "unreviewed",
       "note": null
     }

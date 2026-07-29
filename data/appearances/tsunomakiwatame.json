@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1719,
+  "count": 1721,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18908,6 +18908,28 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5MRnzq5y6S0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ESNEhdG4TnY",
+      "title": "#05 【バイオハザード５】フレわたのわちゃわちゃ劇場DLC編【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ESNEhdG4TnY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUW6CcY-Yf0",
+      "title": "【#天音かなた3D】天音かなた3Dお披露目!いっぱい見てっ!【#JointhefutureJP】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUW6CcY-Yf0",
       "status": "unreviewed",
       "note": null
     }

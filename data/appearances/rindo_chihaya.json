@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1203,
+  "count": 1205,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13232,6 +13232,28 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5MRnzq5y6S0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X7-PtVffuaY",
+      "title": "【 レーシングマスター 】みんなで勝利を目指すのら！！！【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X7-PtVffuaY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G9StjYx5rOA",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました！🏎【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G9StjYx5rOA",
       "status": "unreviewed",
       "note": null
     }

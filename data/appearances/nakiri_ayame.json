@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 897,
+  "count": 898,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -9866,6 +9866,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DENKjONUpB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3x5AtSwnldA",
+      "title": "【新ボイス】お隣の幼なじみと、距離が近づく夜",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3x5AtSwnldA",
       "status": "unreviewed",
       "note": null
     }

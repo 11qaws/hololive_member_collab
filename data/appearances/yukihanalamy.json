@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1310,
+  "count": 1313,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14409,6 +14409,39 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_Si_8iyJkJA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X8j2AY48TCY",
+      "title": "【レーシングマスター】先輩たちとレースするぞ～～～！！！！#PR 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260724",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X8j2AY48TCY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X7-PtVffuaY",
+      "title": "【 レーシングマスター 】みんなで勝利を目指すのら！！！【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X7-PtVffuaY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G9StjYx5rOA",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました！🏎【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260725",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G9StjYx5rOA",
       "status": "unreviewed",
       "note": null
     }

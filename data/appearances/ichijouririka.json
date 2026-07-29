@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1277,
+  "count": 1278,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14046,6 +14046,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qZS6e6ZxlL8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VhaWvzgi9zQ",
+      "title": "【 空耳 】英語版Siriに聞かせた元の日本語を当てろッ!!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VhaWvzgi9zQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 3251,
+  "count": 3254,
   "entries": [
     {
       "video_id": "aVnsgjemlxz",
@@ -16,7 +16,7 @@
     },
     {
       "video_id": "fDblSFY7fo4",
-      "title": "【レーシングマスター】4人でレース開幕!!|ラミィ視点【雪花ラミィ /ホロライブ】",
+      "title": "【レーシングマスター】4人でレース開幕！！｜ラミィ視点【雪花ラミィ /ホロライブ】",
       "published_at": "20260726",
       "url": "https://youtu.be/fDblSFY7fo4",
       "entry_type": "stream",
@@ -39,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "X7-PtVffuaY",
+      "title": "【 レーシングマスター 】みんなで勝利を目指すのら！！！【姫森ルーナ/ホロライブ】",
+      "published_at": "20260726",
+      "url": "https://youtu.be/X7-PtVffuaY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X7-PtVffuaY/mqdefault.jpg",
+      "partner_handle": "himemoriluna",
+      "partner_name": "Luna Ch. 姫森ルーナ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "aNYoBud3lw8",
       "title": "【メンバー限定】今週もお疲れ様!!メン限【雪花ラミィ /ホロライブ】",
       "published_at": "20260725",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/aNYoBud3lw8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G9StjYx5rOA",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました！🏎【ホロライブ/夏色まつり】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/G9StjYx5rOA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/G9StjYx5rOA/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },
@@ -71,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/vw3xdUYsE_0/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X8j2AY48TCY",
+      "title": "【レーシングマスター】先輩たちとレースするぞ～～～！！！！#PR 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260724",
+      "url": "https://youtu.be/X8j2AY48TCY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X8j2AY48TCY/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

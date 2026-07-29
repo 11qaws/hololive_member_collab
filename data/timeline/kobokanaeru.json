@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1606,
+  "count": 1608,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hEfb0fHLS7Q",
+      "title": "【hololive Dreams】SUMMER EVENT STAAAARTSSSS",
+      "published_at": "20260728",
+      "url": "https://youtu.be/hEfb0fHLS7Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hEfb0fHLS7Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MIGeNEBiEEc",
+      "title": "#holodori / I can't wait to beat you all 👊😁",
+      "published_at": "20260728",
+      "url": "https://youtu.be/MIGeNEBiEEc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MIGeNEBiEEc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

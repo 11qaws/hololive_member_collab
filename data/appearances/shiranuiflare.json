@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1516,
+  "count": 1517,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16675,6 +16675,17 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JlTQaZE2fVk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Hia2oiiKtQc",
+      "title": "【 バイオハザード5 】フレわたでバイオ！バイオが終わったら何が始まると思う？#DLC【角巻わため/ホロライブ４期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Hia2oiiKtQc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "minatoaqua",
-  "count": 640,
+  "count": 641,
   "appearances": [
     {
       "video_id": "P2v2eXrKxT0",
@@ -7039,6 +7039,17 @@
       "published_at": "20210419",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JG48VfeF5tQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUW6CcY-Yf0",
+      "title": "【#天音かなた3D】天音かなた3Dお披露目!いっぱい見てっ!【#JointhefutureJP】",
+      "channel_handle": "amanekanata",
+      "channel_name": "Kanata Ch. 天音かなた",
+      "published_at": "20200705",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUW6CcY-Yf0",
       "status": "unreviewed",
       "note": null
     }
