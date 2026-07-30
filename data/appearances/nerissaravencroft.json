@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1032,
+  "count": 1035,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11351,6 +11351,39 @@
       "published_at": "20260729",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kEoFVaHsy_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1xV8zKmL4wc",
+      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1xV8zKmL4wc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ky9zOTDIPbo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JhQHP3mmWrI",
+      "title": "Into The Void - Trailer",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JhQHP3mmWrI",
       "status": "unreviewed",
       "note": null
     }

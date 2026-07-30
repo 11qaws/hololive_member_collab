@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1278,
+  "count": 1279,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14057,6 +14057,17 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VhaWvzgi9zQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5rT6uiU8gtw",
+      "title": "8/1より #ReGLOSSとラジオ体操 がスタート🎉 毎日朝8時に動画投稿されますので、お楽しみに☀️ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5rT6uiU8gtw",
       "status": "unreviewed",
       "note": null
     }

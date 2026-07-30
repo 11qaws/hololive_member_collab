@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 932,
+  "count": 933,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10251,6 +10251,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NY4jLVGEgkc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1xV8zKmL4wc",
+      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1xV8zKmL4wc",
       "status": "unreviewed",
       "note": null
     }

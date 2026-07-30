@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1183,
+  "count": 1184,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13012,6 +13012,17 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VhaWvzgi9zQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PN55Og0BfXE",
+      "title": "『Atrobolis』Roboco's 3D Birthday Live",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PN55Og0BfXE",
       "status": "unreviewed",
       "note": null
     }

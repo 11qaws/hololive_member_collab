@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1313,
+  "count": 1316,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14442,6 +14442,39 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/G9StjYx5rOA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ky9zOTDIPbo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dSjOeye5KnE",
+      "title": "ホロライブ5期生の3人で振り返り配信!らみねねぼたんー【#ほろふぁいぶ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20200814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dSjOeye5KnE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J6bgYiXnfOM",
+      "title": "初配信を振り返るっ🐸【ラミィちゃんと一緒に!】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20200813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J6bgYiXnfOM",
       "status": "unreviewed",
       "note": null
     }

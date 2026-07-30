@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 3254,
+  "count": 3257,
   "entries": [
     {
       "video_id": "aVnsgjemlxz",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/aVnsgjemlxz/mqdefault.jpg",
       "partner_handle": "momosuzunene",
       "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "published_at": "20260729",
+      "url": "https://youtu.be/ky9zOTDIPbo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ky9zOTDIPbo/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -38975,6 +38987,30 @@
       "thumbnail": "https://img.youtube.com/vi/JSOXoNVTy0g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dSjOeye5KnE",
+      "title": "ホロライブ5期生の3人で振り返り配信!らみねねぼたんー【#ほろふぁいぶ】",
+      "published_at": "20200814",
+      "url": "https://youtu.be/dSjOeye5KnE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dSjOeye5KnE/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "J6bgYiXnfOM",
+      "title": "初配信を振り返るっ🐸【ラミィちゃんと一緒に!】",
+      "published_at": "20200813",
+      "url": "https://youtu.be/J6bgYiXnfOM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/J6bgYiXnfOM/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
       "paired_self": null
     },

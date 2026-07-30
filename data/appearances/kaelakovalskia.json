@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1050,
+  "count": 1051,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11549,6 +11549,17 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6X5_qH5W3bY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H-00TwX9R0c",
+      "title": "【hololive Dreams】I AM READY. I WOULD DO ANYTHING!!!!!!!!!!",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H-00TwX9R0c",
       "status": "unreviewed",
       "note": null
     }

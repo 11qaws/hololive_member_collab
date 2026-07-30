@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1721,
+  "count": 1724,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18930,6 +18930,39 @@
       "published_at": "20200705",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZUW6CcY-Yf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "A7Qf3vZc3tk",
+      "title": "【 ロードモバイル 】わためちゃとロードモバイルで遊んでみるのら!!!【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260728",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/A7Qf3vZc3tk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4zur6qK1L3Y",
+      "title": "【Cat Mail Co.】バカタレ共で郵便屋さん！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4zur6qK1L3Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O2MwNSUe0S8",
+      "title": "【Cat Mail Co.】バカタレ郵便局、開業。　＃バカタレ共【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O2MwNSUe0S8",
       "status": "unreviewed",
       "note": null
     }

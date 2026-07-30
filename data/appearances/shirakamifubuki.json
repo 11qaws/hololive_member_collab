@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3268,
+  "count": 3271,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35947,6 +35947,39 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PBwuXFKQcNM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【#みこち超重大発表】【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hLoONLJRW7k",
+      "title": "【 にゃんこ郵便局 】バカタレ郵便局はじめました💌【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hLoONLJRW7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4zur6qK1L3Y",
+      "title": "【Cat Mail Co.】バカタレ共で郵便屋さん！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4zur6qK1L3Y",
       "status": "unreviewed",
       "note": null
     }

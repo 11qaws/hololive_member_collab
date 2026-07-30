@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1942,
+  "count": 1945,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wZmYx-1GdtM",
+      "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #14【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/wZmYx-1GdtM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wZmYx-1GdtM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kxxNJoPNOdc",
+      "title": "【FF6】#8 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/kxxNJoPNOdc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kxxNJoPNOdc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "f4EZ7LDp-cI",
+      "title": "【耐久歌枠/KARAOKE】遂に60万人目前！一緒に迎えたいです！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/f4EZ7LDp-cI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f4EZ7LDp-cI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

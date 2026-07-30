@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 1953,
+  "count": 1955,
   "entries": [
     {
       "video_id": "kEoFVaHsy_U",
@@ -41,12 +41,24 @@
     {
       "video_id": "UwL8L6KjYP8",
       "title": "Running You Over Affectionately! 【Denshattack!】",
-      "published_at": "20260726",
+      "published_at": "20260728",
       "url": "https://youtu.be/UwL8L6KjYP8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UwL8L6KjYP8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1xV8zKmL4wc",
+      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
+      "published_at": "20260728",
+      "url": "https://youtu.be/1xV8zKmL4wc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -57,6 +69,18 @@
       "url": "https://youtu.be/VW2Jg618VnI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/VW2Jg618VnI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CkkWwUj6pH0",
+      "title": "Novelites, Get Into the Time Capsule! 【3rd Anniversary】",
+      "published_at": "20260725",
+      "url": "https://youtu.be/CkkWwUj6pH0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CkkWwUj6pH0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23403,6 +23427,18 @@
       "paired_self": null
     },
     {
+      "video_id": "GoUqLjkrxBw",
+      "title": "Not sure if I'll be streaming tomorrow as a heads-up! I'll be working on some behind-the-scenes thi",
+      "published_at": "",
+      "url": "https://youtu.be/GoUqLjkrxBw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GoUqLjkrxBw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "_m2DuClvaog",
       "title": "March's Novelknight vlog is now out!\n한국어 자막이 포함된 새로운 영상이 공개되었습니다!\n日本語字幕付きの新しい動画が公開されました！ ▶️https://",
       "published_at": "",
@@ -23421,18 +23457,6 @@
       "url": "https://youtu.be/WO_ONEMfir0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WO_ONEMfir0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "GoUqLjkrxBw",
-      "title": "Not sure if I'll be streaming tomorrow as a heads-up! I'll be working on some behind-the-scenes thi",
-      "published_at": "",
-      "url": "https://youtu.be/GoUqLjkrxBw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GoUqLjkrxBw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

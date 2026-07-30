@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1887,
+  "count": 1890,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TmzVzJ5noWc",
+      "title": "【 パワプロ2026 】2年目春甲子園✨ついにホロメンオンリーチーム!栄冠ナイン3年モードを初見プレイ⚾✨【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/TmzVzJ5noWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TmzVzJ5noWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LH9DzC2gaM0",
+      "title": "【定期配信＃39】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+      "published_at": "20260729",
+      "url": "https://youtu.be/LH9DzC2gaM0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LH9DzC2gaM0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TIar-k315kY",
+      "title": "もしもしー!聴こえてる?📞💖 #vtuber #shorts #dance",
+      "published_at": "20260729",
+      "url": "https://youtu.be/TIar-k315kY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TIar-k315kY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,8 +64,8 @@
     },
     {
       "video_id": "oBKitqNkTcE",
-      "title": "【ホロドリ】初ホロドリ✨推しをガチャで引きたい・・！【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "20260726",
+      "title": "【ホロドリ】初ホロドリ✨推しをガチャで引きたい・・!【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260727",
       "url": "https://youtu.be/oBKitqNkTcE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oBKitqNkTcE/mqdefault.jpg",
@@ -22599,18 +22635,6 @@
       "paired_self": null
     },
     {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "d7mYLP8c6LE",
       "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "",
@@ -22629,6 +22653,18 @@
       "url": "https://youtu.be/sa4kyeVj9Wk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/GMv9AlmncJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

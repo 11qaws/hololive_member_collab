@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2592,
+  "count": 2595,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,12 +15,36 @@
       "paired_self": null
     },
     {
+      "video_id": "kEW7JpsxOFI",
+      "title": "ねえ、知ってる? #雑学 #マメリリカ",
+      "published_at": "20260729",
+      "url": "https://youtu.be/kEW7JpsxOFI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kEW7JpsxOFI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Z36qLZH15FA",
       "title": "夏色の生命、誕生の瞬間 #一条莉々華の限界飯",
       "published_at": "20260729",
       "url": "https://youtu.be/Z36qLZH15FA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Z36qLZH15FA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CXF3VQmr89M",
+      "title": "【メンバー限定】莉々華をここに隔離します【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260728",
+      "url": "https://youtu.be/CXF3VQmr89M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CXF3VQmr89M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -39,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "--jACHRbt2c",
+      "title": "【雑談】先輩とおでかけした話とか~~~~!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/--jACHRbt2c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/--jACHRbt2c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "qZS6e6ZxlL8",
       "title": "【見えちゃった?】可愛い自撮りのはずが… #hololive #ホロライブ #撮影",
       "published_at": "20260727",
@@ -51,14 +87,14 @@
       "paired_self": null
     },
     {
-      "video_id": "--jACHRbt2c",
-      "title": "【雑談】先輩とおでかけした話とか～～～～！【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "published_at": "20260726",
-      "url": "https://youtu.be/--jACHRbt2c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/--jACHRbt2c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
+      "video_id": "5rT6uiU8gtw",
+      "title": "8/1より #ReGLOSSとラジオ体操 がスタート🎉 毎日朝8時に動画投稿されますので、お楽しみに☀️ #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260727",
+      "url": "https://youtu.be/5rT6uiU8gtw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5rT6uiU8gtw/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19947,24 +19983,24 @@
       "paired_self": null
     },
     {
-      "video_id": "JR6shpFnMLQ",
-      "title": "今日も大天才っ!",
-      "published_at": "20240910",
-      "url": "https://youtu.be/JR6shpFnMLQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "U5zGOt3OOAE",
       "title": "今日も大天才っ!(Instrumental)",
       "published_at": "20240910",
       "url": "https://youtu.be/U5zGOt3OOAE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U5zGOt3OOAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JR6shpFnMLQ",
+      "title": "今日も大天才っ!",
+      "published_at": "20240910",
+      "url": "https://youtu.be/JR6shpFnMLQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

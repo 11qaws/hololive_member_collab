@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 898,
+  "count": 900,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -9877,6 +9877,28 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3x5AtSwnldA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JbxAifKXY_4",
+      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：百鬼あやめ😈【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JbxAifKXY_4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ky9zOTDIPbo",
       "status": "unreviewed",
       "note": null
     }

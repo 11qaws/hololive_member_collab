@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1882,
+  "count": 1883,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20701,6 +20701,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PN55Og0BfXE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ky9zOTDIPbo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1404,
+  "count": 1405,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15443,6 +15443,17 @@
       "published_at": "20260726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jTf2j9yMLoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JhQHP3mmWrI",
+      "title": "Into The Void - Trailer",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JhQHP3mmWrI",
       "status": "unreviewed",
       "note": null
     }

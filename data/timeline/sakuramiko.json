@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5391,
+  "count": 5392,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JbxAifKXY_4",
+      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：百鬼あやめ😈【ホロライブ/さくらみこ】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/JbxAifKXY_4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JbxAifKXY_4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -64,7 +76,7 @@
     },
     {
       "video_id": "RCTQ_xSa5r4",
-      "title": "【告知】うおおおおおおお！重大告知させてもらうにぇぇえええええええぇええ！！！！【ホロライブ/さくらみこ】",
+      "title": "【告知】うおおおおおおお!重大告知させてもらうにぇぇえええええええぇええ!!!!【ホロライブ/さくらみこ】",
       "published_at": "20260727",
       "url": "https://youtu.be/RCTQ_xSa5r4",
       "entry_type": "stream",
@@ -48591,24 +48603,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TThKPMBMK_o",
-      "title": "さくら色ハイテンション! (Instrumental)",
-      "published_at": "20210125",
-      "url": "https://youtu.be/TThKPMBMK_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dgkijs3AfAs",
       "title": "さくら色ハイテンション!",
       "published_at": "20210125",
       "url": "https://youtu.be/dgkijs3AfAs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TThKPMBMK_o",
+      "title": "さくら色ハイテンション! (Instrumental)",
+      "published_at": "20210125",
+      "url": "https://youtu.be/TThKPMBMK_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -51015,24 +51027,24 @@
       "paired_self": null
     },
     {
-      "video_id": "XdWh7yD-AL8",
-      "title": "サクラカゼ",
-      "published_at": "20201021",
-      "url": "https://youtu.be/XdWh7yD-AL8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XdWh7yD-AL8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "H_haJQ20B3A",
       "title": "サクラカゼ (Instrumental)",
       "published_at": "20201021",
       "url": "https://youtu.be/H_haJQ20B3A",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/H_haJQ20B3A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XdWh7yD-AL8",
+      "title": "サクラカゼ",
+      "published_at": "20201021",
+      "url": "https://youtu.be/XdWh7yD-AL8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XdWh7yD-AL8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

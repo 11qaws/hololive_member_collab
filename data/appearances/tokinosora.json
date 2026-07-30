@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 810,
+  "count": 811,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -8909,6 +8909,17 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w7jCD1uO3H8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ky9zOTDIPbo",
+      "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ky9zOTDIPbo",
       "status": "unreviewed",
       "note": null
     }

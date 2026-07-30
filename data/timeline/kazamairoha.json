@@ -1,7 +1,19 @@
 {
   "target": "kazamairoha",
-  "count": 2296,
+  "count": 2298,
   "entries": [
+    {
+      "video_id": "FF7CxNDMxU4",
+      "title": "【ホロドリ】#ホロポカジャン廃 今宵集まりし…ポカジャンに狂ったホロメン【ホロライブ/白上フブキ】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/FF7CxNDMxU4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FF7CxNDMxU4/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "muHxz2-hYa0",
       "title": "【パワプロ2026】ガチ初見⚠初見監督に就任しました⚾#06【風真いろは/ホロライブ】",
@@ -45,6 +57,18 @@
       "url": "https://youtu.be/l20nRqhLAe0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/l20nRqhLAe0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lVAeYZVxpLM",
+      "title": "【カゲマス】CM風真いろは「迷子」編【ホロライブ】",
+      "published_at": "20260724",
+      "url": "https://youtu.be/lVAeYZVxpLM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lVAeYZVxpLM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27531,24 +27555,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LzCnTk-qJTg",
-      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
-      "published_at": "",
-      "url": "https://youtu.be/LzCnTk-qJTg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "eziLCxfAF4w",
       "title": "【】急遽お仕事が外になってしまったので時間ずれるます😭【風真いろは/ホロライブ】",
       "published_at": "",
       "url": "https://youtu.be/eziLCxfAF4w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/eziLCxfAF4w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LzCnTk-qJTg",
+      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
+      "published_at": "",
+      "url": "https://youtu.be/LzCnTk-qJTg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

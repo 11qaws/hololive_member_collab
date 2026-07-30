@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1712,
+  "count": 1713,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18831,6 +18831,17 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nVNXMA0KmzM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iBwdA4RWQUM",
+      "title": "【誕生日カウントダウン！】三十路の向こう側【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iBwdA4RWQUM",
       "status": "unreviewed",
       "note": null
     }
