@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1363,
+  "count": 1364,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -14992,6 +14992,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/159TwnYzu28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tKVo6rotrWY",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tKVo6rotrWY",
       "status": "unreviewed",
       "note": null
     }

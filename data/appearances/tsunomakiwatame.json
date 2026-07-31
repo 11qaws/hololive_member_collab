@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1724,
+  "count": 1725,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18963,6 +18963,17 @@
       "published_at": "20260729",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/O2MwNSUe0S8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9a7_lq72xlk",
+      "title": "【#桐生ココ3D】桐生ココ3Dお披露目!#ホロふぉーす始動! 【#JointhefutureJP】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200627",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9a7_lq72xlk",
       "status": "unreviewed",
       "note": null
     }

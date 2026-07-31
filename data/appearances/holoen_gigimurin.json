@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 879,
+  "count": 880,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9668,6 +9668,17 @@
       "published_at": "20260729",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JhQHP3mmWrI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RNROdqy1XDM",
+      "title": "Gold Saucer ???🌱【FINAL FANTASY XIV Online】#ad 💄👧",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "published_at": "20260729",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RNROdqy1XDM",
       "status": "unreviewed",
       "note": null
     }

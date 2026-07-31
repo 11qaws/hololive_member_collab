@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2382,
+  "count": 2384,
   "entries": [
     {
       "video_id": "lIU0GTAL4Iq",
@@ -15,24 +15,48 @@
       "paired_self": null
     },
     {
-      "video_id": "1xV8zKmL4wc",
-      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
-      "published_at": "20260728",
-      "url": "https://youtu.be/1xV8zKmL4wc",
+      "video_id": "SXuzMygAO-M",
+      "title": "【MEMBER'S VRChat】Let's hang out at CLUB 81800!!!",
+      "published_at": "20260730",
+      "url": "https://youtu.be/SXuzMygAO-M",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/SXuzMygAO-M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
     {
+      "video_id": "tKVo6rotrWY",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+      "published_at": "20260730",
+      "url": "https://youtu.be/tKVo6rotrWY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tKVo6rotrWY/mqdefault.jpg",
+      "partner_handle": "mococo_abyssgard",
+      "partner_name": "FUWAMOCO Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "nr93sv64T-E",
       "title": "【RESIDENT EVIL 4】women",
-      "published_at": "20260728",
+      "published_at": "20260729",
       "url": "https://youtu.be/nr93sv64T-E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nr93sv64T-E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1xV8zKmL4wc",
+      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
+      "published_at": "20260728",
+      "url": "https://youtu.be/1xV8zKmL4wc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

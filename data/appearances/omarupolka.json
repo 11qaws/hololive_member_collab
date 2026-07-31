@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1883,
+  "count": 1884,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20712,6 +20712,17 @@
       "published_at": "20260729",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ky9zOTDIPbo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9uv6ihLUXtQ",
+      "title": "【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9uv6ihLUXtQ",
       "status": "unreviewed",
       "note": null
     }

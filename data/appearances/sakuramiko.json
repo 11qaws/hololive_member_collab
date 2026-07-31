@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2244,
+  "count": 2246,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24683,6 +24683,28 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VhaWvzgi9zQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gzk1f44KTAw",
+      "title": "【 🔴Machine Party 】バイオレンスなパーティーゲーム⁉💥【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gzk1f44KTAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tKVo6rotrWY",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tKVo6rotrWY",
       "status": "unreviewed",
       "note": null
     }

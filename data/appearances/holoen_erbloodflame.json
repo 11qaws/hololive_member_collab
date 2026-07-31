@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 577,
+  "count": 579,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6346,6 +6346,28 @@
       "published_at": "20260729",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JhQHP3mmWrI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bhD3EWHjotg",
+      "title": "【FINAL FANTASY XIV】LET'S HIT THE CACTPOT!!!! #ad",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bhD3EWHjotg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tKVo6rotrWY",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tKVo6rotrWY",
       "status": "unreviewed",
       "note": null
     }

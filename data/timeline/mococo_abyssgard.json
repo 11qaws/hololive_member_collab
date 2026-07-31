@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 2200,
+  "count": 2205,
   "entries": [
     {
       "video_id": "lIU0GTAL4Iq",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/lIU0GTAL4Iq/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DgJ_H93D5_U",
+      "title": "【MV】沙耶の唄/Saya no Uta (Cover)【FUWAMOCO】",
+      "published_at": "20260731",
+      "url": "https://youtu.be/DgJ_H93D5_U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DgJ_H93D5_U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wmBV_fyuyqk",
+      "title": "【#holoSerendipity CONCERT WATCHALONG】it's wondrous, somehow we met along the way 🐾 【FUWAMOCO|同時視聴】",
+      "published_at": "20260730",
+      "url": "https://youtu.be/wmBV_fyuyqk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wmBV_fyuyqk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7K2atJEZLsM",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY】we're the luckiest demon dogs ever because of YOU 🐾✨️ #FWMC3rd",
+      "published_at": "20260730",
+      "url": "https://youtu.be/7K2atJEZLsM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7K2atJEZLsM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z1vE21rZEv8",
+      "title": "【FUWAMOCO ROCK N' RAWR PARTY】all routes lead to your smile 🐾【VISUAL NOVEL SONGS｜美少女ゲームソング縛り】#FWMC3rd",
+      "published_at": "20260730",
+      "url": "https://youtu.be/z1vE21rZEv8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/z1vE21rZEv8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tKVo6rotrWY",
+      "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+      "published_at": "20260730",
+      "url": "https://youtu.be/tKVo6rotrWY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tKVo6rotrWY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

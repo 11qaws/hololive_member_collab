@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1315,
+  "count": 1316,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14464,6 +14464,17 @@
       "published_at": "20200617",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KpduGHV1GWo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9a7_lq72xlk",
+      "title": "【#桐生ココ3D】桐生ココ3Dお披露目!#ホロふぉーす始動! 【#JointhefutureJP】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200627",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9a7_lq72xlk",
       "status": "unreviewed",
       "note": null
     }

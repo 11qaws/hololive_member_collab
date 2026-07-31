@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1205,
+  "count": 1206,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13254,6 +13254,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/G9StjYx5rOA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9uv6ihLUXtQ",
+      "title": "【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9uv6ihLUXtQ",
       "status": "unreviewed",
       "note": null
     }

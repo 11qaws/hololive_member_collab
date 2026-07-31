@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1345,
+  "count": 1346,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14794,6 +14794,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/159TwnYzu28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gzk1f44KTAw",
+      "title": "【 🔴Machine Party 】バイオレンスなパーティーゲーム⁉💥【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260730",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gzk1f44KTAw",
       "status": "unreviewed",
       "note": null
     }
