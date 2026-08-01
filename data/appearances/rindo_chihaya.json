@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1206,
+  "count": 1207,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13265,6 +13265,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9uv6ihLUXtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P5kLawjEook",
+      "title": "【手書き】どけどけ🚗³₃ #ホロライブ  #vtuber #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P5kLawjEook",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1346,
+  "count": 1347,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14805,6 +14805,17 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gzk1f44KTAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【 3D 】8周年記念🌸みこち密告⁉超❣重大発表だにぇ~~~‼【#みこち超重大発表】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L5K85bMDymA",
       "status": "unreviewed",
       "note": null
     }

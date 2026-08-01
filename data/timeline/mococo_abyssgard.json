@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 2205,
+  "count": 2208,
   "entries": [
     {
       "video_id": "lIU0GTAL4Iq",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/lIU0GTAL4Iq/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "leV0zkSTKW8",
+      "title": "[NEW ORIGINAL SONG] Spotlight - hololive English -Advent- #hololive #hololiveenglish #holoadvent",
+      "published_at": "20260801",
+      "url": "https://youtu.be/leV0zkSTKW8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/leV0zkSTKW8/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hpZUwzlOBOY",
+      "title": "【MV】Spotlight【hololive English -Advent- Original Song】",
+      "published_at": "20260801",
+      "url": "https://youtu.be/hpZUwzlOBOY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hpZUwzlOBOY/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },
@@ -213,6 +237,18 @@
       "url": "https://youtu.be/y2xUvultGOE",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/y2xUvultGOE/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rzIC4P-XLak",
+      "title": "🎉ADVENT'S 3RD ANNIVERSARY + BIG ANNOUNCEMENT🎉",
+      "published_at": "20260722",
+      "url": "https://youtu.be/rzIC4P-XLak",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rzIC4P-XLak/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
@@ -10179,24 +10215,24 @@
       "paired_self": null
     },
     {
-      "video_id": "9A1cO7jL0jw",
-      "title": "【ENIGMATIC RECOLLECTION】the final fluffy day 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
-      "published_at": "20250511",
-      "url": "https://youtu.be/9A1cO7jL0jw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9A1cO7jL0jw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "-vv8XkRzP_Y",
       "title": "【ENIGMATIC RECOLLECTION】the final fuzzy day 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
       "published_at": "20250511",
       "url": "https://youtu.be/-vv8XkRzP_Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-vv8XkRzP_Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9A1cO7jL0jw",
+      "title": "【ENIGMATIC RECOLLECTION】the final fluffy day 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
+      "published_at": "20250511",
+      "url": "https://youtu.be/9A1cO7jL0jw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9A1cO7jL0jw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -18651,24 +18687,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7YNhbv8dMnI",
-      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
-      "published_at": "20240616",
-      "url": "https://youtu.be/7YNhbv8dMnI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zjtNzxi8t0w",
       "title": "【FWMC MINECRAFT JOURNEY】fluffy pickaxes for all 🐾【FUWAWA POV】",
       "published_at": "20240616",
       "url": "https://youtu.be/zjtNzxi8t0w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zjtNzxi8t0w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7YNhbv8dMnI",
+      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
+      "published_at": "20240616",
+      "url": "https://youtu.be/7YNhbv8dMnI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

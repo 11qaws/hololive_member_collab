@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1008,
+  "count": 1010,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11087,6 +11087,28 @@
       "published_at": "20221219",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kIxh2oQdMm0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【 3D 】8周年記念🌸みこち密告⁉超❣重大発表だにぇ~~~‼【#みこち超重大発表】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "18FoBknzzYs",
+      "title": "【 #ラプルイ新衣装 】ラプラスとお揃いの新衣装仕立ててもらいました🍰✨【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/18FoBknzzYs",
       "status": "unreviewed",
       "note": null
     }

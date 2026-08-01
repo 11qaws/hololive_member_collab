@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2242,
+  "count": 2246,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YGgDLmVNgN0",
+      "title": "【あつまれどうぶつの森】住民捕獲のお時間です。【轟はじめ/ReGLOSS】",
+      "published_at": "20260731",
+      "url": "https://youtu.be/YGgDLmVNgN0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YGgDLmVNgN0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "P4J7TH6BTSI",
+      "title": "新衣装がでた轟はじめ(今更)#shorts #vtuber",
+      "published_at": "20260731",
+      "url": "https://youtu.be/P4J7TH6BTSI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P4J7TH6BTSI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G01rp1FI_GA",
+      "title": "明日から #ReGLOSSとラジオ体操 がついにスタート🌞 毎日朝8時に投稿される動画で一緒に体操しよう💪 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260731",
+      "url": "https://youtu.be/G01rp1FI_GA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/G01rp1FI_GA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2VfquzoEaRk",
+      "title": "【Vlog】初海外ロケ最終日にトラブル!?どうなるReGLOSS!ありがとうロンドン!【#ReGLOSSロンドン】",
+      "published_at": "20260730",
+      "url": "https://youtu.be/2VfquzoEaRk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2VfquzoEaRk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18291,24 +18339,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aVywsgBF8Js",
-      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
-      "published_at": "20240927",
-      "url": "https://youtu.be/aVywsgBF8Js",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jwYEbr39tis",
       "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
       "published_at": "20240927",
       "url": "https://youtu.be/jwYEbr39tis",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aVywsgBF8Js",
+      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "published_at": "20240927",
+      "url": "https://youtu.be/aVywsgBF8Js",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

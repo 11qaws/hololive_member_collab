@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 4785,
+  "count": 4787,
   "entries": [
     {
       "video_id": "J0WwJaYsgxc",
@@ -21,6 +21,18 @@
       "url": "https://youtu.be/WMhY2qqtDPY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WMhY2qqtDPY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tg34fHFOvmE",
+      "title": "【踊ってみた】おつかれSUMMER/HALCALI #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #おつかれSUMMER",
+      "published_at": "20260731",
+      "url": "https://youtu.be/tg34fHFOvmE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tg34fHFOvmE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -52,7 +64,7 @@
     },
     {
       "video_id": "-9ZtMcOQQOU",
-      "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴!夏休み企画🌻【博衣こより/ホロライブ】",
+      "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴!夏休み企画🌻 #こよりとガンダム 【博衣こより/ホロライブ】",
       "published_at": "20260729",
       "url": "https://youtu.be/-9ZtMcOQQOU",
       "entry_type": "stream",
@@ -76,8 +88,8 @@
     },
     {
       "video_id": "bMcXozkXVWM",
-      "title": "【野球同時視聴】マイナビオールスターゲーム2026 in 富山市民球場を一緒に観よう！【博衣こより/ホロライブ】",
-      "published_at": "20260728",
+      "title": "【野球同時視聴】マイナビオールスターゲーム2026 in 富山市民球場を一緒に観よう!【博衣こより/ホロライブ】",
+      "published_at": "20260729",
       "url": "https://youtu.be/bMcXozkXVWM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/bMcXozkXVWM/mqdefault.jpg",
@@ -167,6 +179,18 @@
       "thumbnail": "https://img.youtube.com/vi/159TwnYzu28/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【 3D 】8周年記念🌸みこち密告⁉超❣重大発表だにぇ~~~‼【#みこち超重大発表】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/L5K85bMDymA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L5K85bMDymA/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

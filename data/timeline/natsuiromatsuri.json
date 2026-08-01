@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3785,
+  "count": 3786,
   "entries": [
     {
       "video_id": "Mw2LyPzVWeM",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/Mw2LyPzVWeM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Mw2LyPzVWeM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VhaWvzgi9zQ",
+      "title": "【 空耳 】英語版Siriに聞かせた元の日本語を当てろッ!!【ホロライブ/夏色まつり】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/VhaWvzgi9zQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VhaWvzgi9zQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35,18 +47,6 @@
       "thumbnail": "https://img.youtube.com/vi/ky9zOTDIPbo/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "VhaWvzgi9zQ",
-      "title": "【 空耳 】英語版Siriに聞かせた元の日本語を当てろッ！！【ホロライブ/夏色まつり】",
-      "published_at": "20260728",
-      "url": "https://youtu.be/VhaWvzgi9zQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VhaWvzgi9zQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -119,6 +119,18 @@
       "thumbnail": "https://img.youtube.com/vi/159TwnYzu28/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【 3D 】8周年記念🌸みこち密告⁉超❣重大発表だにぇ~~~‼【#みこち超重大発表】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/L5K85bMDymA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L5K85bMDymA/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -2955,24 +2967,24 @@
       "paired_self": null
     },
     {
-      "video_id": "imYqFvZ2PS0",
-      "title": "ウーニャカ",
-      "published_at": "20260224",
-      "url": "https://youtu.be/imYqFvZ2PS0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "kFLKwEFutm4",
       "title": "ウェディングしよっ!",
       "published_at": "20260224",
       "url": "https://youtu.be/kFLKwEFutm4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "imYqFvZ2PS0",
+      "title": "ウーニャカ",
+      "published_at": "20260224",
+      "url": "https://youtu.be/imYqFvZ2PS0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

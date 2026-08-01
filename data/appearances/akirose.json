@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1229,
+  "count": 1230,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13518,6 +13518,17 @@
       "published_at": "20260720",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/T-9wvhhyc6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fGE5hdaty-Y",
+      "title": "【今頃】日本の春をおさんぽしてみた #検証 #お花見 #vlog #風物詩#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fGE5hdaty-Y",
       "status": "unreviewed",
       "note": null
     }

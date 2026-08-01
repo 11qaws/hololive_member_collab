@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1782,
+  "count": 1785,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,14 +15,38 @@
       "paired_self": null
     },
     {
+      "video_id": "ry8xwlQktO0",
+      "title": "【らでん自習室】8月2日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published_at": "20260801",
+      "url": "https://youtu.be/ry8xwlQktO0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ry8xwlQktO0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "wg2BTTC0Mic",
-      "title": "【らでん自習室】8月1日10:00~11:30 【儒烏風亭らでん/ReGLOSS】",
+      "title": "【らでん自習室】8月1日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
       "published_at": "20260731",
       "url": "https://youtu.be/wg2BTTC0Mic",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/wg2BTTC0Mic/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G01rp1FI_GA",
+      "title": "明日から #ReGLOSSとラジオ体操 がついにスタート🌞 毎日朝8時に投稿される動画で一緒に体操しよう💪 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260731",
+      "url": "https://youtu.be/G01rp1FI_GA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/G01rp1FI_GA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/lhELE09P530/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2VfquzoEaRk",
+      "title": "【Vlog】初海外ロケ最終日にトラブル!?どうなるReGLOSS!ありがとうロンドン!【#ReGLOSSロンドン】",
+      "published_at": "20260730",
+      "url": "https://youtu.be/2VfquzoEaRk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2VfquzoEaRk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3375,24 +3411,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aSmPF7QwVUI",
-      "title": "出囃子ジャポニズム",
-      "published_at": "20260204",
-      "url": "https://youtu.be/aSmPF7QwVUI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zGxgs3Nw5EY",
       "title": "出囃子ジャポニズム (Instrumental)",
       "published_at": "20260204",
       "url": "https://youtu.be/zGxgs3Nw5EY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aSmPF7QwVUI",
+      "title": "出囃子ジャポニズム",
+      "published_at": "20260204",
+      "url": "https://youtu.be/aSmPF7QwVUI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2049,
+  "count": 2053,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dW3CeOBPcMQ",
+      "title": "【 スマブラSP 】参加型！おまえらに初勝利するまで終われません【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260801",
+      "url": "https://youtu.be/dW3CeOBPcMQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dW3CeOBPcMQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MctS9RtjLWA",
+      "title": "【 緊急記者会見 】最近、音乃瀬奏への風評被害が多すぎる件【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260731",
+      "url": "https://youtu.be/MctS9RtjLWA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MctS9RtjLWA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G01rp1FI_GA",
+      "title": "明日から #ReGLOSSとラジオ体操 がついにスタート🌞 毎日朝8時に投稿される動画で一緒に体操しよう💪 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260731",
+      "url": "https://youtu.be/G01rp1FI_GA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/G01rp1FI_GA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2VfquzoEaRk",
+      "title": "【Vlog】初海外ロケ最終日にトラブル!?どうなるReGLOSS!ありがとうロンドン!【#ReGLOSSロンドン】",
+      "published_at": "20260730",
+      "url": "https://youtu.be/2VfquzoEaRk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2VfquzoEaRk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

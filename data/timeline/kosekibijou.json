@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2384,
+  "count": 2386,
   "entries": [
     {
       "video_id": "lIU0GTAL4Iq",
@@ -15,12 +15,36 @@
       "paired_self": null
     },
     {
+      "video_id": "leV0zkSTKW8",
+      "title": "[NEW ORIGINAL SONG] Spotlight - hololive English -Advent- #hololive #hololiveenglish #holoadvent",
+      "published_at": "20260801",
+      "url": "https://youtu.be/leV0zkSTKW8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/leV0zkSTKW8/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "SXuzMygAO-M",
       "title": "【MEMBER'S VRChat】Let's hang out at CLUB 81800!!!",
       "published_at": "20260730",
       "url": "https://youtu.be/SXuzMygAO-M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SXuzMygAO-M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1xV8zKmL4wc",
+      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
+      "published_at": "20260730",
+      "url": "https://youtu.be/1xV8zKmL4wc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -45,18 +69,6 @@
       "url": "https://youtu.be/nr93sv64T-E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nr93sv64T-E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "1xV8zKmL4wc",
-      "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
-      "published_at": "20260728",
-      "url": "https://youtu.be/1xV8zKmL4wc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -251,6 +263,18 @@
       "thumbnail": "https://img.youtube.com/vi/Blen0XcU9gg/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rzIC4P-XLak",
+      "title": "🎉ADVENT'S 3RD ANNIVERSARY + BIG ANNOUNCEMENT🎉",
+      "published_at": "20260722",
+      "url": "https://youtu.be/rzIC4P-XLak",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rzIC4P-XLak/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

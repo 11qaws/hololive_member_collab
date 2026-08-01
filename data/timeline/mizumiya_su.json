@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2132,
+  "count": 2135,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -27,6 +27,30 @@
       "paired_self": null
     },
     {
+      "video_id": "P5kLawjEook",
+      "title": "【手書き】どけどけ🚗³₃ #ホロライブ  #vtuber #animation",
+      "published_at": "20260801",
+      "url": "https://youtu.be/P5kLawjEook",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P5kLawjEook/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TM36nsuFaXE",
+      "title": "mosimosi?/踊ってみた  #hololive #vtuber #dance",
+      "published_at": "20260731",
+      "url": "https://youtu.be/TM36nsuFaXE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TM36nsuFaXE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "9uv6ihLUXtQ",
       "title": "【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
       "published_at": "20260731",
@@ -39,12 +63,36 @@
       "paired_self": null
     },
     {
+      "video_id": "fGE5hdaty-Y",
+      "title": "【今頃】日本の春をおさんぽしてみた #検証 #お花見 #vlog #風物詩#hololive #ホロライブ",
+      "published_at": "20260731",
+      "url": "https://youtu.be/fGE5hdaty-Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fGE5hdaty-Y/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "oFRCA4eo37M",
       "title": "初パラパラ/踊ってみた #hololive #vtuber #dance",
       "published_at": "20260730",
       "url": "https://youtu.be/oFRCA4eo37M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oFRCA4eo37M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DCeQspn6DUc",
+      "title": "【同時視聴】ウマ娘シンデレラグレイ8話~ #2【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260729",
+      "url": "https://youtu.be/DCeQspn6DUc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DCeQspn6DUc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -76,7 +124,7 @@
     },
     {
       "video_id": "WKLt0RVPql4",
-      "title": "【ホロドリ】スバル先輩の水着ガチャ💙さよなら天井👋#5【水宮枢/ホロライブDEV_IS】",
+      "title": "【ホロドリ】スバル先輩の水着ガチャ💙さよなら天井👋＃5【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260728",
       "url": "https://youtu.be/WKLt0RVPql4",
       "entry_type": "stream",
@@ -93,18 +141,6 @@
       "url": "https://youtu.be/HIgp_OHYQtc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HIgp_OHYQtc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "DCeQspn6DUc",
-      "title": "【同時視聴】ウマ娘シンデレラグレイ８話～　#2【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260728",
-      "url": "https://youtu.be/DCeQspn6DUc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/DCeQspn6DUc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

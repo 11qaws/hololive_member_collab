@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1037,
+  "count": 1039,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11406,6 +11406,28 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tKVo6rotrWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "leV0zkSTKW8",
+      "title": "[NEW ORIGINAL SONG] Spotlight - hololive English -Advent- #hololive #hololiveenglish #holoadvent",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/leV0zkSTKW8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rzIC4P-XLak",
+      "title": "🎉ADVENT'S 3RD ANNIVERSARY + BIG ANNOUNCEMENT🎉",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260722",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rzIC4P-XLak",
       "status": "unreviewed",
       "note": null
     }

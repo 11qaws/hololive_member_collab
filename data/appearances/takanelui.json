@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1422,
+  "count": 1424,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15641,6 +15641,28 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/159TwnYzu28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L5K85bMDymA",
+      "title": "【 3D 】8周年記念🌸みこち密告⁉超❣重大発表だにぇ~~~‼【#みこち超重大発表】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c9nDZMcCC9E",
+      "title": "【新衣装】めっちゃかっこいいいしょうができました、ルイとおそろいです【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c9nDZMcCC9E",
       "status": "unreviewed",
       "note": null
     }
