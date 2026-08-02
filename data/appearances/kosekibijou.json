@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1432,
+  "count": 1437,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15751,6 +15751,61 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rzIC4P-XLak",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "54oaXuyyfMc",
+      "title": "【3D LIVE】hololive English -Advent- 3rd Anniversary Live: Bound by Fate【#AdventBoundbyFate】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/54oaXuyyfMc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9uv6ihLUXtQ",
+      "title": "【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9uv6ihLUXtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IyJ27NEFlBs",
+      "title": "Spotlight (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IyJ27NEFlBs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7bPNXiVZ7Eo",
+      "title": "Spotlight",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7bPNXiVZ7Eo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hpZUwzlOBOY",
+      "title": "【MV】Spotlight【hololive English -Advent- Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hpZUwzlOBOY",
       "status": "unreviewed",
       "note": null
     }

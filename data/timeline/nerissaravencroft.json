@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1774,
+  "count": 1779,
   "entries": [
     {
       "video_id": "jk6GIUH_ojo",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/jk6GIUH_ojo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jk6GIUH_ojo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RLx4trQNLLs",
+      "title": "Steal a little spotlight 📸✨",
+      "published_at": "20260801",
+      "url": "https://youtu.be/RLx4trQNLLs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RLx4trQNLLs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -39,9 +51,45 @@
       "paired_self": null
     },
     {
+      "video_id": "IyJ27NEFlBs",
+      "title": "Spotlight (Instrumental)",
+      "published_at": "20260801",
+      "url": "https://youtu.be/IyJ27NEFlBs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IyJ27NEFlBs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7bPNXiVZ7Eo",
+      "title": "Spotlight",
+      "published_at": "20260801",
+      "url": "https://youtu.be/7bPNXiVZ7Eo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7bPNXiVZ7Eo/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hpZUwzlOBOY",
+      "title": "【MV】Spotlight【hololive English -Advent- Original Song】",
+      "published_at": "20260801",
+      "url": "https://youtu.be/hpZUwzlOBOY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hpZUwzlOBOY/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "jA6-A-BCRC8",
-      "title": "Today, I turn 3! But so do you~ + Announcements of announcements | 3RD ANNIVERSARY",
-      "published_at": "20260730",
+      "title": "Today, I turn 3! But so do you~ + Announcements of announcements  | 3RD ANNIVERSARY",
+      "published_at": "20260731",
       "url": "https://youtu.be/jA6-A-BCRC8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jA6-A-BCRC8/mqdefault.jpg",
@@ -119,6 +167,18 @@
       "thumbnail": "https://img.youtube.com/vi/1xV8zKmL4wc/mqdefault.jpg",
       "partner_handle": "kosekibijou",
       "partner_name": "Koseki Bijou Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "54oaXuyyfMc",
+      "title": "【3D LIVE】hololive English -Advent- 3rd Anniversary Live: Bound by Fate【#AdventBoundbyFate】",
+      "published_at": "20260727",
+      "url": "https://youtu.be/54oaXuyyfMc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/54oaXuyyfMc/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },

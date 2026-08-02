@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1033,
+  "count": 1034,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11362,6 +11362,17 @@
       "published_at": "20260725",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L2bT6Y2KHv8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yWbwBA8XNh8",
+      "title": "ヴィヴィの自己紹介に突っ込むぺこら先輩【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts #兎田ぺこら",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yWbwBA8XNh8",
       "status": "unreviewed",
       "note": null
     }

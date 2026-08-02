@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1785,
+  "count": 1787,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/ry8xwlQktO0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9ZAbUtC901I",
+      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操!2日目",
+      "published_at": "20260801",
+      "url": "https://youtu.be/9ZAbUtC901I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9ZAbUtC901I/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rlpJWBA3C8o",
+      "title": "【シンクロReGLOSS】「か」から始まる家電といえば? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260801",
+      "url": "https://youtu.be/rlpJWBA3C8o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rlpJWBA3C8o/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3411,24 +3435,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zGxgs3Nw5EY",
-      "title": "出囃子ジャポニズム (Instrumental)",
-      "published_at": "20260204",
-      "url": "https://youtu.be/zGxgs3Nw5EY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aSmPF7QwVUI",
       "title": "出囃子ジャポニズム",
       "published_at": "20260204",
       "url": "https://youtu.be/aSmPF7QwVUI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGxgs3Nw5EY",
+      "title": "出囃子ジャポニズム (Instrumental)",
+      "published_at": "20260204",
+      "url": "https://youtu.be/zGxgs3Nw5EY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

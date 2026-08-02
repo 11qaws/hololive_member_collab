@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1194,
+  "count": 1195,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13133,6 +13133,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nOr_wGi3QKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PG0x5g7iKqU",
+      "title": "ヴィヴィと笑虎と千速で恋風踊ってみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PG0x5g7iKqU",
       "status": "unreviewed",
       "note": null
     }

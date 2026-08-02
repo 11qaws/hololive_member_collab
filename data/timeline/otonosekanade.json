@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2053,
+  "count": 2057,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "u9r8XNDOpWA",
+      "title": "【 You & 合図 】祝ホロドリ実装!いっぱい聴いてねー!🎵【 音乃瀬奏 】#shorts #hololive #音乃瀬奏",
+      "published_at": "20260801",
+      "url": "https://youtu.be/u9r8XNDOpWA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/u9r8XNDOpWA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "dW3CeOBPcMQ",
       "title": "【 スマブラSP 】参加型！おまえらに初勝利するまで終われません【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260801",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/dW3CeOBPcMQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9ZAbUtC901I",
+      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操!2日目",
+      "published_at": "20260801",
+      "url": "https://youtu.be/9ZAbUtC901I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9ZAbUtC901I/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rlpJWBA3C8o",
+      "title": "【シンクロReGLOSS】「か」から始まる家電といえば? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260801",
+      "url": "https://youtu.be/rlpJWBA3C8o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rlpJWBA3C8o/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -45,6 +81,18 @@
       "url": "https://youtu.be/G01rp1FI_GA",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/G01rp1FI_GA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AkXACF1rWNk",
+      "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操だ!3日目",
+      "published_at": "20260731",
+      "url": "https://youtu.be/AkXACF1rWNk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AkXACF1rWNk/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],

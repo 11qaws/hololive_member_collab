@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1207,
+  "count": 1209,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13276,6 +13276,28 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P5kLawjEook",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yWbwBA8XNh8",
+      "title": "ヴィヴィの自己紹介に突っ込むぺこら先輩【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts #兎田ぺこら",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yWbwBA8XNh8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PG0x5g7iKqU",
+      "title": "ヴィヴィと笑虎と千速で恋風踊ってみた!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PG0x5g7iKqU",
       "status": "unreviewed",
       "note": null
     }

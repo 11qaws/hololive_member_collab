@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1119,
+  "count": 1122,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12308,6 +12308,39 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rzIC4P-XLak",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "54oaXuyyfMc",
+      "title": "【3D LIVE】hololive English -Advent- 3rd Anniversary Live: Bound by Fate【#AdventBoundbyFate】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/54oaXuyyfMc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IyJ27NEFlBs",
+      "title": "Spotlight (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IyJ27NEFlBs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7bPNXiVZ7Eo",
+      "title": "Spotlight",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7bPNXiVZ7Eo",
       "status": "unreviewed",
       "note": null
     }

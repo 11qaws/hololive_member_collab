@@ -1,7 +1,43 @@
 {
   "target": "hololiveenglish",
-  "count": 656,
+  "count": 659,
   "entries": [
+    {
+      "video_id": "VfGYqvDyyG4",
+      "title": "Witness the magic of Advent! ✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "published_at": "20260802",
+      "url": "https://youtu.be/VfGYqvDyyG4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VfGYqvDyyG4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IyJ27NEFlBs",
+      "title": "Spotlight (Instrumental)",
+      "published_at": "20260801",
+      "url": "https://youtu.be/IyJ27NEFlBs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IyJ27NEFlBs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7bPNXiVZ7Eo",
+      "title": "Spotlight",
+      "published_at": "20260801",
+      "url": "https://youtu.be/7bPNXiVZ7Eo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7bPNXiVZ7Eo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "leV0zkSTKW8",
       "title": "[NEW ORIGINAL SONG] Spotlight - hololive English -Advent- #hololive #hololiveenglish #holoadvent",
@@ -7731,24 +7767,24 @@
       "paired_self": null
     },
     {
-      "video_id": "xAp6QzMlTEY",
-      "title": "兆し|#holoENOmen",
-      "published_at": "20210815",
-      "url": "https://youtu.be/xAp6QzMlTEY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BOWi6Pclr48",
       "title": "Omen|#holoENOmen",
       "published_at": "20210815",
       "url": "https://youtu.be/BOWi6Pclr48",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BOWi6Pclr48/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xAp6QzMlTEY",
+      "title": "兆し|#holoENOmen",
+      "published_at": "20210815",
+      "url": "https://youtu.be/xAp6QzMlTEY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

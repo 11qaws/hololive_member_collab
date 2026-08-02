@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1316,
+  "count": 1317,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14475,6 +14475,17 @@
       "published_at": "20200813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J6bgYiXnfOM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "18CMalH1pbc",
+      "title": "【SUPER BUNNY man】素晴らしいウサギ男コラボ #らみまる 【尾丸ポルカ/雪花ラミィ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20200822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/18CMalH1pbc",
       "status": "unreviewed",
       "note": null
     }

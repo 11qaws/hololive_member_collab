@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1130,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12429,6 +12429,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/G01rp1FI_GA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9ZAbUtC901I",
+      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操!2日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9ZAbUtC901I",
       "status": "unreviewed",
       "note": null
     }

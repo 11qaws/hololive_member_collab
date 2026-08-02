@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 935,
+  "count": 939,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10284,6 +10284,50 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/leV0zkSTKW8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "54oaXuyyfMc",
+      "title": "【3D LIVE】hololive English -Advent- 3rd Anniversary Live: Bound by Fate【#AdventBoundbyFate】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260727",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/54oaXuyyfMc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IyJ27NEFlBs",
+      "title": "Spotlight (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IyJ27NEFlBs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7bPNXiVZ7Eo",
+      "title": "Spotlight",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7bPNXiVZ7Eo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hpZUwzlOBOY",
+      "title": "【MV】Spotlight【hololive English -Advent- Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hpZUwzlOBOY",
       "status": "unreviewed",
       "note": null
     }

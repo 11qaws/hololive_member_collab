@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2246,
+  "count": 2248,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hJOG0Rq1Z7M",
+      "title": "HOT LIMIT踊ってみた【轟はじめ】#shorts  #dance",
+      "published_at": "20260801",
+      "url": "https://youtu.be/hJOG0Rq1Z7M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hJOG0Rq1Z7M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9ZAbUtC901I",
+      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操!2日目",
+      "published_at": "20260801",
+      "url": "https://youtu.be/9ZAbUtC901I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9ZAbUtC901I/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18339,24 +18363,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jwYEbr39tis",
-      "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
-      "published_at": "20240927",
-      "url": "https://youtu.be/jwYEbr39tis",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aVywsgBF8Js",
       "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
       "published_at": "20240927",
       "url": "https://youtu.be/aVywsgBF8Js",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jwYEbr39tis",
+      "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
+      "published_at": "20240927",
+      "url": "https://youtu.be/jwYEbr39tis",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
