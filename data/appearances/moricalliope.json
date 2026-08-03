@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1408,
+  "count": 1409,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15487,6 +15487,17 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tKVo6rotrWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bdlT5P0G5uU",
+      "title": "【急募3D】@ホロメン いまから事務所でゲームで遊びませんか❓【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bdlT5P0G5uU",
       "status": "unreviewed",
       "note": null
     }

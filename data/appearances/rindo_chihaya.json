@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1209,
+  "count": 1211,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13298,6 +13298,28 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PG0x5g7iKqU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qGavbN7ub3o",
+      "title": "【Forza Horizon 6】3Dで初ハンコン!🚗【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qGavbN7ub3o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V1CpHfFWA04",
+      "title": "エンジン全開レッツゴー  ~ ぶるんぶるん編 ~",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V1CpHfFWA04",
       "status": "unreviewed",
       "note": null
     }

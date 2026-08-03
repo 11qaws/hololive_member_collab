@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 939,
+  "count": 940,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10328,6 +10328,17 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hpZUwzlOBOY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cKTY0lPQBk",
+      "title": "【アニメ】3年も​逃げてたら​そらベイビーに​なりますよ!【副音声あり】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cKTY0lPQBk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5398,
+  "count": 5403,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bdlT5P0G5uU",
+      "title": "【急募3D】@ホロメン いまから事務所でゲームで遊びませんか❓【ホロライブ/さくらみこ】",
+      "published_at": "20260802",
+      "url": "https://youtu.be/bdlT5P0G5uU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bdlT5P0G5uU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ixStq4YsoEY",
+      "title": "Sakura Miko 2nd  Live \"Blooming Parade!! \" & 2nd Album \"Blooming Cinderella\" Teaser movie",
+      "published_at": "20260802",
+      "url": "https://youtu.be/ixStq4YsoEY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ixStq4YsoEY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L60RoUsGQQ8",
+      "title": "#サキミダレダンス 配布だぁ❣️かわいいからみんな踊ってにぇ🌸🥳",
+      "published_at": "20260802",
+      "url": "https://youtu.be/L60RoUsGQQ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L60RoUsGQQ8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VKZBemp3-Fc",
+      "title": "みこちとホラゲの結果 #shorts #hololive #ホロライブ切り抜き",
+      "published_at": "20260802",
+      "url": "https://youtu.be/VKZBemp3-Fc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VKZBemp3-Fc/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -291,6 +339,18 @@
       "paired_self": null
     },
     {
+      "video_id": "9ARW-9-Qbhs",
+      "title": "大神ミオ1st Live 『OUR SPARKLE』ダイジェスト映像",
+      "published_at": "20260719",
+      "url": "https://youtu.be/9ARW-9-Qbhs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9ARW-9-Qbhs/mqdefault.jpg",
+      "partner_handle": "ookamimio",
+      "partner_name": "Mio Channel 大神ミオ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Q2ORypCbmfo",
       "title": "みこスバ謎解き監禁部屋の様子…🌀#手描き切り抜き #さくらみこ #大空スバル",
       "published_at": "20260718",
@@ -399,24 +459,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dzcfXjQwGJ8",
-      "title": "ファッションビート",
-      "published_at": "20260713",
-      "url": "https://youtu.be/dzcfXjQwGJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dzcfXjQwGJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zs8V61lfgQ0",
       "title": "ファッションビート (Instrumental)",
       "published_at": "20260713",
       "url": "https://youtu.be/Zs8V61lfgQ0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zs8V61lfgQ0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dzcfXjQwGJ8",
+      "title": "ファッションビート",
+      "published_at": "20260713",
+      "url": "https://youtu.be/dzcfXjQwGJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dzcfXjQwGJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -48675,24 +48735,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dgkijs3AfAs",
-      "title": "さくら色ハイテンション!",
-      "published_at": "20210125",
-      "url": "https://youtu.be/dgkijs3AfAs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "TThKPMBMK_o",
       "title": "さくら色ハイテンション! (Instrumental)",
       "published_at": "20210125",
       "url": "https://youtu.be/TThKPMBMK_o",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dgkijs3AfAs",
+      "title": "さくら色ハイテンション!",
+      "published_at": "20210125",
+      "url": "https://youtu.be/dgkijs3AfAs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

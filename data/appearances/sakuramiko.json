@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2246,
+  "count": 2248,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24705,6 +24705,28 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tKVo6rotrWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VKZBemp3-Fc",
+      "title": "みこちとホラゲの結果 #shorts #hololive #ホロライブ切り抜き",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VKZBemp3-Fc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9ARW-9-Qbhs",
+      "title": "大神ミオ1st Live 『OUR SPARKLE』ダイジェスト映像",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9ARW-9-Qbhs",
       "status": "unreviewed",
       "note": null
     }

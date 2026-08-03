@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1955,
+  "count": 1956,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21504,6 +21504,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9ARW-9-Qbhs",
+      "title": "大神ミオ1st Live 『OUR SPARKLE』ダイジェスト映像",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9ARW-9-Qbhs",
       "status": "unreviewed",
       "note": null
     }

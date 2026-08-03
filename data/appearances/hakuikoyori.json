@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1347,
+  "count": 1348,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14816,6 +14816,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KArLrSHxlfI",
+      "title": "【オフコラボ3D】#KoZMy 1周年記念!そうめん最強薬味決定戦!!!【ホロライブ / AZKi / 博衣こより / 雪花ラミィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KArLrSHxlfI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1043,
+  "count": 1045,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11472,6 +11472,28 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hpZUwzlOBOY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bdlT5P0G5uU",
+      "title": "【急募3D】@ホロメン いまから事務所でゲームで遊びませんか❓【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bdlT5P0G5uU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cKTY0lPQBk",
+      "title": "【アニメ】3年も​逃げてたら​そらベイビーに​なりますよ!【副音声あり】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cKTY0lPQBk",
       "status": "unreviewed",
       "note": null
     }

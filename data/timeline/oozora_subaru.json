@@ -1,10 +1,22 @@
 {
   "target": "oozora_subaru",
-  "count": 4663,
+  "count": 4664,
   "entries": [
     {
+      "video_id": "hq5-D6hv_X0",
+      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
+      "published_at": "20260801",
+      "url": "https://youtu.be/hq5-D6hv_X0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hq5-D6hv_X0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "cUa4N6zurbw",
-      "title": "【#5】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
+      "title": "【#5】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
       "published_at": "20260731",
       "url": "https://youtu.be/cUa4N6zurbw",
       "entry_type": "stream",
@@ -15,12 +27,12 @@
       "paired_self": null
     },
     {
-      "video_id": "hq5-D6hv_X0",
-      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+      "video_id": "gyeo_J_F28g",
+      "title": "【#2】ひぐらしのなく頃に 同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
       "published_at": "20260731",
-      "url": "https://youtu.be/hq5-D6hv_X0",
+      "url": "https://youtu.be/gyeo_J_F28g",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hq5-D6hv_X0/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gyeo_J_F28g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/L5K85bMDymA/mqdefault.jpg",
       "partner_handle": "sakuramiko",
       "partner_name": "Miko Ch. さくらみこ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "gyeo_J_F28g",
-      "title": "【#2】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-      "published_at": "20260726",
-      "url": "https://youtu.be/gyeo_J_F28g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/gyeo_J_F28g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -203,6 +203,18 @@
       "thumbnail": "https://img.youtube.com/vi/vbO8vX2IvG4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9ARW-9-Qbhs",
+      "title": "大神ミオ1st Live 『OUR SPARKLE』ダイジェスト映像",
+      "published_at": "20260719",
+      "url": "https://youtu.be/9ARW-9-Qbhs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9ARW-9-Qbhs/mqdefault.jpg",
+      "partner_handle": "ookamimio",
+      "partner_name": "Mio Channel 大神ミオ",
       "sub_entries": [],
       "paired_self": null
     },

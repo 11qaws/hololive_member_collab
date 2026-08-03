@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 4569,
+  "count": 4571,
   "entries": [
     {
       "video_id": "hQZ2TRjVDTL",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/hQZ2TRjVDTL/mqdefault.jpg",
       "partner_handle": "houshoumarine",
       "partner_name": "Marine Ch. 宝鐘マリン",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8ljVms5SVSQ",
+      "title": "兎田ぺこら、奇跡の雑談【ホロライブ/兎田ぺこら】",
+      "published_at": "20260802",
+      "url": "https://youtu.be/8ljVms5SVSQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8ljVms5SVSQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yWbwBA8XNh8",
+      "title": "ヴィヴィの自己紹介に突っ込むぺこら先輩【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts #兎田ぺこら",
+      "published_at": "20260802",
+      "url": "https://youtu.be/yWbwBA8XNh8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yWbwBA8XNh8/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,6 +51,18 @@
       "paired_self": null
     },
     {
+      "video_id": "TQSU4ylXGVk",
+      "title": "【パワプロ2026】3年目最後の春甲子園!兎☆ダイナマイト高校 いくぞおおおおおおおおおおお!ぺこ!【ホロライブ/兎田ぺこら】#パワプロケモミミリーグ",
+      "published_at": "20260731",
+      "url": "https://youtu.be/TQSU4ylXGVk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TQSU4ylXGVk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "9uv6ihLUXtQ",
       "title": "【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
       "published_at": "20260731",
@@ -35,18 +71,6 @@
       "thumbnail": "https://img.youtube.com/vi/9uv6ihLUXtQ/mqdefault.jpg",
       "partner_handle": "robocosan",
       "partner_name": "Roboco Ch. - ロボ子",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "TQSU4ylXGVk",
-      "title": "【パワプロ2026】3年目最後の春甲子園！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
-      "published_at": "20260730",
-      "url": "https://youtu.be/TQSU4ylXGVk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TQSU4ylXGVk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

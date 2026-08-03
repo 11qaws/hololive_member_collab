@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1526,
+  "count": 1527,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16785,6 +16785,17 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L5K85bMDymA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pp1GjYyHa8U",
+      "title": "【 NEXTGEAR 】現実世界に帰れない!?案件中なのに大ピンチ電脳世界から脱出せよ!【角巻わため/常闇トワ/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pp1GjYyHa8U",
       "status": "unreviewed",
       "note": null
     }

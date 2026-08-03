@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1023,
+  "count": 1024,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11252,6 +11252,17 @@
       "published_at": "20200705",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZUW6CcY-Yf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cKTY0lPQBk",
+      "title": "【アニメ】3年も​逃げてたら​そらベイビーに​なりますよ!【副音声あり】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cKTY0lPQBk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3272,
+  "count": 3273,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -35991,6 +35991,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hQZ2TRjVDTL",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9ARW-9-Qbhs",
+      "title": "大神ミオ1st Live 『OUR SPARKLE』ダイジェスト映像",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260719",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9ARW-9-Qbhs",
       "status": "unreviewed",
       "note": null
     }

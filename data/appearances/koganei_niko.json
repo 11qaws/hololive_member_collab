@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 807,
+  "count": 808,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8876,6 +8876,17 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PG0x5g7iKqU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ei1N9bZmJ5E",
+      "title": "笑虎と枢がお互いをホメあってみた💘",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ei1N9bZmJ5E",
       "status": "unreviewed",
       "note": null
     }

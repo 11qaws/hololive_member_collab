@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1088,
+  "count": 1090,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -11967,6 +11967,28 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NY4jLVGEgkc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bdlT5P0G5uU",
+      "title": "【急募3D】@ホロメン いまから事務所でゲームで遊びませんか❓【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bdlT5P0G5uU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jk6GIUH_ojo",
+      "title": "Earth Temple with Bird Friend, Medli! | The Legend of Zelda: The Wind Waker",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260801",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jk6GIUH_ojo",
       "status": "unreviewed",
       "note": null
     }

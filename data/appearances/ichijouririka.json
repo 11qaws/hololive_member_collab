@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1285,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14134,6 +14134,17 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rlpJWBA3C8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qG05BQugAfY",
+      "title": "カメラ目線チャレンジ 莉々華の挑戦💪 #一条莉々華 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qG05BQugAfY",
       "status": "unreviewed",
       "note": null
     }

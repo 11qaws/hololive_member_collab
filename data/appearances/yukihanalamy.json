@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1317,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14486,6 +14486,17 @@
       "published_at": "20200822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/18CMalH1pbc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KArLrSHxlfI",
+      "title": "【オフコラボ3D】#KoZMy 1周年記念!そうめん最強薬味決定戦!!!【ホロライブ / AZKi / 博衣こより / 雪花ラミィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KArLrSHxlfI",
       "status": "unreviewed",
       "note": null
     }

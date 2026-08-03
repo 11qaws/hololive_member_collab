@@ -1,7 +1,31 @@
 {
   "target": "tokoyamitowa",
-  "count": 3599,
+  "count": 3601,
   "entries": [
+    {
+      "video_id": "_g_xW03yfqg",
+      "title": "【 hololive Dreams 】夏イベのふーたんGETしたい‼️こい‼️【常闇トワ / ホロライブ】",
+      "published_at": "20260802",
+      "url": "https://youtu.be/_g_xW03yfqg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_g_xW03yfqg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Pp1GjYyHa8U",
+      "title": "【 NEXTGEAR 】現実世界に帰れない!?案件中なのに大ピンチ電脳世界から脱出せよ!【角巻わため/常闇トワ/ホロライブ4期生】",
+      "published_at": "20260802",
+      "url": "https://youtu.be/Pp1GjYyHa8U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Pp1GjYyHa8U/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ky9zOTDIPbo",
       "title": "ミスると画面からレーザー出るし! #hololive #ホロライブ #ホロぐら #ホロドリ #hololiveDreams",
@@ -4971,24 +4995,24 @@
       "paired_self": null
     },
     {
-      "video_id": "c2hP0qWGgaA",
-      "title": "凛",
-      "published_at": "20251007",
-      "url": "https://youtu.be/c2hP0qWGgaA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "darS1jexgTw",
       "title": "TRUTH",
       "published_at": "20251007",
       "url": "https://youtu.be/darS1jexgTw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c2hP0qWGgaA",
+      "title": "凛",
+      "published_at": "20251007",
+      "url": "https://youtu.be/c2hP0qWGgaA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -5007,24 +5031,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Afj_iZ_04ME",
-      "title": "バズビバザヴ",
-      "published_at": "20251007",
-      "url": "https://youtu.be/Afj_iZ_04ME",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "KcJKbMtIFfg",
       "title": "不可視",
       "published_at": "20251007",
       "url": "https://youtu.be/KcJKbMtIFfg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Afj_iZ_04ME",
+      "title": "バズビバザヴ",
+      "published_at": "20251007",
+      "url": "https://youtu.be/Afj_iZ_04ME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
