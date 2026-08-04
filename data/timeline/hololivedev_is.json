@@ -1,7 +1,31 @@
 {
   "target": "hololivedev_is",
-  "count": 853,
+  "count": 856,
   "entries": [
+    {
+      "video_id": "LK6D6Mo9AKk",
+      "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操するぞ!4日目",
+      "published_at": "20260803",
+      "url": "https://youtu.be/LK6D6Mo9AKk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LK6D6Mo9AKk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_WNZuFf0R1s",
+      "title": "当たり前のことをそれっぽく言ってみた😎 日曜日が終われば...?#ReGLOSS #Vtuber #shorts",
+      "published_at": "20260803",
+      "url": "https://youtu.be/_WNZuFf0R1s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_WNZuFf0R1s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "AkXACF1rWNk",
       "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操だ!3日目",
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "9ZAbUtC901I",
-      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操！2日目",
+      "title": "【#ReGLOSSとラジオ体操 】毎日一緒にラジオ体操!2日目",
       "published_at": "20260801",
       "url": "https://youtu.be/9ZAbUtC901I",
       "entry_type": "stream",
@@ -69,6 +93,18 @@
       "url": "https://youtu.be/5VaKS2rSDgM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5VaKS2rSDgM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NJ-o32sYeJM",
+      "title": "【メンバー限定】カレンダー撮影の様子を公開! 8月編👻",
+      "published_at": "20260731",
+      "url": "https://youtu.be/NJ-o32sYeJM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NJ-o32sYeJM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2727,18 +2763,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Qo_Xhp72DUk",
-      "title": "落噺 (儒烏風亭らでん SOLO)",
-      "published_at": "20251111",
-      "url": "https://youtu.be/Qo_Xhp72DUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PSLHyLxQXIw",
       "title": "Bangarang",
       "published_at": "20251111",
@@ -2751,12 +2775,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JvM1DDsQVzA",
-      "title": "XOVERLINE",
+      "video_id": "Qo_Xhp72DUk",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
-      "url": "https://youtu.be/JvM1DDsQVzA",
+      "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2769,6 +2793,18 @@
       "url": "https://youtu.be/JvM1DDsQVzA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "K9Lj5AFi__I",
+      "title": "サクラミラージュ Snapshot ver.",
+      "published_at": "20251111",
+      "url": "https://youtu.be/K9Lj5AFi__I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

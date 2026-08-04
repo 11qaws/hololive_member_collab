@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1789,
+  "count": 1794,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SnxEkGpNT9k",
+      "title": "【Coffee Talk Tokyo】#3 ラテアートは花火で【儒烏風亭らでん】",
+      "published_at": "20260804",
+      "url": "https://youtu.be/SnxEkGpNT9k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SnxEkGpNT9k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M8XGagAzSWM",
+      "title": "【らでん自習室】8月4日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published_at": "20260803",
+      "url": "https://youtu.be/M8XGagAzSWM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/M8XGagAzSWM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gUkf1CcfHvE",
+      "title": "【漢字でGOGO!】ゲキムズ改に挑戦！判定に助けられたい【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260803",
+      "url": "https://youtu.be/gUkf1CcfHvE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gUkf1CcfHvE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LK6D6Mo9AKk",
+      "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操するぞ!4日目",
+      "published_at": "20260803",
+      "url": "https://youtu.be/LK6D6Mo9AKk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LK6D6Mo9AKk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_WNZuFf0R1s",
+      "title": "当たり前のことをそれっぽく言ってみた😎 日曜日が終われば...?#ReGLOSS #Vtuber #shorts",
+      "published_at": "20260803",
+      "url": "https://youtu.be/_WNZuFf0R1s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_WNZuFf0R1s/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3459,24 +3519,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aSmPF7QwVUI",
-      "title": "出囃子ジャポニズム",
-      "published_at": "20260204",
-      "url": "https://youtu.be/aSmPF7QwVUI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zGxgs3Nw5EY",
       "title": "出囃子ジャポニズム (Instrumental)",
       "published_at": "20260204",
       "url": "https://youtu.be/zGxgs3Nw5EY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aSmPF7QwVUI",
+      "title": "出囃子ジャポニズム",
+      "published_at": "20260204",
+      "url": "https://youtu.be/aSmPF7QwVUI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

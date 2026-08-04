@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 722,
+  "count": 723,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7941,6 +7941,17 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tKVo6rotrWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TKssnQ_c91Y",
+      "title": "キッズすぎて可愛い😍はしゃぎ散らかすコボ 【hololive/kobo kanaeru・宝鐘マリン】#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TKssnQ_c91Y",
       "status": "unreviewed",
       "note": null
     }

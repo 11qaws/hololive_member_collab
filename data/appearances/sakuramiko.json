@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2248,
+  "count": 2250,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24727,6 +24727,28 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9ARW-9-Qbhs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TZjCj_fc1ew",
+      "title": "【リアタイ視聴必須】バーチャル×リアル謎解き生配信 #ホロパニ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y57Lc18Dkvc",
+      "title": "地獄のアルバイト(ころね支店)",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y57Lc18Dkvc",
       "status": "unreviewed",
       "note": null
     }

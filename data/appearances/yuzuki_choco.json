@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 978,
+  "count": 981,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10757,6 +10757,39 @@
       "published_at": "20260727",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/88WcglQIKkI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TZjCj_fc1ew",
+      "title": "【リアタイ視聴必須】バーチャル×リアル謎解き生配信 #ホロパニ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DgUB0-Eqero",
+      "title": "『 #花火の音に紛れて伝えたいこと 』 #アキちょこナイパレ 第46回 ~ホロライブ深夜ラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DgUB0-Eqero",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9E4zZCFRWFY",
+      "title": "【ASMR】お姉さんに優しくお手入れされるラプラス・ダークネス #hololive #ホロライブ #フェチ #どうしてこうなった",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9E4zZCFRWFY",
       "status": "unreviewed",
       "note": null
     }

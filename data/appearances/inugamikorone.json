@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1100,
+  "count": 1101,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12099,6 +12099,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hQZ2TRjVDTL",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TL7ze9Ckvks",
+      "title": "【 バイト募集】新たな事業をはじめるにぇ――――。【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TL7ze9Ckvks",
       "status": "unreviewed",
       "note": null
     }

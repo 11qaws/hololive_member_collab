@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1348,
+  "count": 1349,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14827,6 +14827,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KArLrSHxlfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TZjCj_fc1ew",
+      "title": "【リアタイ視聴必須】バーチャル×リアル謎解き生配信 #ホロパニ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260731",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TZjCj_fc1ew",
       "status": "unreviewed",
       "note": null
     }

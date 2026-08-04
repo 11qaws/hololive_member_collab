@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2394,
+  "count": 2395,
   "entries": [
+    {
+      "video_id": "iR7U7czME9o",
+      "title": "【RESIDENT EVIL 4】IF IT'S NOT ADA WONG...",
+      "published_at": "20260803",
+      "url": "https://youtu.be/iR7U7czME9o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iR7U7czME9o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "2Qoc1B-Sqog",
       "title": "【Toilet 8】i just wanna be part of your skibidi",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/2Qoc1B-Sqog",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/2Qoc1B-Sqog/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Tb0VDntrQJ4",
+      "title": "【HOLOLIVE DREAMS】PLAYING MY FILL",
+      "published_at": "20260802",
+      "url": "https://youtu.be/Tb0VDntrQJ4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Tb0VDntrQJ4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,18 +47,6 @@
       "thumbnail": "https://img.youtube.com/vi/-cKTY0lPQBk/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Tb0VDntrQJ4",
-      "title": "【HOLOLIVE DREAMS】PLAYING MY FILL",
-      "published_at": "20260801",
-      "url": "https://youtu.be/Tb0VDntrQJ4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Tb0VDntrQJ4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

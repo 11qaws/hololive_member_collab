@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 2964,
+  "count": 2967,
   "entries": [
+    {
+      "video_id": "DgUB0-Eqero",
+      "title": "『 #花火の音に紛れて伝えたいこと 』 #アキちょこナイパレ 第46回 ~ホロライブ深夜ラジオ~",
+      "published_at": "20260803",
+      "url": "https://youtu.be/DgUB0-Eqero",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DgUB0-Eqero/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9E4zZCFRWFY",
+      "title": "【ASMR】お姉さんに優しくお手入れされるラプラス・ダークネス #hololive #ホロライブ #フェチ #どうしてこうなった",
+      "published_at": "20260803",
+      "url": "https://youtu.be/9E4zZCFRWFY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9E4zZCFRWFY/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GdDQnsDqJps",
       "title": "【ホロドリ】ホロドリ生活２日目📣メインストーリークリア目指す！ 【ホロライブ/癒月ちょこ】",
@@ -23,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/_tiM7L-HNFw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TZjCj_fc1ew",
+      "title": "【リアタイ視聴必須】バーチャル×リアル謎解き生配信 #ホロパニ",
+      "published_at": "20260731",
+      "url": "https://youtu.be/TZjCj_fc1ew",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TZjCj_fc1ew/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35547,24 +35583,24 @@
       "paired_self": null
     },
     {
-      "video_id": "hTzLA7c04JM",
-      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/hTzLA7c04JM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zd6Fl-wZVHk",
       "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/Zd6Fl-wZVHk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hTzLA7c04JM",
+      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/hTzLA7c04JM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

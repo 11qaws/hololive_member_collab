@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2249,
+  "count": 2251,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LK6D6Mo9AKk",
+      "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操するぞ!4日目",
+      "published_at": "20260803",
+      "url": "https://youtu.be/LK6D6Mo9AKk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LK6D6Mo9AKk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_WNZuFf0R1s",
+      "title": "当たり前のことをそれっぽく言ってみた😎 日曜日が終われば...?#ReGLOSS #Vtuber #shorts",
+      "published_at": "20260803",
+      "url": "https://youtu.be/_WNZuFf0R1s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_WNZuFf0R1s/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18375,24 +18399,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aVywsgBF8Js",
-      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
-      "published_at": "20240927",
-      "url": "https://youtu.be/aVywsgBF8Js",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jwYEbr39tis",
       "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
       "published_at": "20240927",
       "url": "https://youtu.be/jwYEbr39tis",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aVywsgBF8Js",
+      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "published_at": "20240927",
+      "url": "https://youtu.be/aVywsgBF8Js",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

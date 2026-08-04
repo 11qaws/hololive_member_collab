@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3273,
+  "count": 3275,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36002,6 +36002,28 @@
       "published_at": "20260719",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9ARW-9-Qbhs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y57Lc18Dkvc",
+      "title": "地獄のアルバイト(ころね支店)",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y57Lc18Dkvc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TL7ze9Ckvks",
+      "title": "【 バイト募集】新たな事業をはじめるにぇ――――。【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TL7ze9Ckvks",
       "status": "unreviewed",
       "note": null
     }

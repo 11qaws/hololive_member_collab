@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1011,
+  "count": 1012,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11120,6 +11120,17 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mI6fIXoSvfA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9E4zZCFRWFY",
+      "title": "お姉さんに優しくお手入れされるラプラス・ダークネス #hololive #ホロライブ #どうしてこうなった",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9E4zZCFRWFY",
       "status": "unreviewed",
       "note": null
     }

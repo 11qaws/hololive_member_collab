@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2605,
+  "count": 2606,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WfM_Hdxh2E4",
+      "title": "【雑談】体が硬すぎる女【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260803",
+      "url": "https://youtu.be/WfM_Hdxh2E4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WfM_Hdxh2E4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,7 +52,7 @@
     },
     {
       "video_id": "4mFFd35Qx24",
-      "title": "【視聴者参加型!?】全人類が（色んな意味で）ドキドキする無人島生活 テニプリを愛する女による実況 part2 ※ネタバレあり【一条莉々華/hololive DEV_IS　ReGLOSS】",
+      "title": "【視聴者参加型!?】全人類が(色んな意味で)ドキドキする無人島生活 テニプリを愛する女による実況 part2 ※ネタバレあり【一条莉々華/hololive DEV_IS ReGLOSS】",
       "published_at": "20260801",
       "url": "https://youtu.be/4mFFd35Qx24",
       "entry_type": "stream",
@@ -20103,24 +20115,24 @@
       "paired_self": null
     },
     {
-      "video_id": "JR6shpFnMLQ",
-      "title": "今日も大天才っ!",
-      "published_at": "20240910",
-      "url": "https://youtu.be/JR6shpFnMLQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "U5zGOt3OOAE",
       "title": "今日も大天才っ!(Instrumental)",
       "published_at": "20240910",
       "url": "https://youtu.be/U5zGOt3OOAE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U5zGOt3OOAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JR6shpFnMLQ",
+      "title": "今日も大天才っ!",
+      "published_at": "20240910",
+      "url": "https://youtu.be/JR6shpFnMLQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JR6shpFnMLQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
