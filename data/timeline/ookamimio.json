@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 4009,
+  "count": 4010,
   "entries": [
     {
       "video_id": "hQZ2TRjVDTL",
@@ -15,8 +15,20 @@
       "paired_self": null
     },
     {
+      "video_id": "3XCE9jHk26U",
+      "title": "【メンバーシップ限定】寝る前のゆるい雑談でまったり~",
+      "published_at": "20260804",
+      "url": "https://youtu.be/3XCE9jHk26U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3XCE9jHk26U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "VbJcErxLlFI",
-      "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
+      "title": "【#朝ミオ 】月曜日だよ~!おはみぉーん!",
       "published_at": "20260802",
       "url": "https://youtu.be/VbJcErxLlFI",
       "entry_type": "stream",

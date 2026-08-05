@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2251,
+  "count": 2252,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uaxwPuhedfU",
+      "title": "8月のメンシカレンダー撮影の裏側をチラ見せ👀 肝試しに挑戦👻 メンバーシップに入ってカレンダーをゲットしよう! #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260804",
+      "url": "https://youtu.be/uaxwPuhedfU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uaxwPuhedfU/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

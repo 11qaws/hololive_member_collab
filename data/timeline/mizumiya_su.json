@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2145,
+  "count": 2147,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nYu4hBskdhE",
+      "title": "【手書き】みんなはどっち派? #ホロライブ  #vtuber #animation",
+      "published_at": "20260804",
+      "url": "https://youtu.be/nYu4hBskdhE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nYu4hBskdhE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ooWiclPAZHs",
+      "title": "千速と枢で風呂キャンセル界隈!",
+      "published_at": "20260804",
+      "url": "https://youtu.be/ooWiclPAZHs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ooWiclPAZHs/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "qGavbN7ub3o",
-      "title": "【Forza Horizon 6】3Dで初ハンコン!🚗【水宮枢/ホロライブDEV_IS】",
+      "title": "【Forza Horizon 6】3Dで初ハンコン！🚗【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260802",
       "url": "https://youtu.be/qGavbN7ub3o",
       "entry_type": "stream",
@@ -45,6 +69,18 @@
       "url": "https://youtu.be/cr__ipWe5GI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cr__ipWe5GI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NVUfFkAd6sc",
+      "title": "【ホロドリ】hololiveDreams やるよ〜🎶#4【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260802",
+      "url": "https://youtu.be/NVUfFkAd6sc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NVUfFkAd6sc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -107,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/Ei1N9bZmJ5E/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "NVUfFkAd6sc",
-      "title": "【ホロドリ】hololiveDreams やるよ〜🎶＃4【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260801",
-      "url": "https://youtu.be/NVUfFkAd6sc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/NVUfFkAd6sc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

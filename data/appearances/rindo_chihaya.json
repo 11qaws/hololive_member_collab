@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1211,
+  "count": 1212,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13320,6 +13320,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/V1CpHfFWA04",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ooWiclPAZHs",
+      "title": "千速と枢で風呂キャンセル界隈!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ooWiclPAZHs",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,31 @@
 {
   "target": "hololiveenglish",
-  "count": 660,
+  "count": 662,
   "entries": [
+    {
+      "video_id": "bA14lG3OgSs",
+      "title": "Steal that spotlight🤫🤫🤫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "published_at": "20260805",
+      "url": "https://youtu.be/bA14lG3OgSs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bA14lG3OgSs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l4OQjrMJFLM",
+      "title": "LV1 milkmaid VS LV1000 milkmaid #lifehacks #hololiveenglish",
+      "published_at": "20260805",
+      "url": "https://youtu.be/l4OQjrMJFLM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/l4OQjrMJFLM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "VfGYqvDyyG4",
       "title": "Witness the magic of Advent! ✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
@@ -7779,24 +7803,24 @@
       "paired_self": null
     },
     {
-      "video_id": "xAp6QzMlTEY",
-      "title": "兆し|#holoENOmen",
-      "published_at": "20210815",
-      "url": "https://youtu.be/xAp6QzMlTEY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BOWi6Pclr48",
       "title": "Omen|#holoENOmen",
       "published_at": "20210815",
       "url": "https://youtu.be/BOWi6Pclr48",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BOWi6Pclr48/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xAp6QzMlTEY",
+      "title": "兆し|#holoENOmen",
+      "published_at": "20210815",
+      "url": "https://youtu.be/xAp6QzMlTEY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

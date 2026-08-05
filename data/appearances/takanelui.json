@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1426,
+  "count": 1427,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15685,6 +15685,17 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/y57Lc18Dkvc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CPrKbRc3mos",
+      "title": "【ホロドリ】ポカジャン凸待ち！！最新コツ伝授＆ポカジャン最強ランキング⁉も！【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CPrKbRc3mos",
       "status": "unreviewed",
       "note": null
     }

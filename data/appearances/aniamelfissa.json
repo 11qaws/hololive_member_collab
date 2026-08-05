@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1334,
+  "count": 1335,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -14673,6 +14673,17 @@
       "published_at": "20260730",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tKVo6rotrWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOUJ3hUBzR0",
+      "title": "【ゆらゆら】なにこれめっちゃやりたい #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOUJ3hUBzR0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1106,
+  "count": 1108,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12165,6 +12165,28 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y0VKPl07vLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "npr2NKqfwnY",
+      "title": "【MECCHA CHAMELEON】i got invited to a big collab and i need to camouflage【ID VTUBERS】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/npr2NKqfwnY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOUJ3hUBzR0",
+      "title": "【ゆらゆら】なにこれめっちゃやりたい #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOUJ3hUBzR0",
       "status": "unreviewed",
       "note": null
     }

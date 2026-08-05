@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1034,
+  "count": 1036,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11373,6 +11373,28 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yWbwBA8XNh8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W-r4wqpIuN4",
+      "title": "【 3D歌枠 】そらリオカラオケ!全部パーフェクト♪【ホロライブ/ときのそら】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W-r4wqpIuN4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oZbqT1Mjm3I",
+      "title": "キラメキMODE! feat. 響咲リオナ",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oZbqT1Mjm3I",
       "status": "unreviewed",
       "note": null
     }

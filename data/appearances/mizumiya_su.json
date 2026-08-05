@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1091,
+  "count": 1092,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12000,6 +12000,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ooWiclPAZHs",
+      "title": "千速と枢で風呂キャンセル界隈!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ooWiclPAZHs",
       "status": "unreviewed",
       "note": null
     }

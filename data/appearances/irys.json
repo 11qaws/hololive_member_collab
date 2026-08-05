@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1097,
+  "count": 1098,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12066,6 +12066,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GTpQYXMbPgY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l4OQjrMJFLM",
+      "title": "LV1 milkmaid VS LV1000 milkmaid #lifehacks #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l4OQjrMJFLM",
       "status": "unreviewed",
       "note": null
     }

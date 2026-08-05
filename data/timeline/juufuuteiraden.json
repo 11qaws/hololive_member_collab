@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1794,
+  "count": 1796,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "h6TTIgm4ThA",
+      "title": "【 博物ふぇすてぃばる! 】博フェスで何買った!?購入品を紹介します!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260804",
+      "url": "https://youtu.be/h6TTIgm4ThA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/h6TTIgm4ThA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Acbs1tKDQCw",
+      "title": "【らでん自習室】8月5日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published_at": "20260804",
+      "url": "https://youtu.be/Acbs1tKDQCw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Acbs1tKDQCw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,11 +64,23 @@
     },
     {
       "video_id": "gUkf1CcfHvE",
-      "title": "【漢字でGOGO!】ゲキムズ改に挑戦！判定に助けられたい【儒烏風亭らでん #ReGLOSS 】",
+      "title": "【漢字でGOGO!】ゲキムズ改に挑戦!判定に助けられたい【儒烏風亭らでん #ReGLOSS 】",
       "published_at": "20260803",
       "url": "https://youtu.be/gUkf1CcfHvE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/gUkf1CcfHvE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EDJtY-cNgtA",
+      "title": "【らでん自習室】8月3日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published_at": "20260803",
+      "url": "https://youtu.be/EDJtY-cNgtA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EDJtY-cNgtA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/_WNZuFf0R1s/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "EDJtY-cNgtA",
-      "title": "【らでん自習室】8月3日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-      "published_at": "20260802",
-      "url": "https://youtu.be/EDJtY-cNgtA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EDJtY-cNgtA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3519,24 +3543,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zGxgs3Nw5EY",
-      "title": "出囃子ジャポニズム (Instrumental)",
-      "published_at": "20260204",
-      "url": "https://youtu.be/zGxgs3Nw5EY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aSmPF7QwVUI",
       "title": "出囃子ジャポニズム",
       "published_at": "20260204",
       "url": "https://youtu.be/aSmPF7QwVUI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGxgs3Nw5EY",
+      "title": "出囃子ジャポニズム (Instrumental)",
+      "published_at": "20260204",
+      "url": "https://youtu.be/zGxgs3Nw5EY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

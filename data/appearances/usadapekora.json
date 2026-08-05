@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1566,
+  "count": 1574,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17225,6 +17225,94 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yWbwBA8XNh8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "shxuqk7vEf0",
+      "title": "【#ホロ夏Among Us 】初手キルやーめーてー😭【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/shxuqk7vEf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sB05O-NIXKQ",
+      "title": "【#ホロ夏Among Us】アツいAmong Usが…くるッ…！【百鬼あやめ/ホロライブ】",
+      "channel_handle": "nakiri_ayame",
+      "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sB05O-NIXKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cN_YcYFhZ2s",
+      "title": "【#ホロ夏AmongUs】人狼2000時間プレイしてるけど質問ある？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cN_YcYFhZ2s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p6TytOHcqNI",
+      "title": "【 #ホロ夏AmongUs 】この名探偵を信じてください！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p6TytOHcqNI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9n8ZF9NdYKs",
+      "title": "【#ホロ夏AmongUs】among usやるしゅばああああああああああああああああああああああああああああああああああああああああああ！！！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9n8ZF9NdYKs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EuR-HaXvjRo",
+      "title": "【 #ホロ夏AmongUs 】涼しげに全員KILLします【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EuR-HaXvjRo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fIYQDsU5st8",
+      "title": "【 #ホロ夏AmongUs 】わァ...ぁ... ビビりのアモアスが始まる…のらっ…(；o；🍬)【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fIYQDsU5st8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GwS4hGBb6CY",
+      "title": "【 #ホロ夏AmongUs 】夏だ！アモアスだ！！【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GwS4hGBb6CY",
       "status": "unreviewed",
       "note": null
     }

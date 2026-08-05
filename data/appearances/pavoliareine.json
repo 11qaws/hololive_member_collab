@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 949,
+  "count": 951,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -10438,6 +10438,28 @@
       "published_at": "20260723",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-6kQtn7Nz8A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cUUIsoI4dAI",
+      "title": "【WATCHALONG】FIRE EMBLEM DIRECT WHOOOOOOO (and superchats) #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cUUIsoI4dAI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOUJ3hUBzR0",
+      "title": "【ゆらゆら】なにこれめっちゃやりたい #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOUJ3hUBzR0",
       "status": "unreviewed",
       "note": null
     }

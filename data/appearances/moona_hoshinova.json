@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1086,
+  "count": 1087,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11945,6 +11945,17 @@
       "published_at": "20260724",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NY4jLVGEgkc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOUJ3hUBzR0",
+      "title": "【ゆらゆら】なにこれめっちゃやりたい #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOUJ3hUBzR0",
       "status": "unreviewed",
       "note": null
     }

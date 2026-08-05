@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1030,
+  "count": 1032,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11329,6 +11329,28 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GTpQYXMbPgY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "npr2NKqfwnY",
+      "title": "【MECCHA CHAMELEON】i got invited to a big collab and i need to camouflage【ID VTUBERS】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/npr2NKqfwnY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mc5B6oogrEM",
+      "title": "【ELSWORD】BELAJAR RAID DOOM DAN CICIL TITLE CONCERTO",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mc5B6oogrEM",
       "status": "unreviewed",
       "note": null
     }

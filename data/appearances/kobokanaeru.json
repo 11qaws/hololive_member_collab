@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 723,
+  "count": 725,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7952,6 +7952,28 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TKssnQ_c91Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOUJ3hUBzR0",
+      "title": "【ゆらゆら】なにこれめっちゃやりたい #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOUJ3hUBzR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1SHBXJ6zPhQ",
+      "title": "GRINDING BERSAMA BOKOBOKOBO",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1SHBXJ6zPhQ",
       "status": "unreviewed",
       "note": null
     }
