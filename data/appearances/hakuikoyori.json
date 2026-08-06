@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1349,
+  "count": 1351,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14838,6 +14838,28 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wkdz7ICvKbw",
+      "title": "【揃え】リーダー争いが絶えないヒーローもの #hololive #ホロライブ #ホロぐら #戦隊",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wkdz7ICvKbw",
       "status": "unreviewed",
       "note": null
     }

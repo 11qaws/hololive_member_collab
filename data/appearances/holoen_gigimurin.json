@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 881,
+  "count": 884,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9690,6 +9690,39 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jOUJ3hUBzR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hmG29VpEcRs",
+      "title": "being ORANGE 🍊 is enough!!! ❤️ @holoen_gigimurin",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hmG29VpEcRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S67vkAxw78k",
+      "title": "【hololive Dreams】a new mori calliope song?! after 5 years?!?!?!?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S67vkAxw78k",
       "status": "unreviewed",
       "note": null
     }

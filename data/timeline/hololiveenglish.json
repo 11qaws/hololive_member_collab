@@ -1,7 +1,43 @@
 {
   "target": "hololiveenglish",
-  "count": 662,
+  "count": 664,
   "entries": [
+    {
+      "video_id": "GTpQYXMbPgY",
+      "title": "【MV】Windy Traveler【hololive Meet Ambassadors】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/GTpQYXMbPgY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GTpQYXMbPgY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FBVAv8VxF_E",
+      "title": "Windy Traveler",
+      "published_at": "20260805",
+      "url": "https://youtu.be/FBVAv8VxF_E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FBVAv8VxF_E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd_Div1611w",
+      "title": "Windy Traveler (Instrumental)",
+      "published_at": "20260805",
+      "url": "https://youtu.be/Zd_Div1611w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd_Div1611w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "bA14lG3OgSs",
       "title": "Steal that spotlight🤫🤫🤫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
@@ -81,18 +117,6 @@
       "url": "https://youtu.be/hpZUwzlOBOY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hpZUwzlOBOY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "GTpQYXMbPgY",
-      "title": "【MV】Windy Traveler【hololive Meet Ambassadors】",
-      "published_at": "20260731",
-      "url": "https://youtu.be/GTpQYXMbPgY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GTpQYXMbPgY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

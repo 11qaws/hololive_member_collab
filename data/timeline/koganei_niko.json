@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1610,
+  "count": 1612,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N1-Al7JpmHg",
+      "title": "IB @ishyageinin  #虎のいる生活",
+      "published_at": "20260805",
+      "url": "https://youtu.be/N1-Al7JpmHg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/N1-Al7JpmHg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VmKCcGnOv2c",
+      "title": "【3Dバトル】らではじリオニコ、ガチバトル開幕 MCのりりーか【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260805",
+      "url": "https://youtu.be/VmKCcGnOv2c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VmKCcGnOv2c/mqdefault.jpg",
+      "partner_handle": "ichijouririka",
+      "partner_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19287,18 +19311,6 @@
       "paired_self": null
     },
     {
-      "video_id": "TK6OchILmqw",
-      "title": "ひ　み　つ　💛",
-      "published_at": "",
-      "url": "https://youtu.be/TK6OchILmqw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "pylOG0ntH_s",
       "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
       "published_at": "",
@@ -19317,6 +19329,18 @@
       "url": "https://youtu.be/v9ea3cDKhX4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TK6OchILmqw",
+      "title": "ひ　み　つ　💛",
+      "published_at": "",
+      "url": "https://youtu.be/TK6OchILmqw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

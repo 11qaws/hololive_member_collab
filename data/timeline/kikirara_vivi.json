@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2315,
+  "count": 2319,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,54 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NZD6r0F6wFk",
+      "title": "【 ヨッシーアイランド 】完全初見!人生初のヨッシーアイランドに挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/NZD6r0F6wFk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NZD6r0F6wFk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nAoPfknYdjA",
+      "title": "【ホロライブ ドリームス】水着イベ最終日！？音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published_at": "20260805",
+      "url": "https://youtu.be/nAoPfknYdjA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nAoPfknYdjA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JBNs3aEA54U",
+      "title": "キルミーベイベー『ふたりのきもちのほんとのひみつ』踊ってみた!【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
+      "published_at": "20260805",
+      "url": "https://youtu.be/JBNs3aEA54U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JBNs3aEA54U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "published_at": "20260805",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -40,7 +88,7 @@
     },
     {
       "video_id": "54pl_TnUkMI",
-      "title": "OBF",
+      "title": "OBF/ジョー・力一さん【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
       "published_at": "20260804",
       "url": "https://youtu.be/54pl_TnUkMI",
       "entry_type": "stream",
@@ -136,7 +184,7 @@
     },
     {
       "video_id": "90J4KKSex-A",
-      "title": "【めっちゃカメレオン】視聴者参加型！大阪でみんなと遊びたい！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【めっちゃカメレオン】視聴者参加型!大阪でみんなと遊びたい!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published_at": "20260803",
       "url": "https://youtu.be/90J4KKSex-A",
       "entry_type": "stream",
@@ -27699,24 +27747,24 @@
       "paired_self": null
     },
     {
-      "video_id": "XIY3l0VI14k",
-      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
-      "published_at": "20241107",
-      "url": "https://youtu.be/XIY3l0VI14k",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "fDTGc5FhjCI",
       "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
       "published_at": "20241107",
       "url": "https://youtu.be/fDTGc5FhjCI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/fDTGc5FhjCI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XIY3l0VI14k",
+      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
+      "published_at": "20241107",
+      "url": "https://youtu.be/XIY3l0VI14k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

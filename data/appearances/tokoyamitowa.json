@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1527,
+  "count": 1528,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16796,6 +16796,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pp1GjYyHa8U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LWI2QxFuCA0",
+      "title": "【推しカメラ】CH4NGE / さくらみこ生誕祭2026\" Fashion Beat \"",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260410",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LWI2QxFuCA0",
       "status": "unreviewed",
       "note": null
     }

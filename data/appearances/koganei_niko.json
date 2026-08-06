@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 808,
+  "count": 809,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8887,6 +8887,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ei1N9bZmJ5E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VmKCcGnOv2c",
+      "title": "【3Dバトル】らではじリオニコ、ガチバトル開幕 MCのりりーか【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VmKCcGnOv2c",
       "status": "unreviewed",
       "note": null
     }

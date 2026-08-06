@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1032,
+  "count": 1034,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11351,6 +11351,28 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mc5B6oogrEM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FBVAv8VxF_E",
+      "title": "Windy Traveler",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FBVAv8VxF_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zd_Div1611w",
+      "title": "Windy Traveler (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zd_Div1611w",
       "status": "unreviewed",
       "note": null
     }

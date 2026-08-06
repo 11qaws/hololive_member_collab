@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1098,
+  "count": 1101,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12077,6 +12077,39 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/l4OQjrMJFLM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FBVAv8VxF_E",
+      "title": "Windy Traveler",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FBVAv8VxF_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zd_Div1611w",
+      "title": "Windy Traveler (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zd_Div1611w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wkdz7ICvKbw",
+      "title": "【揃え】リーダー争いが絶えないヒーローもの #hololive #ホロライブ #ホロぐら #戦隊",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wkdz7ICvKbw",
       "status": "unreviewed",
       "note": null
     }

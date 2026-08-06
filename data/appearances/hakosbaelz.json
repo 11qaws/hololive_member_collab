@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1187,
+  "count": 1188,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13056,6 +13056,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bdlT5P0G5uU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "ourokronii",
-  "count": 1816,
+  "count": 1819,
   "entries": [
+    {
+      "video_id": "i08i3tsFRo4",
+      "title": "[Hollow Knight: Silksong] I Forgot | #7",
+      "published_at": "20260805",
+      "url": "https://youtu.be/i08i3tsFRo4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i08i3tsFRo4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "xY0NhmbNwfY",
       "title": "【Superchat Catchup】No Place Like Home #sponsored",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/xY0NhmbNwfY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "published_at": "20260805",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l4OQjrMJFLM",
+      "title": "LV1 milkmaid VS LV1000 milkmaid #lifehacks #hololiveenglish",
+      "published_at": "20260805",
+      "url": "https://youtu.be/l4OQjrMJFLM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/l4OQjrMJFLM/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },
@@ -21771,24 +21807,24 @@
       "paired_self": null
     },
     {
-      "video_id": "o03KGZbrp3E",
-      "title": "Ouro Kronii 【Way 2 U】Original MV",
-      "published_at": "",
-      "url": "https://youtu.be/o03KGZbrp3E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/o03KGZbrp3E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "HgP2Mvq3g9M",
       "title": "This week's schedule (Mar 30) ⏳ #krotime",
       "published_at": "",
       "url": "https://youtu.be/HgP2Mvq3g9M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HgP2Mvq3g9M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "o03KGZbrp3E",
+      "title": "Ouro Kronii 【Way 2 U】Original MV",
+      "published_at": "",
+      "url": "https://youtu.be/o03KGZbrp3E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/o03KGZbrp3E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

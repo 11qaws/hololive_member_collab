@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2395,
+  "count": 2397,
   "entries": [
+    {
+      "video_id": "bA14lG3OgSs",
+      "title": "Steal that spotlight🤫🤫🤫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "published_at": "20260805",
+      "url": "https://youtu.be/bA14lG3OgSs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bA14lG3OgSs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "iR7U7czME9o",
       "title": "【RESIDENT EVIL 4】IF IT'S NOT ADA WONG...",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/-cKTY0lPQBk/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VfGYqvDyyG4",
+      "title": "Witness the magic of Advent! ✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "published_at": "20260802",
+      "url": "https://youtu.be/VfGYqvDyyG4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VfGYqvDyyG4/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },

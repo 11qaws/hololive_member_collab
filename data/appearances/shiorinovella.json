@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 940,
+  "count": 944,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10339,6 +10339,50 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-cKTY0lPQBk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bA14lG3OgSs",
+      "title": "Steal that spotlight🤫🤫🤫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bA14lG3OgSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S67vkAxw78k",
+      "title": "【hololive Dreams】a new mori calliope song?! after 5 years?!?!?!?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S67vkAxw78k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VfGYqvDyyG4",
+      "title": "Witness the magic of Advent! ✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VfGYqvDyyG4",
       "status": "unreviewed",
       "note": null
     }

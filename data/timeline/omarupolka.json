@@ -1,7 +1,43 @@
 {
   "target": "omarupolka",
-  "count": 4392,
+  "count": 4395,
   "entries": [
+    {
+      "video_id": "ysUk_VF8ch0",
+      "title": "【ポルカの伝説】利きボールペンチャレンジ!!",
+      "published_at": "20260806",
+      "url": "https://youtu.be/ysUk_VF8ch0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ysUk_VF8ch0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "published_at": "20260805",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wkdz7ICvKbw",
+      "title": "【揃え】リーダー争いが絶えないヒーローもの #hololive #ホロライブ #ホロぐら #戦隊",
+      "published_at": "20260805",
+      "url": "https://youtu.be/wkdz7ICvKbw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wkdz7ICvKbw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "FOflEcxXLBw",
       "title": "【パラノマサイト FILE38 伊勢人魚物語】#4 あばかれていく人魚の謎！※ネタバレあり【尾丸ポルカ/ホロライブ】",
@@ -1972,7 +2008,7 @@
     },
     {
       "video_id": "A5Q0GpglCEE",
-      "title": "【パラノマサイト FILE38 伊勢人魚物語】人魚の謎を追い求めて！！！！※ネタバレあり【尾丸ポルカ/ホロライブ】",
+      "title": "【パラノマサイト FILE38 伊勢人魚物語】#2 人魚の謎を追い求めて!!!!※ネタバレあり【尾丸ポルカ/ホロライブ】",
       "published_at": "20260506",
       "url": "https://youtu.be/A5Q0GpglCEE",
       "entry_type": "stream",
@@ -16311,24 +16347,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZTjry52_Ou4",
-      "title": "パペット",
-      "published_at": "20250130",
-      "url": "https://youtu.be/ZTjry52_Ou4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v5kXEPBEVSw",
       "title": "無理ぽ to ポジ",
       "published_at": "20250130",
       "url": "https://youtu.be/v5kXEPBEVSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZTjry52_Ou4",
+      "title": "パペット",
+      "published_at": "20250130",
+      "url": "https://youtu.be/ZTjry52_Ou4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -37203,24 +37239,24 @@
       "paired_self": null
     },
     {
-      "video_id": "F7RQo4pOc2g",
-      "title": "サイキョウチックポルカ (Instrumental)",
-      "published_at": "20220816",
-      "url": "https://youtu.be/F7RQo4pOc2g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/F7RQo4pOc2g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7YJ1Dyoznms",
       "title": "サイキョウチックポルカ",
       "published_at": "20220816",
       "url": "https://youtu.be/7YJ1Dyoznms",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7YJ1Dyoznms/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "F7RQo4pOc2g",
+      "title": "サイキョウチックポルカ (Instrumental)",
+      "published_at": "20220816",
+      "url": "https://youtu.be/F7RQo4pOc2g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/F7RQo4pOc2g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -52623,18 +52659,6 @@
       "paired_self": null
     },
     {
-      "video_id": "q4eXcXl3BtI",
-      "title": "尾丸ポルカサーカス開演",
-      "published_at": "20200815",
-      "url": "https://youtu.be/q4eXcXl3BtI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "vbaff8W1Zrw",
       "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
       "published_at": "20200815",
@@ -52653,6 +52677,18 @@
       "url": "https://youtu.be/g4G7bbRhBaQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q4eXcXl3BtI",
+      "title": "尾丸ポルカサーカス開演",
+      "published_at": "20200815",
+      "url": "https://youtu.be/q4eXcXl3BtI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

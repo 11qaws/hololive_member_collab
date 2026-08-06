@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1092,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12011,6 +12011,28 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ooWiclPAZHs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tXd2yQbtfCQ",
+      "title": "【#生スバル】スバルの小屋!!!やるしゅばあああああああああああああああああ!!!!!~ゲスト：Su~【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tXd2yQbtfCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
       "status": "unreviewed",
       "note": null
     }

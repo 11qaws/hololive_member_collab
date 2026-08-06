@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1642,
+  "count": 1643,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18061,6 +18061,17 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CPrKbRc3mos",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wkdz7ICvKbw",
+      "title": "【揃え】リーダー争いが絶えないヒーローもの #hololive #ホロライブ #ホロぐら #戦隊",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wkdz7ICvKbw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1212,
+  "count": 1213,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13331,6 +13331,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ooWiclPAZHs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
       "status": "unreviewed",
       "note": null
     }

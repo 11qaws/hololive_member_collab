@@ -1,7 +1,43 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1459,
+  "count": 1463,
   "entries": [
+    {
+      "video_id": "YBO8AbDdBKc",
+      "title": "【LEAGUE OF LEGENDS】RISEEEEEEEEEEEEEEE RISEEEEEEEEEEEEEEEEE",
+      "published_at": "20260805",
+      "url": "https://youtu.be/YBO8AbDdBKc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YBO8AbDdBKc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "published_at": "20260805",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hmG29VpEcRs",
+      "title": "being ORANGE 🍊 is enough!!! ❤️ @holoen_gigimurin",
+      "published_at": "20260805",
+      "url": "https://youtu.be/hmG29VpEcRs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hmG29VpEcRs/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "6hQOhIy_0qI",
       "title": "【AMERICAN TRUCK SIMULATOR】i don't even know what an america is",
@@ -47,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/jOUJ3hUBzR0/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S67vkAxw78k",
+      "title": "【hololive Dreams】a new mori calliope song?! after 5 years?!?!?!?! #calliolive",
+      "published_at": "20260804",
+      "url": "https://youtu.be/S67vkAxw78k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S67vkAxw78k/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

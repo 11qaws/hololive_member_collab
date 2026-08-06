@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1036,
+  "count": 1037,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11395,6 +11395,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oZbqT1Mjm3I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VmKCcGnOv2c",
+      "title": "【3Dバトル】らではじリオニコ、ガチバトル開幕 MCのりりーか【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VmKCcGnOv2c",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1123,
+  "count": 1125,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12352,6 +12352,28 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-cKTY0lPQBk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bA14lG3OgSs",
+      "title": "Steal that spotlight🤫🤫🤫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260805",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bA14lG3OgSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VfGYqvDyyG4",
+      "title": "Witness the magic of Advent! ✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260802",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VfGYqvDyyG4",
       "status": "unreviewed",
       "note": null
     }
