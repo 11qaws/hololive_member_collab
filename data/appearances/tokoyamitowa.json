@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1528,
+  "count": 1532,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16807,6 +16807,50 @@
       "published_at": "20260410",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LWI2QxFuCA0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T5YrIblH9bI",
+      "title": "RATTATATATAAA!!! ♥️💜🧡",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T5YrIblH9bI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r1ugh4Xrj6g",
+      "title": "Both purple vtubers dancing together 😍 (MMD!) #shorts",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r1ugh4Xrj6g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v1zWE0dGkD0",
+      "title": "ねねねトワワしか勝たん🫶💖 #vtuber #hololive",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v1zWE0dGkD0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u70VzTl8kKQ",
+      "title": "nobody does it like towamori!! plus ねねち on the vocals!! #dance #hololive #anime #vtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u70VzTl8kKQ",
       "status": "unreviewed",
       "note": null
     }

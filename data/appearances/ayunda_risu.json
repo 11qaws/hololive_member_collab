@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1034,
+  "count": 1036,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11373,6 +11373,28 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Zd_Div1611w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "znC-V6rQVUI",
+      "title": "【MECCHA CHAMELEON】PARTYYYYY 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/znC-V6rQVUI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1JaTzIuCGLE",
+      "title": "ぴったり半分の重さに出来るかな? #hololive #ホロライブ #チャレンジ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1JaTzIuCGLE",
       "status": "unreviewed",
       "note": null
     }

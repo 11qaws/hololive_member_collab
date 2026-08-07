@@ -1,7 +1,19 @@
 {
   "target": "tokinosora",
-  "count": 3111,
+  "count": 3112,
   "entries": [
+    {
+      "video_id": "5IpdYy91D-Y",
+      "title": "【新〇〇公開!? 】そらぱ最新情報&本日から2次先行開始です!!【ホロライブ/ときのそら】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/5IpdYy91D-Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5IpdYy91D-Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "FBVAv8VxF_E",
       "title": "Windy Traveler",
@@ -26367,24 +26379,24 @@
       "paired_self": null
     },
     {
-      "video_id": "NUwMo_epcD8",
-      "title": "エイリアンエイリアン",
-      "published_at": "20211123",
-      "url": "https://youtu.be/NUwMo_epcD8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/NUwMo_epcD8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "qy1v9m1FCCg",
       "title": "God knows...",
       "published_at": "20211123",
       "url": "https://youtu.be/qy1v9m1FCCg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/qy1v9m1FCCg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NUwMo_epcD8",
+      "title": "エイリアンエイリアン",
+      "published_at": "20211123",
+      "url": "https://youtu.be/NUwMo_epcD8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NUwMo_epcD8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30351,18 +30363,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Bqj5DsHNJpE",
-      "title": "空祭り",
-      "published_at": "20201020",
-      "url": "https://youtu.be/Bqj5DsHNJpE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Bqj5DsHNJpE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Mxysqo6Tbks",
       "title": "マイオドレ!舞舞タイム",
       "published_at": "20201020",
@@ -30375,24 +30375,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JC_FYkbUbAE",
-      "title": "青空のシンフォニー",
+      "video_id": "Bqj5DsHNJpE",
+      "title": "空祭り",
       "published_at": "20201020",
-      "url": "https://youtu.be/JC_FYkbUbAE",
+      "url": "https://youtu.be/Bqj5DsHNJpE",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JC_FYkbUbAE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Bhl2ZJ58LFY",
-      "title": "ぐるぐる・ラブストーリー",
-      "published_at": "20201020",
-      "url": "https://youtu.be/Bhl2ZJ58LFY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Bhl2ZJ58LFY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Bqj5DsHNJpE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30411,24 +30399,48 @@
       "paired_self": null
     },
     {
-      "video_id": "G5Y4lDRHDrc",
-      "title": "ブルーベリームーン",
-      "published_at": "20201020",
-      "url": "https://youtu.be/G5Y4lDRHDrc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/G5Y4lDRHDrc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "A3173J48AbA",
       "title": "Step and Go!!",
       "published_at": "20201020",
       "url": "https://youtu.be/A3173J48AbA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/A3173J48AbA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Bhl2ZJ58LFY",
+      "title": "ぐるぐる・ラブストーリー",
+      "published_at": "20201020",
+      "url": "https://youtu.be/Bhl2ZJ58LFY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Bhl2ZJ58LFY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JC_FYkbUbAE",
+      "title": "青空のシンフォニー",
+      "published_at": "20201020",
+      "url": "https://youtu.be/JC_FYkbUbAE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JC_FYkbUbAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G5Y4lDRHDrc",
+      "title": "ブルーベリームーン",
+      "published_at": "20201020",
+      "url": "https://youtu.be/G5Y4lDRHDrc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G5Y4lDRHDrc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30591,24 +30603,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Lfb1Et1tF_o",
-      "title": "あの子とシンパシー",
-      "published_at": "20200930",
-      "url": "https://youtu.be/Lfb1Et1tF_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Lfb1Et1tF_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "EgiBGYwqINU",
       "title": "あの子とシンパシー (instrumental)",
       "published_at": "20200930",
       "url": "https://youtu.be/EgiBGYwqINU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/EgiBGYwqINU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Lfb1Et1tF_o",
+      "title": "あの子とシンパシー",
+      "published_at": "20200930",
+      "url": "https://youtu.be/Lfb1Et1tF_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Lfb1Et1tF_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32451,24 +32463,24 @@
       "paired_self": null
     },
     {
-      "video_id": "irPvyFjTZyA",
-      "title": "Equation of Love",
-      "published_at": "20200303",
-      "url": "https://youtu.be/irPvyFjTZyA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dCkYVk-adow",
       "title": "フレーフレーLOVE",
       "published_at": "20200303",
       "url": "https://youtu.be/dCkYVk-adow",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dCkYVk-adow/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "irPvyFjTZyA",
+      "title": "Equation of Love",
+      "published_at": "20200303",
+      "url": "https://youtu.be/irPvyFjTZyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -34023,18 +34035,6 @@
       "paired_self": null
     },
     {
-      "video_id": "PiVmPN1FlVc",
-      "title": "Dream☆Story",
-      "published_at": "20190425",
-      "url": "https://youtu.be/PiVmPN1FlVc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PiVmPN1FlVc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "ctkmeD0BfNs",
       "title": "未練レコード",
       "published_at": "20190425",
@@ -34053,6 +34053,18 @@
       "url": "https://youtu.be/ENcxaslU0ws",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ENcxaslU0ws/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PiVmPN1FlVc",
+      "title": "Dream☆Story",
+      "published_at": "20190425",
+      "url": "https://youtu.be/PiVmPN1FlVc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PiVmPN1FlVc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

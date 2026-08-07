@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1101,
+  "count": 1102,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12110,6 +12110,17 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TL7ze9Ckvks",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
       "status": "unreviewed",
       "note": null
     }

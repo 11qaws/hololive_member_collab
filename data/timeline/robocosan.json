@@ -1,16 +1,64 @@
 {
   "target": "robocosan",
-  "count": 4061,
+  "count": 4065,
   "entries": [
     {
+      "video_id": "3KzdBBAMg8E",
+      "title": "現世アリス【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/3KzdBBAMg8E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3KzdBBAMg8E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BVg1H-COU6I",
+      "title": "twinkle night feat somunia ロボ子さん×兎田ぺこら【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/BVg1H-COU6I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BVg1H-COU6I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gz6oAcL8Cw4",
+      "title": "W/X/Y【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/gz6oAcL8Cw4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gz6oAcL8Cw4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "0W9v3sE22rY",
-      "title": "【MGMG EAT】最近はせいろ料理にはまってるよん!!一緒にごはんたべよ~ 【ホロライブ/ロボ子さん】",
+      "title": "【MGMG EAT】最近はせいろ料理にはまってるよん！！一緒にごはんたべよ～　【ホロライブ/ロボ子さん】",
       "published_at": "20260806",
       "url": "https://youtu.be/0W9v3sE22rY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/0W9v3sE22rY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "published_at": "20260806",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

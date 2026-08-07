@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1204,
+  "count": 1206,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13243,6 +13243,28 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YG14cnOcF2w",
+      "title": "【メニコン】3人でアクティブな毎日を、クリアな瞳で。【轟はじめ/ホロライブDEV_IS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YG14cnOcF2w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9KA61UGnzAU",
+      "title": "笑虎とヴィヴィとリオナで風呂キャンセル界隈!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9KA61UGnzAU",
       "status": "unreviewed",
       "note": null
     }

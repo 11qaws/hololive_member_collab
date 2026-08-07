@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 842,
+  "count": 844,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9261,6 +9261,28 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/o2bR2DKyk_4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zGM0QOtbLgs",
+      "title": "【#ReGLOSSとラジオ体操】らでんと一緒にラジオ体操!7日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zGM0QOtbLgs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gogcP73JeM8",
+      "title": "【歌ってみた】酔いどれ知らず【りりらでん】#hololive",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gogcP73JeM8",
       "status": "unreviewed",
       "note": null
     }

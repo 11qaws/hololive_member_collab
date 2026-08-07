@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1109,
+  "count": 1110,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12198,6 +12198,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NrC7hfqAZSI",
+      "title": "MECCHA CHAMELEON GENGSSSSSSS",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NrC7hfqAZSI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2073,
+  "count": 2074,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "n4KIhw8GOIc",
+      "title": "【ReGLOSS衣装紹介】奏のDayBreak衣装紹介🎵 皆さんはどの衣装がお気に入りですか〜? #ReGLOSS #音乃瀬奏 #Vtuber #shorts",
+      "published_at": "20260806",
+      "url": "https://youtu.be/n4KIhw8GOIc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/n4KIhw8GOIc/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +64,7 @@
     },
     {
       "video_id": "p6TytOHcqNI",
-      "title": "【 #ホロ夏AmongUs 】この名探偵を信じてください！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 #ホロ夏AmongUs 】この名探偵を信じてください!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260804",
       "url": "https://youtu.be/p6TytOHcqNI",
       "entry_type": "stream",
@@ -24855,24 +24867,24 @@
       "paired_self": null
     },
     {
-      "video_id": "mVNF0Opghnc",
-      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published_at": "",
-      "url": "https://youtu.be/mVNF0Opghnc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "MBxH_i3bAhA",
       "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
       "published_at": "",
       "url": "https://youtu.be/MBxH_i3bAhA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mVNF0Opghnc",
+      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "",
+      "url": "https://youtu.be/mVNF0Opghnc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1207,
+  "count": 1208,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13276,6 +13276,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/R7JuPJlwjnc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fx0Q7UPmd3k",
+      "title": "ウチらしか勝たんって…こと!?常闇トワ×桃鈴ねね【ホロライブ/雪花ラミィ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fx0Q7UPmd3k",
       "status": "unreviewed",
       "note": null
     }

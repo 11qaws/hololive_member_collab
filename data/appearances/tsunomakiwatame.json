@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1727,
+  "count": 1728,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -18996,6 +18996,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kfZbugoiyIc",
+      "title": "え?Bye bye iofi #repo #白上フブキ #イオフィ",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kfZbugoiyIc",
       "status": "unreviewed",
       "note": null
     }

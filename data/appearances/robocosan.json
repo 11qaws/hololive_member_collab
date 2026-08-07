@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1263,
+  "count": 1264,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13892,6 +13892,17 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N9yRMCeu-Gs",
+      "title": "【新ボイス】あなたにドキッをお届け!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N9yRMCeu-Gs",
       "status": "unreviewed",
       "note": null
     }

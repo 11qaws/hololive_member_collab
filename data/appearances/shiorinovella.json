@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 944,
+  "count": 945,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10383,6 +10383,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VfGYqvDyyG4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LNAXHC_psU0",
+      "title": "【#holoAdvent Q&A COLLAB】answering your BURNING questions for our 3rd anniversary 🐾 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LNAXHC_psU0",
       "status": "unreviewed",
       "note": null
     }

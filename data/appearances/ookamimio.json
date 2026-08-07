@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1882,
+  "count": 1884,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20701,6 +20701,28 @@
       "published_at": "20260731",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZjCj_fc1ew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EnqViu_hRKA",
+      "title": "【ホロドリ】勝負しようぜ‼ミニゲーム凸待ち🌟🔥【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EnqViu_hRKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kw0eWvgGrzA",
+      "title": "【ホロドリ】これ、無限に欲しい。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kw0eWvgGrzA",
       "status": "unreviewed",
       "note": null
     }

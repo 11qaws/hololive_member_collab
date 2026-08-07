@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1577,
+  "count": 1578,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17346,6 +17346,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jOUJ3hUBzR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kfZbugoiyIc",
+      "title": "え?Bye bye iofi #repo #白上フブキ #イオフィ",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kfZbugoiyIc",
       "status": "unreviewed",
       "note": null
     }

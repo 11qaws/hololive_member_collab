@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1037,
+  "count": 1038,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11406,6 +11406,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VmKCcGnOv2c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9KA61UGnzAU",
+      "title": "笑虎とヴィヴィとリオナで風呂キャンセル界隈!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9KA61UGnzAU",
       "status": "unreviewed",
       "note": null
     }

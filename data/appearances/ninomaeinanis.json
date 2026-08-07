@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1062,
+  "count": 1065,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11681,6 +11681,39 @@
       "published_at": "20260722",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Blen0XcU9gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M-LFJF0gO7U",
+      "title": "Main character energy vs... #travel #train #hololiveEnglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M-LFJF0gO7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EnqViu_hRKA",
+      "title": "【ホロドリ】勝負しようぜ‼ミニゲーム凸待ち🌟🔥【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EnqViu_hRKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kw0eWvgGrzA",
+      "title": "【ホロドリ】これ、無限に欲しい。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kw0eWvgGrzA",
       "status": "unreviewed",
       "note": null
     }

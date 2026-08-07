@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1574,
+  "count": 1575,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17313,6 +17313,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GwS4hGBb6CY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BVg1H-COU6I",
+      "title": "twinkle night feat somunia ロボ子さん×兎田ぺこら【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BVg1H-COU6I",
       "status": "unreviewed",
       "note": null
     }

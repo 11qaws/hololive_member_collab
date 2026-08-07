@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1125,
+  "count": 1126,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12374,6 +12374,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VfGYqvDyyG4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1JaTzIuCGLE",
+      "title": "ぴったり半分の重さに出来るかな? #hololive #ホロライブ #チャレンジ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1JaTzIuCGLE",
       "status": "unreviewed",
       "note": null
     }

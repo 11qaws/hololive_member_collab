@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2250,
+  "count": 2251,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -24749,6 +24749,17 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/y57Lc18Dkvc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kw0eWvgGrzA",
+      "title": "【ホロドリ】これ、無限に欲しい。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kw0eWvgGrzA",
       "status": "unreviewed",
       "note": null
     }

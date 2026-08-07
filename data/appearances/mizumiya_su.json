@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1094,
+  "count": 1097,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12033,6 +12033,39 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YG14cnOcF2w",
+      "title": "【メニコン】3人でアクティブな毎日を、クリアな瞳で。【轟はじめ/ホロライブDEV_IS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YG14cnOcF2w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1JaTzIuCGLE",
+      "title": "ぴったり半分の重さに出来るかな? #hololive #ホロライブ #チャレンジ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1JaTzIuCGLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kfZbugoiyIc",
+      "title": "え?Bye bye iofi #repo #白上フブキ #イオフィ",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kfZbugoiyIc",
       "status": "unreviewed",
       "note": null
     }

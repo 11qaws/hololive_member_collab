@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1351,
+  "count": 1352,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14860,6 +14860,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wkdz7ICvKbw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GOPkIHDR8k0",
+      "title": "【ホロドリ】クソザコポカジャン-6000コインの負債を無くせるまで…【ホロライブ/宝鐘マリン・博衣こより】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GOPkIHDR8k0",
       "status": "unreviewed",
       "note": null
     }
