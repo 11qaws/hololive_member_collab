@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1124,
+  "count": 1127,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12363,6 +12363,39 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1JaTzIuCGLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tWv8xSRGfag",
+      "title": "Advent Aura Farming on a car  #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tWv8xSRGfag",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EzcbJ7lC1D0",
+      "title": "When \"Spotlight\" hits 🦝🕳️💃 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EzcbJ7lC1D0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttX_80xGoJ8",
       "status": "unreviewed",
       "note": null
     }

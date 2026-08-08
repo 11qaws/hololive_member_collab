@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1328,
+  "count": 1329,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14607,6 +14607,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K0fJZ32s6RI",
+      "title": "【 ホットペッパーグルメの席押さえ】みこラミィでホロ飲みオフコラボするにぇ～～！✨【さくらみこ/雪花ラミィ/ホロライブ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K0fJZ32s6RI",
       "status": "unreviewed",
       "note": null
     }

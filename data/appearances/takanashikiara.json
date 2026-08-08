@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1090,
+  "count": 1091,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -11989,6 +11989,17 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jk6GIUH_ojo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttX_80xGoJ8",
       "status": "unreviewed",
       "note": null
     }

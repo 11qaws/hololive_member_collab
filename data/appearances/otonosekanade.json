@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1102,
+  "count": 1106,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12121,6 +12121,50 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n4KIhw8GOIc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E_2Z0-JkakE",
+      "title": "【#ReGLOSSとラジオ体操】朝から元気よくラジオ体操しよう💪9日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E_2Z0-JkakE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z3jD62ToMeM",
+      "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z3jD62ToMeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7iFYOWm8N2U",
+      "title": "ReGLOSS 'Lucky Loud' Rehearsal Video",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7iFYOWm8N2U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-rjPvcqCnA",
+      "title": "🍧🥃日常で起こる超常現象3 🍓🫙#hololive #ホロライブ #手作りジャム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-rjPvcqCnA",
       "status": "unreviewed",
       "note": null
     }

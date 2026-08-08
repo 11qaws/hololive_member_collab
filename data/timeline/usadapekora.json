@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 4584,
+  "count": 4585,
   "entries": [
     {
       "video_id": "hQZ2TRjVDTL",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/hQZ2TRjVDTL/mqdefault.jpg",
       "partner_handle": "houshoumarine",
       "partner_name": "Marine Ch. 宝鐘マリン",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rVFmMr06_DI",
+      "title": "【日本事故物件監視協会３】今年イチやばい…実在する事故物件を監視する仕事をします…！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/rVFmMr06_DI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rVFmMr06_DI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,7 +52,7 @@
     },
     {
       "video_id": "0q-ADJz8uIk",
-      "title": "【Beast of Reincarnation】ポケモンの会社さんが作った新作ゲームやってみる！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "title": "【Beast of Reincarnation】ポケモンの会社さんが作った新作ゲームやってみる!ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
       "published_at": "20260805",
       "url": "https://youtu.be/0q-ADJz8uIk",
       "entry_type": "stream",
@@ -54987,24 +54999,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ysnmwuuCJvs",
-      "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "",
-      "url": "https://youtu.be/ysnmwuuCJvs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "vGB9ansRy_E",
       "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "",
       "url": "https://youtu.be/vGB9ansRy_E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ysnmwuuCJvs",
+      "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "",
+      "url": "https://youtu.be/ysnmwuuCJvs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

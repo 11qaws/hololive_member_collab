@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1887,
+  "count": 1888,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20756,6 +20756,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wkdz7ICvKbw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a5ODkOzB_y0",
+      "title": "【超巨大3D】ぐらぐらタワー大崩壊!恥ずかし罰ゲームあり!【#ホロタワーバトル】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a5ODkOzB_y0",
       "status": "unreviewed",
       "note": null
     }

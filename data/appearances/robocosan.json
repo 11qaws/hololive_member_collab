@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1264,
+  "count": 1266,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -13903,6 +13903,28 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a5ODkOzB_y0",
+      "title": "【超巨大3D】ぐらぐらタワー大崩壊!恥ずかし罰ゲームあり!【#ホロタワーバトル】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a5ODkOzB_y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-rjPvcqCnA",
+      "title": "🍧🥃日常で起こる超常現象3 🍓🫙#hololive #ホロライブ #手作りジャム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-rjPvcqCnA",
       "status": "unreviewed",
       "note": null
     }

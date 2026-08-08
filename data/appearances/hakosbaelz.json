@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1188,
+  "count": 1189,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13067,6 +13067,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttX_80xGoJ8",
       "status": "unreviewed",
       "note": null
     }

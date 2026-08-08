@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1097,
+  "count": 1098,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12066,6 +12066,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kfZbugoiyIc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KjGeg8XRwCE",
+      "title": "ヴィヴィと枢がお互いをホメあってみた💘",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KjGeg8XRwCE",
       "status": "unreviewed",
       "note": null
     }

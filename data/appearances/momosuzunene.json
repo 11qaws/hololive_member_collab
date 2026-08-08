@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1208,
+  "count": 1209,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13287,6 +13287,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fx0Q7UPmd3k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jp0GRGpfRos",
+      "title": "hairbun twins!!!!",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jp0GRGpfRos",
       "status": "unreviewed",
       "note": null
     }

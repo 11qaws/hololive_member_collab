@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1011,
+  "count": 1013,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11120,6 +11120,28 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/l4OQjrMJFLM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-rjPvcqCnA",
+      "title": "🍧🥃日常で起こる超常現象3 🍓🫙#hololive #ホロライブ #手作りジャム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-rjPvcqCnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttX_80xGoJ8",
       "status": "unreviewed",
       "note": null
     }

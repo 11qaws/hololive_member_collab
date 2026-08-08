@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1409,
+  "count": 1410,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15498,6 +15498,17 @@
       "published_at": "20260802",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bdlT5P0G5uU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260804",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttX_80xGoJ8",
       "status": "unreviewed",
       "note": null
     }

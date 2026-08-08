@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 2111,
+  "count": 2112,
   "entries": [
     {
       "video_id": "M-LFJF0gO7U",
@@ -59,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/0DkC5Z4ncMA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ttX_80xGoJ8",
+      "title": "Forcing All Of HoloEN To Raise Children",
+      "published_at": "20260804",
+      "url": "https://youtu.be/ttX_80xGoJ8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ttX_80xGoJ8/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

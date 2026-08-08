@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 2973,
+  "count": 2975,
   "entries": [
+    {
+      "video_id": "1c4B7ChrB5Y",
+      "title": "ボイスドラマ「The Beginning」#05 青春",
+      "published_at": "20260807",
+      "url": "https://youtu.be/1c4B7ChrB5Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1c4B7ChrB5Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "SnrqpD21Xik",
       "title": "【ホロドリ】ホロドリ生活３日目📣水着ガチャ挑戦！！！！ 【ホロライブ/癒月ちょこ】",
@@ -57,6 +69,18 @@
       "url": "https://youtu.be/N9yRMCeu-Gs",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/N9yRMCeu-Gs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "a5ODkOzB_y0",
+      "title": "【超巨大3D】ぐらぐらタワー大崩壊!恥ずかし罰ゲームあり!【#ホロタワーバトル】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/a5ODkOzB_y0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/a5ODkOzB_y0/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

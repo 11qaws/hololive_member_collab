@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1137,
+  "count": 1142,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12506,6 +12506,61 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/o2bR2DKyk_4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E_2Z0-JkakE",
+      "title": "【#ReGLOSSとラジオ体操】朝から元気よくラジオ体操しよう💪9日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E_2Z0-JkakE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7iFYOWm8N2U",
+      "title": "ReGLOSS 'Lucky Loud' Rehearsal Video",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7iFYOWm8N2U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CyioAPpM_yc",
+      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操!8日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CyioAPpM_yc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-rjPvcqCnA",
+      "title": "🍧🥃日常で起こる超常現象3 🍓🫙#hololive #ホロライブ #手作りジャム",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-rjPvcqCnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_F0XadW_WEk",
+      "title": "【みんなで575】「音楽」で575を作ってみた🎤 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_F0XadW_WEk",
       "status": "unreviewed",
       "note": null
     }

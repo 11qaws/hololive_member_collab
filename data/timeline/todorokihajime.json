@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2258,
+  "count": 2265,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,14 +15,98 @@
       "paired_self": null
     },
     {
+      "video_id": "6bSLqT4YIag",
+      "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/6bSLqT4YIag",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6bSLqT4YIag/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AZgKPA0t6Is",
+      "title": "【日本事故物件監視協会3】実在するやばい事故物件の監視-JSP3【轟はじめ/ReGLOSS】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/AZgKPA0t6Is",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AZgKPA0t6Is/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CyioAPpM_yc",
+      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操!8日目",
+      "published_at": "20260807",
+      "url": "https://youtu.be/CyioAPpM_yc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CyioAPpM_yc/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0-rjPvcqCnA",
+      "title": "🍧🥃日常で起こる超常現象3 🍓🫙#hololive #ホロライブ #手作りジャム",
+      "published_at": "20260807",
+      "url": "https://youtu.be/0-rjPvcqCnA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0-rjPvcqCnA/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_F0XadW_WEk",
+      "title": "【みんなで575】「音楽」で575を作ってみた🎤 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260807",
+      "url": "https://youtu.be/_F0XadW_WEk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_F0XadW_WEk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "YG14cnOcF2w",
-      "title": "【メニコン】3人でアクティブな毎日を、クリアな瞳で。【轟はじめ/ホロライブDEV_IS】",
+      "title": "【メニコン】3人でアクティブな毎日を、クリアな瞳で。【轟はじめ／ホロライブDEV_IS】",
       "published_at": "20260806",
       "url": "https://youtu.be/YG14cnOcF2w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/YG14cnOcF2w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "E_2Z0-JkakE",
+      "title": "【#ReGLOSSとラジオ体操】朝から元気よくラジオ体操しよう💪9日目",
+      "published_at": "20260806",
+      "url": "https://youtu.be/E_2Z0-JkakE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/E_2Z0-JkakE/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7iFYOWm8N2U",
+      "title": "ReGLOSS 'Lucky Loud' Rehearsal Video",
+      "published_at": "20260806",
+      "url": "https://youtu.be/7iFYOWm8N2U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7iFYOWm8N2U/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
