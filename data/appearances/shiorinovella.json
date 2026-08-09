@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 949,
+  "count": 950,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10438,6 +10438,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ttX_80xGoJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dJHzaugxM-g",
+      "title": "Sneaky Dance Challenge! 🤫💃 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dJHzaugxM-g",
       "status": "unreviewed",
       "note": null
     }

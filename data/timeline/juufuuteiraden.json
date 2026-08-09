@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1809,
+  "count": 1812,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,14 +15,38 @@
       "paired_self": null
     },
     {
+      "video_id": "xKvAt5YkBw4",
+      "title": "【 #らでんと美術鑑賞 】第二回うちのやきものはこちらでん!視聴者投稿を見よう!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/xKvAt5YkBw4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xKvAt5YkBw4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "HJB0-Xf_Vto",
       "title": "【らでん自習室】8月8日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-      "published_at": "20260807",
+      "published_at": "20260808",
       "url": "https://youtu.be/HJB0-Xf_Vto",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HJB0-Xf_Vto/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kDRZt0xxYt4",
+      "title": "#LuckyLoud SOLOver.サビ🎤 全員分聞いてくれましたか〜? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260808",
+      "url": "https://youtu.be/kDRZt0xxYt4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kDRZt0xxYt4/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -47,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/0-rjPvcqCnA/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6Zyd62nJqQ8",
+      "title": "【#ReGLOSSとラジオ体操】祝10日目!暑い夏🍉を乗り越えるぞ!",
+      "published_at": "20260807",
+      "url": "https://youtu.be/6Zyd62nJqQ8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6Zyd62nJqQ8/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -316,7 +352,7 @@
     },
     {
       "video_id": "wg2BTTC0Mic",
-      "title": "【らでん自習室】8月1日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "title": "【らでん自習室】8月1日10:00~11:00 【儒烏風亭らでん/ReGLOSS】 ",
       "published_at": "20260731",
       "url": "https://youtu.be/wg2BTTC0Mic",
       "entry_type": "stream",

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1410,
+  "count": 1411,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15509,6 +15509,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ttX_80xGoJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3qrQ4KcvUb4",
+      "title": "Into The Void - Episode 2: No Hope (Original Motion Comic)",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3qrQ4KcvUb4",
       "status": "unreviewed",
       "note": null
     }

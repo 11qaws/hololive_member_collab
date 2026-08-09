@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1299,
+  "count": 1301,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14288,6 +14288,28 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0-rjPvcqCnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6Zyd62nJqQ8",
+      "title": "【#ReGLOSSとラジオ体操】祝10日目!暑い夏🍉を乗り越えるぞ!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6Zyd62nJqQ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kDRZt0xxYt4",
+      "title": "#LuckyLoud SOLOver.サビ🎤 全員分聞いてくれましたか〜? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kDRZt0xxYt4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1209,
+  "count": 1212,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13298,6 +13298,39 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Jp0GRGpfRos",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N8twZPOqJBc",
+      "title": "【original MV】Cosmic Wonderful Tour!【ねぽらぼ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N8twZPOqJBc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S0MmPlFXUqE",
+      "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S0MmPlFXUqE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "07qx3PL4b3U",
+      "title": "【 #常闇トワ生誕祭2026 】告知あり！新衣装お披露目ミニライブ🎶【 3DLIVE 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/07qx3PL4b3U",
       "status": "unreviewed",
       "note": null
     }

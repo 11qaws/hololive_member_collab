@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1575,
+  "count": 1576,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17324,6 +17324,17 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BVg1H-COU6I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v-2quLN-YVU",
+      "title": "推しカメラ twinkle night #兎田ぺこら #ロボ子さん #ロボ子海底3Dライブ #dance",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v-2quLN-YVU",
       "status": "unreviewed",
       "note": null
     }

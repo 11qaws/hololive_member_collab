@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1098,
+  "count": 1101,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12077,6 +12077,39 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KjGeg8XRwCE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6qcM1XVVzKg",
+      "title": "【 #しゅぴなで 】リベンジ!!!!初代マリオ!1時間並走!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6qcM1XVVzKg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yRP_4tvVPww",
+      "title": "【 #しゅぴなで 】初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yRP_4tvVPww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7--MvprOeM4",
+      "title": "みんなでパラパラでも踊るか〜🌟",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7--MvprOeM4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1643,
+  "count": 1644,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18072,6 +18072,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wkdz7ICvKbw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S0MmPlFXUqE",
+      "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S0MmPlFXUqE",
       "status": "unreviewed",
       "note": null
     }

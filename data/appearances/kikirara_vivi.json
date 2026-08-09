@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1207,
+  "count": 1208,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13276,6 +13276,17 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KjGeg8XRwCE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7--MvprOeM4",
+      "title": "みんなでパラパラでも踊るか〜🌟",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7--MvprOeM4",
       "status": "unreviewed",
       "note": null
     }

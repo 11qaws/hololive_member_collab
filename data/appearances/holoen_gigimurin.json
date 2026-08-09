@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 884,
+  "count": 886,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9723,6 +9723,28 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S67vkAxw78k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3qrQ4KcvUb4",
+      "title": "Into The Void - Episode 2: No Hope (Original Motion Comic)",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3qrQ4KcvUb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZLGL1xO7Pfo",
+      "title": "i love gigi murin #dance #hololive #anime #animation #vtuber #envtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZLGL1xO7Pfo",
       "status": "unreviewed",
       "note": null
     }

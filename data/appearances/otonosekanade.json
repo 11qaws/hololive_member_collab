@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1106,
+  "count": 1109,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12165,6 +12165,39 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0-rjPvcqCnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6Zyd62nJqQ8",
+      "title": "【#ReGLOSSとラジオ体操】祝10日目!暑い夏🍉を乗り越えるぞ!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6Zyd62nJqQ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lsbDcd9AJdY",
+      "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lsbDcd9AJdY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kDRZt0xxYt4",
+      "title": "#LuckyLoud SOLOver.サビ🎤 全員分聞いてくれましたか〜? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260808",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kDRZt0xxYt4",
       "status": "unreviewed",
       "note": null
     }

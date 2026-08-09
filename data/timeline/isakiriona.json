@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1909,
+  "count": 1913,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "TQZ2cjb5w_g",
+      "title": "【 Detroit: Become Human 】完全初見、人生は選択の連続__【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/TQZ2cjb5w_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TQZ2cjb5w_g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "u1UX-2gJl6U",
       "title": "はじめ先輩のソンナコトナイヨ踊ってみた🫶はじめ先輩のツッコミ大好き人間🧑! #vtuber #shorts #dance",
       "published_at": "20260808",
@@ -23,6 +35,42 @@
       "thumbnail": "https://img.youtube.com/vi/u1UX-2gJl6U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sDXwaagq_jU",
+      "title": "【 日本事故物件監視協会3 】3Dで恐ろしい監視業務やるで…【ホロライブ/さくらみこ】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/sDXwaagq_jU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/sDXwaagq_jU/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7--MvprOeM4",
+      "title": "みんなでパラパラでも踊るか〜🌟",
+      "published_at": "20260808",
+      "url": "https://youtu.be/7--MvprOeM4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7--MvprOeM4/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QDI1pDu8akA",
+      "title": "【手書き】ねぇ何してたの? #ホロライブ  #vtuber #animation",
+      "published_at": "20260808",
+      "url": "https://youtu.be/QDI1pDu8akA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QDI1pDu8akA/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -22863,24 +22911,12 @@
       "paired_self": null
     },
     {
-      "video_id": "f2x5-aQuSzA",
-      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
+      "video_id": "d7mYLP8c6LE",
+      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "",
-      "url": "https://youtu.be/f2x5-aQuSzA",
+      "url": "https://youtu.be/d7mYLP8c6LE",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "sa4kyeVj9Wk",
-      "title": "【Dance practice】LOAD 響咲リオナver",
-      "published_at": "",
-      "url": "https://youtu.be/sa4kyeVj9Wk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -22899,12 +22935,24 @@
       "paired_self": null
     },
     {
-      "video_id": "d7mYLP8c6LE",
-      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
+      "video_id": "sa4kyeVj9Wk",
+      "title": "【Dance practice】LOAD 響咲リオナver",
       "published_at": "",
-      "url": "https://youtu.be/d7mYLP8c6LE",
+      "url": "https://youtu.be/sa4kyeVj9Wk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "f2x5-aQuSzA",
+      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
+      "published_at": "",
+      "url": "https://youtu.be/f2x5-aQuSzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

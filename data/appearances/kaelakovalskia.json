@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1055,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11604,6 +11604,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NrC7hfqAZSI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z9MZH1pbukc",
+      "title": "【hololive Dreams】PLEASE GACHA GODS BLESS ME ONE MORE TIME",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z9MZH1pbukc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1523,
+  "count": 1524,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16752,6 +16752,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bBH4eLTZTZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g12nSDueGve",
+      "title": "IRyS 1st Concert「HOPE𝄆 Beyond the Stars」",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g12nSDueGve",
       "status": "unreviewed",
       "note": null
     }

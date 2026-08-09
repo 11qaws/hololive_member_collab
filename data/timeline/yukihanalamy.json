@@ -1,7 +1,19 @@
 {
   "target": "yukihanalamy",
-  "count": 3282,
+  "count": 3286,
   "entries": [
+    {
+      "video_id": "TOmBe-7QFJs",
+      "title": "【JSP3】日本事故物件監視協会3 -Japan Stigmatized Property-【雪花ラミィ /ホロライブ】",
+      "published_at": "20260809",
+      "url": "https://youtu.be/TOmBe-7QFJs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TOmBe-7QFJs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "N8twZPOqJBc",
       "title": "【original MV】Cosmic Wonderful Tour!【ねぽらぼ /ホロライブ】",
@@ -11,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/N8twZPOqJBc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NCBzuep4GrU",
+      "title": "【RIZAP監修】ラミィと一緒にレッツワークアウト!|第七回：太もも、脚痩せ編【雪花ラミィ /ホロライブ】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/NCBzuep4GrU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NCBzuep4GrU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S0MmPlFXUqE",
+      "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/S0MmPlFXUqE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S0MmPlFXUqE/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cD3MYP8hJRM",
+      "title": "【 #ねぽらぼweeeek 】何それ！！！！絶対楽しいやつじゃん！！！！！！【 ねぽらぼ / hololive 】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/cD3MYP8hJRM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cD3MYP8hJRM/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
       "paired_self": null
     },

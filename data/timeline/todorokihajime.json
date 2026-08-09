@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2265,
+  "count": 2269,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,14 +15,50 @@
       "paired_self": null
     },
     {
+      "video_id": "ruhsNdv5lOI",
+      "title": "【あつまれどうぶつの森】120連中!今日こそ出会いたい...!【轟はじめ/ReGLOSS】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/ruhsNdv5lOI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ruhsNdv5lOI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "6bSLqT4YIag",
-      "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+      "title": "【メン限】サイン書き書き【轟はじめ/ReGLOSS】",
       "published_at": "20260808",
       "url": "https://youtu.be/6bSLqT4YIag",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/6bSLqT4YIag/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S0MmPlFXUqE",
+      "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
+      "published_at": "20260808",
+      "url": "https://youtu.be/S0MmPlFXUqE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S0MmPlFXUqE/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kDRZt0xxYt4",
+      "title": "#LuckyLoud SOLOver.サビ🎤 全員分聞いてくれましたか〜? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260808",
+      "url": "https://youtu.be/kDRZt0xxYt4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kDRZt0xxYt4/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -69,6 +105,18 @@
       "url": "https://youtu.be/_F0XadW_WEk",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/_F0XadW_WEk/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6Zyd62nJqQ8",
+      "title": "【#ReGLOSSとラジオ体操】祝10日目!暑い夏🍉を乗り越えるぞ!",
+      "published_at": "20260807",
+      "url": "https://youtu.be/6Zyd62nJqQ8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6Zyd62nJqQ8/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
@@ -18567,24 +18615,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aVywsgBF8Js",
-      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
-      "published_at": "20240927",
-      "url": "https://youtu.be/aVywsgBF8Js",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jwYEbr39tis",
       "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
       "published_at": "20240927",
       "url": "https://youtu.be/jwYEbr39tis",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aVywsgBF8Js",
+      "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
+      "published_at": "20240927",
+      "url": "https://youtu.be/aVywsgBF8Js",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
