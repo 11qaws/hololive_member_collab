@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1427,
+  "count": 1430,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15696,6 +15696,39 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CPrKbRc3mos",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sp1jn754slE",
+      "title": "【リズム天国 ミラクルスターズ】セルフ3Dでわちゃわちゃオフコラボ✨、リズム感がないやつはいない・・・よにゃああ!? 【ホロライブ/ #るいろぼこーん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sp1jn754slE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "upVZ6IIq1yo",
+      "title": "【Waterpark Simulator】地獄のアルバイト編～２回目～【ころね支店】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/upVZ6IIq1yo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "guCt8BP_2DA",
+      "title": "【Waterpark Simulator】開業２日目！🌊ホロサマーランド開拓していくぜぇ～～～！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/guCt8BP_2DA",
       "status": "unreviewed",
       "note": null
     }

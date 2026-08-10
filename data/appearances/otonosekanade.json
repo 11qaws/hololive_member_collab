@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1109,
+  "count": 1111,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12198,6 +12198,28 @@
       "published_at": "20260808",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kDRZt0xxYt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kg5ekyw68hM",
+      "title": "【#ReGLOSSとラジオ体操】なでらでと一緒にラジオ体操!11日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260807",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kg5ekyw68hM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zy8KKc44Bgc",
+      "title": "俺たちチーム番長 #hololive #shorts",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zy8KKc44Bgc",
       "status": "unreviewed",
       "note": null
     }

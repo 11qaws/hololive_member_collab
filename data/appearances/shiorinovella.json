@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 950,
+  "count": 951,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10449,6 +10449,17 @@
       "published_at": "20260808",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dJHzaugxM-g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "InA1c0SIJDU",
+      "title": "【ERONOCTOSIS COLLAB with SHIORI】save us from madness in this pixel co-op horror 🐾 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/InA1c0SIJDU",
       "status": "unreviewed",
       "note": null
     }

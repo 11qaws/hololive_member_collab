@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 983,
+  "count": 985,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10812,6 +10812,28 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/a5ODkOzB_y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7w9m2A58ntI",
+      "title": "【アニメ】「リアルお人形遊び」マニアに捕まった結果...",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7w9m2A58ntI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4aegE3Q61mw",
+      "title": "【 #ホロライブ杯】各視点枠URL一覧・雑談場【さくらみこ主催】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4aegE3Q61mw",
       "status": "unreviewed",
       "note": null
     }

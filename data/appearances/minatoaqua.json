@@ -1,6 +1,6 @@
 {
   "target": "minatoaqua",
-  "count": 641,
+  "count": 649,
   "appearances": [
     {
       "video_id": "P2v2eXrKxT0",
@@ -7050,6 +7050,94 @@
       "published_at": "20200705",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZUW6CcY-Yf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B67cebg45CI",
+      "title": "【マリオカートDX8】ここは、戌神ころね視点です【#ホロライブ杯】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B67cebg45CI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EQGU_tg9KcY",
+      "title": "【マリオカート8DX】ホロライブ杯🏆Bブロック/フレア視点【ホロライブ/不知火フレア】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EQGU_tg9KcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b14yzGF5gTw",
+      "title": "【マリカホロライブ杯】前回のホロライブ杯で1位をとった女は何位になれるのか!?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b14yzGF5gTw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4aegE3Q61mw",
+      "title": "【 #ホロライブ杯】各視点枠URL一覧・雑談場【さくらみこ主催】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4aegE3Q61mw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H2AYx7yuzrk",
+      "title": "【マリオカート8DX】目指すは優勝!!!アイドルロードを爆走!!!🚙💨【#ホロライブ杯】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H2AYx7yuzrk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uvGKe5KH5W4",
+      "title": "【#ホロライブ杯 】全力で鬼が走りぬく!!!!!!!!!!!!!!!!!!!!【百鬼あやめ視点/ホロライブ】",
+      "channel_handle": "nakiri_ayame",
+      "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uvGKe5KH5W4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EZ8HpUXTp6s",
+      "title": "【マリオカート8デラックス】ホロライブ杯👑総勢21名のうち一位を目指すわよ！！！！【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EZ8HpUXTp6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gBNPGtP1pps",
+      "title": "【#ホロライブ杯】Aブロック実況席に鎮座した白上フブキ",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gBNPGtP1pps",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1411,
+  "count": 1412,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15520,6 +15520,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3qrQ4KcvUb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qp1bA1A5bTQ",
+      "title": "【水着新衣装お披露目!!】#宝鐘マリン7周年3DLIVE【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qp1bA1A5bTQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3791,
+  "count": 3799,
   "entries": [
     {
       "video_id": "m8xdKYVhfiQ",
@@ -3027,24 +3027,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kFLKwEFutm4",
-      "title": "ウェディングしよっ!",
-      "published_at": "20260224",
-      "url": "https://youtu.be/kFLKwEFutm4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "imYqFvZ2PS0",
       "title": "ウーニャカ",
       "published_at": "20260224",
       "url": "https://youtu.be/imYqFvZ2PS0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kFLKwEFutm4",
+      "title": "ウェディングしよっ!",
+      "published_at": "20260224",
+      "url": "https://youtu.be/kFLKwEFutm4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -39335,6 +39335,102 @@
       "thumbnail": "https://img.youtube.com/vi/EYlue1teIW4/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "B67cebg45CI",
+      "title": "【マリオカートDX8】ここは、戌神ころね視点です【#ホロライブ杯】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/B67cebg45CI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/B67cebg45CI/mqdefault.jpg",
+      "partner_handle": "inugamikorone",
+      "partner_name": "Korone Ch. 戌神ころね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "23y5h8kQsv8",
+      "title": "【 #ホロライブ杯 】目指すは『優勝』、ただそれだけ!【湊あくあ/絶対優勝卍】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/23y5h8kQsv8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/23y5h8kQsv8/mqdefault.jpg",
+      "partner_handle": "minatoaqua",
+      "partner_name": "Aqua Ch. 湊あくあ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EQGU_tg9KcY",
+      "title": "【マリオカート8DX】ホロライブ杯🏆Bブロック/フレア視点【ホロライブ/不知火フレア】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/EQGU_tg9KcY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EQGU_tg9KcY/mqdefault.jpg",
+      "partner_handle": "shiranuiflare",
+      "partner_name": "Flare Ch. 不知火フレア",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4aegE3Q61mw",
+      "title": "【 #ホロライブ杯】各視点枠URL一覧・雑談場【さくらみこ主催】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/4aegE3Q61mw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4aegE3Q61mw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H2AYx7yuzrk",
+      "title": "【マリオカート8DX】目指すは優勝!!!アイドルロードを爆走!!!🚙💨【#ホロライブ杯】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/H2AYx7yuzrk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/H2AYx7yuzrk/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uvGKe5KH5W4",
+      "title": "【#ホロライブ杯 】全力で鬼が走りぬく!!!!!!!!!!!!!!!!!!!!【百鬼あやめ視点/ホロライブ】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/uvGKe5KH5W4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uvGKe5KH5W4/mqdefault.jpg",
+      "partner_handle": "nakiri_ayame",
+      "partner_name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EZ8HpUXTp6s",
+      "title": "【マリオカート8デラックス】ホロライブ杯👑総勢21名のうち一位を目指すわよ！！！！【ホロライブ/宝鐘マリン】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/EZ8HpUXTp6s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EZ8HpUXTp6s/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gBNPGtP1pps",
+      "title": "【#ホロライブ杯】Aブロック実況席に鎮座した白上フブキ",
+      "published_at": "20191110",
+      "url": "https://youtu.be/gBNPGtP1pps",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gBNPGtP1pps/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },

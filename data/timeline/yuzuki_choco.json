@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 2976,
+  "count": 2979,
   "entries": [
+    {
+      "video_id": "SC295SM-I7Y",
+      "title": "サマーラブ/癒月ちょこ",
+      "published_at": "20260809",
+      "url": "https://youtu.be/SC295SM-I7Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SC295SM-I7Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7w9m2A58ntI",
+      "title": "【アニメ】「リアルお人形遊び」マニアに捕まった結果...",
+      "published_at": "20260809",
+      "url": "https://youtu.be/7w9m2A58ntI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7w9m2A58ntI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "epIZtm4x9Wk",
       "title": "マチアプリンセス / 雨衣・玉姫 踊ってみた👸 #ホロライブ #vtuber #dance #shorts #ダンス #踊ってみた #癒月ちょこ #雨衣 #玉姫",
@@ -6099,24 +6123,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -28551,6 +28575,18 @@
       "paired_self": null
     },
     {
+      "video_id": "4aegE3Q61mw",
+      "title": "【 #ホロライブ杯】各視点枠URL一覧・雑談場【さくらみこ主催】",
+      "published_at": "20191110",
+      "url": "https://youtu.be/4aegE3Q61mw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4aegE3Q61mw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "DkzacFguCLI",
       "title": "【Dead by Daylight】ハロウィンイベ最終日ラストスパートヤるわよ！【ホロライブ/癒月ちょこ】",
       "published_at": "20191109",
@@ -35691,24 +35727,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Zd6Fl-wZVHk",
-      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/Zd6Fl-wZVHk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hTzLA7c04JM",
       "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/hTzLA7c04JM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd6Fl-wZVHk",
+      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/Zd6Fl-wZVHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

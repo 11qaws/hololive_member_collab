@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 725,
+  "count": 726,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7974,6 +7974,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1SHBXJ6zPhQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qp1bA1A5bTQ",
+      "title": "【水着新衣装お披露目!!】#宝鐘マリン7周年3DLIVE【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qp1bA1A5bTQ",
       "status": "unreviewed",
       "note": null
     }

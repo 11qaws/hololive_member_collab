@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1212,
+  "count": 1213,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13331,6 +13331,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/07qx3PL4b3U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bL4XUgUQnMI",
+      "title": "【original MV】ひとつになる声【ねぽらぼ /ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bL4XUgUQnMI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1581,
+  "count": 1582,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17390,6 +17390,17 @@
       "published_at": "20260808",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cD3MYP8hJRM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4BuB6fcFHLw",
+      "title": "【original MV】Hyper Jumpin'【 ねぽらぼ / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4BuB6fcFHLw",
       "status": "unreviewed",
       "note": null
     }

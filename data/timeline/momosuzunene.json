@@ -1,16 +1,28 @@
 {
   "target": "momosuzunene",
-  "count": 2681,
+  "count": 2682,
   "entries": [
     {
       "video_id": "4BuB6fcFHLw",
       "title": "【original MV】Hyper Jumpin'【 ねぽらぼ / hololive 】",
-      "published_at": "20260808",
+      "published_at": "20260809",
       "url": "https://youtu.be/4BuB6fcFHLw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/4BuB6fcFHLw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bL4XUgUQnMI",
+      "title": "【original MV】ひとつになる声【ねぽらぼ /ホロライブ】",
+      "published_at": "20260809",
+      "url": "https://youtu.be/bL4XUgUQnMI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bL4XUgUQnMI/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
       "paired_self": null
     },
@@ -15579,24 +15591,24 @@
       "paired_self": null
     },
     {
-      "video_id": "2H6wWQ91xf8",
-      "title": "モモノネ",
-      "published_at": "20230610",
-      "url": "https://youtu.be/2H6wWQ91xf8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/2H6wWQ91xf8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "q6ZKeOa6YY4",
       "title": "Lunch with me",
       "published_at": "20230610",
       "url": "https://youtu.be/q6ZKeOa6YY4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/q6ZKeOa6YY4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2H6wWQ91xf8",
+      "title": "モモノネ",
+      "published_at": "20230610",
+      "url": "https://youtu.be/2H6wWQ91xf8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2H6wWQ91xf8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32115,36 +32127,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JVG9XQJNja4",
-      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
-      "published_at": "",
-      "url": "https://youtu.be/JVG9XQJNja4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "NtHKELQoO9I",
       "title": "みぎかたに～～むらさきちょうちょ～～#shorts 【桃鈴ねね/ホロライブ】",
       "published_at": "",
       "url": "https://youtu.be/NtHKELQoO9I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/NtHKELQoO9I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "-aihsO26QBI",
-      "title": "AIに言葉を教えたい桃鈴ねね #shorts",
-      "published_at": "",
-      "url": "https://youtu.be/-aihsO26QBI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-aihsO26QBI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32163,12 +32151,36 @@
       "paired_self": null
     },
     {
+      "video_id": "-aihsO26QBI",
+      "title": "AIに言葉を教えたい桃鈴ねね #shorts",
+      "published_at": "",
+      "url": "https://youtu.be/-aihsO26QBI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-aihsO26QBI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "gReFh-GWGfA",
       "title": "【羨ま゛し゛い゛】故の嫉妬【桃鈴ねね/ホロライブ】 #vtuber #shorts",
       "published_at": "",
       "url": "https://youtu.be/gReFh-GWGfA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/gReFh-GWGfA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JVG9XQJNja4",
+      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
+      "published_at": "",
+      "url": "https://youtu.be/JVG9XQJNja4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

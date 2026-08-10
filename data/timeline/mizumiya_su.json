@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2165,
+  "count": 2166,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,20 @@
       "paired_self": null
     },
     {
+      "video_id": "MvF2oOnSF3A",
+      "title": "ソンナコトナイヨー/踊ってみた  #hololive #vtuber #dance",
+      "published_at": "20260809",
+      "url": "https://youtu.be/MvF2oOnSF3A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MvF2oOnSF3A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "lsbDcd9AJdY",
-      "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢/ホロライブDEV_IS】",
+      "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260808",
       "url": "https://youtu.be/lsbDcd9AJdY",
       "entry_type": "stream",
@@ -87,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "otPr96TPQ5E",
+      "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #6【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260807",
+      "url": "https://youtu.be/otPr96TPQ5E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/otPr96TPQ5E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "8ddrHhYHDN4",
       "title": "プロポーズ/みにみやが踊ってみた #hololive #vtuber #dance",
       "published_at": "20260807",
@@ -107,18 +131,6 @@
       "thumbnail": "https://img.youtube.com/vi/KjGeg8XRwCE/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "otPr96TPQ5E",
-      "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #6【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260806",
-      "url": "https://youtu.be/otPr96TPQ5E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/otPr96TPQ5E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

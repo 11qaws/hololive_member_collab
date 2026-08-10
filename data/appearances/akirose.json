@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1231,
+  "count": 1239,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13540,6 +13540,94 @@
       "published_at": "20260801",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2SAE_pqldQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o4JjDbHXRHU",
+      "title": "【#ホロライブ杯 】これが兎の本気ぺこおおおおおおおお!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o4JjDbHXRHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4aegE3Q61mw",
+      "title": "【 #ホロライブ杯】各視点枠URL一覧・雑談場【さくらみこ主催】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4aegE3Q61mw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aHSyxNv3a0Q",
+      "title": "【#ホロライブ杯】心を込めて走ります【禊マリカ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aHSyxNv3a0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3F4FWfuFm1w",
+      "title": "【👑ホロライブ杯 】ホロライブのシンデレラストーリーみせてあげるッ！【白銀ノエル視点】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3F4FWfuFm1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cw0irAuNgxM",
+      "title": "【#ホロライブ杯】初心者と思われているダークホース大神ミオ視点【闇落ち】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cw0irAuNgxM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EbCKal0Oh9A",
+      "title": "【 #ホロライブ杯 】いでよ！アイテム〜〜/🏆Aブロック【猫又おかゆ視点】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EbCKal0Oh9A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dn2DbuY14rI",
+      "title": "【マリカホロライブ杯】最下位にはなりたくないのよおおおおお！【ホロライブ/赤井はあと】",
+      "channel_handle": "akaihaato",
+      "channel_name": "HAACHAMA Ch 赤井はあと",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dn2DbuY14rI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bSpQhcFySFs",
+      "title": "【マリオカート8DX】ホロライブ杯開幕！運を味方に勝利を刻め！！【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20191110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bSpQhcFySFs",
       "status": "unreviewed",
       "note": null
     }

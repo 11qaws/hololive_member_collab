@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1353,
+  "count": 1354,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14882,6 +14882,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/a5ODkOzB_y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1mBrMsA7WXs",
+      "title": "#あざとい王選手権!まであと6日~!!ゲスト：白銀ノエル【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1mBrMsA7WXs",
       "status": "unreviewed",
       "note": null
     }

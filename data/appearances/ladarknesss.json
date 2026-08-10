@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1013,
+  "count": 1015,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11142,6 +11142,28 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wkdz7ICvKbw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1mBrMsA7WXs",
+      "title": "#あざとい王選手権!まであと6日~!!ゲスト：白銀ノエル【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1mBrMsA7WXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7w9m2A58ntI",
+      "title": "【アニメ】「リアルお人形遊び」マニアに捕まった結果...",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7w9m2A58ntI",
       "status": "unreviewed",
       "note": null
     }
