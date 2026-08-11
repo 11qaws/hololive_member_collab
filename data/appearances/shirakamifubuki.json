@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3290,
+  "count": 3292,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36189,6 +36189,28 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EZ8HpUXTp6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sp1jn754slE",
+      "title": "【リズム天国 ミラクルスターズ】セルフ3Dでわちゃわちゃオフコラボ✨、リズム感がないやつはいない・・・よにゃああ!? 【ホロライブ/ #るいろぼこーん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sp1jn754slE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w9qe9ynxP1A",
+      "title": "【＃パワプロケモミミリーグ】ケモミミリーグ同時視聴やるしゅばあああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w9qe9ynxP1A",
       "status": "unreviewed",
       "note": null
     }

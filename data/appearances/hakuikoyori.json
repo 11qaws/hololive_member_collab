@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1354,
+  "count": 1355,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14893,6 +14893,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1mBrMsA7WXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8WjKWnwuUAw",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #37 【#ホロタワーバトル】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8WjKWnwuUAw",
       "status": "unreviewed",
       "note": null
     }

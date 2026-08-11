@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1239,
+  "count": 1240,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13628,6 +13628,17 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bSpQhcFySFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NWoAORKImGg",
+      "title": "【 #漢義リーグ 最終節】泣いても笑っても今日で最後、全力で👊  #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NWoAORKImGg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "omarupolka",
-  "count": 4402,
+  "count": 4404,
   "entries": [
+    {
+      "video_id": "kEa2wHboln0",
+      "title": "【original MV】Twinkle 4 You【ねぽらぼ /ホロライブ】",
+      "published_at": "20260810",
+      "url": "https://youtu.be/kEa2wHboln0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kEa2wHboln0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "bL4XUgUQnMI",
       "title": "【original MV】ひとつになる声【ねぽらぼ /ホロライブ】",
@@ -93,6 +105,18 @@
       "url": "https://youtu.be/a5ODkOzB_y0",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/a5ODkOzB_y0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8WjKWnwuUAw",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #37 【#ホロタワーバトル】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/8WjKWnwuUAw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8WjKWnwuUAw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -16431,24 +16455,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZTjry52_Ou4",
-      "title": "パペット",
-      "published_at": "20250130",
-      "url": "https://youtu.be/ZTjry52_Ou4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v5kXEPBEVSw",
       "title": "無理ぽ to ポジ",
       "published_at": "20250130",
       "url": "https://youtu.be/v5kXEPBEVSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZTjry52_Ou4",
+      "title": "パペット",
+      "published_at": "20250130",
+      "url": "https://youtu.be/ZTjry52_Ou4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -52743,24 +52767,24 @@
       "paired_self": null
     },
     {
-      "video_id": "g4G7bbRhBaQ",
-      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
-      "published_at": "20200815",
-      "url": "https://youtu.be/g4G7bbRhBaQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "q4eXcXl3BtI",
       "title": "尾丸ポルカサーカス開演",
       "published_at": "20200815",
       "url": "https://youtu.be/q4eXcXl3BtI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "g4G7bbRhBaQ",
+      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
+      "published_at": "20200815",
+      "url": "https://youtu.be/g4G7bbRhBaQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

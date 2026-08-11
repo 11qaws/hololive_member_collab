@@ -1,7 +1,19 @@
 {
   "target": "tokoyamitowa",
-  "count": 3612,
+  "count": 3613,
   "entries": [
+    {
+      "video_id": "aChgxf5ao_w",
+      "title": "THE ULTIMATE WINNERS!! あたししか勝たん ♡ #ウチらしか勝たん",
+      "published_at": "20260810",
+      "url": "https://youtu.be/aChgxf5ao_w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/aChgxf5ao_w/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "JV9uwZ4mlug",
       "title": "SM4SH IT UP (Instrumental)",
@@ -28,8 +40,8 @@
     },
     {
       "video_id": "07qx3PL4b3U",
-      "title": "【 #常闇トワ生誕祭2026 】告知あり！新衣装お披露目ミニライブ🎶【 3DLIVE 】",
-      "published_at": "20260806",
+      "title": "【 #常闇トワ生誕祭2026 】告知あり!新衣装お披露目ミニライブ🎶【 3DLIVE 】",
+      "published_at": "20260808",
       "url": "https://youtu.be/07qx3PL4b3U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/07qx3PL4b3U/mqdefault.jpg",
@@ -5127,24 +5139,24 @@
       "paired_self": null
     },
     {
-      "video_id": "c2hP0qWGgaA",
-      "title": "凛",
-      "published_at": "20251007",
-      "url": "https://youtu.be/c2hP0qWGgaA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "darS1jexgTw",
       "title": "TRUTH",
       "published_at": "20251007",
       "url": "https://youtu.be/darS1jexgTw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c2hP0qWGgaA",
+      "title": "凛",
+      "published_at": "20251007",
+      "url": "https://youtu.be/c2hP0qWGgaA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -5163,24 +5175,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Afj_iZ_04ME",
-      "title": "バズビバザヴ",
-      "published_at": "20251007",
-      "url": "https://youtu.be/Afj_iZ_04ME",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "KcJKbMtIFfg",
       "title": "不可視",
       "published_at": "20251007",
       "url": "https://youtu.be/KcJKbMtIFfg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Afj_iZ_04ME",
+      "title": "バズビバザヴ",
+      "published_at": "20251007",
+      "url": "https://youtu.be/Afj_iZ_04ME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -19059,24 +19071,24 @@
       "paired_self": null
     },
     {
-      "video_id": "llLjylG44DQ",
-      "title": "Present Day",
-      "published_at": "20230926",
-      "url": "https://youtu.be/llLjylG44DQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oXAObuOS1U4",
       "title": "サンビタリア",
       "published_at": "20230926",
       "url": "https://youtu.be/oXAObuOS1U4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "llLjylG44DQ",
+      "title": "Present Day",
+      "published_at": "20230926",
+      "url": "https://youtu.be/llLjylG44DQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

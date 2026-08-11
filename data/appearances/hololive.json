@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 153,
+  "count": 154,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1682,6 +1682,17 @@
       "published_at": "20231125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oeMKXvyTJ80",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PEQwPBp8ea8",
+      "title": "#そらぱぴあアリ2026 ときのそらってどんな人?Vol.5 【#shorts /ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PEQwPBp8ea8",
       "status": "unreviewed",
       "note": null
     }

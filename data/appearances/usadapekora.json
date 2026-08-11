@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1585,
+  "count": 1587,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17434,6 +17434,28 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bSpQhcFySFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f6KQCUeYJ0E",
+      "title": "【#パワプロケモミミリーグ】兎☆ダイナマイト高校を応援したい【水宮枢／ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f6KQCUeYJ0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w9qe9ynxP1A",
+      "title": "【＃パワプロケモミミリーグ】ケモミミリーグ同時視聴やるしゅばあああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w9qe9ynxP1A",
       "status": "unreviewed",
       "note": null
     }

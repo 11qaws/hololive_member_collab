@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1813,
+  "count": 1814,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -177,6 +177,18 @@
       "url": "https://youtu.be/7iFYOWm8N2U",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/7iFYOWm8N2U/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KufKV-1plg4",
+      "title": "ReGLOSS - 1st Live \"Flashpoint\" Archive【YouTube Music Weekend 12.0】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/KufKV-1plg4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KufKV-1plg4/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
@@ -3747,24 +3759,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zGxgs3Nw5EY",
-      "title": "出囃子ジャポニズム (Instrumental)",
-      "published_at": "20260204",
-      "url": "https://youtu.be/zGxgs3Nw5EY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aSmPF7QwVUI",
       "title": "出囃子ジャポニズム",
       "published_at": "20260204",
       "url": "https://youtu.be/aSmPF7QwVUI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGxgs3Nw5EY",
+      "title": "出囃子ジャポニズム (Instrumental)",
+      "published_at": "20260204",
+      "url": "https://youtu.be/zGxgs3Nw5EY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1532,
+  "count": 1533,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16851,6 +16851,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u70VzTl8kKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aChgxf5ao_w",
+      "title": "THE ULTIMATE WINNERS!! あたししか勝たん ♡ #ウチらしか勝たん",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aChgxf5ao_w",
       "status": "unreviewed",
       "note": null
     }

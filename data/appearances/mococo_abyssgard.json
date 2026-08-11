@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1128,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12407,6 +12407,39 @@
       "published_at": "20260808",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dJHzaugxM-g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iY_CcwePejc",
+      "title": "【Super Mario Party Jamboree 凸待ち!!】Waiting For Holomem to Join Lonely Calliope... #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iY_CcwePejc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WnBExtoUM5o",
+      "title": "Making My Ideal Husbando with Random Body Parts 【Eronoctosis: Put Yourself Together】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WnBExtoUM5o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JRPBM90d5jY",
+      "title": "Dancing to Spotlight! 💫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JRPBM90d5jY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1032,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11351,6 +11351,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/70KLoMyGs4k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DJv-WvI3Lzw",
+      "title": "ボウリング場で絶対やりたくなるやつ💥 #hololive #ホロライブ #スタンド #爆発",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DJv-WvI3Lzw",
       "status": "unreviewed",
       "note": null
     }

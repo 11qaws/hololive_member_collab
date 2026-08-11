@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1672,
+  "count": 1673,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18391,6 +18391,17 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bSpQhcFySFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w9qe9ynxP1A",
+      "title": "【＃パワプロケモミミリーグ】ケモミミリーグ同時視聴やるしゅばあああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w9qe9ynxP1A",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1366,
+  "count": 1367,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15025,6 +15025,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DJv-WvI3Lzw",
+      "title": "ボウリング場で絶対やりたくなるやつ💥 #hololive #ホロライブ #スタンド #爆発",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DJv-WvI3Lzw",
       "status": "unreviewed",
       "note": null
     }

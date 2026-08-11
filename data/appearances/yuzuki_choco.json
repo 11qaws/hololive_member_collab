@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 985,
+  "count": 988,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10834,6 +10834,39 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4aegE3Q61mw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xKhRXOqeFG4",
+      "title": "『 #今年の夏やり残していること 』 #アキちょこナイパレ 第47回 ~ホロライブ深夜ラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xKhRXOqeFG4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S15QNAcYHSY",
+      "title": "#あざとい王選手権!まであと5日~!!ゲスト：癒月ちょこ【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S15QNAcYHSY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8WjKWnwuUAw",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #37 【#ホロタワーバトル】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8WjKWnwuUAw",
       "status": "unreviewed",
       "note": null
     }

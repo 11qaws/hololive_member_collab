@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1213,
+  "count": 1214,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13342,6 +13342,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bL4XUgUQnMI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kEa2wHboln0",
+      "title": "【original MV】Twinkle 4 You【ねぽらぼ /ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kEa2wHboln0",
       "status": "unreviewed",
       "note": null
     }

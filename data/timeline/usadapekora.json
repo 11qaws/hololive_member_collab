@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 4598,
+  "count": 4600,
   "entries": [
     {
       "video_id": "hQZ2TRjVDTL",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "f6KQCUeYJ0E",
+      "title": "【#パワプロケモミミリーグ】兎☆ダイナマイト高校を応援したい【水宮枢／ホロライブDEV_IS】",
+      "published_at": "20260810",
+      "url": "https://youtu.be/f6KQCUeYJ0E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/f6KQCUeYJ0E/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "w9qe9ynxP1A",
+      "title": "【＃パワプロケモミミリーグ】ケモミミリーグ同時視聴やるしゅばあああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "published_at": "20260810",
+      "url": "https://youtu.be/w9qe9ynxP1A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/w9qe9ynxP1A/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "PP1jChfH-kw",
-      "title": "【#パワプロケモミミリーグ】決戦【ホロライブ/兎田ぺこら/白上フブキ/猫又おかゆ】",
+      "title": "【＃パワプロケモミミリーグ】決戦【ホロライブ/兎田ぺこら/白上フブキ/猫又おかゆ】",
       "published_at": "20260809",
       "url": "https://youtu.be/PP1jChfH-kw",
       "entry_type": "stream",
@@ -52,7 +76,7 @@
     },
     {
       "video_id": "uqmtXbFnP4s",
-      "title": "＃最終回【パワプロ2026】3年目最後の夏！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
+      "title": "#最終回【パワプロ2026】3年目最後の夏!兎☆ダイナマイト高校 いくぞおおおおおおおおおおお!ぺこ!【ホロライブ/兎田ぺこら】#パワプロケモミミリーグ",
       "published_at": "20260808",
       "url": "https://youtu.be/uqmtXbFnP4s",
       "entry_type": "stream",
@@ -64,7 +88,7 @@
     },
     {
       "video_id": "ZrLW39XjYYE",
-      "title": "【青鬼2】はじめての青鬼２【ホロライブ/兎田ぺこら】",
+      "title": "【青鬼2】はじめての青鬼2【ホロライブ/兎田ぺこら】",
       "published_at": "20260808",
       "url": "https://youtu.be/ZrLW39XjYYE",
       "entry_type": "stream",
@@ -55155,24 +55179,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ysnmwuuCJvs",
-      "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "",
-      "url": "https://youtu.be/ysnmwuuCJvs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "vGB9ansRy_E",
       "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "",
       "url": "https://youtu.be/vGB9ansRy_E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ysnmwuuCJvs",
+      "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "",
+      "url": "https://youtu.be/ysnmwuuCJvs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

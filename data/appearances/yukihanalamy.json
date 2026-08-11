@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1333,
+  "count": 1334,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14662,6 +14662,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4BuB6fcFHLw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kEa2wHboln0",
+      "title": "【original MV】Twinkle 4 You【ねぽらぼ /ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kEa2wHboln0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 951,
+  "count": 952,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10460,6 +10460,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/InA1c0SIJDU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JRPBM90d5jY",
+      "title": "Dancing to Spotlight! 💫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JRPBM90d5jY",
       "status": "unreviewed",
       "note": null
     }

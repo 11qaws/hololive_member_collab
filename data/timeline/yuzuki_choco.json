@@ -1,7 +1,43 @@
 {
   "target": "yuzuki_choco",
-  "count": 2979,
+  "count": 2983,
   "entries": [
+    {
+      "video_id": "jCU_1ENV7co",
+      "title": "Deep Dive踊ってみた #ホロライブ #hololive #vtuber #dance #shorts #ダンス #踊ってみた #癒月ちょこ #轟はじめ",
+      "published_at": "20260810",
+      "url": "https://youtu.be/jCU_1ENV7co",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jCU_1ENV7co/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xKhRXOqeFG4",
+      "title": "『 #今年の夏やり残していること 』 #アキちょこナイパレ 第47回 ~ホロライブ深夜ラジオ~",
+      "published_at": "20260810",
+      "url": "https://youtu.be/xKhRXOqeFG4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xKhRXOqeFG4/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S15QNAcYHSY",
+      "title": "#あざとい王選手権!まであと5日~!!ゲスト：癒月ちょこ【雪花ラミィ /ホロライブ】",
+      "published_at": "20260810",
+      "url": "https://youtu.be/S15QNAcYHSY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S15QNAcYHSY/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "SC295SM-I7Y",
       "title": "サマーラブ/癒月ちょこ",
@@ -117,6 +153,18 @@
       "url": "https://youtu.be/a5ODkOzB_y0",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/a5ODkOzB_y0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8WjKWnwuUAw",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #37 【#ホロタワーバトル】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/8WjKWnwuUAw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8WjKWnwuUAw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -35727,24 +35775,24 @@
       "paired_self": null
     },
     {
-      "video_id": "hTzLA7c04JM",
-      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/hTzLA7c04JM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zd6Fl-wZVHk",
       "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/Zd6Fl-wZVHk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hTzLA7c04JM",
+      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/hTzLA7c04JM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

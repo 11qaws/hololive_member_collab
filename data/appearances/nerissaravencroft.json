@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1053,
+  "count": 1055,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11582,6 +11582,28 @@
       "published_at": "20260808",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dJHzaugxM-g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iY_CcwePejc",
+      "title": "【Super Mario Party Jamboree 凸待ち!!】Waiting For Holomem to Join Lonely Calliope... #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iY_CcwePejc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JRPBM90d5jY",
+      "title": "Dancing to Spotlight! 💫 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JRPBM90d5jY",
       "status": "unreviewed",
       "note": null
     }

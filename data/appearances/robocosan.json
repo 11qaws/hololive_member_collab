@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1274,
+  "count": 1277,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14013,6 +14013,39 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dn2DbuY14rI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x6Glnumj_vU",
+      "title": "【 #漢義リーグ 】最終節!最後まであきらめるな!応援は #秋麗宝燈 で!w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x6Glnumj_vU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DJv-WvI3Lzw",
+      "title": "ボウリング場で絶対やりたくなるやつ💥 #hololive #ホロライブ #スタンド #爆発",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DJv-WvI3Lzw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8WjKWnwuUAw",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #37 【#ホロタワーバトル】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8WjKWnwuUAw",
       "status": "unreviewed",
       "note": null
     }
