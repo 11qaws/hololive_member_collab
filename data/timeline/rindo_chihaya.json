@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1971,
+  "count": 1974,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "omLZirnR2eA",
+      "title": "フライアウェイ #shorts #切り抜き",
+      "published_at": "20260812",
+      "url": "https://youtu.be/omLZirnR2eA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/omLZirnR2eA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "3FpzovxZMis",
       "title": "欲しいのはちはでしょ?? #shorts #切り抜き",
       "published_at": "20260811",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/3FpzovxZMis/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3Z6xTTylUO8",
+      "title": "【予告動画】究極心理戦！？第２回ホロライブ電気椅子ゲーム【ホロライブ】",
+      "published_at": "20260811",
+      "url": "https://youtu.be/3Z6xTTylUO8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3Z6xTTylUO8/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1l9w3wcqFWQ",
+      "title": "ヴィヴィ&枢&千速でパラパラ🌟",
+      "published_at": "20260811",
+      "url": "https://youtu.be/1l9w3wcqFWQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1l9w3wcqFWQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -64,7 +100,7 @@
     },
     {
       "video_id": "2GsZMyzsAO4",
-      "title": "【FF6】#11 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "title": "【FF6】#11 初めてのFF!みんなを探し出すぞ!!!!!!※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published_at": "20260809",
       "url": "https://youtu.be/2GsZMyzsAO4",
       "entry_type": "stream",
@@ -2584,7 +2620,7 @@
     },
     {
       "video_id": "KbTqaqjqHnM",
-      "title": "人の心ないんか?. #shorts #切り抜き",
+      "title": "人の心ないんか？. #shorts #切り抜き",
       "published_at": "20260606",
       "url": "https://youtu.be/KbTqaqjqHnM",
       "entry_type": "stream",
@@ -2692,7 +2728,7 @@
     },
     {
       "video_id": "AbanQCMB_OQ",
-      "title": "パラパラの...? #shorts #切り抜き",
+      "title": "パラパラの...？　#shorts #切り抜き",
       "published_at": "20260603",
       "url": "https://youtu.be/AbanQCMB_OQ",
       "entry_type": "stream",
@@ -3172,7 +3208,7 @@
     },
     {
       "video_id": "MJhH3V2dZx8",
-      "title": "Androidもすきだよ #shorts #切り抜き",
+      "title": "Androidもすきだよ　#shorts #切り抜き",
       "published_at": "20260522",
       "url": "https://youtu.be/MJhH3V2dZx8",
       "entry_type": "stream",
@@ -23631,24 +23667,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cT_DiN-FZ2U",
-      "title": "【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "",
-      "url": "https://youtu.be/cT_DiN-FZ2U",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cT_DiN-FZ2U/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "rJYGFNy7FeQ",
       "title": "【 縦型歌枠/KARAOKE】　縦ってこれであってますか・・？【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "",
       "url": "https://youtu.be/rJYGFNy7FeQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rJYGFNy7FeQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cT_DiN-FZ2U",
+      "title": "【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "",
+      "url": "https://youtu.be/cT_DiN-FZ2U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cT_DiN-FZ2U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 886,
+  "count": 887,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9745,6 +9745,17 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZLGL1xO7Pfo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ELDexlIJKpc",
+      "title": "FOUR! FIVE‼️➡️➡️❓❓❓#sports #memes #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ELDexlIJKpc",
       "status": "unreviewed",
       "note": null
     }

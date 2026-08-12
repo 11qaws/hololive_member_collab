@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1583,
+  "count": 1584,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17412,6 +17412,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kEa2wHboln0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3Z6xTTylUO8",
+      "title": "【予告動画】究極心理戦！？第２回ホロライブ電気椅子ゲーム【ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3Z6xTTylUO8",
       "status": "unreviewed",
       "note": null
     }

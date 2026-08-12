@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 2473,
+  "count": 2474,
   "entries": [
     {
       "video_id": "YxIuoiV6fn8",
@@ -21903,6 +21903,18 @@
       "paired_self": null
     },
     {
+      "video_id": "K2wVCDsyFTA",
+      "title": "【PagiMoona!】Asa with moona! I Miss you already.【Freetalk】",
+      "published_at": "20220108",
+      "url": "https://youtu.be/K2wVCDsyFTA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K2wVCDsyFTA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "y7L4lnlcB-k",
       "title": "【#MoonUtau】I'm gonna sing with MYSELF. DUET IKZ【Unarchive PART 2】",
       "published_at": "20211231",
@@ -25515,24 +25527,24 @@
       "paired_self": null
     },
     {
-      "video_id": "opaixR7ZpIE",
-      "title": "愛の小さな歌",
-      "published_at": "20210321",
-      "url": "https://youtu.be/opaixR7ZpIE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/opaixR7ZpIE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "frcPP_RH6yI",
       "title": "愛の小さな歌 (Instrumental)",
       "published_at": "20210321",
       "url": "https://youtu.be/frcPP_RH6yI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/frcPP_RH6yI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "opaixR7ZpIE",
+      "title": "愛の小さな歌",
+      "published_at": "20210321",
+      "url": "https://youtu.be/opaixR7ZpIE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/opaixR7ZpIE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

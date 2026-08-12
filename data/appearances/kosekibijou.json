@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1446,
+  "count": 1447,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15905,6 +15905,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JRPBM90d5jY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zBAWGo9zJLc",
+      "title": "Dancing to Spotlight! Part 2 ⚠️✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zBAWGo9zJLc",
       "status": "unreviewed",
       "note": null
     }

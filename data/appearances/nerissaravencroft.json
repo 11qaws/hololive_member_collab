@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1055,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11604,6 +11604,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JRPBM90d5jY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zBAWGo9zJLc",
+      "title": "Dancing to Spotlight! Part 2 ⚠️✨ #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zBAWGo9zJLc",
       "status": "unreviewed",
       "note": null
     }

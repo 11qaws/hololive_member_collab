@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3292,
+  "count": 3294,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36211,6 +36211,28 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w9qe9ynxP1A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xc_-T6pbSOE",
+      "title": "【ホロライブ ドリームス】真夜中のホロポカジャン…【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xc_-T6pbSOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m1rHV8GMckY",
+      "title": "【ホロライブ ドリームス】真夜中のホロポカジャン…【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m1rHV8GMckY",
       "status": "unreviewed",
       "note": null
     }

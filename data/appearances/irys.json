@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1102,
+  "count": 1105,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12121,6 +12121,39 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ttX_80xGoJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xc_-T6pbSOE",
+      "title": "【ホロライブ ドリームス】真夜中のホロポカジャン…【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xc_-T6pbSOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m1rHV8GMckY",
+      "title": "【ホロライブ ドリームス】真夜中のホロポカジャン…【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m1rHV8GMckY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6o_eHrpBcZk",
+      "title": "【みつめ】フレアイリスで異変を探す【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6o_eHrpBcZk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 813,
+  "count": 814,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8942,6 +8942,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5vxDlKinYw4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sMhqRo4fsvE",
+      "title": "可愛すぎて無理😭😭😭 #hololive #ホロライブ #母性",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sMhqRo4fsvE",
       "status": "unreviewed",
       "note": null
     }

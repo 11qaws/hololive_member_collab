@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2647,
+  "count": 2650,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ELDexlIJKpc",
+      "title": "FOUR! FIVE‼️➡️➡️❓❓❓#sports #memes #hololiveenglish",
+      "published_at": "20260812",
+      "url": "https://youtu.be/ELDexlIJKpc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ELDexlIJKpc/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OtOeqica1DM",
+      "title": "≪JUST CHATTING≫ i did some things",
+      "published_at": "20260811",
+      "url": "https://youtu.be/OtOeqica1DM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OtOeqica1DM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oo1nMVOtl6k",
+      "title": "NO ONE DOES IT LIKE US!! #mmd #hakosbaelz #ウチらしか勝たん #hololive #shorts",
+      "published_at": "20260811",
+      "url": "https://youtu.be/oo1nMVOtl6k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oo1nMVOtl6k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -15507,24 +15543,24 @@
       "paired_self": null
     },
     {
-      "video_id": "A2prYynvtJY",
-      "title": "BITE! カム! BITE!",
-      "published_at": "20240229",
-      "url": "https://youtu.be/A2prYynvtJY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7KyZi4-KdWc",
       "title": "EIEN",
       "published_at": "20240229",
       "url": "https://youtu.be/7KyZi4-KdWc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A2prYynvtJY",
+      "title": "BITE! カム! BITE!",
+      "published_at": "20240229",
+      "url": "https://youtu.be/A2prYynvtJY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1240,
+  "count": 1241,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13639,6 +13639,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NWoAORKImGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5y7kTZoevvk",
+      "title": "【 #RoseMiA 】三人の中で一番お姉さんなのは?!?!【告知あり】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5y7kTZoevvk",
       "status": "unreviewed",
       "note": null
     }

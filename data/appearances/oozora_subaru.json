@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1973,
+  "count": 1974,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21702,6 +21702,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NOCVX5H11jc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EjqKlJcmIqY",
+      "title": "【Machine Party】命がけのパーティーゲームで友情崩壊するかぁも #ド珍組【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EjqKlJcmIqY",
       "status": "unreviewed",
       "note": null
     }

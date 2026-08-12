@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1725,
+  "count": 1726,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18974,6 +18974,17 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bSpQhcFySFs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sh_qGnqnuPM",
+      "title": "#あざとい王選手権!まであと4日~!!ゲスト：ラプラス・ダークネス【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sh_qGnqnuPM",
       "status": "unreviewed",
       "note": null
     }

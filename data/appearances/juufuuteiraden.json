@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 851,
+  "count": 852,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9360,6 +9360,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KufKV-1plg4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c_6wXUCQOiQ",
+      "title": "【ReGLOSS衣装紹介】らでんの通常衣装紹介🐚 #ReGLOSS #儒烏風亭らでん #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c_6wXUCQOiQ",
       "status": "unreviewed",
       "note": null
     }

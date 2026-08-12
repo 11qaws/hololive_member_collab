@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 959,
+  "count": 960,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10548,6 +10548,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jOUJ3hUBzR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YxRzcnF9gCg",
+      "title": "That's how you impress the cat 😼 #vestiazeta #love #kobokanaeru #forever #shorts",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YxRzcnF9gCg",
       "status": "unreviewed",
       "note": null
     }

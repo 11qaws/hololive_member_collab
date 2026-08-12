@@ -1,7 +1,19 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1468,
+  "count": 1469,
   "entries": [
+    {
+      "video_id": "ELDexlIJKpc",
+      "title": "FOUR! FIVE‼️➡️➡️❓❓❓#sports #memes #hololiveenglish",
+      "published_at": "20260812",
+      "url": "https://youtu.be/ELDexlIJKpc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ELDexlIJKpc/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "v7BK8cCkrEo",
       "title": "【KEEP TALKING AND NOBODOY EXPLODES】I PRINTED OUT THE GAME MANUAL FOR KRONII!!",
@@ -17595,24 +17607,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cf9V1Cth6Es",
-      "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
-      "published_at": "",
-      "url": "https://youtu.be/cf9V1Cth6Es",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "8q53wjHD3k4",
       "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
       "published_at": "",
       "url": "https://youtu.be/8q53wjHD3k4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cf9V1Cth6Es",
+      "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
+      "published_at": "",
+      "url": "https://youtu.be/cf9V1Cth6Es",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

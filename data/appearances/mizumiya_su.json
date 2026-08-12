@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1102,
+  "count": 1103,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12121,6 +12121,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5vxDlKinYw4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1l9w3wcqFWQ",
+      "title": "ヴィヴィ&枢&千速でパラパラ🌟",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1l9w3wcqFWQ",
       "status": "unreviewed",
       "note": null
     }

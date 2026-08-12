@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1532,
+  "count": 1533,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16851,6 +16851,17 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gBNPGtP1pps",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0efJVikgE5s",
+      "title": "【みつめ】フレアイリスで異変探し協力！！！Finding Anomalies Together!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0efJVikgE5s",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1150,
+  "count": 1151,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12649,6 +12649,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YLEc8oqbgts",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6mXSaVGug7g",
+      "title": "クソ雑魚りりーかも勝負を仕掛けてきた! #hololive #shorts",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6mXSaVGug7g",
       "status": "unreviewed",
       "note": null
     }

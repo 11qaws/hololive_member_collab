@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1218,
+  "count": 1220,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13397,6 +13397,28 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5vxDlKinYw4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3Z6xTTylUO8",
+      "title": "【予告動画】究極心理戦！？第２回ホロライブ電気椅子ゲーム【ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3Z6xTTylUO8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1l9w3wcqFWQ",
+      "title": "ヴィヴィ&枢&千速でパラパラ🌟",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1l9w3wcqFWQ",
       "status": "unreviewed",
       "note": null
     }

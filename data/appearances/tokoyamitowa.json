@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1533,
+  "count": 1534,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16862,6 +16862,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aChgxf5ao_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oo1nMVOtl6k",
+      "title": "NO ONE DOES IT LIKE US!! #mmd #hakosbaelz #ウチらしか勝たん #hololive #shorts",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oo1nMVOtl6k",
       "status": "unreviewed",
       "note": null
     }

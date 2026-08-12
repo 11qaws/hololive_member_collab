@@ -1,7 +1,31 @@
 {
   "target": "hololivedev_is",
-  "count": 873,
+  "count": 874,
   "entries": [
+    {
+      "video_id": "6qwgYwiHv6w",
+      "title": "【#ReGLOSSとラジオ体操】りりはじと一緒にラジオ体操!12日目",
+      "published_at": "20260811",
+      "url": "https://youtu.be/6qwgYwiHv6w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6qwgYwiHv6w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c_6wXUCQOiQ",
+      "title": "【ReGLOSS衣装紹介】らでんの通常衣装紹介🐚 #ReGLOSS #儒烏風亭らでん #Vtuber #shorts",
+      "published_at": "20260811",
+      "url": "https://youtu.be/c_6wXUCQOiQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/c_6wXUCQOiQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Kg5ekyw68hM",
       "title": "【#ReGLOSSとラジオ体操】なでらでと一緒にラジオ体操!11日目",
@@ -81,18 +105,6 @@
       "url": "https://youtu.be/kDRZt0xxYt4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kDRZt0xxYt4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "6qwgYwiHv6w",
-      "title": "【#ReGLOSSとラジオ体操】りりはじと一緒にラジオ体操!12日目",
-      "published_at": "20260807",
-      "url": "https://youtu.be/6qwgYwiHv6w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/6qwgYwiHv6w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -603,24 +615,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Yzucp_yM7Hk",
-      "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
-      "published_at": "20260710",
-      "url": "https://youtu.be/Yzucp_yM7Hk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "QqzRAVsrSE4",
       "title": "Lucky Loud (一条莉々華 SOLO ver.)",
       "published_at": "20260710",
       "url": "https://youtu.be/QqzRAVsrSE4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Yzucp_yM7Hk",
+      "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
+      "published_at": "20260710",
+      "url": "https://youtu.be/Yzucp_yM7Hk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
