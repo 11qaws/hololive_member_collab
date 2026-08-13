@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1277,
+  "count": 1278,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14046,6 +14046,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8WjKWnwuUAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uGpcDlNHgIA",
+      "title": "【#ホロタワーバトルアフター】優勝賞品ヒレ肉 おいしくいただきます!【ホロライブ/癒月ちょこ/ロボ子さん/尾丸ポルカ/博衣こより】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uGpcDlNHgIA",
       "status": "unreviewed",
       "note": null
     }

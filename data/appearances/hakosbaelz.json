@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1191,
+  "count": 1192,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13100,6 +13100,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ELDexlIJKpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6EF-CWO4PW4",
+      "title": "【#水宮枢生誕祭2026】SPEED/なとり【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6EF-CWO4PW4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 953,
+  "count": 957,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10482,6 +10482,50 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zBAWGo9zJLc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rWVv5hizTNU",
+      "title": "【Burglin' Gnomes】gnome【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rWVv5hizTNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7HIOOoU_Hjs",
+      "title": "【BURGLIN' GNOMES COLLAB】you take away the gnome and WE BECOME THE GNOME 🐾 #holoAdvent 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7HIOOoU_Hjs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rxiP6vMwstg",
+      "title": "GIVE US YOUR MONEY!!!! | Burglin' Gnomes",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rxiP6vMwstg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ELDexlIJKpc",
+      "title": "FOUR! FIVE‼️➡️➡️❓❓❓#sports #memes #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ELDexlIJKpc",
       "status": "unreviewed",
       "note": null
     }

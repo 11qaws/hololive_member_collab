@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1895,
+  "count": 1897,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20844,6 +20844,28 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sh_qGnqnuPM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uGpcDlNHgIA",
+      "title": "【#ホロタワーバトルアフター】優勝賞品ヒレ肉 おいしくいただきます!【ホロライブ/癒月ちょこ/ロボ子さん/尾丸ポルカ/博衣こより】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uGpcDlNHgIA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "POJmgJkx3gc",
+      "title": "#あざとい王選手権!まであと3日~!!ゲスト：博衣こより【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/POJmgJkx3gc",
       "status": "unreviewed",
       "note": null
     }

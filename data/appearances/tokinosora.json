@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 815,
+  "count": 816,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -8964,6 +8964,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8qC9mtjNKr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iX6mcmWWLZ8",
+      "title": "【かませー!】伝説のラッパーのフリースタイル #hololive #ホロライブ #ホロぐら #コンプラ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iX6mcmWWLZ8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1056,
+  "count": 1059,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11615,6 +11615,39 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zBAWGo9zJLc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rWVv5hizTNU",
+      "title": "【Burglin' Gnomes】gnome【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rWVv5hizTNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dP8UpLts7DE",
+      "title": "Crossing Your Gardens to Steal Your Underpants 【Burglin' Gnomes】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dP8UpLts7DE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7HIOOoU_Hjs",
+      "title": "【BURGLIN' GNOMES COLLAB】you take away the gnome and WE BECOME THE GNOME 🐾 #holoAdvent 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7HIOOoU_Hjs",
       "status": "unreviewed",
       "note": null
     }

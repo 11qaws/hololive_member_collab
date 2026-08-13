@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1726,
+  "count": 1728,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18985,6 +18985,28 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sh_qGnqnuPM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xj9Vj-8WAUM",
+      "title": "【ホロライブ ドリームス】3期生７周年だよ！全員集合！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xj9Vj-8WAUM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "POJmgJkx3gc",
+      "title": "#あざとい王選手権!まであと3日~!!ゲスト：博衣こより【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/POJmgJkx3gc",
       "status": "unreviewed",
       "note": null
     }

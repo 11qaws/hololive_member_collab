@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1017,
+  "count": 1018,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11186,6 +11186,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S15QNAcYHSY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "POJmgJkx3gc",
+      "title": "#あざとい王選手権!まであと3日~!!ゲスト：博衣こより【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/POJmgJkx3gc",
       "status": "unreviewed",
       "note": null
     }

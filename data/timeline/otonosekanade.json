@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2094,
+  "count": 2096,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qj7frRGZ8AY",
+      "title": "【 You & 合図 】BACK and FRONT【 音乃瀬奏 】#shorts #hololive #音乃瀬奏",
+      "published_at": "20260812",
+      "url": "https://youtu.be/qj7frRGZ8AY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qj7frRGZ8AY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JLBkXTFPztA",
+      "title": "【みんなで575】「写真」で575を作ってみた📷 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260812",
+      "url": "https://youtu.be/JLBkXTFPztA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JLBkXTFPztA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

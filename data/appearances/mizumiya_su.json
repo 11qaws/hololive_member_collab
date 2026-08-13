@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1103,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12132,6 +12132,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1l9w3wcqFWQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZtrfOJE62Do",
+      "title": "一言演技感情当てゲーム!千速編🎧🔧",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZtrfOJE62Do",
       "status": "unreviewed",
       "note": null
     }

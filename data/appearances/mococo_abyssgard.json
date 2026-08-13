@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1132,
+  "count": 1135,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12451,6 +12451,39 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zBAWGo9zJLc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rWVv5hizTNU",
+      "title": "【Burglin' Gnomes】gnome【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rWVv5hizTNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dP8UpLts7DE",
+      "title": "Crossing Your Gardens to Steal Your Underpants 【Burglin' Gnomes】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260811",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dP8UpLts7DE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rxiP6vMwstg",
+      "title": "GIVE US YOUR MONEY!!!! | Burglin' Gnomes",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rxiP6vMwstg",
       "status": "unreviewed",
       "note": null
     }

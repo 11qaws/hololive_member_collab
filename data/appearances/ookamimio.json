@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1894,
+  "count": 1896,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20833,6 +20833,28 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EjqKlJcmIqY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "glvpySalt-Q",
+      "title": "【#ホロボドゲ部】第2回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/glvpySalt-Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ti2ELlQbuYc",
+      "title": "Magia / RosaMiA🌹 (cover)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260812",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ti2ELlQbuYc",
       "status": "unreviewed",
       "note": null
     }
