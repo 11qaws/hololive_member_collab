@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1342,
+  "count": 1343,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14761,6 +14761,17 @@
       "published_at": "20191110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gBNPGtP1pps",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YFr1YlKgSAw",
       "status": "unreviewed",
       "note": null
     }

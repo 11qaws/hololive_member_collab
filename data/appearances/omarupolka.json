@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1897,
+  "count": 1898,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20866,6 +20866,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/POJmgJkx3gc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "16PYBGZo1dk",
+      "title": "#あざとい王選手権!まであと2日~!!ゲスト：尾丸ポルカ【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/16PYBGZo1dk",
       "status": "unreviewed",
       "note": null
     }

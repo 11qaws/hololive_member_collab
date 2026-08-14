@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1430,
+  "count": 1431,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15729,6 +15729,17 @@
       "published_at": "20260809",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/guCt8BP_2DA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YFr1YlKgSAw",
       "status": "unreviewed",
       "note": null
     }

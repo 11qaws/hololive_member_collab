@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1896,
+  "count": 1897,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20855,6 +20855,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ti2ELlQbuYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X0wwLISllTM",
+      "title": "【3D Live ver.】Magia / RosaMiA🌹 (cover)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X0wwLISllTM",
       "status": "unreviewed",
       "note": null
     }

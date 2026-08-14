@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 816,
+  "count": 818,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -8975,6 +8975,28 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iX6mcmWWLZ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YFr1YlKgSAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZKntC0nwdcI",
+      "title": "ガルパ×ホロライブコラボ ビデオレター【ときのそら/湊あくあ/白上フブキ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20211014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZKntC0nwdcI",
       "status": "unreviewed",
       "note": null
     }

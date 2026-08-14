@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1018,
+  "count": 1020,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11197,6 +11197,28 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/POJmgJkx3gc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "16PYBGZo1dk",
+      "title": "#あざとい王選手権!まであと2日~!!ゲスト：尾丸ポルカ【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/16PYBGZo1dk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YFr1YlKgSAw",
       "status": "unreviewed",
       "note": null
     }

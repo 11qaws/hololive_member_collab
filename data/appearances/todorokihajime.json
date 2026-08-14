@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1153,
+  "count": 1155,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12682,6 +12682,28 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JLBkXTFPztA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1-NyiwtlG3Q",
+      "title": "最速は誰だ?!つぼはちでゴーカート対決🏎【角巻わためのHave a nice day】#はばない",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1-NyiwtlG3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RUSYqCLgOOE",
+      "title": "当たり前のことをそれっぽく言ってみた✨ 生きてるって...#ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RUSYqCLgOOE",
       "status": "unreviewed",
       "note": null
     }

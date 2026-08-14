@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1305,
+  "count": 1307,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14354,6 +14354,28 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JLBkXTFPztA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5RwsmMFxGMU",
+      "title": "【#ReGLOSSとラジオ体操】莉々華と一緒にラジオ体操!14日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5RwsmMFxGMU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RUSYqCLgOOE",
+      "title": "当たり前のことをそれっぽく言ってみた✨ 生きてるって...#ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RUSYqCLgOOE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1584,
+  "count": 1586,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17423,6 +17423,28 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3Z6xTTylUO8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1-NyiwtlG3Q",
+      "title": "最速は誰だ?!つぼはちでゴーカート対決🏎【角巻わためのHave a nice day】#はばない",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260810",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1-NyiwtlG3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YFr1YlKgSAw",
       "status": "unreviewed",
       "note": null
     }

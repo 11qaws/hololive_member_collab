@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1214,
+  "count": 1215,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13353,6 +13353,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kEa2wHboln0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zVRwEclH2sQ",
+      "title": "ねねぽるしか勝たん!? #hakosbaelz #ウチらしか勝たん #hololive #shorts #尾丸ポルカ #shorts #dance",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zVRwEclH2sQ",
       "status": "unreviewed",
       "note": null
     }

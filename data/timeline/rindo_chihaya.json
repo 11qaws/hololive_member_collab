@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1978,
+  "count": 1983,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,44 @@
       "paired_self": null
     },
     {
+      "video_id": "hCz4MudyiDI",
+      "title": "ヤクソク!だよ! #shorts #切り抜き",
+      "published_at": "20260814",
+      "url": "https://youtu.be/hCz4MudyiDI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hCz4MudyiDI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N5EHBv7ndeM",
+      "title": "【3D】究極心理戦!?第2回ホロライブ電気椅子ゲーム【#ホロライブ電気椅子ゲーム】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/N5EHBv7ndeM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N5EHBv7ndeM/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zvfm_X8W8wQ",
+      "title": "【Coca-Cola STAGE:0 公認ウォッチパーティー】#グランツーリスモ エキシビションマッチを一緒に見よう~~!!!【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260813",
+      "url": "https://youtu.be/zvfm_X8W8wQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zvfm_X8W8wQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "IOhP95fYPTw",
-      "title": "【】よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "title": "【日本事故物件監視協会 -JSP-】3が出たので1からやります…【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "20260813",
       "url": "https://youtu.be/IOhP95fYPTw",
       "entry_type": "stream",
@@ -35,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/iJlaYLIjFpE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GCFb9QmN7HE",
+      "title": "千速&リオナ&枢でパラパラ🌟",
+      "published_at": "20260813",
+      "url": "https://youtu.be/GCFb9QmN7HE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GCFb9QmN7HE/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -143,6 +191,18 @@
       "thumbnail": "https://img.youtube.com/vi/5vxDlKinYw4/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1-NyiwtlG3Q",
+      "title": "最速は誰だ?!つぼはちでゴーカート対決🏎【角巻わためのHave a nice day】#はばない",
+      "published_at": "20260810",
+      "url": "https://youtu.be/1-NyiwtlG3Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1-NyiwtlG3Q/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

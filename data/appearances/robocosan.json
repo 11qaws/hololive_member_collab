@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1278,
+  "count": 1279,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14057,6 +14057,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uGpcDlNHgIA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ng1wcY3zOhE",
+      "title": "【いえのあじ】3Dで苦手なホラゲリベンジ #お子様バッテリー【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ng1wcY3zOhE",
       "status": "unreviewed",
       "note": null
     }

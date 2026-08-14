@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1975,
+  "count": 1976,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21724,6 +21724,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/glvpySalt-Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4eKNREDzt1o",
+      "title": "【JSP3】マルチで事故物件を監視・・・？日本事故物件監視協会3【百鬼あやめ/ホロライブ】",
+      "channel_handle": "nakiri_ayame",
+      "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4eKNREDzt1o",
       "status": "unreviewed",
       "note": null
     }

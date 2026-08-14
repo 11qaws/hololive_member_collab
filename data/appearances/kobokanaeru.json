@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 727,
+  "count": 728,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -7996,6 +7996,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sMhqRo4fsvE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OKr0rgXI3Tg",
+      "title": "【3D LIVE】III ~Justen × Sena ver.~【こぼ・かなえる×宝鐘マリン】テロップ・歌詞なしVer",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OKr0rgXI3Tg",
       "status": "unreviewed",
       "note": null
     }

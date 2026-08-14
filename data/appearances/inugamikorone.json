@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1113,
+  "count": 1114,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12242,6 +12242,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tw0N47Z9yTE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ptg8fJ5Kbyw",
+      "title": "【告知あり】ししろんの社会科見学🏢1日CCOで内部調査だ! #獅白ぼたん6周年【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ptg8fJ5Kbyw",
       "status": "unreviewed",
       "note": null
     }

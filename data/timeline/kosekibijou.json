@@ -1,7 +1,55 @@
 {
   "target": "kosekibijou",
-  "count": 2411,
+  "count": 2415,
   "entries": [
+    {
+      "video_id": "p01AHtGCZAA",
+      "title": "【Resident Evil RE:4】IT'S NOT OVER YET (It's actually just beginning)",
+      "published_at": "20260813",
+      "url": "https://youtu.be/p01AHtGCZAA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/p01AHtGCZAA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7JhIlbotWpo",
+      "title": "【pokajan】pokajan #calliolive",
+      "published_at": "20260813",
+      "url": "https://youtu.be/7JhIlbotWpo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7JhIlbotWpo/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AOtO4qu82Mw",
+      "title": "【UNO】why not come play uno? ……ねえ、僕とUNOでもやらない？ #calliolive",
+      "published_at": "20260813",
+      "url": "https://youtu.be/AOtO4qu82Mw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AOtO4qu82Mw/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YFr1YlKgSAw",
+      "title": "🛸💜ラプラス・ダークネスのこと、なんて呼ぶ? #呼んでた? #hololive #ホロライブ #紫 #呼び方",
+      "published_at": "20260813",
+      "url": "https://youtu.be/YFr1YlKgSAw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YFr1YlKgSAw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "rWVv5hizTNU",
       "title": "【Burglin' Gnomes】gnome【Advent Collab】",
@@ -9,6 +57,18 @@
       "url": "https://youtu.be/rWVv5hizTNU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rWVv5hizTNU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i4D9CYcVIJQ",
+      "title": "【Arknights: Endfield】My greed sickens me. LIINO+1.4 STORY!",
+      "published_at": "20260812",
+      "url": "https://youtu.be/i4D9CYcVIJQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i4D9CYcVIJQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/rxiP6vMwstg/mqdefault.jpg",
       "partner_handle": "nerissaravencroft",
       "partner_name": "Nerissa Ravencroft Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "i4D9CYcVIJQ",
-      "title": "【Arknights: Endfield】My greed sickens me. LIINO+1.4 STORY!",
-      "published_at": "20260811",
-      "url": "https://youtu.be/i4D9CYcVIJQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/i4D9CYcVIJQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28911,24 +28959,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nJ-CPqxE9Q0",
-      "title": "【Armored Core 6】Activating Combat Mode! - #4",
-      "published_at": "",
-      "url": "https://youtu.be/nJ-CPqxE9Q0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "UPrSfuUGmgg",
       "title": "Biboo tank is real! #shorts #worldoftanksblitz",
       "published_at": "",
       "url": "https://youtu.be/UPrSfuUGmgg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nJ-CPqxE9Q0",
+      "title": "【Armored Core 6】Activating Combat Mode! - #4",
+      "published_at": "",
+      "url": "https://youtu.be/nJ-CPqxE9Q0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
