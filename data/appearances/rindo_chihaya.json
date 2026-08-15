@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1224,
+  "count": 1225,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13463,6 +13463,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GCFb9QmN7HE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ztkWgaIhEQA",
+      "title": "一言演技感情当てゲーム!笑虎編☺️🐅",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ztkWgaIhEQA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,10 +1,34 @@
 {
   "target": "mococo_abyssgard",
-  "count": 2235,
+  "count": 2237,
   "entries": [
     {
+      "video_id": "xNlS-8BPLXc",
+      "title": "The Bigger I Walk The Bigger I Talk Probably 【Big Walk】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/xNlS-8BPLXc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xNlS-8BPLXc/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4B70Ewic9eY",
+      "title": "THIS is a rap battle 🎤🗿🐾🩷 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "published_at": "20260814",
+      "url": "https://youtu.be/4B70Ewic9eY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4B70Ewic9eY/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "mu-xpzcbkd0",
-      "title": "【FUWAMOCO ROCK N' RAWR PARTY】summer anison + BIG ANNOUNCEMENTS?! 🐾【FUWAMOCO】",
+      "title": "【FUWAMOCO ROCK N' RAWR PARTY】summer anison + BIG ANNOUNCEMENTS?! 🐾【FUWAMOCO|重大発表あり】",
       "published_at": "20260813",
       "url": "https://youtu.be/mu-xpzcbkd0",
       "entry_type": "stream",
@@ -29,7 +53,7 @@
     {
       "video_id": "7HIOOoU_Hjs",
       "title": "【BURGLIN' GNOMES COLLAB】you take away the gnome and WE BECOME THE GNOME 🐾 #holoAdvent 【FUWAMOCO】",
-      "published_at": "20260812",
+      "published_at": "20260813",
       "url": "https://youtu.be/7HIOOoU_Hjs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7HIOOoU_Hjs/mqdefault.jpg",
@@ -10575,24 +10599,24 @@
       "paired_self": null
     },
     {
-      "video_id": "eKVBp9EgDLc",
-      "title": "【ENIGMATIC RECOLLECTION】puppy preparing for the big party 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
-      "published_at": "20250510",
-      "url": "https://youtu.be/eKVBp9EgDLc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/eKVBp9EgDLc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AxQVdUrmVZU",
       "title": "【ENIGMATIC RECOLLECTION】much gained but something forgotten 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
       "published_at": "20250510",
       "url": "https://youtu.be/AxQVdUrmVZU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AxQVdUrmVZU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eKVBp9EgDLc",
+      "title": "【ENIGMATIC RECOLLECTION】puppy preparing for the big party 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
+      "published_at": "20250510",
+      "url": "https://youtu.be/eKVBp9EgDLc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eKVBp9EgDLc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -19011,24 +19035,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zjtNzxi8t0w",
-      "title": "【FWMC MINECRAFT JOURNEY】fluffy pickaxes for all 🐾【FUWAWA POV】",
-      "published_at": "20240616",
-      "url": "https://youtu.be/zjtNzxi8t0w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zjtNzxi8t0w/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7YNhbv8dMnI",
       "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
       "published_at": "20240616",
       "url": "https://youtu.be/7YNhbv8dMnI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zjtNzxi8t0w",
+      "title": "【FWMC MINECRAFT JOURNEY】fluffy pickaxes for all 🐾【FUWAWA POV】",
+      "published_at": "20240616",
+      "url": "https://youtu.be/zjtNzxi8t0w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zjtNzxi8t0w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

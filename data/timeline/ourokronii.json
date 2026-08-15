@@ -1,7 +1,31 @@
 {
   "target": "ourokronii",
-  "count": 1823,
+  "count": 1825,
   "entries": [
+    {
+      "video_id": "vELulZur3yw",
+      "title": "【Ouro Kronii】enough #shorts",
+      "published_at": "20260815",
+      "url": "https://youtu.be/vELulZur3yw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vELulZur3yw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xNlS-8BPLXc",
+      "title": "The Bigger I Walk The Bigger I Talk Probably 【Big Walk】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/xNlS-8BPLXc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xNlS-8BPLXc/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "v7BK8cCkrEo",
       "title": "【KEEP TALKING AND NOBODOY EXPLODES】I PRINTED OUT THE GAME MANUAL FOR KRONII!!",
@@ -21855,24 +21879,24 @@
       "paired_self": null
     },
     {
-      "video_id": "HgP2Mvq3g9M",
-      "title": "This week's schedule (Mar 30) ⏳ #krotime",
-      "published_at": "",
-      "url": "https://youtu.be/HgP2Mvq3g9M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/HgP2Mvq3g9M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "o03KGZbrp3E",
       "title": "Ouro Kronii 【Way 2 U】Original MV",
       "published_at": "",
       "url": "https://youtu.be/o03KGZbrp3E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/o03KGZbrp3E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HgP2Mvq3g9M",
+      "title": "This week's schedule (Mar 30) ⏳ #krotime",
+      "published_at": "",
+      "url": "https://youtu.be/HgP2Mvq3g9M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/HgP2Mvq3g9M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

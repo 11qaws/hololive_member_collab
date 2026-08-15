@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1020,
+  "count": 1022,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11219,6 +11219,28 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YFr1YlKgSAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qOPXXhRDMow",
+      "title": "【 #あざとい王選手権 】重大告知あり!!ホロライブで最もあざといのは誰だ!?【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qOPXXhRDMow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L4hRo1-Kbzo",
+      "title": "#あざとい王選手権!まであと1日~!!ゲスト：AZKi【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L4hRo1-Kbzo",
       "status": "unreviewed",
       "note": null
     }

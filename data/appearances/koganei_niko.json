@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 815,
+  "count": 816,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8964,6 +8964,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZtrfOJE62Do",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ztkWgaIhEQA",
+      "title": "一言演技感情当てゲーム!笑虎編☺️🐅",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ztkWgaIhEQA",
       "status": "unreviewed",
       "note": null
     }

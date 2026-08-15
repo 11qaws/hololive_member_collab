@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1059,
+  "count": 1061,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11648,6 +11648,28 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7HIOOoU_Hjs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xNlS-8BPLXc",
+      "title": "The Bigger I Walk The Bigger I Talk Probably 【Big Walk】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xNlS-8BPLXc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4B70Ewic9eY",
+      "title": "THIS is a rap battle 🎤🗿🐾🩷 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4B70Ewic9eY",
       "status": "unreviewed",
       "note": null
     }

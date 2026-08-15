@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1898,
+  "count": 1901,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20877,6 +20877,39 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/16PYBGZo1dk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qOPXXhRDMow",
+      "title": "【 #あざとい王選手権 】重大告知あり!!ホロライブで最もあざといのは誰だ!?【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260806",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qOPXXhRDMow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L4hRo1-Kbzo",
+      "title": "#あざとい王選手権!まであと1日~!!ゲスト：AZKi【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L4hRo1-Kbzo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gzX_BHN4ViM",
+      "title": "【お宝どこだ?】あっち見て!【ナゾトキ】 #ホロパニ #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gzX_BHN4ViM",
       "status": "unreviewed",
       "note": null
     }

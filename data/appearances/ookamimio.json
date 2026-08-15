@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1897,
+  "count": 1898,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20866,6 +20866,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/X0wwLISllTM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dJFSXC7aQyU",
+      "title": "【3D LIVE】ray【大神ミオ×戌神ころね×宝鐘マリン】テロップ・歌詞なしVer",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dJFSXC7aQyU",
       "status": "unreviewed",
       "note": null
     }

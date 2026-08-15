@@ -1,7 +1,67 @@
 {
   "target": "yuzuki_choco",
-  "count": 2991,
+  "count": 2997,
   "entries": [
+    {
+      "video_id": "TJlfvhmY6Sc",
+      "title": "Sincerely",
+      "published_at": "20260814",
+      "url": "https://youtu.be/TJlfvhmY6Sc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TJlfvhmY6Sc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kd2nvbAD7VA",
+      "title": "Sincerely (Instrumental)",
+      "published_at": "20260814",
+      "url": "https://youtu.be/Kd2nvbAD7VA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Kd2nvbAD7VA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2He1_YXzJYU",
+      "title": "【original】Sincerely/癒月ちょこ【ホロライブ】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/2He1_YXzJYU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2He1_YXzJYU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pahhIbgxe_k",
+      "title": "mosi mosi? 踊ってみた #癒月ちょこ #ホロライブ #vtuber #dance #shorts #ダンス #踊ってみた",
+      "published_at": "20260814",
+      "url": "https://youtu.be/pahhIbgxe_k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pahhIbgxe_k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L4hRo1-Kbzo",
+      "title": "#あざとい王選手権!まであと1日~!!ゲスト：AZKi【雪花ラミィ /ホロライブ】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/L4hRo1-Kbzo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L4hRo1-Kbzo/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "op_Bw4scy5Y",
       "title": "Ring my name / 響咲リオナ 踊ってみた!#Ringmyname #響咲リオナ #癒月ちょこ #ホロライブ #hololive #shorts",
@@ -263,6 +323,18 @@
       "thumbnail": "https://img.youtube.com/vi/8WjKWnwuUAw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qOPXXhRDMow",
+      "title": "【 #あざとい王選手権 】重大告知あり!!ホロライブで最もあざといのは誰だ!?【雪花ラミィ /ホロライブ】",
+      "published_at": "20260806",
+      "url": "https://youtu.be/qOPXXhRDMow",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qOPXXhRDMow/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -6267,24 +6339,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

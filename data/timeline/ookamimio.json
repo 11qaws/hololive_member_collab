@@ -1,7 +1,19 @@
 {
   "target": "ookamimio",
-  "count": 4031,
+  "count": 4032,
   "entries": [
+    {
+      "video_id": "dJFSXC7aQyU",
+      "title": "【3D LIVE】ray【大神ミオ×戌神ころね×宝鐘マリン】テロップ・歌詞なしVer",
+      "published_at": "20260814",
+      "url": "https://youtu.be/dJFSXC7aQyU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dJFSXC7aQyU/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "X0wwLISllTM",
       "title": "【3D Live ver.】Magia / RosaMiA🌹 (cover)",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/X0wwLISllTM/mqdefault.jpg",
       "partner_handle": "akirose",
       "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5y7kTZoevvk",
+      "title": "【 #RosaMiA 】三人の中で一番お姉さんなのは?!?!【告知あり】",
+      "published_at": "20260812",
+      "url": "https://youtu.be/5y7kTZoevvk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5y7kTZoevvk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/Ti2ELlQbuYc/mqdefault.jpg",
       "partner_handle": "akirose",
       "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "5y7kTZoevvk",
-      "title": "【 #RosaMiA 】三人の中で一番お姉さんなのは？！？！【告知あり】",
-      "published_at": "20260811",
-      "url": "https://youtu.be/5y7kTZoevvk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5y7kTZoevvk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1118,
+  "count": 1119,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12297,6 +12297,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RUSYqCLgOOE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lPzXHx7O-5g",
+      "title": "【#ReGLOSSとラジオ体操】祝・折り返し!今日は全員集合でラジオ体操!15日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lPzXHx7O-5g",
       "status": "unreviewed",
       "note": null
     }

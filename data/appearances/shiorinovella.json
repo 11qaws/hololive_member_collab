@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 957,
+  "count": 958,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10526,6 +10526,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ELDexlIJKpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4B70Ewic9eY",
+      "title": "THIS is a rap battle 🎤🗿🐾🩷 #holoAdvent #spotlightAdvent #hololiveenglish #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4B70Ewic9eY",
       "status": "unreviewed",
       "note": null
     }

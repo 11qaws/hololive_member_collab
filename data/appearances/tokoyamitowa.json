@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1535,
+  "count": 1537,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -16884,6 +16884,28 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/stmI9QkpKuw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yk_UBHp_w_4",
+      "title": "#ウチらしか勝たん / 常闇トワ×桃鈴ねね 踊ってみた!#AZKi #ホロライブ #hololive #shorts",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yk_UBHp_w_4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k7pqqy8aJAI",
+      "title": "TOWAMOCO爆誕?! 👾🩷 towa and nenechi's new song 🍑💜 ウチらしか勝たんをカタンカタンしてみた✨️ #FUWAMOCO #shorts #ホロライブ #踊ってみた",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k7pqqy8aJAI",
       "status": "unreviewed",
       "note": null
     }
