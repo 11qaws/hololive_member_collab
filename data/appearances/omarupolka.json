@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1901,
+  "count": 1903,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20910,6 +20910,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gzX_BHN4ViM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foYXAlJiq68",
+      "title": "【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foYXAlJiq68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f5BhrdtVmlQ",
+      "title": "#あざとい王選手権!本日20時から放送だよ~!!全員集合っ♡【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f5BhrdtVmlQ",
       "status": "unreviewed",
       "note": null
     }

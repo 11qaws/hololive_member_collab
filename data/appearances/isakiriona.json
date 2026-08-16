@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1049,
+  "count": 1051,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11538,6 +11538,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ztkWgaIhEQA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aw0plUjWTGs",
+      "title": "【】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aw0plUjWTGs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RBLJSCZWi-k",
+      "title": "【世界のアソビ大全51】夏の男気勝負（勝っても何もない） #リオポル 【尾丸ポルカ/響咲リオナ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RBLJSCZWi-k",
       "status": "unreviewed",
       "note": null
     }

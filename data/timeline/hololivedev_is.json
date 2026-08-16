@@ -1,14 +1,38 @@
 {
   "target": "hololivedev_is",
-  "count": 881,
+  "count": 883,
   "entries": [
     {
       "video_id": "yiHLmzLj5Cc",
       "title": "【#ReGLOSSとラジオ体操】らではじでラジオ体操!16日目",
-      "published_at": "20260814",
+      "published_at": "20260815",
       "url": "https://youtu.be/yiHLmzLj5Cc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/yiHLmzLj5Cc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ytdODyHij-I",
+      "title": "#LuckyLoud SOLOver.ラップパート🎶 どのパートがお気に入りですか〜? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260815",
+      "url": "https://youtu.be/ytdODyHij-I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ytdODyHij-I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "phcNk0lWwX4",
+      "title": "【#ReGLOSSとラジオ体操】かなはじでラジオ体操!17日目",
+      "published_at": "20260814",
+      "url": "https://youtu.be/phcNk0lWwX4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/phcNk0lWwX4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3087,24 +3111,24 @@
       "paired_self": null
     },
     {
-      "video_id": "JvM1DDsQVzA",
-      "title": "XOVERLINE",
-      "published_at": "20251111",
-      "url": "https://youtu.be/JvM1DDsQVzA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "K9Lj5AFi__I",
       "title": "サクラミラージュ Snapshot ver.",
       "published_at": "20251111",
       "url": "https://youtu.be/K9Lj5AFi__I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JvM1DDsQVzA",
+      "title": "XOVERLINE",
+      "published_at": "20251111",
+      "url": "https://youtu.be/JvM1DDsQVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

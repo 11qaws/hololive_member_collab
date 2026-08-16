@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 816,
+  "count": 817,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8975,6 +8975,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ztkWgaIhEQA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GkOLw011iyM",
+      "title": "【またまた!?爆買い】オシャレな趣味できました✨【ルイ姉、今日なにする?】#2",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GkOLw011iyM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1343,
+  "count": 1344,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14772,6 +14772,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YFr1YlKgSAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aw0plUjWTGs",
+      "title": "【】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aw0plUjWTGs",
       "status": "unreviewed",
       "note": null
     }

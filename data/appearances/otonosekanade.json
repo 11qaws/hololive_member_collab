@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1119,
+  "count": 1121,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12308,6 +12308,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lPzXHx7O-5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "phcNk0lWwX4",
+      "title": "【#ReGLOSSとラジオ体操】かなはじでラジオ体操!17日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/phcNk0lWwX4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ytdODyHij-I",
+      "title": "#LuckyLoud SOLOver.ラップパート🎶 どのパートがお気に入りですか〜? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ytdODyHij-I",
       "status": "unreviewed",
       "note": null
     }

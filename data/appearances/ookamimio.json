@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1898,
+  "count": 1900,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20877,6 +20877,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dJFSXC7aQyU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2niycFr-VTI",
+      "title": "【パワプロ2026】王立天狐学園VSわんわん高校 フブミオ交流戦!!　#ホロ野球交流戦【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2niycFr-VTI",
       "status": "unreviewed",
       "note": null
     }

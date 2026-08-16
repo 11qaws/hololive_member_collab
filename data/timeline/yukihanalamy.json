@@ -1,7 +1,19 @@
 {
   "target": "yukihanalamy",
-  "count": 3307,
+  "count": 3309,
   "entries": [
+    {
+      "video_id": "f5BhrdtVmlQ",
+      "title": "#あざとい王選手権!本日20時から放送だよ~!!全員集合っ♡【雪花ラミィ /ホロライブ】",
+      "published_at": "20260815",
+      "url": "https://youtu.be/f5BhrdtVmlQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f5BhrdtVmlQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ND7Uw8sW5Qk",
       "title": "【ほの暮しの庭】#01｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
@@ -71,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/stmI9QkpKuw/mqdefault.jpg",
       "partner_handle": "momosuzunene",
       "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "foYXAlJiq68",
+      "title": "【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】",
+      "published_at": "20260813",
+      "url": "https://youtu.be/foYXAlJiq68",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/foYXAlJiq68/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -316,7 +340,7 @@
     },
     {
       "video_id": "qOPXXhRDMow",
-      "title": "【 #あざとい王選手権 】重大告知あり!!ホロライブで最もあざといのは誰だ!?【雪花ラミィ /ホロライブ】",
+      "title": "【 #あざとい王選手権 】重大告知あり！！ホロライブで最もあざといのは誰だ！？【雪花ラミィ /ホロライブ】",
       "published_at": "20260806",
       "url": "https://youtu.be/qOPXXhRDMow",
       "entry_type": "stream",
@@ -20271,24 +20295,24 @@
       "paired_self": null
     },
     {
-      "video_id": "l8ekZ6RKQMg",
-      "title": "Twinkle 4 You",
-      "published_at": "20230616",
-      "url": "https://youtu.be/l8ekZ6RKQMg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/l8ekZ6RKQMg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "lZOJhreA5_o",
       "title": "Twinkle 4 You(Instrumental)",
       "published_at": "20230616",
       "url": "https://youtu.be/lZOJhreA5_o",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l8ekZ6RKQMg",
+      "title": "Twinkle 4 You",
+      "published_at": "20230616",
+      "url": "https://youtu.be/l8ekZ6RKQMg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/l8ekZ6RKQMg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

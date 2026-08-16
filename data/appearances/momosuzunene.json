@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1215,
+  "count": 1216,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13364,6 +13364,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zVRwEclH2sQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foYXAlJiq68",
+      "title": "【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foYXAlJiq68",
       "status": "unreviewed",
       "note": null
     }

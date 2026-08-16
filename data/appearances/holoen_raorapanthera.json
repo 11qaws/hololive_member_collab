@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 714,
+  "count": 715,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7853,6 +7853,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rMlTqivjSRk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pFGhfBgLoSU",
+      "title": "【hololive Dreams】Ms. Worldwide Pokajan",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pFGhfBgLoSU",
       "status": "unreviewed",
       "note": null
     }

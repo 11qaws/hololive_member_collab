@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2188,
+  "count": 2190,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y16oXs-25BA",
+      "title": "You&合図/音乃瀬奏 踊ってみた #VTuber #hololive #dance",
+      "published_at": "20260816",
+      "url": "https://youtu.be/Y16oXs-25BA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Y16oXs-25BA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9rFKqrB02dc",
+      "title": "【SPAGHET】莉々華先輩から貰ったゲームやるぞ❕🙌【水宮枢／ホロライブDEV_IS】",
+      "published_at": "20260815",
+      "url": "https://youtu.be/9rFKqrB02dc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9rFKqrB02dc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -81,6 +105,18 @@
       "url": "https://youtu.be/Ng1wcY3zOhE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Ng1wcY3zOhE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ua9qdaAZhYc",
+      "title": "【バイオハザードRE:4】エイダ編#1 完全初見❕ホラー苦手が行く 【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260813",
+      "url": "https://youtu.be/Ua9qdaAZhYc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ua9qdaAZhYc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -215,18 +251,6 @@
       "thumbnail": "https://img.youtube.com/vi/1l9w3wcqFWQ/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Ua9qdaAZhYc",
-      "title": "【バイオハザードRE:4】エイダ編＃1　完全初見❕ホラー苦手が行く 【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260810",
-      "url": "https://youtu.be/Ua9qdaAZhYc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ua9qdaAZhYc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3296,
+  "count": 3299,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36255,6 +36255,39 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ng1wcY3zOhE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aw0plUjWTGs",
+      "title": "【】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aw0plUjWTGs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xUTCQ0Ufiqg",
+      "title": "【3D LIVE】ホロライブメドレー【白上フブキ×森カリオペ×宝鐘マリン】テロップ・歌詞なしVer",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xUTCQ0Ufiqg",
       "status": "unreviewed",
       "note": null
     }

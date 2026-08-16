@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 3334,
+  "count": 3335,
   "entries": [
     {
       "video_id": "B_1-BaxRyJU",
@@ -57,6 +57,18 @@
       "url": "https://youtu.be/YFr1YlKgSAw",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/YFr1YlKgSAw/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "foYXAlJiq68",
+      "title": "【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】",
+      "published_at": "20260813",
+      "url": "https://youtu.be/foYXAlJiq68",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/foYXAlJiq68/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -172,7 +184,7 @@
     },
     {
       "video_id": "OLONO8Q2Nww",
-      "title": "【百尺様】クソデカ都市伝説（当社比12倍）【獅白ぼたん/ホロライブ】",
+      "title": "【百尺様】クソデカ都市伝説(当社比12倍)【獅白ぼたん/ホロライブ】",
       "published_at": "20260804",
       "url": "https://youtu.be/OLONO8Q2Nww",
       "entry_type": "stream",

@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 155,
+  "count": 158,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1704,6 +1704,39 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UGxGoeCQhKw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CIerV92W9n4",
+      "title": "📅ろぼちゃんの月間スケジュール #ろぼじゅーる",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20250909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CIerV92W9n4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0K4sV2gzRuI",
+      "title": "【踊ってみた】botばっか【#shorts /#ときのそら /#ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0K4sV2gzRuI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lk_FgI688Sk",
+      "title": "【踊ってみた】SWEET STEP【#shorts /#ときのそら /#ホロライブ 】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lk_FgI688Sk",
       "status": "unreviewed",
       "note": null
     }

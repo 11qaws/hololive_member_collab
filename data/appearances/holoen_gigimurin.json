@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 888,
+  "count": 895,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9767,6 +9767,83 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xNlS-8BPLXc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O878b0w9RaI",
+      "title": "Into The Void - Episode 3: Undeterred (Original Motion Comic)",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O878b0w9RaI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZrxVf2_ftp0",
+      "title": "【Big Walk】Wandering",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZrxVf2_ftp0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uF82nBeiGbQ",
+      "title": "【Big Walk COLLAB】ey im walkin here",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uF82nBeiGbQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9vkfsnPy6HM",
+      "title": "holoEN Collab! Nerissa POV~ | BIG WALK",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9vkfsnPy6HM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3ZdEw-ePZJ4",
+      "title": "【Big Walk Collab】walking my kouhai today #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3ZdEw-ePZJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-9HYhyLYMrk",
+      "title": "【#holoEN BIG WALK COLLAB】walk & puzzle time with friends?! sign us up 🐾 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-9HYhyLYMrk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vELulZur3yw",
+      "title": "【Ouro Kronii】enough #shorts",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vELulZur3yw",
       "status": "unreviewed",
       "note": null
     }

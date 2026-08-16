@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1587,
+  "count": 1588,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17456,6 +17456,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N5EHBv7ndeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "foYXAlJiq68",
+      "title": "【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/foYXAlJiq68",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1033,
+  "count": 1034,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11362,6 +11362,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L4hRo1-Kbzo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f5BhrdtVmlQ",
+      "title": "#あざとい王選手権!本日20時から放送だよ~!!全員集合っ♡【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f5BhrdtVmlQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1139,
+  "count": 1146,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12528,6 +12528,83 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4B70Ewic9eY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZrxVf2_ftp0",
+      "title": "【Big Walk】Wandering",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZrxVf2_ftp0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uF82nBeiGbQ",
+      "title": "【Big Walk COLLAB】ey im walkin here",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uF82nBeiGbQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9vkfsnPy6HM",
+      "title": "holoEN Collab! Nerissa POV~ | BIG WALK",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9vkfsnPy6HM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kMKr0O8El88",
+      "title": "【BIG WALK】i big steppa",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kMKr0O8El88",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3ZdEw-ePZJ4",
+      "title": "【Big Walk Collab】walking my kouhai today #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3ZdEw-ePZJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RTRfu3Lioho",
+      "title": "【#教えてフワモコ先生】英語が少しわかるようになりたいんです！！【ホロライブ/ときのそら/FUWAMOCO】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RTRfu3Lioho",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aCPviGMui1w",
+      "title": "Pebble May Cry 🗿🐾 #holoEN3DRepeat",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aCPviGMui1w",
       "status": "unreviewed",
       "note": null
     }

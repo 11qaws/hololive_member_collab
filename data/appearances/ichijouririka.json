@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1309,
+  "count": 1312,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14398,6 +14398,39 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iJ1fk02lDms",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aw0plUjWTGs",
+      "title": "【】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aw0plUjWTGs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bhuP-KY1D7Y",
+      "title": "【パワプロ】兎☆ダイナマイト高校 VS 限界条高校 交流戦！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bhuP-KY1D7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ytdODyHij-I",
+      "title": "#LuckyLoud SOLOver.ラップパート🎶 どのパートがお気に入りですか〜? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ytdODyHij-I",
       "status": "unreviewed",
       "note": null
     }

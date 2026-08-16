@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3824,
+  "count": 3825,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SBXZ3YUMcFg",
+      "title": "#01【ほの暮しの庭】Hi！ダーリン！のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20260815",
+      "url": "https://youtu.be/SBXZ3YUMcFg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SBXZ3YUMcFg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -592,7 +604,7 @@
     },
     {
       "video_id": "wukEn7hQecs",
-      "title": "#01 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
+      "title": "#01 【バイオハザード5】フレわたのわちゃわちゃ劇場始まるよ~【不知火フレア/ホロライブ】",
       "published_at": "20260715",
       "url": "https://youtu.be/wukEn7hQecs",
       "entry_type": "stream",

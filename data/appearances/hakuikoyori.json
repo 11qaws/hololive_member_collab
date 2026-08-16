@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1359,
+  "count": 1360,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14948,6 +14948,17 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qOPXXhRDMow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f5BhrdtVmlQ",
+      "title": "#あざとい王選手権!本日20時から放送だよ~!!全員集合っ♡【雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f5BhrdtVmlQ",
       "status": "unreviewed",
       "note": null
     }
