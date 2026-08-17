@@ -1,7 +1,31 @@
 {
   "target": "yukihanalamy",
-  "count": 3309,
+  "count": 3312,
   "entries": [
+    {
+      "video_id": "tKEh-e-xYME",
+      "title": "【ほの暮しの庭】#02｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
+      "published_at": "20260816",
+      "url": "https://youtu.be/tKEh-e-xYME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tKEh-e-xYME/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4ZbpqWFfOLQ",
+      "title": "【輪堂千速コラボ】みんなでニュル北を走るぞ!!【レーシングマスター】",
+      "published_at": "20260816",
+      "url": "https://youtu.be/4ZbpqWFfOLQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4ZbpqWFfOLQ/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "f5BhrdtVmlQ",
       "title": "#あざとい王選手権!本日20時から放送だよ~!!全員集合っ♡【雪花ラミィ /ホロライブ】",
@@ -15,8 +39,20 @@
       "paired_self": null
     },
     {
+      "video_id": "vdUto9-eHeM",
+      "title": "【#尾丸ポルカ6周年】ドキドキ💓アポなし逆凸大会開始‼️☺️【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260815",
+      "url": "https://youtu.be/vdUto9-eHeM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vdUto9-eHeM/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "ND7Uw8sW5Qk",
-      "title": "【ほの暮しの庭】#01｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
+      "title": "【ほの暮しの庭】#01|夏の夜の田舎暮らし…?※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
       "published_at": "20260814",
       "url": "https://youtu.be/ND7Uw8sW5Qk",
       "entry_type": "stream",
@@ -20295,24 +20331,24 @@
       "paired_self": null
     },
     {
-      "video_id": "lZOJhreA5_o",
-      "title": "Twinkle 4 You(Instrumental)",
-      "published_at": "20230616",
-      "url": "https://youtu.be/lZOJhreA5_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "l8ekZ6RKQMg",
       "title": "Twinkle 4 You",
       "published_at": "20230616",
       "url": "https://youtu.be/l8ekZ6RKQMg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/l8ekZ6RKQMg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lZOJhreA5_o",
+      "title": "Twinkle 4 You(Instrumental)",
+      "published_at": "20230616",
+      "url": "https://youtu.be/lZOJhreA5_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

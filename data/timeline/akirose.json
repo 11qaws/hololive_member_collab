@@ -1,7 +1,19 @@
 {
   "target": "akirose",
-  "count": 3366,
+  "count": 3367,
   "entries": [
+    {
+      "video_id": "8ANpR5GMvg4",
+      "title": "【メンバー限定/Member】歌の練習するよ~【ホロライブ/アキロゼ】",
+      "published_at": "20260816",
+      "url": "https://youtu.be/8ANpR5GMvg4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8ANpR5GMvg4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "9T_dbQ8X8F4",
       "title": "【 ノープラン歌枠 】新衣装で歌うよ～！＆ちいかわにハマった話【アキロゼ/ホロライブ】",
@@ -5667,24 +5679,24 @@
       "paired_self": null
     },
     {
-      "video_id": "BczTVRPQJ44",
-      "title": "Bremen Music Festival",
-      "published_at": "20250601",
-      "url": "https://youtu.be/BczTVRPQJ44",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BczTVRPQJ44/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hZezWrdD17k",
       "title": "Dreaming Princess〜Road to Bremen",
       "published_at": "20250601",
       "url": "https://youtu.be/hZezWrdD17k",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hZezWrdD17k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BczTVRPQJ44",
+      "title": "Bremen Music Festival",
+      "published_at": "20250601",
+      "url": "https://youtu.be/BczTVRPQJ44",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BczTVRPQJ44/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

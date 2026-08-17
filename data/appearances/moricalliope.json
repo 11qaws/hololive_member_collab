@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1422,
+  "count": 1424,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15641,6 +15641,28 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xUTCQ0Ufiqg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l8l5i8NyNdM",
+      "title": "≪OPENING 100 BOXES - HANDCAM≫ On the hunt for the Bae SEC card w/ HoloEN",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l8l5i8NyNdM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZ5O2oEQyR0",
+      "title": "【緊急コラボ】Calliope先輩Ina先輩と初コラボ!日本語禁止…なわけないだろ!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZ5O2oEQyR0",
       "status": "unreviewed",
       "note": null
     }

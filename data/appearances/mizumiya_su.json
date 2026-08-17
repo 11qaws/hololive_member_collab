@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1108,
+  "count": 1110,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12187,6 +12187,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wf0nLNq9Zt8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z9hTYWxP8Wk",
+      "title": "【 #しゅぴなで 】リリリベンジ!!!!特訓後の初代マリオ!1時間並走!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z9hTYWxP8Wk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xpSPUb3a2TQ",
+      "title": "ep.1|今からお出かけするのでVlog回してみた🎥",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xpSPUb3a2TQ",
       "status": "unreviewed",
       "note": null
     }

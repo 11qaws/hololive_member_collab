@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1216,
+  "count": 1218,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13375,6 +13375,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ztkWgaIhEQA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vdUto9-eHeM",
+      "title": "【#尾丸ポルカ6周年】ドキドキ💓アポなし逆凸大会開始‼️☺️【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vdUto9-eHeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xpSPUb3a2TQ",
+      "title": "ep.1|今からお出かけするのでVlog回してみた🎥",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xpSPUb3a2TQ",
       "status": "unreviewed",
       "note": null
     }

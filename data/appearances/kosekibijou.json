@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1462,
+  "count": 1464,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16081,6 +16081,28 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aCPviGMui1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l8l5i8NyNdM",
+      "title": "≪OPENING 100 BOXES - HANDCAM≫ On the hunt for the Bae SEC card w/ HoloEN",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l8l5i8NyNdM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ArnCBXZtxVU",
+      "title": "【FORTNITE】first time BECAUSE PERLICA #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ArnCBXZtxVU",
       "status": "unreviewed",
       "note": null
     }

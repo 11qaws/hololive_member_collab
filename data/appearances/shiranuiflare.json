@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1534,
+  "count": 1536,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16873,6 +16873,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/trGJQS-eeEY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zXKP6fC8lPM",
+      "title": "【 バイオハザード6 】フレわたバイオ6の夏!はじまた!がんばいお!!!#2【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zXKP6fC8lPM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vdUto9-eHeM",
+      "title": "【#尾丸ポルカ6周年】ドキドキ💓アポなし逆凸大会開始‼️☺️【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vdUto9-eHeM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1281,
+  "count": 1282,
   "entries": [
+    {
+      "video_id": "NbTtcr_1WAs",
+      "title": "【HOLO vs ROBO】Chattini u haven't built any jetpacks, right?",
+      "published_at": "20260817",
+      "url": "https://youtu.be/NbTtcr_1WAs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NbTtcr_1WAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "pFGhfBgLoSU",
       "title": "【hololive Dreams】Ms. Worldwide Pokajan",
@@ -15351,24 +15363,24 @@
       "paired_self": null
     },
     {
-      "video_id": "6BZ79yNXJA4",
-      "title": "My first Concert ever!!! #holoAllforOne #shorts",
-      "published_at": "",
-      "url": "https://youtu.be/6BZ79yNXJA4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/6BZ79yNXJA4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7C0BUIptm64",
       "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
       "published_at": "",
       "url": "https://youtu.be/7C0BUIptm64",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7C0BUIptm64/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6BZ79yNXJA4",
+      "title": "My first Concert ever!!! #holoAllforOne #shorts",
+      "published_at": "",
+      "url": "https://youtu.be/6BZ79yNXJA4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6BZ79yNXJA4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

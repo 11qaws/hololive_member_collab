@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1431,
+  "count": 1432,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15740,6 +15740,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YFr1YlKgSAw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OCCbR1lebxI",
+      "title": "【アニメ】無限オフィス【ホラー】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OCCbR1lebxI",
       "status": "unreviewed",
       "note": null
     }

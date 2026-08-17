@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1121,
+  "count": 1124,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12330,6 +12330,39 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ytdODyHij-I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S6Lz5NbEFY8",
+      "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S6Lz5NbEFY8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j-7jbe3OMGg",
+      "title": "【#ReGLOSSとラジオ体操】かなはじでラジオ体操！17日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j-7jbe3OMGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WtB4h13bqG0",
+      "title": "以心伝心クイズ〜! ReGLOSS脱退の危機...? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WtB4h13bqG0",
       "status": "unreviewed",
       "note": null
     }

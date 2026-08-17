@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1216,
+  "count": 1217,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13375,6 +13375,17 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foYXAlJiq68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vdUto9-eHeM",
+      "title": "【#尾丸ポルカ6周年】ドキドキ💓アポなし逆凸大会開始‼️☺️【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260815",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vdUto9-eHeM",
       "status": "unreviewed",
       "note": null
     }

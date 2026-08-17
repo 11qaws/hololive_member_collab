@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1033,
+  "count": 1034,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11362,6 +11362,17 @@
       "published_at": "20260810",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DJv-WvI3Lzw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4ZbpqWFfOLQ",
+      "title": "【輪堂千速コラボ】みんなでニュル北を走るぞ!!【レーシングマスター】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4ZbpqWFfOLQ",
       "status": "unreviewed",
       "note": null
     }

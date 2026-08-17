@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 818,
+  "count": 819,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -8997,6 +8997,17 @@
       "published_at": "20211014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZKntC0nwdcI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OCCbR1lebxI",
+      "title": "【アニメ】無限オフィス【ホラー】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OCCbR1lebxI",
       "status": "unreviewed",
       "note": null
     }
