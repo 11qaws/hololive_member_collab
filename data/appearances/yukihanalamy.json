@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1340,
+  "count": 1343,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14739,6 +14739,39 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4ZbpqWFfOLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rMZ7NniG31Q",
+      "title": "【ホロライブ9周年 × #ホロドリ】イベント最新情報解禁配信🎆",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rMZ7NniG31Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MfJZB4F5H7k",
+      "title": "#めろぞーま (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MfJZB4F5H7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Re-ecg_XWr8",
+      "title": "#めろぞーま",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Re-ecg_XWr8",
       "status": "unreviewed",
       "note": null
     }

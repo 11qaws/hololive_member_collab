@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1550,
+  "count": 1555,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17049,6 +17049,61 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UgWaWdR0_VA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd70RRzTioc",
+      "title": "≪3D Bae-gemite Extravaganza!! ≫ It is TIME ... w/ HUGE ANNOUNCEMENTS! #BaeBig5th",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd70RRzTioc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qN0qOU0zFAk",
+      "title": "【 7Days to Die 】ついに7日目到来じゃああ🔥 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qN0qOU0zFAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mAx1_2KUgBE",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY3 🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mAx1_2KUgBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yncG6v5Bu0E",
+      "title": "【7Days to Die】エイムで7日目を乗り越える~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yncG6v5Bu0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zSlhsP1jHwE",
+      "title": "【7Days to Die】初参戦！初心者なので教えてもらいながら！！#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zSlhsP1jHwE",
       "status": "unreviewed",
       "note": null
     }

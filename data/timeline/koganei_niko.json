@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1633,
+  "count": 1637,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hjpfSr2gqzQ",
+      "title": "#虎のいる生活",
+      "published_at": "20260817",
+      "url": "https://youtu.be/hjpfSr2gqzQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hjpfSr2gqzQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Nw22_Cy8O_c",
+      "title": "#虎のいる生活",
+      "published_at": "20260817",
+      "url": "https://youtu.be/Nw22_Cy8O_c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Nw22_Cy8O_c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "D1a4doSVP5M",
+      "title": "ep.3|準備OK!5人でドライブ行ってくるね〜!👋",
+      "published_at": "20260817",
+      "url": "https://youtu.be/D1a4doSVP5M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/D1a4doSVP5M/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,8 +64,8 @@
     },
     {
       "video_id": "Ihwugvpw1aY",
-      "title": "【 ＃朝ガオ 】もってくれよォ俺の回線・・・・‼【虎金妃笑虎】",
-      "published_at": "20260815",
+      "title": "【 #朝ガオ 】もってくれよォ俺の回線・・・・‼【虎金妃笑虎】",
+      "published_at": "20260816",
       "url": "https://youtu.be/Ihwugvpw1aY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Ihwugvpw1aY/mqdefault.jpg",
@@ -81,6 +117,18 @@
       "url": "https://youtu.be/ztkWgaIhEQA",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ztkWgaIhEQA/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8jDkEhJaxOQ",
+      "title": "【新曲公開】🍉スイカ割り&夏クイズで激突🔥FGサマーウォーズ開催するぞぉぉぉ!!!",
+      "published_at": "20260813",
+      "url": "https://youtu.be/8jDkEhJaxOQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8jDkEhJaxOQ/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],

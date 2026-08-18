@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1356,
+  "count": 1360,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -14915,6 +14915,50 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4ZbpqWFfOLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mAx1_2KUgBE",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY3 🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mAx1_2KUgBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qN0qOU0zFAk",
+      "title": "【 7Days to Die 】ついに7日目到来じゃああ🔥 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qN0qOU0zFAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k8lfcYUSpPc",
+      "title": "【DAY3】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k8lfcYUSpPc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "waihO4ruu4U",
+      "title": "【 DAY2 】#ホロ7大豆劇場 自転車🚲️をゲットしたいッ‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/waihO4ruu4U",
       "status": "unreviewed",
       "note": null
     }

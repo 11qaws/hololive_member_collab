@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 818,
+  "count": 820,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -8997,6 +8997,28 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tg1QDNW3j2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8jDkEhJaxOQ",
+      "title": "【新曲公開】🍉スイカ割り&夏クイズで激突🔥FGサマーウォーズ開催するぞぉぉぉ!!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8jDkEhJaxOQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D1a4doSVP5M",
+      "title": "ep.3|準備OK!5人でドライブ行ってくるね〜!👋",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D1a4doSVP5M",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 919,
+  "count": 920,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10108,6 +10108,17 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OCCbR1lebxI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I8ey5CMqJZt",
+      "title": "Anime NYC Irohanihohetto AyaFubuMi Panel",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I8ey5CMqJZt",
       "status": "unreviewed",
       "note": null
     }

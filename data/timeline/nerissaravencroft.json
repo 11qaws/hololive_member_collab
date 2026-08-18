@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1810,
+  "count": 1811,
   "entries": [
     {
       "video_id": "sjPz86IL4sk",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "9vkfsnPy6HM",
+      "title": "holoEN Collab! Nerissa POV~ | BIG WALK",
+      "published_at": "20260816",
+      "url": "https://youtu.be/9vkfsnPy6HM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9vkfsnPy6HM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "ZrxVf2_ftp0",
       "title": "【Big Walk】Wandering",
       "published_at": "20260816",
@@ -23,18 +35,6 @@
       "thumbnail": "https://img.youtube.com/vi/ZrxVf2_ftp0/mqdefault.jpg",
       "partner_handle": "ourokronii",
       "partner_name": "Ouro Kronii Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "9vkfsnPy6HM",
-      "title": "holoEN Collab! Nerissa POV~ | BIG WALK",
-      "published_at": "20260815",
-      "url": "https://youtu.be/9vkfsnPy6HM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9vkfsnPy6HM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -21467,6 +21467,18 @@
       "thumbnail": "https://img.youtube.com/vi/y6bSgVuN1gg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UkqwIcO3YN8",
+      "title": "Weekly Tentative Schedule",
+      "published_at": "20230804",
+      "url": "https://youtu.be/UkqwIcO3YN8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UkqwIcO3YN8/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

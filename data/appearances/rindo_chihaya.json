@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1235,
+  "count": 1244,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13584,6 +13584,105 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jzUimHbdf6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5MAiZsYUhdI",
+      "title": "【 DAY3 】#ホロ7大豆劇場 7日目‼️初襲撃日くるぞおおおお🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5MAiZsYUhdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yncG6v5Bu0E",
+      "title": "【7Days to Die】エイムで7日目を乗り越える~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yncG6v5Bu0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k8lfcYUSpPc",
+      "title": "【DAY3】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k8lfcYUSpPc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qN0qOU0zFAk",
+      "title": "【 7Days to Die 】ついに7日目到来じゃああ🔥 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qN0qOU0zFAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8jDkEhJaxOQ",
+      "title": "【新曲公開】🍉スイカ割り&夏クイズで激突🔥FGサマーウォーズ開催するぞぉぉぉ!!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8jDkEhJaxOQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "waihO4ruu4U",
+      "title": "【 DAY2 】#ホロ7大豆劇場 自転車🚲️をゲットしたいッ‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/waihO4ruu4U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zSlhsP1jHwE",
+      "title": "【7Days to Die】初参戦！初心者なので教えてもらいながら！！#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zSlhsP1jHwE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D1a4doSVP5M",
+      "title": "ep.3|準備OK!5人でドライブ行ってくるね〜!👋",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D1a4doSVP5M",
       "status": "unreviewed",
       "note": null
     }

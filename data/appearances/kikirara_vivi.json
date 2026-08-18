@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1218,
+  "count": 1221,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13397,6 +13397,39 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xpSPUb3a2TQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8jDkEhJaxOQ",
+      "title": "【新曲公開】🍉スイカ割り&夏クイズで激突🔥FGサマーウォーズ開催するぞぉぉぉ!!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260813",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8jDkEhJaxOQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D1a4doSVP5M",
+      "title": "ep.3|準備OK!5人でドライブ行ってくるね〜!👋",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D1a4doSVP5M",
       "status": "unreviewed",
       "note": null
     }

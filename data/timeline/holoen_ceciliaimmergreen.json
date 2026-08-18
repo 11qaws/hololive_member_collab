@@ -1,7 +1,31 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1257,
+  "count": 1259,
   "entries": [
+    {
+      "video_id": "vI9g96BBxy0",
+      "title": "【MEMBER STREAM】WITCH HAT ATELIER 10-13 ~ WITCHALONG!",
+      "published_at": "20260817",
+      "url": "https://youtu.be/vI9g96BBxy0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vI9g96BBxy0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tvZFbAoOL74",
+      "title": "セシリア・イマーグリーンで涼む方法 #hololive #ホロライブ #扇風機",
+      "published_at": "20260817",
+      "url": "https://youtu.be/tvZFbAoOL74",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tvZFbAoOL74/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "THkht21IjV4",
       "title": "Updates and doodling otomos~【STREAM】",

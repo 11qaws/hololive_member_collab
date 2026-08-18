@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1360,
+  "count": 1361,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14959,6 +14959,17 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f5BhrdtVmlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rMZ7NniG31Q",
+      "title": "【ホロライブ9周年 × #ホロドリ】イベント最新情報解禁配信🎆",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rMZ7NniG31Q",
       "status": "unreviewed",
       "note": null
     }

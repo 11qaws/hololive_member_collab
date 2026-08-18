@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1072,
+  "count": 1073,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11791,6 +11791,17 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GZ5O2oEQyR0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd70RRzTioc",
+      "title": "≪3D Bae-gemite Extravaganza!! ≫ It is TIME ... w/ HUGE ANNOUNCEMENTS! #BaeBig5th",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd70RRzTioc",
       "status": "unreviewed",
       "note": null
     }

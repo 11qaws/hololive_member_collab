@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 773,
+  "count": 774,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8502,6 +8502,17 @@
       "published_at": "20260804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ttX_80xGoJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tvZFbAoOL74",
+      "title": "セシリア・イマーグリーンで涼む方法 #hololive #ホロライブ #扇風機",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tvZFbAoOL74",
       "status": "unreviewed",
       "note": null
     }

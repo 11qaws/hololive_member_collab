@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1056,
+  "count": 1057,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11615,6 +11615,17 @@
       "published_at": "20260807",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z9MZH1pbukc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JoevlADbS8Y",
+      "title": "【#HUTRI81】THE RETURN OF THE RAIN MASTER - holoh3ro Fairy Tales",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JoevlADbS8Y",
       "status": "unreviewed",
       "note": null
     }

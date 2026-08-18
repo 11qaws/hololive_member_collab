@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3828,
+  "count": 3829,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zbWI7KeGM8g",
+      "title": "#02 【バイオハザード6】フレわたのわちゃわちゃ劇場レオン&ヘレナ編【不知火フレア/ホロライブ】",
+      "published_at": "20260817",
+      "url": "https://youtu.be/zbWI7KeGM8g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zbWI7KeGM8g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,7 +52,7 @@
     },
     {
       "video_id": "SBXZ3YUMcFg",
-      "title": "#01【ほの暮しの庭】Hi！ダーリン！のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#01【ほの暮しの庭】Hi!ダーリン!のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260815",
       "url": "https://youtu.be/SBXZ3YUMcFg",
       "entry_type": "stream",
@@ -26235,24 +26247,24 @@
       "paired_self": null
     },
     {
-      "video_id": "AByRY55F9_A",
-      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
-      "published_at": "20220322",
-      "url": "https://youtu.be/AByRY55F9_A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "LndV_sp65kk",
       "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
       "published_at": "20220322",
       "url": "https://youtu.be/LndV_sp65kk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AByRY55F9_A",
+      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
+      "published_at": "20220322",
+      "url": "https://youtu.be/AByRY55F9_A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

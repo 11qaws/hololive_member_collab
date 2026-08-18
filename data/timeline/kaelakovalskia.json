@@ -1,7 +1,31 @@
 {
   "target": "kaelakovalskia",
-  "count": 2799,
+  "count": 2801,
   "entries": [
+    {
+      "video_id": "CzEw-z-3eYE",
+      "title": "【hololive Dreams】MANIFESTING",
+      "published_at": "20260817",
+      "url": "https://youtu.be/CzEw-z-3eYE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CzEw-z-3eYE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JoevlADbS8Y",
+      "title": "【#HUTRI81】THE RETURN OF THE RAIN MASTER - holoh3ro Fairy Tales",
+      "published_at": "20260817",
+      "url": "https://youtu.be/JoevlADbS8Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JoevlADbS8Y/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "pFGhfBgLoSU",
       "title": "【hololive Dreams】Ms. Worldwide Pokajan",

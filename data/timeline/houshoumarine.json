@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3594,
+  "count": 3596,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WatZPy13iTU",
+      "title": "\\\\ いくつになっても〜? //きゃぴ踊ってみた♡#shorts #dance",
+      "published_at": "20260817",
+      "url": "https://youtu.be/WatZPy13iTU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WatZPy13iTU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -33,6 +45,18 @@
       "url": "https://youtu.be/QEG3PLlbQko",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/QEG3PLlbQko/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6qF1T8U5QqM",
+      "title": "マリン船長とかぐやが【#踊ってみた ?】番外編|私は、わたしの事が好き。HoneyWorks #超かぐや姫 !#宝鐘マリン #CosmicPrincessKaguya",
+      "published_at": "20260815",
+      "url": "https://youtu.be/6qF1T8U5QqM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6qF1T8U5QqM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -10239,24 +10263,24 @@
       "paired_self": null
     },
     {
-      "video_id": "U9X6hVgIib8",
-      "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
-      "published_at": "20241015",
-      "url": "https://youtu.be/U9X6hVgIib8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "V6a1pbqlXVw",
       "title": "I I I",
       "published_at": "20241015",
       "url": "https://youtu.be/V6a1pbqlXVw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U9X6hVgIib8",
+      "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+      "published_at": "20241015",
+      "url": "https://youtu.be/U9X6hVgIib8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

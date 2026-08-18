@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2429,
+  "count": 2431,
   "entries": [
+    {
+      "video_id": "Z16OMEw5FK8",
+      "title": "【HOLOLIVE DREAMS】SURELY IT WILL GO BETTER THIS TIME. RIGHT?",
+      "published_at": "20260817",
+      "url": "https://youtu.be/Z16OMEw5FK8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Z16OMEw5FK8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "u9CFMRSxtxs",
       "title": "【FORTNITE COLLAB】ROCKU WAWA...AND PERLICA?",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/u9CFMRSxtxs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/u9CFMRSxtxs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uF82nBeiGbQ",
+      "title": "【Big Walk COLLAB】ey im walkin here",
+      "published_at": "20260816",
+      "url": "https://youtu.be/uF82nBeiGbQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/uF82nBeiGbQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/ArnCBXZtxVU/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "uF82nBeiGbQ",
-      "title": "【Big Walk COLLAB】ey im walkin here",
-      "published_at": "20260815",
-      "url": "https://youtu.be/uF82nBeiGbQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/uF82nBeiGbQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28871,6 +28883,18 @@
       "thumbnail": "https://img.youtube.com/vi/TbELAnxM758/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UkqwIcO3YN8",
+      "title": "Weekly Tentative Schedule",
+      "published_at": "20230804",
+      "url": "https://youtu.be/UkqwIcO3YN8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UkqwIcO3YN8/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

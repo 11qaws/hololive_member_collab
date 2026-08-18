@@ -1,7 +1,31 @@
 {
   "target": "hololivedev_is",
-  "count": 885,
+  "count": 887,
   "entries": [
+    {
+      "video_id": "Sw7dcRPvm9s",
+      "title": "【#ReGLOSSとラジオ体操】奏と一緒にラジオ体操やりませんか?18日目",
+      "published_at": "20260817",
+      "url": "https://youtu.be/Sw7dcRPvm9s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Sw7dcRPvm9s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SDAUUZkK4Mg",
+      "title": "【ReGLOSS衣装紹介】はじめの衣装紹介🐧⚡ #ReGLOSS #轟はじめ #Vtuber #shorts",
+      "published_at": "20260817",
+      "url": "https://youtu.be/SDAUUZkK4Mg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SDAUUZkK4Mg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "j-7jbe3OMGg",
       "title": "【#ReGLOSSとラジオ体操】かなはじでラジオ体操！17日目",
@@ -747,24 +771,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QqzRAVsrSE4",
-      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
-      "published_at": "20260710",
-      "url": "https://youtu.be/QqzRAVsrSE4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Yzucp_yM7Hk",
       "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
       "published_at": "20260710",
       "url": "https://youtu.be/Yzucp_yM7Hk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QqzRAVsrSE4",
+      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
+      "published_at": "20260710",
+      "url": "https://youtu.be/QqzRAVsrSE4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3111,18 +3135,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Qo_Xhp72DUk",
-      "title": "落噺 (儒烏風亭らでん SOLO)",
-      "published_at": "20251111",
-      "url": "https://youtu.be/Qo_Xhp72DUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PSLHyLxQXIw",
       "title": "Bangarang",
       "published_at": "20251111",
@@ -3135,12 +3147,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JvM1DDsQVzA",
-      "title": "XOVERLINE",
+      "video_id": "Qo_Xhp72DUk",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
-      "url": "https://youtu.be/JvM1DDsQVzA",
+      "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3153,6 +3165,18 @@
       "url": "https://youtu.be/K9Lj5AFi__I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JvM1DDsQVzA",
+      "title": "XOVERLINE",
+      "published_at": "20251111",
+      "url": "https://youtu.be/JvM1DDsQVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 4097,
+  "count": 4099,
   "entries": [
     {
       "video_id": "IX33Cz8TTmQ",
@@ -381,6 +381,30 @@
       "url": "https://youtu.be/0dEEeUztJxg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/0dEEeUztJxg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JPOnKCBQAPg",
+      "title": "現世アリス (Instrumental)",
+      "published_at": "20260802",
+      "url": "https://youtu.be/JPOnKCBQAPg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JPOnKCBQAPg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yzhMEOjQY7I",
+      "title": "現世アリス",
+      "published_at": "20260802",
+      "url": "https://youtu.be/yzhMEOjQY7I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yzhMEOjQY7I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

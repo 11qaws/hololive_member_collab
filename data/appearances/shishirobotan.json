@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1588,
+  "count": 1590,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -17467,6 +17467,28 @@
       "published_at": "20260813",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/foYXAlJiq68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MfJZB4F5H7k",
+      "title": "#めろぞーま (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MfJZB4F5H7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Re-ecg_XWr8",
+      "title": "#めろぞーま",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260817",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Re-ecg_XWr8",
       "status": "unreviewed",
       "note": null
     }
