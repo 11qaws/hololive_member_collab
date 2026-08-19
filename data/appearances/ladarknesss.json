@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1022,
+  "count": 1023,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11241,6 +11241,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L4hRo1-Kbzo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W98R4zLVz6A",
+      "title": "【FUWAMOCO'S ENGLISH SUMMER SCHOOL】3D企画!!✨️ FUWAMOCOの英会話スクール🎒英語が通じなきゃ魔界の激苦茶!🐾 【#FWMC英会話】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W98R4zLVz6A",
       "status": "unreviewed",
       "note": null
     }

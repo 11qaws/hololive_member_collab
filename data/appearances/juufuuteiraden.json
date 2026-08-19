@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 857,
+  "count": 859,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9426,6 +9426,28 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yiHLmzLj5Cc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tL4AbKU4Q3o",
+      "title": "【#ReGLOSSとラジオ体操】ギラギラ太陽に負けるな!19日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tL4AbKU4Q3o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f_BO2u0UV4Y",
+      "title": "【みんなで575】「太陽」で575を作ってみた☀️ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f_BO2u0UV4Y",
       "status": "unreviewed",
       "note": null
     }

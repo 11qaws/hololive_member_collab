@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2431,
+  "count": 2433,
   "entries": [
+    {
+      "video_id": "o1ZkvUuyrEE",
+      "title": "Rock goes \"splunk\" 🗿🗿🗿😢😢😢 #summer #hololiveenglish",
+      "published_at": "20260819",
+      "url": "https://youtu.be/o1ZkvUuyrEE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/o1ZkvUuyrEE/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Z16OMEw5FK8",
       "title": "【HOLOLIVE DREAMS】SURELY IT WILL GO BETTER THIS TIME. RIGHT?",
@@ -191,6 +203,18 @@
       "thumbnail": "https://img.youtube.com/vi/4B70Ewic9eY/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Q-PiKYUiFJo/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29151,24 +29175,24 @@
       "paired_self": null
     },
     {
-      "video_id": "UPrSfuUGmgg",
-      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
-      "published_at": "",
-      "url": "https://youtu.be/UPrSfuUGmgg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nJ-CPqxE9Q0",
       "title": "【Armored Core 6】Activating Combat Mode! - #4",
       "published_at": "",
       "url": "https://youtu.be/nJ-CPqxE9Q0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UPrSfuUGmgg",
+      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
+      "published_at": "",
+      "url": "https://youtu.be/UPrSfuUGmgg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

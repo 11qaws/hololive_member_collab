@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3829,
+  "count": 3832,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VPOLjPJiRrY",
+      "title": "#03【ほの暮しの庭】キスケの好感度イベントを！見せろ下さい！！【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20260818",
+      "url": "https://youtu.be/VPOLjPJiRrY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VPOLjPJiRrY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vc2XsTG_i5c",
+      "title": "【ホロライブ ドリームス】イナのためだから…緩めるね、財布のひも【不知火フレア/ホロライブ】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/vc2XsTG_i5c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vc2XsTG_i5c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "E-L7lJqovQ4",
+      "title": "【音量注意】ホロドリでも絶叫する人たち #hololivedreams #夢色ワンダー #hololive #ホロライブ",
+      "published_at": "20260818",
+      "url": "https://youtu.be/E-L7lJqovQ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/E-L7lJqovQ4/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "aJRRBLpyO9I",
-      "title": "#02【ほの暮しの庭】キスケの好感度をあげたるわ！！【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#02【ほの暮しの庭】キスケの好感度をあげたるわ!!【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260816",
       "url": "https://youtu.be/aJRRBLpyO9I",
       "entry_type": "stream",
@@ -45927,24 +45963,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e7VdM1e20Us",
-      "title": "【Refind Self: 性格診断ゲーム】ゲームで私の性格がわかるときいて【不知火フレア/ホロライブ】",
-      "published_at": "",
-      "url": "https://youtu.be/e7VdM1e20Us",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e7VdM1e20Us/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "HLzV2y5yj6s",
       "title": "2026年3月分のメンバーシップ限定壁紙を配布したよ！ イラスト：pecco様( https://x.com/pecchn478 ) 気になる方はメンバーになってみてね😘 【メンバーシップ(有料",
       "published_at": "",
       "url": "https://youtu.be/HLzV2y5yj6s",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HLzV2y5yj6s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e7VdM1e20Us",
+      "title": "【Refind Self: 性格診断ゲーム】ゲームで私の性格がわかるときいて【不知火フレア/ホロライブ】",
+      "published_at": "",
+      "url": "https://youtu.be/e7VdM1e20Us",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e7VdM1e20Us/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,10 +1,22 @@
 {
   "target": "robocosan",
-  "count": 4099,
+  "count": 4100,
   "entries": [
     {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "published_at": "20260818",
+      "url": "https://youtu.be/OsHqK9eUFwc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OsHqK9eUFwc/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "IX33Cz8TTmQ",
-      "title": "儚すぎる　ロボ子さんが歌い踊る 深海少女 【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "title": "儚すぎる ロボ子さんが歌い踊る 深海少女 【 #ホロライブ/ #ロボ子海底3Dライブ】",
       "published_at": "20260816",
       "url": "https://youtu.be/IX33Cz8TTmQ",
       "entry_type": "stream",

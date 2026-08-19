@@ -1,7 +1,19 @@
 {
   "target": "takanelui",
-  "count": 3906,
+  "count": 3907,
   "entries": [
+    {
+      "video_id": "UechIddyWw4",
+      "title": "この衣装と合うね💃 #shorts #イコラブ #劇薬中毒 #hololive #dance",
+      "published_at": "20260819",
+      "url": "https://youtu.be/UechIddyWw4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UechIddyWw4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "A_dmiNZjthY",
       "title": "話題のハイライト消しダンスやってみた #くださいませチャレンジ #shorts #dance #ホロライブ #hololive",
@@ -22767,24 +22779,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kEH7SJvgIwQ",
-      "title": "TSUBASA",
-      "published_at": "20240611",
-      "url": "https://youtu.be/kEH7SJvgIwQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "he7uObcHFdk",
       "title": "オーバード",
       "published_at": "20240611",
       "url": "https://youtu.be/he7uObcHFdk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/he7uObcHFdk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kEH7SJvgIwQ",
+      "title": "TSUBASA",
+      "published_at": "20240611",
+      "url": "https://youtu.be/kEH7SJvgIwQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

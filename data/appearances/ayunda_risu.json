@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1036,
+  "count": 1038,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11395,6 +11395,28 @@
       "published_at": "20260806",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1JaTzIuCGLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HEDOtn3oqZE",
+      "title": "【Windrose】THE NEXT ADVENTURE BEGINS!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HEDOtn3oqZE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OrxrCCgCdk4",
+      "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OrxrCCgCdk4",
       "status": "unreviewed",
       "note": null
     }

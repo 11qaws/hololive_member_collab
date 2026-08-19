@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1906,
+  "count": 1907,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20965,6 +20965,17 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Re-ecg_XWr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
       "status": "unreviewed",
       "note": null
     }

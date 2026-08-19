@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1280,
+  "count": 1281,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14079,6 +14079,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gzX_BHN4ViM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
       "status": "unreviewed",
       "note": null
     }

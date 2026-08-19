@@ -1,7 +1,19 @@
 {
   "target": "airaniiofifteen",
-  "count": 2950,
+  "count": 2952,
   "entries": [
+    {
+      "video_id": "OrxrCCgCdk4",
+      "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/OrxrCCgCdk4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OrxrCCgCdk4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "7s_PxAmdC08",
       "title": "Jump yopi jump! #holodori #ホロドリ",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/7s_PxAmdC08/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HEDOtn3oqZE",
+      "title": "【Windrose】THE NEXT ADVENTURE BEGINS!【hololive | moona】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/HEDOtn3oqZE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HEDOtn3oqZE/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },

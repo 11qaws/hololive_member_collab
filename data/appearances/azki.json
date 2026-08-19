@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1034,
+  "count": 1035,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11373,6 +11373,17 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f5BhrdtVmlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
       "status": "unreviewed",
       "note": null
     }

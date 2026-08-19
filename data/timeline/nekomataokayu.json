@@ -1,7 +1,19 @@
 {
   "target": "nekomataokayu",
-  "count": 3960,
+  "count": 3961,
   "entries": [
+    {
+      "video_id": "YK5lg8gCn6c",
+      "title": "【 雪葬 | Snowed Under 】雪かきホラーゲーム⁉️雪を掘りまくる🔥⛄【 猫又おかゆ/ホロライブ 】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/YK5lg8gCn6c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YK5lg8gCn6c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "QNIcJMO2m4c",
       "title": "【 🔵青鬼2 】クリア耐久⁉️ 青鬼2初見で遊びます🍇【 猫又おかゆ/ホロライブ 】",
@@ -16,8 +28,8 @@
     },
     {
       "video_id": "VD3vn1CUj_8",
-      "title": "【 FF7リバース 】みんなと冒険だああ!! #10 | FINAL FANTASY VII REBIRTH 【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-      "published_at": "20260815",
+      "title": "【 FF7リバース 】みんなと冒険だああ!! #10 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+      "published_at": "20260816",
       "url": "https://youtu.be/VD3vn1CUj_8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/VD3vn1CUj_8/mqdefault.jpg",
@@ -29355,24 +29367,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jQFxkLtrl3c",
-      "title": "毒杯スワロウ",
-      "published_at": "20220725",
-      "url": "https://youtu.be/jQFxkLtrl3c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oM68RFoEi1M",
       "title": "毒杯スワロウ (Instrumental)",
       "published_at": "20220725",
       "url": "https://youtu.be/oM68RFoEi1M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jQFxkLtrl3c",
+      "title": "毒杯スワロウ",
+      "published_at": "20220725",
+      "url": "https://youtu.be/jQFxkLtrl3c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,7 +1,55 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1482,
+  "count": 1486,
   "entries": [
+    {
+      "video_id": "BTAa8RiJ6t4",
+      "title": "Being cute enough with Gigi! #hololive",
+      "published_at": "20260819",
+      "url": "https://youtu.be/BTAa8RiJ6t4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BTAa8RiJ6t4/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XiHZ6Fi0KjM",
+      "title": "【TRAILS IN THE SKY: 1ST CHAPTER】10 hours in and we're starting chapter 1",
+      "published_at": "20260818",
+      "url": "https://youtu.be/XiHZ6Fi0KjM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XiHZ6Fi0KjM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CYstRa6Z6LU",
+      "title": "≪AVIOT x hololive≫ POV 2 demons in your ear telling you to buy AVIOT earphones #sponsored",
+      "published_at": "20260818",
+      "url": "https://youtu.be/CYstRa6Z6LU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CYstRa6Z6LU/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MLp8adwOqEQ",
+      "title": "I LOVE THIS SONGGGG #mmd #hakosbaelz  #enough #gigimurin #hololive #shorts",
+      "published_at": "20260818",
+      "url": "https://youtu.be/MLp8adwOqEQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/MLp8adwOqEQ/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Ybx9uImTJpY",
       "title": "【hololive Dreams】mori calliope",
@@ -9,6 +57,18 @@
       "url": "https://youtu.be/Ybx9uImTJpY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Ybx9uImTJpY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_rJyvKM7NBk",
+      "title": "【FAR FAR WEST】YEEHAW!!!!!!!!!!! GIDDY UP!!!",
+      "published_at": "20260817",
+      "url": "https://youtu.be/_rJyvKM7NBk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_rJyvKM7NBk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,18 +83,6 @@
       "thumbnail": "https://img.youtube.com/vi/tvZFbAoOL74/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "_rJyvKM7NBk",
-      "title": "【FAR FAR WEST】YEEHAW!!!!!!!!!!! GIDDY UP!!!",
-      "published_at": "20260816",
-      "url": "https://youtu.be/_rJyvKM7NBk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/_rJyvKM7NBk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -17763,24 +17811,24 @@
       "paired_self": null
     },
     {
-      "video_id": "8q53wjHD3k4",
-      "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
-      "published_at": "",
-      "url": "https://youtu.be/8q53wjHD3k4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cf9V1Cth6Es",
       "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
       "published_at": "",
       "url": "https://youtu.be/cf9V1Cth6Es",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8q53wjHD3k4",
+      "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
+      "published_at": "",
+      "url": "https://youtu.be/8q53wjHD3k4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

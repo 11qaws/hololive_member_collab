@@ -1,7 +1,19 @@
 {
   "target": "yukihanalamy",
-  "count": 3317,
+  "count": 3319,
   "entries": [
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "published_at": "20260818",
+      "url": "https://youtu.be/OsHqK9eUFwc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OsHqK9eUFwc/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "rMZ7NniG31Q",
       "title": "【ホロライブ9周年 × #ホロドリ】イベント最新情報解禁配信🎆",
@@ -40,7 +52,7 @@
     },
     {
       "video_id": "tKEh-e-xYME",
-      "title": "【ほの暮しの庭】#02｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
+      "title": "【ほの暮しの庭】#02|夏の夜の田舎暮らし…?※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
       "published_at": "20260816",
       "url": "https://youtu.be/tKEh-e-xYME",
       "entry_type": "stream",
@@ -143,6 +155,18 @@
       "thumbnail": "https://img.youtube.com/vi/N5EHBv7ndeM/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Q-PiKYUiFJo/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1126,
+  "count": 1129,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12385,6 +12385,39 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Sw7dcRPvm9s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tL4AbKU4Q3o",
+      "title": "【#ReGLOSSとラジオ体操】ギラギラ太陽に負けるな!19日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tL4AbKU4Q3o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E-L7lJqovQ4",
+      "title": "【音量注意】ホロドリでも絶叫する人たち #hololivedreams #夢色ワンダー #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E-L7lJqovQ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f_BO2u0UV4Y",
+      "title": "【みんなで575】「太陽」で575を作ってみた☀️ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f_BO2u0UV4Y",
       "status": "unreviewed",
       "note": null
     }

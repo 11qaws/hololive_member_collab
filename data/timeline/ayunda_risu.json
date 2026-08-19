@@ -1,7 +1,43 @@
 {
   "target": "ayunda_risu",
-  "count": 2835,
+  "count": 2838,
   "entries": [
+    {
+      "video_id": "xb9k6XwMnKk",
+      "title": "WINDROSE again with Area15",
+      "published_at": "20260818",
+      "url": "https://youtu.be/xb9k6XwMnKk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xb9k6XwMnKk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HEDOtn3oqZE",
+      "title": "【Windrose】THE NEXT ADVENTURE BEGINS!【hololive | moona】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/HEDOtn3oqZE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HEDOtn3oqZE/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OrxrCCgCdk4",
+      "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/OrxrCCgCdk4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OrxrCCgCdk4/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ISXL1Zlr3lI",
       "title": "TEST KEJAGOAN BERSEMBUNYI bersama @sayaayaaulya & @sammybollivienn",
@@ -1083,24 +1119,24 @@
       "paired_self": null
     },
     {
-      "video_id": "toMMyF1ZxKM",
-      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
-      "published_at": "20260622",
-      "url": "https://youtu.be/toMMyF1ZxKM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1PxEmKQvM70",
       "title": "【RISU VERSION】MIR//or 【KARAOKE】",
       "published_at": "20260622",
       "url": "https://youtu.be/1PxEmKQvM70",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1PxEmKQvM70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "toMMyF1ZxKM",
+      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+      "published_at": "20260622",
+      "url": "https://youtu.be/toMMyF1ZxKM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

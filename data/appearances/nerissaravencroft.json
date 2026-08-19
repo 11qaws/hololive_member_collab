@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1068,
+  "count": 1070,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11747,6 +11747,28 @@
       "published_at": "20230804",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UkqwIcO3YN8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W98R4zLVz6A",
+      "title": "【FUWAMOCO'S ENGLISH SUMMER SCHOOL】3D企画!!✨️ FUWAMOCOの英会話スクール🎒英語が通じなきゃ魔界の激苦茶!🐾 【#FWMC英会話】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W98R4zLVz6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
       "status": "unreviewed",
       "note": null
     }

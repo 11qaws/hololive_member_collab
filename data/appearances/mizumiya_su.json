@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1113,
+  "count": 1117,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12242,6 +12242,50 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/D1a4doSVP5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iCqqRNt6KIM",
+      "title": "magic summer",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iCqqRNt6KIM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "luDECMPD2Go",
+      "title": "magic summer (Instrumental)",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/luDECMPD2Go",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mo5zXXNaLc4",
+      "title": "FLOW GLOW / magic summer【Official Music Video】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mo5zXXNaLc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
       "status": "unreviewed",
       "note": null
     }

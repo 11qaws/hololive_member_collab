@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2662,
+  "count": 2664,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CYstRa6Z6LU",
+      "title": "≪AVIOT x hololive≫ POV 2 demons in your ear telling you to buy AVIOT earphones #sponsored",
+      "published_at": "20260818",
+      "url": "https://youtu.be/CYstRa6Z6LU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CYstRa6Z6LU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MLp8adwOqEQ",
+      "title": "I LOVE THIS SONGGGG #mmd #hakosbaelz  #enough #gigimurin #hololive #shorts",
+      "published_at": "20260818",
+      "url": "https://youtu.be/MLp8adwOqEQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MLp8adwOqEQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vDedN9YyxUc",
+      "title": "≪Phoenix Wright: Trials and Tribulations≫ GRAND FINALE... First Playthrough! #9【SPOILER WARNING】",
+      "published_at": "20260817",
+      "url": "https://youtu.be/vDedN9YyxUc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vDedN9YyxUc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -69,18 +105,6 @@
       "url": "https://youtu.be/OdureVENHEc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/OdureVENHEc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "vDedN9YyxUc",
-      "title": "≪Phoenix Wright: Trials and Tribulations≫ GRAND FINALE... First Playthrough! #9【SPOILER WARNING】",
-      "published_at": "20260816",
-      "url": "https://youtu.be/vDedN9YyxUc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vDedN9YyxUc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -15615,24 +15639,24 @@
       "paired_self": null
     },
     {
-      "video_id": "crdkv5i9pvo",
-      "title": "HIDE & SEEK 〜なかよくケンカしな!〜",
-      "published_at": "20240229",
-      "url": "https://youtu.be/crdkv5i9pvo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/crdkv5i9pvo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "_hEzJPgdF5Q",
       "title": "RIDE",
       "published_at": "20240229",
       "url": "https://youtu.be/_hEzJPgdF5Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_hEzJPgdF5Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "crdkv5i9pvo",
+      "title": "HIDE & SEEK 〜なかよくケンカしな!〜",
+      "published_at": "20240229",
+      "url": "https://youtu.be/crdkv5i9pvo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/crdkv5i9pvo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

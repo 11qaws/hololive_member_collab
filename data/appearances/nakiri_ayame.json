@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 920,
+  "count": 921,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10119,6 +10119,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I8ey5CMqJZt",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OsHqK9eUFwc",
       "status": "unreviewed",
       "note": null
     }

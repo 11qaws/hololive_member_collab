@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1088,
+  "count": 1089,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11967,6 +11967,17 @@
       "published_at": "20260805",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N9yRMCeu-Gs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OrxrCCgCdk4",
+      "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OrxrCCgCdk4",
       "status": "unreviewed",
       "note": null
     }

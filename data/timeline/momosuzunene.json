@@ -1,7 +1,31 @@
 {
   "target": "momosuzunene",
-  "count": 2691,
+  "count": 2694,
   "entries": [
+    {
+      "video_id": "gcLzb7bj60M",
+      "title": "超開花同時視聴!!ねねのファーストライブを振り返る!【 桃鈴ねね / hololive 】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/gcLzb7bj60M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gcLzb7bj60M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OsHqK9eUFwc",
+      "title": "【新ボイス】大丈夫?ちょっと休憩する?",
+      "published_at": "20260818",
+      "url": "https://youtu.be/OsHqK9eUFwc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OsHqK9eUFwc/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "MfJZB4F5H7k",
       "title": "#めろぞーま (Instrumental)",
@@ -47,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/vdUto9-eHeM/mqdefault.jpg",
       "partner_handle": "omarupolka",
       "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q-PiKYUiFJo",
+      "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/Q-PiKYUiFJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Q-PiKYUiFJo/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -15699,24 +15735,24 @@
       "paired_self": null
     },
     {
-      "video_id": "q6ZKeOa6YY4",
-      "title": "Lunch with me",
-      "published_at": "20230610",
-      "url": "https://youtu.be/q6ZKeOa6YY4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/q6ZKeOa6YY4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "2H6wWQ91xf8",
       "title": "モモノネ",
       "published_at": "20230610",
       "url": "https://youtu.be/2H6wWQ91xf8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/2H6wWQ91xf8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q6ZKeOa6YY4",
+      "title": "Lunch with me",
+      "published_at": "20230610",
+      "url": "https://youtu.be/q6ZKeOa6YY4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q6ZKeOa6YY4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32235,12 +32271,12 @@
       "paired_self": null
     },
     {
-      "video_id": "-aihsO26QBI",
-      "title": "AIに言葉を教えたい桃鈴ねね #shorts",
+      "video_id": "NtHKELQoO9I",
+      "title": "みぎかたに～～むらさきちょうちょ～～#shorts 【桃鈴ねね/ホロライブ】",
       "published_at": "",
-      "url": "https://youtu.be/-aihsO26QBI",
+      "url": "https://youtu.be/NtHKELQoO9I",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-aihsO26QBI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/NtHKELQoO9I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32271,12 +32307,12 @@
       "paired_self": null
     },
     {
-      "video_id": "NtHKELQoO9I",
-      "title": "みぎかたに～～むらさきちょうちょ～～#shorts 【桃鈴ねね/ホロライブ】",
+      "video_id": "-aihsO26QBI",
+      "title": "AIに言葉を教えたい桃鈴ねね #shorts",
       "published_at": "",
-      "url": "https://youtu.be/NtHKELQoO9I",
+      "url": "https://youtu.be/-aihsO26QBI",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/NtHKELQoO9I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-aihsO26QBI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

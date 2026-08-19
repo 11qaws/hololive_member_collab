@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 896,
+  "count": 899,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9855,6 +9855,39 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tvZFbAoOL74",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CYstRa6Z6LU",
+      "title": "≪AVIOT x hololive≫ POV 2 demons in your ear telling you to buy AVIOT earphones #sponsored",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CYstRa6Z6LU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BTAa8RiJ6t4",
+      "title": "Being cute enough with Gigi! #hololive",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BTAa8RiJ6t4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MLp8adwOqEQ",
+      "title": "I LOVE THIS SONGGGG #mmd #hakosbaelz  #enough #gigimurin #hololive #shorts",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MLp8adwOqEQ",
       "status": "unreviewed",
       "note": null
     }

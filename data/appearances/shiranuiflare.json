@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1536,
+  "count": 1537,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16895,6 +16895,17 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vdUto9-eHeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E-L7lJqovQ4",
+      "title": "【音量注意】ホロドリでも絶叫する人たち #hololivedreams #夢色ワンダー #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E-L7lJqovQ4",
       "status": "unreviewed",
       "note": null
     }

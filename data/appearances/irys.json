@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1105,
+  "count": 1106,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12154,6 +12154,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6o_eHrpBcZk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E-L7lJqovQ4",
+      "title": "【音量注意】ホロドリでも絶叫する人たち #hololivedreams #夢色ワンダー #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E-L7lJqovQ4",
       "status": "unreviewed",
       "note": null
     }

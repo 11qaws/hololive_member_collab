@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1993,
+  "count": 1998,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21922,6 +21922,61 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zSlhsP1jHwE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PSJjcmt4fYw",
+      "title": "【 DAY3 】#ホロ7大豆劇場 7日目‼️初襲撃日くるぞおおおお🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PSJjcmt4fYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ErhNO4WYC1I",
+      "title": "【7Days to Die】#ホロ7大豆劇場 DAY3🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ErhNO4WYC1I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-WzNzRMW4Nw",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY３【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-WzNzRMW4Nw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5MAiZsYUhdI",
+      "title": "【 DAY3 】#ホロ7大豆劇場 7日目‼️初襲撃日くるぞおおおお🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5MAiZsYUhdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f4dKnVn7ebQ",
+      "title": "【DAY3】初襲撃！！莉々華が壁になる！！！ #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f4dKnVn7ebQ",
       "status": "unreviewed",
       "note": null
     }
