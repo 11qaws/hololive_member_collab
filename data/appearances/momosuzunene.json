@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1222,
+  "count": 1223,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13441,6 +13441,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GRHIjx8a46k",
+      "title": "【#ウチらしか勝たん】最強の二人✌️✨️トワ様ポジで魔法を使って踊ってみた🎶#白銀ノエル #桃鈴ねね #常闇トワ",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GRHIjx8a46k",
       "status": "unreviewed",
       "note": null
     }

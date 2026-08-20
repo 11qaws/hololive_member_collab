@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1963,
+  "count": 1964,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e9cnDiiWEn8",
+      "title": "FLOW GLOW 7th Single「magic summer」",
+      "published_at": "20260819",
+      "url": "https://youtu.be/e9cnDiiWEn8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/e9cnDiiWEn8/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -123,6 +135,18 @@
       "paired_self": null
     },
     {
+      "video_id": "7uSfpiJOLb0",
+      "title": "【 7Days to Die 】 #ホロ7大豆劇場 初参戦!電気柱二俺はなる!【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260817",
+      "url": "https://youtu.be/7uSfpiJOLb0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7uSfpiJOLb0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "7Gf2tayoKQw",
       "title": "今年はなんだか夏の暑さが足りないよう🍉 #vtuber #shorts #dance",
       "published_at": "20260817",
@@ -215,18 +239,6 @@
       "thumbnail": "https://img.youtube.com/vi/D1a4doSVP5M/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "7uSfpiJOLb0",
-      "title": "【 7Days to Die 】 #ホロ7大豆劇場 初参戦！電気柱二俺はなる！【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "20260816",
-      "url": "https://youtu.be/7uSfpiJOLb0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7uSfpiJOLb0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -23511,30 +23523,6 @@
       "paired_self": null
     },
     {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "sa4kyeVj9Wk",
-      "title": "【Dance practice】LOAD 響咲リオナver",
-      "published_at": "",
-      "url": "https://youtu.be/sa4kyeVj9Wk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "f2x5-aQuSzA",
       "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
       "published_at": "",
@@ -23553,6 +23541,30 @@
       "url": "https://youtu.be/d7mYLP8c6LE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sa4kyeVj9Wk",
+      "title": "【Dance practice】LOAD 響咲リオナver",
+      "published_at": "",
+      "url": "https://youtu.be/sa4kyeVj9Wk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/GMv9AlmncJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

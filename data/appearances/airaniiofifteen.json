@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1111,
+  "count": 1112,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12220,6 +12220,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HEDOtn3oqZE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sn5c9lqaCR4",
+      "title": "【結論】普通の病院がいい #hololive #ホロライブ #ホロぐら #どーもどーも",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sn5c9lqaCR4",
       "status": "unreviewed",
       "note": null
     }

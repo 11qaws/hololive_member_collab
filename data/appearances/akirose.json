@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1241,
+  "count": 1242,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13650,6 +13650,17 @@
       "published_at": "20260811",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5y7kTZoevvk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6-C0cFuZ7u0",
+      "title": "【 打ち上げ】 #秋麗宝燈 で役満耐久✨本当にでるのおおおお！？ w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6-C0cFuZ7u0",
       "status": "unreviewed",
       "note": null
     }

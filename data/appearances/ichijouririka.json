@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1337,
+  "count": 1338,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14706,6 +14706,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f_BO2u0UV4Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZnlmjnaXGXo",
+      "title": "【#ReGLOSSとラジオ体操】りりらでんとラジオ体操!20日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZnlmjnaXGXo",
       "status": "unreviewed",
       "note": null
     }

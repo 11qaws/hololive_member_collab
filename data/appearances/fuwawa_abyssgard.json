@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1148,
+  "count": 1152,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12627,6 +12627,50 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ln0CJTxpZxs",
+      "title": "【Waterpark Simulator】Makin a splash【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ln0CJTxpZxs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "857DmHSjduM",
+      "title": "Running an Unlicensed Waterpark For Funnies 【Waterpark Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/857DmHSjduM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jAF7sZz4Y1E",
+      "title": "Advent Beach Episode | Waterpark Simulator",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jAF7sZz4Y1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sn5c9lqaCR4",
+      "title": "【結論】普通の病院がいい #hololive #ホロライブ #ホロぐら #どーもどーも",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sn5c9lqaCR4",
       "status": "unreviewed",
       "note": null
     }

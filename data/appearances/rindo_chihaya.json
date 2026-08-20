@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1252,
+  "count": 1254,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13771,6 +13771,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QHOAhGZmWqk",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~🎧🔧輪堂千速編~",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QHOAhGZmWqk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e9cnDiiWEn8",
+      "title": "FLOW GLOW 7th Single「magic summer」",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e9cnDiiWEn8",
       "status": "unreviewed",
       "note": null
     }

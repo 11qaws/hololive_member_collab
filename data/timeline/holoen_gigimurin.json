@@ -1,7 +1,43 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1486,
+  "count": 1489,
   "entries": [
+    {
+      "video_id": "8YdSUYVOQ18",
+      "title": "【StarSavior】LET'S GO ON A JOURNEY WITH A NEW SAVIOR!! #ad",
+      "published_at": "20260820",
+      "url": "https://youtu.be/8YdSUYVOQ18",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8YdSUYVOQ18/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "n-1RBIIkj9A",
+      "title": "Sprout listens to FFXIV tales from an old gamer #ad",
+      "published_at": "20260820",
+      "url": "https://youtu.be/n-1RBIIkj9A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/n-1RBIIkj9A/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iIhc847j0CQ",
+      "title": "【GREMBERS YAP】chillin before my meeting",
+      "published_at": "20260819",
+      "url": "https://youtu.be/iIhc847j0CQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iIhc847j0CQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "BTAa8RiJ6t4",
       "title": "Being cute enough with Gigi! #hololive",
@@ -21,6 +57,18 @@
       "url": "https://youtu.be/XiHZ6Fi0KjM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/XiHZ6Fi0KjM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ybx9uImTJpY",
+      "title": "【hololive Dreams】mori calliope",
+      "published_at": "20260818",
+      "url": "https://youtu.be/Ybx9uImTJpY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ybx9uImTJpY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/MLp8adwOqEQ/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Ybx9uImTJpY",
-      "title": "【hololive Dreams】mori calliope",
-      "published_at": "20260817",
-      "url": "https://youtu.be/Ybx9uImTJpY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ybx9uImTJpY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

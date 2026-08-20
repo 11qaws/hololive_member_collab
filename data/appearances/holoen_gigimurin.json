@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 899,
+  "count": 900,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9888,6 +9888,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MLp8adwOqEQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n-1RBIIkj9A",
+      "title": "Sprout listens to FFXIV tales from an old gamer #ad",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n-1RBIIkj9A",
       "status": "unreviewed",
       "note": null
     }

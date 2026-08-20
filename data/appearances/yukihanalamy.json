@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1345,
+  "count": 1346,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14794,6 +14794,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S-O7Jbybb58",
+      "title": "【 告知あり 】突発凸待ち！ひとり来るまで告知できません！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S-O7Jbybb58",
       "status": "unreviewed",
       "note": null
     }

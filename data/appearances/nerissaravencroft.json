@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1070,
+  "count": 1073,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11769,6 +11769,39 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ln0CJTxpZxs",
+      "title": "【Waterpark Simulator】Makin a splash【Advent Collab】",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ln0CJTxpZxs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bXCI1sPlVc0",
+      "title": "【WATERPARK SIMULATOR COLLAB】REBELLION in the waterpark 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bXCI1sPlVc0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "857DmHSjduM",
+      "title": "Running an Unlicensed Waterpark For Funnies 【Waterpark Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/857DmHSjduM",
       "status": "unreviewed",
       "note": null
     }

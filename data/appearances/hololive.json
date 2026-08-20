@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 160,
+  "count": 161,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1759,6 +1759,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lmZ0w30CVbk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ptrfxedn0-E",
+      "title": "【踊ってみた】キューにストップできません!【#shorts /#ときのそら /#ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ptrfxedn0-E",
       "status": "unreviewed",
       "note": null
     }

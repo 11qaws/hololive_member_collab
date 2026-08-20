@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1467,
+  "count": 1470,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16136,6 +16136,39 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bXCI1sPlVc0",
+      "title": "【WATERPARK SIMULATOR COLLAB】REBELLION in the waterpark 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bXCI1sPlVc0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "857DmHSjduM",
+      "title": "Running an Unlicensed Waterpark For Funnies 【Waterpark Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/857DmHSjduM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jAF7sZz4Y1E",
+      "title": "Advent Beach Episode | Waterpark Simulator",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jAF7sZz4Y1E",
       "status": "unreviewed",
       "note": null
     }

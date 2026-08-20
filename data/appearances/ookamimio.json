@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1901,
+  "count": 1902,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20910,6 +20910,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I8ey5CMqJZt",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gj7EDWunF2A",
+      "title": "【パワプロ】兎☆ダイナマイト高校 VS わんわん高校 交流戦！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gj7EDWunF2A",
       "status": "unreviewed",
       "note": null
     }

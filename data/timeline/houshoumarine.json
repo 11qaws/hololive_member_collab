@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3597,
+  "count": 3598,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fg1CypE95TQ",
+      "title": "【飲酒】初サシコラボ!マリちゃんとお酒飲んじゃう!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #宝鐘マリン 】",
+      "published_at": "20260819",
+      "url": "https://youtu.be/fg1CypE95TQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fg1CypE95TQ/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -10275,24 +10287,24 @@
       "paired_self": null
     },
     {
-      "video_id": "V6a1pbqlXVw",
-      "title": "I I I",
-      "published_at": "20241015",
-      "url": "https://youtu.be/V6a1pbqlXVw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "U9X6hVgIib8",
       "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
       "published_at": "20241015",
       "url": "https://youtu.be/U9X6hVgIib8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V6a1pbqlXVw",
+      "title": "I I I",
+      "published_at": "20241015",
+      "url": "https://youtu.be/V6a1pbqlXVw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
