@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1166,
+  "count": 1169,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12825,6 +12825,39 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZnlmjnaXGXo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "neRO87bFvu8",
+      "title": "【 #ホロ3Dアモアス 】はじめての3D Among us!約1年ぶりのアモアス!人狼得意だけど視野こより(狭い)ので弱弱になりそう???【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/neRO87bFvu8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_I7rCnEDJfo",
+      "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_I7rCnEDJfo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y1LmEJlUINM",
+      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操やりませんか?21日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y1LmEJlUINM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1560,
+  "count": 1561,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17159,6 +17159,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jI707fKBEcY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NMJ9T8QgIKs",
+      "title": "トワ様と#ウチらしか勝たん 💃 #MMD #shorts #hololive #ホロライブ",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NMJ9T8QgIKs",
       "status": "unreviewed",
       "note": null
     }

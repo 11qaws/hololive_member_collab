@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1282,
+  "count": 1283,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14101,6 +14101,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S-O7Jbybb58",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qnf8PYhVG80",
+      "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる？【 #大神ミオ生誕2026 】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qnf8PYhVG80",
       "status": "unreviewed",
       "note": null
     }

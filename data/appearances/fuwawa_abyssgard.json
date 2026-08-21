@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1152,
+  "count": 1153,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12671,6 +12671,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Sn5c9lqaCR4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k1w2Dt6pH_U",
+      "title": "【ダメ絶対】お金の計算にはご注意を! #コント #hololive #ホロライブ #詐欺",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k1w2Dt6pH_U",
       "status": "unreviewed",
       "note": null
     }

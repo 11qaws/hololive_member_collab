@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1902,
+  "count": 1903,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20921,6 +20921,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gj7EDWunF2A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "unaoc07LQi4",
+      "title": "【 Fast Food Simulator 】ミオ先輩とハンバーガーショップ出勤!ナイトメアチャレンジ!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #大神ミオ  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/unaoc07LQi4",
       "status": "unreviewed",
       "note": null
     }

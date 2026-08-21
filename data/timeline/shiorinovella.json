@@ -1,7 +1,19 @@
 {
   "target": "shiorinovella",
-  "count": 2011,
+  "count": 2012,
   "entries": [
+    {
+      "video_id": "lNpOfFG4HlQ",
+      "title": "POOF! You Turned Into a Cat! 【Meowgic】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/lNpOfFG4HlQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lNpOfFG4HlQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "BCwy8TXOXjs",
       "title": "Sleep & Hunger With a Smidge of Fear 【Fear & Hunger 2 Termina】",
@@ -51,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "XvB8svQ8ffg",
+      "title": "Helping a Homie Out with His Bloodline 【Metaphor: ReFantazio】 SPOILERS",
+      "published_at": "20260819",
+      "url": "https://youtu.be/XvB8svQ8ffg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XvB8svQ8ffg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Ln0CJTxpZxs",
       "title": "【Waterpark Simulator】Makin a splash【Advent Collab】",
       "published_at": "20260819",
@@ -83,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/jAF7sZz4Y1E/mqdefault.jpg",
       "partner_handle": "nerissaravencroft",
       "partner_name": "Nerissa Ravencroft Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "XvB8svQ8ffg",
-      "title": "Helping a Homie Out with His Bloodline 【Metaphor: ReFantazio】 SPOILERS",
-      "published_at": "20260817",
-      "url": "https://youtu.be/XvB8svQ8ffg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XvB8svQ8ffg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -24099,18 +24111,6 @@
       "paired_self": null
     },
     {
-      "video_id": "_m2DuClvaog",
-      "title": "March's Novelknight vlog is now out!\n한국어 자막이 포함된 새로운 영상이 공개되었습니다!\n日本語字幕付きの新しい動画が公開されました！ ▶️https://",
-      "published_at": "",
-      "url": "https://youtu.be/_m2DuClvaog",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/_m2DuClvaog/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "WO_ONEMfir0",
       "title": "Finale: Who to Marry?【Inzoi】",
       "published_at": "",
@@ -24129,6 +24129,18 @@
       "url": "https://youtu.be/GoUqLjkrxBw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GoUqLjkrxBw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_m2DuClvaog",
+      "title": "March's Novelknight vlog is now out!\n한국어 자막이 포함된 새로운 영상이 공개되었습니다!\n日本語字幕付きの新しい動画が公開されました！ ▶️https://",
+      "published_at": "",
+      "url": "https://youtu.be/_m2DuClvaog",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_m2DuClvaog/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

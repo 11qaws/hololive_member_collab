@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1651,
+  "count": 1652,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "k1w2Dt6pH_U",
+      "title": "【ダメ絶対】お金の計算にはご注意を! #コント #hololive #ホロライブ #詐欺",
+      "published_at": "20260820",
+      "url": "https://youtu.be/k1w2Dt6pH_U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/k1w2Dt6pH_U/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

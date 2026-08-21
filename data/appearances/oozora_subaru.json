@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 1998,
+  "count": 1999,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -21977,6 +21977,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f4dKnVn7ebQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qnf8PYhVG80",
+      "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる？【 #大神ミオ生誕2026 】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qnf8PYhVG80",
       "status": "unreviewed",
       "note": null
     }

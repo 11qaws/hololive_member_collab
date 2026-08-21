@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1674,
+  "count": 1675,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18413,6 +18413,17 @@
       "published_at": "20260812",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/glvpySalt-Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qnf8PYhVG80",
+      "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる？【 #大神ミオ生誕2026 】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qnf8PYhVG80",
       "status": "unreviewed",
       "note": null
     }

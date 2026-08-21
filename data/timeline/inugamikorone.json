@@ -1,7 +1,19 @@
 {
   "target": "inugamikorone",
-  "count": 2960,
+  "count": 2961,
   "entries": [
+    {
+      "video_id": "0Se8toM73sM",
+      "title": "【ド★初見】青鬼２から逃げるな",
+      "published_at": "20260820",
+      "url": "https://youtu.be/0Se8toM73sM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0Se8toM73sM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GMTTk6nzTBQ",
       "title": "【ムカデ人間 4K】ころねの大大大好きな映画が帰ってくる!!!特別インタビュー&あの方からメッセージも!?",
@@ -35487,24 +35499,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nxbrVkSyMTY",
-      "title": "#2【クリア耐久】BIOHAZARD RE:4【戌神ころね/ホロライブ】※ネタバレあり",
-      "published_at": "",
-      "url": "https://youtu.be/nxbrVkSyMTY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nxbrVkSyMTY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BdELpIqS_QQ",
       "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】",
       "published_at": "",
       "url": "https://youtu.be/BdELpIqS_QQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BdELpIqS_QQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nxbrVkSyMTY",
+      "title": "#2【クリア耐久】BIOHAZARD RE:4【戌神ころね/ホロライブ】※ネタバレあり",
+      "published_at": "",
+      "url": "https://youtu.be/nxbrVkSyMTY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nxbrVkSyMTY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

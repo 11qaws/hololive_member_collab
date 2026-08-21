@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1363,
+  "count": 1364,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -14992,6 +14992,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WKZtLyGWymU",
+      "title": "【ホロカ開封(カメラ)】本日発売!「サマー・ホログラム」12BOX開封!もちろん狙うはSEC!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WKZtLyGWymU",
       "status": "unreviewed",
       "note": null
     }

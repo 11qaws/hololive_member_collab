@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1254,
+  "count": 1257,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13793,6 +13793,39 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e9cnDiiWEn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "neRO87bFvu8",
+      "title": "【 #ホロ3Dアモアス 】はじめての3D Among us!約1年ぶりのアモアス!人狼得意だけど視野こより(狭い)ので弱弱になりそう???【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/neRO87bFvu8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3gR2G_bPmzY",
+      "title": "【レーシングマスター】ねねのマシンが最強に決まってるよね！【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3gR2G_bPmzY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ce9KU4vRXgc",
+      "title": "今夜は騒ごう everything's alright🎶✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ce9KU4vRXgc",
       "status": "unreviewed",
       "note": null
     }

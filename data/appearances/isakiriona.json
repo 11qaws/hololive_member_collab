@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1080,
+  "count": 1082,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11879,6 +11879,28 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e9cnDiiWEn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_I7rCnEDJfo",
+      "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_I7rCnEDJfo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ce9KU4vRXgc",
+      "title": "今夜は騒ごう everything's alright🎶✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ce9KU4vRXgc",
       "status": "unreviewed",
       "note": null
     }

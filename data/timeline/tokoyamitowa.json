@@ -1,7 +1,31 @@
 {
   "target": "tokoyamitowa",
-  "count": 3649,
+  "count": 3651,
   "entries": [
+    {
+      "video_id": "QeR9SDh0Ycs",
+      "title": "縛られた人を見て会話が盛り上がるトワ&みこ&まつり  #vtuber #常闇トワ #ホロライブ  #shorts",
+      "published_at": "20260820",
+      "url": "https://youtu.be/QeR9SDh0Ycs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QeR9SDh0Ycs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NMJ9T8QgIKs",
+      "title": "トワ様と#ウチらしか勝たん 💃 #MMD #shorts #hololive #ホロライブ",
+      "published_at": "20260820",
+      "url": "https://youtu.be/NMJ9T8QgIKs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NMJ9T8QgIKs/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "PSJjcmt4fYw",
       "title": "【 DAY3 】#ホロ7大豆劇場 7日目‼️初襲撃日くるぞおおおお🔥【常闇トワ/ホロライブ】",
@@ -5571,24 +5595,24 @@
       "paired_self": null
     },
     {
-      "video_id": "c2hP0qWGgaA",
-      "title": "凛",
-      "published_at": "20251007",
-      "url": "https://youtu.be/c2hP0qWGgaA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "darS1jexgTw",
       "title": "TRUTH",
       "published_at": "20251007",
       "url": "https://youtu.be/darS1jexgTw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c2hP0qWGgaA",
+      "title": "凛",
+      "published_at": "20251007",
+      "url": "https://youtu.be/c2hP0qWGgaA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

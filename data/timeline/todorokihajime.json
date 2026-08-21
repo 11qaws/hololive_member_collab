@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2303,
+  "count": 2306,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "neRO87bFvu8",
+      "title": "【 #ホロ3Dアモアス 】はじめての3D Among us!約1年ぶりのアモアス!人狼得意だけど視野こより(狭い)ので弱弱になりそう???【博衣こより/ホロライブ】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/neRO87bFvu8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/neRO87bFvu8/mqdefault.jpg",
+      "partner_handle": "hakuikoyori",
+      "partner_name": "Koyori ch. 博衣こより - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "y1LmEJlUINM",
+      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操やりませんか?21日目",
+      "published_at": "20260820",
+      "url": "https://youtu.be/y1LmEJlUINM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/y1LmEJlUINM/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -47,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/ZnlmjnaXGXo/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0Wh6SWKPnPU",
+      "title": "【ほの暮しの庭】#03 掟を破ったらどうなる...?ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
+      "published_at": "20260818",
+      "url": "https://youtu.be/0Wh6SWKPnPU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0Wh6SWKPnPU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -95,18 +131,6 @@
       "thumbnail": "https://img.youtube.com/vi/f_BO2u0UV4Y/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "0Wh6SWKPnPU",
-      "title": "【ほの暮しの庭】#03 掟を破ったらどうなる...？ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
-      "published_at": "20260817",
-      "url": "https://youtu.be/0Wh6SWKPnPU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0Wh6SWKPnPU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -251,6 +275,18 @@
       "thumbnail": "https://img.youtube.com/vi/Q-PiKYUiFJo/mqdefault.jpg",
       "partner_handle": "oozora_subaru",
       "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_I7rCnEDJfo",
+      "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+      "published_at": "20260814",
+      "url": "https://youtu.be/_I7rCnEDJfo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_I7rCnEDJfo/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

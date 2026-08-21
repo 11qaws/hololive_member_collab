@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1432,
+  "count": 1433,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15751,6 +15751,17 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OCCbR1lebxI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_I7rCnEDJfo",
+      "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_I7rCnEDJfo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 4040,
+  "count": 4042,
   "entries": [
     {
       "video_id": "I8ey5CMqJZt",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "aW9Xwit7Lww",
+      "title": "【がんばる!ぽミオちゃん!】『はじめましてのご挨拶』 #ぽミオちゃん #大神ミオ",
+      "published_at": "20260820",
+      "url": "https://youtu.be/aW9Xwit7Lww",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aW9Xwit7Lww/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "unaoc07LQi4",
+      "title": "【 Fast Food Simulator 】ミオ先輩とハンバーガーショップ出勤!ナイトメアチャレンジ!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #大神ミオ  】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/unaoc07LQi4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/unaoc07LQi4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "qnf8PYhVG80",
-      "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる?【 #大神ミオ生誕2026 】",
+      "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる？【 #大神ミオ生誕2026 】",
       "published_at": "20260819",
       "url": "https://youtu.be/qnf8PYhVG80",
       "entry_type": "stream",

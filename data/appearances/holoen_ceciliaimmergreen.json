@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 774,
+  "count": 775,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8513,6 +8513,17 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tvZFbAoOL74",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1VFZqnTo2wa",
+      "title": "Are you ready to groove?👀",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1VFZqnTo2wa",
       "status": "unreviewed",
       "note": null
     }

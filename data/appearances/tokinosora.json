@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 821,
+  "count": 822,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9030,6 +9030,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hLnLsTylcRk",
+      "title": "REPO! そら姉さんとREPOだー 「iofi / hololiveID」",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hLnLsTylcRk",
       "status": "unreviewed",
       "note": null
     }

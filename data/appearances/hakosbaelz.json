@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1194,
+  "count": 1196,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13133,6 +13133,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rBykBAkV1vv",
+      "title": "🎲💎💀 CHADCast Original Song",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rBykBAkV1vv",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E1iNq_kN5l2",
+      "title": "🎲💎💀 CHADCast Returns!",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E1iNq_kN5l2",
       "status": "unreviewed",
       "note": null
     }

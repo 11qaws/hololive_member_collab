@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2664,
+  "count": 2669,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,78 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rBykBAkV1vv",
+      "title": "🎲💎💀 CHADCast Original Song",
+      "published_at": "20260831",
+      "url": "https://youtu.be/rBykBAkV1vv",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rBykBAkV1vv/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "E1iNq_kN5l2",
+      "title": "🎲💎💀 CHADCast Returns!",
+      "published_at": "20260831",
+      "url": "https://youtu.be/E1iNq_kN5l2",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/E1iNq_kN5l2/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DRpZhGX8I_0",
+      "title": "Hakos Baelz - 50 Questions with the Rat!【YouTube Music Weekend 12.0】",
+      "published_at": "20260821",
+      "url": "https://youtu.be/DRpZhGX8I_0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DRpZhGX8I_0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RNB-lNGCPAY",
+      "title": "살려 줘 #텍스티드 #딩고뮤직 #dingoMusic #SNAKEEYES #hakosbaelz #hololive",
+      "published_at": "20260820",
+      "url": "https://youtu.be/RNB-lNGCPAY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RNB-lNGCPAY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zDUK2O6Lrvs",
+      "title": "Hakos Baelz – SNAKE EYESㅣ[TEXTED] 하코스 벨즈ㅣ가사 (Lyrics)ㅣdingo Music",
+      "published_at": "20260820",
+      "url": "https://youtu.be/zDUK2O6Lrvs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zDUK2O6Lrvs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l8l5i8NyNdM",
+      "title": "≪OPENING 100 BOXES - HANDCAM≫ On the hunt for the Bae SEC card w/ HoloEN",
+      "published_at": "20260819",
+      "url": "https://youtu.be/l8l5i8NyNdM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/l8l5i8NyNdM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -93,18 +165,6 @@
       "url": "https://youtu.be/Pd70RRzTioc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Pd70RRzTioc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "l8l5i8NyNdM",
-      "title": "≪OPENING 100 BOXES - HANDCAM≫ On the hunt for the Bae SEC card w/ HoloEN",
-      "published_at": "20260816",
-      "url": "https://youtu.be/l8l5i8NyNdM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/l8l5i8NyNdM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -15711,24 +15771,24 @@
       "paired_self": null
     },
     {
-      "video_id": "A2prYynvtJY",
-      "title": "BITE! カム! BITE!",
-      "published_at": "20240229",
-      "url": "https://youtu.be/A2prYynvtJY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7KyZi4-KdWc",
       "title": "EIEN",
       "published_at": "20240229",
       "url": "https://youtu.be/7KyZi4-KdWc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A2prYynvtJY",
+      "title": "BITE! カム! BITE!",
+      "published_at": "20240229",
+      "url": "https://youtu.be/A2prYynvtJY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

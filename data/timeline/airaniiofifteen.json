@@ -1,7 +1,19 @@
 {
   "target": "airaniiofifteen",
-  "count": 2954,
+  "count": 2956,
   "entries": [
+    {
+      "video_id": "hLnLsTylcRk",
+      "title": "REPO! そら姉さんとREPOだー 「iofi / hololiveID」",
+      "published_at": "20260820",
+      "url": "https://youtu.be/hLnLsTylcRk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hLnLsTylcRk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "uLqOrYeZUus",
       "title": "Love Mission?! #VestiaZeta",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/uLqOrYeZUus/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8OfmAmgSBvE",
+      "title": "【R.E.P.O. 】イオそらで初挑戦！！【ホロライブ/ときのそら】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/8OfmAmgSBvE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8OfmAmgSBvE/mqdefault.jpg",
+      "partner_handle": "tokinosora",
+      "partner_name": "SoraCh. ときのそらチャンネル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35427,24 +35451,24 @@
       "paired_self": null
     },
     {
-      "video_id": "PiRVUqK0OUA",
-      "title": "【 Monster Hunter World 】LETS GO GIRLSSSSSSSSSSSSS【 iofi / hololiveID 】",
-      "published_at": "",
-      "url": "https://youtu.be/PiRVUqK0OUA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PiRVUqK0OUA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "8EXtW6flIoo",
       "title": "【Baldur's Gate 3】RIP My Homework【 iofi / hololiveID 】",
       "published_at": "",
       "url": "https://youtu.be/8EXtW6flIoo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/8EXtW6flIoo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PiRVUqK0OUA",
+      "title": "【 Monster Hunter World 】LETS GO GIRLSSSSSSSSSSSSS【 iofi / hololiveID 】",
+      "published_at": "",
+      "url": "https://youtu.be/PiRVUqK0OUA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PiRVUqK0OUA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

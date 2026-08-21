@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1460,
+  "count": 1462,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16059,6 +16059,28 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N5EHBv7ndeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IocPGciQay3",
+      "title": "Minecraft Test of Courage 2026 w/ Miko & Suisei",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IocPGciQay3",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_I7rCnEDJfo",
+      "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_I7rCnEDJfo",
       "status": "unreviewed",
       "note": null
     }
