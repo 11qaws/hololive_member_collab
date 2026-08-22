@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3599,
+  "count": 3601,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dn-jJ85xMZo",
+      "title": "【メンバーシップ限定】ホラー👻きさらぎ駅 Re: を一緒に見よう【ホロライブ/宝鐘マリン】",
+      "published_at": "20260821",
+      "url": "https://youtu.be/dn-jJ85xMZo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dn-jJ85xMZo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U6t9UI76SaY",
+      "title": "【あるある】平成の民なら分かってくれるよね? #hololive #ホロライブ #ゲーム #何もありませんでした",
+      "published_at": "20260821",
+      "url": "https://youtu.be/U6t9UI76SaY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/U6t9UI76SaY/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -10299,24 +10323,24 @@
       "paired_self": null
     },
     {
-      "video_id": "V6a1pbqlXVw",
-      "title": "I I I",
-      "published_at": "20241015",
-      "url": "https://youtu.be/V6a1pbqlXVw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "U9X6hVgIib8",
       "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
       "published_at": "20241015",
       "url": "https://youtu.be/U9X6hVgIib8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V6a1pbqlXVw",
+      "title": "I I I",
+      "published_at": "20241015",
+      "url": "https://youtu.be/V6a1pbqlXVw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

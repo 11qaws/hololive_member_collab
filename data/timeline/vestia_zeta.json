@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 2047,
+  "count": 2051,
   "entries": [
     {
       "video_id": "OtacxGJcioa",
@@ -9,6 +9,54 @@
       "url": "https://youtu.be/OtacxGJcioa",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/OtacxGJcioa/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ey3d05sFcOU",
+      "title": "🍝【SPAGHET】🍝",
+      "published_at": "20260821",
+      "url": "https://youtu.be/ey3d05sFcOU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ey3d05sFcOU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vBwNbx3l5R0",
+      "title": "【MECCHA CHAMELEON】 i am dust u don't see me",
+      "published_at": "20260821",
+      "url": "https://youtu.be/vBwNbx3l5R0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vBwNbx3l5R0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XfZXadrIZKs",
+      "title": "【Meowgic】wanna see a magic trick?",
+      "published_at": "20260821",
+      "url": "https://youtu.be/XfZXadrIZKs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XfZXadrIZKs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lNpOfFG4HlQ",
+      "title": "POOF! You Turned Into a Cat! 【Meowgic】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/lNpOfFG4HlQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/lNpOfFG4HlQ/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],

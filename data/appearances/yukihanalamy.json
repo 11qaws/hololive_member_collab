@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1346,
+  "count": 1347,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14805,6 +14805,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S-O7Jbybb58",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_5g4caQa0_c",
+      "title": "【マイクラ】5期生でホロ鯖に潜入する!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20200918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_5g4caQa0_c",
       "status": "unreviewed",
       "note": null
     }

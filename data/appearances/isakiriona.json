@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1082,
+  "count": 1083,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11901,6 +11901,17 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ce9KU4vRXgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eVDm18ZDjIc",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~🎤👑響咲リオナ編~",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eVDm18ZDjIc",
       "status": "unreviewed",
       "note": null
     }

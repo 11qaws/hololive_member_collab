@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1038,
+  "count": 1039,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11417,6 +11417,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OrxrCCgCdk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OMB0OHUr5rE",
+      "title": "No Effort Meccha Chameleon",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OMB0OHUr5rE",
       "status": "unreviewed",
       "note": null
     }

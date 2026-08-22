@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1223,
+  "count": 1226,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13452,6 +13452,39 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GRHIjx8a46k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TOmBe-7QFJs",
+      "title": "【JSP3】オフコラボ！日本事故物件監視協会3 -Japan Stigmatized Property-【まがまがーず /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260809",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TOmBe-7QFJs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jpcriz8L8W8",
+      "title": "【レーシングマスター】推しマシン大合戦！！！#PR 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jpcriz8L8W8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_5g4caQa0_c",
+      "title": "【マイクラ】5期生でホロ鯖に潜入する!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20200918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_5g4caQa0_c",
       "status": "unreviewed",
       "note": null
     }

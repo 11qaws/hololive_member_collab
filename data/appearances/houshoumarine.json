@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1655,
+  "count": 1656,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18204,6 +18204,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fg1CypE95TQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U6t9UI76SaY",
+      "title": "【あるある】平成の民なら分かってくれるよね? #hololive #ホロライブ #ゲーム #何もありませんでした",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U6t9UI76SaY",
       "status": "unreviewed",
       "note": null
     }

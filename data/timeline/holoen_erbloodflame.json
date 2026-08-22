@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 1067,
+  "count": 1068,
   "entries": [
     {
       "video_id": "1VFZqnTo2wa",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/Xu-MIRRxjp0/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "78e416BLGo4",
+      "title": "[FINALE] Into The Void - Episode 4: No Restraint (Original Motion Comic)",
+      "published_at": "20260821",
+      "url": "https://youtu.be/78e416BLGo4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/78e416BLGo4/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

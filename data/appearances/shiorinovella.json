@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 967,
+  "count": 968,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10636,6 +10636,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jAF7sZz4Y1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XfZXadrIZKs",
+      "title": "【Meowgic】wanna see a magic trick?",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XfZXadrIZKs",
       "status": "unreviewed",
       "note": null
     }

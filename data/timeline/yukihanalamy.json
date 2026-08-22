@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 3322,
+  "count": 3324,
   "entries": [
     {
       "video_id": "cQCAtOclUbQ",
@@ -93,6 +93,18 @@
       "url": "https://youtu.be/tKEh-e-xYME",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/tKEh-e-xYME/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6vA3hLCZIi4",
+      "title": "『Fleur de neige』ティザー",
+      "published_at": "20260816",
+      "url": "https://youtu.be/6vA3hLCZIi4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6vA3hLCZIi4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -376,7 +388,7 @@
     },
     {
       "video_id": "TOmBe-7QFJs",
-      "title": "【JSP3】オフコラボ!日本事故物件監視協会3 -Japan Stigmatized Property-【まがまがーず /ホロライブ】",
+      "title": "【JSP3】オフコラボ！日本事故物件監視協会3 -Japan Stigmatized Property-【まがまがーず /ホロライブ】",
       "published_at": "20260809",
       "url": "https://youtu.be/TOmBe-7QFJs",
       "entry_type": "stream",
@@ -38903,6 +38915,18 @@
       "thumbnail": "https://img.youtube.com/vi/Wp5c3X_DuR4/mqdefault.jpg",
       "partner_handle": "momosuzunene",
       "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_5g4caQa0_c",
+      "title": "【マイクラ】5期生でホロ鯖に潜入する!【獅白ぼたん/ホロライブ】",
+      "published_at": "20200918",
+      "url": "https://youtu.be/_5g4caQa0_c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_5g4caQa0_c/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
       "paired_self": null
     },

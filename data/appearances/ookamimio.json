@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1903,
+  "count": 1904,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -20932,6 +20932,17 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/unaoc07LQi4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rX8MZYk5670",
+      "title": "【夏ロケ企画】大空スバル、いざ大海原へ!🌊【ホロライブ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rX8MZYk5670",
       "status": "unreviewed",
       "note": null
     }

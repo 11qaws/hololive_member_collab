@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1427,
+  "count": 1428,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15696,6 +15696,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q-PiKYUiFJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "78e416BLGo4",
+      "title": "[FINALE] Into The Void - Episode 4: No Restraint (Original Motion Comic)",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/78e416BLGo4",
       "status": "unreviewed",
       "note": null
     }

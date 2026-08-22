@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1968,
+  "count": 1969,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eVDm18ZDjIc",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~🎤👑響咲リオナ編~",
+      "published_at": "20260821",
+      "url": "https://youtu.be/eVDm18ZDjIc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eVDm18ZDjIc/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -23595,24 +23607,24 @@
       "paired_self": null
     },
     {
-      "video_id": "d7mYLP8c6LE",
-      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/d7mYLP8c6LE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "sa4kyeVj9Wk",
       "title": "【Dance practice】LOAD 響咲リオナver",
       "published_at": "",
       "url": "https://youtu.be/sa4kyeVj9Wk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d7mYLP8c6LE",
+      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/d7mYLP8c6LE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

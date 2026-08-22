@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1589,
+  "count": 1590,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17478,6 +17478,17 @@
       "published_at": "20260814",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AZanA3SEkA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iIW0EkIlrT4",
+      "title": "【相談】ぺこーら先輩用の企画を一緒に考えてほしい【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iIW0EkIlrT4",
       "status": "unreviewed",
       "note": null
     }

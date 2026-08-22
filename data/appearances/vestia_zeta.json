@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 964,
+  "count": 965,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10603,6 +10603,17 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SHY_s_34N1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lNpOfFG4HlQ",
+      "title": "POOF! You Turned Into a Cat! 【Meowgic】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260820",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lNpOfFG4HlQ",
       "status": "unreviewed",
       "note": null
     }

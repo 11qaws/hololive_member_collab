@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1228,
+  "count": 1229,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13507,6 +13507,17 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5FHM0CCKS6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U6t9UI76SaY",
+      "title": "【あるある】平成の民なら分かってくれるよね? #hololive #ホロライブ #ゲーム #何もありませんでした",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U6t9UI76SaY",
       "status": "unreviewed",
       "note": null
     }
