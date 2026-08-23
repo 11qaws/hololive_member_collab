@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1908,
+  "count": 1912,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -20987,6 +20987,50 @@
       "published_at": "20200918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_5g4caQa0_c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5_I_H3YUQ0E",
+      "title": "【#ねぽっくす】8人でゲームするよ〜〜〜〜!仲良く遊ぼうね♡ ※殴り合います【雪花ラミィ/獅白ぼたん/桃鈴ねね/尾丸ポルカ/ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5_I_H3YUQ0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eJYTOOhFRoc",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026⚾ドラフト会議!!!【大神ミオ・宝鐘マリン・白銀ノエル・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eJYTOOhFRoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ocDrGpuMXlQ",
+      "title": "ホロライブ甲子園2026開催決定！【 #ホロ甲2026 】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ocDrGpuMXlQ",
       "status": "unreviewed",
       "note": null
     }

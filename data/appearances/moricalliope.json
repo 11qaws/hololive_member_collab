@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1428,
+  "count": 1429,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15707,6 +15707,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/78e416BLGo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NONYWLBhDB8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1138,
+  "count": 1140,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12517,6 +12517,28 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2LZtZeRYKa0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TryonwlbG-k",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSSと爽やかな朝を共に!23日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TryonwlbG-k",
       "status": "unreviewed",
       "note": null
     }

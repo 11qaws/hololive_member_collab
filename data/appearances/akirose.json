@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1242,
+  "count": 1243,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13661,6 +13661,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6-C0cFuZ7u0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
       "status": "unreviewed",
       "note": null
     }

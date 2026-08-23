@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1043,
+  "count": 1044,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11472,6 +11472,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e7BdTWCXIjw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dzO2LaVBmMY",
+      "title": "【 GeoGuessr 】AZKi先輩と初めてのゼロゲッサー！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #AZKi 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dzO2LaVBmMY",
       "status": "unreviewed",
       "note": null
     }

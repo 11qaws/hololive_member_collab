@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1058,
+  "count": 1059,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11637,6 +11637,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OMB0OHUr5rE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "waPjpIg29J4",
+      "title": "【3D Anniversary Live】I Reincarnated As A Villainess?! #kroniisekai",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/waPjpIg29J4",
       "status": "unreviewed",
       "note": null
     }

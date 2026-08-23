@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1129,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12418,6 +12418,28 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e7BdTWCXIjw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "msvAl59UYuo",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~💬🔁💙水宮枢編~",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/msvAl59UYuo",
       "status": "unreviewed",
       "note": null
     }

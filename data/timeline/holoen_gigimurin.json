@@ -1,7 +1,19 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1491,
+  "count": 1493,
   "entries": [
+    {
+      "video_id": "pNnls_HDeTc",
+      "title": "【LEAGUE OF LEGENDS】LET'S ARAM",
+      "published_at": "20260822",
+      "url": "https://youtu.be/pNnls_HDeTc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pNnls_HDeTc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "EkD5iZWpdXs",
       "title": "【AMERICAN TRUCK SIMULATOR】back on the road to expand my truck empire",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/78e416BLGo4/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "waPjpIg29J4",
+      "title": "【3D Anniversary Live】I Reincarnated As A Villainess?! #kroniisekai",
+      "published_at": "20260821",
+      "url": "https://youtu.be/waPjpIg29J4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/waPjpIg29J4/mqdefault.jpg",
+      "partner_handle": "ourokronii",
+      "partner_name": "Ouro Kronii Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

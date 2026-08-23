@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 999,
+  "count": 1000,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -10988,6 +10988,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/E-L7lJqovQ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5_I_H3YUQ0E",
+      "title": "【#ねぽっくす】8人でゲームするよ〜〜〜〜!仲良く遊ぼうね♡ ※殴り合います【雪花ラミィ/獅白ぼたん/桃鈴ねね/尾丸ポルカ/ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5_I_H3YUQ0E",
       "status": "unreviewed",
       "note": null
     }

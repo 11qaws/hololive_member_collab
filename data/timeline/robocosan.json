@@ -1,10 +1,10 @@
 {
   "target": "robocosan",
-  "count": 4105,
+  "count": 4107,
   "entries": [
     {
       "video_id": "M9FRMuBZjXw",
-      "title": "【 歌枠】NO34.お昼のえもえもろぼめろでぃ~ RBmelody 🎶夏終盤ってほんとうに?! 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+      "title": "【 歌枠】NO34.118万人まであと２人!?まにあえええ！ちいかわ沼の女です 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
       "published_at": "20260822",
       "url": "https://youtu.be/M9FRMuBZjXw",
       "entry_type": "stream",
@@ -15,8 +15,20 @@
       "paired_self": null
     },
     {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "published_at": "20260822",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NONYWLBhDB8/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "dbary4r2nQs",
-      "title": "【MGMG EAT】作り置きでゲリラごはん！みおしゃBDの雑談も添えて～　【ホロライブ/ロボ子さん】",
+      "title": "【MGMG EAT】作り置きでゲリラごはん!みおしゃBDの雑談も添えて~ 【ホロライブ/ロボ子さん】",
       "published_at": "20260821",
       "url": "https://youtu.be/dbary4r2nQs",
       "entry_type": "stream",
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/qnf8PYhVG80/mqdefault.jpg",
       "partner_handle": "ookamimio",
       "partner_name": "Mio Channel 大神ミオ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IQ6P4YIlV4Y",
+      "title": "【 雀魂 】役満上がり耐久やってみる!!w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "published_at": "20260819",
+      "url": "https://youtu.be/IQ6P4YIlV4Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IQ6P4YIlV4Y/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },

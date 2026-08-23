@@ -1,11 +1,35 @@
 {
   "target": "oozora_subaru",
-  "count": 4732,
+  "count": 4736,
   "entries": [
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "published_at": "20260830",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oImRLYfOKvs",
+      "title": "【#11】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/oImRLYfOKvs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oImRLYfOKvs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "rX8MZYk5670",
       "title": "【夏ロケ企画】大空スバル、いざ大海原へ!🌊【ホロライブ】",
-      "published_at": "20260821",
+      "published_at": "20260822",
       "url": "https://youtu.be/rX8MZYk5670",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rX8MZYk5670/mqdefault.jpg",
@@ -15,8 +39,32 @@
       "paired_self": null
     },
     {
+      "video_id": "6RJjtRmaNz8",
+      "title": "【朝活雑談】後半BIG3からチャリティー報告アリ!日曜10時はさんでーまっする☀【白銀ノエル/ホロライブ】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/6RJjtRmaNz8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6RJjtRmaNz8/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "published_at": "20260822",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NONYWLBhDB8/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Bd3qbT6kXu8",
-      "title": "【#10】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ!!!!!!【ホロライブ/大空スバル】",
+      "title": "【#10】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
       "published_at": "20260820",
       "url": "https://youtu.be/Bd3qbT6kXu8",
       "entry_type": "stream",
@@ -56763,24 +56811,24 @@
       "paired_self": null
     },
     {
-      "video_id": "KF6wXrObu5Y",
-      "title": "【#ホロ落選マリカ】落選者・・・？？？取り消せよ！！！！今の言葉・・・！！！！！！！！！！！！！！：Mario Kart 8 Deluxe【ホロライブ/大空スバル】",
-      "published_at": "",
-      "url": "https://youtu.be/KF6wXrObu5Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KF6wXrObu5Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "NwMgbflN-gg",
       "title": "【】鋼の錬金術師 Fullmetal Alchemist. 同時視聴 / Fullmetal Alchemist watching party【ホロライブ/大空スバル】",
       "published_at": "",
       "url": "https://youtu.be/NwMgbflN-gg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/NwMgbflN-gg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KF6wXrObu5Y",
+      "title": "【#ホロ落選マリカ】落選者・・・？？？取り消せよ！！！！今の言葉・・・！！！！！！！！！！！！！！：Mario Kart 8 Deluxe【ホロライブ/大空スバル】",
+      "published_at": "",
+      "url": "https://youtu.be/KF6wXrObu5Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KF6wXrObu5Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

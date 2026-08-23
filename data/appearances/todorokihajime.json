@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1180,
+  "count": 1185,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -12979,6 +12979,61 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-MTbZBYmn7o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TryonwlbG-k",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSSと爽やかな朝を共に!23日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TryonwlbG-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mIFWGZuA_RI",
+      "title": "【#らではじクイズパッション】 らではじの二人は協力してミッション達成できるのか...!? #儒烏風亭らでん #轟はじめ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mIFWGZuA_RI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gzEIzycR7nY",
+      "title": "#Worthit MV公開中🎵 フルは関連動画から! #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gzEIzycR7nY",
       "status": "unreviewed",
       "note": null
     }

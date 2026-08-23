@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3834,
+  "count": 3835,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cXht5wte_1s",
+      "title": "#06【ほの暮しの庭】秋も半ばですね【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20260822",
+      "url": "https://youtu.be/cXht5wte_1s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cXht5wte_1s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +40,7 @@
     },
     {
       "video_id": "Q9XD-WoW0mo",
-      "title": "#04【ほの暮しの庭】夏だ！！ついに牛を！！買うわよ！！！【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#04【ほの暮しの庭】夏だ!!ついに牛を!!買うわよ!!!【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260820",
       "url": "https://youtu.be/Q9XD-WoW0mo",
       "entry_type": "stream",
@@ -16755,24 +16767,24 @@
       "paired_self": null
     },
     {
-      "video_id": "s8p1BvX8278",
-      "title": "大還元祭!夢のフレアチャンネル!",
-      "published_at": "20230922",
-      "url": "https://youtu.be/s8p1BvX8278",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/s8p1BvX8278/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7GGs25SYP2I",
       "title": "Smile & Go!!",
       "published_at": "20230922",
       "url": "https://youtu.be/7GGs25SYP2I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7GGs25SYP2I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "s8p1BvX8278",
+      "title": "大還元祭!夢のフレアチャンネル!",
+      "published_at": "20230922",
+      "url": "https://youtu.be/s8p1BvX8278",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s8p1BvX8278/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -45987,24 +45999,24 @@
       "paired_self": null
     },
     {
-      "video_id": "HLzV2y5yj6s",
-      "title": "2026年3月分のメンバーシップ限定壁紙を配布したよ！ イラスト：pecco様( https://x.com/pecchn478 ) 気になる方はメンバーになってみてね😘 【メンバーシップ(有料",
-      "published_at": "",
-      "url": "https://youtu.be/HLzV2y5yj6s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/HLzV2y5yj6s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "e7VdM1e20Us",
       "title": "【Refind Self: 性格診断ゲーム】ゲームで私の性格がわかるときいて【不知火フレア/ホロライブ】",
       "published_at": "",
       "url": "https://youtu.be/e7VdM1e20Us",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/e7VdM1e20Us/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HLzV2y5yj6s",
+      "title": "2026年3月分のメンバーシップ限定壁紙を配布したよ！ イラスト：pecco様( https://x.com/pecchn478 ) 気になる方はメンバーになってみてね😘 【メンバーシップ(有料",
+      "published_at": "",
+      "url": "https://youtu.be/HLzV2y5yj6s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/HLzV2y5yj6s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2037,
+  "count": 2040,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "published_at": "20260830",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fJjhRl8WjT4",
+      "title": "【雑談/chat】深夜のゆる雑談【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/fJjhRl8WjT4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fJjhRl8WjT4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oIiPKdvggRI",
+      "title": "【F1同時視聴】後半戦はじまった！！！オランダGP予選！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/oIiPKdvggRI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oIiPKdvggRI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -112,11 +148,35 @@
     },
     {
       "video_id": "4gv6g-3vVug",
-      "title": "【FF6】#15 初めてのFF！ついにケフカが来る？！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "title": "【FF6】#15 初めてのFF!ついにケフカが来る?!!!!!!※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published_at": "20260820",
       "url": "https://youtu.be/4gv6g-3vVug",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/4gv6g-3vVug/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Jpcriz8L8W8",
+      "title": "【レーシングマスター】推しマシン大合戦!!!#PR 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/Jpcriz8L8W8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Jpcriz8L8W8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3t-MrIYhOTE",
+      "title": "【FF6】#14 初めてのFF!ついにケフカが来る?!!!!!!※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/3t-MrIYhOTE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3t-MrIYhOTE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -167,30 +227,6 @@
       "thumbnail": "https://img.youtube.com/vi/pr-9JOXk3Rs/mqdefault.jpg",
       "partner_handle": "nekomataokayu",
       "partner_name": "Okayu Ch. 猫又おかゆ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Jpcriz8L8W8",
-      "title": "【レーシングマスター】推しマシン大合戦！！！#PR 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "20260819",
-      "url": "https://youtu.be/Jpcriz8L8W8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Jpcriz8L8W8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "3t-MrIYhOTE",
-      "title": "【FF6】#14 初めてのFF！ついにケフカが来る？！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "20260819",
-      "url": "https://youtu.be/3t-MrIYhOTE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/3t-MrIYhOTE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

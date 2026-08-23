@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1283,
+  "count": 1285,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14112,6 +14112,28 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qnf8PYhVG80",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IQ6P4YIlV4Y",
+      "title": "【 雀魂 】役満上がり耐久やってみる!!w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IQ6P4YIlV4Y",
       "status": "unreviewed",
       "note": null
     }

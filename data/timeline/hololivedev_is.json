@@ -1,7 +1,55 @@
 {
   "target": "hololivedev_is",
-  "count": 900,
+  "count": 903,
   "entries": [
+    {
+      "video_id": "TryonwlbG-k",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSSと爽やかな朝を共に!23日目",
+      "published_at": "20260822",
+      "url": "https://youtu.be/TryonwlbG-k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TryonwlbG-k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KufKV-1plg4",
+      "title": "ReGLOSS - 1st Live \"Flashpoint\" Archive【YouTube Music Weekend 12.0】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/KufKV-1plg4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KufKV-1plg4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mIFWGZuA_RI",
+      "title": "【#らではじクイズパッション】 らではじの二人は協力してミッション達成できるのか...!? #儒烏風亭らでん #轟はじめ #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260822",
+      "url": "https://youtu.be/mIFWGZuA_RI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mIFWGZuA_RI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gzEIzycR7nY",
+      "title": "#Worthit MV公開中🎵 フルは関連動画から! #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "published_at": "20260822",
+      "url": "https://youtu.be/gzEIzycR7nY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gzEIzycR7nY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "AdY825SP5Ek",
       "title": "【#ReGLOSSとラジオ体操】りりなでとラジオ体操!22日目",
@@ -441,18 +489,6 @@
       "url": "https://youtu.be/_F0XadW_WEk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_F0XadW_WEk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "KufKV-1plg4",
-      "title": "ReGLOSS - 1st Live \"Flashpoint\" Archive【YouTube Music Weekend 12.0】",
-      "published_at": "20260806",
-      "url": "https://youtu.be/KufKV-1plg4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KufKV-1plg4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -927,24 +963,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QqzRAVsrSE4",
-      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
-      "published_at": "20260710",
-      "url": "https://youtu.be/QqzRAVsrSE4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Yzucp_yM7Hk",
       "title": "Lucky Loud (音乃瀬奏 SOLO ver.)",
       "published_at": "20260710",
       "url": "https://youtu.be/Yzucp_yM7Hk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Yzucp_yM7Hk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QqzRAVsrSE4",
+      "title": "Lucky Loud (一条莉々華 SOLO ver.)",
+      "published_at": "20260710",
+      "url": "https://youtu.be/QqzRAVsrSE4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QqzRAVsrSE4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3291,18 +3327,6 @@
       "paired_self": null
     },
     {
-      "video_id": "PSLHyLxQXIw",
-      "title": "Bangarang",
-      "published_at": "20251111",
-      "url": "https://youtu.be/PSLHyLxQXIw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Qo_Xhp72DUk",
       "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
@@ -3315,12 +3339,24 @@
       "paired_self": null
     },
     {
-      "video_id": "K9Lj5AFi__I",
-      "title": "サクラミラージュ Snapshot ver.",
+      "video_id": "PSLHyLxQXIw",
+      "title": "Bangarang",
       "published_at": "20251111",
-      "url": "https://youtu.be/K9Lj5AFi__I",
+      "url": "https://youtu.be/PSLHyLxQXIw",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JvM1DDsQVzA",
+      "title": "XOVERLINE",
+      "published_at": "20251111",
+      "url": "https://youtu.be/JvM1DDsQVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

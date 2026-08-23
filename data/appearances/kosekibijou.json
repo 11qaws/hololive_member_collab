@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1470,
+  "count": 1472,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16169,6 +16169,28 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jAF7sZz4Y1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd1rwtbxO6A",
+      "title": "【3D LIVE CONCERT 3周年記念ライブ】thanks to hololive🐾 重大告知あり✨️【#FWMC3rd】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd1rwtbxO6A",
       "status": "unreviewed",
       "note": null
     }

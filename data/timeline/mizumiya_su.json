@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2224,
+  "count": 2226,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/joqp1u6aeg4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "published_at": "20260822",
+      "url": "https://youtu.be/NONYWLBhDB8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NONYWLBhDB8/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "msvAl59UYuo",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~💬🔁💙水宮枢編~",
+      "published_at": "20260822",
+      "url": "https://youtu.be/msvAl59UYuo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/msvAl59UYuo/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -136,11 +160,23 @@
     },
     {
       "video_id": "ZRDi5Mo6BV8",
-      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険?!完全初見 ※ネタバレ有【水宮枢/ホロライブDEV_IS】",
+      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険？！完全初見 ※ネタバレ有【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260820",
       "url": "https://youtu.be/ZRDi5Mo6BV8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ZRDi5Mo6BV8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6PD0uUy_LRQ",
+      "title": "【Fast Food Simulator】しゅぴなで店💙🐥【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260820",
+      "url": "https://youtu.be/6PD0uUy_LRQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6PD0uUy_LRQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -191,18 +227,6 @@
       "thumbnail": "https://img.youtube.com/vi/pr-9JOXk3Rs/mqdefault.jpg",
       "partner_handle": "nekomataokayu",
       "partner_name": "Okayu Ch. 猫又おかゆ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "6PD0uUy_LRQ",
-      "title": "【Fast Food Simulator】しゅぴなで店💙🐥【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260819",
-      "url": "https://youtu.be/6PD0uUy_LRQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/6PD0uUy_LRQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

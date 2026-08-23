@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1656,
+  "count": 1660,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18215,6 +18215,50 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U6t9UI76SaY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SgwdAVVR7Fo",
+      "title": "hololive Puyo Puyo Tetris 2 Tournament ",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eJYTOOhFRoc",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026⚾ドラフト会議!!!【大神ミオ・宝鐘マリン・白銀ノエル・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260816",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eJYTOOhFRoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ocDrGpuMXlQ",
+      "title": "ホロライブ甲子園2026開催決定！【 #ホロ甲2026 】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ocDrGpuMXlQ",
       "status": "unreviewed",
       "note": null
     }

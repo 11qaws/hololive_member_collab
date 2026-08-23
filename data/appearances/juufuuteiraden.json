@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 867,
+  "count": 871,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9536,6 +9536,50 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2LZtZeRYKa0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KPOqtLmYKZU",
+      "title": "【オフコラボ】お酒飲みながらやれば怖くないって言ってました。日本事故物件監視協会3 -JSP3-【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KPOqtLmYKZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TryonwlbG-k",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSSと爽やかな朝を共に!23日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TryonwlbG-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mIFWGZuA_RI",
+      "title": "【#らではじクイズパッション】 らではじの二人は協力してミッション達成できるのか...!? #儒烏風亭らでん #轟はじめ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mIFWGZuA_RI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gzEIzycR7nY",
+      "title": "#Worthit MV公開中🎵 フルは関連動画から! #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gzEIzycR7nY",
       "status": "unreviewed",
       "note": null
     }

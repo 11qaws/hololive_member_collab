@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 828,
+  "count": 829,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9107,6 +9107,17 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ce9KU4vRXgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NONYWLBhDB8",
+      "title": "≪5th ANNIVERSARY COUNTDOWN≫ 逆凸・calling friends until i turn 5",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NONYWLBhDB8",
       "status": "unreviewed",
       "note": null
     }
