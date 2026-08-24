@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1344,
+  "count": 1348,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14783,6 +14783,50 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TryonwlbG-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JJ95MX59oUE",
+      "title": "【 7Days to Die 】7大豆が大好きなんじゃ🤤 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JJ95MX59oUE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "shTjdf6aE5g",
+      "title": "【7Days to Die】引っ越したらしい!クエスト受けまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/shTjdf6aE5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9rbg76Xn0es",
+      "title": "【7Days to Die】#ホロ7大豆劇場  DAY4🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9rbg76Xn0es",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kRRPpDMmQ4E",
+      "title": "【 DAY4 】#ホロ7大豆劇場 7日目‼️襲撃後のChill…?【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kRRPpDMmQ4E",
       "status": "unreviewed",
       "note": null
     }

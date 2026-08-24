@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1086,
+  "count": 1092,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -11945,6 +11945,72 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ocDrGpuMXlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4jZc5Ult-o8",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY4 🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4jZc5Ult-o8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9rbg76Xn0es",
+      "title": "【7Days to Die】#ホロ7大豆劇場  DAY4🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9rbg76Xn0es",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "shTjdf6aE5g",
+      "title": "【7Days to Die】引っ越したらしい!クエスト受けまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/shTjdf6aE5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kRRPpDMmQ4E",
+      "title": "【 DAY4 】#ホロ7大豆劇場 7日目‼️襲撃後のChill…?【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kRRPpDMmQ4E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ROGeS8khPw8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1185,
+  "count": 1187,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13034,6 +13034,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gzEIzycR7nY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6sas-lcpc6Q",
+      "title": "【ぷよぷよテトリス2】#ホロぷよテト大会 どっちの方ができるんだ？！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6sas-lcpc6Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P-oe7u2QErI",
+      "title": "#Worthit がリリース🎵 音源もMVもぜひ見てください! #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P-oe7u2QErI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1367,
+  "count": 1370,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15036,6 +15036,39 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QeR9SDh0Ycs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JJ95MX59oUE",
+      "title": "【 7Days to Die 】7大豆が大好きなんじゃ🤤 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JJ95MX59oUE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9rbg76Xn0es",
+      "title": "【7Days to Die】#ホロ7大豆劇場  DAY4🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9rbg76Xn0es",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z_-p9cn-seU",
+      "title": "自分の発言が己に降りかかるみこちに爆笑する常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z_-p9cn-seU",
       "status": "unreviewed",
       "note": null
     }

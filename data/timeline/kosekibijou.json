@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2442,
+  "count": 2445,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -15,6 +15,30 @@
       "paired_self": null
     },
     {
+      "video_id": "8Di6hB9A9Ag",
+      "title": "Biboo v.s. Towasama!  #ウチらしか勝たん",
+      "published_at": "20260824",
+      "url": "https://youtu.be/8Di6hB9A9Ag",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8Di6hB9A9Ag/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v1seipCdpms",
+      "title": "【SPAGHET】Mom spaghetti i'm not ready",
+      "published_at": "20260824",
+      "url": "https://youtu.be/v1seipCdpms",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v1seipCdpms/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "gk_JzP412BU",
       "title": "LOVE MISSION♡ Mission start!",
       "published_at": "20260823",
@@ -23,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/gk_JzP412BU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X0dysEuXKdQ",
+      "title": "【SPAGHET】...slap it? #calliolive",
+      "published_at": "20260823",
+      "url": "https://youtu.be/X0dysEuXKdQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X0dysEuXKdQ/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29283,24 +29319,24 @@
       "paired_self": null
     },
     {
-      "video_id": "UPrSfuUGmgg",
-      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
-      "published_at": "",
-      "url": "https://youtu.be/UPrSfuUGmgg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nJ-CPqxE9Q0",
       "title": "【Armored Core 6】Activating Combat Mode! - #4",
       "published_at": "",
       "url": "https://youtu.be/nJ-CPqxE9Q0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UPrSfuUGmgg",
+      "title": "Biboo tank is real! #shorts #worldoftanksblitz",
+      "published_at": "",
+      "url": "https://youtu.be/UPrSfuUGmgg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

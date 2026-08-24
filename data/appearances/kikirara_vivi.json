@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1230,
+  "count": 1232,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13529,6 +13529,28 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jGrhldHYKvk",
+      "title": "小賢しいプレイングで思わず悪の笑いが出てしまう常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jGrhldHYKvk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Aw7pk_JCIYQ",
+      "title": "【 Machine Party 】本気の戦い　#ネヴィペット【 ホロライブ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Aw7pk_JCIYQ",
       "status": "unreviewed",
       "note": null
     }

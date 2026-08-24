@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 3021,
+  "count": 3023,
   "entries": [
     {
       "video_id": "IocPGciQay3",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/ROGeS8khPw8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ROGeS8khPw8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i6_T0tiQIkE",
+      "title": "【#ホロぷよテト大会 PUYO PUYO TETRIS 2 COLLAB】すいせい先輩コーチしてくれるの？！coaching from the best?! 🐾【FUWAMOCO｜ぷよぷよテトリス2】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/i6_T0tiQIkE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i6_T0tiQIkE/mqdefault.jpg",
+      "partner_handle": "mococo_abyssgard",
+      "partner_name": "FUWAMOCO Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3003,12 +3027,12 @@
       "paired_self": null
     },
     {
-      "video_id": "S2PZC0vFsbs",
-      "title": "月に向かって撃て (TVアニメver.)",
+      "video_id": "y8Md0KNRMZQ",
+      "title": "彗星 (Nor ver.)",
       "published_at": "20251226",
-      "url": "https://youtu.be/S2PZC0vFsbs",
+      "url": "https://youtu.be/y8Md0KNRMZQ",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/y8Md0KNRMZQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3027,24 +3051,24 @@
       "paired_self": null
     },
     {
-      "video_id": "y8Md0KNRMZQ",
-      "title": "彗星 (Nor ver.)",
-      "published_at": "20251226",
-      "url": "https://youtu.be/y8Md0KNRMZQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/y8Md0KNRMZQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "GBf_dIZUVIc",
       "title": "月に向かって撃て",
       "published_at": "20251226",
       "url": "https://youtu.be/GBf_dIZUVIc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GBf_dIZUVIc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S2PZC0vFsbs",
+      "title": "月に向かって撃て (TVアニメver.)",
+      "published_at": "20251226",
+      "url": "https://youtu.be/S2PZC0vFsbs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/S2PZC0vFsbs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3423,24 +3447,24 @@
       "paired_self": null
     },
     {
-      "video_id": "BzTNgHHXTRg",
-      "title": "彗星 (Instrumental)",
-      "published_at": "20251204",
-      "url": "https://youtu.be/BzTNgHHXTRg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BzTNgHHXTRg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "E5hVng18OvA",
       "title": "彗星",
       "published_at": "20251204",
       "url": "https://youtu.be/E5hVng18OvA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/E5hVng18OvA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BzTNgHHXTRg",
+      "title": "彗星 (Instrumental)",
+      "published_at": "20251204",
+      "url": "https://youtu.be/BzTNgHHXTRg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BzTNgHHXTRg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -7575,24 +7599,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5CvGNEi7RMM",
-      "title": "ビーナスバグ",
-      "published_at": "20250121",
-      "url": "https://youtu.be/5CvGNEi7RMM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5CvGNEi7RMM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1dNw1KeKJxU",
       "title": "綺麗事",
       "published_at": "20250121",
       "url": "https://youtu.be/1dNw1KeKJxU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1dNw1KeKJxU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5CvGNEi7RMM",
+      "title": "ビーナスバグ",
+      "published_at": "20250121",
+      "url": "https://youtu.be/5CvGNEi7RMM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5CvGNEi7RMM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25779,6 +25803,18 @@
       "paired_self": null
     },
     {
+      "video_id": "9FAjJP5um9c",
+      "title": "駆けろ",
+      "published_at": "20210709",
+      "url": "https://youtu.be/9FAjJP5um9c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "OF3W2m4lh2M",
       "title": "天球、彗星は夜を跨いで",
       "published_at": "20210709",
@@ -25797,18 +25833,6 @@
       "url": "https://youtu.be/tHR9WFXBtjA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/tHR9WFXBtjA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "9FAjJP5um9c",
-      "title": "駆けろ",
-      "published_at": "20210709",
-      "url": "https://youtu.be/9FAjJP5um9c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25923,30 +25947,6 @@
       "paired_self": null
     },
     {
-      "video_id": "LpJXc5_uIak",
-      "title": "Bluerose(Instrumental)",
-      "published_at": "20210628",
-      "url": "https://youtu.be/LpJXc5_uIak",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LpJXc5_uIak/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "mRIMbLlkbhk",
-      "title": "comet(Instrumental)",
-      "published_at": "20210628",
-      "url": "https://youtu.be/mRIMbLlkbhk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mRIMbLlkbhk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "-qnJEqg1iqo",
       "title": "comet",
       "published_at": "20210628",
@@ -25965,6 +25965,30 @@
       "url": "https://youtu.be/vCaVl0BxeqA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mRIMbLlkbhk",
+      "title": "comet(Instrumental)",
+      "published_at": "20210628",
+      "url": "https://youtu.be/mRIMbLlkbhk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mRIMbLlkbhk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LpJXc5_uIak",
+      "title": "Bluerose(Instrumental)",
+      "published_at": "20210628",
+      "url": "https://youtu.be/LpJXc5_uIak",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LpJXc5_uIak/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

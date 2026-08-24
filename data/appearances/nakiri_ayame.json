@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 921,
+  "count": 922,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10130,6 +10130,17 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsHqK9eUFwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OK54eoe04wo",
+      "title": "【悪意/Dread Neighbor】 あやめちゃんにリアクションしてもらうホラーゲーム #YOKON【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OK54eoe04wo",
       "status": "unreviewed",
       "note": null
     }

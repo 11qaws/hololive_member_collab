@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1650,
+  "count": 1652,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1TD3iBvChVM",
+      "title": "【☀️新曲🌻】magic summer 踊ってみた!!~☺️🐅虎金妃笑虎編~",
+      "published_at": "20260823",
+      "url": "https://youtu.be/1TD3iBvChVM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1TD3iBvChVM/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -119,6 +131,18 @@
       "thumbnail": "https://img.youtube.com/vi/e9cnDiiWEn8/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published_at": "20260819",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1WDHebAydJ4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19779,24 +19803,24 @@
       "paired_self": null
     },
     {
-      "video_id": "pylOG0ntH_s",
-      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
-      "published_at": "",
-      "url": "https://youtu.be/pylOG0ntH_s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v9ea3cDKhX4",
       "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
       "published_at": "",
       "url": "https://youtu.be/v9ea3cDKhX4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pylOG0ntH_s",
+      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
+      "published_at": "",
+      "url": "https://youtu.be/pylOG0ntH_s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

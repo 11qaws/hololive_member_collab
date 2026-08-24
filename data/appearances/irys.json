@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1109,
+  "count": 1110,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12198,6 +12198,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X0dysEuXKdQ",
+      "title": "【SPAGHET】...slap it? #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X0dysEuXKdQ",
       "status": "unreviewed",
       "note": null
     }

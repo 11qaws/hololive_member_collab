@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1731,
+  "count": 1732,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -19040,6 +19040,17 @@
       "published_at": "20260817",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zbWI7KeGM8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UCr71tJmvTc",
+      "title": "【 アソビ大全 】3Dオフコラボ!わため先輩とタイマン勝負!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #角巻わため  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UCr71tJmvTc",
       "status": "unreviewed",
       "note": null
     }

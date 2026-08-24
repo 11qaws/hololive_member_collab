@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2300,
+  "count": 2305,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -25299,6 +25299,61 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4jZc5Ult-o8",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY4 🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4jZc5Ult-o8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JJ95MX59oUE",
+      "title": "【 7Days to Die 】7大豆が大好きなんじゃ🤤 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JJ95MX59oUE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "shTjdf6aE5g",
+      "title": "【7Days to Die】引っ越したらしい!クエスト受けまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/shTjdf6aE5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ROGeS8khPw8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z_-p9cn-seU",
+      "title": "自分の発言が己に降りかかるみこちに爆笑する常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z_-p9cn-seU",
       "status": "unreviewed",
       "note": null
     }

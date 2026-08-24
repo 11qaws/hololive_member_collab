@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1472,
+  "count": 1473,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16191,6 +16191,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pd1rwtbxO6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X0dysEuXKdQ",
+      "title": "【SPAGHET】...slap it? #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X0dysEuXKdQ",
       "status": "unreviewed",
       "note": null
     }

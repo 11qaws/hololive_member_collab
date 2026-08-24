@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 2316,
+  "count": 2318,
   "entries": [
     {
       "video_id": "42vWtvlk8aw",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/42vWtvlk8aw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/42vWtvlk8aw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-ldHQRLxaAY",
+      "title": "SAN値回復失敗会場",
+      "published_at": "20260823",
+      "url": "https://youtu.be/-ldHQRLxaAY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-ldHQRLxaAY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KFL7ivERy2c",
+      "title": "【ELDENRING】SAN値回復成功してたらやるレベリング【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
+      "published_at": "20260823",
+      "url": "https://youtu.be/KFL7ivERy2c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KFL7ivERy2c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27771,24 +27795,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LzCnTk-qJTg",
-      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
-      "published_at": "",
-      "url": "https://youtu.be/LzCnTk-qJTg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "eziLCxfAF4w",
       "title": "【】急遽お仕事が外になってしまったので時間ずれるます😭【風真いろは/ホロライブ】",
       "published_at": "",
       "url": "https://youtu.be/eziLCxfAF4w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/eziLCxfAF4w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LzCnTk-qJTg",
+      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
+      "published_at": "",
+      "url": "https://youtu.be/LzCnTk-qJTg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

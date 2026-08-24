@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1131,
+  "count": 1133,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12440,6 +12440,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/msvAl59UYuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ROGeS8khPw8",
       "status": "unreviewed",
       "note": null
     }

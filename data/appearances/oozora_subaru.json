@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2002,
+  "count": 2007,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22021,6 +22021,61 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "waPjpIg29J4",
+      "title": "【3D Anniversary Live】I Reincarnated As A Villainess?! #kroniisekai",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/waPjpIg29J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JJ95MX59oUE",
+      "title": "【 7Days to Die 】7大豆が大好きなんじゃ🤤 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JJ95MX59oUE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9rbg76Xn0es",
+      "title": "【7Days to Die】#ホロ7大豆劇場  DAY4🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9rbg76Xn0es",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "shTjdf6aE5g",
+      "title": "【7Days to Die】引っ越したらしい!クエスト受けまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/shTjdf6aE5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ROGeS8khPw8",
       "status": "unreviewed",
       "note": null
     }

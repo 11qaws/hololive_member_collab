@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1463,
+  "count": 1464,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16092,6 +16092,17 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i6_T0tiQIkE",
+      "title": "【#ホロぷよテト大会 PUYO PUYO TETRIS 2 COLLAB】すいせい先輩コーチしてくれるの？！coaching from the best?! 🐾【FUWAMOCO｜ぷよぷよテトリス2】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i6_T0tiQIkE",
       "status": "unreviewed",
       "note": null
     }

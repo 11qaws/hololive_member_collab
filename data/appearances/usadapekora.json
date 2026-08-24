@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1590,
+  "count": 1593,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17489,6 +17489,39 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iIW0EkIlrT4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jGrhldHYKvk",
+      "title": "小賢しいプレイングで思わず悪の笑いが出てしまう常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jGrhldHYKvk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Aw7pk_JCIYQ",
+      "title": "【 Machine Party 】本気の戦い　#ネヴィペット【 ホロライブ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Aw7pk_JCIYQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6sas-lcpc6Q",
+      "title": "【ぷよぷよテトリス2】#ホロぷよテト大会 どっちの方ができるんだ？！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6sas-lcpc6Q",
       "status": "unreviewed",
       "note": null
     }

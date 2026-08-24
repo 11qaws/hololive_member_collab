@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 2077,
+  "count": 2078,
   "entries": [
     {
       "video_id": "rBykBAkV1vv",
@@ -21,6 +21,18 @@
       "url": "https://youtu.be/E1iNq_kN5l2",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/E1iNq_kN5l2/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X0dysEuXKdQ",
+      "title": "【SPAGHET】...slap it? #calliolive",
+      "published_at": "20260823",
+      "url": "https://youtu.be/X0dysEuXKdQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X0dysEuXKdQ/mqdefault.jpg",
       "partner_handle": "moricalliope",
       "partner_name": "Mori Calliope Ch. hololive-EN",
       "sub_entries": [],
@@ -19635,24 +19647,24 @@
       "paired_self": null
     },
     {
-      "video_id": "pj9yqqTYa-E",
-      "title": "One Step at a Time",
-      "published_at": "20220629",
-      "url": "https://youtu.be/pj9yqqTYa-E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pj9yqqTYa-E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1IW5FEVUNZU",
       "title": "One Step at a Time (Instrumental)",
       "published_at": "20220629",
       "url": "https://youtu.be/1IW5FEVUNZU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1IW5FEVUNZU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pj9yqqTYa-E",
+      "title": "One Step at a Time",
+      "published_at": "20220629",
+      "url": "https://youtu.be/pj9yqqTYa-E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pj9yqqTYa-E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

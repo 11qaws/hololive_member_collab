@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2226,
+  "count": 2231,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U5CrO2VC9Bs",
+      "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】実装きた〜!初ぷちホロ楽しむ✨️【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/U5CrO2VC9Bs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/U5CrO2VC9Bs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HWv4hF23FUc",
+      "title": "【ホロドリ】新楽曲やポカジャンやる!#6【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/HWv4hF23FUc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/HWv4hF23FUc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ksGdKQdrO7o",
+      "title": "otukare/踊ってみた #VTuber #hololive #dance",
+      "published_at": "20260823",
+      "url": "https://youtu.be/ksGdKQdrO7o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ksGdKQdrO7o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/ROGeS8khPw8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ROGeS8khPw8/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +100,7 @@
     },
     {
       "video_id": "hL3IdB2hiQ4",
-      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#3 魔界の大冒険?!完全初見 ※ネタバレ有【水宮枢/ホロライブDEV_IS】",
+      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#3 魔界の大冒険？！完全初見 ※ネタバレ有【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260821",
       "url": "https://youtu.be/hL3IdB2hiQ4",
       "entry_type": "stream",
@@ -287,6 +335,18 @@
       "thumbnail": "https://img.youtube.com/vi/e9cnDiiWEn8/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published_at": "20260819",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1WDHebAydJ4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

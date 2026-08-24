@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1429,
+  "count": 1430,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15718,6 +15718,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lt90QFjVK2U",
+      "title": "【 告知 】告知があるので対戦待ち凸待ちもするにぇええええ！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lt90QFjVK2U",
       "status": "unreviewed",
       "note": null
     }

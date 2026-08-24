@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1227,
+  "count": 1229,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13496,6 +13496,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5_I_H3YUQ0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jGrhldHYKvk",
+      "title": "小賢しいプレイングで思わず悪の笑いが出てしまう常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jGrhldHYKvk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Aw7pk_JCIYQ",
+      "title": "【 Machine Party 】本気の戦い　#ネヴィペット【 ホロライブ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Aw7pk_JCIYQ",
       "status": "unreviewed",
       "note": null
     }
