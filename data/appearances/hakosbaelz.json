@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1196,
+  "count": 1198,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13155,6 +13155,28 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/E1iNq_kN5l2",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3EckYFvxB44",
+      "title": "サインください!って言われた時の反応集 #hololive #ホロライブ #名場面 #迷場面",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3EckYFvxB44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MEgT1LIljT4",
+      "title": "【ANYA FANCAM VER.】㋰責任集合体 / 大空スバル • Anya Melfissa • Hakos Baelz【#DetectiveAnya3D】#shorts #vtuber",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MEgT1LIljT4",
       "status": "unreviewed",
       "note": null
     }

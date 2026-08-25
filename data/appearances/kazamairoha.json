@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1000,
+  "count": 1001,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -10999,6 +10999,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5_I_H3YUQ0E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UyMyiQAug3k",
+      "title": "【JSP3】#あずいろ 夏のホラゲ― 日本事故物件監視協会3 -Japan Stigmatized Property-【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UyMyiQAug3k",
       "status": "unreviewed",
       "note": null
     }

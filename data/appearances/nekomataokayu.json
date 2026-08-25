@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1686,
+  "count": 1688,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18545,6 +18545,28 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pq8veIlUIWQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jlt6HHrZnpE",
+      "title": "【 やーらし 】本当にやーらし!なのは、おかゆ先輩かヴィヴィか【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #猫又おかゆ  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jlt6HHrZnpE",
       "status": "unreviewed",
       "note": null
     }

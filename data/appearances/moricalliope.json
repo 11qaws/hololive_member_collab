@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1430,
+  "count": 1431,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15729,6 +15729,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lt90QFjVK2U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v1seipCdpms",
+      "title": "【SPAGHET】Mom spaghetti i'm not ready",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v1seipCdpms",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2710,
+  "count": 2713,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UyMyiQAug3k",
+      "title": "【JSP3】#あずいろ 夏のホラゲ― 日本事故物件監視協会3 -Japan Stigmatized Property-【ホロライブ / AZKi】",
+      "published_at": "20260824",
+      "url": "https://youtu.be/UyMyiQAug3k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UyMyiQAug3k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SwqyIG9MHL8",
+      "title": "【JSP3】#あずいろ でまたこのゲームをやることになりましてね👻【風真いろは/ホロライブ】",
+      "published_at": "20260824",
+      "url": "https://youtu.be/SwqyIG9MHL8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SwqyIG9MHL8/mqdefault.jpg",
+      "partner_handle": "kazamairoha",
+      "partner_name": "Iroha ch. 風真いろは - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -167,6 +191,18 @@
       "thumbnail": "https://img.youtube.com/vi/-4FHc5dLpfI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published_at": "20260819",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1WDHebAydJ4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -1971,24 +2007,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-7cYjcTL7OE",
-      "title": "Going My Way",
-      "published_at": "20260518",
-      "url": "https://youtu.be/-7cYjcTL7OE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cwysw8Fzk_w",
       "title": "Going My Way (Instrumental)",
       "published_at": "20260518",
       "url": "https://youtu.be/cwysw8Fzk_w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-7cYjcTL7OE",
+      "title": "Going My Way",
+      "published_at": "20260518",
+      "url": "https://youtu.be/-7cYjcTL7OE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -6135,24 +6171,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aH2u7EKJLjc",
-      "title": "世界は巡り、やがて君のものになる",
-      "published_at": "20251110",
-      "url": "https://youtu.be/aH2u7EKJLjc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "0Q90Yw1ZSI8",
       "title": "自己アレルギー",
       "published_at": "20251110",
       "url": "https://youtu.be/0Q90Yw1ZSI8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aH2u7EKJLjc",
+      "title": "世界は巡り、やがて君のものになる",
+      "published_at": "20251110",
+      "url": "https://youtu.be/aH2u7EKJLjc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -8979,24 +9015,24 @@
       "paired_self": null
     },
     {
-      "video_id": "SLYsjtZC4gg",
-      "title": "未来カンパネラ(Instrumental)",
-      "published_at": "20250701",
-      "url": "https://youtu.be/SLYsjtZC4gg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/SLYsjtZC4gg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "VljDhLtP2Qc",
       "title": "未来カンパネラ",
       "published_at": "20250701",
       "url": "https://youtu.be/VljDhLtP2Qc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/VljDhLtP2Qc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SLYsjtZC4gg",
+      "title": "未来カンパネラ(Instrumental)",
+      "published_at": "20250701",
+      "url": "https://youtu.be/SLYsjtZC4gg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SLYsjtZC4gg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25971,24 +26007,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5wqJ6yOf8qY",
-      "title": "青い夢(Instrumental)",
-      "published_at": "20221130",
-      "url": "https://youtu.be/5wqJ6yOf8qY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5wqJ6yOf8qY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "e5nxG5QCIRM",
       "title": "リアルメランコリー",
       "published_at": "20221130",
       "url": "https://youtu.be/e5nxG5QCIRM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5wqJ6yOf8qY",
+      "title": "青い夢(Instrumental)",
+      "published_at": "20221130",
+      "url": "https://youtu.be/5wqJ6yOf8qY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5wqJ6yOf8qY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26103,24 +26139,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jFUgiGYY994",
-      "title": "Creating world",
-      "published_at": "20221130",
-      "url": "https://youtu.be/jFUgiGYY994",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jFUgiGYY994/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "rMzIoolzkTI",
       "title": "Cream+Mint (cover)",
       "published_at": "20221130",
       "url": "https://youtu.be/rMzIoolzkTI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rMzIoolzkTI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jFUgiGYY994",
+      "title": "Creating world",
+      "published_at": "20221130",
+      "url": "https://youtu.be/jFUgiGYY994",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jFUgiGYY994/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26151,24 +26187,24 @@
       "paired_self": null
     },
     {
-      "video_id": "J2zew4y-nwU",
-      "title": "フェリシア",
-      "published_at": "20221130",
-      "url": "https://youtu.be/J2zew4y-nwU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nAaUKgTHxPQ",
       "title": "画面の中の君が好き(Instrumental)",
       "published_at": "20221130",
       "url": "https://youtu.be/nAaUKgTHxPQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "J2zew4y-nwU",
+      "title": "フェリシア",
+      "published_at": "20221130",
+      "url": "https://youtu.be/J2zew4y-nwU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31203,24 +31239,24 @@
       "paired_self": null
     },
     {
-      "video_id": "t17vgEG6Yv4",
-      "title": "自己アレルギー",
-      "published_at": "20191111",
-      "url": "https://youtu.be/t17vgEG6Yv4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/t17vgEG6Yv4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "HpuzZS0gOZg",
       "title": "フロンティアローカス",
       "published_at": "20191111",
       "url": "https://youtu.be/HpuzZS0gOZg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HpuzZS0gOZg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t17vgEG6Yv4",
+      "title": "自己アレルギー",
+      "published_at": "20191111",
+      "url": "https://youtu.be/t17vgEG6Yv4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t17vgEG6Yv4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31239,18 +31275,6 @@
       "paired_self": null
     },
     {
-      "video_id": "YLZRPGqtMv4",
-      "title": "ちいさな心が決めたこと",
-      "published_at": "20191111",
-      "url": "https://youtu.be/YLZRPGqtMv4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jV51aZvAwPo",
       "title": "コトノハ",
       "published_at": "20191111",
@@ -31263,12 +31287,12 @@
       "paired_self": null
     },
     {
-      "video_id": "zf-9KS_N3ZI",
-      "title": "のんびりと、",
+      "video_id": "YLZRPGqtMv4",
+      "title": "ちいさな心が決めたこと",
       "published_at": "20191111",
-      "url": "https://youtu.be/zf-9KS_N3ZI",
+      "url": "https://youtu.be/YLZRPGqtMv4",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zf-9KS_N3ZI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31281,6 +31305,18 @@
       "url": "https://youtu.be/EKEPMKRZ85E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zf-9KS_N3ZI",
+      "title": "のんびりと、",
+      "published_at": "20191111",
+      "url": "https://youtu.be/zf-9KS_N3ZI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zf-9KS_N3ZI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

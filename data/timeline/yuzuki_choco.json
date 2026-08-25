@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 3007,
+  "count": 3009,
   "entries": [
+    {
+      "video_id": "ak-NcHyxDL4",
+      "title": "キミの秒針/癒月ちょこ",
+      "published_at": "20260824",
+      "url": "https://youtu.be/ak-NcHyxDL4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ak-NcHyxDL4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xNmI1JXZAnU",
+      "title": "『 #私の夏の豆知識 』 #アキちょこナイパレ 第49回 ~ホロライブ深夜ラジオ~",
+      "published_at": "20260824",
+      "url": "https://youtu.be/xNmI1JXZAnU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xNmI1JXZAnU/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "RDarUB5QvMA",
       "title": "キミの秒針フルMV公開中🤍 #vtuber #ホロライブ #癒月ちょこ #オリジナル曲 #キミの秒針 #シド",
@@ -6459,24 +6483,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -36063,24 +36087,24 @@
       "paired_self": null
     },
     {
-      "video_id": "hTzLA7c04JM",
-      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/hTzLA7c04JM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zd6Fl-wZVHk",
       "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/Zd6Fl-wZVHk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hTzLA7c04JM",
+      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/hTzLA7c04JM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

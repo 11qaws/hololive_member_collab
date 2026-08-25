@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1348,
+  "count": 1350,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14827,6 +14827,28 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kRRPpDMmQ4E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oowtfaiSqb4",
+      "title": "【#ReGLOSSとラジオ体操】莉々華と一緒にラジオ体操やりませんか?25日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oowtfaiSqb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3EckYFvxB44",
+      "title": "サインください!って言われた時の反応集 #hololive #ホロライブ #名場面 #迷場面",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3EckYFvxB44",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1285,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14134,6 +14134,17 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IQ6P4YIlV4Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3EckYFvxB44",
+      "title": "サインください!って言われた時の反応集 #hololive #ホロライブ #名場面 #迷場面",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3EckYFvxB44",
       "status": "unreviewed",
       "note": null
     }

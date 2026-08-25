@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2231,
+  "count": 2233,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l5xHsaSwe4M",
+      "title": "【手書き】カウントダウン #ホロライブ  #vtuber #animation",
+      "published_at": "20260824",
+      "url": "https://youtu.be/l5xHsaSwe4M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/l5xHsaSwe4M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EckYFvxB44",
+      "title": "サインください!って言われた時の反応集 #hololive #ホロライブ #名場面 #迷場面",
+      "published_at": "20260824",
+      "url": "https://youtu.be/3EckYFvxB44",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3EckYFvxB44/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "HWv4hF23FUc",
-      "title": "【ホロドリ】新楽曲やポカジャンやる!#6【水宮枢/ホロライブDEV_IS】",
+      "title": "【ホロドリ】新楽曲やポカジャンやる！＃6【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260823",
       "url": "https://youtu.be/HWv4hF23FUc",
       "entry_type": "stream",
@@ -59,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/ROGeS8khPw8/mqdefault.jpg",
       "partner_handle": "hoshimachisuisei",
       "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZRDi5Mo6BV8",
+      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険?!完全初見 ※ネタバレ有【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/ZRDi5Mo6BV8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZRDi5Mo6BV8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -203,18 +239,6 @@
       "thumbnail": "https://img.youtube.com/vi/e7BdTWCXIjw/mqdefault.jpg",
       "partner_handle": "shiroganenoel",
       "partner_name": "Noel Ch. 白銀ノエル",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ZRDi5Mo6BV8",
-      "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険？！完全初見 ※ネタバレ有【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260820",
-      "url": "https://youtu.be/ZRDi5Mo6BV8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZRDi5Mo6BV8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 587,
+  "count": 588,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6456,6 +6456,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QnZJhRHqqmQ",
+      "title": "FINAL FANTASY XIV w/ Liz",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QnZJhRHqqmQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1473,
+  "count": 1474,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16202,6 +16202,17 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/X0dysEuXKdQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2MMBGfSm5e8",
+      "title": "【DARK SOULS: REMASTERED】we're back, baby (level one challenge) #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2MMBGfSm5e8",
       "status": "unreviewed",
       "note": null
     }

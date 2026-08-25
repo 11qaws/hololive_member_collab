@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1746,
+  "count": 1747,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19205,6 +19205,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ocDrGpuMXlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xX8AocKINv8",
+      "title": "【アニメ】パラシュート忘れました",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20240310",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xX8AocKINv8",
       "status": "unreviewed",
       "note": null
     }

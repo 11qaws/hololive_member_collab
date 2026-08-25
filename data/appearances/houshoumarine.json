@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1660,
+  "count": 1662,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18259,6 +18259,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ocDrGpuMXlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ese-cCjJ3sk",
+      "title": "【#ホロぷよテト大会 PUYO PUYO TETRIS 2 COLLAB】マリン先輩がコーチ?!coaching from the best again?! 🐾【FUWAMOCO|ぷよぷよテトリス2】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ese-cCjJ3sk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3vfP22zB_BI",
+      "title": "【ぷよぷよテトリス2】マリンコーチ、はじめを諦めないで【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3vfP22zB_BI",
       "status": "unreviewed",
       "note": null
     }

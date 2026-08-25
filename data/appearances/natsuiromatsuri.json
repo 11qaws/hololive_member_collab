@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1370,
+  "count": 1373,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15069,6 +15069,39 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z_-p9cn-seU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4jZc5Ult-o8",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY4 🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260823",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4jZc5Ult-o8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d-lQx9H5dsY",
+      "title": "【DAY4】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d-lQx9H5dsY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kRRPpDMmQ4E",
+      "title": "【 DAY4 】#ホロ7大豆劇場 7日目‼️襲撃後のChill…？【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kRRPpDMmQ4E",
       "status": "unreviewed",
       "note": null
     }

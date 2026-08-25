@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 2262,
+  "count": 2263,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ese-cCjJ3sk",
+      "title": "【#ホロぷよテト大会 PUYO PUYO TETRIS 2 COLLAB】マリン先輩がコーチ?!coaching from the best again?! 🐾【FUWAMOCO|ぷよぷよテトリス2】",
+      "published_at": "20260824",
+      "url": "https://youtu.be/Ese-cCjJ3sk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ese-cCjJ3sk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/pq8veIlUIWQ/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "W98R4zLVz6A",
+      "title": "【FUWAMOCO'S ENGLISH SUMMER SCHOOL】3D企画!!✨️ FUWAMOCOの英会話スクール🎒英語が通じなきゃ魔界の激苦茶!🐾 【#FWMC英会話】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/W98R4zLVz6A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/W98R4zLVz6A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -143,18 +167,6 @@
       "thumbnail": "https://img.youtube.com/vi/Sn5c9lqaCR4/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "W98R4zLVz6A",
-      "title": "【FUWAMOCO'S ENGLISH SUMMER SCHOOL】3D企画!!✨️ FUWAMOCOの英会話スクール🎒英語が通じなきゃ魔界の激苦茶！🐾 【#FWMC英会話】",
-      "published_at": "20260818",
-      "url": "https://youtu.be/W98R4zLVz6A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/W98R4zLVz6A/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -12735,24 +12747,24 @@
       "paired_self": null
     },
     {
-      "video_id": "O1cctHdNyio",
-      "title": "【NEW HOLOLIVE MINECRAFT】新ホロ鯖が進化した!! ✨️ fuzzy sneaking around the new server 🐾【MOCOCO POV/FUWAMOCO】",
-      "published_at": "20250209",
-      "url": "https://youtu.be/O1cctHdNyio",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/O1cctHdNyio/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PLXGJZg14vU",
       "title": "【NEW HOLOLIVE MINECRAFT】新ホロ鯖✨️ fluffy sneaking around minecraft 🐾 #shorts 【FUWAWA POV 縦型配信 VERTICAL】",
       "published_at": "20250209",
       "url": "https://youtu.be/PLXGJZg14vU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/PLXGJZg14vU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "O1cctHdNyio",
+      "title": "【NEW HOLOLIVE MINECRAFT】新ホロ鯖が進化した!! ✨️ fuzzy sneaking around the new server 🐾【MOCOCO POV/FUWAMOCO】",
+      "published_at": "20250209",
+      "url": "https://youtu.be/O1cctHdNyio",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/O1cctHdNyio/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -19323,24 +19335,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7YNhbv8dMnI",
-      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
-      "published_at": "20240616",
-      "url": "https://youtu.be/7YNhbv8dMnI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zjtNzxi8t0w",
       "title": "【FWMC MINECRAFT JOURNEY】fluffy pickaxes for all 🐾【FUWAWA POV】",
       "published_at": "20240616",
       "url": "https://youtu.be/zjtNzxi8t0w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zjtNzxi8t0w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7YNhbv8dMnI",
+      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
+      "published_at": "20240616",
+      "url": "https://youtu.be/7YNhbv8dMnI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1464,
+  "count": 1465,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16103,6 +16103,17 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i6_T0tiQIkE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IHbC4UdyW6s",
+      "title": "【 #ホロぷよテト大会 練習 】しゅいっちゃん先輩にテトリスを教わる?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IHbC4UdyW6s",
       "status": "unreviewed",
       "note": null
     }

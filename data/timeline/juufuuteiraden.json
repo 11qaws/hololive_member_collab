@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1846,
+  "count": 1849,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EckYFvxB44",
+      "title": "サインください!って言われた時の反応集 #hololive #ホロライブ #名場面 #迷場面",
+      "published_at": "20260824",
+      "url": "https://youtu.be/3EckYFvxB44",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3EckYFvxB44/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gWfRHoas-7k",
+      "title": "#Worthit MV公開中🎵是非コメントで好きなパートを教えてください✨ #ReGLOSS #儒烏風亭らでん #轟はじめ #Vtuber #shorts",
+      "published_at": "20260824",
+      "url": "https://youtu.be/gWfRHoas-7k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gWfRHoas-7k/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -71,6 +95,30 @@
       "thumbnail": "https://img.youtube.com/vi/P-oe7u2QErI/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ROGeS8khPw8",
+      "title": "【怪談配信/告知アリ】リスナーから怖い話募集してみた👻ホロメンの\"あの事件\"の真相も……⁉【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20260823",
+      "url": "https://youtu.be/ROGeS8khPw8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ROGeS8khPw8/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xKvAt5YkBw4",
+      "title": "【 #らでんと美術鑑賞 】第二回うちのやきものはこちらでん!視聴者投稿を見よう!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260822",
+      "url": "https://youtu.be/xKvAt5YkBw4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xKvAt5YkBw4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -395,18 +443,6 @@
       "thumbnail": "https://img.youtube.com/vi/c_6wXUCQOiQ/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive DEV_IS ReGLOSS",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "xKvAt5YkBw4",
-      "title": "【 #らでんと美術鑑賞 】第二回うちのやきものはこちらでん！視聴者投稿を見よう！【儒烏風亭らでん #ReGLOSS 】",
-      "published_at": "20260808",
-      "url": "https://youtu.be/xKvAt5YkBw4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/xKvAt5YkBw4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

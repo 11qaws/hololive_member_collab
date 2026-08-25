@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1044,
+  "count": 1046,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11483,6 +11483,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dzO2LaVBmMY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり!#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1WDHebAydJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwqyIG9MHL8",
+      "title": "【JSP3】#あずいろ でまたこのゲームをやることになりましてね👻【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwqyIG9MHL8",
       "status": "unreviewed",
       "note": null
     }

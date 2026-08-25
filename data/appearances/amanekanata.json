@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1316,
+  "count": 1317,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14475,6 +14475,17 @@
       "published_at": "20200627",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9a7_lq72xlk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xX8AocKINv8",
+      "title": "【アニメ】パラシュート忘れました",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20240310",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xX8AocKINv8",
       "status": "unreviewed",
       "note": null
     }
