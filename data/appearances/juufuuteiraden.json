@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 876,
+  "count": 878,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9635,6 +9635,28 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gWfRHoas-7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z25XmiYSKws",
+      "title": "【ﾊﾞｰﾝ!!!】手を上げろ! #hololive #ホロライブ #突入",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z25XmiYSKws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z8XeDgXgYTA",
+      "title": "らでんの高速質問チャレンジ✨ 実は理系...!? #儒烏風亭らでん #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z8XeDgXgYTA",
       "status": "unreviewed",
       "note": null
     }

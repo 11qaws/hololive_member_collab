@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1093,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12022,6 +12022,17 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u9CFMRSxtxs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OfHPonsKYSc",
+      "title": "Best snapshot tutorial📸 #photography #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OfHPonsKYSc",
       "status": "unreviewed",
       "note": null
     }

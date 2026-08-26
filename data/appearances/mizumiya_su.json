@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1134,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12473,6 +12473,28 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3EckYFvxB44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tAbqNddf0eg",
+      "title": "【オフコラボ/📷有】＃お子様バッテリー で流しそうめんたーべよ！ちいかわデートにいってきた💕　【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tAbqNddf0eg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3bRs5Wqs90U",
+      "title": "🎬NG集|~魔法が解けた瞬間その2~🎥",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3bRs5Wqs90U",
       "status": "unreviewed",
       "note": null
     }

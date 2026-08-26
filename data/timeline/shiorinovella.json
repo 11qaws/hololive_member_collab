@@ -1,7 +1,19 @@
 {
   "target": "shiorinovella",
-  "count": 2016,
+  "count": 2017,
   "entries": [
+    {
+      "video_id": "KwGZ94H_aPw",
+      "title": "Future Games Show 2026",
+      "published_at": "20260826",
+      "url": "https://youtu.be/KwGZ94H_aPw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KwGZ94H_aPw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "IPfElU9uBso",
       "title": "Taking Down a Big Goth Boy Probably 【Metaphor: ReFantazio】 SPOILERS",
@@ -24159,18 +24171,6 @@
       "paired_self": null
     },
     {
-      "video_id": "WO_ONEMfir0",
-      "title": "Finale: Who to Marry?【Inzoi】",
-      "published_at": "",
-      "url": "https://youtu.be/WO_ONEMfir0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/WO_ONEMfir0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "GoUqLjkrxBw",
       "title": "Not sure if I'll be streaming tomorrow as a heads-up! I'll be working on some behind-the-scenes thi",
       "published_at": "",
@@ -24189,6 +24189,18 @@
       "url": "https://youtu.be/_m2DuClvaog",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_m2DuClvaog/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WO_ONEMfir0",
+      "title": "Finale: Who to Marry?【Inzoi】",
+      "published_at": "",
+      "url": "https://youtu.be/WO_ONEMfir0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WO_ONEMfir0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

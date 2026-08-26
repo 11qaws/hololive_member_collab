@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1198,
+  "count": 1199,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13177,6 +13177,17 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MEgT1LIljT4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OfHPonsKYSc",
+      "title": "Best snapshot tutorial📸 #photography #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OfHPonsKYSc",
       "status": "unreviewed",
       "note": null
     }

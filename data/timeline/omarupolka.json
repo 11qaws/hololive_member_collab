@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 4433,
+  "count": 4436,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KLV9QNkUm3c",
+      "title": "【その8】チルラジオ配信 #狐族密会 「 頑張ったから褒めてくれ」【ホロライブ/白上フブキ/尾丸ポルカ】",
+      "published_at": "20260825",
+      "url": "https://youtu.be/KLV9QNkUm3c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KLV9QNkUm3c/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yYIOv5y0mpI",
+      "title": "Watcha Gatcha!!!!!!!!",
+      "published_at": "20260825",
+      "url": "https://youtu.be/yYIOv5y0mpI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yYIOv5y0mpI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VJlJQiuty6Y",
+      "title": "Watcha Gatcha!!!!!!!! (Instrumental)",
+      "published_at": "20260825",
+      "url": "https://youtu.be/VJlJQiuty6Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VJlJQiuty6Y/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16791,24 +16827,24 @@
       "paired_self": null
     },
     {
-      "video_id": "v5kXEPBEVSw",
-      "title": "無理ぽ to ポジ",
-      "published_at": "20250130",
-      "url": "https://youtu.be/v5kXEPBEVSw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "ZTjry52_Ou4",
       "title": "パペット",
       "published_at": "20250130",
       "url": "https://youtu.be/ZTjry52_Ou4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v5kXEPBEVSw",
+      "title": "無理ぽ to ポジ",
+      "published_at": "20250130",
+      "url": "https://youtu.be/v5kXEPBEVSw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -53115,18 +53151,6 @@
       "paired_self": null
     },
     {
-      "video_id": "g4G7bbRhBaQ",
-      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
-      "published_at": "20200815",
-      "url": "https://youtu.be/g4G7bbRhBaQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "q4eXcXl3BtI",
       "title": "尾丸ポルカサーカス開演",
       "published_at": "20200815",
@@ -53145,6 +53169,18 @@
       "url": "https://youtu.be/vbaff8W1Zrw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vbaff8W1Zrw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "g4G7bbRhBaQ",
+      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
+      "published_at": "20200815",
+      "url": "https://youtu.be/g4G7bbRhBaQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

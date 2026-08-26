@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1435,
+  "count": 1437,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15784,6 +15784,28 @@
       "published_at": "20260819",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pd1rwtbxO6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yYIOv5y0mpI",
+      "title": "Watcha Gatcha!!!!!!!!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yYIOv5y0mpI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VJlJQiuty6Y",
+      "title": "Watcha Gatcha!!!!!!!! (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VJlJQiuty6Y",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1350,
+  "count": 1357,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -14849,6 +14849,83 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3EckYFvxB44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qp75RDkiQi4",
+      "title": "【 MLBxhololive 】ドジャース(大谷翔平,山本由伸,佐々木朗希選手所属) VS ブレーブスや日本人選手出場試合をGamedayで一緒に応援しよう！【博衣こより・一条莉々華/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260824",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qp75RDkiQi4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rePS1sqaToU",
+      "title": "【 7Days to Die 】１４日目の襲撃🔥今回は生き抜く！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rePS1sqaToU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lDofM7EMAsc",
+      "title": "【 DAY5 】#ホロ7大豆劇場 ‼️2回めの襲撃キタアアアアア‼️どうにかなれええ🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lDofM7EMAsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V5mkT0imklY",
+      "title": "【DAY5】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V5mkT0imklY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nIQBTBE2lDg",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY5 🧟‍♀️ 2回目の襲撃！夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nIQBTBE2lDg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3JaZMEiNakk",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY５【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3JaZMEiNakk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z25XmiYSKws",
+      "title": "【ﾊﾞｰﾝ!!!】手を上げろ! #hololive #ホロライブ #突入",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z25XmiYSKws",
       "status": "unreviewed",
       "note": null
     }

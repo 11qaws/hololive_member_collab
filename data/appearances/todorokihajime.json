@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1188,
+  "count": 1190,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13067,6 +13067,28 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gWfRHoas-7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YDlaINx39SM",
+      "title": "【 爆弾解除 】誕生日までに爆弾解除せよ・・・!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #轟はじめ  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YDlaINx39SM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z25XmiYSKws",
+      "title": "【ﾊﾞｰﾝ!!!】手を上げろ! #hololive #ホロライブ #突入",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z25XmiYSKws",
       "status": "unreviewed",
       "note": null
     }

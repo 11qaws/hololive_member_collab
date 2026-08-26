@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1034,
+  "count": 1035,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11373,6 +11373,17 @@
       "published_at": "20260816",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4ZbpqWFfOLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z25XmiYSKws",
+      "title": "【ﾊﾞｰﾝ!!!】手を上げろ! #hololive #ホロライブ #突入",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z25XmiYSKws",
       "status": "unreviewed",
       "note": null
     }

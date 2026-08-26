@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1747,
+  "count": 1748,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19216,6 +19216,17 @@
       "published_at": "20240310",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xX8AocKINv8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LKCkAmdWt68",
+      "title": "【#さくらみこ新衣装】みこがエリート巫女アイドルになるとこ､見ててね?【さくらみこ/ホロライブ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20191208",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LKCkAmdWt68",
       "status": "unreviewed",
       "note": null
     }

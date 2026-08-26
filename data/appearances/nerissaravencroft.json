@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1077,
+  "count": 1078,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11846,6 +11846,17 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/X0dysEuXKdQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0qGsgS1NTJQ",
+      "title": "【格付けチェック】君は海外製品と日本製品を見分けられるか!?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0qGsgS1NTJQ",
       "status": "unreviewed",
       "note": null
     }

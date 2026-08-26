@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3338,
+  "count": 3343,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36717,6 +36717,61 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kRRPpDMmQ4E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rePS1sqaToU",
+      "title": "【 7Days to Die 】１４日目の襲撃🔥今回は生き抜く！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rePS1sqaToU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lDofM7EMAsc",
+      "title": "【 DAY5 】#ホロ7大豆劇場 ‼️2回めの襲撃キタアアアアア‼️どうにかなれええ🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lDofM7EMAsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d9cwL9eTH6o",
+      "title": "【DAY5】今日は襲撃がある日なんですか！？！？！ #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d9cwL9eTH6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V5mkT0imklY",
+      "title": "【DAY5】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V5mkT0imklY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nIQBTBE2lDg",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY5 🧟‍♀️ 2回目の襲撃！夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nIQBTBE2lDg",
       "status": "unreviewed",
       "note": null
     }

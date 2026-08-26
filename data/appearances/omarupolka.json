@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1912,
+  "count": 1915,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21031,6 +21031,39 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ocDrGpuMXlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KLV9QNkUm3c",
+      "title": "【その8】チルラジオ配信 #狐族密会 「 頑張ったから褒めてくれ」【ホロライブ/白上フブキ/尾丸ポルカ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KLV9QNkUm3c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yYIOv5y0mpI",
+      "title": "Watcha Gatcha!!!!!!!!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yYIOv5y0mpI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VJlJQiuty6Y",
+      "title": "Watcha Gatcha!!!!!!!! (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VJlJQiuty6Y",
       "status": "unreviewed",
       "note": null
     }

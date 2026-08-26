@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1431,
+  "count": 1434,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15740,6 +15740,39 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v1seipCdpms",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd1rwtbxO6A",
+      "title": "【3D LIVE CONCERT 3周年記念ライブ】thanks to hololive🐾 重大告知あり✨️【#FWMC3rd】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd1rwtbxO6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0qGsgS1NTJQ",
+      "title": "【格付けチェック】君は海外製品と日本製品を見分けられるか!?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0qGsgS1NTJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OfHPonsKYSc",
+      "title": "Best snapshot tutorial📸 #photography #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OfHPonsKYSc",
       "status": "unreviewed",
       "note": null
     }

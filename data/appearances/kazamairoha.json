@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1001,
+  "count": 1003,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11010,6 +11010,28 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UyMyiQAug3k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yYIOv5y0mpI",
+      "title": "Watcha Gatcha!!!!!!!!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yYIOv5y0mpI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VJlJQiuty6Y",
+      "title": "Watcha Gatcha!!!!!!!! (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VJlJQiuty6Y",
       "status": "unreviewed",
       "note": null
     }

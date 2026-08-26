@@ -1,7 +1,19 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1494,
+  "count": 1496,
   "entries": [
+    {
+      "video_id": "Tf03fNR7Bjo",
+      "title": "【FINAL FANTASY XIV】throw wide the gates to pandaemonium ※ spoiler warning",
+      "published_at": "20260825",
+      "url": "https://youtu.be/Tf03fNR7Bjo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Tf03fNR7Bjo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "FMk_7aEJDso",
       "title": "【SC KETCHUP】breaking my record of 1 stream per hour",
@@ -35,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/EkD5iZWpdXs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q-YT1xx-Tbc",
+      "title": "【Castlevania: Symphony of the Night】hungry for wall chicken #calliolive",
+      "published_at": "20260822",
+      "url": "https://youtu.be/q-YT1xx-Tbc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/q-YT1xx-Tbc/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

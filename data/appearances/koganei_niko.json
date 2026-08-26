@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 831,
+  "count": 832,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9140,6 +9140,17 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1TD3iBvChVM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3bRs5Wqs90U",
+      "title": "🎬NG集|~魔法が解けた瞬間その2~🎥",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260825",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3bRs5Wqs90U",
       "status": "unreviewed",
       "note": null
     }

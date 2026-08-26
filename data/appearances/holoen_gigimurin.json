@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 902,
+  "count": 903,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9921,6 +9921,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/waPjpIg29J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q-YT1xx-Tbc",
+      "title": "【Castlevania: Symphony of the Night】hungry for wall chicken #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q-YT1xx-Tbc",
       "status": "unreviewed",
       "note": null
     }

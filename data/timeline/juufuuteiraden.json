@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1849,
+  "count": 1851,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z25XmiYSKws",
+      "title": "【ﾊﾞｰﾝ!!!】手を上げろ! #hololive #ホロライブ #突入",
+      "published_at": "20260825",
+      "url": "https://youtu.be/z25XmiYSKws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z25XmiYSKws/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z8XeDgXgYTA",
+      "title": "らでんの高速質問チャレンジ✨ 実は理系...!? #儒烏風亭らでん #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260825",
+      "url": "https://youtu.be/z8XeDgXgYTA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z8XeDgXgYTA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -689,7 +713,7 @@
     {
       "video_id": "M8XGagAzSWM",
       "title": "【らでん自習室】8月4日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-      "published_at": "20260803",
+      "published_at": "20260804",
       "url": "https://youtu.be/M8XGagAzSWM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/M8XGagAzSWM/mqdefault.jpg",
@@ -4179,24 +4203,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zGxgs3Nw5EY",
-      "title": "出囃子ジャポニズム (Instrumental)",
-      "published_at": "20260204",
-      "url": "https://youtu.be/zGxgs3Nw5EY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aSmPF7QwVUI",
       "title": "出囃子ジャポニズム",
       "published_at": "20260204",
       "url": "https://youtu.be/aSmPF7QwVUI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGxgs3Nw5EY",
+      "title": "出囃子ジャポニズム (Instrumental)",
+      "published_at": "20260204",
+      "url": "https://youtu.be/zGxgs3Nw5EY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
