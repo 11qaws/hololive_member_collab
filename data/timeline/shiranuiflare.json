@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3837,
+  "count": 3840,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rj8LXXiJTOE",
+      "title": "#08【ほの暮しの庭】３種の神器集めるぞ！【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20260826",
+      "url": "https://youtu.be/rj8LXXiJTOE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rj8LXXiJTOE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YVDonl7K-NI",
+      "title": "【ホロライブ ドリームス】推しイベだ！参加型！みんなで遊ぼうー！【不知火フレア/ホロライブ】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/YVDonl7K-NI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YVDonl7K-NI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EOarF-MFfME",
+      "title": "【 バイオハザード6 】フレわたバイオ6の夏!わちゃわちゃ劇場がんばいお!!!#3【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "published_at": "20260826",
+      "url": "https://youtu.be/EOarF-MFfME",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EOarF-MFfME/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +88,7 @@
     },
     {
       "video_id": "Q9XD-WoW0mo",
-      "title": "#04【ほの暮しの庭】夏だ!!ついに牛を!!買うわよ!!!【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#04【ほの暮しの庭】夏だ！！ついに牛を！！買うわよ！！！【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260820",
       "url": "https://youtu.be/Q9XD-WoW0mo",
       "entry_type": "stream",
@@ -64,7 +100,7 @@
     },
     {
       "video_id": "VPOLjPJiRrY",
-      "title": "#03【ほの暮しの庭】キスケの好感度イベントを!見せろ下さい!!【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#03【ほの暮しの庭】キスケの好感度イベントを！見せろ下さい！！【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260818",
       "url": "https://youtu.be/VPOLjPJiRrY",
       "entry_type": "stream",
@@ -112,7 +148,7 @@
     },
     {
       "video_id": "aJRRBLpyO9I",
-      "title": "#02【ほの暮しの庭】キスケの好感度をあげたるわ!!【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#02【ほの暮しの庭】キスケの好感度をあげたるわ！！【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260816",
       "url": "https://youtu.be/aJRRBLpyO9I",
       "entry_type": "stream",
@@ -136,7 +172,7 @@
     },
     {
       "video_id": "SBXZ3YUMcFg",
-      "title": "#01【ほの暮しの庭】Hi!ダーリン!のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
+      "title": "#01【ほの暮しの庭】Hi！ダーリン！のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
       "published_at": "20260815",
       "url": "https://youtu.be/SBXZ3YUMcFg",
       "entry_type": "stream",
@@ -916,7 +952,7 @@
     },
     {
       "video_id": "t4rSZl7g16I",
-      "title": "#02【Outbound 】Hi!ダーリン!夏だしサバイバルしな~い?【不知火フレア/ホロライブ】",
+      "title": "#02【Outbound 】Hi！ダーリン！夏だしサバイバルしな～い？【不知火フレア/ホロライブ】",
       "published_at": "20260701",
       "url": "https://youtu.be/t4rSZl7g16I",
       "entry_type": "stream",
@@ -940,7 +976,7 @@
     },
     {
       "video_id": "edmpjDEPRKA",
-      "title": "#01【Outbound 】Hi!ダーリン!夏だしキャンプしな~い?【不知火フレア/ホロライブ】",
+      "title": "#01【Outbound 】Hi！ダーリン！夏だしキャンプしな～い？【不知火フレア/ホロライブ】",
       "published_at": "20260629",
       "url": "https://youtu.be/edmpjDEPRKA",
       "entry_type": "stream",
@@ -16779,24 +16815,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7GGs25SYP2I",
-      "title": "Smile & Go!!",
-      "published_at": "20230922",
-      "url": "https://youtu.be/7GGs25SYP2I",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7GGs25SYP2I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "s8p1BvX8278",
       "title": "大還元祭!夢のフレアチャンネル!",
       "published_at": "20230922",
       "url": "https://youtu.be/s8p1BvX8278",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/s8p1BvX8278/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7GGs25SYP2I",
+      "title": "Smile & Go!!",
+      "published_at": "20230922",
+      "url": "https://youtu.be/7GGs25SYP2I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7GGs25SYP2I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

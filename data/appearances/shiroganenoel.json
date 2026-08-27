@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1748,
+  "count": 1751,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19227,6 +19227,39 @@
       "published_at": "20191208",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LKCkAmdWt68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HDj_Xhiqy0P",
+      "title": "Moo Who? w/ AZKi, Fubuki, FUWAMOCO, Matsuri, Mio, Noel, & Okayu",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HDj_Xhiqy0P",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w6oSnV4khmg",
+      "title": "【Minecraft】初心者マイクラ!終わらない整地【雪花ラミィ/ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20200929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w6oSnV4khmg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bHX-HtWZ_OA",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/20【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bHX-HtWZ_OA",
       "status": "unreviewed",
       "note": null
     }

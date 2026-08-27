@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1113,
+  "count": 1114,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12242,6 +12242,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OfHPonsKYSc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aZf5U7Aiat4",
+      "title": "【Future Games Show】Watchalong Time With @IRyS",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aZf5U7Aiat4",
       "status": "unreviewed",
       "note": null
     }

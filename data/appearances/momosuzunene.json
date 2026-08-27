@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1232,
+  "count": 1234,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13551,6 +13551,28 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VJlJQiuty6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9hiTITIyuys",
+      "title": "💃 ウチらしか勝たん #vtuber #dance #踊ってみた #shorts",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9hiTITIyuys",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w6oSnV4khmg",
+      "title": "【Minecraft】初心者マイクラ!終わらない整地【雪花ラミィ/ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20200929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w6oSnV4khmg",
       "status": "unreviewed",
       "note": null
     }

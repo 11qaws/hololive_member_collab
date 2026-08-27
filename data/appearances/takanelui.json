@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1437,
+  "count": 1439,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15806,6 +15806,28 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VJlJQiuty6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7-YhFSgO0GY",
+      "title": "【辛いもの同好会】ご飯に合うもの編!みんなのおすすめの辛い物をいただきます!【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7-YhFSgO0GY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OylARRtmVqM",
+      "title": "【 地獄 】全員入れ替わりなりきりルドー会場・・・【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OylARRtmVqM",
       "status": "unreviewed",
       "note": null
     }

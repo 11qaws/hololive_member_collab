@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1116,
+  "count": 1120,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12275,6 +12275,50 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RJ7p1SLMq0U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd1rwtbxO6A",
+      "title": "【3D LIVE CONCERT 3周年記念ライブ】thanks to hololive🐾 重大告知あり✨️【#FWMC3rd】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd1rwtbxO6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G7zzkft-LgU",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/28【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G7zzkft-LgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nqWNVpcuSLA",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/27【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nqWNVpcuSLA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i6fEDcN_tHI",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/24【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i6fEDcN_tHI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1089,
+  "count": 1091,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11978,6 +11978,28 @@
       "published_at": "20260818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OrxrCCgCdk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5a1MepmZ_Is",
+      "title": "【Windrose】ioMoona Ahoy【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5a1MepmZ_Is",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y5rIc29LwyY",
+      "title": "Future Games Show 2026 Watchalong!",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y5rIc29LwyY",
       "status": "unreviewed",
       "note": null
     }

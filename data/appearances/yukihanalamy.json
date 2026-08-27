@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1353,
+  "count": 1354,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14882,6 +14882,17 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VJlJQiuty6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UAxTKGoGJG0",
+      "title": "【マイクラ】安眠したい【ホロライブ/桃鈴ねね】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20200929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UAxTKGoGJG0",
       "status": "unreviewed",
       "note": null
     }

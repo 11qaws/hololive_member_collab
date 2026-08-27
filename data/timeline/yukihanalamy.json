@@ -1,7 +1,19 @@
 {
   "target": "yukihanalamy",
-  "count": 3332,
+  "count": 3334,
   "entries": [
+    {
+      "video_id": "J7NIglFasOg",
+      "title": "【雑談】ちょっとお話しでもしますかい？【雪花ラミィ /ホロライブ】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/J7NIglFasOg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J7NIglFasOg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1ItyEzmqc_Q",
       "title": "【#めろぞーま】みんなもめろぞーま♡してみてね!【雪花ラミィ /ホロライブ】",
@@ -20559,24 +20571,24 @@
       "paired_self": null
     },
     {
-      "video_id": "lZOJhreA5_o",
-      "title": "Twinkle 4 You(Instrumental)",
-      "published_at": "20230616",
-      "url": "https://youtu.be/lZOJhreA5_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "l8ekZ6RKQMg",
       "title": "Twinkle 4 You",
       "published_at": "20230616",
       "url": "https://youtu.be/l8ekZ6RKQMg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/l8ekZ6RKQMg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lZOJhreA5_o",
+      "title": "Twinkle 4 You(Instrumental)",
+      "published_at": "20230616",
+      "url": "https://youtu.be/lZOJhreA5_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -38697,6 +38709,18 @@
       "url": "https://youtu.be/ZOl5f6nE3OY",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ZOl5f6nE3OY/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UAxTKGoGJG0",
+      "title": "【マイクラ】安眠したい【ホロライブ/桃鈴ねね】",
+      "published_at": "20200929",
+      "url": "https://youtu.be/UAxTKGoGJG0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UAxTKGoGJG0/mqdefault.jpg",
       "partner_handle": "momosuzunene",
       "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],

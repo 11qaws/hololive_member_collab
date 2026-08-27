@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2132,
+  "count": 2136,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,12 +27,72 @@
       "paired_self": null
     },
     {
+      "video_id": "eOeMvjGGYoc",
+      "title": "【 歌枠 】久しぶりの横型うた【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260827",
+      "url": "https://youtu.be/eOeMvjGGYoc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eOeMvjGGYoc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "nepNeM3X-BQ",
-      "title": "【 Fast Food Simulator 】サムネ後でかえる~~~しゅぴなででやっていくお店~!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 Fast Food Simulator 】バイトを増やした #ホーローキング ～！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260826",
       "url": "https://youtu.be/nepNeM3X-BQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nepNeM3X-BQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YkbiOhFNByE",
+      "title": "【 Fast Food Simulator 】初見バイトなんですがあれ…先輩達…子どもですか？💦　#ホーローキング　【ホロライブ/ロボ子さん】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/YkbiOhFNByE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YkbiOhFNByE/mqdefault.jpg",
+      "partner_handle": "robocosan",
+      "partner_name": "Roboco Ch. - ロボ子",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "p9gkKrHFvXw",
+      "title": "【Fast Food Simulator】新人がきたぞ！！！！【水宮枢／ホロライブDEV_IS】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/p9gkKrHFvXw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/p9gkKrHFvXw/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oRsqAE0v66A",
+      "title": "キッズのお守りなら、まかせてください✋ #ホーローバーガー【一条莉々華/hololive DEV_IS　ReGLOSS】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/oRsqAE0v66A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oRsqAE0v66A/mqdefault.jpg",
+      "partner_handle": "ichijouririka",
+      "partner_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IHbC4UdyW6s",
+      "title": "【 #ホロぷよテト大会 練習 】しゅいっちゃん先輩にテトリスを教わる?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260825",
+      "url": "https://youtu.be/IHbC4UdyW6s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IHbC4UdyW6s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -63,21 +123,9 @@
       "paired_self": null
     },
     {
-      "video_id": "IHbC4UdyW6s",
-      "title": "【 #ホロぷよテト大会 練習 】しゅいっちゃん先輩にテトリスを教わる？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published_at": "20260824",
-      "url": "https://youtu.be/IHbC4UdyW6s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IHbC4UdyW6s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "az3yZaivVVw",
-      "title": "【 Scritchy Scratchy #02 】スクラッチでお金稼ぎ！ウヒョー！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published_at": "20260823",
+      "title": "【 Scritchy Scratchy #02 】スクラッチでお金稼ぎ!ウヒョー!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260824",
       "url": "https://youtu.be/az3yZaivVVw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/az3yZaivVVw/mqdefault.jpg",

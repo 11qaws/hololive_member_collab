@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1378,
+  "count": 1381,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15157,6 +15157,39 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3JaZMEiNakk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HDj_Xhiqy0P",
+      "title": "Moo Who? w/ AZKi, Fubuki, FUWAMOCO, Matsuri, Mio, Noel, & Okayu",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HDj_Xhiqy0P",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7QFRNsHyrsQ",
+      "title": "【 DAY6 】#ホロ7大豆劇場 ‼️焼森におさらばじゃああああ‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7QFRNsHyrsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nqWNVpcuSLA",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/27【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nqWNVpcuSLA",
       "status": "unreviewed",
       "note": null
     }

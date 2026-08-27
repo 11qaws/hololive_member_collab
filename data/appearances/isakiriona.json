@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1099,
+  "count": 1102,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12088,6 +12088,39 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3bRs5Wqs90U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lX93c6xwtG0",
+      "title": "【DAY6】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lX93c6xwtG0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lfBZHXZWqqg",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY6【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lfBZHXZWqqg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7QFRNsHyrsQ",
+      "title": "【 DAY6 】#ホロ7大豆劇場 ‼️焼森におさらばじゃああああ‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7QFRNsHyrsQ",
       "status": "unreviewed",
       "note": null
     }

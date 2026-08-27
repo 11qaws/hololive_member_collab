@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1474,
+  "count": 1476,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16213,6 +16213,28 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2MMBGfSm5e8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UV_5N2-eNAQ",
+      "title": "[New Original Audiobook] To Find Joy Past Fire and Asperity",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260821",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UV_5N2-eNAQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nw4coXG-zCg",
+      "title": "【DON'T SCREAM TOGETHER COLLAB】don't scream don't be scared don't cry 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nw4coXG-zCg",
       "status": "unreviewed",
       "note": null
     }

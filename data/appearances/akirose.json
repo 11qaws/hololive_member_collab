@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1243,
+  "count": 1244,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13672,6 +13672,17 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bHX-HtWZ_OA",
+      "title": "【#桐生ココ】あさココLIVEニュース!1/20【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bHX-HtWZ_OA",
       "status": "unreviewed",
       "note": null
     }

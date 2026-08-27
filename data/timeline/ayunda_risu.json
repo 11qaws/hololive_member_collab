@@ -1,7 +1,31 @@
 {
   "target": "ayunda_risu",
-  "count": 2842,
+  "count": 2844,
   "entries": [
+    {
+      "video_id": "3VXtwrv6tOE",
+      "title": "Kembali Mencuci ! (Moldwasher)",
+      "published_at": "20260827",
+      "url": "https://youtu.be/3VXtwrv6tOE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3VXtwrv6tOE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AKKXa7xuUc8",
+      "title": "Saya Akan Cuci ! (Moldwasher)",
+      "published_at": "20260826",
+      "url": "https://youtu.be/AKKXa7xuUc8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AKKXa7xuUc8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Q8a87rz_ydg",
       "title": "Hello.",
@@ -1167,24 +1191,24 @@
       "paired_self": null
     },
     {
-      "video_id": "toMMyF1ZxKM",
-      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
-      "published_at": "20260622",
-      "url": "https://youtu.be/toMMyF1ZxKM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1PxEmKQvM70",
       "title": "【RISU VERSION】MIR//or 【KARAOKE】",
       "published_at": "20260622",
       "url": "https://youtu.be/1PxEmKQvM70",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1PxEmKQvM70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "toMMyF1ZxKM",
+      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+      "published_at": "20260622",
+      "url": "https://youtu.be/toMMyF1ZxKM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -34059,18 +34083,6 @@
       "paired_self": null
     },
     {
-      "video_id": "cWZuAf3qk1Q",
-      "title": "test",
-      "published_at": "",
-      "url": "https://youtu.be/cWZuAf3qk1Q",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cWZuAf3qk1Q/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "L_uUweBx4_g",
       "title": "APRIL FOOL IS HERE !!! We're gonna do the funny ! IF I act unseiso, the stream will end ! 😱😱😱😱😱",
       "published_at": "",
@@ -34089,6 +34101,18 @@
       "url": "https://youtu.be/1u7L9FLmKdM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1u7L9FLmKdM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cWZuAf3qk1Q",
+      "title": "test",
+      "published_at": "",
+      "url": "https://youtu.be/cWZuAf3qk1Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cWZuAf3qk1Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1142,
+  "count": 1145,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12561,6 +12561,39 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z25XmiYSKws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YkbiOhFNByE",
+      "title": "【 Fast Food Simulator 】初見バイトなんですがあれ…先輩達…子どもですか？💦　#ホーローキング　【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YkbiOhFNByE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p9gkKrHFvXw",
+      "title": "【Fast Food Simulator】新人がきたぞ！！！！【水宮枢／ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p9gkKrHFvXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oRsqAE0v66A",
+      "title": "キッズのお守りなら、まかせてください✋ #ホーローバーガー【一条莉々華/hololive DEV_IS　ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oRsqAE0v66A",
       "status": "unreviewed",
       "note": null
     }

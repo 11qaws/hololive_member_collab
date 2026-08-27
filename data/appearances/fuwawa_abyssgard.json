@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1157,
+  "count": 1158,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12726,6 +12726,17 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0qGsgS1NTJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HDj_Xhiqy0P",
+      "title": "Moo Who? w/ AZKi, Fubuki, FUWAMOCO, Matsuri, Mio, Noel, & Okayu",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HDj_Xhiqy0P",
       "status": "unreviewed",
       "note": null
     }

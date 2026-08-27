@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1910,
+  "count": 1911,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21009,6 +21009,17 @@
       "published_at": "20191208",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LKCkAmdWt68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HDj_Xhiqy0P",
+      "title": "Moo Who? w/ AZKi, Fubuki, FUWAMOCO, Matsuri, Mio, Noel, & Okayu",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HDj_Xhiqy0P",
       "status": "unreviewed",
       "note": null
     }

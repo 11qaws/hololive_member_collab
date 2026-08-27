@@ -1,7 +1,31 @@
 {
   "target": "momosuzunene",
-  "count": 2706,
+  "count": 2709,
   "entries": [
+    {
+      "video_id": "K01-rJRHmfw",
+      "title": "誘われ待ちはもうやめる…コラボに誘いたい2026夏【 桃鈴ねね / hololive 】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/K01-rJRHmfw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K01-rJRHmfw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9hiTITIyuys",
+      "title": "💃 ウチらしか勝たん #vtuber #dance #踊ってみた #shorts",
+      "published_at": "20260826",
+      "url": "https://youtu.be/9hiTITIyuys",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9hiTITIyuys/mqdefault.jpg",
+      "partner_handle": "irys",
+      "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "G2NKmCDqh7o",
       "title": "FUWANENE爆誕?! 🍑🩵 towa and nenechi's new song 🍑💜 ウチらしか勝たんをカタンカタンしてみた✨️ #FUWAMOCO #shorts #ホロライブ #踊ってみた",
@@ -783,24 +807,24 @@
       "paired_self": null
     },
     {
-      "video_id": "b06HeLYeSjg",
-      "title": "Orange Sparkle",
-      "published_at": "20260707",
-      "url": "https://youtu.be/b06HeLYeSjg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/b06HeLYeSjg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BuYwlbg8Tmo",
       "title": "LOVE受信、ヒクツ発信",
       "published_at": "20260707",
       "url": "https://youtu.be/BuYwlbg8Tmo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BuYwlbg8Tmo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b06HeLYeSjg",
+      "title": "Orange Sparkle",
+      "published_at": "20260707",
+      "url": "https://youtu.be/b06HeLYeSjg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b06HeLYeSjg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31299,6 +31323,18 @@
       "paired_self": null
     },
     {
+      "video_id": "w6oSnV4khmg",
+      "title": "【Minecraft】初心者マイクラ!終わらない整地【雪花ラミィ/ホロライブ】",
+      "published_at": "20200929",
+      "url": "https://youtu.be/w6oSnV4khmg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/w6oSnV4khmg/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "GpAgemjpvhA",
       "title": "【Human: Fall Flat】らみちゃんと行く！新ステージ！【ホロライブ/桃鈴ねね】",
       "published_at": "20200928",
@@ -32451,24 +32487,24 @@
       "paired_self": null
     },
     {
-      "video_id": "JVG9XQJNja4",
-      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
-      "published_at": "",
-      "url": "https://youtu.be/JVG9XQJNja4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "-aihsO26QBI",
       "title": "AIに言葉を教えたい桃鈴ねね #shorts",
       "published_at": "",
       "url": "https://youtu.be/-aihsO26QBI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-aihsO26QBI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JVG9XQJNja4",
+      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
+      "published_at": "",
+      "url": "https://youtu.be/JVG9XQJNja4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

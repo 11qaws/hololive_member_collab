@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1078,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11857,6 +11857,17 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0qGsgS1NTJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nw4coXG-zCg",
+      "title": "【DON'T SCREAM TOGETHER COLLAB】don't scream don't be scared don't cry 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nw4coXG-zCg",
       "status": "unreviewed",
       "note": null
     }
