@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1741,
+  "count": 1742,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -19150,6 +19150,17 @@
       "published_at": "20200113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ptsD3SUacww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nMHfsj73uCQ",
+      "title": "#01 【バイオハザード6】フレわたのわちゃわちゃ劇場ジェイク&シェリー編【不知火フレア/ホロライブ",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nMHfsj73uCQ",
       "status": "unreviewed",
       "note": null
     }

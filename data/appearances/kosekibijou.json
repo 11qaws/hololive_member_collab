@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1476,
+  "count": 1479,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16235,6 +16235,39 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nw4coXG-zCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bUfVDedXGLo",
+      "title": "【WATERPARK SIMULATOR COLLAB】TAKE 2 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bUfVDedXGLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DdOrG_i26-M",
+      "title": "THIS WAS THE PLAN ALONG! | #holoAdvent WATERPARK SIMULATOR",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DdOrG_i26-M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7seUd8nr6-8",
+      "title": "This Was Always the PARK【Waterpark Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7seUd8nr6-8",
       "status": "unreviewed",
       "note": null
     }

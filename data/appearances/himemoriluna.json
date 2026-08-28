@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1041,
+  "count": 1042,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11450,6 +11450,17 @@
       "published_at": "20200113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ptsD3SUacww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vgc8Ia_mIgw",
+      "title": "【🤖🎹】先輩の声で演奏してみた #クラシック #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vgc8Ia_mIgw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 966,
+  "count": 967,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10625,6 +10625,17 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SgwdAVVR7Fo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mu16gvkJxrM",
+      "title": "【meme】君のココロをハッキング #hololive #ホロライブ #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mu16gvkJxrM",
       "status": "unreviewed",
       "note": null
     }

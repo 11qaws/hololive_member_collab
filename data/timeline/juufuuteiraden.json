@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1852,
+  "count": 1854,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "VFeS2kfUFqw",
+      "title": "莉々華の答えに合わせろ!右左どっち!? 人生やり直すなら高校生から?小学生から? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260828",
+      "url": "https://youtu.be/VFeS2kfUFqw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VFeS2kfUFqw/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "7-YhFSgO0GY",
       "title": "【辛いもの同好会】ご飯に合うもの編！みんなのおすすめの辛い物をいただきます！【儒烏風亭らでん #ReGLOSS 】",
       "published_at": "20260826",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/7-YhFSgO0GY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_ybDq3b1HJo",
+      "title": "【#ReGLOSS_1stLive】Documentary of ReGLOSS -Road to “Flashpoint\"-",
+      "published_at": "20260826",
+      "url": "https://youtu.be/_ybDq3b1HJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_ybDq3b1HJo/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

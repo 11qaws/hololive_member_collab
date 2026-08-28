@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1102,
+  "count": 1105,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12121,6 +12121,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7QFRNsHyrsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mu16gvkJxrM",
+      "title": "【meme】君のココロをハッキング #hololive #ホロライブ #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mu16gvkJxrM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GxUUhZQ_dFY",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY6🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GxUUhZQ_dFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4C9IL6-2umQ",
+      "title": "小悪魔トワ様 #shorts #切り抜き #7dtd",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4C9IL6-2umQ",
       "status": "unreviewed",
       "note": null
     }

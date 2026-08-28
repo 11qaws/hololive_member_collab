@@ -1,7 +1,91 @@
 {
   "target": "aniamelfissa",
-  "count": 2638,
+  "count": 2645,
   "entries": [
+    {
+      "video_id": "d3_WENDT9A4",
+      "title": "【Moo Who? #ホロMOO】名前には「にゃ」入ってるのでこっちもちゃんと動物面できます、いいや動物です。(?)【hololive ID 2nd Gen | Anya Melfissa】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/d3_WENDT9A4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/d3_WENDT9A4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lx74wSwrsfw",
+      "title": "【Moo Who?】牛を見分けるだけの簡単なお仕事です🐄【ホロライブ / AZKi】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/lx74wSwrsfw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/lx74wSwrsfw/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8HgqcpLTnfI",
+      "title": "【Moo Who?】 動物声真似でかくれんぼ!?声真似なら任せてください!! #ホロMOO【ホロライブ/白上フブキ】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/8HgqcpLTnfI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8HgqcpLTnfI/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sIM8eUgp3LM",
+      "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/sIM8eUgp3LM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/sIM8eUgp3LM/mqdefault.jpg",
+      "partner_handle": "ookamimio",
+      "partner_name": "Mio Channel 大神ミオ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V05A-VKROEo",
+      "title": "【 Moo Who? 】動物の声マネをするかくれんぼ⁉️自分行けます💥【 猫又おかゆ/ホロライブ 】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/V05A-VKROEo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/V05A-VKROEo/mqdefault.jpg",
+      "partner_handle": "nekomataokayu",
+      "partner_name": "Okayu Ch. 猫又おかゆ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kRKteDFHiyQ",
+      "title": "【Moo Who?】本物の動物になりきれ!!...さて、久々に牛さんなるか....🐮💖【白銀ノエル/ホロライブ】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/kRKteDFHiyQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kRKteDFHiyQ/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_emS73CGqYc",
+      "title": "【MOO WHO? COLLAB】FUWAMOOCOWじゃないよ!本物の番犬はここだよ!what sounds can these demon dogs make 🐾【FUWAMOCO視点】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/_emS73CGqYc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_emS73CGqYc/mqdefault.jpg",
+      "partner_handle": "mococo_abyssgard",
+      "partner_name": "FUWAMOCO Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Dd8iy0LrhAs",
       "title": "【#FutureGamesShow】MIRROR WATCHALONG STREAM!!! ミラーありの同時視聴【hololive ID 2nd Generation | Anya Melfissa】",
@@ -17,7 +101,7 @@
     {
       "video_id": "W3VuxLUexXo",
       "title": "【Fears to Fathom - Ironbark Lookout】Just Chilling at My New Outpost~👁️【hololive ID | Anya Melfissa】",
-      "published_at": "20260824",
+      "published_at": "20260826",
       "url": "https://youtu.be/W3VuxLUexXo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/W3VuxLUexXo/mqdefault.jpg",
@@ -29,7 +113,7 @@
     {
       "video_id": "Rl4GLIZhu8o",
       "title": "【SPAGHET】Mama Is NOT Getting That Spaghet【hololive ID 2nd Gen | Anya Melfissa】",
-      "published_at": "20260824",
+      "published_at": "20260825",
       "url": "https://youtu.be/Rl4GLIZhu8o",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Rl4GLIZhu8o/mqdefault.jpg",

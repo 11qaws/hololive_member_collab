@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1691,
+  "count": 1698,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18600,6 +18600,83 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5s9fZv_Lh1s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lx74wSwrsfw",
+      "title": "【Moo Who?】牛を見分けるだけの簡単なお仕事です🐄【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lx74wSwrsfw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kRKteDFHiyQ",
+      "title": "【Moo Who?】本物の動物になりきれ!!...さて、久々に牛さんなるか....🐮💖【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kRKteDFHiyQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8HgqcpLTnfI",
+      "title": "【Moo Who?】 動物声真似でかくれんぼ!?声真似なら任せてください!! #ホロMOO【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8HgqcpLTnfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_emS73CGqYc",
+      "title": "【MOO WHO? COLLAB】FUWAMOOCOWじゃないよ!本物の番犬はここだよ!what sounds can these demon dogs make 🐾【FUWAMOCO視点】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_emS73CGqYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sIM8eUgp3LM",
+      "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sIM8eUgp3LM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "03T6NhJ9u-I",
+      "title": "【 ぷよテト 】おしえて！！！！！マリンせんせぇ！！！！！！！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/03T6NhJ9u-I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1g0ioelchZM",
+      "title": "【#生スバル】ぷよテト凸対戦待ちするしゅばああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1g0ioelchZM",
       "status": "unreviewed",
       "note": null
     }

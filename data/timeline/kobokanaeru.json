@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1657,
+  "count": 1660,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BW9g4WzFUUU",
+      "title": "OTSUKARE SUMMER ! #shorts #otonosekanade #dance #kobokanaeru #summer",
+      "published_at": "20260828",
+      "url": "https://youtu.be/BW9g4WzFUUU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BW9g4WzFUUU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "y_FRhJJxgLQ",
+      "title": "【Kobolonimbus】Yapyap while multitasking uweeeeeeee",
+      "published_at": "20260827",
+      "url": "https://youtu.be/y_FRhJJxgLQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/y_FRhJJxgLQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fa3_OJd2sCw",
+      "title": "No bad word please #vtuber #hololive #kobokanaeru #moricalliope #takanashikiara",
+      "published_at": "20260827",
+      "url": "https://youtu.be/fa3_OJd2sCw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fa3_OJd2sCw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

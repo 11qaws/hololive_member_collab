@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 163,
+  "count": 164,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1792,6 +1792,17 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xNmI1JXZAnU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cc7o8-ebFoM",
+      "title": "【 ぷよテト2 】ぷよの才能ありますか!?教えてマリン船長!【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cc7o8-ebFoM",
       "status": "unreviewed",
       "note": null
     }

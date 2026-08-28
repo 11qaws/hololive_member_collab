@@ -1,7 +1,55 @@
 {
   "target": "hololivedev_is",
-  "count": 912,
+  "count": 917,
   "entries": [
+    {
+      "video_id": "6WdD0D4V_Z4",
+      "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操やりませんか?29日目",
+      "published_at": "20260828",
+      "url": "https://youtu.be/6WdD0D4V_Z4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6WdD0D4V_Z4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wWs-sl0zXqw",
+      "title": "ReGLOSS 'iCONiC' (音乃瀬奏&一条莉々華) OFFICIAL MV",
+      "published_at": "20260828",
+      "url": "https://youtu.be/wWs-sl0zXqw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wWs-sl0zXqw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VFeS2kfUFqw",
+      "title": "莉々華の答えに合わせろ!右左どっち!? 人生やり直すなら高校生から?小学生から? #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260828",
+      "url": "https://youtu.be/VFeS2kfUFqw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VFeS2kfUFqw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XsDr4BV7tJQ",
+      "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操やりませんか?28日目",
+      "published_at": "20260827",
+      "url": "https://youtu.be/XsDr4BV7tJQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XsDr4BV7tJQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "S1OW5nzLM0I",
       "title": "【ReGLOSS衣装紹介】はじめのDaybreak衣装紹介🐧⚡ #ReGLOSS #轟はじめ #Vtuber #shorts",
@@ -9,6 +57,18 @@
       "url": "https://youtu.be/S1OW5nzLM0I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/S1OW5nzLM0I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_ybDq3b1HJo",
+      "title": "【#ReGLOSS_1stLive】Documentary of ReGLOSS -Road to “Flashpoint\"-",
+      "published_at": "20260826",
+      "url": "https://youtu.be/_ybDq3b1HJo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_ybDq3b1HJo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3435,24 +3495,24 @@
       "paired_self": null
     },
     {
-      "video_id": "PSLHyLxQXIw",
-      "title": "Bangarang",
-      "published_at": "20251111",
-      "url": "https://youtu.be/PSLHyLxQXIw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Qo_Xhp72DUk",
       "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
       "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PSLHyLxQXIw",
+      "title": "Bangarang",
+      "published_at": "20251111",
+      "url": "https://youtu.be/PSLHyLxQXIw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PSLHyLxQXIw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

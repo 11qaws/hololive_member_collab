@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1095,
+  "count": 1096,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12044,6 +12044,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UV_5N2-eNAQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fa3_OJd2sCw",
+      "title": "No bad word please #vtuber #hololive #kobokanaeru #moricalliope #takanashikiara",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fa3_OJd2sCw",
       "status": "unreviewed",
       "note": null
     }

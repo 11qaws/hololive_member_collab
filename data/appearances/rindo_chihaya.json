@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1281,
+  "count": 1283,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14090,6 +14090,28 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7QFRNsHyrsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mcUO61rv8r0",
+      "title": "【 7Days to Die 】そろそろ電気トラップに挑戦したい！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mcUO61rv8r0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1_630ACfxz0",
+      "title": "莉々華のお父さんとの恥ずかしい思い出話に爆笑する常闇トワ #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1_630ACfxz0",
       "status": "unreviewed",
       "note": null
     }

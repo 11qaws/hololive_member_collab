@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1234,
+  "count": 1235,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13573,6 +13573,17 @@
       "published_at": "20200929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w6oSnV4khmg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dNAdOq8JKpc",
+      "title": "【#ホロドリ】みんなと遊ぶぞ🔥くらやみチェイス👀我々が鬼だｯ【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dNAdOq8JKpc",
       "status": "unreviewed",
       "note": null
     }

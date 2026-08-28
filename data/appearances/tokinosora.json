@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 822,
+  "count": 823,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9041,6 +9041,17 @@
       "published_at": "20260820",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hLnLsTylcRk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pd1rwtbxO6A",
+      "title": "【3D LIVE CONCERT 3周年記念ライブ】thanks to hololive🐾 重大告知あり✨️【#FWMC3rd】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260819",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pd1rwtbxO6A",
       "status": "unreviewed",
       "note": null
     }

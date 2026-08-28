@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2018,
+  "count": 2023,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22197,6 +22197,61 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7QFRNsHyrsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AurxqUYrBuk",
+      "title": "【 🟢ぷよテト 】練習配信😼 凸待ちするぞｵｵｵ✦【 猫又おかゆ/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AurxqUYrBuk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "03T6NhJ9u-I",
+      "title": "【 ぷよテト 】おしえて！！！！！マリンせんせぇ！！！！！！！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/03T6NhJ9u-I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GxUUhZQ_dFY",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY6🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GxUUhZQ_dFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lfBZHXZWqqg",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY６【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lfBZHXZWqqg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mcUO61rv8r0",
+      "title": "【 7Days to Die 】そろそろ電気トラップに挑戦したい！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mcUO61rv8r0",
       "status": "unreviewed",
       "note": null
     }

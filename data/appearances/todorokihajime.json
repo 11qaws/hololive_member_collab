@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1192,
+  "count": 1195,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13111,6 +13111,39 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RX-nhY9MQTY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_ybDq3b1HJo",
+      "title": "【#ReGLOSS_1stLive】Documentary of ReGLOSS -Road to “Flashpoint\"-",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_ybDq3b1HJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VFeS2kfUFqw",
+      "title": "莉々華の答えに合わせろ!右左どっち!? 人生やり直すなら高校生から?小学生から? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VFeS2kfUFqw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S1OW5nzLM0I",
+      "title": "【ReGLOSS衣装紹介】はじめのDaybreak衣装紹介🐧⚡ #ReGLOSS #轟はじめ #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S1OW5nzLM0I",
       "status": "unreviewed",
       "note": null
     }

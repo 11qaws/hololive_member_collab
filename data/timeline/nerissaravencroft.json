@@ -1,16 +1,76 @@
 {
   "target": "nerissaravencroft",
-  "count": 1826,
+  "count": 1832,
   "entries": [
     {
+      "video_id": "5ccqXCOshHc",
+      "title": "Magia/森カリオペ×ネリッサ・レイヴンクロフト×虎金妃笑虎(cover)",
+      "published_at": "20260828",
+      "url": "https://youtu.be/5ccqXCOshHc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5ccqXCOshHc/mqdefault.jpg",
+      "partner_handle": "koganei_niko",
+      "partner_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jBhHeHyjiQY",
+      "title": "【Waterpark Simulator】Dont swim together【Advent Collab】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/jBhHeHyjiQY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jBhHeHyjiQY/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bUfVDedXGLo",
+      "title": "【WATERPARK SIMULATOR COLLAB】TAKE 2 🐾 #holoAdvent 【FUWAMOCO POV】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/bUfVDedXGLo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bUfVDedXGLo/mqdefault.jpg",
+      "partner_handle": "mococo_abyssgard",
+      "partner_name": "FUWAMOCO Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "DdOrG_i26-M",
-      "title": "Not this again... #|holoAdvent  DON'T SCREAM TOGETHER",
+      "title": "THIS WAS THE PLAN ALONG! | #holoAdvent WATERPARK SIMULATOR",
       "published_at": "20260827",
       "url": "https://youtu.be/DdOrG_i26-M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/DdOrG_i26-M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1eS20AlGok4",
+      "title": "UNARCHIVED KARAOKE | There's no plan, just sing",
+      "published_at": "20260827",
+      "url": "https://youtu.be/1eS20AlGok4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1eS20AlGok4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iAcpLTG4FrE",
+      "title": "【DON'T SCREAM TOGETHER】oh beep here we go again【Advent Collab】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/iAcpLTG4FrE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iAcpLTG4FrE/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },
@@ -23,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/nw4coXG-zCg/mqdefault.jpg",
       "partner_handle": "mococo_abyssgard",
       "partner_name": "FUWAMOCO Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7seUd8nr6-8",
+      "title": "This Was Always the PARK【Waterpark Simulator】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/7seUd8nr6-8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7seUd8nr6-8/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive-EN",
       "sub_entries": [],
       "paired_self": null
     },

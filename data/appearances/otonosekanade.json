@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1145,
+  "count": 1151,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12594,6 +12594,72 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oRsqAE0v66A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_ybDq3b1HJo",
+      "title": "【#ReGLOSS_1stLive】Documentary of ReGLOSS -Road to “Flashpoint\"-",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_ybDq3b1HJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wWs-sl0zXqw",
+      "title": "ReGLOSS 'iCONiC' (音乃瀬奏&一条莉々華) OFFICIAL MV",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wWs-sl0zXqw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VFeS2kfUFqw",
+      "title": "莉々華の答えに合わせろ!右左どっち!? 人生やり直すなら高校生から?小学生から? #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VFeS2kfUFqw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XsDr4BV7tJQ",
+      "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操やりませんか?28日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XsDr4BV7tJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1g0ioelchZM",
+      "title": "【#生スバル】ぷよテト凸対戦待ちするしゅばああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1g0ioelchZM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tHyvL8Niytk",
+      "title": "You & Aizu together with my best friend, Monday !! 🤩🤩🤩✨✨✨#shorts #kobokanaeu #otonosekanade",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tHyvL8Niytk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1244,
+  "count": 1245,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13683,6 +13683,17 @@
       "published_at": "20200119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bHX-HtWZ_OA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1g0ioelchZM",
+      "title": "【#生スバル】ぷよテト凸対戦待ちするしゅばああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1g0ioelchZM",
       "status": "unreviewed",
       "note": null
     }

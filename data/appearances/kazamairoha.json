@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1003,
+  "count": 1005,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11032,6 +11032,28 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VJlJQiuty6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5y87tKs7zLk",
+      "title": "【ホロドリ】今日からはじまった「くらやみチェイス」で遊ぼう!視聴者参加型!!【桃鈴ねね/風真いろは/尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5y87tKs7zLk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CUJzaBjplYg",
+      "title": "【 ホロドリ 】新ミニゲーム!くらやみチェイス!みんなで遊ぼ~💛【 桃鈴ねね / 尾丸ポルカ / 風真いろは / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CUJzaBjplYg",
       "status": "unreviewed",
       "note": null
     }

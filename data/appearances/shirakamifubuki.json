@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3347,
+  "count": 3355,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36816,6 +36816,94 @@
       "published_at": "20200127",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/G7zzkft-LgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_emS73CGqYc",
+      "title": "【MOO WHO? COLLAB】FUWAMOOCOWじゃないよ!本物の番犬はここだよ!what sounds can these demon dogs make 🐾【FUWAMOCO視点】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_emS73CGqYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sIM8eUgp3LM",
+      "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sIM8eUgp3LM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V05A-VKROEo",
+      "title": "【 Moo Who? 】動物の声マネをするかくれんぼ⁉️自分行けます💥【 猫又おかゆ/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V05A-VKROEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kRKteDFHiyQ",
+      "title": "【Moo Who?】本物の動物になりきれ!!...さて、久々に牛さんなるか....🐮💖【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kRKteDFHiyQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lx74wSwrsfw",
+      "title": "【Moo Who?】牛を見分けるだけの簡単なお仕事です🐄【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lx74wSwrsfw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lX93c6xwtG0",
+      "title": "【DAY6】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lX93c6xwtG0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GxUUhZQ_dFY",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY6🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GxUUhZQ_dFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mcUO61rv8r0",
+      "title": "【 7Days to Die 】そろそろ電気トラップに挑戦したい！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mcUO61rv8r0",
       "status": "unreviewed",
       "note": null
     }

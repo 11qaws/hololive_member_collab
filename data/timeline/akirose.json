@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 3373,
+  "count": 3375,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cc7o8-ebFoM",
+      "title": "【 ぷよテト2 】ぷよの才能ありますか!?教えてマリン船長!【アキロゼ/ホロライブ】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/cc7o8-ebFoM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cc7o8-ebFoM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1g0ioelchZM",
+      "title": "【#生スバル】ぷよテト凸対戦待ちするしゅばああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/1g0ioelchZM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1g0ioelchZM/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -5739,24 +5763,24 @@
       "paired_self": null
     },
     {
-      "video_id": "hZezWrdD17k",
-      "title": "Dreaming Princess〜Road to Bremen",
-      "published_at": "20250601",
-      "url": "https://youtu.be/hZezWrdD17k",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hZezWrdD17k/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BczTVRPQJ44",
       "title": "Bremen Music Festival",
       "published_at": "20250601",
       "url": "https://youtu.be/BczTVRPQJ44",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BczTVRPQJ44/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hZezWrdD17k",
+      "title": "Dreaming Princess〜Road to Bremen",
+      "published_at": "20250601",
+      "url": "https://youtu.be/hZezWrdD17k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hZezWrdD17k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -29463,24 +29487,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jNVqF2efWsY",
-      "title": "ヒロインオーディション (Instrumental)",
-      "published_at": "20210217",
-      "url": "https://youtu.be/jNVqF2efWsY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jNVqF2efWsY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "iuA06PWPB9U",
       "title": "ヒロインオーディション",
       "published_at": "20210217",
       "url": "https://youtu.be/iuA06PWPB9U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/iuA06PWPB9U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jNVqF2efWsY",
+      "title": "ヒロインオーディション (Instrumental)",
+      "published_at": "20210217",
+      "url": "https://youtu.be/jNVqF2efWsY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jNVqF2efWsY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -34251,24 +34275,24 @@
       "paired_self": null
     },
     {
-      "video_id": "0QaQFA0ueuE",
-      "title": "輪廻るセカイと罪ノ果実 (Instrumental Arrangement)",
-      "published_at": "20200508",
-      "url": "https://youtu.be/0QaQFA0ueuE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0QaQFA0ueuE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "nu1s8Ph5nwM",
       "title": "輪廻るセカイと罪ノ果実 (feat. アキ・ローゼンタール)",
       "published_at": "20200508",
       "url": "https://youtu.be/nu1s8Ph5nwM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nu1s8Ph5nwM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0QaQFA0ueuE",
+      "title": "輪廻るセカイと罪ノ果実 (Instrumental Arrangement)",
+      "published_at": "20200508",
+      "url": "https://youtu.be/0QaQFA0ueuE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0QaQFA0ueuE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
