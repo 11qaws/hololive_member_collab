@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1581,
+  "count": 1582,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17390,6 +17390,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4C9IL6-2umQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wO0M4UN6EWU",
+      "title": "【 #ねねねトワワ 】スーパーバニーマンで愛の結晶つくる!💛【 桃鈴ねね / 常闇トワ / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wO0M4UN6EWU",
       "status": "unreviewed",
       "note": null
     }

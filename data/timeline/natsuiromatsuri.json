@@ -1,10 +1,10 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3857,
+  "count": 3860,
   "entries": [
     {
       "video_id": "pD7B9Lsnqis",
-      "title": "【 Moo Who? 】ホロライブの声真似担当!行けますッ!!【ホロライブ/夏色まつり】",
+      "title": "【 Moo Who? 】ホロライブの声真似担当！行けますッ！！【ホロライブ/夏色まつり】",
       "published_at": "20260828",
       "url": "https://youtu.be/pD7B9Lsnqis",
       "entry_type": "stream",
@@ -47,6 +47,30 @@
       "thumbnail": "https://img.youtube.com/vi/8HgqcpLTnfI/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d3_WENDT9A4",
+      "title": "【Moo Who? #ホロMOO】名前には「にゃ」入ってるのでこっちもちゃんと動物面できます、いいや動物です。（？）【hololive ID 2nd Gen | Anya Melfissa】",
+      "published_at": "20260828",
+      "url": "https://youtu.be/d3_WENDT9A4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/d3_WENDT9A4/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Mu16gvkJxrM",
+      "title": "【meme】君のココロをハッキング #hololive #ホロライブ #shorts",
+      "published_at": "20260828",
+      "url": "https://youtu.be/Mu16gvkJxrM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Mu16gvkJxrM/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -167,6 +191,18 @@
       "thumbnail": "https://img.youtube.com/vi/0qGsgS1NTJQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4j-QEUM52fI",
+      "title": "【画伯集合】オリジナル絵描き歌で以心伝心!?【#ホロ絵描き歌】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/4j-QEUM52fI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4j-QEUM52fI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

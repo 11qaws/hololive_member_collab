@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1052,
+  "count": 1054,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11571,6 +11571,28 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_emS73CGqYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d3_WENDT9A4",
+      "title": "【Moo Who? #ホロMOO】名前には「にゃ」入ってるのでこっちもちゃんと動物面できます、いいや動物です。（？）【hololive ID 2nd Gen | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d3_WENDT9A4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pD7B9Lsnqis",
+      "title": "【 Moo Who? 】ホロライブの声真似担当！行けますッ！！【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pD7B9Lsnqis",
       "status": "unreviewed",
       "note": null
     }

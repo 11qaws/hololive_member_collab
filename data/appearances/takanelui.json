@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1439,
+  "count": 1440,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -15828,6 +15828,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OylARRtmVqM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Drga5lIyP_g",
+      "title": "【同時視聴/Watchalong】〈化物語〉(前編1~8話) holoXで同時視聴するぞ!【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Drga5lIyP_g",
       "status": "unreviewed",
       "note": null
     }

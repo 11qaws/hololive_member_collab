@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1235,
+  "count": 1236,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13584,6 +13584,17 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dNAdOq8JKpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5y87tKs7zLk",
+      "title": "【ホロドリ】今日からはじまった「くらやみチェイス」で遊ぼう！視聴者参加型！！【桃鈴ねね/風真いろは/尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5y87tKs7zLk",
       "status": "unreviewed",
       "note": null
     }

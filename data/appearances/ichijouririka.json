@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1370,
+  "count": 1374,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15069,6 +15069,50 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4C9IL6-2umQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7aVqlr6P4so",
+      "title": "もぐもぐりりなでなつまつり【#りりなで夏祭り】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7aVqlr6P4so",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s5BfxzMPZqQ",
+      "title": "iCONiC",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s5BfxzMPZqQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N77g7bsIJGQ",
+      "title": "iCONiC (Instrumental)",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N77g7bsIJGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ra1YllAVpU8",
+      "title": "【凸待ち】ぷよテト対戦凸待ち！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ra1YllAVpU8",
       "status": "unreviewed",
       "note": null
     }

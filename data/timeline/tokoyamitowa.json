@@ -1,7 +1,31 @@
 {
   "target": "tokoyamitowa",
-  "count": 3680,
+  "count": 3682,
   "entries": [
+    {
+      "video_id": "9CDl7Zaf3CU",
+      "title": "過去の言動を反省するスバル #ホロライブ  #shorts",
+      "published_at": "20260829",
+      "url": "https://youtu.be/9CDl7Zaf3CU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9CDl7Zaf3CU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wO0M4UN6EWU",
+      "title": "【 #ねねねトワワ 】スーパーバニーマンで愛の結晶つくる!💛【 桃鈴ねね / 常闇トワ / hololive 】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/wO0M4UN6EWU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wO0M4UN6EWU/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Mu16gvkJxrM",
       "title": "【meme】君のココロをハッキング #hololive #ホロライブ #shorts",
@@ -5979,24 +6003,24 @@
       "paired_self": null
     },
     {
-      "video_id": "KcJKbMtIFfg",
-      "title": "不可視",
-      "published_at": "20251007",
-      "url": "https://youtu.be/KcJKbMtIFfg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Afj_iZ_04ME",
       "title": "バズビバザヴ",
       "published_at": "20251007",
       "url": "https://youtu.be/Afj_iZ_04ME",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KcJKbMtIFfg",
+      "title": "不可視",
+      "published_at": "20251007",
+      "url": "https://youtu.be/KcJKbMtIFfg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -19875,24 +19899,24 @@
       "paired_self": null
     },
     {
-      "video_id": "oXAObuOS1U4",
-      "title": "サンビタリア",
-      "published_at": "20230926",
-      "url": "https://youtu.be/oXAObuOS1U4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "llLjylG44DQ",
       "title": "Present Day",
       "published_at": "20230926",
       "url": "https://youtu.be/llLjylG44DQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oXAObuOS1U4",
+      "title": "サンビタリア",
+      "published_at": "20230926",
+      "url": "https://youtu.be/oXAObuOS1U4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

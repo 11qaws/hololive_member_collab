@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 917,
+  "count": 921,
   "entries": [
+    {
+      "video_id": "IMAGjtM1R5g",
+      "title": "#iCONiC MV公開中🎵 フルは関連動画から! #ReGLOSS #音乃瀬奏 #一条莉々華 #Vtuber #shorts",
+      "published_at": "20260829",
+      "url": "https://youtu.be/IMAGjtM1R5g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IMAGjtM1R5g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "6WdD0D4V_Z4",
       "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操やりませんか?29日目",
@@ -9,6 +21,30 @@
       "url": "https://youtu.be/6WdD0D4V_Z4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/6WdD0D4V_Z4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "s5BfxzMPZqQ",
+      "title": "iCONiC",
+      "published_at": "20260828",
+      "url": "https://youtu.be/s5BfxzMPZqQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s5BfxzMPZqQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N77g7bsIJGQ",
+      "title": "iCONiC (Instrumental)",
+      "published_at": "20260828",
+      "url": "https://youtu.be/N77g7bsIJGQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/N77g7bsIJGQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -40,7 +76,7 @@
     },
     {
       "video_id": "XsDr4BV7tJQ",
-      "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操やりませんか?28日目",
+      "title": "【#ReGLOSSとラジオ体操】りりなでと一緒にラジオ体操やりませんか？28日目",
       "published_at": "20260827",
       "url": "https://youtu.be/XsDr4BV7tJQ",
       "entry_type": "stream",
@@ -63,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "7aVqlr6P4so",
+      "title": "もぐもぐりりなでなつまつり【#りりなで夏祭り】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/7aVqlr6P4so",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7aVqlr6P4so/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "_ybDq3b1HJo",
       "title": "【#ReGLOSS_1stLive】Documentary of ReGLOSS -Road to “Flashpoint\"-",
       "published_at": "20260826",
@@ -76,7 +124,7 @@
     },
     {
       "video_id": "LCBNTo27xaQ",
-      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操やりませんか？27日目",
+      "title": "【#ReGLOSSとラジオ体操】はじめと一緒にラジオ体操やりませんか?27日目",
       "published_at": "20260826",
       "url": "https://youtu.be/LCBNTo27xaQ",
       "entry_type": "stream",
@@ -3495,18 +3543,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Qo_Xhp72DUk",
-      "title": "落噺 (儒烏風亭らでん SOLO)",
-      "published_at": "20251111",
-      "url": "https://youtu.be/Qo_Xhp72DUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "PSLHyLxQXIw",
       "title": "Bangarang",
       "published_at": "20251111",
@@ -3519,12 +3555,12 @@
       "paired_self": null
     },
     {
-      "video_id": "K9Lj5AFi__I",
-      "title": "サクラミラージュ Snapshot ver.",
+      "video_id": "Qo_Xhp72DUk",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
       "published_at": "20251111",
-      "url": "https://youtu.be/K9Lj5AFi__I",
+      "url": "https://youtu.be/Qo_Xhp72DUk",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Qo_Xhp72DUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3537,6 +3573,18 @@
       "url": "https://youtu.be/JvM1DDsQVzA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JvM1DDsQVzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "K9Lj5AFi__I",
+      "title": "サクラミラージュ Snapshot ver.",
+      "published_at": "20251111",
+      "url": "https://youtu.be/K9Lj5AFi__I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K9Lj5AFi__I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

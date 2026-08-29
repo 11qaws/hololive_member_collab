@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1854,
+  "count": 1855,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,9 +27,21 @@
       "paired_self": null
     },
     {
+      "video_id": "6WdD0D4V_Z4",
+      "title": "【#ReGLOSSとラジオ体操】らではじと一緒にラジオ体操やりませんか?29日目",
+      "published_at": "20260828",
+      "url": "https://youtu.be/6WdD0D4V_Z4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6WdD0D4V_Z4/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "7-YhFSgO0GY",
-      "title": "【辛いもの同好会】ご飯に合うもの編！みんなのおすすめの辛い物をいただきます！【儒烏風亭らでん #ReGLOSS 】",
-      "published_at": "20260826",
+      "title": "【辛いもの同好会】ご飯に合うもの編!みんなのおすすめの辛い物をいただきます!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260827",
       "url": "https://youtu.be/7-YhFSgO0GY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7-YhFSgO0GY/mqdefault.jpg",
@@ -4239,24 +4251,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aSmPF7QwVUI",
-      "title": "出囃子ジャポニズム",
-      "published_at": "20260204",
-      "url": "https://youtu.be/aSmPF7QwVUI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zGxgs3Nw5EY",
       "title": "出囃子ジャポニズム (Instrumental)",
       "published_at": "20260204",
       "url": "https://youtu.be/zGxgs3Nw5EY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aSmPF7QwVUI",
+      "title": "出囃子ジャポニズム",
+      "published_at": "20260204",
+      "url": "https://youtu.be/aSmPF7QwVUI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

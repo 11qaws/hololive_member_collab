@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 998,
+  "count": 999,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10977,6 +10977,17 @@
       "published_at": "20200119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bHX-HtWZ_OA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4j-QEUM52fI",
+      "title": "【画伯集合】オリジナル絵描き歌で以心伝心!?【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4j-QEUM52fI",
       "status": "unreviewed",
       "note": null
     }

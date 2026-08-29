@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1390,
+  "count": 1393,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15289,6 +15289,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mcUO61rv8r0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4j-QEUM52fI",
+      "title": "【画伯集合】オリジナル絵描き歌で以心伝心!?【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4j-QEUM52fI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d3_WENDT9A4",
+      "title": "【Moo Who? #ホロMOO】名前には「にゃ」入ってるのでこっちもちゃんと動物面できます、いいや動物です。（？）【hololive ID 2nd Gen | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d3_WENDT9A4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mu16gvkJxrM",
+      "title": "【meme】君のココロをハッキング #hololive #ホロライブ #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mu16gvkJxrM",
       "status": "unreviewed",
       "note": null
     }

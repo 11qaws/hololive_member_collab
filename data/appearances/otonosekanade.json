@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1151,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12660,6 +12660,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tHyvL8Niytk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7aVqlr6P4so",
+      "title": "もぐもぐりりなでなつまつり【#りりなで夏祭り】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7aVqlr6P4so",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s5BfxzMPZqQ",
+      "title": "iCONiC",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s5BfxzMPZqQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N77g7bsIJGQ",
+      "title": "iCONiC (Instrumental)",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N77g7bsIJGQ",
       "status": "unreviewed",
       "note": null
     }

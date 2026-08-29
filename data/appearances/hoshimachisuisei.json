@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1466,
+  "count": 1469,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16125,6 +16125,39 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AurxqUYrBuk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qHC9c62GCpc",
+      "title": "【 ぷよテト 】すいせい先輩テトリス教えてください!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #星街すいせい 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qHC9c62GCpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SBLxHV1q_7k",
+      "title": "【ぷよテト】すいちゃん先輩、テトリスでも勝てますか?!!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SBLxHV1q_7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mnMPPEB9DcQ",
+      "title": "【Puyo Puyo Tetris 2】GETTING COACHED BY THE SUISEI SENPAI FT. FUWAMOCO #ホロぷよテト大会",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive-EN",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mnMPPEB9DcQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1283,
+  "count": 1285,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14112,6 +14112,28 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1_630ACfxz0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9CDl7Zaf3CU",
+      "title": "過去の言動を反省するスバル #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9CDl7Zaf3CU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gHXgd_V7HbY",
+      "title": "一言演技感情当てゲーム!リオナ編🎤👑",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gHXgd_V7HbY",
       "status": "unreviewed",
       "note": null
     }

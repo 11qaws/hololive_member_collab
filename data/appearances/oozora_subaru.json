@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2023,
+  "count": 2024,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22252,6 +22252,17 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mcUO61rv8r0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9CDl7Zaf3CU",
+      "title": "過去の言動を反省するスバル #ホロライブ  #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9CDl7Zaf3CU",
       "status": "unreviewed",
       "note": null
     }

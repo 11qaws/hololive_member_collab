@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 3015,
+  "count": 3017,
   "entries": [
+    {
+      "video_id": "TGM-3AbMhZc",
+      "title": "色をくれたキミへ/癒月ちょこ #vtuber #shorts #オリジナル曲 #ホロライブ #hololive #mimi",
+      "published_at": "20260829",
+      "url": "https://youtu.be/TGM-3AbMhZc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TGM-3AbMhZc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "i72KFepN1rg",
       "title": "【AmongUs3D】わちゃわちゃあもあす3D女子会✨癒月ちょこ視点【ホロライブ/癒月ちょこ/愛園愛美/音霊魂子/巫てんり/栗駒こまる/月赴ゐぶき/明堂しろね】",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/EK-axYL5peg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4j-QEUM52fI",
+      "title": "【画伯集合】オリジナル絵描き歌で以心伝心!?【#ホロ絵描き歌】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/4j-QEUM52fI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4j-QEUM52fI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

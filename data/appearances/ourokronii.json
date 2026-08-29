@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1020,
+  "count": 1021,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11219,6 +11219,17 @@
       "published_at": "20260815",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-9HYhyLYMrk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-MZM1Jc_2MI",
+      "title": "All Hope Is Lost 💀✨ #ootd #fashion #hololiveenglish",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-MZM1Jc_2MI",
       "status": "unreviewed",
       "note": null
     }

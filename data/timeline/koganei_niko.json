@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1658,
+  "count": 1659,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -16,7 +16,7 @@
     },
     {
       "video_id": "fPYefdtfme4",
-      "title": "【 #朝ガオ 】ふにゃあ【虎金妃笑虎】",
+      "title": "【 ＃朝ガオ 】あさがおだにゃぁ【虎金妃笑虎】",
       "published_at": "20260828",
       "url": "https://youtu.be/fPYefdtfme4",
       "entry_type": "stream",
@@ -28,13 +28,25 @@
     },
     {
       "video_id": "5ccqXCOshHc",
-      "title": "Magia/森カリオペ×ネリッサ・レイヴンクロフト×虎金妃笑虎(cover)",
+      "title": "Magia／森カリオペ×ネリッサ・レイヴンクロフト×虎金妃笑虎(cover)",
       "published_at": "20260828",
       "url": "https://youtu.be/5ccqXCOshHc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5ccqXCOshHc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gHXgd_V7HbY",
+      "title": "一言演技感情当てゲーム!リオナ編🎤👑",
+      "published_at": "20260828",
+      "url": "https://youtu.be/gHXgd_V7HbY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gHXgd_V7HbY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -19875,24 +19887,24 @@
       "paired_self": null
     },
     {
-      "video_id": "pylOG0ntH_s",
-      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
-      "published_at": "",
-      "url": "https://youtu.be/pylOG0ntH_s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "TK6OchILmqw",
       "title": "ひ　み　つ　💛",
       "published_at": "",
       "url": "https://youtu.be/TK6OchILmqw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pylOG0ntH_s",
+      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
+      "published_at": "",
+      "url": "https://youtu.be/pylOG0ntH_s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

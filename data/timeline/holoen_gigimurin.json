@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1501,
+  "count": 1503,
   "entries": [
     {
       "video_id": "7oGrgYDaVIY",
@@ -27,9 +27,33 @@
       "paired_self": null
     },
     {
+      "video_id": "HQBYjFSdE3E",
+      "title": "Enough is enough!!",
+      "published_at": "20260828",
+      "url": "https://youtu.be/HQBYjFSdE3E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HQBYjFSdE3E/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qKK0KHjTM5Q",
+      "title": "Check Out Enough! Check Out Enough! Check Out Enough!",
+      "published_at": "20260828",
+      "url": "https://youtu.be/qKK0KHjTM5Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qKK0KHjTM5Q/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Zh2t42No7lo",
       "title": "REVEALING A JUSTICE POP-UP COLLABORATION?!",
-      "published_at": "20260826",
+      "published_at": "20260827",
       "url": "https://youtu.be/Zh2t42No7lo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zh2t42No7lo/mqdefault.jpg",
