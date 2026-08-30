@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2320,
+  "count": 2322,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -25519,6 +25519,28 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mcUO61rv8r0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_47sZ0I0Qrg",
+      "title": "【1分でわかる】おいセンシティブまとめヤメロォ!!#shorts #ホロライブ",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_47sZ0I0Qrg",
       "status": "unreviewed",
       "note": null
     }

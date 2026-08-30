@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1759,
+  "count": 1762,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19348,6 +19348,39 @@
       "published_at": "20260825",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GgCngKC9aPk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HyarGt0VsLY",
+      "title": "【 #ホロマスコットバトル 】前代未聞のマスコットバトル?!今宵、新たな3Dマスコットが誕生する...!!【角巻わため/ホロライブ4期】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HyarGt0VsLY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zzf8HYuGoQg",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月7日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200206",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zzf8HYuGoQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dmAoZ-aw8XI",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月31日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200130",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dmAoZ-aw8XI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "akaihaato",
-  "count": 731,
+  "count": 734,
   "appearances": [
     {
       "video_id": "dKhLn-042Yo",
@@ -8040,6 +8040,39 @@
       "published_at": "20200119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bHX-HtWZ_OA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vKrFI1GThWI",
+      "title": "残暑を乗り切れ！冷たい麺をすすりまくるぞ～っ編🍜【#ししろんの47ラーメンツアー2 / 獅白ぼたん ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vKrFI1GThWI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TvMh4B4NQX8",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月12日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200211",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TvMh4B4NQX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zzf8HYuGoQg",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月7日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200206",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zzf8HYuGoQg",
       "status": "unreviewed",
       "note": null
     }

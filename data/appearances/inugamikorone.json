@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1120,
+  "count": 1123,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12319,6 +12319,39 @@
       "published_at": "20200123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i6fEDcN_tHI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Yeup6caQk1M",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月10日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200209",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Yeup6caQk1M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dmAoZ-aw8XI",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月31日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200130",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dmAoZ-aw8XI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KDz-qX8pcSE",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月30日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200129",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KDz-qX8pcSE",
       "status": "unreviewed",
       "note": null
     }

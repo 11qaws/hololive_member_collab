@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 2283,
+  "count": 2289,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -9,6 +9,78 @@
       "url": "https://youtu.be/SgwdAVVR7Fo",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bWmsSF2NCeE",
+      "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ~いつだってあなたの笑顔を守るのッ~」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
+      "published_at": "20260829",
+      "url": "https://youtu.be/bWmsSF2NCeE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bWmsSF2NCeE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NLDMst8Zg58",
+      "title": "【#ホロぷよテト大会 PUYO PUYO TETRIS 2】大会前の最終練習🔥 sister battle before the tournament 🐾【FUWAMOCO|ぷよぷよテトリス2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/NLDMst8Zg58",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NLDMst8Zg58/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eK-DB73vyR8",
+      "title": "【FUWAMOCO 3D ANNIVERSARY LIVE AFTERPARTY】new song + 1st album + love for hololive 🐾 #FWMC3rd",
+      "published_at": "20260829",
+      "url": "https://youtu.be/eK-DB73vyR8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eK-DB73vyR8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NuAJ64LO6CI",
+      "title": "一途ってトレンド♡ (Instrumental)",
+      "published_at": "20260829",
+      "url": "https://youtu.be/NuAJ64LO6CI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NuAJ64LO6CI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9BEAl7Zs_1A",
+      "title": "一途ってトレンド♡",
+      "published_at": "20260829",
+      "url": "https://youtu.be/9BEAl7Zs_1A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9BEAl7Zs_1A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
       "sub_entries": [],
@@ -11103,24 +11175,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-vv8XkRzP_Y",
-      "title": "【ENIGMATIC RECOLLECTION】the final fuzzy day 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
-      "published_at": "20250511",
-      "url": "https://youtu.be/-vv8XkRzP_Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-vv8XkRzP_Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9A1cO7jL0jw",
       "title": "【ENIGMATIC RECOLLECTION】the final fluffy day 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
       "published_at": "20250511",
       "url": "https://youtu.be/9A1cO7jL0jw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/9A1cO7jL0jw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-vv8XkRzP_Y",
+      "title": "【ENIGMATIC RECOLLECTION】the final fuzzy day 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
+      "published_at": "20250511",
+      "url": "https://youtu.be/-vv8XkRzP_Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-vv8XkRzP_Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

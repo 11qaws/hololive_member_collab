@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1236,
+  "count": 1238,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13595,6 +13595,28 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gHXgd_V7HbY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kU-bq_maRI8",
+      "title": "【凸待ち】大会前日！ぷよテト対戦凸待ち！！！！！【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kU-bq_maRI8",
       "status": "unreviewed",
       "note": null
     }

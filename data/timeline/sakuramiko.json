@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5505,
+  "count": 5508,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/IocPGciQay3/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YIgjuwJSCtA",
+      "title": "株券を落としたみこちの末路…💸 #ホロライブ切り抜き #さくらみこ",
+      "published_at": "20260830",
+      "url": "https://youtu.be/YIgjuwJSCtA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YIgjuwJSCtA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +63,30 @@
       "paired_self": null
     },
     {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_47sZ0I0Qrg",
+      "title": "【1分でわかる】おいセンシティブまとめヤメロォ!!#shorts #ホロライブ",
+      "published_at": "20260829",
+      "url": "https://youtu.be/_47sZ0I0Qrg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_47sZ0I0Qrg/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "_gFulU0JSGk",
       "title": "【 ぷよテト】ぷよぷよ特訓すんぞ・・・・※視聴注意【ホロライブ/さくらみこ】",
       "published_at": "20260828",
@@ -64,7 +100,7 @@
     },
     {
       "video_id": "03T6NhJ9u-I",
-      "title": "【 ぷよテト 】おしえて！！！！！マリンせんせぇ！！！！！！！！！【ホロライブ/さくらみこ】",
+      "title": "【 ぷよテト 】おしえて!!!!!マリンせんせぇ!!!!!!!!!【ホロライブ/さくらみこ】",
       "published_at": "20260827",
       "url": "https://youtu.be/03T6NhJ9u-I",
       "entry_type": "stream",
@@ -49851,24 +49887,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TThKPMBMK_o",
-      "title": "さくら色ハイテンション! (Instrumental)",
-      "published_at": "20210125",
-      "url": "https://youtu.be/TThKPMBMK_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dgkijs3AfAs",
       "title": "さくら色ハイテンション!",
       "published_at": "20210125",
       "url": "https://youtu.be/dgkijs3AfAs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TThKPMBMK_o",
+      "title": "さくら色ハイテンション! (Instrumental)",
+      "published_at": "20210125",
+      "url": "https://youtu.be/TThKPMBMK_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -52275,24 +52311,24 @@
       "paired_self": null
     },
     {
-      "video_id": "H_haJQ20B3A",
-      "title": "サクラカゼ (Instrumental)",
-      "published_at": "20201021",
-      "url": "https://youtu.be/H_haJQ20B3A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/H_haJQ20B3A/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "XdWh7yD-AL8",
       "title": "サクラカゼ",
       "published_at": "20201021",
       "url": "https://youtu.be/XdWh7yD-AL8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/XdWh7yD-AL8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H_haJQ20B3A",
+      "title": "サクラカゼ (Instrumental)",
+      "published_at": "20201021",
+      "url": "https://youtu.be/H_haJQ20B3A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H_haJQ20B3A/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

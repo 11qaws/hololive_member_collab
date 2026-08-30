@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1374,
+  "count": 1379,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15113,6 +15113,61 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ra1YllAVpU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HyarGt0VsLY",
+      "title": "【 #ホロマスコットバトル 】前代未聞のマスコットバトル?!今宵、新たな3Dマスコットが誕生する...!!【角巻わため/ホロライブ4期】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HyarGt0VsLY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2jTo_K_tU6s",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSS全員とラジオ体操だー!30日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2jTo_K_tU6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H4UEAbHatAM",
+      "title": "【#りりなで夏祭り 】りりなでの二人の夏祭りの様子をのぞいちゃおおう🏮 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H4UEAbHatAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IMAGjtM1R5g",
+      "title": "#iCONiC MV公開中🎵 フルは関連動画から! #ReGLOSS #音乃瀬奏 #一条莉々華 #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IMAGjtM1R5g",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3843,
+  "count": 3845,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cXIoIqkCYEA",
+      "title": "#02 【バイオハザード6】フレわたのわちゃわちゃ劇場ジェイク&シェリー編【不知火フレア/ホロライブ",
+      "published_at": "20260829",
+      "url": "https://youtu.be/cXIoIqkCYEA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cXIoIqkCYEA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iP4KuZLJGqk",
+      "title": "【 バイオハザード6 】フレわたバイオ6の夏!今日もわちゃわちゃがんばいお!!!#4【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "published_at": "20260829",
+      "url": "https://youtu.be/iP4KuZLJGqk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iP4KuZLJGqk/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

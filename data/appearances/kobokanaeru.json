@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 730,
+  "count": 731,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8029,6 +8029,17 @@
       "published_at": "20260822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NONYWLBhDB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tZ_ZI_-dEDM",
+      "title": "speedrunning birthday",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tZ_ZI_-dEDM",
       "status": "unreviewed",
       "note": null
     }

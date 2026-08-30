@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 588,
+  "count": 590,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6467,6 +6467,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QnZJhRHqqmQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3CLeVKWPjaA",
+      "title": "【FINAL FANTASY XIV】GREMSARIAN FASHION SHOW!!! #ad",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3CLeVKWPjaA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gfte9A0gxnI",
+      "title": "Teaching My Adopted Sprout All Things Glamour #ad",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gfte9A0gxnI",
       "status": "unreviewed",
       "note": null
     }

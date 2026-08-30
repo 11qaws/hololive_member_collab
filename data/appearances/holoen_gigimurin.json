@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 905,
+  "count": 907,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9954,6 +9954,28 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qKK0KHjTM5Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NZozMxJTKfM",
+      "title": "Passion for GREMSARIAN FASHION🌱【FINAL FANTASY XIV Online】#ad 💄👧",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NZozMxJTKfM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dg5gxS47tNY",
+      "title": "GET UP☝️ GET DOWN 👇 SPIN ME AROUND~🔄 #dance",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dg5gxS47tNY",
       "status": "unreviewed",
       "note": null
     }

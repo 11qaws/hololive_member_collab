@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 2053,
+  "count": 2057,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LOeEAFI5DPI",
+      "title": "【PUYO PUYO TETRIS 2】YA BE #ホロぷよテト大会",
+      "published_at": "20260829",
+      "url": "https://youtu.be/LOeEAFI5DPI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LOeEAFI5DPI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tZ_ZI_-dEDM",
+      "title": "speedrunning birthday",
+      "published_at": "20260829",
+      "url": "https://youtu.be/tZ_ZI_-dEDM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tZ_ZI_-dEDM/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kU-bq_maRI8",
+      "title": "【凸待ち】大会前日！ぷよテト対戦凸待ち！！！！！【ホロライブ/宝鐘マリン】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/kU-bq_maRI8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kU-bq_maRI8/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン",
       "sub_entries": [],
       "paired_self": null
     },

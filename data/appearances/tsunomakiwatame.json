@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1742,
+  "count": 1749,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -19161,6 +19161,83 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nMHfsj73uCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cXIoIqkCYEA",
+      "title": "#02 【バイオハザード6】フレわたのわちゃわちゃ劇場ジェイク&シェリー編【不知火フレア/ホロライブ",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cXIoIqkCYEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TvMh4B4NQX8",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月12日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200211",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TvMh4B4NQX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RkXd__Sd0OM",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月11日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200210",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RkXd__Sd0OM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zzf8HYuGoQg",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月7日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200206",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zzf8HYuGoQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vyG3OXVp888",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月5日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200204",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vyG3OXVp888",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dmAoZ-aw8XI",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月31日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200130",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dmAoZ-aw8XI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZUOQvvba_Uo",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月29日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZUOQvvba_Uo",
       "status": "unreviewed",
       "note": null
     }

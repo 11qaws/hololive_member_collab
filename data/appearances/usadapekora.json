@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1602,
+  "count": 1603,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17621,6 +17621,17 @@
       "published_at": "20260824",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ese-cCjJ3sk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kU-bq_maRI8",
+      "title": "【凸待ち】大会前日！ぷよテト対戦凸待ち！！！！！【ホロライブ/宝鐘マリン】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kU-bq_maRI8",
       "status": "unreviewed",
       "note": null
     }

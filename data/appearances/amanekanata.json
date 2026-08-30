@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1320,
+  "count": 1325,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14519,6 +14519,61 @@
       "published_at": "20200113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ptsD3SUacww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TvMh4B4NQX8",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月12日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200211",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TvMh4B4NQX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Yeup6caQk1M",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月10日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200209",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Yeup6caQk1M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zzf8HYuGoQg",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月7日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200206",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zzf8HYuGoQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vyG3OXVp888",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月5日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200204",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vyG3OXVp888",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dmAoZ-aw8XI",
+      "title": "【#桐生ココ】あさココLIVEニュース!1月31日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200130",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dmAoZ-aw8XI",
       "status": "unreviewed",
       "note": null
     }

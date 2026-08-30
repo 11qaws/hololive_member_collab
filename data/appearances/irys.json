@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1115,
+  "count": 1117,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12264,6 +12264,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-MZM1Jc_2MI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "or6VC0FkOOw",
+      "title": "【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/or6VC0FkOOw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HZOSaPAIWYc",
+      "title": "【CHADCast】EPISODE 1 #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HZOSaPAIWYc",
       "status": "unreviewed",
       "note": null
     }

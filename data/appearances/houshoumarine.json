@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1674,
+  "count": 1678,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18413,6 +18413,50 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cc7o8-ebFoM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LOeEAFI5DPI",
+      "title": "【PUYO PUYO TETRIS 2】YA BE #ホロぷよテト大会",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LOeEAFI5DPI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FTmhaNY_dxI",
+      "title": "【ぷよテト】大会に向けてぷよぷよを触ろう！！！！！！！！！！！マリンコーチも来るよ！！！【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FTmhaNY_dxI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-DlXxPiDEWk",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月3日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200202",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-DlXxPiDEWk",
       "status": "unreviewed",
       "note": null
     }

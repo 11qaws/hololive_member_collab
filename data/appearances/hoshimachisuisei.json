@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1469,
+  "count": 1471,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16158,6 +16158,28 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mnMPPEB9DcQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nrvWc9Zakp8",
+      "title": "【 ぷよテト 】すいせい先輩コーチにテトリスを学ぶ！ 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nrvWc9Zakp8",
       "status": "unreviewed",
       "note": null
     }

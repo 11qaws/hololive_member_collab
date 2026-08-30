@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 834,
+  "count": 835,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9173,6 +9173,17 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gHXgd_V7HbY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HyarGt0VsLY",
+      "title": "【 #ホロマスコットバトル 】前代未聞のマスコットバトル?!今宵、新たな3Dマスコットが誕生する...!!【角巻わため/ホロライブ4期】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HyarGt0VsLY",
       "status": "unreviewed",
       "note": null
     }

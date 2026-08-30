@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 881,
+  "count": 882,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9690,6 +9690,17 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6WdD0D4V_Z4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2jTo_K_tU6s",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSS全員とラジオ体操だー!30日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2jTo_K_tU6s",
       "status": "unreviewed",
       "note": null
     }

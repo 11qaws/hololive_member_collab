@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1021,
+  "count": 1022,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11230,6 +11230,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-MZM1Jc_2MI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tZ_ZI_-dEDM",
+      "title": "speedrunning birthday",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tZ_ZI_-dEDM",
       "status": "unreviewed",
       "note": null
     }

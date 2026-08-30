@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3860,
+  "count": 3861,
   "entries": [
     {
       "video_id": "pD7B9Lsnqis",
@@ -71,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/Mu16gvkJxrM/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z7D_HDq6jd0",
+      "title": "【鳴潮】アップデートきちゃ~!!新共鳴者の予感!?【ホロライブ/夏色まつり】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/z7D_HDq6jd0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/z7D_HDq6jd0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -167,18 +179,6 @@
       "thumbnail": "https://img.youtube.com/vi/mcUO61rv8r0/mqdefault.jpg",
       "partner_handle": "isakiriona",
       "partner_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "z7D_HDq6jd0",
-      "title": "【鳴潮】アップデートきちゃ～！！新共鳴者の予感！？【ホロライブ/夏色まつり】",
-      "published_at": "20260826",
-      "url": "https://youtu.be/z7D_HDq6jd0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/z7D_HDq6jd0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3747,24 +3747,24 @@
       "paired_self": null
     },
     {
-      "video_id": "imYqFvZ2PS0",
-      "title": "ウーニャカ",
-      "published_at": "20260224",
-      "url": "https://youtu.be/imYqFvZ2PS0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "kFLKwEFutm4",
       "title": "ウェディングしよっ!",
       "published_at": "20260224",
       "url": "https://youtu.be/kFLKwEFutm4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "imYqFvZ2PS0",
+      "title": "ウーニャカ",
+      "published_at": "20260224",
+      "url": "https://youtu.be/imYqFvZ2PS0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -38567,6 +38567,18 @@
       "thumbnail": "https://img.youtube.com/vi/OmhkEzGa5JA/mqdefault.jpg",
       "partner_handle": "akirose",
       "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zzf8HYuGoQg",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月7日【#ココここ】",
+      "published_at": "20200206",
+      "url": "https://youtu.be/zzf8HYuGoQg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zzf8HYuGoQg/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
       "sub_entries": [],
       "paired_self": null
     },

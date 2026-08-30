@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2250,
+  "count": 2252,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tJ8f7AtSAT8",
+      "title": "【ぷよテト】テトリス下手すぎる女が初ぷよぷよ【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/tJ8f7AtSAT8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tJ8f7AtSAT8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d2XlPUjI26E",
+      "title": "【ホロドリ】ホロドリやるよ〜🎶ポカジャンも！＃７【水宮枢／ホロライブDEV_IS】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/d2XlPUjI26E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/d2XlPUjI26E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "ZxxQPk5CEKw",
-      "title": "【同時視聴】ドラゴンボールZ神と神 完全初見!【水宮枢/ホロライブDEV_IS】",
+      "title": "【同時視聴】ドラゴンボールＺ神と神 完全初見！【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260828",
       "url": "https://youtu.be/ZxxQPk5CEKw",
       "entry_type": "stream",

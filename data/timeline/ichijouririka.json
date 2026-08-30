@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2721,
+  "count": 2727,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,6 +27,18 @@
       "paired_self": null
     },
     {
+      "video_id": "-WzQaRWgwJM",
+      "title": "私がカリスマです!!!! #shorts #hololive",
+      "published_at": "20260829",
+      "url": "https://youtu.be/-WzQaRWgwJM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-WzQaRWgwJM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "SBLxHV1q_7k",
       "title": "【ぷよテト】すいちゃん先輩、テトリスでも勝てますか？！！！！【一条莉々華/hololive DEV_IS ReGLOSS】",
       "published_at": "20260829",
@@ -35,6 +47,66 @@
       "thumbnail": "https://img.youtube.com/vi/SBLxHV1q_7k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HyarGt0VsLY",
+      "title": "【 #ホロマスコットバトル 】前代未聞のマスコットバトル?!今宵、新たな3Dマスコットが誕生する...!!【角巻わため/ホロライブ4期】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/HyarGt0VsLY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HyarGt0VsLY/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2jTo_K_tU6s",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSS全員とラジオ体操だー!30日目",
+      "published_at": "20260829",
+      "url": "https://youtu.be/2jTo_K_tU6s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2jTo_K_tU6s/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H4UEAbHatAM",
+      "title": "【#りりなで夏祭り 】りりなでの二人の夏祭りの様子をのぞいちゃおおう🏮 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260829",
+      "url": "https://youtu.be/H4UEAbHatAM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/H4UEAbHatAM/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IMAGjtM1R5g",
+      "title": "#iCONiC MV公開中🎵 フルは関連動画から! #ReGLOSS #音乃瀬奏 #一条莉々華 #Vtuber #shorts",
+      "published_at": "20260829",
+      "url": "https://youtu.be/IMAGjtM1R5g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IMAGjtM1R5g/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

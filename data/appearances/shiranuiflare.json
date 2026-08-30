@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1539,
+  "count": 1540,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16928,6 +16928,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EOarF-MFfME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iP4KuZLJGqk",
+      "title": "【 バイオハザード6 】フレわたバイオ6の夏!今日もわちゃわちゃがんばいお!!!#4【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iP4KuZLJGqk",
       "status": "unreviewed",
       "note": null
     }

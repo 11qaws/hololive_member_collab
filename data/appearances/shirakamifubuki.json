@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3357,
+  "count": 3358,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36926,6 +36926,17 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pD7B9Lsnqis",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dm6ktkSJmCY",
+      "title": "凸待ち Reddit Shitpost Review!!誰もこなかったらBEST GIRL",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20210404",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dm6ktkSJmCY",
       "status": "unreviewed",
       "note": null
     }

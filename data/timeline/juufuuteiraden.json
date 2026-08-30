@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1855,
+  "count": 1857,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9lx8GlofcjA",
+      "title": "【#らでんのラジオ 】第40回特別版!ミュージアムグッズについて語ろう!ゲスト：大澤夏美さん【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/9lx8GlofcjA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9lx8GlofcjA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2jTo_K_tU6s",
+      "title": "【#ReGLOSSとラジオ体操】ReGLOSS全員とラジオ体操だー!30日目",
+      "published_at": "20260829",
+      "url": "https://youtu.be/2jTo_K_tU6s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2jTo_K_tU6s/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

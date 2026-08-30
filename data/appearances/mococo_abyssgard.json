@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1169,
+  "count": 1170,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12858,6 +12858,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ra1YllAVpU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
       "status": "unreviewed",
       "note": null
     }

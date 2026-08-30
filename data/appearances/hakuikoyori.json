@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1376,
+  "count": 1377,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15135,6 +15135,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Drga5lIyP_g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/36BSSfEkQr4",
       "status": "unreviewed",
       "note": null
     }

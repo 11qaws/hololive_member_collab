@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2004,
+  "count": 2006,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -27,8 +27,20 @@
       "paired_self": null
     },
     {
+      "video_id": "iQNnETCq5-g",
+      "title": "【 ＃ホロ甲2026 】壁咲高校、始動！育成スタートだあ❤【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/iQNnETCq5-g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iQNnETCq5-g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "nrvWc9Zakp8",
-      "title": "【 ぷよテト 】すいせい先輩コーチにテトリスを学ぶ! 【ホロライブ DEV_IS 響咲リオナ】",
+      "title": "【 ぷよテト 】すいせい先輩コーチにテトリスを学ぶ！ 【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "20260829",
       "url": "https://youtu.be/nrvWc9Zakp8",
       "entry_type": "stream",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/NIG6G3FTsDU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
       "sub_entries": [],
       "paired_self": null
     },
@@ -76,7 +100,7 @@
     },
     {
       "video_id": "mcUO61rv8r0",
-      "title": "【 7Days to Die 】そろそろ電気トラップに挑戦したい！！ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "title": "【 7Days to Die 】そろそろ電気トラップに挑戦したい!! #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "20260827",
       "url": "https://youtu.be/mcUO61rv8r0",
       "entry_type": "stream",
@@ -24003,18 +24027,6 @@
       "paired_self": null
     },
     {
-      "video_id": "f2x5-aQuSzA",
-      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
-      "published_at": "",
-      "url": "https://youtu.be/f2x5-aQuSzA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "d7mYLP8c6LE",
       "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "",
@@ -24027,24 +24039,36 @@
       "paired_self": null
     },
     {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "sa4kyeVj9Wk",
       "title": "【Dance practice】LOAD 響咲リオナver",
       "published_at": "",
       "url": "https://youtu.be/sa4kyeVj9Wk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/sa4kyeVj9Wk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "f2x5-aQuSzA",
+      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
+      "published_at": "",
+      "url": "https://youtu.be/f2x5-aQuSzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/GMv9AlmncJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 824,
+  "count": 826,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9063,6 +9063,28 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4j-QEUM52fI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HyarGt0VsLY",
+      "title": "【 #ホロマスコットバトル 】前代未聞のマスコットバトル?!今宵、新たな3Dマスコットが誕生する...!!【角巻わため/ホロライブ4期】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HyarGt0VsLY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NIG6G3FTsDU",
+      "title": "そら先輩とwatch me 🫶 #vtuber #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NIG6G3FTsDU",
       "status": "unreviewed",
       "note": null
     }
