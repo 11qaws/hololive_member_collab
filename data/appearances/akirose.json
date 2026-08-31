@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1248,
+  "count": 1249,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13727,6 +13727,17 @@
       "published_at": "20200128",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZUOQvvba_Uo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eHHjYiRNu2o",
+      "title": "【 ぷよテト 】＃ホロぷよテト大会 カエルの神童ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eHHjYiRNu2o",
       "status": "unreviewed",
       "note": null
     }

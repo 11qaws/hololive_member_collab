@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1540,
+  "count": 1543,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16939,6 +16939,39 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iP4KuZLJGqk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IhTTxxPoJr8",
+      "title": "【 ホロライブドリームス 】深夜のポカジャン勢！あつまれ～～～！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IhTTxxPoJr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2di61BNqMek",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2di61BNqMek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7mYY8Iqs4mU",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月11日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200310",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7mYY8Iqs4mU",
       "status": "unreviewed",
       "note": null
     }

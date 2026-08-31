@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 718,
+  "count": 720,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -7897,6 +7897,28 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/H1mnBqcyQfs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BvY1JXhPiSo",
+      "title": "【POKÉMON FIRE RED】reunion of the yuripeans【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive-EN",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BvY1JXhPiSo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U9zPYWB-PGg",
+      "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U9zPYWB-PGg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 922,
+  "count": 923,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10141,6 +10141,17 @@
       "published_at": "20260823",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OK54eoe04wo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_GoetFvYnx8",
+      "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_GoetFvYnx8",
       "status": "unreviewed",
       "note": null
     }

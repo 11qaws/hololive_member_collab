@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1075,
+  "count": 1076,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11824,6 +11824,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-MZM1Jc_2MI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U9zPYWB-PGg",
+      "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U9zPYWB-PGg",
       "status": "unreviewed",
       "note": null
     }

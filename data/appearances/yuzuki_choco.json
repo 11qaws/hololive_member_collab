@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1000,
+  "count": 1001,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -10999,6 +10999,17 @@
       "published_at": "20200206",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zzf8HYuGoQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JdxYDIpvF14",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月19日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200318",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JdxYDIpvF14",
       "status": "unreviewed",
       "note": null
     }

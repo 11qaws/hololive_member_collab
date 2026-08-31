@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1762,
+  "count": 1764,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19381,6 +19381,28 @@
       "published_at": "20200130",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dmAoZ-aw8XI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d26z67psoik",
+      "title": "夏祭りはやっぱキラキラっしょ!?🎇#手描き切り抜き #さくらみこ #大空スバル",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d26z67psoik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vBaGc9NJLD4",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月6日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200405",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vBaGc9NJLD4",
       "status": "unreviewed",
       "note": null
     }

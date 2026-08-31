@@ -1,6 +1,6 @@
 {
   "target": "murasakishion",
-  "count": 1493,
+  "count": 1495,
   "entries": [
     {
       "video_id": "tA81jxo_kPQ",
@@ -9411,24 +9411,24 @@
       "paired_self": null
     },
     {
-      "video_id": "BGzPnVENRgs",
-      "title": "【マリパ3】深夜の女子会パーティ！！【紫咲シオン/湊あくあ/宝鐘マリン】【ホロライブ/紫咲シオン】",
-      "published_at": "20201007",
-      "url": "https://youtu.be/BGzPnVENRgs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BGzPnVENRgs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "t4L5Q8Vpe7M",
       "title": "【マリオパーティ3】深夜の女子会パーティ！！【紫咲シオン/湊あくあ/宝鐘マリン】",
       "published_at": "20201007",
       "url": "https://youtu.be/t4L5Q8Vpe7M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/t4L5Q8Vpe7M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BGzPnVENRgs",
+      "title": "【マリパ3】深夜の女子会パーティ！！【紫咲シオン/湊あくあ/宝鐘マリン】【ホロライブ/紫咲シオン】",
+      "published_at": "20201007",
+      "url": "https://youtu.be/BGzPnVENRgs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BGzPnVENRgs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -11211,6 +11211,18 @@
       "paired_self": null
     },
     {
+      "video_id": "n2yIIhJl3mo",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月17日【#ココここ】",
+      "published_at": "20200416",
+      "url": "https://youtu.be/n2yIIhJl3mo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/n2yIIhJl3mo/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "HN_2wCEaR_A",
       "title": "【#卍組】3人揃えば最強!?!?伝説の卍組APEX!!!!",
       "published_at": "20200415",
@@ -11771,6 +11783,18 @@
       "thumbnail": "https://img.youtube.com/vi/LAxPfTFlpSU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tv7CrwCafs0",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月10日【#ココここ】",
+      "published_at": "20200309",
+      "url": "https://youtu.be/tv7CrwCafs0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tv7CrwCafs0/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -17883,12 +17907,12 @@
       "paired_self": null
     },
     {
-      "video_id": "I6Efp02plEY",
-      "title": "【#SAOVS】SAOの世界へ、リンクスタートっ！【ホロライブ/紫咲シオン】",
+      "video_id": "Tvcz6shMgyA",
+      "title": "配信予定～～～～！！！にゃんにゃんにゃん【ホロライブ/紫咲シオン】",
       "published_at": "",
-      "url": "https://youtu.be/I6Efp02plEY",
+      "url": "https://youtu.be/Tvcz6shMgyA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/I6Efp02plEY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/Tvcz6shMgyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -17907,12 +17931,12 @@
       "paired_self": null
     },
     {
-      "video_id": "Tvcz6shMgyA",
-      "title": "配信予定～～～～！！！にゃんにゃんにゃん【ホロライブ/紫咲シオン】",
+      "video_id": "I6Efp02plEY",
+      "title": "【#SAOVS】SAOの世界へ、リンクスタートっ！【ホロライブ/紫咲シオン】",
       "published_at": "",
-      "url": "https://youtu.be/Tvcz6shMgyA",
+      "url": "https://youtu.be/I6Efp02plEY",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Tvcz6shMgyA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/I6Efp02plEY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

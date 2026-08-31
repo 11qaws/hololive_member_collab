@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1377,
+  "count": 1378,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15146,6 +15146,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tg5gP62IGYY",
       "status": "unreviewed",
       "note": null
     }

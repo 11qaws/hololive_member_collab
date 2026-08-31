@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1290,
+  "count": 1293,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14189,6 +14189,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vgc8Ia_mIgw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_GoetFvYnx8",
+      "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_GoetFvYnx8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n2yIIhJl3mo",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月17日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n2yIIhJl3mo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jQfFvUET6z4",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月17日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200316",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jQfFvUET6z4",
       "status": "unreviewed",
       "note": null
     }

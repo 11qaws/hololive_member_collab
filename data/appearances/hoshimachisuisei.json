@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1471,
+  "count": 1472,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16180,6 +16180,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nrvWc9Zakp8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rX1qGeTzPuU",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月31日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200330",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rX1qGeTzPuU",
       "status": "unreviewed",
       "note": null
     }

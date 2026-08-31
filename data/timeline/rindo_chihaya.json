@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2074,
+  "count": 2077,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "EYTGVvCzlr0",
+      "title": "【ぷよぷよテトリス2】大会終わったけど!まだやりたいです!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/EYTGVvCzlr0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EYTGVvCzlr0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "SgwdAVVR7Fo",
       "title": "hololive Puyo Puyo Tetris 2 Tournament ",
       "published_at": "20260830",
@@ -23,6 +35,42 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eHHjYiRNu2o",
+      "title": "【 ぷよテト 】＃ホロぷよテト大会 カエルの神童ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/eHHjYiRNu2o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eHHjYiRNu2o/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_LOJbGuV_8g",
+      "title": "一言演技感情当てゲーム!枢編💬🔁💙",
+      "published_at": "20260830",
+      "url": "https://youtu.be/_LOJbGuV_8g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_LOJbGuV_8g/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sj4aN_Zf2Wg",
+      "title": "【同時視聴】お台場UCガンダムファイナルセレモニー見届けよう~~~~!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260829",
+      "url": "https://youtu.be/sj4aN_Zf2Wg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sj4aN_Zf2Wg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,20 +111,8 @@
       "paired_self": null
     },
     {
-      "video_id": "sj4aN_Zf2Wg",
-      "title": "【同時視聴】お台場UCガンダムファイナルセレモニー見届けよう～～～～！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "20260828",
-      "url": "https://youtu.be/sj4aN_Zf2Wg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sj4aN_Zf2Wg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7qXkC06yDpw",
-      "title": "【GT7】全国都道府県対抗eスポーツ選手権 予選参加いくぞ！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】】",
+      "title": "【GT7】全国都道府県対抗eスポーツ選手権 予選参加いくぞ!!!!!【#輪堂千速 / #hololivedev_is #FLOWGLOW 】】",
       "published_at": "20260828",
       "url": "https://youtu.be/7qXkC06yDpw",
       "entry_type": "stream",

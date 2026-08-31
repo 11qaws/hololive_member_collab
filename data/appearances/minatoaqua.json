@@ -1,6 +1,6 @@
 {
   "target": "minatoaqua",
-  "count": 650,
+  "count": 652,
   "appearances": [
     {
       "video_id": "P2v2eXrKxT0",
@@ -7149,6 +7149,28 @@
       "published_at": "20211014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZKntC0nwdcI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2di61BNqMek",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2di61BNqMek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4M-NXG7HMxU",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月9日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200308",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4M-NXG7HMxU",
       "status": "unreviewed",
       "note": null
     }

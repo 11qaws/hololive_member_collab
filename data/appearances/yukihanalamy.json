@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1354,
+  "count": 1355,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14893,6 +14893,17 @@
       "published_at": "20200929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UAxTKGoGJG0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OasFKQl0ZPc",
+      "title": "【新ボイス】えー、彼女さんきびしー…",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260828",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OasFKQl0ZPc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "akaihaato",
-  "count": 734,
+  "count": 735,
   "appearances": [
     {
       "video_id": "dKhLn-042Yo",
@@ -8073,6 +8073,17 @@
       "published_at": "20200206",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zzf8HYuGoQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n2yIIhJl3mo",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月17日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n2yIIhJl3mo",
       "status": "unreviewed",
       "note": null
     }

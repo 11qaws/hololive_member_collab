@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 826,
+  "count": 827,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9085,6 +9085,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NIG6G3FTsDU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v_gjU8RYt4g",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月6日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200305",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v_gjU8RYt4g",
       "status": "unreviewed",
       "note": null
     }

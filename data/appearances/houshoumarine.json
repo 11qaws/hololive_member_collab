@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1678,
+  "count": 1684,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18457,6 +18457,72 @@
       "published_at": "20200202",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-DlXxPiDEWk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tg5gP62IGYY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eHHjYiRNu2o",
+      "title": "【 ぷよテト 】＃ホロぷよテト大会 カエルの神童ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eHHjYiRNu2o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2di61BNqMek",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2di61BNqMek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wxAx_80lQic",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月16日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200315",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wxAx_80lQic",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NwPUjto9j_Q",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月27日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200226",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NwPUjto9j_Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZE-j0-3YJX8",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月24日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200223",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZE-j0-3YJX8",
       "status": "unreviewed",
       "note": null
     }

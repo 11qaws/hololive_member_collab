@@ -1,7 +1,43 @@
 {
   "target": "yuzuki_choco",
-  "count": 3018,
+  "count": 3022,
   "entries": [
+    {
+      "video_id": "YuLBzRwEuZo",
+      "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/YuLBzRwEuZo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YuLBzRwEuZo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "k8seCPPfO1g",
+      "title": "【DeadbyDaylight】悪魔のゲリラDBD📣 【ホロライブ/癒月ちょこ】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/k8seCPPfO1g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/k8seCPPfO1g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yVZrsLhqzg8",
+      "title": "告白日和、です!踊ってみた #shorts #vtuber #踊ってみた #μ's",
+      "published_at": "20260830",
+      "url": "https://youtu.be/yVZrsLhqzg8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yVZrsLhqzg8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "TGM-3AbMhZc",
       "title": "色をくれたキミへ/癒月ちょこ #vtuber #shorts #オリジナル曲 #ホロライブ #hololive #mimi",
@@ -6567,24 +6603,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27651,6 +27687,18 @@
       "paired_self": null
     },
     {
+      "video_id": "JdxYDIpvF14",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月19日【#ココここ】",
+      "published_at": "20200318",
+      "url": "https://youtu.be/JdxYDIpvF14",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JdxYDIpvF14/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "HW59TZEh0Q4",
       "title": "【House Flipper】リフォームの匠ちょこ先生のセンスをとくとご覧あれ！【ホロライブ/癒月ちょこ】",
       "published_at": "20200317",
@@ -36195,24 +36243,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Zd6Fl-wZVHk",
-      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/Zd6Fl-wZVHk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hTzLA7c04JM",
       "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/hTzLA7c04JM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd6Fl-wZVHk",
+      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/Zd6Fl-wZVHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

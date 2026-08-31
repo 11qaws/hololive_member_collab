@@ -1,6 +1,6 @@
 {
   "target": "murasakishion",
-  "count": 540,
+  "count": 542,
   "appearances": [
     {
       "video_id": "tA81jxo_kPQ",
@@ -5939,6 +5939,28 @@
       "published_at": "20200210",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RkXd__Sd0OM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n2yIIhJl3mo",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月17日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200416",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n2yIIhJl3mo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tv7CrwCafs0",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月10日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200309",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tv7CrwCafs0",
       "status": "unreviewed",
       "note": null
     }

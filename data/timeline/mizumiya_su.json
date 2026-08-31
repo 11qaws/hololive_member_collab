@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2252,
+  "count": 2255,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,42 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WerAF7MImxc",
+      "title": "THUMB DANCE CHALLENGE!💙 #ThumbChallenge #animation #short",
+      "published_at": "20260830",
+      "url": "https://youtu.be/WerAF7MImxc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WerAF7MImxc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_LOJbGuV_8g",
+      "title": "一言演技感情当てゲーム!枢編💬🔁💙",
+      "published_at": "20260830",
+      "url": "https://youtu.be/_LOJbGuV_8g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_LOJbGuV_8g/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_GoetFvYnx8",
+      "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
+      "published_at": "20260830",
+      "url": "https://youtu.be/_GoetFvYnx8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_GoetFvYnx8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -63,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "-5rAu8Ys9Zg",
+      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#1 【水宮枢/ホロライブDEV_IS】※ネタバレ有",
+      "published_at": "20260828",
+      "url": "https://youtu.be/-5rAu8Ys9Zg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-5rAu8Ys9Zg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "cxcN-vIIkqY",
       "title": "【みにみや】休憩中ぶりっこしてみる #hololive #vtuber",
       "published_at": "20260828",
@@ -105,18 +153,6 @@
       "url": "https://youtu.be/1uRigx20NYI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1uRigx20NYI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "-5rAu8Ys9Zg",
-      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#1 【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-      "published_at": "20260826",
-      "url": "https://youtu.be/-5rAu8Ys9Zg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-5rAu8Ys9Zg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 2057,
+  "count": 2058,
   "entries": [
     {
       "video_id": "SgwdAVVR7Fo",
@@ -71,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/Mu16gvkJxrM/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U9zPYWB-PGg",
+      "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/U9zPYWB-PGg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/U9zPYWB-PGg/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },

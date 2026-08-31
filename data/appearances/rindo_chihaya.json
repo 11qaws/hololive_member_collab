@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1286,
+  "count": 1288,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14145,6 +14145,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eHHjYiRNu2o",
+      "title": "【 ぷよテト 】＃ホロぷよテト大会 カエルの神童ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eHHjYiRNu2o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_LOJbGuV_8g",
+      "title": "一言演技感情当てゲーム!枢編💬🔁💙",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_LOJbGuV_8g",
       "status": "unreviewed",
       "note": null
     }

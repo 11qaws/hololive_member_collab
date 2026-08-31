@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1238,
+  "count": 1241,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13617,6 +13617,39 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kU-bq_maRI8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yqW1vrp5nEg",
+      "title": "【3Dコラボ】笑ったら負け! #ダジャレASMRバトル2 開幕!【ホロライブ / AZKi / 白上フブキ / 大神ミオ / 一条莉々華 / 綺々羅々ヴィヴィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yqW1vrp5nEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tg5gP62IGYY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_LOJbGuV_8g",
+      "title": "一言演技感情当てゲーム!枢編💬🔁💙",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_LOJbGuV_8g",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2459,
+  "count": 2463,
   "entries": [
+    {
+      "video_id": "rBB95cNpEp4",
+      "title": "【UNARCHIVED KARAOKE】Casual sing sing",
+      "published_at": "20260830",
+      "url": "https://youtu.be/rBB95cNpEp4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rBB95cNpEp4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "SgwdAVVR7Fo",
       "title": "hololive Puyo Puyo Tetris 2 Tournament ",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/tg5gP62IGYY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tg5gP62IGYY/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mnMPPEB9DcQ",
+      "title": "【Puyo Puyo Tetris 2】GETTING COACHED BY THE SUISEI SENPAI FT. FUWAMOCO  #ホロぷよテト大会",
+      "published_at": "20260829",
+      "url": "https://youtu.be/mnMPPEB9DcQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mnMPPEB9DcQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,14 +63,14 @@
       "paired_self": null
     },
     {
-      "video_id": "mnMPPEB9DcQ",
-      "title": "【Puyo Puyo Tetris 2】GETTING COACHED BY THE SUISEI SENPAI FT. FUWAMOCO #ホロぷよテト大会",
-      "published_at": "20260828",
-      "url": "https://youtu.be/mnMPPEB9DcQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mnMPPEB9DcQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
+      "video_id": "tZ_ZI_-dEDM",
+      "title": "speedrunning birthday",
+      "published_at": "20260829",
+      "url": "https://youtu.be/tZ_ZI_-dEDM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tZ_ZI_-dEDM/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },
@@ -143,6 +179,18 @@
       "thumbnail": "https://img.youtube.com/vi/7seUd8nr6-8/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U9zPYWB-PGg",
+      "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
+      "published_at": "20260826",
+      "url": "https://youtu.be/U9zPYWB-PGg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/U9zPYWB-PGg/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29487,24 +29535,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nJ-CPqxE9Q0",
-      "title": "【Armored Core 6】Activating Combat Mode! - #4",
-      "published_at": "",
-      "url": "https://youtu.be/nJ-CPqxE9Q0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "UPrSfuUGmgg",
       "title": "Biboo tank is real! #shorts #worldoftanksblitz",
       "published_at": "",
       "url": "https://youtu.be/UPrSfuUGmgg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nJ-CPqxE9Q0",
+      "title": "【Armored Core 6】Activating Combat Mode! - #4",
+      "published_at": "",
+      "url": "https://youtu.be/nJ-CPqxE9Q0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

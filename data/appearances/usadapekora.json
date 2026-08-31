@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1603,
+  "count": 1607,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17632,6 +17632,50 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kU-bq_maRI8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tg5gP62IGYY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eHHjYiRNu2o",
+      "title": "【 ぷよテト 】＃ホロぷよテト大会 カエルの神童ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eHHjYiRNu2o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_GoetFvYnx8",
+      "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_GoetFvYnx8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yqJxK9dDNy0",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月3日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200402",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yqJxK9dDNy0",
       "status": "unreviewed",
       "note": null
     }

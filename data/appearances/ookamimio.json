@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1918,
+  "count": 1921,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21097,6 +21097,39 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pD7B9Lsnqis",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yqW1vrp5nEg",
+      "title": "【3Dコラボ】笑ったら負け! #ダジャレASMRバトル2 開幕!【ホロライブ / AZKi / 白上フブキ / 大神ミオ / 一条莉々華 / 綺々羅々ヴィヴィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yqW1vrp5nEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2di61BNqMek",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2di61BNqMek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r6v7Oo3NT88",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200319",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r6v7Oo3NT88",
       "status": "unreviewed",
       "note": null
     }

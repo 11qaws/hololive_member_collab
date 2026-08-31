@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1142,
+  "count": 1144,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12561,6 +12561,28 @@
       "published_at": "20260828",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gHXgd_V7HbY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_LOJbGuV_8g",
+      "title": "一言演技感情当てゲーム!枢編💬🔁💙",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_LOJbGuV_8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_GoetFvYnx8",
+      "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_GoetFvYnx8",
       "status": "unreviewed",
       "note": null
     }

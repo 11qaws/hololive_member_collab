@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1702,
+  "count": 1704,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18721,6 +18721,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/36BSSfEkQr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fkyqGbzO9Rg",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月18日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200317",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fkyqGbzO9Rg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s5EadiiGaKw",
+      "title": "【#桐生ココ】あさココLIVEニュース!2月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200219",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s5EadiiGaKw",
       "status": "unreviewed",
       "note": null
     }

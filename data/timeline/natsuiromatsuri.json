@@ -1,10 +1,10 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3861,
+  "count": 3863,
   "entries": [
     {
       "video_id": "pD7B9Lsnqis",
-      "title": "【 Moo Who? 】ホロライブの声真似担当！行けますッ！！【ホロライブ/夏色まつり】",
+      "title": "【 Moo Who? 】ホロライブの声真似担当!行けますッ!!【ホロライブ/夏色まつり】",
       "published_at": "20260828",
       "url": "https://youtu.be/pD7B9Lsnqis",
       "entry_type": "stream",
@@ -37299,6 +37299,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Fk39HmNqi4c",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月30日【#ココここ】",
+      "published_at": "20200329",
+      "url": "https://youtu.be/Fk39HmNqi4c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Fk39HmNqi4c/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "oEoooYdrCI4",
       "title": "【あつ森】視聴者の島にいったらやばすぎたｗｗｗ#1【ホロライブ/夏色まつり】",
       "published_at": "20200328",
@@ -37355,6 +37367,18 @@
       "thumbnail": "https://img.youtube.com/vi/viwinZyHtDs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6Z_O6ixXD_M",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月27日【#ココここ】",
+      "published_at": "20200326",
+      "url": "https://youtu.be/6Z_O6ixXD_M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6Z_O6ixXD_M/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
       "sub_entries": [],
       "paired_self": null
     },

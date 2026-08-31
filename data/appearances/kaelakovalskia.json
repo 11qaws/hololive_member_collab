@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1059,
+  "count": 1060,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -11648,6 +11648,17 @@
       "published_at": "20260821",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/waPjpIg29J4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K0-K-bbz4JE",
+      "title": "【POKÉMON LEAF GREEN】Our Pokemon have shared health insurance...【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K0-K-bbz4JE",
       "status": "unreviewed",
       "note": null
     }

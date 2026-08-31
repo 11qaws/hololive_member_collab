@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1200,
+  "count": 1202,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13199,6 +13199,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2jTo_K_tU6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z4KDZOSA_P0",
+      "title": "【#ReGLOSSとラジオ体操】今日が最後のラジオ体操の時間!31日目",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z4KDZOSA_P0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tg5gP62IGYY",
+      "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tg5gP62IGYY",
       "status": "unreviewed",
       "note": null
     }

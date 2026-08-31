@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3358,
+  "count": 3363,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36937,6 +36937,61 @@
       "published_at": "20210404",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dm6ktkSJmCY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yqW1vrp5nEg",
+      "title": "【3Dコラボ】笑ったら負け! #ダジャレASMRバトル2 開幕!【ホロライブ / AZKi / 白上フブキ / 大神ミオ / 一条莉々華 / 綺々羅々ヴィヴィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yqW1vrp5nEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g9O_ctXThLE",
+      "title": "【白猫プロジェクト】ゲマズが実装された!ホロとコラボ!?いっぱい遊ぼう!【白上フブキ/大神ミオ/ホロライブ】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g9O_ctXThLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2di61BNqMek",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月20日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200419",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2di61BNqMek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Omm_z4XW_gY",
+      "title": "【#桐生ココ】あさココLIVEニュース!4月7日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200406",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Omm_z4XW_gY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "siU1f4LB2yU",
+      "title": "【#桐生ココ】あさココLIVEニュース!3月24日【#ココここ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200323",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/siU1f4LB2yU",
       "status": "unreviewed",
       "note": null
     }

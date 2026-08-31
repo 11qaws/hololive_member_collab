@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1379,
+  "count": 1381,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15168,6 +15168,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IMAGjtM1R5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yqW1vrp5nEg",
+      "title": "【3Dコラボ】笑ったら負け! #ダジャレASMRバトル2 開幕!【ホロライブ / AZKi / 白上フブキ / 大神ミオ / 一条莉々華 / 綺々羅々ヴィヴィ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yqW1vrp5nEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U9zPYWB-PGg",
+      "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260826",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U9zPYWB-PGg",
       "status": "unreviewed",
       "note": null
     }
