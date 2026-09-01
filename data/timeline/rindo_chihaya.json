@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2077,
+  "count": 2079,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,14 +15,38 @@
       "paired_self": null
     },
     {
+      "video_id": "-kdtvckeC5c",
+      "title": "【メンバー限定/VRC】お散歩しよう~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/-kdtvckeC5c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-kdtvckeC5c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "EYTGVvCzlr0",
-      "title": "【ぷよぷよテトリス2】大会終わったけど!まだやりたいです!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "title": "【ぷよぷよテトリス2】大会終わったけど！まだやりたいです！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "20260831",
       "url": "https://youtu.be/EYTGVvCzlr0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/EYTGVvCzlr0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WsmWypW4d8Q",
+      "title": "甘えん坊はだ〜れだ!",
+      "published_at": "20260831",
+      "url": "https://youtu.be/WsmWypW4d8Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WsmWypW4d8Q/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -24903,24 +24927,24 @@
       "paired_self": null
     },
     {
-      "video_id": "rJYGFNy7FeQ",
-      "title": "【 縦型歌枠/KARAOKE】　縦ってこれであってますか・・？【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "",
-      "url": "https://youtu.be/rJYGFNy7FeQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/rJYGFNy7FeQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cT_DiN-FZ2U",
       "title": "【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "",
       "url": "https://youtu.be/cT_DiN-FZ2U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cT_DiN-FZ2U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rJYGFNy7FeQ",
+      "title": "【 縦型歌枠/KARAOKE】　縦ってこれであってますか・・？【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "",
+      "url": "https://youtu.be/rJYGFNy7FeQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rJYGFNy7FeQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

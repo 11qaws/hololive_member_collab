@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2151,
+  "count": 2153,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WPqr1L1HFq8",
+      "title": "【 Super Bunny Man 】奏先輩とスーパーバニーマン！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #音乃瀬奏 】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/WPqr1L1HFq8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WPqr1L1HFq8/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Deji3kJWCvc",
+      "title": "【メンバー限定】もぐもぐりりなでなつまつりおまけ【#りりなで夏祭り】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/Deji3kJWCvc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Deji3kJWCvc/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive DEV_IS ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

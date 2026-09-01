@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1110,
+  "count": 1113,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12209,6 +12209,39 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_LOJbGuV_8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKwG394cdxk",
+      "title": "【実は……!】今までの壁にもいたのかも!? #hololive #ホロライブ #響咲リオナ #ショート動画祭は本日まで",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKwG394cdxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WsmWypW4d8Q",
+      "title": "甘えん坊はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WsmWypW4d8Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hDsgtZw86dk",
+      "title": "何度夢をくぐったらきみに会えるの #hololive #shorts #兎田ぺこら",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hDsgtZw86dk",
       "status": "unreviewed",
       "note": null
     }

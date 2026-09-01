@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 836,
+  "count": 838,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9195,6 +9195,28 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_LOJbGuV_8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WsmWypW4d8Q",
+      "title": "甘えん坊はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WsmWypW4d8Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C6nAqpG3cSk",
+      "title": "ホロマスコットバトル予告",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C6nAqpG3cSk",
       "status": "unreviewed",
       "note": null
     }

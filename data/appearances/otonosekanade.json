@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1158,
+  "count": 1160,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -12737,6 +12737,28 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IMAGjtM1R5g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WPqr1L1HFq8",
+      "title": "【 Super Bunny Man 】奏先輩とスーパーバニーマン！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #音乃瀬奏 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WPqr1L1HFq8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Deji3kJWCvc",
+      "title": "【メンバー限定】もぐもぐりりなでなつまつりおまけ【#りりなで夏祭り】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Deji3kJWCvc",
       "status": "unreviewed",
       "note": null
     }

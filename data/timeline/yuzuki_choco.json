@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 3022,
+  "count": 3024,
   "entries": [
+    {
+      "video_id": "0-IQ4HgArys",
+      "title": "世界は恋に落ちている踊ってみた #shorts #vtuber #オリジナル振り付け #ホロライブ #踊ってみた #hololive",
+      "published_at": "20260831",
+      "url": "https://youtu.be/0-IQ4HgArys",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0-IQ4HgArys/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "YuLBzRwEuZo",
       "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
@@ -83,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/GvDBWoqDcIc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/YAHEq-IUg3E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YAHEq-IUg3E/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -6603,24 +6627,24 @@
       "paired_self": null
     },
     {
-      "video_id": "AZo4NIQeuGU",
-      "title": "Got Cheat",
-      "published_at": "20240904",
-      "url": "https://youtu.be/AZo4NIQeuGU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "IPZwmgO_F1Y",
       "title": "NoDistance",
       "published_at": "20240904",
       "url": "https://youtu.be/IPZwmgO_F1Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AZo4NIQeuGU",
+      "title": "Got Cheat",
+      "published_at": "20240904",
+      "url": "https://youtu.be/AZo4NIQeuGU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -36243,24 +36267,24 @@
       "paired_self": null
     },
     {
-      "video_id": "hTzLA7c04JM",
-      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/hTzLA7c04JM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zd6Fl-wZVHk",
       "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/Zd6Fl-wZVHk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hTzLA7c04JM",
+      "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/hTzLA7c04JM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1117,
+  "count": 1118,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12286,6 +12286,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U9zPYWB-PGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u_5N6RS4Ifg",
+      "title": "【Windrose】Grind in my free time【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u_5N6RS4Ifg",
       "status": "unreviewed",
       "note": null
     }

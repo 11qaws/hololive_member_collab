@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1396,
+  "count": 1397,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15355,6 +15355,17 @@
       "published_at": "20200326",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6Z_O6ixXD_M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YAHEq-IUg3E",
       "status": "unreviewed",
       "note": null
     }

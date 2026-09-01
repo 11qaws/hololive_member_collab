@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1007,
+  "count": 1008,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11076,6 +11076,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HyarGt0VsLY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C6nAqpG3cSk",
+      "title": "ホロマスコットバトル予告",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C6nAqpG3cSk",
       "status": "unreviewed",
       "note": null
     }

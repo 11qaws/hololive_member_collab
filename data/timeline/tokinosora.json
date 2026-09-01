@@ -1,11 +1,11 @@
 {
   "target": "tokinosora",
-  "count": 3156,
+  "count": 3158,
   "entries": [
     {
       "video_id": "PxlEm_nUBho",
       "title": "ときのそら「キラメキMODE!feat. 響咲リオナ」Prod.TeddyLoid【Official Music Video】",
-      "published_at": "20260830",
+      "published_at": "20260831",
       "url": "https://youtu.be/PxlEm_nUBho",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/PxlEm_nUBho/mqdefault.jpg",
@@ -39,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "C6nAqpG3cSk",
+      "title": "ホロマスコットバトル予告",
+      "published_at": "20260829",
+      "url": "https://youtu.be/C6nAqpG3cSk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/C6nAqpG3cSk/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "vCujoDbc7F4",
       "title": "【重大告知】NEW EP「CHECK!」リリース決定!!【ホロライブ/ときのそら】",
       "published_at": "20260827",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/vCujoDbc7F4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "published_at": "20260827",
+      "url": "https://youtu.be/YAHEq-IUg3E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YAHEq-IUg3E/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -30879,18 +30903,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Bqj5DsHNJpE",
-      "title": "空祭り",
-      "published_at": "20201020",
-      "url": "https://youtu.be/Bqj5DsHNJpE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Bqj5DsHNJpE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Mxysqo6Tbks",
       "title": "マイオドレ!舞舞タイム",
       "published_at": "20201020",
@@ -30903,36 +30915,24 @@
       "paired_self": null
     },
     {
+      "video_id": "Bqj5DsHNJpE",
+      "title": "空祭り",
+      "published_at": "20201020",
+      "url": "https://youtu.be/Bqj5DsHNJpE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Bqj5DsHNJpE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "G5Y4lDRHDrc",
       "title": "ブルーベリームーン",
       "published_at": "20201020",
       "url": "https://youtu.be/G5Y4lDRHDrc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/G5Y4lDRHDrc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "DoecM99tPxw",
-      "title": "リア/リモシンパサイザー",
-      "published_at": "20201020",
-      "url": "https://youtu.be/DoecM99tPxw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/DoecM99tPxw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "A3173J48AbA",
-      "title": "Step and Go!!",
-      "published_at": "20201020",
-      "url": "https://youtu.be/A3173J48AbA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/A3173J48AbA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30957,6 +30957,30 @@
       "url": "https://youtu.be/JC_FYkbUbAE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JC_FYkbUbAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A3173J48AbA",
+      "title": "Step and Go!!",
+      "published_at": "20201020",
+      "url": "https://youtu.be/A3173J48AbA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A3173J48AbA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DoecM99tPxw",
+      "title": "リア/リモシンパサイザー",
+      "published_at": "20201020",
+      "url": "https://youtu.be/DoecM99tPxw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DoecM99tPxw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32967,18 +32991,6 @@
       "paired_self": null
     },
     {
-      "video_id": "uhdsIrVpCHg",
-      "title": "ゆっくり走れば風は吹く",
-      "published_at": "20200303",
-      "url": "https://youtu.be/uhdsIrVpCHg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/uhdsIrVpCHg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9BTqE6r4-N8",
       "title": "サヨナラブロッサム",
       "published_at": "20200303",
@@ -32991,12 +33003,12 @@
       "paired_self": null
     },
     {
-      "video_id": "irPvyFjTZyA",
-      "title": "Equation of Love",
+      "video_id": "uhdsIrVpCHg",
+      "title": "ゆっくり走れば風は吹く",
       "published_at": "20200303",
-      "url": "https://youtu.be/irPvyFjTZyA",
+      "url": "https://youtu.be/uhdsIrVpCHg",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/uhdsIrVpCHg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -33009,6 +33021,18 @@
       "url": "https://youtu.be/dCkYVk-adow",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dCkYVk-adow/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "irPvyFjTZyA",
+      "title": "Equation of Love",
+      "published_at": "20200303",
+      "url": "https://youtu.be/irPvyFjTZyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/irPvyFjTZyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -34563,24 +34587,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ENcxaslU0ws",
-      "title": "好き、泣いちゃいそうだ",
-      "published_at": "20190425",
-      "url": "https://youtu.be/ENcxaslU0ws",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ENcxaslU0ws/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "ctkmeD0BfNs",
       "title": "未練レコード",
       "published_at": "20190425",
       "url": "https://youtu.be/ctkmeD0BfNs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ctkmeD0BfNs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ENcxaslU0ws",
+      "title": "好き、泣いちゃいそうだ",
+      "published_at": "20190425",
+      "url": "https://youtu.be/ENcxaslU0ws",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ENcxaslU0ws/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1543,
+  "count": 1544,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16972,6 +16972,17 @@
       "published_at": "20200310",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7mYY8Iqs4mU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-IQ4HgArys",
+      "title": "世界は恋に落ちている踊ってみた #shorts #vtuber #オリジナル振り付け #ホロライブ #踊ってみた #hololive",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-IQ4HgArys",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1001,
+  "count": 1002,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11010,6 +11010,17 @@
       "published_at": "20200318",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JdxYDIpvF14",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YAHEq-IUg3E",
       "status": "unreviewed",
       "note": null
     }

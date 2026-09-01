@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1472,
+  "count": 1473,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16191,6 +16191,17 @@
       "published_at": "20200330",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rX1qGeTzPuU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EYTGVvCzlr0",
+      "title": "【ぷよぷよテトリス2】大会終わったけど！まだやりたいです！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EYTGVvCzlr0",
       "status": "unreviewed",
       "note": null
     }

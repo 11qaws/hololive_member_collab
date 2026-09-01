@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2027,
+  "count": 2029,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22296,6 +22296,28 @@
       "published_at": "20200311",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Wb7UtyEKrUo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EYTGVvCzlr0",
+      "title": "【ぷよぷよテトリス2】大会終わったけど！まだやりたいです！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EYTGVvCzlr0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d26z67psoik",
+      "title": "夏祭りはやっぱキラキラっしょ!?🎇#手描き切り抜き #さくらみこ #大空スバル",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d26z67psoik",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1202,
+  "count": 1203,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13221,6 +13221,17 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tg5gP62IGYY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C6nAqpG3cSk",
+      "title": "ホロマスコットバトル予告",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C6nAqpG3cSk",
       "status": "unreviewed",
       "note": null
     }

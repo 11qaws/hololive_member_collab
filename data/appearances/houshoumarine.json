@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1684,
+  "count": 1686,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18523,6 +18523,28 @@
       "published_at": "20200223",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZE-j0-3YJX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sInzemf-tX0",
+      "title": "【3D LIVE 】モニタリング【宝鐘マリン×綺々羅々ヴィヴィ】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sInzemf-tX0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SXV7h2XVGoU",
+      "title": "話題のモニタリング撮影裏側🫣💖【#ヴィヴィ生誕祭2026】#vtuber #ホロライブ#dance #shorts #宝鐘マリン",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SXV7h2XVGoU",
       "status": "unreviewed",
       "note": null
     }

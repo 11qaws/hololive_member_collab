@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1241,
+  "count": 1243,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13650,6 +13650,28 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_LOJbGuV_8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WsmWypW4d8Q",
+      "title": "甘えん坊はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WsmWypW4d8Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YAHEq-IUg3E",
       "status": "unreviewed",
       "note": null
     }

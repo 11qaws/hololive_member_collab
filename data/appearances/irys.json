@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1117,
+  "count": 1119,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12286,6 +12286,28 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HZOSaPAIWYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TmRLBcTjZnk",
+      "title": "Here Comes the CHADCast (Instrumental)",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TmRLBcTjZnk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MjCwAyjBQaw",
+      "title": "Here Comes the CHADCast",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MjCwAyjBQaw",
       "status": "unreviewed",
       "note": null
     }

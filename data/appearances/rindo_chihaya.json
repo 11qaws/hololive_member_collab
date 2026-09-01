@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1288,
+  "count": 1289,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14167,6 +14167,17 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_LOJbGuV_8g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WsmWypW4d8Q",
+      "title": "甘えん坊はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WsmWypW4d8Q",
       "status": "unreviewed",
       "note": null
     }

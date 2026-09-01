@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1483,
+  "count": 1484,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16312,6 +16312,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tZ_ZI_-dEDM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GMJrWJCbzyI",
+      "title": "≪SPAGHET≫ I hate you @KosekiBijou",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GMJrWJCbzyI",
       "status": "unreviewed",
       "note": null
     }

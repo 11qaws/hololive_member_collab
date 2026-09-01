@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3363,
+  "count": 3364,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -36992,6 +36992,17 @@
       "published_at": "20200323",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/siU1f4LB2yU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d26z67psoik",
+      "title": "夏祭りはやっぱキラキラっしょ!?🎇#手描き切り抜き #さくらみこ #大空スバル",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d26z67psoik",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "ookamimio",
-  "count": 4070,
+  "count": 4071,
   "entries": [
+    {
+      "video_id": "UnbcKi0uNb0",
+      "title": "【がんばる!ぽミオちゃん!】『いろんな顔の練習』 #ぽミオちゃん #大神ミオ",
+      "published_at": "20260831",
+      "url": "https://youtu.be/UnbcKi0uNb0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UnbcKi0uNb0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "_e7u802STXw",
       "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！8月ラスト！",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/_e7u802STXw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_e7u802STXw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9RuLHZeOs18",
+      "title": "【 #ホロ甲2026 】群馬県わおーん高校、夏の県大会3回戦から!【 ホロライブ / 大神ミオ 】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/9RuLHZeOs18",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9RuLHZeOs18/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -28,23 +52,11 @@
     },
     {
       "video_id": "g9O_ctXThLE",
-      "title": "【白猫プロジェクト】ゲマズが実装された!ホロとコラボ!?いっぱい遊ぼう!【白上フブキ/大神ミオ/ホロライブ】",
+      "title": "【白猫プロジェクト】ゲマズが実装された！ホロとコラボ！？いっぱい遊ぼう！【白上フブキ/大神ミオ/ホロライブ】",
       "published_at": "20260829",
       "url": "https://youtu.be/g9O_ctXThLE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/g9O_ctXThLE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "9RuLHZeOs18",
-      "title": "【 #ホロ甲2026 】群馬県わおーん高校、夏の県大会3回戦から！【 ホロライブ / 大神ミオ 】",
-      "published_at": "20260829",
-      "url": "https://youtu.be/9RuLHZeOs18",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9RuLHZeOs18/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -7155,24 +7167,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Pb99o_S6ZmE",
-      "title": "小心旅行",
-      "published_at": "20250819",
-      "url": "https://youtu.be/Pb99o_S6ZmE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Pb99o_S6ZmE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "SBLh1Z6XuCQ",
       "title": "Colorful Universe",
       "published_at": "20250819",
       "url": "https://youtu.be/SBLh1Z6XuCQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SBLh1Z6XuCQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Pb99o_S6ZmE",
+      "title": "小心旅行",
+      "published_at": "20250819",
+      "url": "https://youtu.be/Pb99o_S6ZmE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Pb99o_S6ZmE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

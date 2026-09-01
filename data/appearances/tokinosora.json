@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 827,
+  "count": 829,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9096,6 +9096,28 @@
       "published_at": "20200305",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v_gjU8RYt4g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C6nAqpG3cSk",
+      "title": "ホロマスコットバトル予告",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C6nAqpG3cSk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YAHEq-IUg3E",
+      "title": "【DXプラン限定】公式番組 アフタートーク! #38 【#ホロ絵描き歌】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260827",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YAHEq-IUg3E",
       "status": "unreviewed",
       "note": null
     }
