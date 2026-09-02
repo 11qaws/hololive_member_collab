@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1704,
+  "count": 1705,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18743,6 +18743,17 @@
       "published_at": "20200219",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/s5EadiiGaKw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XpkyOtApm9s",
+      "title": "【 Big Walk 】みんなで広大な世界を探索するぞ~!迷子注意!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XpkyOtApm9s",
       "status": "unreviewed",
       "note": null
     }

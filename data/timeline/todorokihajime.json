@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2350,
+  "count": 2352,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "O_Ao660Npww",
+      "title": "【ほの暮しの庭】#07 ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/O_Ao660Npww",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/O_Ao660Npww/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "W8xA-3b8JF4",
+      "title": "【アソビ大全】ルーナ先輩と初タイマン【轟はじめ/姫森ルーナ】#呼び出しばんちょー",
+      "published_at": "20260901",
+      "url": "https://youtu.be/W8xA-3b8JF4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/W8xA-3b8JF4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

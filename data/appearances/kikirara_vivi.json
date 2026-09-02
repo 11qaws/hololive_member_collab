@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1243,
+  "count": 1246,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13672,6 +13672,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YAHEq-IUg3E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r2-PmdwsgCI",
+      "title": "JSP (on Vivi's ch.)",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r2-PmdwsgCI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0QUJRh2y9Pc",
+      "title": "【How to Fish】話題のバカ釣りゲーをcoopで遊ぶぞい!【獅白ぼたん・兎田ぺこら・綺々羅々ヴィヴィ/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0QUJRh2y9Pc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "78Z6l559b5w",
+      "title": "【How to Fish】2日で100万本売れたバズってるおバカ釣りゲーやる！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/78Z6l559b5w",
       "status": "unreviewed",
       "note": null
     }

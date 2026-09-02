@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 971,
+  "count": 972,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10680,6 +10680,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U9zPYWB-PGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m427ixAg_uy",
+      "title": "GreyScaleX Completely Platonic Outing + Announcement!",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m427ixAg_uy",
       "status": "unreviewed",
       "note": null
     }

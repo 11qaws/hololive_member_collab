@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1145,
+  "count": 1146,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12594,6 +12594,17 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WsmWypW4d8Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKwG394cdxk",
+      "title": "【実は……!】今までの壁にもいたのかも!? #hololive #ホロライブ #響咲リオナ #ショート動画祭は本日まで",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKwG394cdxk",
       "status": "unreviewed",
       "note": null
     }

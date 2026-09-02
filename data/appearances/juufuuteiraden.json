@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 883,
+  "count": 885,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9712,6 +9712,28 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z4KDZOSA_P0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FOeakXr7j_A",
+      "title": "【 #ニコらでん 】サウナロケに?!JFTを連れ出した!【虎金妃笑虎/儒烏風亭らでん】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FOeakXr7j_A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "56StL73OA6U",
+      "title": "@JuufuuteiRaden ←お酒を渡すな‼︎ #虎のいる生活",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/56StL73OA6U",
       "status": "unreviewed",
       "note": null
     }

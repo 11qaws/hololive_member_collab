@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 732,
+  "count": 733,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8051,6 +8051,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U9zPYWB-PGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XUnKfpL-OuA",
+      "title": "【オノマトペクイズ】ホロ海外勢はどこまでオノマトペ理解できる!?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XUnKfpL-OuA",
       "status": "unreviewed",
       "note": null
     }

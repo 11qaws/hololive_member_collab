@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1763,
+  "count": 1764,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -19392,6 +19392,17 @@
       "published_at": "20200216",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/A95H2M4MbGo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eB0PymDR87Y",
+      "title": "【 Big Walk 】とにかく歩いてみんなで大冒険だああ💥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eB0PymDR87Y",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,31 @@
 {
   "target": "robocosan",
-  "count": 4125,
+  "count": 4126,
   "entries": [
+    {
+      "video_id": "h6W0z71Ce3w",
+      "title": "【オフコラボ】ろぼみおーんでお昼に健康ごはん✨みおしゃたべて～～💕　【ホロライブ/ロボ子さん】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/h6W0z71Ce3w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/h6W0z71Ce3w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "u9blvdasFBA",
+      "title": "【ポケコロユニバース】自由度の高いアバターでパーティーしちゃおう!【ロボ子さん/ホロライブ】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/u9blvdasFBA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/u9blvdasFBA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "_GoetFvYnx8",
       "title": "【アニメ】朝顔育成と絵日記と自由研究、24時間で全部やる",
@@ -11,18 +35,6 @@
       "thumbnail": "https://img.youtube.com/vi/_GoetFvYnx8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "u9blvdasFBA",
-      "title": "【ポケコロユニバース】自由度の高いアバターでパーティーしちゃおう！【ロボ子さん/ホロライブ】",
-      "published_at": "20260829",
-      "url": "https://youtu.be/u9blvdasFBA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/u9blvdasFBA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

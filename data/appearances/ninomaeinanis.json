@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1076,
+  "count": 1077,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11835,6 +11835,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U9zPYWB-PGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "91jQ1ktFtSI",
+      "title": "にわとりになっちゃった‥⁉️🐓 #shorts #short",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/91jQ1ktFtSI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1059,
+  "count": 1061,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11648,6 +11648,28 @@
       "published_at": "20200213",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0uwXV_ntcgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W8xA-3b8JF4",
+      "title": "【アソビ大全】ルーナ先輩と初タイマン【轟はじめ/姫森ルーナ】#呼び出しばんちょー",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W8xA-3b8JF4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKwG394cdxk",
+      "title": "【実は……!】今までの壁にもいたのかも!? #hololive #ホロライブ #響咲リオナ #ショート動画祭は本日まで",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKwG394cdxk",
       "status": "unreviewed",
       "note": null
     }

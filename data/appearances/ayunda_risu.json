@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1040,
+  "count": 1042,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11439,6 +11439,28 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U9zPYWB-PGg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vws8V8J8UW4",
+      "title": "Perkara nama kapal #windrose #hololive",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vws8V8J8UW4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKwG394cdxk",
+      "title": "【実は……!】今までの壁にもいたのかも!? #hololive #ホロライブ #響咲リオナ #ショート動画祭は本日まで",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKwG394cdxk",
       "status": "unreviewed",
       "note": null
     }

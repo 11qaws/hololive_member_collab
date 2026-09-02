@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1662,
+  "count": 1663,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XUnKfpL-OuA",
+      "title": "【オノマトペクイズ】ホロ海外勢はどこまでオノマトペ理解できる!?【ホロライブ/夏色まつり】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/XUnKfpL-OuA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/XUnKfpL-OuA/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },

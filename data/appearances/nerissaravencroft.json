@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1084,
+  "count": 1085,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -11923,6 +11923,17 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iAcpLTG4FrE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N5CW6lmWho4",
+      "title": "【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N5CW6lmWho4",
       "status": "unreviewed",
       "note": null
     }

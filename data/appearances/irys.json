@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1119,
+  "count": 1120,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12308,6 +12308,17 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MjCwAyjBQaw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N5CW6lmWho4",
+      "title": "【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive-EN",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N5CW6lmWho4",
       "status": "unreviewed",
       "note": null
     }

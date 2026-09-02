@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1921,
+  "count": 1924,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21130,6 +21130,39 @@
       "published_at": "20200319",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r6v7Oo3NT88",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eB0PymDR87Y",
+      "title": "【 Big Walk 】とにかく歩いてみんなで大冒険だああ💥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eB0PymDR87Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XpkyOtApm9s",
+      "title": "【 Big Walk 】みんなで広大な世界を探索するぞ~!迷子注意!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XpkyOtApm9s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "h6W0z71Ce3w",
+      "title": "【オフコラボ】ろぼみおーんでお昼に健康ごはん✨みおしゃたべて~~💕 【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/h6W0z71Ce3w",
       "status": "unreviewed",
       "note": null
     }

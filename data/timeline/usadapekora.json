@@ -1,7 +1,43 @@
 {
   "target": "usadapekora",
-  "count": 4643,
+  "count": 4646,
   "entries": [
+    {
+      "video_id": "78Z6l559b5w",
+      "title": "【How to Fish】2日で100万本売れたバズってるおバカ釣りゲーやる！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/78Z6l559b5w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/78Z6l559b5w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G-Yy9ge3CO8",
+      "title": "【 How to Fish 】ぺこら先輩ぼたん先輩とおバカ釣りゲーム!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/G-Yy9ge3CO8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/G-Yy9ge3CO8/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0QUJRh2y9Pc",
+      "title": "【How to Fish】話題のバカ釣りゲーをcoopで遊ぶぞい!【獅白ぼたん・兎田ぺこら・綺々羅々ヴィヴィ/ホロライブ】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/0QUJRh2y9Pc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0QUJRh2y9Pc/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "YHcNw_8G6Ps",
       "title": "【つぐのひ】『左に進むだけ』なのに面白いホラゲー in 夏の終わり ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
@@ -39,6 +75,18 @@
       "paired_self": null
     },
     {
+      "video_id": "36BSSfEkQr4",
+      "title": "【#ホロぷよテト大会】ホロライブぷよテト大会2026!!!!!!!!!!!!!!【ぷよテト2】",
+      "published_at": "20260830",
+      "url": "https://youtu.be/36BSSfEkQr4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "tg5gP62IGYY",
       "title": "【 #ホロぷよテト大会 】本番いっくよ～～～！【アキロゼ/ホロライブ】",
       "published_at": "20260830",
@@ -71,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/_GoetFvYnx8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "36BSSfEkQr4",
-      "title": "【＃ホロぷよテト大会】ホロライブぷよテト大会2026！！！！！！！！！！！！！！【ぷよテト2】",
-      "published_at": "20260829",
-      "url": "https://youtu.be/36BSSfEkQr4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/36BSSfEkQr4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -55695,24 +55731,24 @@
       "paired_self": null
     },
     {
-      "video_id": "vGB9ansRy_E",
-      "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published_at": "",
-      "url": "https://youtu.be/vGB9ansRy_E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "ysnmwuuCJvs",
       "title": "【重大発表】重大告知！たくさん！する！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "",
       "url": "https://youtu.be/ysnmwuuCJvs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ysnmwuuCJvs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vGB9ansRy_E",
+      "title": "【＃兎田ぺこらがやってみた】200万人企画で色々やってきました！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published_at": "",
+      "url": "https://youtu.be/vGB9ansRy_E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vGB9ansRy_E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
