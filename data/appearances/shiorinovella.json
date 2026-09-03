@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 974,
+  "count": 975,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10713,6 +10713,17 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iAcpLTG4FrE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1wkSs2_-bss",
+      "title": "holoEN Collab! Nerissa POV~ P.2 | BIG WALK",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1wkSs2_-bss",
       "status": "unreviewed",
       "note": null
     }

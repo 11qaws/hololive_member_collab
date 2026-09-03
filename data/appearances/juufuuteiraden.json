@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 885,
+  "count": 888,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9734,6 +9734,39 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/56StL73OA6U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KBwvjX4Ml2s",
+      "title": "#ニコらでん サウナ秘境旅！【湖に飛び込める？！】",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KBwvjX4Ml2s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ldjIooOAY10",
+      "title": "9月のメンシカレンダー撮影の裏側をチラ見せ👀 テーマは芸術🎨 メンバーシップに入ってカレンダーをゲットしよう！ #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ldjIooOAY10",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ddrHFfLaM9I",
+      "title": "【メンバー限定】カレンダー撮影の様子を公開! 9月編🎨",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ddrHFfLaM9I",
       "status": "unreviewed",
       "note": null
     }

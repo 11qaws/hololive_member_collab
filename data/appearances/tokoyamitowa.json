@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1588,
+  "count": 1593,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17467,6 +17467,61 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c_O70kYZOTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BSdje6T2AWA",
+      "title": "【BigWalk】みんなとドタバタ大冒険いくにぇえええええ‼️【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BSdje6T2AWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LHmxDNYPDe8",
+      "title": "【#生スバル】謎解き＆冒険？！big walkやるしゅばああああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LHmxDNYPDe8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8el7kOW8qp0",
+      "title": "【Big Walk】みんなでワイワイ協力しようね～～～～【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8el7kOW8qp0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "By327M3K0zU",
+      "title": "【Big Walk】ホロメン達と…。この道を往けばなんとやら…。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/By327M3K0zU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J16c-KJM5lg",
+      "title": "イェイイェイ？？ #shorts #切り抜き #7dtd",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J16c-KJM5lg",
       "status": "unreviewed",
       "note": null
     }

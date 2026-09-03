@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 839,
+  "count": 841,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9228,6 +9228,28 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Rv_KsTvNOi8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9eOxA0i09EA",
+      "title": "【 #喫茶barにこらでん 】リアル凸待ち!器とコーヒーとお酒のお店、オープン!【儒烏風亭らでん/虎金妃笑虎】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9eOxA0i09EA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rkjNT5MpTSA",
+      "title": "身体が柔らかい人はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rkjNT5MpTSA",
       "status": "unreviewed",
       "note": null
     }

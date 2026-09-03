@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 908,
+  "count": 909,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -9987,6 +9987,17 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XUnKfpL-OuA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BpbWjKaxTOc",
+      "title": "SEND THIS TO A SAD FRIEND #fyp #friendship",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BpbWjKaxTOc",
       "status": "unreviewed",
       "note": null
     }

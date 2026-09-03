@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1205,
+  "count": 1206,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13254,6 +13254,17 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XUnKfpL-OuA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j_y0fRF-1MJ",
+      "title": "SPAGHET w/ bae",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j_y0fRF-1MJ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1146,
+  "count": 1148,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12605,6 +12605,28 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IKwG394cdxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dJLYRQ-6UyM",
+      "title": "【 3Dコラボ 】日本事故物件監視協会3 ！すうヴィヴィホラー！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #水宮枢 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dJLYRQ-6UyM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rkjNT5MpTSA",
+      "title": "身体が柔らかい人はだ〜れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rkjNT5MpTSA",
       "status": "unreviewed",
       "note": null
     }

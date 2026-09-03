@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3850,
+  "count": 3851,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EmteTL5Ij8g",
+      "title": "#10【ほの暮しの庭】ストーリーは最終回へ【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20260902",
+      "url": "https://youtu.be/EmteTL5Ij8g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EmteTL5Ij8g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16911,24 +16923,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7GGs25SYP2I",
-      "title": "Smile & Go!!",
-      "published_at": "20230922",
-      "url": "https://youtu.be/7GGs25SYP2I",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7GGs25SYP2I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "s8p1BvX8278",
       "title": "大還元祭!夢のフレアチャンネル!",
       "published_at": "20230922",
       "url": "https://youtu.be/s8p1BvX8278",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/s8p1BvX8278/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7GGs25SYP2I",
+      "title": "Smile & Go!!",
+      "published_at": "20230922",
+      "url": "https://youtu.be/7GGs25SYP2I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7GGs25SYP2I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1008,
+  "count": 1009,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11087,6 +11087,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C6nAqpG3cSk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wsSt8S9wRl4",
+      "title": "【holoX】夏なので丸裸！？ですか！？いいんですか！？【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wsSt8S9wRl4",
       "status": "unreviewed",
       "note": null
     }

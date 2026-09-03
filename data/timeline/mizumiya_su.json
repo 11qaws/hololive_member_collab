@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2262,
+  "count": 2265,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,44 @@
       "paired_self": null
     },
     {
+      "video_id": "zi5TpjABi8I",
+      "title": "オドロウゼ！／踊ってみた #vtuber #dance #hololive",
+      "published_at": "20260902",
+      "url": "https://youtu.be/zi5TpjABi8I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zi5TpjABi8I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dJLYRQ-6UyM",
+      "title": "【 3Dコラボ 】日本事故物件監視協会3 ！すうヴィヴィホラー！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #水宮枢 】",
+      "published_at": "20260902",
+      "url": "https://youtu.be/dJLYRQ-6UyM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dJLYRQ-6UyM/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rkjNT5MpTSA",
+      "title": "身体が柔らかい人はだ〜れだ!",
+      "published_at": "20260902",
+      "url": "https://youtu.be/rkjNT5MpTSA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rkjNT5MpTSA/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "tWEH-ekOn5U",
-      "title": "【同時視聴】ドラゴンボールZ復活のF 完全初見!【水宮枢/ホロライブDEV_IS】",
+      "title": "【同時視聴】ドラゴンボールＺ復活のF 完全初見！【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260901",
       "url": "https://youtu.be/tWEH-ekOn5U",
       "entry_type": "stream",
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "0omItUyhWM0",
-      "title": "【ASMR】前半お試し有🩵甘々メン限【水宮枢/ホロライブDEV_IS】",
+      "title": "【ASMR】前半お試し有🩵甘々メン限【水宮枢／ホロライブDEV_IS】",
       "published_at": "20260901",
       "url": "https://youtu.be/0omItUyhWM0",
       "entry_type": "stream",
@@ -57,6 +93,18 @@
       "url": "https://youtu.be/5nbJ5BAUlVA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5nbJ5BAUlVA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tJ8f7AtSAT8",
+      "title": "【ぷよテト】テトリス下手すぎる女が初ぷよぷよ【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/tJ8f7AtSAT8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tJ8f7AtSAT8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -143,18 +191,6 @@
       "thumbnail": "https://img.youtube.com/vi/_GoetFvYnx8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "tJ8f7AtSAT8",
-      "title": "【ぷよテト】テトリス下手すぎる女が初ぷよぷよ【水宮枢／ホロライブDEV_IS】",
-      "published_at": "20260829",
-      "url": "https://youtu.be/tJ8f7AtSAT8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tJ8f7AtSAT8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

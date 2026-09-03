@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3637,
+  "count": 3638,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/1izBd_B1_Ld",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i8LwMgQKC5M",
+      "title": "今日は何色か聞いちゃう聖職者 #hololive #ホロライブ #ホロぐら",
+      "published_at": "20260902",
+      "url": "https://youtu.be/i8LwMgQKC5M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i8LwMgQKC5M/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -10659,18 +10671,6 @@
       "paired_self": null
     },
     {
-      "video_id": "V6a1pbqlXVw",
-      "title": "I I I",
-      "published_at": "20241015",
-      "url": "https://youtu.be/V6a1pbqlXVw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Vgipg_bXYwg",
       "title": "スキスキDieスキ超Ayeシテル",
       "published_at": "20241015",
@@ -10689,6 +10689,18 @@
       "url": "https://youtu.be/U9X6hVgIib8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V6a1pbqlXVw",
+      "title": "I I I",
+      "published_at": "20241015",
+      "url": "https://youtu.be/V6a1pbqlXVw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

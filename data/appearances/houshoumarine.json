@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1686,
+  "count": 1687,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18545,6 +18545,17 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SXV7h2XVGoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i8LwMgQKC5M",
+      "title": "今日は何色か聞いちゃう聖職者 #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i8LwMgQKC5M",
       "status": "unreviewed",
       "note": null
     }
