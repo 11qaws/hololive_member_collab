@@ -1,7 +1,103 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3895,
+  "count": 3905,
   "entries": [
+    {
+      "video_id": "14EsWvW5U6g",
+      "title": "【 #ロゼキャンARK 】チームDのリーダーになっちゃったですけど!!?【ホロライブ/夏色まつり】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/14EsWvW5U6g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/14EsWvW5U6g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EaDL6uRQ5L0",
+      "title": "【 #ロゼキャンARK 】DAY1✨チームDで楽しく勝つぞ~~~!!!💖【博衣こより視点/ホロライブ】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/EaDL6uRQ5L0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EaDL6uRQ5L0/mqdefault.jpg",
+      "partner_handle": "hakuikoyori",
+      "partner_name": "Koyori ch. 博衣こより - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8r8PNJnze-s",
+      "title": "【 #ロゼキャンArk 】day1チームD 🦕大初心者!恐竜に触れたい【水宮枢/ホロライブDEV_IS】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/8r8PNJnze-s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8r8PNJnze-s/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uryyMzY0HpQ/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V2mrczw0E9w",
+      "title": "【 #ロゼキャンARK】恐竜さんまってろー!!!【轟はじめ】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/V2mrczw0E9w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/V2mrczw0E9w/mqdefault.jpg",
+      "partner_handle": "todorokihajime",
+      "partner_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8XKw2Mot81s",
+      "title": "【 #ロゼキャンARK 】DAY1🔥チームDいくぞー!!ARK: Survival Ascended🦖【角巻わため/ホロライブ4期生】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/8XKw2Mot81s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8XKw2Mot81s/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0WQBsRQ4hxc",
+      "title": "【#ロゼキャンARK】ARK BUT I'M DEFINITELY THE APEX PREDATOR🦕 TEAM D!【DAY 1】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/0WQBsRQ4hxc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0WQBsRQ4hxc/mqdefault.jpg",
+      "partner_handle": "holoen_raorapanthera",
+      "partner_name": "Raora Panthera Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "published_at": "20260903",
+      "url": "https://youtu.be/HVXwIlaM4R4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HVXwIlaM4R4/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "a64T9hfYs3M",
       "title": "みこち2ndライブおめでとう!\r魔法の力で踊らせてみたよ🌸",
@@ -15,8 +111,20 @@
       "paired_self": null
     },
     {
+      "video_id": "9eOxA0i09EA",
+      "title": "【 #喫茶barにこらでん 】リアル凸待ち！器とコーヒーとお酒のお店、オープン！【儒烏風亭らでん/虎金妃笑虎】",
+      "published_at": "20260902",
+      "url": "https://youtu.be/9eOxA0i09EA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9eOxA0i09EA/mqdefault.jpg",
+      "partner_handle": "juufuuteiraden",
+      "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "XUnKfpL-OuA",
-      "title": "【オノマトペクイズ】ホロ海外勢はどこまでオノマトペ理解できる！？【ホロライブ/夏色まつり】",
+      "title": "【オノマトペクイズ】ホロ海外勢はどこまでオノマトペ理解できる!?【ホロライブ/夏色まつり】",
       "published_at": "20260901",
       "url": "https://youtu.be/XUnKfpL-OuA",
       "entry_type": "stream",
@@ -95,6 +203,18 @@
       "thumbnail": "https://img.youtube.com/vi/AKwbPTbJeSM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eGu0ZIdk5PE",
+      "title": "【#hololive7thfes】ビッグニュースあり!7th fes.の推しシーンを振り返ろう!",
+      "published_at": "20260830",
+      "url": "https://youtu.be/eGu0ZIdk5PE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eGu0ZIdk5PE/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3855,24 +3975,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kFLKwEFutm4",
-      "title": "ウェディングしよっ!",
-      "published_at": "20260224",
-      "url": "https://youtu.be/kFLKwEFutm4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "imYqFvZ2PS0",
       "title": "ウーニャカ",
       "published_at": "20260224",
       "url": "https://youtu.be/imYqFvZ2PS0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kFLKwEFutm4",
+      "title": "ウェディングしよっ!",
+      "published_at": "20260224",
+      "url": "https://youtu.be/kFLKwEFutm4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

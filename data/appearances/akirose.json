@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1272,
+  "count": 1280,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -13991,6 +13991,94 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CsgSjtBzlvg",
+      "title": "【】ARK最終日【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CsgSjtBzlvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8XKw2Mot81s",
+      "title": "【 #ロゼキャンARK 】DAY1🔥チームDいくぞー!!ARK: Survival Ascended🦖【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8XKw2Mot81s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8r8PNJnze-s",
+      "title": "【 #ロゼキャンArk 】day1チームD 🦕大初心者!恐竜に触れたい【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8r8PNJnze-s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1xEfUIyl5d4",
+      "title": "【#ロゼキャンARK】DAY1🦕チームCでミッションクリアしていくぞ~!-ARK: Survival Ascended【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1xEfUIyl5d4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0WQBsRQ4hxc",
+      "title": "【#ロゼキャンARK】ARK BUT I'M DEFINITELY THE APEX PREDATOR🦕 TEAM D!【DAY 1】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0WQBsRQ4hxc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V2mrczw0E9w",
+      "title": "【 #ロゼキャンARK】恐竜さんまってろー!!!【轟はじめ】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V2mrczw0E9w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DzOFB7arRKE",
+      "title": "【 #ロゼキャンARK 】DAY1!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DzOFB7arRKE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rdrBDLbjvqM",
+      "title": "【】ARK DAY1【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rdrBDLbjvqM",
       "status": "unreviewed",
       "note": null
     }

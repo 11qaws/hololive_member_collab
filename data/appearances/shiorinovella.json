@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 975,
+  "count": 977,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10724,6 +10724,28 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1wkSs2_-bss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L4CInwI0ROs",
+      "title": "【Big Walk】Walking Once More",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L4CInwI0ROs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X20Js4wwTow",
+      "title": "【BIG WALK】I HAVEN'T WALKED PROPERLY IN 2 WEEKS",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X20Js4wwTow",
       "status": "unreviewed",
       "note": null
     }

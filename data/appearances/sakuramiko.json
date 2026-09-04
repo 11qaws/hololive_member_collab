@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2337,
+  "count": 2346,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -25706,6 +25706,105 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JhYjDEhCB5Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zjc-2opfAGM",
+      "title": "【 #ロゼキャンARK 】DAY1✨チームB~~~!!!ARK: Survival Ascended 【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zjc-2opfAGM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_T2s2vEiGuA",
+      "title": "【 #ロゼキャンARK 】ARKでチーム戦?!うちファーム班でもいいですか?【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_T2s2vEiGuA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DzOFB7arRKE",
+      "title": "【 #ロゼキャンARK 】DAY1!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DzOFB7arRKE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Az2j1NjyK9A",
+      "title": "【#ロゼキャンARK】チームB!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Az2j1NjyK9A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kwmc3Gl44IM",
+      "title": "【めっちゃカメレオン】しらけんで隠れてあそぼ！！！！！！！【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kwmc3Gl44IM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LPsCuv6-AoY",
+      "title": "【めっちゃカメレオン】ノエル視点！久々にしらけんであそぼあそぼあそぼ～！！！✨【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LPsCuv6-AoY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NhDfcqvgrSg",
+      "title": "【めっちゃカメレオン】【星街すいせい / #不知火建設 】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NhDfcqvgrSg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 995,
+  "count": 997,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10944,6 +10944,28 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eGu0ZIdk5PE",
+      "title": "【#hololive7thfes】ビッグニュースあり!7th fes.の推しシーンを振り返ろう!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eGu0ZIdk5PE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sEu1Yj-cICI",
+      "title": "A Purrfect Day with My AMEWzing Friend! 【VRChat】ft.@VestiaZeta #GreyscaleX",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sEu1Yj-cICI",
       "status": "unreviewed",
       "note": null
     }

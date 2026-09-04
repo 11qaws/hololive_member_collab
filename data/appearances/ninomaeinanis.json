@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1100,
+  "count": 1107,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12099,6 +12099,83 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "erpFTjc_Bvk",
+      "title": "【#ロゼキャンARK】TeamsC おかたづけできるもん!DAY1【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/erpFTjc_Bvk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1xEfUIyl5d4",
+      "title": "【#ロゼキャンARK】DAY1🦕チームCでミッションクリアしていくぞ~!-ARK: Survival Ascended【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1xEfUIyl5d4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pn6BLF2jERo",
+      "title": "【BIG WALK】the real prize is the journey of the big walk",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pn6BLF2jERo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XC1_gKOp-v0",
+      "title": "【#holoEN BIG WALK COLLAB】teamwork + puzzles + friendship = hiking?! 🐾 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XC1_gKOp-v0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1wkSs2_-bss",
+      "title": "holoEN Collab! Nerissa POV~ P.2 | BIG WALK",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1wkSs2_-bss",
       "status": "unreviewed",
       "note": null
     }

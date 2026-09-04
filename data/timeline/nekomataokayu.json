@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 4032,
+  "count": 4031,
   "entries": [
     {
       "video_id": "ln-ghq9nNhc",
@@ -99,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "_tZftQNFexQ",
+      "title": "【 白猫プロジェクト 】白猫プロジェクトの世界へ✨どんな冒険が僕たちを待っているんだろう..⁉️💥【 猫又おかゆ/ホロライブ 】",
+      "published_at": "20260901",
+      "url": "https://youtu.be/_tZftQNFexQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_tZftQNFexQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "XpkyOtApm9s",
       "title": "【 Big Walk 】みんなで広大な世界を探索するぞ~!迷子注意!!!【角巻わため/ホロライブ4期生】",
       "published_at": "20260901",
@@ -117,18 +129,6 @@
       "url": "https://youtu.be/SXxzqx1_izk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SXxzqx1_izk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "_tZftQNFexQ",
-      "title": "【 白猫プロジェクト 】白猫プロジェクトの世界へ✨どんな冒険が僕たちを待っているんだろう..⁉️💥【 猫又おかゆ/ホロライブ 】",
-      "published_at": "20260830",
-      "url": "https://youtu.be/_tZftQNFexQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/_tZftQNFexQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -21147,18 +21147,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Ml-e4VomFcE",
-      "title": "アイドル十ヶ条",
-      "published_at": "20240226",
-      "url": "https://youtu.be/Ml-e4VomFcE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ml-e4VomFcE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "JfmB5JnffeE",
       "title": "けーたいみしてよ / ライブ映像🍙  #vtuber  #ホロライブ #猫又おかゆ #けーたいみしてよ",
       "published_at": "20240226",
@@ -30195,24 +30183,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jQFxkLtrl3c",
-      "title": "毒杯スワロウ",
-      "published_at": "20220725",
-      "url": "https://youtu.be/jQFxkLtrl3c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oM68RFoEi1M",
       "title": "毒杯スワロウ (Instrumental)",
       "published_at": "20220725",
       "url": "https://youtu.be/oM68RFoEi1M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jQFxkLtrl3c",
+      "title": "毒杯スワロウ",
+      "published_at": "20220725",
+      "url": "https://youtu.be/jQFxkLtrl3c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

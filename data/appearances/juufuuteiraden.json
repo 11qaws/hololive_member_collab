@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 888,
+  "count": 889,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9767,6 +9767,17 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ddrHFfLaM9I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eGu0ZIdk5PE",
+      "title": "【#hololive7thfes】ビッグニュースあり!7th fes.の推しシーンを振り返ろう!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eGu0ZIdk5PE",
       "status": "unreviewed",
       "note": null
     }

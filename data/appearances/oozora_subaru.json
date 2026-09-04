@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2062,
+  "count": 2069,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22681,6 +22681,83 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0M7rGeLjKfA",
+      "title": "【 #ロゼキャンARK 】DAY1✨チーム戦!役に立ちたい!!ARK: Survival Ascended 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0M7rGeLjKfA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KeBWqwhAu2U",
+      "title": "≪#ロゼキャンARK ≫ Paradise...Day 1",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KeBWqwhAu2U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qMCvAUx9Feg",
+      "title": "【#ロゼキャンARK】DAY1 ARK: Survival Ascended【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qMCvAUx9Feg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BEGwjIAF6ik",
+      "title": "【#ロゼキャンARK 】DAY1!久々にARKだ🦕【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BEGwjIAF6ik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9eOxA0i09EA",
+      "title": "【 #喫茶barにこらでん 】リアル凸待ち！器とコーヒーとお酒のお店、オープン！【儒烏風亭らでん/虎金妃笑虎】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9eOxA0i09EA",
       "status": "unreviewed",
       "note": null
     }

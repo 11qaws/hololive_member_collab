@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1436,
+  "count": 1439,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15795,6 +15795,39 @@
       "published_at": "20260827",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fa3_OJd2sCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L4CInwI0ROs",
+      "title": "【Big Walk】Walking Once More",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L4CInwI0ROs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pn6BLF2jERo",
+      "title": "【BIG WALK】the real prize is the journey of the big walk",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pn6BLF2jERo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XC1_gKOp-v0",
+      "title": "【#holoEN BIG WALK COLLAB】teamwork + puzzles + friendship = hiking?! 🐾 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XC1_gKOp-v0",
       "status": "unreviewed",
       "note": null
     }

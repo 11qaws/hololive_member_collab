@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1357,
+  "count": 1359,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -14926,6 +14926,28 @@
       "published_at": "20200923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Kxwu8-jPFtw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vxIjBe7nz1k",
+      "title": "【#BIG3】タクシー心霊ツアーに行ってみるしゅばああああああああああああああああああああああああああ？！？【ホロライブ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vxIjBe7nz1k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9eOxA0i09EA",
+      "title": "【 #喫茶barにこらでん 】リアル凸待ち！器とコーヒーとお酒のお店、オープン！【儒烏風亭らでん/虎金妃笑虎】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9eOxA0i09EA",
       "status": "unreviewed",
       "note": null
     }

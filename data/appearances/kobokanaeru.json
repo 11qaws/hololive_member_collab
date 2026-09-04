@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 733,
+  "count": 734,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8062,6 +8062,17 @@
       "published_at": "20260901",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XUnKfpL-OuA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-4mdXGw_3Jc",
+      "title": "【An Eggstremely Hard Game】Bo..... You look guilty asf....",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-4mdXGw_3Jc",
       "status": "unreviewed",
       "note": null
     }

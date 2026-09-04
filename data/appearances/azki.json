@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1055,
+  "count": 1062,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11604,6 +11604,83 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i8LwMgQKC5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zjc-2opfAGM",
+      "title": "【 #ロゼキャンARK 】DAY1✨チームB~~~!!!ARK: Survival Ascended 【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zjc-2opfAGM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_T2s2vEiGuA",
+      "title": "【 #ロゼキャンARK 】ARKでチーム戦?!うちファーム班でもいいですか?【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_T2s2vEiGuA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Az2j1NjyK9A",
+      "title": "【#ロゼキャンARK】チームB!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Az2j1NjyK9A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BMoPMmtKosQ",
+      "title": "【 #ロゼキャンARK  】DAY1🔥ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BMoPMmtKosQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xrK5P3XWnS8",
+      "title": "【 MLBxhololive 】ミルウォーキー・ブルワーズ VS シカゴ・カブス(鈴木誠也選手・今永昇太選手所属)や日本人選手出場試合を一緒に応援しよう！【AZKi・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xrK5P3XWnS8",
       "status": "unreviewed",
       "note": null
     }

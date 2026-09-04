@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1409,
+  "count": 1410,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15498,6 +15498,17 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9eOxA0i09EA",
+      "title": "【 #喫茶barにこらでん 】リアル凸待ち！器とコーヒーとお酒のお店、オープン！【儒烏風亭らでん/虎金妃笑虎】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9eOxA0i09EA",
       "status": "unreviewed",
       "note": null
     }

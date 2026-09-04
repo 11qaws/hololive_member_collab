@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 3045,
+  "count": 3049,
   "entries": [
     {
       "video_id": "IocPGciQay3",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/IocPGciQay3/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NhDfcqvgrSg",
+      "title": "【めっちゃカメレオン】【星街すいせい / #不知火建設 】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/NhDfcqvgrSg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NhDfcqvgrSg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kwmc3Gl44IM",
+      "title": "【めっちゃカメレオン】しらけんで隠れてあそぼ！！！！！！！【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/Kwmc3Gl44IM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Kwmc3Gl44IM/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LPsCuv6-AoY",
+      "title": "【めっちゃカメレオン】ノエル視点！久々にしらけんであそぼあそぼあそぼ～！！！✨【白銀ノエル/ホロライブ】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/LPsCuv6-AoY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LPsCuv6-AoY/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pLe4ALliPj0",
+      "title": "【めっちゃカメレオン】カメレオンアプデきちゃ！！！しらけんみんなでやるぞおおお！！！【ホロライブ/さくらみこ】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/pLe4ALliPj0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pLe4ALliPj0/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3243,18 +3291,6 @@
       "paired_self": null
     },
     {
-      "video_id": "GBf_dIZUVIc",
-      "title": "月に向かって撃て",
-      "published_at": "20251226",
-      "url": "https://youtu.be/GBf_dIZUVIc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GBf_dIZUVIc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "y8Md0KNRMZQ",
       "title": "彗星 (Nor ver.)",
       "published_at": "20251226",
@@ -3273,6 +3309,18 @@
       "url": "https://youtu.be/-MU1gg9dB6s",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-MU1gg9dB6s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GBf_dIZUVIc",
+      "title": "月に向かって撃て",
+      "published_at": "20251226",
+      "url": "https://youtu.be/GBf_dIZUVIc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GBf_dIZUVIc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -7815,24 +7863,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5CvGNEi7RMM",
-      "title": "ビーナスバグ",
-      "published_at": "20250121",
-      "url": "https://youtu.be/5CvGNEi7RMM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5CvGNEi7RMM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1dNw1KeKJxU",
       "title": "綺麗事",
       "published_at": "20250121",
       "url": "https://youtu.be/1dNw1KeKJxU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1dNw1KeKJxU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5CvGNEi7RMM",
+      "title": "ビーナスバグ",
+      "published_at": "20250121",
+      "url": "https://youtu.be/5CvGNEi7RMM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5CvGNEi7RMM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26043,30 +26091,6 @@
       "paired_self": null
     },
     {
-      "video_id": "9FAjJP5um9c",
-      "title": "駆けろ",
-      "published_at": "20210709",
-      "url": "https://youtu.be/9FAjJP5um9c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "tHR9WFXBtjA",
-      "title": "天球、彗星は夜を跨いで(Instrumental)",
-      "published_at": "20210709",
-      "url": "https://youtu.be/tHR9WFXBtjA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tHR9WFXBtjA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1gScCSRgupQ",
       "title": "駆けろ(Instrumental)",
       "published_at": "20210709",
@@ -26085,6 +26109,30 @@
       "url": "https://youtu.be/OF3W2m4lh2M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9FAjJP5um9c",
+      "title": "駆けろ",
+      "published_at": "20210709",
+      "url": "https://youtu.be/9FAjJP5um9c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9FAjJP5um9c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tHR9WFXBtjA",
+      "title": "天球、彗星は夜を跨いで(Instrumental)",
+      "published_at": "20210709",
+      "url": "https://youtu.be/tHR9WFXBtjA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tHR9WFXBtjA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26223,24 +26271,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-qnJEqg1iqo",
-      "title": "comet",
-      "published_at": "20210628",
-      "url": "https://youtu.be/-qnJEqg1iqo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-qnJEqg1iqo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "LpJXc5_uIak",
       "title": "Bluerose(Instrumental)",
       "published_at": "20210628",
       "url": "https://youtu.be/LpJXc5_uIak",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/LpJXc5_uIak/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-qnJEqg1iqo",
+      "title": "comet",
+      "published_at": "20210628",
+      "url": "https://youtu.be/-qnJEqg1iqo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-qnJEqg1iqo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1928,
+  "count": 1934,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21207,6 +21207,72 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JhYjDEhCB5Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zjc-2opfAGM",
+      "title": "【 #ロゼキャンARK 】DAY1✨チームB~~~!!!ARK: Survival Ascended 【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zjc-2opfAGM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uryyMzY0HpQ",
+      "title": "【 #ロゼキャンARK │DAY1 】ついに開幕!チーム対抗サバイバルSTART🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uryyMzY0HpQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DzOFB7arRKE",
+      "title": "【 #ロゼキャンARK 】DAY1!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DzOFB7arRKE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Az2j1NjyK9A",
+      "title": "【#ロゼキャンARK】チームB!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Az2j1NjyK9A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BMoPMmtKosQ",
+      "title": "【 #ロゼキャンARK  】DAY1🔥ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BMoPMmtKosQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HVXwIlaM4R4",
+      "title": "【 #ロゼキャンARK 】開幕直前🦕チーム名発表!&㊙️ミッション情報解禁!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HVXwIlaM4R4",
       "status": "unreviewed",
       "note": null
     }

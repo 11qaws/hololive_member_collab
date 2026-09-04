@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1473,
+  "count": 1476,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16202,6 +16202,39 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EYTGVvCzlr0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kwmc3Gl44IM",
+      "title": "【めっちゃカメレオン】しらけんで隠れてあそぼ！！！！！！！【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kwmc3Gl44IM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LPsCuv6-AoY",
+      "title": "【めっちゃカメレオン】ノエル視点！久々にしらけんであそぼあそぼあそぼ～！！！✨【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LPsCuv6-AoY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pLe4ALliPj0",
+      "title": "【めっちゃカメレオン】カメレオンアプデきちゃ！！！しらけんみんなでやるぞおおお！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pLe4ALliPj0",
       "status": "unreviewed",
       "note": null
     }

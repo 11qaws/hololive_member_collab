@@ -1,7 +1,19 @@
 {
   "target": "akaihaato",
-  "count": 3338,
+  "count": 3339,
   "entries": [
+    {
+      "video_id": "v6Y1HIFKVac",
+      "title": "秋田県民になったと錯覚してる女【ホロライブ/赤井はあと】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/v6Y1HIFKVac",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v6Y1HIFKVac/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "P_mClWKeOOU",
       "title": "【新潟】計画通りにいかねぇ！！！【ホロライブ/赤井はあと】",
@@ -8595,24 +8607,24 @@
       "paired_self": null
     },
     {
-      "video_id": "VTx9vMCSOLs",
-      "title": "BAN RTA (Instrumental)",
-      "published_at": "20240810",
-      "url": "https://youtu.be/VTx9vMCSOLs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VTx9vMCSOLs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "lz9lUpxnkbg",
       "title": "BAN RTA",
       "published_at": "20240810",
       "url": "https://youtu.be/lz9lUpxnkbg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/lz9lUpxnkbg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VTx9vMCSOLs",
+      "title": "BAN RTA (Instrumental)",
+      "published_at": "20240810",
+      "url": "https://youtu.be/VTx9vMCSOLs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VTx9vMCSOLs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26319,24 +26331,24 @@
       "paired_self": null
     },
     {
-      "video_id": "4ARVDhp19ws",
-      "title": "色気UWU~",
-      "published_at": "20200901",
-      "url": "https://youtu.be/4ARVDhp19ws",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/4ARVDhp19ws/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "g-k4OCRPF1k",
       "title": "色気",
       "published_at": "20200901",
       "url": "https://youtu.be/g-k4OCRPF1k",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/g-k4OCRPF1k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4ARVDhp19ws",
+      "title": "色気UWU~",
+      "published_at": "20200901",
+      "url": "https://youtu.be/4ARVDhp19ws",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4ARVDhp19ws/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
