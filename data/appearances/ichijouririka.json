@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1410,
+  "count": 1411,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15509,6 +15509,17 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9eOxA0i09EA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fv-E0odk6jc",
+      "title": "儒烏風亭らでん\"わかり手\"は誰だ!寿司ネタ予想で解釈違い発生!?【#ReGLOSS寿司ビンゴ】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fv-E0odk6jc",
       "status": "unreviewed",
       "note": null
     }

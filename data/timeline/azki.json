@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2738,
+  "count": 2745,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pRLHQpvk9TM",
+      "title": "【 #ロゼキャンARK 】DAY2!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/pRLHQpvk9TM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pRLHQpvk9TM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A-ng7wVRNJM",
+      "title": "【 #ロゼキャンARK  】DAY2🔥エリートファミリア物語!!!!ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/A-ng7wVRNJM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/A-ng7wVRNJM/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,8 +51,56 @@
       "paired_self": null
     },
     {
+      "video_id": "nI3Ad2wv8Kc",
+      "title": "【 #ロゼキャンARK │DAY2 】ついに勝負が動き出す!?チーム対抗サバイバル🔥【ARK: Survival Ascended】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/nI3Ad2wv8Kc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/nI3Ad2wv8Kc/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rzc-FOeWPFM",
+      "title": "【#ロゼキャンARK】エリートファミリア!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/rzc-FOeWPFM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rzc-FOeWPFM/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7RREu5R1wZM",
+      "title": "【#ロゼキャンARK】DAY 1行くよ！TIME TO MEET AND MOG THE DINOSAURS【hololive ID 2nd Generation | Anya Melfissa】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/7RREu5R1wZM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7RREu5R1wZM/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oK5yQYHOG7Y",
+      "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/oK5yQYHOG7Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oK5yQYHOG7Y/mqdefault.jpg",
+      "partner_handle": "kazamairoha",
+      "partner_name": "Iroha ch. 風真いろは - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "DzOFB7arRKE",
-      "title": "【 #ロゼキャンARK 】DAY1!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "title": "【 #ロゼキャンARK 】DAY1！チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
       "published_at": "20260903",
       "url": "https://youtu.be/DzOFB7arRKE",
       "entry_type": "stream",
@@ -119,6 +191,18 @@
       "thumbnail": "https://img.youtube.com/vi/xrK5P3XWnS8/mqdefault.jpg",
       "partner_handle": "hakuikoyori",
       "partner_name": "Koyori ch. 博衣こより - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "D6MvZKaCsvg",
+      "title": "【 #ロゼキャンARK 】DAY2直前🦕ホロメン日誌は入ってるのか!?中間発表アリ!",
+      "published_at": "20260903",
+      "url": "https://youtu.be/D6MvZKaCsvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/D6MvZKaCsvg/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },
@@ -2307,24 +2391,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-7cYjcTL7OE",
-      "title": "Going My Way",
-      "published_at": "20260518",
-      "url": "https://youtu.be/-7cYjcTL7OE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cwysw8Fzk_w",
       "title": "Going My Way (Instrumental)",
       "published_at": "20260518",
       "url": "https://youtu.be/cwysw8Fzk_w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-7cYjcTL7OE",
+      "title": "Going My Way",
+      "published_at": "20260518",
+      "url": "https://youtu.be/-7cYjcTL7OE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -9315,24 +9399,24 @@
       "paired_self": null
     },
     {
-      "video_id": "SLYsjtZC4gg",
-      "title": "未来カンパネラ(Instrumental)",
-      "published_at": "20250701",
-      "url": "https://youtu.be/SLYsjtZC4gg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/SLYsjtZC4gg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "VljDhLtP2Qc",
       "title": "未来カンパネラ",
       "published_at": "20250701",
       "url": "https://youtu.be/VljDhLtP2Qc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/VljDhLtP2Qc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SLYsjtZC4gg",
+      "title": "未来カンパネラ(Instrumental)",
+      "published_at": "20250701",
+      "url": "https://youtu.be/SLYsjtZC4gg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SLYsjtZC4gg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26307,24 +26391,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e5nxG5QCIRM",
-      "title": "リアルメランコリー",
-      "published_at": "20221130",
-      "url": "https://youtu.be/e5nxG5QCIRM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5wqJ6yOf8qY",
       "title": "青い夢(Instrumental)",
       "published_at": "20221130",
       "url": "https://youtu.be/5wqJ6yOf8qY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5wqJ6yOf8qY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e5nxG5QCIRM",
+      "title": "リアルメランコリー",
+      "published_at": "20221130",
+      "url": "https://youtu.be/e5nxG5QCIRM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26367,24 +26451,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5bOH1CU_w40",
-      "title": "画面の中の君が好き",
-      "published_at": "20221130",
-      "url": "https://youtu.be/5bOH1CU_w40",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "b6rEZlYYWSw",
       "title": "The Last Frontier",
       "published_at": "20221130",
       "url": "https://youtu.be/b6rEZlYYWSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5bOH1CU_w40",
+      "title": "画面の中の君が好き",
+      "published_at": "20221130",
+      "url": "https://youtu.be/5bOH1CU_w40",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31599,12 +31683,12 @@
       "paired_self": null
     },
     {
-      "video_id": "UasbmTP2lTA",
-      "title": "Midnight Song",
+      "video_id": "zf-9KS_N3ZI",
+      "title": "のんびりと、",
       "published_at": "20191111",
-      "url": "https://youtu.be/UasbmTP2lTA",
+      "url": "https://youtu.be/zf-9KS_N3ZI",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UasbmTP2lTA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/zf-9KS_N3ZI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31623,12 +31707,12 @@
       "paired_self": null
     },
     {
-      "video_id": "zf-9KS_N3ZI",
-      "title": "のんびりと、",
+      "video_id": "UasbmTP2lTA",
+      "title": "Midnight Song",
       "published_at": "20191111",
-      "url": "https://youtu.be/zf-9KS_N3ZI",
+      "url": "https://youtu.be/UasbmTP2lTA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zf-9KS_N3ZI/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/UasbmTP2lTA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

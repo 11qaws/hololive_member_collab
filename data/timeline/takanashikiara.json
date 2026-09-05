@@ -1,7 +1,55 @@
 {
   "target": "takanashikiara",
-  "count": 3038,
+  "count": 3042,
   "entries": [
+    {
+      "video_id": "1oAABW24gME",
+      "title": "The Winner Takes It All✨✨ #teamwork #challenge #summer",
+      "published_at": "20260905",
+      "url": "https://youtu.be/1oAABW24gME",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1oAABW24gME/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mtgB0TbSHFA",
+      "title": "【ARKNIGHTS: ENDFIELD】swedish cute smol girl has joined endfield✨ #kfp",
+      "published_at": "20260904",
+      "url": "https://youtu.be/mtgB0TbSHFA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mtgB0TbSHFA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jEpz5fEg6bU",
+      "title": "【watchalong】THE AVENGERS INFINITY WAR (finally) #kfp #キアライブ",
+      "published_at": "20260904",
+      "url": "https://youtu.be/jEpz5fEg6bU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jEpz5fEg6bU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N2fTjcu049g",
+      "title": "【watchalong】THOR RAGNAROK thor my beloved #kfp #キアライブ",
+      "published_at": "20260904",
+      "url": "https://youtu.be/N2fTjcu049g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/N2fTjcu049g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "EAjALr4LFw8",
       "title": "【FINAL FANTASY VII REMAKE】YUFFIE DLC #kfp #キアライブ (spoiler warning)",
@@ -33507,24 +33555,24 @@
       "paired_self": null
     },
     {
-      "video_id": "t_oZp7uLttI",
-      "title": "Heart Challenger (Instrumental)",
-      "published_at": "20210214",
-      "url": "https://youtu.be/t_oZp7uLttI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/t_oZp7uLttI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "e3w1R869Kc8",
       "title": "Heart Challenger",
       "published_at": "20210214",
       "url": "https://youtu.be/e3w1R869Kc8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/e3w1R869Kc8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t_oZp7uLttI",
+      "title": "Heart Challenger (Instrumental)",
+      "published_at": "20210214",
+      "url": "https://youtu.be/t_oZp7uLttI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t_oZp7uLttI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

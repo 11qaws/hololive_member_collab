@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 841,
+  "count": 843,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9250,6 +9250,28 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rkjNT5MpTSA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0ko7LKM3yoU",
+      "title": "【#FG駆け引きバトル】嘘、裏切り、騙し合い…滅多に見られない超心理戦が巻き起こる!?",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0ko7LKM3yoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ch_s7aIVHHo",
+      "title": "【 #喫茶barにこらでん 】お片付けしながら器紹介＆実験！【儒烏風亭らでん/虎金妃笑虎】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ch_s7aIVHHo",
       "status": "unreviewed",
       "note": null
     }

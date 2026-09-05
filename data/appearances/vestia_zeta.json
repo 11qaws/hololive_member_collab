@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 997,
+  "count": 998,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -10966,6 +10966,17 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sEu1Yj-cICI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zb3l3favPXk",
+      "title": "Datte by ゆよゆっぺ feat. @VestiaZeta #vocaloid #cover",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zb3l3favPXk",
       "status": "unreviewed",
       "note": null
     }

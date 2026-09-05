@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1013,
+  "count": 1022,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11142,6 +11142,105 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YbubWOU_i-j",
+      "title": "〈偽物語〉前編（1〜7話）同時視聴",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YbubWOU_i-j",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OjIqvR3ikmA",
+      "title": "【同時視聴/Watchalong】〈化物語〉(後編9~15話) holoXで同時視聴!(映像付き)【 #SSholoX /ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OjIqvR3ikmA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LRuCmObqkVE",
+      "title": "【#ロゼキャンARK 】DAY1!チームC!恐竜のエサじゃないです!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LRuCmObqkVE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UxQASlTnhVk",
+      "title": "【#ロゼキャンARK】DAY2🦕チームCでミッションクリアしていくぞ~!-ARK: Survival Ascended【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UxQASlTnhVk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nI3Ad2wv8Kc",
+      "title": "【 #ロゼキャンARK │DAY2 】ついに勝負が動き出す!?チーム対抗サバイバル🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nI3Ad2wv8Kc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D6MvZKaCsvg",
+      "title": "【 #ロゼキャンARK 】DAY2直前🦕ホロメン日誌は入ってるのか!?中間発表アリ!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D6MvZKaCsvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8Ij4L6zKr6o",
+      "title": "【 #ロゼキャンARK 】DAY1 │ WHAT MUST I DO....?!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8Ij4L6zKr6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oO8jYU8eDGU",
+      "title": "【#ロゼキャンARK 】DAY1！チームC！恐竜のエサじゃないです！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oO8jYU8eDGU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y1Gz4GlTB3s",
+      "title": "【 #ロゼキャンARK 】DAY1 │チームCこと、おかたづけできるもん！始動‼️【常闇トワ視点/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y1Gz4GlTB3s",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1240,
+  "count": 1241,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13639,6 +13639,17 @@
       "published_at": "20200923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Kxwu8-jPFtw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EcqmHL_gsSM",
+      "title": "ねねねトワワしか勝たん!!!#ウチらしか勝たん 踊ったよ〜! Danced to NeneneTowawa-Senpai's Banger Song!!! #shorts #vtuber #踊ってみた",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EcqmHL_gsSM",
       "status": "unreviewed",
       "note": null
     }

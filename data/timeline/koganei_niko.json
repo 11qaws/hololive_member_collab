@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1670,
+  "count": 1673,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "Bk_dybX3WWc",
+      "title": "【 ＃朝ガオ 】今週も色々ありました【虎金妃笑虎】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/Bk_dybX3WWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Bk_dybX3WWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ch_s7aIVHHo",
+      "title": "【 #喫茶barにこらでん 】お片付けしながら器紹介＆実験！【儒烏風亭らでん/虎金妃笑虎】",
+      "published_at": "20260903",
+      "url": "https://youtu.be/Ch_s7aIVHHo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Ch_s7aIVHHo/mqdefault.jpg",
+      "partner_handle": "juufuuteiraden",
+      "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "KBwvjX4Ml2s",
-      "title": "#ニコらでん サウナ秘境旅！【湖に飛び込める？！】",
+      "title": "#ニコらでん サウナ秘境旅!【湖に飛び込める?!】",
       "published_at": "20260902",
       "url": "https://youtu.be/KBwvjX4Ml2s",
       "entry_type": "stream",
@@ -57,6 +81,18 @@
       "url": "https://youtu.be/rkjNT5MpTSA",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/rkjNT5MpTSA/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0ko7LKM3yoU",
+      "title": "【#FG駆け引きバトル】嘘、裏切り、騙し合い…滅多に見られない超心理戦が巻き起こる!?",
+      "published_at": "20260902",
+      "url": "https://youtu.be/0ko7LKM3yoU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0ko7LKM3yoU/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
       "sub_entries": [],
@@ -20019,24 +20055,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TK6OchILmqw",
-      "title": "ひ　み　つ　💛",
-      "published_at": "",
-      "url": "https://youtu.be/TK6OchILmqw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v9ea3cDKhX4",
       "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
       "published_at": "",
       "url": "https://youtu.be/v9ea3cDKhX4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TK6OchILmqw",
+      "title": "ひ　み　つ　💛",
+      "published_at": "",
+      "url": "https://youtu.be/TK6OchILmqw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

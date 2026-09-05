@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 889,
+  "count": 892,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9778,6 +9778,39 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eGu0ZIdk5PE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fv-E0odk6jc",
+      "title": "儒烏風亭らでん\"わかり手\"は誰だ!寿司ネタ予想で解釈違い発生!?【#ReGLOSS寿司ビンゴ】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fv-E0odk6jc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G3iRfAo2w0Y",
+      "title": "らでんが食べる寿司でビンゴを目指せ！！#ReGLOSS寿司ビンゴ #ReGLOSS #VTuber",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G3iRfAo2w0Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xmzb7t4beU0",
+      "title": "らでんが食べる寿司でビンゴを目指せ！！#ReGLOSS寿司ビンゴ #ReGLOSS #vtuber",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive DEV_IS ReGLOSS",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xmzb7t4beU0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1127,
+  "count": 1134,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12396,6 +12396,83 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OxmnPEnLUcw",
+      "title": "【 #ロゼキャンARK 】DAY2✨チーム戦!がんばるぞお!ARK: Survival Ascended 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OxmnPEnLUcw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1G2S5dSwzPQ",
+      "title": "【#ロゼキャンARK 】DAY2!馬車馬のように働くサムシング🦕【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1G2S5dSwzPQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1bVCR30bwy8",
+      "title": "【#ロゼキャンARK】DAY2🦖Aチーム優勝いくぞ‼ ARK: Survival Ascended【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1bVCR30bwy8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nI3Ad2wv8Kc",
+      "title": "【 #ロゼキャンARK │DAY2 】ついに勝負が動き出す!?チーム対抗サバイバル🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nI3Ad2wv8Kc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D6MvZKaCsvg",
+      "title": "【 #ロゼキャンARK 】DAY2直前🦕ホロメン日誌は入ってるのか!?中間発表アリ!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D6MvZKaCsvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oK5yQYHOG7Y",
+      "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oK5yQYHOG7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0FX-ySApOlg",
+      "title": "Sakadung sakading padung ding #windrose #hololive #moonahoshinova #airani_iofifteen",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0FX-ySApOlg",
       "status": "unreviewed",
       "note": null
     }

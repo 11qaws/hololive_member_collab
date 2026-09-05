@@ -1,7 +1,19 @@
 {
   "target": "pavoliareine",
-  "count": 3077,
+  "count": 3078,
   "entries": [
+    {
+      "video_id": "Vz3u4iFMbHk",
+      "title": "Phrases that make you sound Indonesian: SALTING #vtuber #pavoliareine #reinesclassroom",
+      "published_at": "20260904",
+      "url": "https://youtu.be/Vz3u4iFMbHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Vz3u4iFMbHk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "vQDn0M_hf6A",
       "title": "(Imperial Grace DEMO) BE EMPRESS, RUN COUNTRY, FIND LOVE(?) #FallInLoveFestival",
@@ -30075,24 +30087,24 @@
       "paired_self": null
     },
     {
-      "video_id": "yz8AiQc1Bk8",
-      "title": "あの青空のせいだ",
-      "published_at": "20211206",
-      "url": "https://youtu.be/yz8AiQc1Bk8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/yz8AiQc1Bk8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "m_noinhha_g",
       "title": "Love Me Love Me(Instrumental)",
       "published_at": "20211206",
       "url": "https://youtu.be/m_noinhha_g",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yz8AiQc1Bk8",
+      "title": "あの青空のせいだ",
+      "published_at": "20211206",
+      "url": "https://youtu.be/yz8AiQc1Bk8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yz8AiQc1Bk8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

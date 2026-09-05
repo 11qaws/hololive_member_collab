@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1934,
+  "count": 1940,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21273,6 +21273,72 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rzc-FOeWPFM",
+      "title": "【#ロゼキャンARK】エリートファミリア!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rzc-FOeWPFM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "A-ng7wVRNJM",
+      "title": "【 #ロゼキャンARK  】DAY2🔥エリートファミリア物語!!!!ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/A-ng7wVRNJM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nI3Ad2wv8Kc",
+      "title": "【 #ロゼキャンARK │DAY2 】ついに勝負が動き出す!?チーム対抗サバイバル🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nI3Ad2wv8Kc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D6MvZKaCsvg",
+      "title": "【 #ロゼキャンARK 】DAY2直前🦕ホロメン日誌は入ってるのか!?中間発表アリ!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D6MvZKaCsvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7RREu5R1wZM",
+      "title": "【#ロゼキャンARK】DAY 1行くよ！TIME TO MEET AND MOG THE DINOSAURS【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7RREu5R1wZM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oK5yQYHOG7Y",
+      "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oK5yQYHOG7Y",
       "status": "unreviewed",
       "note": null
     }

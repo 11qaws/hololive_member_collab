@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 777,
+  "count": 778,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8546,6 +8546,17 @@
       "published_at": "20260826",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OfHPonsKYSc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1oAABW24gME",
+      "title": "The Winner Takes It All✨✨ #teamwork #challenge #summer",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1oAABW24gME",
       "status": "unreviewed",
       "note": null
     }

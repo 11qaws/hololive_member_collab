@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1666,
+  "count": 1667,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -45,6 +45,18 @@
       "url": "https://youtu.be/SzMf6Ety9ug",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SzMf6Ety9ug/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t05nCAMrbdM",
+      "title": "【Kobolonimbus】ughh... I'll be just sitting here and working",
+      "published_at": "20260901",
+      "url": "https://youtu.be/t05nCAMrbdM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t05nCAMrbdM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1049,
+  "count": 1052,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11538,6 +11538,39 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PkHU-oEjcU9",
+      "title": "〈偽物語〉後編（8〜11話）同時視聴",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PkHU-oEjcU9",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YbubWOU_i-j",
+      "title": "〈偽物語〉前編（1〜7話）同時視聴",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YbubWOU_i-j",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OjIqvR3ikmA",
+      "title": "【同時視聴/Watchalong】〈化物語〉(後編9~15話) holoXで同時視聴!(映像付き)【 #SSholoX /ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OjIqvR3ikmA",
       "status": "unreviewed",
       "note": null
     }

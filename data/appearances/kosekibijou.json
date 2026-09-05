@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1509,
+  "count": 1510,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16598,6 +16598,17 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mddBNwuQqz0",
+      "title": "【WATCHALONG】Watching Gundam 0080 War in the Pocket w/ ⁨@KosekiBijou⁩  機動戦士ガンダム0080 ポケットの中の戦争を見る!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive-EN",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mddBNwuQqz0",
       "status": "unreviewed",
       "note": null
     }

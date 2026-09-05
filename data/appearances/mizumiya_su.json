@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1155,
+  "count": 1164,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12704,6 +12704,105 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HVXwIlaM4R4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "seq7NaNdpb4",
+      "title": "【 #ロゼキャンARK】DAY3【轟はじめ】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/seq7NaNdpb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0ko7LKM3yoU",
+      "title": "【#FG駆け引きバトル】嘘、裏切り、騙し合い…滅多に見られない超心理戦が巻き起こる!?",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive DEV_IS FLOW GLOW",
+      "published_at": "20260902",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0ko7LKM3yoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UdJrylSqmEk",
+      "title": "【 #ロゼキャンARK 】DAY2🔥チームDいくぞー!!ARK: Survival Ascended🦖【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UdJrylSqmEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s7g-1j-l-4U",
+      "title": "【 #ロゼキャンARK 】DAY2✨ポンコツSAURUSの共同作業がんばるぞ💖【博衣こより視点/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s7g-1j-l-4U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nI3Ad2wv8Kc",
+      "title": "【 #ロゼキャンARK │DAY2 】ついに勝負が動き出す!?チーム対抗サバイバル🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nI3Ad2wv8Kc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9eQLPkRmhik",
+      "title": "【 #ロゼキャンARK】新しい恐竜さんとの出会いっ♪【轟はじめ】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9eQLPkRmhik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D6MvZKaCsvg",
+      "title": "【 #ロゼキャンARK 】DAY2直前🦕ホロメン日誌は入ってるのか!?中間発表アリ!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260903",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D6MvZKaCsvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oK5yQYHOG7Y",
+      "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oK5yQYHOG7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nLTRBR4H1KY",
+      "title": "【#ロゼキャンARK DAY 1】TEAM D集合✨️ ミッションをクリアしてわいわいしていこう🐾【FUWAMOCO｜ARK: SURVIVAL ASCENDED】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive-EN",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nLTRBR4H1KY",
       "status": "unreviewed",
       "note": null
     }
