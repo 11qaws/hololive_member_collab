@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 914,
+  "count": 915,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10053,6 +10053,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1oAABW24gME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uMR2FhquG1s",
+      "title": "GIGI and RAO Dancing Together! #shorts  #vtuber",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uMR2FhquG1s",
       "status": "unreviewed",
       "note": null
     }

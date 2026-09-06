@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1132,
+  "count": 1133,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12451,6 +12451,17 @@
       "published_at": "20200213",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0uwXV_ntcgU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Wu-qOz24zmg",
+      "title": "【Big Walk】ノエル視点!やかましでおさんぽだ~!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Wu-qOz24zmg",
       "status": "unreviewed",
       "note": null
     }

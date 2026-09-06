@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 734,
+  "count": 736,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8073,6 +8073,28 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-4mdXGw_3Jc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7MDkEcZdAvg",
+      "title": "【】we are still fighting over the game, so title and thumbnail will be changed later【holoh3ro】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7MDkEcZdAvg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VDPK4AAA5Q4",
+      "title": "【MECCHA CHAMELEON】holoID doko【hololiveID】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VDPK4AAA5Q4",
       "status": "unreviewed",
       "note": null
     }

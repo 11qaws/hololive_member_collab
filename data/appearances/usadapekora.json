@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1649,
+  "count": 1652,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18138,6 +18138,39 @@
       "published_at": "20260904",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oK5yQYHOG7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4NBzl763Ij0",
+      "title": "【#ロゼキャンARK 】DAY3!最終日できることをしよう🦕【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4NBzl763Ij0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LCorMGn_KUw",
+      "title": "【 #ロゼキャンARK 】ARKするん！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LCorMGn_KUw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IcAr3F7lDCc",
+      "title": "≪#ロゼキャンARK ≫ please I beg of you I just wanna play with the dinosaurs...Day 2",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IcAr3F7lDCc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1604,
+  "count": 1610,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17643,6 +17643,72 @@
       "published_at": "20260904",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oK5yQYHOG7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wWsY87ARTq8",
+      "title": "【 #ロゼキャンARK │DAY3 】何が起こるかわからない!運命の最終日🔥【ARK: Survival Ascended】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wWsY87ARTq8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3eqfxZud2p0",
+      "title": "【#ロゼキャンARK】DAY3🦕チームCでミッションクリアしていくぞ~!-ARK: Survival Ascended【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3eqfxZud2p0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pBW1H11R4i8",
+      "title": "【 #ロゼキャンARK 】最終日直前🦕ホロメン日誌チェック👀現在の攻略状況はいったい!?",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pBW1H11R4i8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "grsIwh-FYlk",
+      "title": "【 #ロゼキャンARK 】整理整頓🔁お願いします。🔁DAY2【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/grsIwh-FYlk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o5mOjACaqdU",
+      "title": "【 #ロゼキャンARK 】DAY 2 │ FOR THE TEAM...!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o5mOjACaqdU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RAE-GQinAWk",
+      "title": "【#ロゼキャンARK】TeamsC　おかたづけできるもん！DAY２【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RAE-GQinAWk",
       "status": "unreviewed",
       "note": null
     }

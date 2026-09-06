@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1673,
+  "count": 1674,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eSu3e4rdrSo",
+      "title": "若干最後は千速優勢やな…@RindoChihaya  #虎のいる生活",
+      "published_at": "20260905",
+      "url": "https://youtu.be/eSu3e4rdrSo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eSu3e4rdrSo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20043,12 +20055,12 @@
       "paired_self": null
     },
     {
-      "video_id": "pylOG0ntH_s",
-      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
+      "video_id": "TK6OchILmqw",
+      "title": "ひ　み　つ　💛",
       "published_at": "",
-      "url": "https://youtu.be/pylOG0ntH_s",
+      "url": "https://youtu.be/TK6OchILmqw",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -20067,12 +20079,12 @@
       "paired_self": null
     },
     {
-      "video_id": "TK6OchILmqw",
-      "title": "ひ　み　つ　💛",
+      "video_id": "pylOG0ntH_s",
+      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
       "published_at": "",
-      "url": "https://youtu.be/TK6OchILmqw",
+      "url": "https://youtu.be/pylOG0ntH_s",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

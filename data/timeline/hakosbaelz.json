@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2710,
+  "count": 2717,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OIu5DGmXs7o",
+      "title": "≪#ロゼキャンARK ≫ FINAL DAY!...Day 3",
+      "published_at": "20260906",
+      "url": "https://youtu.be/OIu5DGmXs7o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OIu5DGmXs7o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pmIoM5ybn_Q",
+      "title": "≪Yakuza 7: Like a Dragon≫ i need some ichiban...First Playthrough #3【SPOILER WARNING】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/pmIoM5ybn_Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pmIoM5ybn_Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,6 +59,66 @@
       "thumbnail": "https://img.youtube.com/vi/nAMdeosS2Ws/mqdefault.jpg",
       "partner_handle": "moona_hoshinova",
       "partner_name": "Moona Hoshinova hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wHgTOqhUJdI",
+      "title": "【#ロゼキャンARK】DAY3最終日🦖Aチーム優勝いくぞ‼ ARK: Survival Ascended【ホロライブ/兎田ぺこら】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/wHgTOqhUJdI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wHgTOqhUJdI/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wWsY87ARTq8",
+      "title": "【 #ロゼキャンARK │DAY3 】何が起こるかわからない!運命の最終日🔥【ARK: Survival Ascended】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/wWsY87ARTq8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wWsY87ARTq8/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4NBzl763Ij0",
+      "title": "【#ロゼキャンARK 】DAY3!最終日できることをしよう🦕【不知火フレア/ホロライブ】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/4NBzl763Ij0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4NBzl763Ij0/mqdefault.jpg",
+      "partner_handle": "shiranuiflare",
+      "partner_name": "Flare Ch. 不知火フレア",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pBW1H11R4i8",
+      "title": "【 #ロゼキャンARK 】最終日直前🦕ホロメン日誌チェック👀現在の攻略状況はいったい!?",
+      "published_at": "20260905",
+      "url": "https://youtu.be/pBW1H11R4i8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pBW1H11R4i8/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LCorMGn_KUw",
+      "title": "【 #ロゼキャンARK 】ARKするん！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260905",
+      "url": "https://youtu.be/LCorMGn_KUw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LCorMGn_KUw/mqdefault.jpg",
+      "partner_handle": "otonosekanade",
+      "partner_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16191,24 +16275,24 @@
       "paired_self": null
     },
     {
-      "video_id": "crdkv5i9pvo",
-      "title": "HIDE & SEEK 〜なかよくケンカしな!〜",
-      "published_at": "20240229",
-      "url": "https://youtu.be/crdkv5i9pvo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/crdkv5i9pvo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "_hEzJPgdF5Q",
       "title": "RIDE",
       "published_at": "20240229",
       "url": "https://youtu.be/_hEzJPgdF5Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_hEzJPgdF5Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "crdkv5i9pvo",
+      "title": "HIDE & SEEK 〜なかよくケンカしな!〜",
+      "published_at": "20240229",
+      "url": "https://youtu.be/crdkv5i9pvo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/crdkv5i9pvo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

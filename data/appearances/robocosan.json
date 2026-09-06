@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1317,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14486,6 +14486,17 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xtTmI74gPqo",
+      "title": "【手書き】言われた通り…? #ホロライブ  #vtuber #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xtTmI74gPqo",
       "status": "unreviewed",
       "note": null
     }

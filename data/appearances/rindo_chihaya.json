@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1297,
+  "count": 1298,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14266,6 +14266,17 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0ko7LKM3yoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eSu3e4rdrSo",
+      "title": "若干最後は千速優勢やな…@RindoChihaya  #虎のいる生活",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eSu3e4rdrSo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1687,
+  "count": 1688,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18556,6 +18556,17 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i8LwMgQKC5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Wu-qOz24zmg",
+      "title": "【Big Walk】ノエル視点!やかましでおさんぽだ~!!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Wu-qOz24zmg",
       "status": "unreviewed",
       "note": null
     }

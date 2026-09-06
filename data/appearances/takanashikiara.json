@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1098,
+  "count": 1099,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12077,6 +12077,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1oAABW24gME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OSt_jg3VRE8",
+      "title": "【POKÉMON LEAF GREEN】TEAM ROCKET ARC HERE WE GO!!!【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive-EN",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OSt_jg3VRE8",
       "status": "unreviewed",
       "note": null
     }

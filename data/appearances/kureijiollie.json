@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1393,
+  "count": 1394,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15322,6 +15322,17 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VDPK4AAA5Q4",
+      "title": "【MECCHA CHAMELEON】holoID doko【hololiveID】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VDPK4AAA5Q4",
       "status": "unreviewed",
       "note": null
     }

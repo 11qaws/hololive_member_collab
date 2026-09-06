@@ -1,7 +1,55 @@
 {
   "target": "pavoliareine",
-  "count": 3078,
+  "count": 3082,
   "entries": [
+    {
+      "video_id": "fWcvXq08vfI",
+      "title": "yayy colab (placeholder thumbnail)",
+      "published_at": "20260906",
+      "url": "https://youtu.be/fWcvXq08vfI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fWcvXq08vfI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jUG_Asz9PSc",
+      "title": "Cozy Shop Sim! (The Willowmist Emporium of Antiques & Curiosities DEMO) #FallInLoveFestival",
+      "published_at": "20260905",
+      "url": "https://youtu.be/jUG_Asz9PSc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jUG_Asz9PSc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KYnboUrKtcc",
+      "title": "Phrases that make you sound Indonesian: BAPER #vtuber #pavoliareine #reinesclassroom",
+      "published_at": "20260905",
+      "url": "https://youtu.be/KYnboUrKtcc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KYnboUrKtcc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VDPK4AAA5Q4",
+      "title": "【MECCHA CHAMELEON】holoID doko【hololiveID】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/VDPK4AAA5Q4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VDPK4AAA5Q4/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Vz3u4iFMbHk",
       "title": "Phrases that make you sound Indonesian: SALTING #vtuber #pavoliareine #reinesclassroom",

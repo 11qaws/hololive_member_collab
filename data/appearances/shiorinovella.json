@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 978,
+  "count": 979,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10757,6 +10757,17 @@
       "published_at": "20260904",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RjaHLLC0Z9o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1oAABW24gME",
+      "title": "The Winner Takes It All✨✨ #teamwork #challenge #summer",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1oAABW24gME",
       "status": "unreviewed",
       "note": null
     }

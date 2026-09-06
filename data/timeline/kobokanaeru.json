@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1667,
+  "count": 1671,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CSpyRByq7YM",
+      "title": "【Little Nightmares III】DOING SOME ADVENTURE WITH @selenaamaris ⚠️SPOILER ALERT⚠️",
+      "published_at": "20260905",
+      "url": "https://youtu.be/CSpyRByq7YM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CSpyRByq7YM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "THZs5lz3HV8",
+      "title": "【Kobolonimbus】Part 2!! Going to finish part Chorus B",
+      "published_at": "20260905",
+      "url": "https://youtu.be/THZs5lz3HV8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/THZs5lz3HV8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7MDkEcZdAvg",
+      "title": "【】we are still fighting over the game, so title and thumbnail will be changed later【holoh3ro】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/7MDkEcZdAvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7MDkEcZdAvg/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VDPK4AAA5Q4",
+      "title": "【MECCHA CHAMELEON】holoID doko【hololiveID】",
+      "published_at": "20260905",
+      "url": "https://youtu.be/VDPK4AAA5Q4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VDPK4AAA5Q4/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive-ID",
       "sub_entries": [],
       "paired_self": null
     },
