@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1324,
+  "count": 1325,
   "entries": [
     {
       "video_id": "V_oGYaMaDWj",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/V_oGYaMaDWj/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CXz1eHQgNnk",
+      "title": "【 #ロゼキャンARK 】最終日行くぞっ！【ホロライブ/夏色まつり】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/CXz1eHQgNnk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CXz1eHQgNnk/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },
@@ -159,6 +171,18 @@
       "paired_self": null
     },
     {
+      "video_id": "0WQBsRQ4hxc",
+      "title": "【#ロゼキャンARK】ARK BUT I'M DEFINITELY THE APEX PREDATOR🦕 TEAM D!【DAY 1】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/0WQBsRQ4hxc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0WQBsRQ4hxc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "seq7NaNdpb4",
       "title": "【 #ロゼキャンARK】DAY3【轟はじめ】",
       "published_at": "20260904",
@@ -251,18 +275,6 @@
       "thumbnail": "https://img.youtube.com/vi/nLTRBR4H1KY/mqdefault.jpg",
       "partner_handle": "mococo_abyssgard",
       "partner_name": "FUWAMOCO Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "0WQBsRQ4hxc",
-      "title": "【#ロゼキャンARK】ARK BUT I’M DEFINITELY THE APEX PREDATOR🦕 TEAM D!【DAY 1】",
-      "published_at": "20260903",
-      "url": "https://youtu.be/0WQBsRQ4hxc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0WQBsRQ4hxc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

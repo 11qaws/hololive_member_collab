@@ -1,7 +1,31 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3922,
+  "count": 3924,
   "entries": [
+    {
+      "video_id": "CXz1eHQgNnk",
+      "title": "【 #ロゼキャンARK 】最終日行くぞっ！【ホロライブ/夏色まつり】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/CXz1eHQgNnk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CXz1eHQgNnk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2-m_Nil0WaQ",
+      "title": "【 7Days to Die 】襲撃くるぞおおおおおお✨ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/2-m_Nil0WaQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2-m_Nil0WaQ/mqdefault.jpg",
+      "partner_handle": "isakiriona",
+      "partner_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Lf75d5W82T8",
       "title": "【 #ロゼキャンARK 】2日目大きな一歩を！！【ホロライブ/夏色まつり】",
@@ -99,6 +123,18 @@
       "paired_self": null
     },
     {
+      "video_id": "14EsWvW5U6g",
+      "title": "【 #ロゼキャンARK 】チームDのリーダーになっちゃったですけど!!?【ホロライブ/夏色まつり】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/14EsWvW5U6g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/14EsWvW5U6g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "seq7NaNdpb4",
       "title": "【 #ロゼキャンARK】DAY3【轟はじめ】",
       "published_at": "20260904",
@@ -191,18 +227,6 @@
       "thumbnail": "https://img.youtube.com/vi/nLTRBR4H1KY/mqdefault.jpg",
       "partner_handle": "mococo_abyssgard",
       "partner_name": "FUWAMOCO Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "14EsWvW5U6g",
-      "title": "【 #ロゼキャンARK 】チームDのリーダーになっちゃったですけど！！？【ホロライブ/夏色まつり】",
-      "published_at": "20260903",
-      "url": "https://youtu.be/14EsWvW5U6g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/14EsWvW5U6g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -4179,24 +4203,24 @@
       "paired_self": null
     },
     {
-      "video_id": "imYqFvZ2PS0",
-      "title": "ウーニャカ",
-      "published_at": "20260224",
-      "url": "https://youtu.be/imYqFvZ2PS0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "kFLKwEFutm4",
       "title": "ウェディングしよっ!",
       "published_at": "20260224",
       "url": "https://youtu.be/kFLKwEFutm4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "imYqFvZ2PS0",
+      "title": "ウーニャカ",
+      "published_at": "20260224",
+      "url": "https://youtu.be/imYqFvZ2PS0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

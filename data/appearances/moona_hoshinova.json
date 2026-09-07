@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1141,
+  "count": 1151,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12550,6 +12550,116 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IcAr3F7lDCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fWcvXq08vfI",
+      "title": "yayy colab (placeholder thumbnail)",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fWcvXq08vfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tMBs10KgWWc",
+      "title": "【Meccha Chameleon】MECCHA IDLEON LET'S GO【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tMBs10KgWWc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PbsnQNrUtiQ",
+      "title": "【MECCHA CHAMELEON】 BIG HOLOID COLLAB WOOHOO 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PbsnQNrUtiQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x7ekqcvyx2o",
+      "title": "【MECCHA CHAMELEON】Searching for HoloID!!!!",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x7ekqcvyx2o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hpaCD8RvIs4",
+      "title": "【MECCHA CHAMELEON】Koleb akbar holoID 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hpaCD8RvIs4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DxZJrQBOi4w",
+      "title": "Meccha meccha chameleon with holoID",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DxZJrQBOi4w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kxSLGQZmXq8",
+      "title": "【MECCHA CHAMELEON】BATTLE ROYALE DI GAME INI",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kxSLGQZmXq8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g924W6v9Vv8",
+      "title": "【 #ロゼキャンARK 】ARKするん！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g924W6v9Vv8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "snrg8infN-c",
+      "title": "【 #ロゼキャンARK 】DAY3✨チームA優勝目指すぞおおオオオ！ARK: Survival Ascended 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/snrg8infN-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OIu5DGmXs7o",
+      "title": "≪#ロゼキャンARK ≫ FINAL DAY!...Day 3",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OIu5DGmXs7o",
       "status": "unreviewed",
       "note": null
     }

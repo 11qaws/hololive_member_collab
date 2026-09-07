@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1568,
+  "count": 1573,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17247,6 +17247,61 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IcAr3F7lDCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fdqaPJFMO3E",
+      "title": "【 バイオハザード6 】クリス&ピアーズ編!フレわたバイオ6の夏!がんばいお!!!#5【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fdqaPJFMO3E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rQa-hflDaAg",
+      "title": "【ARK】ARK: Survival Ascended - FINAL DAY!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rQa-hflDaAg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g924W6v9Vv8",
+      "title": "【 #ロゼキャンARK 】ARKするん！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g924W6v9Vv8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "snrg8infN-c",
+      "title": "【 #ロゼキャンARK 】DAY3✨チームA優勝目指すぞおおオオオ！ARK: Survival Ascended 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/snrg8infN-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OIu5DGmXs7o",
+      "title": "≪#ロゼキャンARK ≫ FINAL DAY!...Day 3",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OIu5DGmXs7o",
       "status": "unreviewed",
       "note": null
     }

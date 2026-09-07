@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2751,
+  "count": 2756,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ABJOT6-q8nk",
+      "title": "【 #ロゼキャンARK 】DAY3！最終日！チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/ABJOT6-q8nk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ABJOT6-q8nk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gt7Rprl7NyY",
+      "title": "【 #ロゼキャンARK 】DAY３🔥エリートファミリア物語！！！！ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/gt7Rprl7NyY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gt7Rprl7NyY/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fSxTJ7MrqAc",
+      "title": "【 #ロゼキャンARK 】DAY3✨最終日！！泣いても笑っても今日で楽しく散る！！！ARK: Survival Ascended 【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/fSxTJ7MrqAc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fSxTJ7MrqAc/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0J45HENDW08",
+      "title": "【#ロゼキャンARK】DAY 3行くよ！最終日！Last Day, Let's Go Wild!【hololive ID 2nd Generation | Anya Melfissa】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/0J45HENDW08",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0J45HENDW08/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "a6Hq-dttg_g",
+      "title": "【#ロゼキャンARK】最終日！！！最後の最後まで成長太郎だ～！！！！！【白銀ノエル/ホロライブ】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/a6Hq-dttg_g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/a6Hq-dttg_g/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -111,6 +171,18 @@
       "paired_self": null
     },
     {
+      "video_id": "DzOFB7arRKE",
+      "title": "【 #ロゼキャンARK 】DAY1!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "published_at": "20260904",
+      "url": "https://youtu.be/DzOFB7arRKE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DzOFB7arRKE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "_T2s2vEiGuA",
       "title": "【 #ロゼキャンARK 】ARKでチーム戦?!うちファーム班でもいいですか?【大神ミオ視点】",
       "published_at": "20260904",
@@ -167,18 +239,6 @@
       "thumbnail": "https://img.youtube.com/vi/oK5yQYHOG7Y/mqdefault.jpg",
       "partner_handle": "kazamairoha",
       "partner_name": "Iroha ch. 風真いろは - holoX -",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "DzOFB7arRKE",
-      "title": "【 #ロゼキャンARK 】DAY1！チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
-      "published_at": "20260903",
-      "url": "https://youtu.be/DzOFB7arRKE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/DzOFB7arRKE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -2463,24 +2523,24 @@
       "paired_self": null
     },
     {
-      "video_id": "-7cYjcTL7OE",
-      "title": "Going My Way",
-      "published_at": "20260518",
-      "url": "https://youtu.be/-7cYjcTL7OE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cwysw8Fzk_w",
       "title": "Going My Way (Instrumental)",
       "published_at": "20260518",
       "url": "https://youtu.be/cwysw8Fzk_w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-7cYjcTL7OE",
+      "title": "Going My Way",
+      "published_at": "20260518",
+      "url": "https://youtu.be/-7cYjcTL7OE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -9471,24 +9531,24 @@
       "paired_self": null
     },
     {
-      "video_id": "VljDhLtP2Qc",
-      "title": "未来カンパネラ",
-      "published_at": "20250701",
-      "url": "https://youtu.be/VljDhLtP2Qc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VljDhLtP2Qc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "SLYsjtZC4gg",
       "title": "未来カンパネラ(Instrumental)",
       "published_at": "20250701",
       "url": "https://youtu.be/SLYsjtZC4gg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SLYsjtZC4gg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VljDhLtP2Qc",
+      "title": "未来カンパネラ",
+      "published_at": "20250701",
+      "url": "https://youtu.be/VljDhLtP2Qc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VljDhLtP2Qc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26463,24 +26523,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e5nxG5QCIRM",
-      "title": "リアルメランコリー",
-      "published_at": "20221130",
-      "url": "https://youtu.be/e5nxG5QCIRM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "5wqJ6yOf8qY",
       "title": "青い夢(Instrumental)",
       "published_at": "20221130",
       "url": "https://youtu.be/5wqJ6yOf8qY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5wqJ6yOf8qY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e5nxG5QCIRM",
+      "title": "リアルメランコリー",
+      "published_at": "20221130",
+      "url": "https://youtu.be/e5nxG5QCIRM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e5nxG5QCIRM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26523,24 +26583,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5bOH1CU_w40",
-      "title": "画面の中の君が好き",
-      "published_at": "20221130",
-      "url": "https://youtu.be/5bOH1CU_w40",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "b6rEZlYYWSw",
       "title": "The Last Frontier",
       "published_at": "20221130",
       "url": "https://youtu.be/b6rEZlYYWSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5bOH1CU_w40",
+      "title": "画面の中の君が好き",
+      "published_at": "20221130",
+      "url": "https://youtu.be/5bOH1CU_w40",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26643,24 +26703,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nAaUKgTHxPQ",
-      "title": "画面の中の君が好き(Instrumental)",
-      "published_at": "20221130",
-      "url": "https://youtu.be/nAaUKgTHxPQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "J2zew4y-nwU",
       "title": "フェリシア",
       "published_at": "20221130",
       "url": "https://youtu.be/J2zew4y-nwU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nAaUKgTHxPQ",
+      "title": "画面の中の君が好き(Instrumental)",
+      "published_at": "20221130",
+      "url": "https://youtu.be/nAaUKgTHxPQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31731,18 +31791,6 @@
       "paired_self": null
     },
     {
-      "video_id": "jV51aZvAwPo",
-      "title": "コトノハ",
-      "published_at": "20191111",
-      "url": "https://youtu.be/jV51aZvAwPo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jV51aZvAwPo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "YLZRPGqtMv4",
       "title": "ちいさな心が決めたこと",
       "published_at": "20191111",
@@ -31755,12 +31803,12 @@
       "paired_self": null
     },
     {
-      "video_id": "EKEPMKRZ85E",
-      "title": "世界は巡り、やがて君のものになる",
+      "video_id": "jV51aZvAwPo",
+      "title": "コトノハ",
       "published_at": "20191111",
-      "url": "https://youtu.be/EKEPMKRZ85E",
+      "url": "https://youtu.be/jV51aZvAwPo",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/jV51aZvAwPo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31791,6 +31839,18 @@
       "paired_self": null
     },
     {
+      "video_id": "EKEPMKRZ85E",
+      "title": "世界は巡り、やがて君のものになる",
+      "published_at": "20191111",
+      "url": "https://youtu.be/EKEPMKRZ85E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Mgp7oc8SofY",
       "title": "without U",
       "published_at": "20191111",
@@ -31803,24 +31863,24 @@
       "paired_self": null
     },
     {
-      "video_id": "YgRD177NeVk",
-      "title": "Starry Regrets (Batsu Remix)",
-      "published_at": "20191111",
-      "url": "https://youtu.be/YgRD177NeVk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YgRD177NeVk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cl_Qikl7YaE",
       "title": "リアルメランコリー (TEMPLIME Remix)",
       "published_at": "20191111",
       "url": "https://youtu.be/cl_Qikl7YaE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cl_Qikl7YaE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YgRD177NeVk",
+      "title": "Starry Regrets (Batsu Remix)",
+      "published_at": "20191111",
+      "url": "https://youtu.be/YgRD177NeVk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YgRD177NeVk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

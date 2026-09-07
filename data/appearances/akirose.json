@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1296,
+  "count": 1298,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14255,6 +14255,28 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/27ZyCHrah3k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0J45HENDW08",
+      "title": "【#ロゼキャンARK】DAY 3行くよ！最終日！Last Day, Let's Go Wild!【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0J45HENDW08",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ABJOT6-q8nk",
+      "title": "【 #ロゼキャンARK 】DAY3！最終日！チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ABJOT6-q8nk",
       "status": "unreviewed",
       "note": null
     }

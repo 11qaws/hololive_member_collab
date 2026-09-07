@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1426,
+  "count": 1427,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15685,6 +15685,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Lf75d5W82T8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CXz1eHQgNnk",
+      "title": "【 #ロゼキャンARK 】最終日行くぞっ！【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CXz1eHQgNnk",
       "status": "unreviewed",
       "note": null
     }

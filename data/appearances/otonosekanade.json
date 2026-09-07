@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1215,
+  "count": 1219,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13364,6 +13364,50 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xGZEDUxjUxU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2SPSYjb-K7U",
+      "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2SPSYjb-K7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rQa-hflDaAg",
+      "title": "【ARK】ARK: Survival Ascended - FINAL DAY!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rQa-hflDaAg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "snrg8infN-c",
+      "title": "【 #ロゼキャンARK 】DAY3✨チームA優勝目指すぞおおオオオ！ARK: Survival Ascended 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/snrg8infN-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OIu5DGmXs7o",
+      "title": "≪#ロゼキャンARK ≫ FINAL DAY!...Day 3",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OIu5DGmXs7o",
       "status": "unreviewed",
       "note": null
     }

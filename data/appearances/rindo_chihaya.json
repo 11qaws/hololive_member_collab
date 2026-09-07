@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1298,
+  "count": 1300,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14277,6 +14277,28 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eSu3e4rdrSo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2-m_Nil0WaQ",
+      "title": "【 7Days to Die 】襲撃くるぞおおおおおお✨ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2-m_Nil0WaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L1-6ZVoECMo",
+      "title": "ニコたんは最後まで生き残るよ^^ @RindoChihaya #虎のいる生活",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L1-6ZVoECMo",
       "status": "unreviewed",
       "note": null
     }

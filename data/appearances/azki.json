@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1074,
+  "count": 1078,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11813,6 +11813,50 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nrKahZPhJpI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gt7Rprl7NyY",
+      "title": "【 #ロゼキャンARK 】DAY３🔥エリートファミリア物語！！！！ARK: Survival Ascended【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gt7Rprl7NyY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fSxTJ7MrqAc",
+      "title": "【 #ロゼキャンARK 】DAY3✨最終日！！泣いても笑っても今日で楽しく散る！！！ARK: Survival Ascended 【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fSxTJ7MrqAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0J45HENDW08",
+      "title": "【#ロゼキャンARK】DAY 3行くよ！最終日！Last Day, Let's Go Wild!【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0J45HENDW08",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a6Hq-dttg_g",
+      "title": "【#ロゼキャンARK】最終日！！！最後の最後まで成長太郎だ～！！！！！【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a6Hq-dttg_g",
       "status": "unreviewed",
       "note": null
     }

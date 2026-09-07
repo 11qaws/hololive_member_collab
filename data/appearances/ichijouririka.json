@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1415,
+  "count": 1417,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15564,6 +15564,28 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xGZEDUxjUxU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2-m_Nil0WaQ",
+      "title": "【 7Days to Die 】襲撃くるぞおおおおおお✨ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2-m_Nil0WaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2SPSYjb-K7U",
+      "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2SPSYjb-K7U",
       "status": "unreviewed",
       "note": null
     }

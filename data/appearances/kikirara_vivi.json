@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1266,
+  "count": 1271,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -13925,6 +13925,61 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FrLpfQdAzuw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0-pvHnugGwo",
+      "title": "【みつめ】観てる景色が違うホラゲ💙すうヴィヴィ【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0-pvHnugGwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "arAYHkUgA-4",
+      "title": "【 #ロゼキャンARK 】最終日 │おかたづけできるもん‼️まだ舞える🔥【常闇トワ視点/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/arAYHkUgA-4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SUhvxyVWDEA",
+      "title": "【 #ロゼキャンARK 】ラストスパート！できることはなんでもする会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SUhvxyVWDEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wTxl2UEqRRM",
+      "title": "【 #ロゼキャンARK 】DAY 3 │ FINAL DAY!!!!!!!!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wTxl2UEqRRM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KY9gH8EeKPQ",
+      "title": "【#ロゼキャンARK】TeamsC　おかたづけできるもん！DAY３【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KY9gH8EeKPQ",
       "status": "unreviewed",
       "note": null
     }

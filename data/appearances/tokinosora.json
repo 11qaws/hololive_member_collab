@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 852,
+  "count": 853,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9371,6 +9371,17 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CYce1mozNRo",
+      "title": "hololive Next 2026.9.7|【最新情報公開】ホロライブ10周年へのカウントダウンが始まります。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260901",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CYce1mozNRo",
       "status": "unreviewed",
       "note": null
     }

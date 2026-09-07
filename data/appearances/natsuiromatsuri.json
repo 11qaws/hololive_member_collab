@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1449,
+  "count": 1450,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -15938,6 +15938,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rYDHLtxr8Zk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2-m_Nil0WaQ",
+      "title": "【 7Days to Die 】襲撃くるぞおおおおおお✨ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2-m_Nil0WaQ",
       "status": "unreviewed",
       "note": null
     }

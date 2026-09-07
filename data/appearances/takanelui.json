@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1466,
+  "count": 1467,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16125,6 +16125,17 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YbubWOU_i-j",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vxp6wu8cOM4",
+      "title": "【同時視聴/Watchalong】〈偽物語〉(前編1~7話)holoXで視聴会!アニメ映像あり!📺✨【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vxp6wu8cOM4",
       "status": "unreviewed",
       "note": null
     }

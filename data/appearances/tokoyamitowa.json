@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1610,
+  "count": 1615,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17709,6 +17709,61 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RAE-GQinAWk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2-m_Nil0WaQ",
+      "title": "【 7Days to Die 】襲撃くるぞおおおおおお✨ #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2-m_Nil0WaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SUhvxyVWDEA",
+      "title": "【 #ロゼキャンARK 】ラストスパート！できることはなんでもする会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SUhvxyVWDEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wTxl2UEqRRM",
+      "title": "【 #ロゼキャンARK 】DAY 3 │ FINAL DAY!!!!!!!!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wTxl2UEqRRM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0br3Y9jx7VI",
+      "title": "【#ロゼキャンARK 】DAY3！チームC！優勝狙って最後まで戦う！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0br3Y9jx7VI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KY9gH8EeKPQ",
+      "title": "【#ロゼキャンARK】TeamsC　おかたづけできるもん！DAY３【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KY9gH8EeKPQ",
       "status": "unreviewed",
       "note": null
     }

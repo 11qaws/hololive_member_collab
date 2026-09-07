@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 977,
+  "count": 984,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -10746,6 +10746,83 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VDPK4AAA5Q4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hpaCD8RvIs4",
+      "title": "【MECCHA CHAMELEON】Koleb akbar holoID 【 iofi / hololiveID 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hpaCD8RvIs4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DxZJrQBOi4w",
+      "title": "Meccha meccha chameleon with holoID",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DxZJrQBOi4w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PbsnQNrUtiQ",
+      "title": "【MECCHA CHAMELEON】 BIG HOLOID COLLAB WOOHOO 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive-ID",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PbsnQNrUtiQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tMBs10KgWWc",
+      "title": "【Meccha Chameleon】MECCHA IDLEON LET'S GO【hololive ID 2nd Generation | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tMBs10KgWWc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kxSLGQZmXq8",
+      "title": "【MECCHA CHAMELEON】BATTLE ROYALE DI GAME INI",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kxSLGQZmXq8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xxE6CQZ1sT8",
+      "title": "【MECCHA CHAMELEON】Where's holoID?【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive-ID",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xxE6CQZ1sT8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x7ekqcvyx2o",
+      "title": "【MECCHA CHAMELEON】Searching for HoloID!!!!",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive-ID",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x7ekqcvyx2o",
       "status": "unreviewed",
       "note": null
     }

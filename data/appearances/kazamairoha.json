@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1028,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11307,6 +11307,61 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FrLpfQdAzuw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vxp6wu8cOM4",
+      "title": "【同時視聴/Watchalong】〈偽物語〉(前編1~7話)holoXで視聴会!アニメ映像あり!📺✨【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260829",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vxp6wu8cOM4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "arAYHkUgA-4",
+      "title": "【 #ロゼキャンARK 】最終日 │おかたづけできるもん‼️まだ舞える🔥【常闇トワ視点/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/arAYHkUgA-4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wTxl2UEqRRM",
+      "title": "【 #ロゼキャンARK 】DAY 3 │ FINAL DAY!!!!!!!!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wTxl2UEqRRM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0br3Y9jx7VI",
+      "title": "【#ロゼキャンARK 】DAY3！チームC！優勝狙って最後まで戦う！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0br3Y9jx7VI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KY9gH8EeKPQ",
+      "title": "【#ロゼキャンARK】TeamsC　おかたづけできるもん！DAY３【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KY9gH8EeKPQ",
       "status": "unreviewed",
       "note": null
     }
