@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1173,
+  "count": 1174,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12902,6 +12902,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M8smuD1OIy4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Bv73ukncvVs",
+      "title": "【 みつめ 】怖がりな二人で異変を探せ！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #水宮枢 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Bv73ukncvVs",
       "status": "unreviewed",
       "note": null
     }

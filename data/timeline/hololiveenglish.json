@@ -1,7 +1,19 @@
 {
   "target": "hololiveenglish",
-  "count": 681,
+  "count": 682,
   "entries": [
+    {
+      "video_id": "CYce1mozNRo",
+      "title": "hololive Next 2026.9.7｜【最新情報公開】ホロライブ10周年へのカウントダウンが始まります。",
+      "published_at": "20260907",
+      "url": "https://youtu.be/CYce1mozNRo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CYce1mozNRo/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1oAABW24gME",
       "title": "The Winner Takes It All✨✨ #teamwork #challenge #summer",
@@ -8031,24 +8043,24 @@
       "paired_self": null
     },
     {
-      "video_id": "BOWi6Pclr48",
-      "title": "Omen|#holoENOmen",
-      "published_at": "20210815",
-      "url": "https://youtu.be/BOWi6Pclr48",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BOWi6Pclr48/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "xAp6QzMlTEY",
       "title": "兆し|#holoENOmen",
       "published_at": "20210815",
       "url": "https://youtu.be/xAp6QzMlTEY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/xAp6QzMlTEY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BOWi6Pclr48",
+      "title": "Omen|#holoENOmen",
+      "published_at": "20210815",
+      "url": "https://youtu.be/BOWi6Pclr48",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BOWi6Pclr48/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

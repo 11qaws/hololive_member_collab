@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1417,
+  "count": 1423,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15586,6 +15586,72 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2SPSYjb-K7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eBrln7M6Rdo",
+      "title": "【7Days to Die】冷静にさばいていくッ!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eBrln7M6Rdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JuwkxK4_GSc",
+      "title": "【DAY9】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JuwkxK4_GSc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "os_UPbRDYt4",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY8【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/os_UPbRDYt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HULJY5ZMKmo",
+      "title": "【7Days to Die】砂漠あちあちゾンビ!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HULJY5ZMKmo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-m4tBKumcXw",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY7🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-m4tBKumcXw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W6dbvxDA97E",
+      "title": "【 DAY8 】#ホロ7大豆劇場 ‼️砂漠襲撃🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W6dbvxDA97E",
       "status": "unreviewed",
       "note": null
     }

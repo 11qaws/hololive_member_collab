@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1442,
+  "count": 1444,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15861,6 +15861,28 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1wkSs2_-bss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iJWZojWSIH4",
+      "title": "＼\\　1st Pokajan King Championship　/／",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iJWZojWSIH4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B33RYn2Q88g",
+      "title": "Reine's Birthday Classroom #ReineMEPtember2026",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive-ID",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B33RYn2Q88g",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1401,
+  "count": 1402,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15410,6 +15410,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hpaCD8RvIs4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iJWZojWSIH4",
+      "title": "＼\\　1st Pokajan King Championship　/／",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iJWZojWSIH4",
       "status": "unreviewed",
       "note": null
     }

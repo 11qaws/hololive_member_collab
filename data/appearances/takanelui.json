@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1467,
+  "count": 1468,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16136,6 +16136,17 @@
       "published_at": "20260829",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Vxp6wu8cOM4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DzcnVElrWEo",
+      "title": "💪一枚上手だったのは? #hololive #ホロライブ #勝負",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DzcnVElrWEo",
       "status": "unreviewed",
       "note": null
     }

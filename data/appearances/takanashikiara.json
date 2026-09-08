@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1099,
+  "count": 1100,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12088,6 +12088,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OSt_jg3VRE8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B33RYn2Q88g",
+      "title": "Reine's Birthday Classroom #ReineMEPtember2026",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive-ID",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B33RYn2Q88g",
       "status": "unreviewed",
       "note": null
     }

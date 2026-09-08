@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2363,
+  "count": 2366,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -25992,6 +25992,39 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ABJOT6-q8nk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iJWZojWSIH4",
+      "title": "＼\\　1st Pokajan King Championship　/／",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iJWZojWSIH4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eBrln7M6Rdo",
+      "title": "【7Days to Die】冷静にさばいていくッ!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eBrln7M6Rdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JuwkxK4_GSc",
+      "title": "【DAY9】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JuwkxK4_GSc",
       "status": "unreviewed",
       "note": null
     }

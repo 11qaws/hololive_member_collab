@@ -1,6 +1,6 @@
 {
   "target": "hololiveindonesia",
-  "count": 2,
+  "count": 3,
   "appearances": [
     {
       "video_id": "GvDwA90OOuU",
@@ -21,6 +21,17 @@
       "published_at": "20260218",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mwWZ7ix_qBw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CYce1mozNRo",
+      "title": "hololive Next 2026.9.7｜【最新情報公開】ホロライブ10周年へのカウントダウンが始まります。",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CYce1mozNRo",
       "status": "unreviewed",
       "note": null
     }

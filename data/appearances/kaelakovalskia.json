@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1091,
+  "count": 1093,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12000,6 +12000,28 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PbsnQNrUtiQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aBdxn6_hGYE",
+      "title": "【BOMBANANA!】MONKEY SEE MONKEY DO MONKEY DEAF",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aBdxn6_hGYE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r0QXG1mKwag",
+      "title": "【BOMBANANA!】🍌🙈🙉🙊🍌 monke time",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r0QXG1mKwag",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1476,
+  "count": 1477,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16235,6 +16235,17 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pLe4ALliPj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iJWZojWSIH4",
+      "title": "＼\\　1st Pokajan King Championship　/／",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iJWZojWSIH4",
       "status": "unreviewed",
       "note": null
     }

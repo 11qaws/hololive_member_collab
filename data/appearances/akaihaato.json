@@ -1,6 +1,6 @@
 {
   "target": "akaihaato",
-  "count": 735,
+  "count": 736,
   "appearances": [
     {
       "video_id": "dKhLn-042Yo",
@@ -8084,6 +8084,17 @@
       "published_at": "20200416",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n2yIIhJl3mo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B33RYn2Q88g",
+      "title": "Reine's Birthday Classroom #ReineMEPtember2026",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive-ID",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B33RYn2Q88g",
       "status": "unreviewed",
       "note": null
     }

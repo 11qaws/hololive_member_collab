@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1007,
+  "count": 1009,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11076,6 +11076,28 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fWcvXq08vfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B33RYn2Q88g",
+      "title": "Reine's Birthday Classroom #ReineMEPtember2026",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive-ID",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B33RYn2Q88g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aBdxn6_hGYE",
+      "title": "【BOMBANANA!】MONKEY SEE MONKEY DO MONKEY DEAF",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aBdxn6_hGYE",
       "status": "unreviewed",
       "note": null
     }
