@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2090,
+  "count": 2091,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -22989,6 +22989,17 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eBrln7M6Rdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eX02LKDWsk4",
+      "title": "【7Days to Die】銃がつよくなりました!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eX02LKDWsk4",
       "status": "unreviewed",
       "note": null
     }

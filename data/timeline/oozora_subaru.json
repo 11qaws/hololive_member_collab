@@ -1,7 +1,19 @@
 {
   "target": "oozora_subaru",
-  "count": 4843,
+  "count": 4844,
   "entries": [
+    {
+      "video_id": "eX02LKDWsk4",
+      "title": "【7Days to Die】銃がつよくなりました!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/eX02LKDWsk4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eX02LKDWsk4/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "JuwkxK4_GSc",
       "title": "【DAY9】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
@@ -35,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/eBrln7M6Rdo/mqdefault.jpg",
       "partner_handle": "natsuiromatsuri",
       "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CsgSjtBzlvg",
+      "title": "【#ロゼキャンARK】ARK最終日やるしゅばあああああああああああああああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/CsgSjtBzlvg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CsgSjtBzlvg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -275,18 +299,6 @@
       "thumbnail": "https://img.youtube.com/vi/oK5yQYHOG7Y/mqdefault.jpg",
       "partner_handle": "kazamairoha",
       "partner_name": "Iroha ch. 風真いろは - holoX -",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "CsgSjtBzlvg",
-      "title": "【#ロゼキャンARK】ARK最終日やるしゅばあああああああああああああああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-      "published_at": "20260903",
-      "url": "https://youtu.be/CsgSjtBzlvg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/CsgSjtBzlvg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -58095,24 +58107,24 @@
       "paired_self": null
     },
     {
-      "video_id": "NwMgbflN-gg",
-      "title": "【】鋼の錬金術師 Fullmetal Alchemist. 同時視聴 / Fullmetal Alchemist watching party【ホロライブ/大空スバル】",
-      "published_at": "",
-      "url": "https://youtu.be/NwMgbflN-gg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/NwMgbflN-gg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "KF6wXrObu5Y",
       "title": "【#ホロ落選マリカ】落選者・・・？？？取り消せよ！！！！今の言葉・・・！！！！！！！！！！！！！！：Mario Kart 8 Deluxe【ホロライブ/大空スバル】",
       "published_at": "",
       "url": "https://youtu.be/KF6wXrObu5Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/KF6wXrObu5Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NwMgbflN-gg",
+      "title": "【】鋼の錬金術師 Fullmetal Alchemist. 同時視聴 / Fullmetal Alchemist watching party【ホロライブ/大空スバル】",
+      "published_at": "",
+      "url": "https://youtu.be/NwMgbflN-gg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NwMgbflN-gg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

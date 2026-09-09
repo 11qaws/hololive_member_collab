@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1100,
+  "count": 1102,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12099,6 +12099,28 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B33RYn2Q88g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tYLnktu3OPU",
+      "title": "【 #ReineMEPtember2026 】Reine B'Day Classroom -Field Trip: Food & Games-",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tYLnktu3OPU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CEJE1XUlvYI",
+      "title": "JUST GIVE ME 😡 MY ICE CREAM 💢💢 #prank #icecream #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CEJE1XUlvYI",
       "status": "unreviewed",
       "note": null
     }

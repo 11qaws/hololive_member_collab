@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3733,
+  "count": 3736,
   "entries": [
     {
       "video_id": "nRVyHonr-gI",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/nRVyHonr-gI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eX02LKDWsk4",
+      "title": "【7Days to Die】銃がつよくなりました!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/eX02LKDWsk4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eX02LKDWsk4/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4m4J3YuFqrI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY8🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/4m4J3YuFqrI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4m4J3YuFqrI/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TH4Dsz3Fi3Q",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY9【ホロライブ/白上フブキ】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/TH4Dsz3Fi3Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TH4Dsz3Fi3Q/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -6567,24 +6603,24 @@
       "paired_self": null
     },
     {
-      "video_id": "darS1jexgTw",
-      "title": "TRUTH",
-      "published_at": "20251007",
-      "url": "https://youtu.be/darS1jexgTw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "c2hP0qWGgaA",
       "title": "凛",
       "published_at": "20251007",
       "url": "https://youtu.be/c2hP0qWGgaA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "darS1jexgTw",
+      "title": "TRUTH",
+      "published_at": "20251007",
+      "url": "https://youtu.be/darS1jexgTw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -6603,24 +6639,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Afj_iZ_04ME",
-      "title": "バズビバザヴ",
-      "published_at": "20251007",
-      "url": "https://youtu.be/Afj_iZ_04ME",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "KcJKbMtIFfg",
       "title": "不可視",
       "published_at": "20251007",
       "url": "https://youtu.be/KcJKbMtIFfg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Afj_iZ_04ME",
+      "title": "バズビバザヴ",
+      "published_at": "20251007",
+      "url": "https://youtu.be/Afj_iZ_04ME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

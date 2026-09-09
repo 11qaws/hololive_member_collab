@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2757,
+  "count": 2758,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "h2xFfIo0suo",
+      "title": "#現世アリス / #ロボ子さん 踊ってみた!#AZKi #ホロライブ #hololive #shorts",
+      "published_at": "20260908",
+      "url": "https://youtu.be/h2xFfIo0suo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/h2xFfIo0suo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +40,7 @@
     },
     {
       "video_id": "ABJOT6-q8nk",
-      "title": "【 #ロゼキャンARK 】DAY3！最終日！チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
+      "title": "【 #ロゼキャンARK 】DAY3!最終日!チームで力を合わせてMISSION攻略🔥ARK: Survival Ascended【ホロライブ / AZKi】",
       "published_at": "20260906",
       "url": "https://youtu.be/ABJOT6-q8nk",
       "entry_type": "stream",
@@ -6699,24 +6711,24 @@
       "paired_self": null
     },
     {
-      "video_id": "0Q90Yw1ZSI8",
-      "title": "自己アレルギー",
-      "published_at": "20251110",
-      "url": "https://youtu.be/0Q90Yw1ZSI8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aH2u7EKJLjc",
       "title": "世界は巡り、やがて君のものになる",
       "published_at": "20251110",
       "url": "https://youtu.be/aH2u7EKJLjc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0Q90Yw1ZSI8",
+      "title": "自己アレルギー",
+      "published_at": "20251110",
+      "url": "https://youtu.be/0Q90Yw1ZSI8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31803,18 +31815,6 @@
       "paired_self": null
     },
     {
-      "video_id": "YLZRPGqtMv4",
-      "title": "ちいさな心が決めたこと",
-      "published_at": "20191111",
-      "url": "https://youtu.be/YLZRPGqtMv4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jV51aZvAwPo",
       "title": "コトノハ",
       "published_at": "20191111",
@@ -31827,12 +31827,12 @@
       "paired_self": null
     },
     {
-      "video_id": "EKEPMKRZ85E",
-      "title": "世界は巡り、やがて君のものになる",
+      "video_id": "YLZRPGqtMv4",
+      "title": "ちいさな心が決めたこと",
       "published_at": "20191111",
-      "url": "https://youtu.be/EKEPMKRZ85E",
+      "url": "https://youtu.be/YLZRPGqtMv4",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/YLZRPGqtMv4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31845,6 +31845,18 @@
       "url": "https://youtu.be/UasbmTP2lTA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UasbmTP2lTA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EKEPMKRZ85E",
+      "title": "世界は巡り、やがて君のものになる",
+      "published_at": "20191111",
+      "url": "https://youtu.be/EKEPMKRZ85E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EKEPMKRZ85E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31875,24 +31887,24 @@
       "paired_self": null
     },
     {
-      "video_id": "YgRD177NeVk",
-      "title": "Starry Regrets (Batsu Remix)",
-      "published_at": "20191111",
-      "url": "https://youtu.be/YgRD177NeVk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YgRD177NeVk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cl_Qikl7YaE",
       "title": "リアルメランコリー (TEMPLIME Remix)",
       "published_at": "20191111",
       "url": "https://youtu.be/cl_Qikl7YaE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cl_Qikl7YaE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YgRD177NeVk",
+      "title": "Starry Regrets (Batsu Remix)",
+      "published_at": "20191111",
+      "url": "https://youtu.be/YgRD177NeVk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YgRD177NeVk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

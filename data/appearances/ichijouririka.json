@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1423,
+  "count": 1426,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15652,6 +15652,39 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W6dbvxDA97E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eX02LKDWsk4",
+      "title": "【7Days to Die】銃がつよくなりました!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eX02LKDWsk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AvQlyDZvnh4",
+      "title": "【 #ミュージアムグッズプレゼン対決 】莉々華とミネルヴァさん(ヤマザキマリ先生)を満足させるのはどっちだ!大澤夏美さんvs儒烏風亭らでん【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AvQlyDZvnh4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LoeMfF4a6TA",
+      "title": "チーズケーキはチーズの味がするパン...?🧀 #りりなで食事の流儀 #一条莉々華 #音乃瀬奏 #ReGLOSS #VTuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LoeMfF4a6TA",
       "status": "unreviewed",
       "note": null
     }

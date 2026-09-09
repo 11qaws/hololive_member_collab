@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 747,
+  "count": 748,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8216,6 +8216,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CXz1eHQgNnk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CEJE1XUlvYI",
+      "title": "JUST GIVE ME 😡 MY ICE CREAM 💢💢 #prank #icecream #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CEJE1XUlvYI",
       "status": "unreviewed",
       "note": null
     }

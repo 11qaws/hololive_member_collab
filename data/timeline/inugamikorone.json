@@ -1,7 +1,19 @@
 {
   "target": "inugamikorone",
-  "count": 2983,
+  "count": 2984,
   "entries": [
+    {
+      "video_id": "eH8fAFQYZAE",
+      "title": "機材テスト配信(メンバー限定)",
+      "published_at": "20260908",
+      "url": "https://youtu.be/eH8fAFQYZAE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eH8fAFQYZAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "gRIUwld3B4g",
       "title": "【Memberships only】雑談しようね凹",
@@ -35763,12 +35775,12 @@
       "paired_self": null
     },
     {
-      "video_id": "kNI_f1Y5HZY",
-      "title": "Korone Ch. 戌神ころね のライブ配信",
+      "video_id": "BdELpIqS_QQ",
+      "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】",
       "published_at": "",
-      "url": "https://youtu.be/kNI_f1Y5HZY",
+      "url": "https://youtu.be/BdELpIqS_QQ",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kNI_f1Y5HZY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/BdELpIqS_QQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35787,12 +35799,12 @@
       "paired_self": null
     },
     {
-      "video_id": "BdELpIqS_QQ",
-      "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】",
+      "video_id": "kNI_f1Y5HZY",
+      "title": "Korone Ch. 戌神ころね のライブ配信",
       "published_at": "",
-      "url": "https://youtu.be/BdELpIqS_QQ",
+      "url": "https://youtu.be/kNI_f1Y5HZY",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BdELpIqS_QQ/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/kNI_f1Y5HZY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

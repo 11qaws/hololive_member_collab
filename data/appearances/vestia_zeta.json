@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1009,
+  "count": 1011,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11098,6 +11098,28 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aBdxn6_hGYE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z7PAkmS7M_E",
+      "title": "【An Eggstremely Hard Game】FUN TIME NO RAGING WITH MY CAT PART 2",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z7PAkmS7M_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tYLnktu3OPU",
+      "title": "【 #ReineMEPtember2026 】Reine B'Day Classroom -Field Trip: Food & Games-",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tYLnktu3OPU",
       "status": "unreviewed",
       "note": null
     }

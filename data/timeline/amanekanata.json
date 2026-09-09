@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 3579,
+  "count": 3580,
   "entries": [
     {
       "video_id": "NTC5kWgW1sQ",
@@ -26115,24 +26115,24 @@
       "paired_self": null
     },
     {
-      "video_id": "wToRgQzYAA0",
-      "title": "天使のagape",
-      "published_at": "20211227",
-      "url": "https://youtu.be/wToRgQzYAA0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/wToRgQzYAA0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cRGL4OOQM3Q",
       "title": "天使のagape (Instrumental)",
       "published_at": "20211227",
       "url": "https://youtu.be/cRGL4OOQM3Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cRGL4OOQM3Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wToRgQzYAA0",
+      "title": "天使のagape",
+      "published_at": "20211227",
+      "url": "https://youtu.be/wToRgQzYAA0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wToRgQzYAA0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32487,6 +32487,18 @@
       "paired_self": null
     },
     {
+      "video_id": "1Ts7X3vtYgQ",
+      "title": "【#アキロゼ生誕祭2021 #AkiRoseBirthday2021】初アイドル衣装で3D生誕祭だ~!【ホロライブ/アキロゼ】",
+      "published_at": "20210317",
+      "url": "https://youtu.be/1Ts7X3vtYgQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1Ts7X3vtYgQ/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "pvvUD3hpqOQ",
       "title": "Sample ASMR/We'll do it again soon!",
       "published_at": "20210316",
@@ -35919,24 +35931,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dhXHPF8YYU0",
-      "title": "【GTAV】危険運転注意！ドライブでデンジャラス大暴れ！！！【天音かなた/ホロライブ】",
-      "published_at": "20201112",
-      "url": "https://youtu.be/dhXHPF8YYU0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dhXHPF8YYU0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zrGP0H8zjq0",
       "title": "【GTAV】危険運転注意！ドライブでデンジャラス大暴れ！！！【天音かなた/ホロライブ】",
       "published_at": "20201112",
       "url": "https://youtu.be/zrGP0H8zjq0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zrGP0H8zjq0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dhXHPF8YYU0",
+      "title": "【GTAV】危険運転注意！ドライブでデンジャラス大暴れ！！！【天音かなた/ホロライブ】",
+      "published_at": "20201112",
+      "url": "https://youtu.be/dhXHPF8YYU0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dhXHPF8YYU0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

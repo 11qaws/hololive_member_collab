@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2215,
+  "count": 2220,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tL_lW4w4RxI",
+      "title": "【 3周年 】重大告知アリ!思い出の切り抜き見よう~!【音乃瀬奏】#ReGLOSS",
+      "published_at": "20260908",
+      "url": "https://youtu.be/tL_lW4w4RxI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tL_lW4w4RxI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6GyLNWfGvs8",
+      "title": "【 Machine Party 】情破壊ゲーらしいけど大丈夫そう・・・?【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "20260908",
+      "url": "https://youtu.be/6GyLNWfGvs8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6GyLNWfGvs8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X4W9H1wdYZI",
+      "title": "【 Machine Party 】デスゲームのお時間です!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/X4W9H1wdYZI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X4W9H1wdYZI/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QxRPZD-dpAQ",
+      "title": "#ReGLOSS3周年 配信まであと4日🎉 ぜひ見にきてくださ〜い! #音乃瀬奏 #ReGLOSS #VTuber #shorts",
+      "published_at": "20260908",
+      "url": "https://youtu.be/QxRPZD-dpAQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QxRPZD-dpAQ/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,8 +75,20 @@
       "paired_self": null
     },
     {
+      "video_id": "LoeMfF4a6TA",
+      "title": "チーズケーキはチーズの味がするパン...?🧀 #りりなで食事の流儀 #一条莉々華 #音乃瀬奏 #ReGLOSS #VTuber #shorts",
+      "published_at": "20260907",
+      "url": "https://youtu.be/LoeMfF4a6TA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LoeMfF4a6TA/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "g924W6v9Vv8",
-      "title": "【 #ロゼキャンARK 】ARKするん！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 #ロゼキャンARK 】ARKするん!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "20260906",
       "url": "https://youtu.be/g924W6v9Vv8",
       "entry_type": "stream",
@@ -26559,24 +26619,24 @@
       "paired_self": null
     },
     {
-      "video_id": "mVNF0Opghnc",
-      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published_at": "",
-      "url": "https://youtu.be/mVNF0Opghnc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "MBxH_i3bAhA",
       "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
       "published_at": "",
       "url": "https://youtu.be/MBxH_i3bAhA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mVNF0Opghnc",
+      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "",
+      "url": "https://youtu.be/mVNF0Opghnc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

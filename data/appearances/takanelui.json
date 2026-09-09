@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1468,
+  "count": 1469,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16147,6 +16147,17 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DzcnVElrWEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ceYmMQjCbz8",
+      "title": "【手描きアニメ】ねえ!話聞いてよおおおお!!!!/伊っ達さ-マキシウキョウ 【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】#shorts",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ceYmMQjCbz8",
       "status": "unreviewed",
       "note": null
     }

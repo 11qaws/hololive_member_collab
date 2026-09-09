@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1623,
+  "count": 1626,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17852,6 +17852,39 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7Bkp3cHDY74",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eX02LKDWsk4",
+      "title": "【7Days to Die】銃がつよくなりました!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eX02LKDWsk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4m4J3YuFqrI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY8🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4m4J3YuFqrI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TH4Dsz3Fi3Q",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY9【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TH4Dsz3Fi3Q",
       "status": "unreviewed",
       "note": null
     }

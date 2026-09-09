@@ -1,6 +1,6 @@
 {
   "target": "kiryucoco",
-  "count": 405,
+  "count": 406,
   "appearances": [
     {
       "video_id": "8WphWiNYbzk",
@@ -4454,6 +4454,17 @@
       "published_at": "20200705",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZUW6CcY-Yf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1Ts7X3vtYgQ",
+      "title": "【#アキロゼ生誕祭2021 #AkiRoseBirthday2021】初アイドル衣装で3D生誕祭だ~!【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20210317",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1Ts7X3vtYgQ",
       "status": "unreviewed",
       "note": null
     }

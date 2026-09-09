@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 3048,
+  "count": 3050,
   "entries": [
     {
       "video_id": "B33RYn2Q88g",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/B33RYn2Q88g/mqdefault.jpg",
       "partner_handle": "pavoliareine",
       "partner_name": "Pavolia Reine Ch. hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CEJE1XUlvYI",
+      "title": "JUST GIVE ME 😡 MY ICE CREAM 💢💢 #prank #icecream #hololive",
+      "published_at": "20260909",
+      "url": "https://youtu.be/CEJE1XUlvYI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CEJE1XUlvYI/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tYLnktu3OPU",
+      "title": "【 #ReineMEPtember2026 】Reine B'Day Classroom -Field Trip: Food & Games-",
+      "published_at": "20260908",
+      "url": "https://youtu.be/tYLnktu3OPU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tYLnktu3OPU/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40,7 +64,7 @@
     },
     {
       "video_id": "oF7Z1rvaUfo",
-      "title": "【watchalong】AVENGERS ENDGAME (no spoilers pls) #kfp #キアライブ",
+      "title": "【watchalong】AVENGERS ENDGAME (no spoilers pls)  #kfp #キアライブ",
       "published_at": "20260906",
       "url": "https://youtu.be/oF7Z1rvaUfo",
       "entry_type": "stream",
@@ -53,7 +77,7 @@
     {
       "video_id": "1b1VhDCFRzY",
       "title": "【POKÉMON FIRE RED】come here raora psspsspsss !!!!!!!【SOUL-LINK NUZLOCKE】",
-      "published_at": "20260905",
+      "published_at": "20260906",
       "url": "https://youtu.be/1b1VhDCFRzY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1b1VhDCFRzY/mqdefault.jpg",
@@ -33627,24 +33651,24 @@
       "paired_self": null
     },
     {
-      "video_id": "e3w1R869Kc8",
-      "title": "Heart Challenger",
-      "published_at": "20210214",
-      "url": "https://youtu.be/e3w1R869Kc8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/e3w1R869Kc8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "t_oZp7uLttI",
       "title": "Heart Challenger (Instrumental)",
       "published_at": "20210214",
       "url": "https://youtu.be/t_oZp7uLttI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/t_oZp7uLttI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "e3w1R869Kc8",
+      "title": "Heart Challenger",
+      "published_at": "20210214",
+      "url": "https://youtu.be/e3w1R869Kc8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/e3w1R869Kc8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

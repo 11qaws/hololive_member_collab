@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1458,
+  "count": 1462,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16037,6 +16037,50 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W6dbvxDA97E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4m4J3YuFqrI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY8🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4m4J3YuFqrI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TH4Dsz3Fi3Q",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY9【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TH4Dsz3Fi3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nRVyHonr-gI",
+      "title": "【 DAY9 】#ホロ7大豆劇場 ‼️襲撃前のChill回✨️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nRVyHonr-gI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1Ts7X3vtYgQ",
+      "title": "【#アキロゼ生誕祭2021 #AkiRoseBirthday2021】初アイドル衣装で3D生誕祭だ~!【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20210317",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1Ts7X3vtYgQ",
       "status": "unreviewed",
       "note": null
     }

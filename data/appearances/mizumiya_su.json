@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1174,
+  "count": 1176,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12913,6 +12913,28 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Bv73ukncvVs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X4W9H1wdYZI",
+      "title": "【 Machine Party 】デスゲームのお時間です!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X4W9H1wdYZI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6GyLNWfGvs8",
+      "title": "【 Machine Party 】情破壊ゲーらしいけど大丈夫そう・・・?【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6GyLNWfGvs8",
       "status": "unreviewed",
       "note": null
     }

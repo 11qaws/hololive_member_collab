@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1444,
+  "count": 1446,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15883,6 +15883,28 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B33RYn2Q88g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tYLnktu3OPU",
+      "title": "【 #ReineMEPtember2026 】Reine B'Day Classroom -Field Trip: Food & Games-",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tYLnktu3OPU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W43c9qfYZAk",
+      "title": "【 MLBxhololive 】ロサンゼルス・ドジャース(大谷翔平,山本由伸,佐々木朗希選手所属) VS シンシナティ・レッズや日本人選手出場試合を応援しよう!【森カリオペ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W43c9qfYZAk",
       "status": "unreviewed",
       "note": null
     }

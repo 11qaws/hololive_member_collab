@@ -1,7 +1,31 @@
 {
   "target": "usadapekora",
-  "count": 4698,
+  "count": 4700,
   "entries": [
+    {
+      "video_id": "MziJjLR4sa8",
+      "title": "【同時視聴】Nintendo Direct 2026.9.9を一緒に見よう!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20260908",
+      "url": "https://youtu.be/MziJjLR4sa8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MziJjLR4sa8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SsdxVhwxyYo",
+      "title": "【鬼武者 Way of the Sword】シリーズ初見!人生初の「鬼武者」参るッ!ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "published_at": "20260908",
+      "url": "https://youtu.be/SsdxVhwxyYo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SsdxVhwxyYo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ceuoWdvqRvY",
       "title": "【切り抜きNG】hololive Next 2026.9.7 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
@@ -21,6 +45,18 @@
       "url": "https://youtu.be/5Z38a6Go8wQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5Z38a6Go8wQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wHgTOqhUJdI",
+      "title": "【#ロゼキャンARK】DAY3最終日🦖Aチーム優勝いくぞ‼ ARK: Survival Ascended【ホロライブ/兎田ぺこら】",
+      "published_at": "20260906",
+      "url": "https://youtu.be/wHgTOqhUJdI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wHgTOqhUJdI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/OIu5DGmXs7o/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive-EN",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "wHgTOqhUJdI",
-      "title": "【#ロゼキャンARK】DAY3最終日🦖Aチーム優勝いくぞ‼ ARK: Survival Ascended【ホロライブ/兎田ぺこら】",
-      "published_at": "20260905",
-      "url": "https://youtu.be/wHgTOqhUJdI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/wHgTOqhUJdI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
