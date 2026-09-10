@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1310,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14409,6 +14409,94 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nRVyHonr-gI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gh_KBdLlHB4",
+      "title": "【DAY11】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gh_KBdLlHB4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L-c8R712bXc",
+      "title": "【7Days to Die】#ホロ7大豆劇場 DAY10🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L-c8R712bXc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W6QmPJhcMLk",
+      "title": "【7 Days to Die】再!!!!#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY10【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W6QmPJhcMLk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "McJYSUhyA4U",
+      "title": "【DAY10】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/McJYSUhyA4U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hvlAlhDS9SQ",
+      "title": "【7 Days to Die】#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY10【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hvlAlhDS9SQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QUuqWorbg3I",
+      "title": "【 DAY10 】#ホロ7大豆劇場 ‼️砂漠襲撃→引っ越し🚐回【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QUuqWorbg3I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bqtBfAWTh-0",
+      "title": "【 7Days to Die 】今日もゾンビの世界じゃああ! #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bqtBfAWTh-0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u0V76xxksAY",
+      "title": "🎮懐かしゲームあるある📺 #カセットに名前書いてある #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u0V76xxksAY",
       "status": "unreviewed",
       "note": null
     }

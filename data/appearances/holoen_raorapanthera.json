@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 748,
+  "count": 749,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8227,6 +8227,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CEJE1XUlvYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X6RpgsimpvM",
+      "title": "【MECCHA CHAMELEON COLLAB】you'll never find us hiding in plain sight 🐾 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X6RpgsimpvM",
       "status": "unreviewed",
       "note": null
     }

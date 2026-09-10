@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1231,
+  "count": 1232,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13540,6 +13540,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/snrg8infN-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_H0R7DrqVdz",
+      "title": "【Sponsored】BLACK BALLOON Apparel w/ Bae",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_H0R7DrqVdz",
       "status": "unreviewed",
       "note": null
     }

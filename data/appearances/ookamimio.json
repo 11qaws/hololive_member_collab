@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1950,
+  "count": 1951,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21449,6 +21449,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ABJOT6-q8nk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u0V76xxksAY",
+      "title": "🎮懐かしゲームあるある📺 #カセットに名前書いてある #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u0V76xxksAY",
       "status": "unreviewed",
       "note": null
     }

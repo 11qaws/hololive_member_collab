@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1656,
+  "count": 1658,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18215,6 +18215,28 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OIu5DGmXs7o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6Pe4NNewLYk",
+      "title": "【 Unpossess 2 】3人で悪魔祓い⁉️IKZZZZZ😭😭😭 | Unpossess 2: Exorcism Simulator【 猫又おかゆ視点/ #スバおかぺっこっぴー 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6Pe4NNewLYk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VOtoiE4KfVQ",
+      "title": "あなたは、覚えていますか?【#一条莉々華3周年 #一条莉々華の限界飯】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VOtoiE4KfVQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 2181,
+  "count": 2183,
   "entries": [
     {
       "video_id": "iJWZojWSIH4",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/iJWZojWSIH4",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/iJWZojWSIH4/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L8-AMcVfZt4",
+      "title": "【CHAT】Thank You For The Thumbnail Past Ina",
+      "published_at": "20260909",
+      "url": "https://youtu.be/L8-AMcVfZt4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L8-AMcVfZt4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGpnj2PRp1E",
+      "title": "【#第1回ポカジャン王決定戦】第1回ポカジャン王決定戦 hololive Dreams【ホロライブ/ホロドリ】",
+      "published_at": "20260909",
+      "url": "https://youtu.be/zGpnj2PRp1E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zGpnj2PRp1E/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],

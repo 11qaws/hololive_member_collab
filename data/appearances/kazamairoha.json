@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1034,
+  "count": 1036,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11373,6 +11373,28 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iJWZojWSIH4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zGpnj2PRp1E",
+      "title": "【#第1回ポカジャン王決定戦】第1回ポカジャン王決定戦 hololive Dreams【ホロライブ/ホロドリ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Inh714HnG9I",
+      "title": "【ホロドリ】ホロメン各位ー!ポカジャンしませんか凸待ち【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Inh714HnG9I",
       "status": "unreviewed",
       "note": null
     }

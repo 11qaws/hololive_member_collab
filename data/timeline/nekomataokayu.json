@@ -1,7 +1,43 @@
 {
   "target": "nekomataokayu",
-  "count": 4037,
+  "count": 4040,
   "entries": [
+    {
+      "video_id": "6Pe4NNewLYk",
+      "title": "【 Unpossess 2 】3人で悪魔祓い⁉️IKZZZZZ😭😭😭 | Unpossess 2: Exorcism Simulator【 猫又おかゆ視点/ #スバおかぺっこっぴー 】",
+      "published_at": "20260909",
+      "url": "https://youtu.be/6Pe4NNewLYk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6Pe4NNewLYk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jIwPff9zoZI",
+      "title": "【Unpossess2】3人で悪魔祓いにゆく!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20260909",
+      "url": "https://youtu.be/jIwPff9zoZI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jIwPff9zoZI/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "u0V76xxksAY",
+      "title": "🎮懐かしゲームあるある📺 #カセットに名前書いてある #hololive #ホロライブ #ホロぐら",
+      "published_at": "20260909",
+      "url": "https://youtu.be/u0V76xxksAY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/u0V76xxksAY/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "lD_3LBv14qQ",
       "title": "【 🔴ニンダイ同時視聴 】みんないくぞｵｵｵｵｵｵ!!💥 | Nintendo Direct 2026.9.9【 猫又おかゆ/ホロライブ 】",
@@ -65,7 +101,7 @@
     {
       "video_id": "vcJWjyTE_cI",
       "title": "【 🔵ホラゲー 】圧倒的高評価!?💥 雪国のホテルで一体何が─── | Fears to Fathom - Woodbury Getaway【 猫又おかゆ/ホロライブ 】",
-      "published_at": "20260906",
+      "published_at": "20260907",
       "url": "https://youtu.be/vcJWjyTE_cI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/vcJWjyTE_cI/mqdefault.jpg",
@@ -30255,24 +30291,24 @@
       "paired_self": null
     },
     {
-      "video_id": "oM68RFoEi1M",
-      "title": "毒杯スワロウ (Instrumental)",
-      "published_at": "20220725",
-      "url": "https://youtu.be/oM68RFoEi1M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jQFxkLtrl3c",
       "title": "毒杯スワロウ",
       "published_at": "20220725",
       "url": "https://youtu.be/jQFxkLtrl3c",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jQFxkLtrl3c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oM68RFoEi1M",
+      "title": "毒杯スワロウ (Instrumental)",
+      "published_at": "20220725",
+      "url": "https://youtu.be/oM68RFoEi1M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oM68RFoEi1M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

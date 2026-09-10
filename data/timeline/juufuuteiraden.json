@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1881,
+  "count": 1883,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RMjNUNcCGmg",
+      "title": "【 #らでんちゃん3周年 】ついに実現!奈良国立博物館さんの仏像館に潜入!仏像の見方紹介!!【儒烏風亭らでん /きら子 】",
+      "published_at": "20260910",
+      "url": "https://youtu.be/RMjNUNcCGmg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RMjNUNcCGmg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -41,12 +53,24 @@
     {
       "video_id": "2SPSYjb-K7U",
       "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
-      "published_at": "20260906",
+      "published_at": "20260907",
       "url": "https://youtu.be/2SPSYjb-K7U",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/2SPSYjb-K7U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ra8SCAqWCAg",
+      "title": "【#ReGLOSSパーク】ご褒美GETなるか!? 3周年の絆をアトラクションでチェック!",
+      "published_at": "20260907",
+      "url": "https://youtu.be/ra8SCAqWCAg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ra8SCAqWCAg/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -4563,24 +4587,24 @@
       "paired_self": null
     },
     {
-      "video_id": "zGxgs3Nw5EY",
-      "title": "出囃子ジャポニズム (Instrumental)",
-      "published_at": "20260204",
-      "url": "https://youtu.be/zGxgs3Nw5EY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aSmPF7QwVUI",
       "title": "出囃子ジャポニズム",
       "published_at": "20260204",
       "url": "https://youtu.be/aSmPF7QwVUI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aSmPF7QwVUI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zGxgs3Nw5EY",
+      "title": "出囃子ジャポニズム (Instrumental)",
+      "published_at": "20260204",
+      "url": "https://youtu.be/zGxgs3Nw5EY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zGxgs3Nw5EY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

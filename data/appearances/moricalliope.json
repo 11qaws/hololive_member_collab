@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1446,
+  "count": 1449,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15905,6 +15905,39 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W43c9qfYZAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GgNAcZ1NlG1",
+      "title": "-Myth- Collab",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GgNAcZ1NlG1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X6RpgsimpvM",
+      "title": "【MECCHA CHAMELEON COLLAB】you'll never find us hiding in plain sight 🐾 【FUWAMOCO POV】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X6RpgsimpvM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zGpnj2PRp1E",
+      "title": "【#第1回ポカジャン王決定戦】第1回ポカジャン王決定戦 hololive Dreams【ホロライブ/ホロドリ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zGpnj2PRp1E",
       "status": "unreviewed",
       "note": null
     }

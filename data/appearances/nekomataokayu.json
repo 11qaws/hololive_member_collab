@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1734,
+  "count": 1736,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19073,6 +19073,28 @@
       "published_at": "20240428",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FoE7INMtxRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jIwPff9zoZI",
+      "title": "【Unpossess2】3人で悪魔祓いにゆく!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jIwPff9zoZI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u0V76xxksAY",
+      "title": "🎮懐かしゲームあるある📺 #カセットに名前書いてある #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u0V76xxksAY",
       "status": "unreviewed",
       "note": null
     }

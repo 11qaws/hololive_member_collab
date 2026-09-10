@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2370,
+  "count": 2377,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26069,6 +26069,83 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nRVyHonr-gI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gh_KBdLlHB4",
+      "title": "【DAY11】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gh_KBdLlHB4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zGpnj2PRp1E",
+      "title": "【#第1回ポカジャン王決定戦】第1回ポカジャン王決定戦 hololive Dreams【ホロライブ/ホロドリ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W6QmPJhcMLk",
+      "title": "【7 Days to Die】再!!!!#ホロ7大豆劇場  49日間生き残れ!アンデッド・マチネ DAY10【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W6QmPJhcMLk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "McJYSUhyA4U",
+      "title": "【DAY10】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/McJYSUhyA4U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3ssnNDv0hno",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY9🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3ssnNDv0hno",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QUuqWorbg3I",
+      "title": "【 DAY10 】#ホロ7大豆劇場 ‼️砂漠襲撃→引っ越し🚐回【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QUuqWorbg3I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bqtBfAWTh-0",
+      "title": "【 7Days to Die 】今日もゾンビの世界じゃああ! #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bqtBfAWTh-0",
       "status": "unreviewed",
       "note": null
     }

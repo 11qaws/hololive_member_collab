@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2721,
+  "count": 2722,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,9 +15,21 @@
       "paired_self": null
     },
     {
+      "video_id": "_H0R7DrqVdz",
+      "title": "【Sponsored】BLACK BALLOON Apparel w/ Bae",
+      "published_at": "20260911",
+      "url": "https://youtu.be/_H0R7DrqVdz",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_H0R7DrqVdz/mqdefault.jpg",
+      "partner_handle": "ninomaeinanis",
+      "partner_name": "Ninomae Ina'nis Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "uRWAnCIReek",
       "title": "≪Yakuza 7: Like a Dragon≫ best girl and best boi...First Playthrough #4【SPOILER WARNING】",
-      "published_at": "20260906",
+      "published_at": "20260907",
       "url": "https://youtu.be/uRWAnCIReek",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/uRWAnCIReek/mqdefault.jpg",
@@ -16395,24 +16407,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7KyZi4-KdWc",
-      "title": "EIEN",
-      "published_at": "20240229",
-      "url": "https://youtu.be/7KyZi4-KdWc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "A2prYynvtJY",
       "title": "BITE! カム! BITE!",
       "published_at": "20240229",
       "url": "https://youtu.be/A2prYynvtJY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7KyZi4-KdWc",
+      "title": "EIEN",
+      "published_at": "20240229",
+      "url": "https://youtu.be/7KyZi4-KdWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

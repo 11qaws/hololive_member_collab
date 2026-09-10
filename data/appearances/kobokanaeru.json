@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 745,
+  "count": 746,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8194,6 +8194,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r0QXG1mKwag",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_Rvx92mPFT0",
+      "title": "【完全生3Dライブ】 #博衣こより超重大告知 アリ‼アコースティックライブin Autumn 🍁 #holoAcousticLive  【AZKi/こぼ・かなえる/??/??/博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_Rvx92mPFT0",
       "status": "unreviewed",
       "note": null
     }

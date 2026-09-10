@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1223,
+  "count": 1224,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13452,6 +13452,17 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LoeMfF4a6TA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ra8SCAqWCAg",
+      "title": "【#ReGLOSSパーク】ご褒美GETなるか!? 3周年の絆をアトラクションでチェック!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ra8SCAqWCAg",
       "status": "unreviewed",
       "note": null
     }

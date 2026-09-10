@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 979,
+  "count": 980,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10768,6 +10768,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1oAABW24gME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lUHDankrXds",
+      "title": "【#holoAdvent OFF-COLLAB KARAOKE in 3D SELF BOOTH】you never need an excuse to jam 🐾 【FUWAMOCO】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lUHDankrXds",
       "status": "unreviewed",
       "note": null
     }
