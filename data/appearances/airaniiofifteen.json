@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1127,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12396,6 +12396,105 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fWcvXq08vfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0uuGlURu9cw",
+      "title": "【英会話 ENGLISH TIME!】Let's! Speak! English! Today's theme is....?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0uuGlURu9cw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o-FEa_9Sgmk",
+      "title": "【MECCHA CHAMELEON】socialize and hide🖌️【hololive #わちゃわちゃカメレオン】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o-FEa_9Sgmk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9Nfr_fRjNH0",
+      "title": "私、逃げ足だけは速いです。初めてのめっちゃカメレオン!【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9Nfr_fRjNH0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B-qxc7rAaOA",
+      "title": "【MECCHA CHAMELEON】WATASHI WA PICASSO FROM HOLOLIVE",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B-qxc7rAaOA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_xRh0pnzBlM",
+      "title": "【 #わちゃわちゃカメレオン 】決して見つからない【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_xRh0pnzBlM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZlnsUgMrOIc",
+      "title": "BIG SQUAD HIDE AND SEEK TIME!!! (Meccha Chameleon)",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZlnsUgMrOIc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5wY4VzBEePU",
+      "title": "【#わちゃわちゃカメレオン】 EVERYONE IS A CHAMELEON!! BIG COLLAB!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5wY4VzBEePU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hR_U7-vMdiU",
+      "title": "【MECCHA CHAMELEON】LIGHT,DARK,OR PICASSO? BIG COLLAB!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hR_U7-vMdiU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mRlzbsJDjeg",
+      "title": "【MECCHA CHAMELEON】my middle name is invisible",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mRlzbsJDjeg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1658,
+  "count": 1659,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18237,6 +18237,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VOtoiE4KfVQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LhjsifCe7tQ",
+      "title": "【#スバおかぺっこっぴー】悪魔祓いやるしゅばあああああああああああああああああああああああ!!!!!!：Unpossess 2: Exorcism Simulator【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LhjsifCe7tQ",
       "status": "unreviewed",
       "note": null
     }

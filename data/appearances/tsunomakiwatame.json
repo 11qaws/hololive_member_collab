@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1819,
+  "count": 1820,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20008,6 +20008,17 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6GyLNWfGvs8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0uuGlURu9cw",
+      "title": "【英会話 ENGLISH TIME!】Let's! Speak! English! Today's theme is....?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0uuGlURu9cw",
       "status": "unreviewed",
       "note": null
     }

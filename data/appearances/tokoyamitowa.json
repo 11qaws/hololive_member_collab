@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1633,
+  "count": 1634,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17962,6 +17962,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bqtBfAWTh-0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_Rvx92mPFT0",
+      "title": "【完全生3D】 #博衣こより超重大告知 アリ‼ アコースティックライブin Autumn #holoAcousticLive 【AZKi/常闇トワ/こぼ・かなえる/虎金妃笑虎/博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_Rvx92mPFT0",
       "status": "unreviewed",
       "note": null
     }

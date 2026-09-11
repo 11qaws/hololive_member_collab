@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1318,
+  "count": 1320,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14497,6 +14497,28 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u0V76xxksAY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい~!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L11nM0D14NY",
+      "title": "ペットにしたい人だ~れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L11nM0D14NY",
       "status": "unreviewed",
       "note": null
     }

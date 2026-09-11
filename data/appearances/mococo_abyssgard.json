@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1220,
+  "count": 1222,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13419,6 +13419,28 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M8smuD1OIy4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kanIJzlH_R0",
+      "title": "【BOMBANA】SEE NO EVIL HEAR NO EVIL SQUEEZE NO EVIL",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kanIJzlH_R0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "APCP5OpOixE",
+      "title": "【BOMBANANA!】gigi made the thumbnail #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/APCP5OpOixE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1951,
+  "count": 1958,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21460,6 +21460,83 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u0V76xxksAY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0uuGlURu9cw",
+      "title": "【英会話 ENGLISH TIME!】Let's! Speak! English! Today's theme is....?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0uuGlURu9cw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VK58vWsP-2Y",
+      "title": "Ame Tokimeki Koimoyo",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20250106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VK58vWsP-2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pydIgKaKHzg",
+      "title": "Renjo Shiika",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pydIgKaKHzg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pa8KwL6AXIQ",
+      "title": "ONIKEMODANCE",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pa8KwL6AXIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9zIvGa3YFOs",
+      "title": "ID",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9zIvGa3YFOs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cX6iFz-iiRE",
+      "title": "Tsubaki",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cX6iFz-iiRE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VtukROvZUQY",
+      "title": "Hozukibiyori",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VtukROvZUQY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1449,
+  "count": 1450,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15938,6 +15938,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kanIJzlH_R0",
+      "title": "【BOMBANA】SEE NO EVIL HEAR NO EVIL SQUEEZE NO EVIL",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kanIJzlH_R0",
       "status": "unreviewed",
       "note": null
     }

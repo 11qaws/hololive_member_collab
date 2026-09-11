@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 843,
+  "count": 845,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9272,6 +9272,28 @@
       "published_at": "20260903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ch_s7aIVHHo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_Rvx92mPFT0",
+      "title": "【完全生3D】 #博衣こより超重大告知 アリ‼ アコースティックライブin Autumn #holoAcousticLive 【AZKi/常闇トワ/こぼ・かなえる/虎金妃笑虎/博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_Rvx92mPFT0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L11nM0D14NY",
+      "title": "ペットにしたい人だ~れだ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L11nM0D14NY",
       "status": "unreviewed",
       "note": null
     }

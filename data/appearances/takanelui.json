@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1469,
+  "count": 1470,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16158,6 +16158,17 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ceYmMQjCbz8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "R9J4WiAKqrE",
+      "title": "@TakaneLui  キムチくっさぁ❤️ #虎のいる生活",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/R9J4WiAKqrE",
       "status": "unreviewed",
       "note": null
     }

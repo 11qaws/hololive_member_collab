@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 916,
+  "count": 917,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10075,6 +10075,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/X6RpgsimpvM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "APCP5OpOixE",
+      "title": "【BOMBANANA!】gigi made the thumbnail #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260910",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/APCP5OpOixE",
       "status": "unreviewed",
       "note": null
     }

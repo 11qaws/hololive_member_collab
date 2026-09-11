@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3438,
+  "count": 3445,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -37817,6 +37817,83 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bqtBfAWTh-0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QUuqWorbg3I",
+      "title": "【 DAY10 】#ホロ7大豆劇場 ‼️砂漠襲撃→引っ越し🚐回【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QUuqWorbg3I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VK58vWsP-2Y",
+      "title": "Ame Tokimeki Koimoyo",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20250106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VK58vWsP-2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pydIgKaKHzg",
+      "title": "Renjo Shiika",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pydIgKaKHzg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pa8KwL6AXIQ",
+      "title": "ONIKEMODANCE",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pa8KwL6AXIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9zIvGa3YFOs",
+      "title": "ID",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9zIvGa3YFOs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cX6iFz-iiRE",
+      "title": "Tsubaki",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cX6iFz-iiRE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VtukROvZUQY",
+      "title": "Hozukibiyori",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20230726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VtukROvZUQY",
       "status": "unreviewed",
       "note": null
     }

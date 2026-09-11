@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 166,
+  "count": 168,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1825,6 +1825,28 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x2Ztg8Y8V6U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oG3GdbGed8E",
+      "title": "【#Pastela】お絵描きアプリ「Pastela」を使って年賀状作るよ~!!【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20250114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oG3GdbGed8E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-m4cVMGlDHk",
+      "title": "【雑談】お昼休憩に寝起きのラミィとお話ししよう【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20250109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-m4cVMGlDHk",
       "status": "unreviewed",
       "note": null
     }
