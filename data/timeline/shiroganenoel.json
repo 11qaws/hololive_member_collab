@@ -1,7 +1,31 @@
 {
   "target": "shiroganenoel",
-  "count": 3814,
+  "count": 3816,
   "entries": [
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "published_at": "20260914",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "published_at": "20260911",
+      "url": "https://youtu.be/cuicoqlu664",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cuicoqlu664/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "-dGz4_bucmM",
       "title": "【#ホロ甲2026】大分の白銀学院高校!1年目の冬(12月中旬~)春の甲子園は厳しいか...?!ドキドキ太郎@@【白銀ノエル/ホロライブ】",
@@ -38355,24 +38379,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZcNWEBuf458",
-      "title": "【#ノエちょこ】お泊りASMR💋いっぱい甘やかしちゃいます♡KU100使用。【白銀ノエル/癒月ちょこ】",
-      "published_at": "20201023",
-      "url": "https://youtu.be/ZcNWEBuf458",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZcNWEBuf458/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "HJiD8KcZKfs",
       "title": "【#ノエちょこ】お泊りASMR💋いっぱい甘やかしちゃいます♡KU100使用。【白銀ノエル/癒月ちょこ】",
       "published_at": "20201023",
       "url": "https://youtu.be/HJiD8KcZKfs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/HJiD8KcZKfs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZcNWEBuf458",
+      "title": "【#ノエちょこ】お泊りASMR💋いっぱい甘やかしちゃいます♡KU100使用。【白銀ノエル/癒月ちょこ】",
+      "published_at": "20201023",
+      "url": "https://youtu.be/ZcNWEBuf458",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZcNWEBuf458/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -45735,18 +45759,6 @@
       "paired_self": null
     },
     {
-      "video_id": "TpvqBrTNYQg",
-      "title": "【ASMR】初めての縦型配信♡KU100で癒しの音探し(リクエストOK)【白銀ノエル/ホロライブ】#shorts #Vtuber",
-      "published_at": "",
-      "url": "https://youtu.be/TpvqBrTNYQg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TpvqBrTNYQg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "YMBxltee41M",
       "title": "【縦型朝活】今日も団員さんにおはようを言いたい！【白銀ノエル/ホロライブ】#shorts",
       "published_at": "",
@@ -45765,6 +45777,18 @@
       "url": "https://youtu.be/z4axfN0RmU8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/z4axfN0RmU8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TpvqBrTNYQg",
+      "title": "【ASMR】初めての縦型配信♡KU100で癒しの音探し(リクエストOK)【白銀ノエル/ホロライブ】#shorts #Vtuber",
+      "published_at": "",
+      "url": "https://youtu.be/TpvqBrTNYQg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TpvqBrTNYQg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1298,
+  "count": 1299,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14277,6 +14277,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ABJOT6-q8nk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
       "status": "unreviewed",
       "note": null
     }

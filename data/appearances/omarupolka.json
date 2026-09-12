@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1948,
+  "count": 1949,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21427,6 +21427,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M8smuD1OIy4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
       "status": "unreviewed",
       "note": null
     }

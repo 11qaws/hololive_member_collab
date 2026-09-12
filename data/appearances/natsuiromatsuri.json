@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1472,
+  "count": 1478,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16191,6 +16191,72 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VOtoiE4KfVQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KHDVPdoylyc",
+      "title": "【 DAY11 】#ホロ7大豆劇場 ‼️雪山襲撃に備えて…!!!🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KHDVPdoylyc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Ll2DdY9mqI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY10🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Ll2DdY9mqI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dVgxFlP5xnM",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY１１【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dVgxFlP5xnM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ncdGCUazeFo",
+      "title": "【 7Days to Die 】雪山で暴れるぞい！ #ホロ7大豆劇場 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ncdGCUazeFo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
       "status": "unreviewed",
       "note": null
     }

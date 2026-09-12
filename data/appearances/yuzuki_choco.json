@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1028,
+  "count": 1030,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11307,6 +11307,28 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7e909XD88Ag",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FweMA5sV3pg",
+      "title": "【🦖ｷﾞｬｵｰ】鳴き声チャレンジ!/ What sound does a dinosaur make? #hololive #ホロライブ #鼓膜破壊",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FweMA5sV3pg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
       "status": "unreviewed",
       "note": null
     }

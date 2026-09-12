@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1513,
+  "count": 1514,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16642,6 +16642,17 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0uuGlURu9cw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FweMA5sV3pg",
+      "title": "【🦖ｷﾞｬｵｰ】鳴き声チャレンジ!/ What sound does a dinosaur make? #hololive #ホロライブ #鼓膜破壊",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FweMA5sV3pg",
       "status": "unreviewed",
       "note": null
     }

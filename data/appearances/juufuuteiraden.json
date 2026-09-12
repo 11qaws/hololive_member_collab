@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 906,
+  "count": 910,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -9965,6 +9965,50 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v5XOlDvckeI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e4imo2fmshE",
+      "title": "MECCHA MECCHA COLLAB #わちゃわちゃカメレオン",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e4imo2fmshE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ON1oQuReJs8",
+      "title": "【#わちゃわちゃカメレオン】I AM PICASSO【 iofi / hololive 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ON1oQuReJs8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GoAvc5jXoX8",
+      "title": "【#わちゃわちゃカメレオン】かくれんぼの天才、隠れん坊とはおれのこと【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GoAvc5jXoX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RoXVbSPMgg0",
+      "title": "【Meccha Chameleon】Big Meccha Chameleon Collab! :D #わちゃわちゃカメレオン【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RoXVbSPMgg0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "ninomaeinanis",
-  "count": 2185,
+  "count": 2188,
   "entries": [
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "published_at": "20260914",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "cxmZQfUNTaw",
       "title": "【COLLAB】Drawing With Calli!!! + Myth Announcements!!!",
@@ -27,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "L8-AMcVfZt4",
+      "title": "【CHAT】Thank You For The Thumbnail Past Ina",
+      "published_at": "20260910",
+      "url": "https://youtu.be/L8-AMcVfZt4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L8-AMcVfZt4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "iJWZojWSIH4",
       "title": "＼\\　1st Pokajan King Championship　/／",
       "published_at": "20260910",
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/iJWZojWSIH4/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "L8-AMcVfZt4",
-      "title": "【CHAT】Thank You For The Thumbnail Past Ina",
-      "published_at": "20260909",
-      "url": "https://youtu.be/L8-AMcVfZt4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/L8-AMcVfZt4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -215,6 +227,18 @@
       "thumbnail": "https://img.youtube.com/vi/FrLpfQdAzuw/mqdefault.jpg",
       "partner_handle": "tokoyamitowa",
       "partner_name": "Towa Ch. 常闇トワ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "published_at": "20260905",
+      "url": "https://youtu.be/AY1v8-jOZxk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AY1v8-jOZxk/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -455,6 +479,18 @@
       "thumbnail": "https://img.youtube.com/vi/BOjfwyJzX84/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AKg6bf5VFjA",
+      "title": "【3D LIVE】Myth 6th Anniversary \"Seasons From Within\"【#Myth6Years】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/AKg6bf5VFjA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AKg6bf5VFjA/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },

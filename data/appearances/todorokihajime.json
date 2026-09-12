@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1270,
+  "count": 1276,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -13969,6 +13969,72 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v5XOlDvckeI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e4imo2fmshE",
+      "title": "MECCHA MECCHA COLLAB #わちゃわちゃカメレオン",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e4imo2fmshE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s0w9IhtiLdE",
+      "title": "【 #わちゃわちゃカメレオン 】かくれんぼの天才、カメらでんとはおれのこと【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s0w9IhtiLdE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ON1oQuReJs8",
+      "title": "【#わちゃわちゃカメレオン】I AM PICASSO【 iofi / hololive 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ON1oQuReJs8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RoXVbSPMgg0",
+      "title": "【Meccha Chameleon】Big Meccha Chameleon Collab! :D #わちゃわちゃカメレオン【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RoXVbSPMgg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6cWwVB3eWYY",
+      "title": "#ReGLOSS3周年 配信まであと1日🎉 ぜひ見にきてくださ〜い! #轟はじめ #ReGLOSS #VTuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6cWwVB3eWYY",
       "status": "unreviewed",
       "note": null
     }

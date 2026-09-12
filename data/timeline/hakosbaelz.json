@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2723,
+  "count": 2724,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/RpX4HlK70jk/mqdefault.jpg",
       "partner_handle": "ninomaeinanis",
       "partner_name": "Ninomae Ina'nis Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bwAc8fPdaJQ",
+      "title": "【野外ライブ映像】LuckyFes'26 LIVE Digest【hololive/宝鐘マリン】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/bwAc8fPdaJQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bwAc8fPdaJQ/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン hololive3期生",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16419,24 +16431,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7KyZi4-KdWc",
-      "title": "EIEN",
-      "published_at": "20240229",
-      "url": "https://youtu.be/7KyZi4-KdWc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "A2prYynvtJY",
       "title": "BITE! カム! BITE!",
       "published_at": "20240229",
       "url": "https://youtu.be/A2prYynvtJY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7KyZi4-KdWc",
+      "title": "EIEN",
+      "published_at": "20240229",
+      "url": "https://youtu.be/7KyZi4-KdWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

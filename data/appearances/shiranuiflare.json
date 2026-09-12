@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1575,
+  "count": 1577,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17324,6 +17324,28 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VyANPk_MaMM",
+      "title": "【オフコラボ 】あーんで当てて♡ポテチ味覚チャレンジ📣 【ホロライブ/癒月ちょこ/不知火フレア/風真いろは】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VyANPk_MaMM",
       "status": "unreviewed",
       "note": null
     }

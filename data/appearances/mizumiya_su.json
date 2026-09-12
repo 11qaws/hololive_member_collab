@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1178,
+  "count": 1180,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -12957,6 +12957,28 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SkW1MSELGsA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VPn0dFyENd0",
+      "title": "生配信30秒前のFLOW GLOWを覗き見!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VPn0dFyENd0",
       "status": "unreviewed",
       "note": null
     }

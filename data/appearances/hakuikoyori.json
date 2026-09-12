@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1427,
+  "count": 1428,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15696,6 +15696,17 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CXz1eHQgNnk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
       "status": "unreviewed",
       "note": null
     }

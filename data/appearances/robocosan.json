@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1318,
+  "count": 1319,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14497,6 +14497,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xtTmI74gPqo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cuicoqlu664",
+      "title": "【新ボイス】ダル絡みだなんてひどい～！",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cuicoqlu664",
       "status": "unreviewed",
       "note": null
     }

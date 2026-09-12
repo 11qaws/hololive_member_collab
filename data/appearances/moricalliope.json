@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1450,
+  "count": 1453,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15949,6 +15949,39 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kanIJzlH_R0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AKg6bf5VFjA",
+      "title": "【3D LIVE】Myth 6th Anniversary \"Seasons From Within\"【#Myth6Years】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AKg6bf5VFjA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hhOim_G0kns",
+      "title": "【告知あり⁉】大好きなカリオペ先輩とアソビ大全しちゃうぞ🎵【hololive 森カリオペ 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hhOim_G0kns",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cxmZQfUNTaw",
+      "title": "【COLLAB】Drawing With Calli!!! + Myth Announcements!!!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cxmZQfUNTaw",
       "status": "unreviewed",
       "note": null
     }

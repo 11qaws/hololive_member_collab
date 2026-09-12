@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 591,
+  "count": 592,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6500,6 +6500,17 @@
       "published_at": "20260728",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7xYekUcLRs4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EBAH4eXDxnk",
+      "title": "Is she even trying to run?🤔😳 #horror #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EBAH4eXDxnk",
       "status": "unreviewed",
       "note": null
     }

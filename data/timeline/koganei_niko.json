@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1681,
+  "count": 1684,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MmkPfYSIJ0s",
+      "title": "【 ＃朝ガオ vol.14 】今週のトークテーマ：ホロライブネクスト【虎金妃笑虎】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/MmkPfYSIJ0s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MmkPfYSIJ0s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rb5xEa1Mios",
+      "title": "雨に打たれながら歌ってきました",
+      "published_at": "20260911",
+      "url": "https://youtu.be/rb5xEa1Mios",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rb5xEa1Mios/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VPn0dFyENd0",
+      "title": "生配信30秒前のFLOW GLOWを覗き見!",
+      "published_at": "20260911",
+      "url": "https://youtu.be/VPn0dFyENd0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VPn0dFyENd0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20139,12 +20175,12 @@
       "paired_self": null
     },
     {
-      "video_id": "TK6OchILmqw",
-      "title": "ひ　み　つ　💛",
+      "video_id": "pylOG0ntH_s",
+      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
       "published_at": "",
-      "url": "https://youtu.be/TK6OchILmqw",
+      "url": "https://youtu.be/pylOG0ntH_s",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -20163,12 +20199,12 @@
       "paired_self": null
     },
     {
-      "video_id": "pylOG0ntH_s",
-      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
+      "video_id": "TK6OchILmqw",
+      "title": "ひ　み　つ　💛",
       "published_at": "",
-      "url": "https://youtu.be/pylOG0ntH_s",
+      "url": "https://youtu.be/TK6OchILmqw",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

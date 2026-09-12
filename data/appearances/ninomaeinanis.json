@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1128,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12407,6 +12407,39 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AKg6bf5VFjA",
+      "title": "【3D LIVE】Myth 6th Anniversary \"Seasons From Within\"【#Myth6Years】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AKg6bf5VFjA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AY1v8-jOZxk",
       "status": "unreviewed",
       "note": null
     }

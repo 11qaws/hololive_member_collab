@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1634,
+  "count": 1638,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -17973,6 +17973,50 @@
       "published_at": "20260907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_Rvx92mPFT0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Ll2DdY9mqI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY10🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Ll2DdY9mqI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dVgxFlP5xnM",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY１１【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dVgxFlP5xnM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ncdGCUazeFo",
+      "title": "【 7Days to Die 】雪山で暴れるぞい！ #ホロ7大豆劇場 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ncdGCUazeFo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2076,
+  "count": 2083,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,90 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z7XBdupRcYO",
+      "title": "Shishiron Cup - holodori: Rhythm & Chase",
+      "published_at": "20260914",
+      "url": "https://youtu.be/z7XBdupRcYO",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hhOim_G0kns",
+      "title": "【告知あり⁉】大好きなカリオペ先輩とアソビ大全しちゃうぞ🎵【hololive 森カリオペ 響咲リオナ】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/hhOim_G0kns",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hhOim_G0kns/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ncdGCUazeFo",
+      "title": "【 7Days to Die 】雪山で暴れるぞい！ #ホロ7大豆劇場 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/ncdGCUazeFo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ncdGCUazeFo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KHDVPdoylyc",
+      "title": "【 DAY11 】#ホロ7大豆劇場 ‼️雪山襲撃に備えて…!!!🔥【常闇トワ/ホロライブ】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/KHDVPdoylyc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KHDVPdoylyc/mqdefault.jpg",
+      "partner_handle": "tokoyamitowa",
+      "partner_name": "Towa Ch. 常闇トワ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7Ll2DdY9mqI",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY10🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/7Ll2DdY9mqI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7Ll2DdY9mqI/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dVgxFlP5xnM",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 49日間生き残れ！アンデッド・マチネ　DAY１１【ホロライブ/白上フブキ】",
+      "published_at": "20260911",
+      "url": "https://youtu.be/dVgxFlP5xnM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dVgxFlP5xnM/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VPn0dFyENd0",
+      "title": "生配信30秒前のFLOW GLOWを覗き見!",
+      "published_at": "20260911",
+      "url": "https://youtu.be/VPn0dFyENd0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/VPn0dFyENd0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,6 +123,18 @@
       "paired_self": null
     },
     {
+      "video_id": "ewA2rvax_l0",
+      "title": "【定期配信#44】木曜のお昼の12時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+      "published_at": "20260910",
+      "url": "https://youtu.be/ewA2rvax_l0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ewA2rvax_l0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "cuicoqlu664",
       "title": "【新ボイス】ダル絡みだなんてひどい~!",
       "published_at": "20260910",
@@ -59,18 +155,6 @@
       "thumbnail": "https://img.youtube.com/vi/L11nM0D14NY/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ewA2rvax_l0",
-      "title": "【定期配信#44】木曜のお昼の12時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-      "published_at": "20260909",
-      "url": "https://youtu.be/ewA2rvax_l0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ewA2rvax_l0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -24867,12 +24951,12 @@
       "paired_self": null
     },
     {
-      "video_id": "f2x5-aQuSzA",
-      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "",
-      "url": "https://youtu.be/f2x5-aQuSzA",
+      "url": "https://youtu.be/GMv9AlmncJ8",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -24903,12 +24987,12 @@
       "paired_self": null
     },
     {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "video_id": "f2x5-aQuSzA",
+      "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
       "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
+      "url": "https://youtu.be/f2x5-aQuSzA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
