@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2505,
+  "count": 2506,
   "entries": [
     {
       "video_id": "mql2jUnYr1E",
@@ -131,6 +131,18 @@
       "thumbnail": "https://img.youtube.com/vi/nzSAaWwaY94/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "published_at": "20260905",
+      "url": "https://youtu.be/AY1v8-jOZxk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AY1v8-jOZxk/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

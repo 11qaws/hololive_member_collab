@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 846,
+  "count": 847,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9305,6 +9305,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VPn0dFyENd0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y-mApFt5Vas",
+      "title": "好-じょし-をみんなで踊ってみた🫶",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y-mApFt5Vas",
       "status": "unreviewed",
       "note": null
     }

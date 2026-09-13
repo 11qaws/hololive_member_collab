@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1085,
+  "count": 1086,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11934,6 +11934,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RoXVbSPMgg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CQEoZ0t70w8",
+      "title": "【Watchalong】Zombeavers? A Beaver Zombie【 iofi / hololive 】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CQEoZ0t70w8",
       "status": "unreviewed",
       "note": null
     }

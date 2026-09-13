@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 4709,
+  "count": 4711,
   "entries": [
     {
       "video_id": "z7XBdupRcYO",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/z7XBdupRcYO",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "h1t1BIJSfpg",
+      "title": "ホロドリ大会に向けて withマリン＆ヴィヴィ【ホロライブ/兎田ぺこら】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/h1t1BIJSfpg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/h1t1BIJSfpg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/DjbOkB_3KXs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DjbOkB_3KXs/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
@@ -41,7 +65,7 @@
     {
       "video_id": "P8CcHKiCWLE",
       "title": "#4【初見】『ソードアート・オンライン』同時視聴【ホロライブ/兎田ぺこら】",
-      "published_at": "20260909",
+      "published_at": "20260910",
       "url": "https://youtu.be/P8CcHKiCWLE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/P8CcHKiCWLE/mqdefault.jpg",
@@ -53,7 +77,7 @@
     {
       "video_id": "jIwPff9zoZI",
       "title": "【Unpossess2】3人で悪魔祓いにゆく!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
-      "published_at": "20260909",
+      "published_at": "20260910",
       "url": "https://youtu.be/jIwPff9zoZI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jIwPff9zoZI/mqdefault.jpg",

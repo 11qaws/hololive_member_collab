@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2131,
+  "count": 2133,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -35,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/BzxLRizbvzQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/DjbOkB_3KXs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DjbOkB_3KXs/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y-mApFt5Vas",
+      "title": "好-じょし-をみんなで踊ってみた🫶",
+      "published_at": "20260912",
+      "url": "https://youtu.be/Y-mApFt5Vas",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Y-mApFt5Vas/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -25551,24 +25575,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cT_DiN-FZ2U",
-      "title": "【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-      "published_at": "",
-      "url": "https://youtu.be/cT_DiN-FZ2U",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cT_DiN-FZ2U/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "rJYGFNy7FeQ",
       "title": "【 縦型歌枠/KARAOKE】　縦ってこれであってますか・・？【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
       "published_at": "",
       "url": "https://youtu.be/rJYGFNy7FeQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rJYGFNy7FeQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cT_DiN-FZ2U",
+      "title": "【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "",
+      "url": "https://youtu.be/cT_DiN-FZ2U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cT_DiN-FZ2U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

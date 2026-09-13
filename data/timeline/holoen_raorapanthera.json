@@ -1,7 +1,31 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1329,
+  "count": 1332,
   "entries": [
+    {
+      "video_id": "013XHacQA9Y",
+      "title": "【UNDERTALE】I have a bad feeling about this...",
+      "published_at": "20260913",
+      "url": "https://youtu.be/013XHacQA9Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/013XHacQA9Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5DV5YoSb89k",
+      "title": "Do you like this dance nya?? 🐱#アイドルはウーニャニャの件",
+      "published_at": "20260912",
+      "url": "https://youtu.be/5DV5YoSb89k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5DV5YoSb89k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "P5jX6414KQY",
       "title": "【ZAKO NO AHIRU】PLEASE STOP BULLYING THE BIG CAT!!!!!!",
@@ -215,6 +239,18 @@
       "thumbnail": "https://img.youtube.com/vi/Lf75d5W82T8/mqdefault.jpg",
       "partner_handle": "natsuiromatsuri",
       "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "published_at": "20260905",
+      "url": "https://youtu.be/AY1v8-jOZxk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AY1v8-jOZxk/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

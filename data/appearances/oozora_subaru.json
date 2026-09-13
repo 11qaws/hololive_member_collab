@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2105,
+  "count": 2106,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23154,6 +23154,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ncdGCUazeFo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "50POH_LzdY4",
+      "title": "【雪花ラミィのBAR放浪記】BIG3で西新宿のBAR dilly dally様にお邪魔してきました♡【BIG3 /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/50POH_LzdY4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1055,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11604,6 +11604,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z7XBdupRcYO",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DjbOkB_3KXs",
       "status": "unreviewed",
       "note": null
     }

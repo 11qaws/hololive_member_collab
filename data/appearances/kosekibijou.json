@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1514,
+  "count": 1515,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16653,6 +16653,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FweMA5sV3pg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260905",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AY1v8-jOZxk",
       "status": "unreviewed",
       "note": null
     }

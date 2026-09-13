@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1270,
+  "count": 1272,
   "entries": [
     {
       "video_id": "z7XBdupRcYO",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/z7XBdupRcYO",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/DjbOkB_3KXs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DjbOkB_3KXs/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/1oAABW24gME/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AY1v8-jOZxk",
+      "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
+      "published_at": "20260905",
+      "url": "https://youtu.be/AY1v8-jOZxk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AY1v8-jOZxk/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1454,
+  "count": 1458,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -15993,6 +15993,50 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RoXVbSPMgg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RUB0bEwTJeL",
+      "title": "X-ReCHORD - ReGLOSS AR LIVE",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261129",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RUB0bEwTJeL",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VH9GZgCWWWg",
+      "title": "ReGLOSS AR LIVE \"X-ReCHORD\" Teaser PV",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VH9GZgCWWWg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JQp5fI3AyKc",
+      "title": "#ReGLOSS3周年 配信まであと3日🎉 ぜひ見にきてくださ〜い! #一条莉々華 #ReGLOSS #VTuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JQp5fI3AyKc",
       "status": "unreviewed",
       "note": null
     }

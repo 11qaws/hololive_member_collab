@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1453,
+  "count": 1454,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -15982,6 +15982,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cxmZQfUNTaw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "56IDp4g--jI",
+      "title": "Dreamland/BENNIE K【響咲リオナ×森カリオペ(cover)】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/56IDp4g--jI",
       "status": "unreviewed",
       "note": null
     }

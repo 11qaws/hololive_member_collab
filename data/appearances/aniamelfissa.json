@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1408,
+  "count": 1410,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15487,6 +15487,28 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GoAvc5jXoX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DjbOkB_3KXs",
+      "title": "【#ししドリ杯】hololive Dreams チーム対抗 リズム&チェイス!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XrU_r2Zq21Y",
+      "title": "【 ホロライブドリームス 】明日は #ししドリ杯 !TEAM08で練習だ~~!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XrU_r2Zq21Y",
       "status": "unreviewed",
       "note": null
     }
