@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1051,
+  "count": 1054,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11560,6 +11560,39 @@
       "published_at": "20260902",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1wkSs2_-bss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZOP2gGe6JzI",
+      "title": "【How To Fish】I am just here to eat! 【PizzaTimeSmith Collab】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZOP2gGe6JzI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "013XHacQA9Y",
+      "title": "【UNDERTALE】I have a bad feeling about this...",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/013XHacQA9Y",
       "status": "unreviewed",
       "note": null
     }

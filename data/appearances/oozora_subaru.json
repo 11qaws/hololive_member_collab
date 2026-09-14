@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2106,
+  "count": 2107,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23165,6 +23165,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/50POH_LzdY4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZiJRrYcN2Ds",
+      "title": "【凸待ち】己の道をゆく。リズム天国対戦凸待ち📣 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZiJRrYcN2Ds",
       "status": "unreviewed",
       "note": null
     }

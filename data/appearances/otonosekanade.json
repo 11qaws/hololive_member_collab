@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1241,
+  "count": 1242,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13650,6 +13650,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VH9GZgCWWWg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KJbV6FXFSfI",
+      "title": "カメラ目線チャレンジ 奏の挑戦📷 #音乃瀬奏 #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KJbV6FXFSfI",
       "status": "unreviewed",
       "note": null
     }

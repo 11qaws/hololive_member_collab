@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1169,
+  "count": 1171,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12858,6 +12858,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y-mApFt5Vas",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j4vRCPZpe60",
+      "title": "5分の1で☠罰ゲーム☠【1回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j4vRCPZpe60",
       "status": "unreviewed",
       "note": null
     }

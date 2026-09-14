@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 168,
+  "count": 169,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1847,6 +1847,17 @@
       "published_at": "20250109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-m4cVMGlDHk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5YvlBMigUJk",
+      "title": "#そらぱぴあアリ2026 バンドリハ始まりました!Vol.4 【#shorts /ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5YvlBMigUJk",
       "status": "unreviewed",
       "note": null
     }

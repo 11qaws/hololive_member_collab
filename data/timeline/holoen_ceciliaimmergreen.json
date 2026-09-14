@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1272,
+  "count": 1273,
   "entries": [
     {
       "video_id": "z7XBdupRcYO",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "whsH7qA44EA",
+      "title": "【Hololive Dreams】SHORT PRACTICE FOR TOURNAMENT ちょっと大会の練習！！！",
+      "published_at": "20260914",
+      "url": "https://youtu.be/whsH7qA44EA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/whsH7qA44EA/mqdefault.jpg",
+      "partner_handle": "irys",
+      "partner_name": "IRyS Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1470,
+  "count": 1472,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16169,6 +16169,28 @@
       "published_at": "20260910",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/R9J4WiAKqrE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ehRY3XerZev",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 782,
+  "count": 783,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8601,6 +8601,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AY1v8-jOZxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "whsH7qA44EA",
+      "title": "【Hololive Dreams】SHORT PRACTICE FOR TOURNAMENT ちょっと大会の練習！！！",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/whsH7qA44EA",
       "status": "unreviewed",
       "note": null
     }

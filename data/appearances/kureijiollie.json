@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1418,
+  "count": 1421,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15597,6 +15597,39 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CeCHAnt_Atk",
+      "title": "【 #ししドリ杯/ホロドリ 】本番だあああああああ!!!!🔥🔥🔥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CeCHAnt_Atk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yah8-pvkLPA",
+      "title": "#ししドリ杯　ホロドリ練習会！！！！【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yah8-pvkLPA",
       "status": "unreviewed",
       "note": null
     }

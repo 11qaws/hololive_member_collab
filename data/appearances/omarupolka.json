@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1949,
+  "count": 1952,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21438,6 +21438,39 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cuicoqlu664",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ehRY3XerZev",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
       "status": "unreviewed",
       "note": null
     }

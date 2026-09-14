@@ -1,7 +1,31 @@
 {
   "target": "hakuikoyori",
-  "count": 4963,
+  "count": 4969,
   "entries": [
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "published_at": "20260927",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PnVZehg10Sx/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "published_at": "20260926",
+      "url": "https://youtu.be/ehRY3XerZev",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "PkHU-oEjcU9",
       "title": "〈偽物語〉後編（8〜11話）同時視聴",
@@ -15,8 +39,56 @@
       "paired_self": null
     },
     {
+      "video_id": "yGcgkzNgEb8",
+      "title": "博衣こより2ndアルバム「Chemical Spark」12/2発売!完全生産限定版&通常版予約受付中! #夢煌めけこより 【博衣こより/ホロライブ】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/yGcgkzNgEb8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yGcgkzNgEb8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l0aJlBNTIgU",
+      "title": "【 #朝こよ 】超重大告知直後の火曜日の朝も!朝こよ~!☀ #298 【博衣こより/hololive】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/l0aJlBNTIgU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/l0aJlBNTIgU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "published_at": "20260913",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/skKeF1oLbjY/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RZUgI5EtcGk",
+      "title": "【#ホロ甲2026】栄冠ナイン育成開始!!どうなるAHOY高校!?【ホロライブ/宝鐘マリン・博衣こより】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/RZUgI5EtcGk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RZUgI5EtcGk/mqdefault.jpg",
+      "partner_handle": "houshoumarine",
+      "partner_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "eJB1Je3JQbY",
-      "title": "【雑談】アコースティックライブ振り返りや裏話&2ndアルバム・ソロライブのお話も💗 #holoAcosticLive #博衣こより超重大告知 【博衣こより/ホロライブ】",
+      "title": "【雑談】アコースティックライブ振り返りや裏話＆2ndアルバム・ソロライブのお話も💗 #holoAcosticLive #博衣こより超重大告知 【博衣こより／ホロライブ】",
       "published_at": "20260912",
       "url": "https://youtu.be/eJB1Je3JQbY",
       "entry_type": "stream",
@@ -64,7 +136,7 @@
     },
     {
       "video_id": "1HNol0clges",
-      "title": "【告知】突然くる告知＆〇〇カウントダウン！！アコースティックライブ前日の景気づけもしよう！！【博衣こより/ホロライブ】",
+      "title": "【告知】突然くる告知&〇〇カウントダウン!!アコースティックライブ前日の景気づけもしよう!!【博衣こより/ホロライブ】",
       "published_at": "20260911",
       "url": "https://youtu.be/1HNol0clges",
       "entry_type": "stream",
@@ -112,7 +184,7 @@
     },
     {
       "video_id": "_SDdT8arzDI",
-      "title": "【空の軌跡 the 1st】完全初見!みんなの圧倒的オススメゲーム、空の軌跡やってみる!!第3章スタート! #6 【博衣こより/ホロライブ】※ネタバレを含みます",
+      "title": "【空の軌跡 the 1st】完全初見！みんなの圧倒的オススメゲーム、空の軌跡やってみる！！第3章スタート！ #6 【博衣こより/ホロライブ】※ネタバレを含みます",
       "published_at": "20260909",
       "url": "https://youtu.be/_SDdT8arzDI",
       "entry_type": "stream",

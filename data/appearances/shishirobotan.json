@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1643,
+  "count": 1646,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18072,6 +18072,39 @@
       "published_at": "20260906",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KY9gH8EeKPQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ehRY3XerZev",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CeCHAnt_Atk",
+      "title": "【 #ししドリ杯/ホロドリ 】本番だあああああああ!!!!🔥🔥🔥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CeCHAnt_Atk",
       "status": "unreviewed",
       "note": null
     }

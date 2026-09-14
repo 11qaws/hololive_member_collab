@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1641,
+  "count": 1642,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18050,6 +18050,17 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KULsQ1kwvMM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KhULmqdZRfw",
+      "title": "【ホロドリ】ホロドリ大会前日練習🔥みこトワでやるでぇえええええええ～～～！【ホロライブ/さくらみこ/常闇トワ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KhULmqdZRfw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1478,
+  "count": 1479,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16257,6 +16257,17 @@
       "published_at": "20260909",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zGpnj2PRp1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ztn0L5hqTq8",
+      "title": "みこめっと会議すいちゃんが何言ってるかわからないみこち…  #さくらみこ #切り抜き #ホロライブ",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ztn0L5hqTq8",
       "status": "unreviewed",
       "note": null
     }

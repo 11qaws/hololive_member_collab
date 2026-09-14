@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2245,
+  "count": 2246,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -87,6 +87,18 @@
       "paired_self": null
     },
     {
+      "video_id": "_xRh0pnzBlM",
+      "title": "【 #わちゃわちゃカメレオン 】決して見つからない【音乃瀬奏】#ReGLOSS",
+      "published_at": "20260911",
+      "url": "https://youtu.be/_xRh0pnzBlM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_xRh0pnzBlM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "e4imo2fmshE",
       "title": "MECCHA MECCHA COLLAB #わちゃわちゃカメレオン",
       "published_at": "20260911",
@@ -143,18 +155,6 @@
       "thumbnail": "https://img.youtube.com/vi/RoXVbSPMgg0/mqdefault.jpg",
       "partner_handle": "aniamelfissa",
       "partner_name": "Anya Melfissa Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "_xRh0pnzBlM",
-      "title": "【 #わちゃわちゃカメレオン 】決して見つからない【音乃瀬奏】#ReGLOSS",
-      "published_at": "20260910",
-      "url": "https://youtu.be/_xRh0pnzBlM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/_xRh0pnzBlM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -863,6 +863,18 @@
       "thumbnail": "https://img.youtube.com/vi/SgwdAVVR7Fo/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KJbV6FXFSfI",
+      "title": "カメラ目線チャレンジ 奏の挑戦📷 #音乃瀬奏 #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260830",
+      "url": "https://youtu.be/KJbV6FXFSfI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KJbV6FXFSfI/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -26919,24 +26931,24 @@
       "paired_self": null
     },
     {
-      "video_id": "mVNF0Opghnc",
-      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published_at": "",
-      "url": "https://youtu.be/mVNF0Opghnc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "MBxH_i3bAhA",
       "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
       "published_at": "",
       "url": "https://youtu.be/MBxH_i3bAhA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mVNF0Opghnc",
+      "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published_at": "",
+      "url": "https://youtu.be/mVNF0Opghnc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

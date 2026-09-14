@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1410,
+  "count": 1412,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15509,6 +15509,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XrU_r2Zq21Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5sq4GTghjJw",
+      "title": "【 #ししドリ杯 】ホロライブドリームス!本番、楽しく頑張ろう!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5sq4GTghjJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "16VakjZUxEE",
+      "title": "【Hololive Dreams 】TEAM 08 FIGHTOO~~ Practice! #ししドリ杯",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/16VakjZUxEE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 750,
+  "count": 752,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8249,6 +8249,28 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AY1v8-jOZxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NbsPTrTilcU",
+      "title": "【How To Fish】Teach A Man How To Fish With @KaelaKovalskia @holoen_raorapanthera",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NbsPTrTilcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
       "status": "unreviewed",
       "note": null
     }

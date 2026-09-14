@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1319,
+  "count": 1321,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14508,6 +14508,28 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cuicoqlu664",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wh8qtkhWvxY",
+      "title": "【アニメ】怒られた時の反応集",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wh8qtkhWvxY",
       "status": "unreviewed",
       "note": null
     }

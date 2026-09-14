@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1685,
+  "count": 1689,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,66 @@
       "paired_self": null
     },
     {
+      "video_id": "t2WUvNJbbHU",
+      "title": "【 メン限 】深夜のちるめ歌枠/お話し少なめ【虎】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/t2WUvNJbbHU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t2WUvNJbbHU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1S5xN6ptlNY",
+      "title": "Vtuberのリアル晩酌をお見せします【volg】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/1S5xN6ptlNY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1S5xN6ptlNY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "j4vRCPZpe60",
+      "title": "5分の1で☠罰ゲーム☠【1回戦目】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/j4vRCPZpe60",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/j4vRCPZpe60/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZiJRrYcN2Ds",
+      "title": "【凸待ち】己の道をゆく。リズム天国対戦凸待ち📣 【ホロライブ/癒月ちょこ】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/ZiJRrYcN2Ds",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ZiJRrYcN2Ds/mqdefault.jpg",
+      "partner_handle": "yuzuki_choco",
+      "partner_name": "Choco Ch. 癒月ちょこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MmkPfYSIJ0s",
+      "title": "【 #朝ガオ vol.14 】今週のトークテーマ：ホロライブネクスト【虎金妃笑虎】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/MmkPfYSIJ0s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MmkPfYSIJ0s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Y-mApFt5Vas",
       "title": "好-じょし-をみんなで踊ってみた🫶",
       "published_at": "20260912",
@@ -23,18 +83,6 @@
       "thumbnail": "https://img.youtube.com/vi/Y-mApFt5Vas/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "MmkPfYSIJ0s",
-      "title": "【 ＃朝ガオ vol.14 】今週のトークテーマ：ホロライブネクスト【虎金妃笑虎】",
-      "published_at": "20260911",
-      "url": "https://youtu.be/MmkPfYSIJ0s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MmkPfYSIJ0s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

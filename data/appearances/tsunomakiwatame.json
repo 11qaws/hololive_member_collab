@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1822,
+  "count": 1824,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20041,6 +20041,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HsyZi8h89F8",
+      "title": "【hololive Dreams ホロライブドリームス #ししドリ杯】TEAM 08 GANBARU 勝つぞーーー!!!!!!!!!【hololive holoro | Anya】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HsyZi8h89F8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "16VakjZUxEE",
+      "title": "【Hololive Dreams 】TEAM 08 FIGHTOO~~ Practice! #ししドリ杯",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/16VakjZUxEE",
       "status": "unreviewed",
       "note": null
     }

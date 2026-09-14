@@ -1,7 +1,43 @@
 {
   "target": "shishirobotan",
-  "count": 3410,
+  "count": 3413,
   "entries": [
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "published_at": "20260927",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PnVZehg10Sx/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "published_at": "20260926",
+      "url": "https://youtu.be/ehRY3XerZev",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CeCHAnt_Atk",
+      "title": "【 #ししドリ杯/ホロドリ 】本番だあああああああ!!!!🔥🔥🔥【 猫又おかゆ視点/ホロライブ 】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/CeCHAnt_Atk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CeCHAnt_Atk/mqdefault.jpg",
+      "partner_handle": "nekomataokayu",
+      "partner_name": "Okayu Ch. 猫又おかゆ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "cI535pJp-TQ",
       "title": "【 #獅白ぼたん生誕祭2026 】重大告知あります!獅白ぼたん生誕3D LIVE✨『Stray&Stay』【獅白ぼたん/ホロライブ】",

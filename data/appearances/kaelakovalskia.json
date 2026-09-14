@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1106,
+  "count": 1108,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12165,6 +12165,28 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FweMA5sV3pg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZOP2gGe6JzI",
+      "title": "【How To Fish】I am just here to eat! 【PizzaTimeSmith Collab】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZOP2gGe6JzI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NbsPTrTilcU",
+      "title": "【How To Fish】Teach A Man How To Fish With @KaelaKovalskia @holoen_raorapanthera",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NbsPTrTilcU",
       "status": "unreviewed",
       "note": null
     }

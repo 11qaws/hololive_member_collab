@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1692,
+  "count": 1693,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18611,6 +18611,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/h1t1BIJSfpg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "83x9HfvzLIs",
+      "title": "【#ししドリ杯】大会本番【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/83x9HfvzLIs",
       "status": "unreviewed",
       "note": null
     }

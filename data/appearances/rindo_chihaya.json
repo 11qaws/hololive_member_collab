@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1327,
+  "count": 1330,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14596,6 +14596,39 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y-mApFt5Vas",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KKcWO7cSTYQ",
+      "title": "【ホロドリ】ホロドリやるよ〜🎶練習配信＃【水宮枢／ホロライブ10】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KKcWO7cSTYQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j4vRCPZpe60",
+      "title": "5分の1で☠罰ゲーム☠【1回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j4vRCPZpe60",
       "status": "unreviewed",
       "note": null
     }

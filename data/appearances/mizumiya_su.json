@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1182,
+  "count": 1184,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13001,6 +13001,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y-mApFt5Vas",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j4vRCPZpe60",
+      "title": "5分の1で☠罰ゲーム☠【1回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j4vRCPZpe60",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wh8qtkhWvxY",
+      "title": "【アニメ】怒られた時の反応集",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wh8qtkhWvxY",
       "status": "unreviewed",
       "note": null
     }

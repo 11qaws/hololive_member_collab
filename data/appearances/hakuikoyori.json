@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1428,
+  "count": 1432,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15707,6 +15707,50 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cuicoqlu664",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PnVZehg10Sx",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PnVZehg10Sx",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ehRY3XerZev",
+      "title": "NepoX! | hololive X ABEMA",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ehRY3XerZev",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skKeF1oLbjY",
+      "title": "【新ボイス】もしかして、推し変したの…?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RZUgI5EtcGk",
+      "title": "【#ホロ甲2026】栄冠ナイン育成開始!!どうなるAHOY高校!?【ホロライブ/宝鐘マリン・博衣こより】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RZUgI5EtcGk",
       "status": "unreviewed",
       "note": null
     }
