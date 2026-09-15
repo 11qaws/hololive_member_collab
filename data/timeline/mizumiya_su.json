@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2323,
+  "count": 2327,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,42 @@
       "paired_self": null
     },
     {
+      "video_id": "zgIYYJBHq18",
+      "title": "【雑談/freetalk】朝活🔅あさ過ぎてやばい。おはよう【水宮枢/ホロライブ】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/zgIYYJBHq18",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zgIYYJBHq18/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xCesfamA8JU",
+      "title": "【 #ししドリ杯/ホロドリ 】team1本番だ〜✨️!!【水宮枢/ホロライブ】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/xCesfamA8JU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xCesfamA8JU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "82KFyGROd04",
+      "title": "うれぴっぴ/みにみやが踊ってみた #vtuber #ホロライブ #dance",
+      "published_at": "20260914",
+      "url": "https://youtu.be/82KFyGROd04",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/82KFyGROd04/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "z7XBdupRcYO",
       "title": "Shishiron Cup - holodori: Rhythm & Chase",
       "published_at": "20260914",
@@ -23,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bi-nw4LERZU",
+      "title": "【ホロライブ ドリームス】#ししドリ杯 TEAM１勝つぞ～～～！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/bi-nw4LERZU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bi-nw4LERZU/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -87,6 +135,18 @@
       "paired_self": null
     },
     {
+      "video_id": "sAsX1iOV2cw",
+      "title": "【ホロドリ】ホロドリやるよ〜🎶練習配信#9【水宮枢/ホロライブ】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/sAsX1iOV2cw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sAsX1iOV2cw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "qflSo5lf8VA",
       "title": "【手書き】庇えるかギリギリの化け物  #ホロライブ  #vtuber #animation",
       "published_at": "20260912",
@@ -119,18 +179,6 @@
       "thumbnail": "https://img.youtube.com/vi/Y-mApFt5Vas/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "sAsX1iOV2cw",
-      "title": "【ホロドリ】ホロドリやるよ〜🎶練習配信＃９【水宮枢／ホロライブ】",
-      "published_at": "20260911",
-      "url": "https://youtu.be/sAsX1iOV2cw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/sAsX1iOV2cw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

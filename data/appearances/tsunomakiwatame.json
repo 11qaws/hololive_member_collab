@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1824,
+  "count": 1825,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20063,6 +20063,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/16VakjZUxEE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HiDorFDVEq8",
+      "title": "【Hololive Dreams】TEAM 08 GANBAAAAROU #ししドリ杯",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HiDorFDVEq8",
       "status": "unreviewed",
       "note": null
     }

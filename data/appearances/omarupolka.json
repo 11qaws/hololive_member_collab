@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1952,
+  "count": 1954,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21471,6 +21471,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zTD4n-B41u4",
+      "title": "【その9】チルラジオ配信 #狐族密会 「癒し回!自宅のペット自慢」【ホロライブ/白上フブキ/尾丸ポルカ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zTD4n-B41u4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4mmqfiGIoyI",
+      "title": "萌え萌えキュン♡が止まらない #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4mmqfiGIoyI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1578,
+  "count": 1580,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17357,6 +17357,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BmZ1_i96-Ig",
+      "title": "【 バイオハザード6 】クリス&ピアーズ編!フレわたバイオ6の夏!がんばいお!!!#6【角巻わため/ホロライブ4期生】※ネタバレあり",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BmZ1_i96-Ig",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3nqQydhr0iY",
+      "title": "【#ししドリ杯】くらやみチェイス⁉️リズムゲーム⁉️チーム04がんばるぞおお【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3nqQydhr0iY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "tokoyamitowa",
-  "count": 3754,
+  "count": 3758,
   "entries": [
+    {
+      "video_id": "3nqQydhr0iY",
+      "title": "【#ししドリ杯】くらやみチェイス⁉️リズムゲーム⁉️チーム04がんばるぞおお【常闇トワ/ホロライブ】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/3nqQydhr0iY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3nqQydhr0iY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "z7XBdupRcYO",
       "title": "Shishiron Cup - holodori: Rhythm & Chase",
@@ -15,6 +27,18 @@
       "paired_self": null
     },
     {
+      "video_id": "ou2s4FCuSSs",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/ou2s4FCuSSs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ou2s4FCuSSs/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "KhULmqdZRfw",
       "title": "【ホロドリ】ホロドリ大会前日練習🔥みこトワでやるでぇえええええええ～～～！【ホロライブ/さくらみこ/常闇トワ】",
       "published_at": "20260913",
@@ -23,6 +47,30 @@
       "thumbnail": "https://img.youtube.com/vi/KhULmqdZRfw/mqdefault.jpg",
       "partner_handle": "sakuramiko",
       "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HsyZi8h89F8",
+      "title": "【hololive Dreams ホロライブドリームス #ししドリ杯】TEAM 08 GANBARU 勝つぞーーー！！！！！！！！！【hololive holoro | Anya】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/HsyZi8h89F8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HsyZi8h89F8/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5sq4GTghjJw",
+      "title": "【 #ししドリ杯 】ホロライブドリームス！本番、楽しく頑張ろう！！【角巻わため/ホロライブ４期生】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/5sq4GTghjJw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5sq4GTghjJw/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20751,24 +20799,24 @@
       "paired_self": null
     },
     {
-      "video_id": "llLjylG44DQ",
-      "title": "Present Day",
-      "published_at": "20230926",
-      "url": "https://youtu.be/llLjylG44DQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oXAObuOS1U4",
       "title": "サンビタリア",
       "published_at": "20230926",
       "url": "https://youtu.be/oXAObuOS1U4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "llLjylG44DQ",
+      "title": "Present Day",
+      "published_at": "20230926",
+      "url": "https://youtu.be/llLjylG44DQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

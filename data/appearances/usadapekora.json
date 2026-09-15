@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1661,
+  "count": 1664,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18270,6 +18270,39 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XgJOjDn5Z7Q",
+      "title": "【3D LIVE】おねがいダーリン/ぺこヴィヴィ【兎田ぺこら×綺々羅々ヴィヴィ】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XgJOjDn5Z7Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MQbAJKg5g7M",
+      "title": "【3D LIVE 】初恋サイダー/MVP【宝鐘マリン×綺々羅々ヴィヴィ×兎田ぺこら】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MQbAJKg5g7M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sMhZJ__GT28",
+      "title": "【 #ししドリ杯 】ぺこら先輩マリちゃんと練習!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #兎田ぺこら #宝鐘マリン 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sMhZJ__GT28",
       "status": "unreviewed",
       "note": null
     }

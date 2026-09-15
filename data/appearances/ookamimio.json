@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1958,
+  "count": 1960,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21537,6 +21537,28 @@
       "published_at": "20230726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VtukROvZUQY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SrJ_RD6c-xQ",
+      "title": "【#RosaMiA】壺おじクリア耐久リレー!?クリアできたら重大告知!!!【ホロライブ / AZKi / アキ・ローゼンタール / 大神ミオ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SrJ_RD6c-xQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4mmqfiGIoyI",
+      "title": "萌え萌えキュン♡が止まらない #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4mmqfiGIoyI",
       "status": "unreviewed",
       "note": null
     }

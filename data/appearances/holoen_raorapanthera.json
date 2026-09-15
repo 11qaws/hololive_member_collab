@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 752,
+  "count": 753,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8271,6 +8271,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5ryr3uzLCJA",
+      "title": "【How to Fish】oh look, they are fighting again!【PizzaTimesmith】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5ryr3uzLCJA",
       "status": "unreviewed",
       "note": null
     }

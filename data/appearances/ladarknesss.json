@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1058,
+  "count": 1060,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11637,6 +11637,28 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ehRY3XerZev",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f5sNX7FLT1w",
+      "title": "【同時視聴/Watchalong】〈偽物語〉(後編8~11話)holoXで視聴会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f5sNX7FLT1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PgNgZGSZN0w",
+      "title": "【#ししドリ杯】TEAM3あずいろはス!我ら二人のお姉さんとガキ一匹!いくぞ!!【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PgNgZGSZN0w",
       "status": "unreviewed",
       "note": null
     }

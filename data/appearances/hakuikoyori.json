@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1432,
+  "count": 1433,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15751,6 +15751,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RZUgI5EtcGk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f5sNX7FLT1w",
+      "title": "【同時視聴/Watchalong】〈偽物語〉(後編8~11話)holoXで視聴会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260908",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f5sNX7FLT1w",
       "status": "unreviewed",
       "note": null
     }

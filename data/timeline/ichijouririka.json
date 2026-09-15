@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2824,
+  "count": 2830,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,6 +27,18 @@
       "paired_self": null
     },
     {
+      "video_id": "mBns3fCug_4",
+      "title": "【#ししドリ杯】大会楽しむぞー！！✨おかゆ先輩とオリーと！！【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/mBns3fCug_4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mBns3fCug_4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "z7XBdupRcYO",
       "title": "Shishiron Cup - holodori: Rhythm & Chase",
       "published_at": "20260914",
@@ -35,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ou2s4FCuSSs",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/ou2s4FCuSSs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ou2s4FCuSSs/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },
@@ -75,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "dNRr1PQJRyY",
+      "title": "【#ししドリ杯】 LET'S GO TEAM 9!! チーム9、勝つぞー！！🔥 【Kureiji Ollie】",
+      "published_at": "20260913",
+      "url": "https://youtu.be/dNRr1PQJRyY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dNRr1PQJRyY/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "92Kybu_sepE",
       "title": "カリスマックス、踊りました!!!!!! #shorts #hololive",
       "published_at": "20260912",
@@ -105,6 +141,18 @@
       "url": "https://youtu.be/VH9GZgCWWWg",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/VH9GZgCWWWg/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QOt5V8Q4OV0",
+      "title": "【#ReGLOSS3周年】ReGLOSS Memorial Award この1年の活動を表彰!",
+      "published_at": "20260912",
+      "url": "https://youtu.be/QOt5V8Q4OV0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QOt5V8Q4OV0/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
@@ -851,6 +899,30 @@
       "thumbnail": "https://img.youtube.com/vi/xdLK02zKGFc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OE9t1-qwsII",
+      "title": "もぐもぐりりなでなつまつりのおまけ動画がメンバー限定で公開中🏮 ぜひご覧ください! #りりなで夏祭り #ReGLOSS #Vtuber #shorts",
+      "published_at": "20260831",
+      "url": "https://youtu.be/OE9t1-qwsII",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OE9t1-qwsII/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Deji3kJWCvc",
+      "title": "【メンバー限定】もぐもぐりりなでなつまつりおまけ【#りりなで夏祭り】",
+      "published_at": "20260831",
+      "url": "https://youtu.be/Deji3kJWCvc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Deji3kJWCvc/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1242,
+  "count": 1246,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13661,6 +13661,50 @@
       "published_at": "20260830",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KJbV6FXFSfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "srmUY7FK00k",
+      "title": "【hololive Dreams】WE ARE TEAM 7, NO SWEATY SWEATY !! #ししドリ杯",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/srmUY7FK00k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M5N4KqjmXYU",
+      "title": "【 #ししドリ杯 】(ソロ練習あり)本番当日！とにかくエンジョイ！楽しんでいこ～🎵【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M5N4KqjmXYU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QOt5V8Q4OV0",
+      "title": "【#ReGLOSS3周年】ReGLOSS Memorial Award この1年の活動を表彰!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QOt5V8Q4OV0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OE9t1-qwsII",
+      "title": "もぐもぐりりなでなつまつりのおまけ動画がメンバー限定で公開中🏮 ぜひご覧ください! #りりなで夏祭り #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OE9t1-qwsII",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2383,
+  "count": 2385,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26212,6 +26212,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ou2s4FCuSSs",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ou2s4FCuSSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3nqQydhr0iY",
+      "title": "【#ししドリ杯】くらやみチェイス⁉️リズムゲーム⁉️チーム04がんばるぞおお【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3nqQydhr0iY",
       "status": "unreviewed",
       "note": null
     }

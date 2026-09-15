@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1132,
+  "count": 1133,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12451,6 +12451,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r82_0K3LST0",
+      "title": "【Hololive Dreams】LETS GO TEAM 6!!! 大会本番いくぞー！！！",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r82_0K3LST0",
       "status": "unreviewed",
       "note": null
     }

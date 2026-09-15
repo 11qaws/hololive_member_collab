@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 762,
+  "count": 763,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8381,6 +8381,17 @@
       "published_at": "20260905",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AY1v8-jOZxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M5N4KqjmXYU",
+      "title": "【 #ししドリ杯 】(ソロ練習あり)本番当日！とにかくエンジョイ！楽しんでいこ～🎵【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M5N4KqjmXYU",
       "status": "unreviewed",
       "note": null
     }

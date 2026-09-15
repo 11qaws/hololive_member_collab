@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1421,
+  "count": 1422,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15630,6 +15630,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yah8-pvkLPA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mBns3fCug_4",
+      "title": "【#ししドリ杯】大会楽しむぞー！！✨おかゆ先輩とオリーと！！【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mBns3fCug_4",
       "status": "unreviewed",
       "note": null
     }

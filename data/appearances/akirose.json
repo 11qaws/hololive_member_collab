@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1301,
+  "count": 1303,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14310,6 +14310,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SrJ_RD6c-xQ",
+      "title": "【#RosaMiA】壺おじクリア耐久リレー!?クリアできたら重大告知!!!【ホロライブ / AZKi / アキ・ローゼンタール / 大神ミオ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SrJ_RD6c-xQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YtM0zMhxpHY",
+      "title": "【#ししドリ杯】ホロドリ大会！チーム２頑張るぞ🔥【ホロライブ FLOW GLOW 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YtM0zMhxpHY",
       "status": "unreviewed",
       "note": null
     }

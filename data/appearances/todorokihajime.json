@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1279,
+  "count": 1281,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14068,6 +14068,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VH9GZgCWWWg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bi-nw4LERZU",
+      "title": "【ホロライブ ドリームス】#ししドリ杯 TEAM１勝つぞ～～～！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bi-nw4LERZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xCesfamA8JU",
+      "title": "【 #ししドリ杯/ホロドリ 】team1本番だ〜✨️!!【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xCesfamA8JU",
       "status": "unreviewed",
       "note": null
     }

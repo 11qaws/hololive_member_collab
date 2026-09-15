@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1412,
+  "count": 1413,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15531,6 +15531,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/16VakjZUxEE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HiDorFDVEq8",
+      "title": "【Hololive Dreams】TEAM 08 GANBAAAAROU #ししドリ杯",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HiDorFDVEq8",
       "status": "unreviewed",
       "note": null
     }

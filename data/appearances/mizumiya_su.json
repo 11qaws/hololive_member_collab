@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1184,
+  "count": 1185,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13023,6 +13023,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wh8qtkhWvxY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bi-nw4LERZU",
+      "title": "【ホロライブ ドリームス】#ししドリ杯 TEAM１勝つぞ～～～！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bi-nw4LERZU",
       "status": "unreviewed",
       "note": null
     }

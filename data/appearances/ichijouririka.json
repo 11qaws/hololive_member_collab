@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1460,
+  "count": 1465,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16059,6 +16059,61 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ou2s4FCuSSs",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ou2s4FCuSSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dNRr1PQJRyY",
+      "title": "【#ししドリ杯】 LET'S GO TEAM 9!! チーム9、勝つぞー！！🔥 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260913",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dNRr1PQJRyY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QOt5V8Q4OV0",
+      "title": "【#ReGLOSS3周年】ReGLOSS Memorial Award この1年の活動を表彰!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QOt5V8Q4OV0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OE9t1-qwsII",
+      "title": "もぐもぐりりなでなつまつりのおまけ動画がメンバー限定で公開中🏮 ぜひご覧ください! #りりなで夏祭り #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OE9t1-qwsII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Deji3kJWCvc",
+      "title": "【メンバー限定】もぐもぐりりなでなつまつりおまけ【#りりなで夏祭り】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260831",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Deji3kJWCvc",
       "status": "unreviewed",
       "note": null
     }

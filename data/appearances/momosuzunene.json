@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1246,
+  "count": 1248,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13705,6 +13705,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wh8qtkhWvxY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w9BbS2ByjwA",
+      "title": "【 ホロドリ 】まがまがーずが放課後きゃんちゅー部に!!!【 宮野静・音井結衣・桃鈴ねね・雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w9BbS2ByjwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n-_YBY_M6fU",
+      "title": "#ウチらしか勝たん 踊ってみた! #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #常闇トワ #桃鈴ねね #博衣こより",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n-_YBY_M6fU",
       "status": "unreviewed",
       "note": null
     }

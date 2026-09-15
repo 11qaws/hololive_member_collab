@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1083,
+  "count": 1084,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11912,6 +11912,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PgNgZGSZN0w",
+      "title": "【#ししドリ杯】TEAM3あずいろはス!我ら二人のお姉さんとガキ一匹!いくぞ!!【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PgNgZGSZN0w",
       "status": "unreviewed",
       "note": null
     }

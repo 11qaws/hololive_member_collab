@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1031,
+  "count": 1032,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11340,6 +11340,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mxrDakiAjZo",
+      "title": "【#アキちょこナイパレ|第52回】旅行は計画派 vs ノープラン派 あなたはどっち派?|シスターローズの懺悔室~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mxrDakiAjZo",
       "status": "unreviewed",
       "note": null
     }

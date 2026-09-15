@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3652,
+  "count": 3654,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/z7XBdupRcYO/mqdefault.jpg",
       "partner_handle": "shishirobotan",
       "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MQbAJKg5g7M",
+      "title": "【3D LIVE 】初恋サイダー/MVP【宝鐘マリン×綺々羅々ヴィヴィ×兎田ぺこら】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/MQbAJKg5g7M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/MQbAJKg5g7M/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sMhZJ__GT28",
+      "title": "【 #ししドリ杯 】ぺこら先輩マリちゃんと練習!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #兎田ぺこら #宝鐘マリン 】",
+      "published_at": "20260914",
+      "url": "https://youtu.be/sMhZJ__GT28",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/sMhZJ__GT28/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -10839,18 +10863,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Vgipg_bXYwg",
-      "title": "スキスキDieスキ超Ayeシテル",
-      "published_at": "20241015",
-      "url": "https://youtu.be/Vgipg_bXYwg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Vgipg_bXYwg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "V6a1pbqlXVw",
       "title": "I I I",
       "published_at": "20241015",
@@ -10869,6 +10881,18 @@
       "url": "https://youtu.be/U9X6hVgIib8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Vgipg_bXYwg",
+      "title": "スキスキDieスキ超Ayeシテル",
+      "published_at": "20241015",
+      "url": "https://youtu.be/Vgipg_bXYwg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Vgipg_bXYwg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1330,
+  "count": 1332,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14629,6 +14629,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j4vRCPZpe60",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ou2s4FCuSSs",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ou2s4FCuSSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xCesfamA8JU",
+      "title": "【 #ししドリ杯/ホロドリ 】team1本番だ〜✨️!!【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xCesfamA8JU",
       "status": "unreviewed",
       "note": null
     }

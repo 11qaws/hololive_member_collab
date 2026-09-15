@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1365,
+  "count": 1366,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15014,6 +15014,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K_pbAkB5BHc",
+      "title": "【 ホロドリ 】Vアイドルと3次元アイドルが一緒に!?【 宮野静・音井結衣・桃鈴ねね・雪花ラミィ /ホロライブ/カワラボ】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K_pbAkB5BHc",
       "status": "unreviewed",
       "note": null
     }
