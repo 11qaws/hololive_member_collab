@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1248,
+  "count": 1249,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13727,6 +13727,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n-_YBY_M6fU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YvBqE82A-3o",
+      "title": "【宮野静コラボ💜】雪花ラミィさん・桃鈴ねねさん・SWEET STEADY音井結衣さんコラボ回【放課後きゃんちゅー部：番外編】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YvBqE82A-3o",
       "status": "unreviewed",
       "note": null
     }

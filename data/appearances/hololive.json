@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 170,
+  "count": 171,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1869,6 +1869,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mxrDakiAjZo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sXsDJSDUwZU",
+      "title": "∞超スーパー無限インフィニティ∞【Dance/#shorts /#ときのそら /#ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sXsDJSDUwZU",
       "status": "unreviewed",
       "note": null
     }

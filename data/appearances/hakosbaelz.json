@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1236,
+  "count": 1237,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13595,6 +13595,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Nc2V_HSuOsM",
+      "title": "【輪ゴムでスイカ割り】3D凸待ちで来てくれたメンバーと何本で割れるか検証する！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Nc2V_HSuOsM",
       "status": "unreviewed",
       "note": null
     }

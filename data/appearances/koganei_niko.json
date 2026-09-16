@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 849,
+  "count": 850,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9338,6 +9338,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZiJRrYcN2Ds",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uu6Ac9BKAkg",
+      "title": "好-じょし-をヴィヴィとリオナと笑虎で踊ってみた🎸✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uu6Ac9BKAkg",
       "status": "unreviewed",
       "note": null
     }

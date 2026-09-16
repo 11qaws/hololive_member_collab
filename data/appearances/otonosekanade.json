@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1246,
+  "count": 1247,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13705,6 +13705,17 @@
       "published_at": "20260831",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OE9t1-qwsII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iaPFei9_944",
+      "title": "【 #ReGLOSS_1stLive 】Blu-ray予約受付中!【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iaPFei9_944",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 3968,
+  "count": 3970,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QrJ5lZRtdwY",
+      "title": "みこちのソロライブたのちみ✨ #サキミダレアッパレード♪ #shorts #hololive #さくらみこ",
+      "published_at": "20260916",
+      "url": "https://youtu.be/QrJ5lZRtdwY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QrJ5lZRtdwY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -815,6 +827,18 @@
       "thumbnail": "https://img.youtube.com/vi/8Q_ORiuljkw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qe3iBe1SiVg",
+      "title": "笑神すぎる戌神ころね先輩 #shorts #切り抜き",
+      "published_at": "20260807",
+      "url": "https://youtu.be/qe3iBe1SiVg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qe3iBe1SiVg/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -23235,24 +23259,24 @@
       "paired_self": null
     },
     {
-      "video_id": "kEH7SJvgIwQ",
-      "title": "TSUBASA",
-      "published_at": "20240611",
-      "url": "https://youtu.be/kEH7SJvgIwQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "he7uObcHFdk",
       "title": "オーバード",
       "published_at": "20240611",
       "url": "https://youtu.be/he7uObcHFdk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/he7uObcHFdk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kEH7SJvgIwQ",
+      "title": "TSUBASA",
+      "published_at": "20240611",
+      "url": "https://youtu.be/kEH7SJvgIwQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kEH7SJvgIwQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

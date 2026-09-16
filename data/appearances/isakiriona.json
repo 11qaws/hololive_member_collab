@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1173,
+  "count": 1175,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12902,6 +12902,28 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tpYDP9JBTVg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uu6Ac9BKAkg",
+      "title": "好-じょし-をヴィヴィとリオナと笑虎で踊ってみた🎸✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uu6Ac9BKAkg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kvpnGmCbA7Q",
+      "title": "愛すべき我らがYAGOO#shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kvpnGmCbA7Q",
       "status": "unreviewed",
       "note": null
     }

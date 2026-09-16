@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1960,
+  "count": 1962,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21559,6 +21559,28 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4mmqfiGIoyI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uxYg4CCEn-w",
+      "title": "【 MLBxhololive 】ロサンゼルス・ドジャース(大谷翔平,山本由伸,佐々木朗希選手所属) VS シンシナティ・レッズや日本人選手出場試合を応援しよう!【大神ミオ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uxYg4CCEn-w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Nc2V_HSuOsM",
+      "title": "【輪ゴムでスイカ割り】3D凸待ちで来てくれたメンバーと何本で割れるか検証する！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Nc2V_HSuOsM",
       "status": "unreviewed",
       "note": null
     }

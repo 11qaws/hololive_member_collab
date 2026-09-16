@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 592,
+  "count": 593,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6511,6 +6511,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EBAH4eXDxnk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KJge-KcU_x0",
+      "title": "【JUSTICE JAM + ANNOUNCEMENT】Justice United! We Have BIG ANNOUNCEMENT! #holojustice",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KJge-KcU_x0",
       "status": "unreviewed",
       "note": null
     }

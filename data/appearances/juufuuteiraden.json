@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 912,
+  "count": 913,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10031,6 +10031,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VH9GZgCWWWg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Nc2V_HSuOsM",
+      "title": "【輪ゴムでスイカ割り】3D凸待ちで来てくれたメンバーと何本で割れるか検証する！ぺこ！【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Nc2V_HSuOsM",
       "status": "unreviewed",
       "note": null
     }

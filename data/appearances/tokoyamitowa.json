@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1645,
+  "count": 1647,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18094,6 +18094,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5sq4GTghjJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8MneK49YBi4",
+      "title": "【7Days to Die】#ホロ7大豆劇場 DAY１２ 襲撃回🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8MneK49YBi4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lra3XyTDKhE",
+      "title": "【7Days to Die】立てこもり!襲撃に耐えろ!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lra3XyTDKhE",
       "status": "unreviewed",
       "note": null
     }

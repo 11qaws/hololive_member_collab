@@ -1,10 +1,10 @@
 {
   "target": "usadapekora",
-  "count": 4717,
+  "count": 4718,
   "entries": [
     {
       "video_id": "Nc2V_HSuOsM",
-      "title": "夏の終わり【ホロライブ/兎田ぺこら】",
+      "title": "【輪ゴムでスイカ割り】3D凸待ちで来てくれたメンバーと何本で割れるか検証する！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "20260914",
       "url": "https://youtu.be/Nc2V_HSuOsM",
       "entry_type": "stream",
@@ -76,7 +76,7 @@
     },
     {
       "video_id": "ICH6QwP5qd4",
-      "title": "#4【鬼武者 Way of the Sword】シリーズ初見！人生初の「鬼武者」参るッ！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+      "title": "#4【鬼武者 Way of the Sword】シリーズ初見!人生初の「鬼武者」参るッ!ぺこ!【ホロライブ/兎田ぺこら】※ネタバレ注意",
       "published_at": "20260913",
       "url": "https://youtu.be/ICH6QwP5qd4",
       "entry_type": "stream",
@@ -1811,6 +1811,18 @@
       "thumbnail": "https://img.youtube.com/vi/WJWg8kGKoP0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PVZz4dgNWwc",
+      "title": "女の名前間違えるのはやべえ #shorts #切り抜き",
+      "published_at": "20260717",
+      "url": "https://youtu.be/PVZz4dgNWwc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PVZz4dgNWwc/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

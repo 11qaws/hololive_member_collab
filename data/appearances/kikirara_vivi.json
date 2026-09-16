@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1286,
+  "count": 1289,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14145,6 +14145,39 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j4vRCPZpe60",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uu6Ac9BKAkg",
+      "title": "好-じょし-をヴィヴィとリオナと笑虎で踊ってみた🎸✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uu6Ac9BKAkg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PVZz4dgNWwc",
+      "title": "女の名前間違えるのはやべえ #shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PVZz4dgNWwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tjkSABeTE9g",
+      "title": "弱肉強食、ワンブロックを奪い合う #shorts #minecraft #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tjkSABeTE9g",
       "status": "unreviewed",
       "note": null
     }

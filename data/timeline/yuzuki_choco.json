@@ -1,7 +1,43 @@
 {
   "target": "yuzuki_choco",
-  "count": 3077,
+  "count": 3080,
   "entries": [
+    {
+      "video_id": "jrS0q1dOknQ",
+      "title": "ハレ晴レユカイ踊ってみた #踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts #涼宮ハルヒの憂鬱",
+      "published_at": "20260915",
+      "url": "https://youtu.be/jrS0q1dOknQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jrS0q1dOknQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nkicQ5YwApU",
+      "title": "Love Trick",
+      "published_at": "20260914",
+      "url": "https://youtu.be/nkicQ5YwApU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nkicQ5YwApU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ditR-703Row",
+      "title": "Love Trick (Instrumental)",
+      "published_at": "20260914",
+      "url": "https://youtu.be/ditR-703Row",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ditR-703Row/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "OwlUFA4zSyc",
       "title": "フランケンシュタインの怪物 #踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts #ヒメヒナ",
@@ -6963,24 +6999,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

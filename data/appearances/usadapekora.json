@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1664,
+  "count": 1665,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18303,6 +18303,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sMhZJ__GT28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PVZz4dgNWwc",
+      "title": "女の名前間違えるのはやべえ #shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260717",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PVZz4dgNWwc",
       "status": "unreviewed",
       "note": null
     }

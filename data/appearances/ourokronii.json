@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1055,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11604,6 +11604,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5ryr3uzLCJA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CZ7GgKPwot4",
+      "title": "brain.exe has stopped working🫠 #relatable #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CZ7GgKPwot4",
       "status": "unreviewed",
       "note": null
     }

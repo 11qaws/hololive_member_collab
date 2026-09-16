@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1799,
+  "count": 1800,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19788,6 +19788,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/srmUY7FK00k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yT_CGg8JmUc",
+      "title": "【 MLBxhololive 】ロサンゼルス・ドジャース(大谷翔平,山本由伸,佐々木朗希選手所属) VS シンシナティ・レッズや日本人選手出場試合を応援しよう！【白銀ノエル・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yT_CGg8JmUc",
       "status": "unreviewed",
       "note": null
     }

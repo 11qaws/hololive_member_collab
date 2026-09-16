@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1321,
+  "count": 1322,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14530,6 +14530,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wh8qtkhWvxY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q_YY-ZyCszg",
+      "title": "悪いお姉さんたちに誑かされた #shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260803",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q_YY-ZyCszg",
       "status": "unreviewed",
       "note": null
     }

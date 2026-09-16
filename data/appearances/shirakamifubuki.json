@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3454,
+  "count": 3459,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -37993,6 +37993,61 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5sq4GTghjJw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8MneK49YBi4",
+      "title": "【7Days to Die】#ホロ7大豆劇場 DAY１２ 襲撃回🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8MneK49YBi4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p2eAeTluH8w",
+      "title": "【 DAY12 】#ホロ7大豆劇場 ‼️雪山襲撃‼️籠城作戦⁉️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p2eAeTluH8w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lra3XyTDKhE",
+      "title": "【7Days to Die】立てこもり!襲撃に耐えろ!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lra3XyTDKhE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kvpnGmCbA7Q",
+      "title": "愛すべき我らがYAGOO#shorts #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kvpnGmCbA7Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5NAQWaAN_Sw",
+      "title": "これがホロライブ…! #shorts #切り抜き #7dtd  #ゲーム実況",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260904",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5NAQWaAN_Sw",
       "status": "unreviewed",
       "note": null
     }

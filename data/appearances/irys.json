@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1146,
+  "count": 1147,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12605,6 +12605,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DjbOkB_3KXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CZ7GgKPwot4",
+      "title": "brain.exe has stopped working🫠 #relatable #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CZ7GgKPwot4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1185,
+  "count": 1186,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13034,6 +13034,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bi-nw4LERZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tjkSABeTE9g",
+      "title": "弱肉強食、ワンブロックを奪い合う #shorts #minecraft #切り抜き",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260715",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tjkSABeTE9g",
       "status": "unreviewed",
       "note": null
     }

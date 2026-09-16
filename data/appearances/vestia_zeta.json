@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1028,
+  "count": 1029,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11307,6 +11307,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HsyZi8h89F8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wtZod84wA24",
+      "title": "My Sweet Heart - Komatsu Rika | Tokyo Mew Mew COVER by hololive",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wtZod84wA24",
       "status": "unreviewed",
       "note": null
     }
