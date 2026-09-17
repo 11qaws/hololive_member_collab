@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1117,
+  "count": 1119,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12286,6 +12286,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cI535pJp-TQ",
+      "title": "【 #獅白ぼたん生誕祭2026 】重大告知あります!獅白ぼたん生誕3D LIVE✨『Stray&Stay』【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cI535pJp-TQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZDr09XLVGVc",
+      "title": "【BANANAGRAMS】yummy words with Nerissa. (handcam off-collab) #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZDr09XLVGVc",
       "status": "unreviewed",
       "note": null
     }

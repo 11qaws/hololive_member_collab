@@ -1,6 +1,6 @@
 {
   "target": "kiryucoco",
-  "count": 1316,
+  "count": 1317,
   "entries": [
     {
       "video_id": "8WphWiNYbzk",
@@ -7427,6 +7427,18 @@
       "thumbnail": "https://img.youtube.com/vi/h8GQMloS2gU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QUhf7H8I38s",
+      "title": "【切り抜き動画04】懐かしのARKデビュー編!【角巻わため/ホロライブ4期生】",
+      "published_at": "20200811",
+      "url": "https://youtu.be/QUhf7H8I38s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QUhf7H8I38s/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

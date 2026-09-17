@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3459,
+  "count": 3462,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38048,6 +38048,39 @@
       "published_at": "20260904",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5NAQWaAN_Sw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UTTsicHSoeI",
+      "title": "【DAY14】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UTTsicHSoeI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SkamyidiyKU",
+      "title": "【BOMBANANA!】Am Monkey?! with @ShirakamiFubuki & @ShiranuiFlare #fltakon",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SkamyidiyKU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WLXLfSwvss0",
+      "title": "【BOMBANANA!】#fltakon ふれたこーんです!!通してください【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WLXLfSwvss0",
       "status": "unreviewed",
       "note": null
     }

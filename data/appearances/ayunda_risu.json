@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1087,
+  "count": 1088,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11956,6 +11956,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wtZod84wA24",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zL8WON66Q1I",
+      "title": "My Sweet Heart from Tokyo Mew Mew is out now!",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zL8WON66Q1I",
       "status": "unreviewed",
       "note": null
     }

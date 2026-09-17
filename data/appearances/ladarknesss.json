@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1060,
+  "count": 1061,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11659,6 +11659,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PgNgZGSZN0w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ByNy5C5Vxsw",
+      "title": "【#ねぽっくす】似ているようで違う瞬間たち 【#ねぽらぼ と #秘密結社holoX で #ねぽっくす 】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ByNy5C5Vxsw",
       "status": "unreviewed",
       "note": null
     }

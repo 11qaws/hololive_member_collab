@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 919,
+  "count": 920,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10108,6 +10108,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KJge-KcU_x0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aFyzB4Kqego",
+      "title": "【Crash Bash】I Assembled a Team to Beat My First Ever Video Game.... #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aFyzB4Kqego",
       "status": "unreviewed",
       "note": null
     }

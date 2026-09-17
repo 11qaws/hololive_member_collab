@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1136,
+  "count": 1138,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12495,6 +12495,28 @@
       "published_at": "20260717",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PVZz4dgNWwc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x0__t5HchqI",
+      "title": "【 🟡BASE BREAD 】#おかころ で!!🍙🥐✦ BASE FOODさんからの食レポクイズにチャレンジ💥【 猫又おかゆ / 戌神ころね /ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x0__t5HchqI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kVIP05MlL4I",
+      "title": "【#ShapeofDreams】コラボ記念配信!サプライズもあるよ!!【ホロライブ/白上フブキ・戌神ころね】 #シェイドリ#PR",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260909",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kVIP05MlL4I",
       "status": "unreviewed",
       "note": null
     }

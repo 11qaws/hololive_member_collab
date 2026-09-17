@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 754,
+  "count": 755,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8293,6 +8293,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JyP1hD-IzZg",
+      "title": "【MV】Okie Dokie Dance ／ 大空スバル【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JyP1hD-IzZg",
       "status": "unreviewed",
       "note": null
     }

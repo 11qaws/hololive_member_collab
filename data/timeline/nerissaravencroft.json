@@ -1,7 +1,19 @@
 {
   "target": "nerissaravencroft",
-  "count": 1872,
+  "count": 1874,
   "entries": [
+    {
+      "video_id": "ZDr09XLVGVc",
+      "title": "【BANANAGRAMS】yummy words with Nerissa. (handcam off-collab) #calliolive",
+      "published_at": "20260917",
+      "url": "https://youtu.be/ZDr09XLVGVc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ZDr09XLVGVc/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "CZ7GgKPwot4",
       "title": "brain.exe has stopped working🫠 #relatable #hololive",
@@ -35,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/skKeF1oLbjY/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cI535pJp-TQ",
+      "title": "【 #獅白ぼたん生誕祭2026 】重大告知あります!獅白ぼたん生誕3D LIVE✨『Stray&Stay』【獅白ぼたん/ホロライブ】",
+      "published_at": "20260912",
+      "url": "https://youtu.be/cI535pJp-TQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cI535pJp-TQ/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
       "paired_self": null
     },

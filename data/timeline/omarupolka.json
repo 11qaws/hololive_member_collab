@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 4500,
+  "count": 4503,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -21,6 +21,42 @@
       "url": "https://youtu.be/ehRY3XerZev",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YkV0Vxy4_WE",
+      "title": "【#ホロ甲2026】育成配信2年目夏～✨️甲子園にいきたい！！！【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260916",
+      "url": "https://youtu.be/YkV0Vxy4_WE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YkV0Vxy4_WE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rJ0yuL2TGR8",
+      "title": "ほえ?これアウトですか? #ポルカの伝説 #尾丸ポルカ",
+      "published_at": "20260916",
+      "url": "https://youtu.be/rJ0yuL2TGR8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rJ0yuL2TGR8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ByNy5C5Vxsw",
+      "title": "【#ねぽっくす】似ているようで違う瞬間たち 【#ねぽらぼ と #秘密結社holoX で #ねぽっくす 】#hololive #ホロライブ",
+      "published_at": "20260916",
+      "url": "https://youtu.be/ByNy5C5Vxsw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ByNy5C5Vxsw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -17547,24 +17583,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZTjry52_Ou4",
-      "title": "パペット",
-      "published_at": "20250130",
-      "url": "https://youtu.be/ZTjry52_Ou4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v5kXEPBEVSw",
       "title": "無理ぽ to ポジ",
       "published_at": "20250130",
       "url": "https://youtu.be/v5kXEPBEVSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZTjry52_Ou4",
+      "title": "パペット",
+      "published_at": "20250130",
+      "url": "https://youtu.be/ZTjry52_Ou4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -53919,18 +53955,6 @@
       "paired_self": null
     },
     {
-      "video_id": "q4eXcXl3BtI",
-      "title": "尾丸ポルカサーカス開演",
-      "published_at": "20200815",
-      "url": "https://youtu.be/q4eXcXl3BtI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "vbaff8W1Zrw",
       "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
       "published_at": "20200815",
@@ -53949,6 +53973,18 @@
       "url": "https://youtu.be/g4G7bbRhBaQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q4eXcXl3BtI",
+      "title": "尾丸ポルカサーカス開演",
+      "published_at": "20200815",
+      "url": "https://youtu.be/q4eXcXl3BtI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

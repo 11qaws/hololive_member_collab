@@ -1,6 +1,6 @@
 {
   "target": "minatoaqua",
-  "count": 652,
+  "count": 653,
   "appearances": [
     {
       "video_id": "P2v2eXrKxT0",
@@ -7171,6 +7171,17 @@
       "published_at": "20200308",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4M-NXG7HMxU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mt1levfQN18",
+      "title": "【切り抜き動画06】ひつじのAPEXぎゅっと詰め合わせ編【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20200907",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mt1levfQN18",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 171,
+  "count": 172,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1880,6 +1880,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sXsDJSDUwZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2MF_Ueeh0Y0",
+      "title": "そらぱぴあアリ2026開催決定!【#ときのそら /#ホロライブ /#shorts 】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2MF_Ueeh0Y0",
       "status": "unreviewed",
       "note": null
     }

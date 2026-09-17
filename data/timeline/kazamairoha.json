@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 2372,
+  "count": 2376,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -21,6 +21,54 @@
       "url": "https://youtu.be/ehRY3XerZev",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Pu1uR5DSH8o",
+      "title": "【#あずいろ食堂】告知あり💡あずいろ弁当お渡し会【風真いろは/ホロライブ】",
+      "published_at": "20260916",
+      "url": "https://youtu.be/Pu1uR5DSH8o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Pu1uR5DSH8o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sdrBKzDDhMA",
+      "title": "【JSP3】告知アリ❣クリアできたらな!!!!!!!!!!!!!!!!!!!【風真いろは/ホロライブ】",
+      "published_at": "20260916",
+      "url": "https://youtu.be/sdrBKzDDhMA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sdrBKzDDhMA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yRGqY3Mcbso",
+      "title": "【JSP3】#あずいろ でホラゲ―クリア＆告知したい！ 日本事故物件監視協会3 -Japan Stigmatized Property-【ホロライブ / AZKi】",
+      "published_at": "20260916",
+      "url": "https://youtu.be/yRGqY3Mcbso",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yRGqY3Mcbso/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ByNy5C5Vxsw",
+      "title": "【#ねぽっくす】似ているようで違う瞬間たち 【#ねぽらぼ と #秘密結社holoX で #ねぽっくす 】#hololive #ホロライブ",
+      "published_at": "20260916",
+      "url": "https://youtu.be/ByNy5C5Vxsw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ByNy5C5Vxsw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

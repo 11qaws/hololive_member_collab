@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1962,
+  "count": 1963,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21581,6 +21581,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Nc2V_HSuOsM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kOE4qwwWCBE",
+      "title": "【#大空スバル８周年】2期生2人(急募：なきりあやめ)から凸くるまで重大告知できません【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kOE4qwwWCBE",
       "status": "unreviewed",
       "note": null
     }

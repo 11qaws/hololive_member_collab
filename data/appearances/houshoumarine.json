@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1695,
+  "count": 1696,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18644,6 +18644,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sMhZJ__GT28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pQpcb_SfNQg",
+      "title": "リハ推しカメラ📸モニタリング【#綺々羅々ヴィヴィ】#vtuber #ホロライブ #shorts",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pQpcb_SfNQg",
       "status": "unreviewed",
       "note": null
     }

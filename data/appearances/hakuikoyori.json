@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1433,
+  "count": 1435,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15762,6 +15762,28 @@
       "published_at": "20260908",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f5sNX7FLT1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "73sl-3cOp2E",
+      "title": "【#ホロ甲2026】1年目夏大会準々決勝から!夏合宿どうなる!?【ホロライブ/宝鐘マリン・博衣こより】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/73sl-3cOp2E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ByNy5C5Vxsw",
+      "title": "【#ねぽっくす】似ているようで違う瞬間たち 【#ねぽらぼ と #秘密結社holoX で #ねぽっくす 】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ByNy5C5Vxsw",
       "status": "unreviewed",
       "note": null
     }

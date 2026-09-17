@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 931,
+  "count": 932,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10240,6 +10240,17 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kOE4qwwWCBE",
+      "title": "【#大空スバル８周年】2期生2人(急募：なきりあやめ)から凸くるまで重大告知できません【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kOE4qwwWCBE",
       "status": "unreviewed",
       "note": null
     }

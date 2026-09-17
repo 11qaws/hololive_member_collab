@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5588,
+  "count": 5592,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -28,7 +28,7 @@
     },
     {
       "video_id": "xGYZe-8cbRs",
-      "title": "#2【キャプテン翼2】帰ってきたエゴイスト‼⚽2 サッカー知識0で完全初見のキャプテン翼2 WORLD FIGHTERS【ホロライブ/さくらみこ】",
+      "title": "#2【キャプテン翼２】帰ってきたエゴイスト‼⚽2 サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】",
       "published_at": "20260916",
       "url": "https://youtu.be/xGYZe-8cbRs",
       "entry_type": "stream",
@@ -41,10 +41,58 @@
     {
       "video_id": "YbmIqHwIr3w",
       "title": "さくらみこ 2nd Album 『Blooming Cinderella』クロスフェード - 2026年10月14日発売",
-      "published_at": "20260915",
+      "published_at": "20260916",
       "url": "https://youtu.be/YbmIqHwIr3w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/YbmIqHwIr3w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NTXhaFK1quk",
+      "title": "新曲MVリリース🎶",
+      "published_at": "20260916",
+      "url": "https://youtu.be/NTXhaFK1quk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NTXhaFK1quk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UTTsicHSoeI",
+      "title": "【DAY14】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260916",
+      "url": "https://youtu.be/UTTsicHSoeI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UTTsicHSoeI/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GZVPn-Mr2Ag",
+      "title": "Sakuraful March",
+      "published_at": "20260915",
+      "url": "https://youtu.be/GZVPn-Mr2Ag",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GZVPn-Mr2Ag/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3WLgo7ugX48",
+      "title": "Sakuraful March (Instrumental)",
+      "published_at": "20260915",
+      "url": "https://youtu.be/3WLgo7ugX48",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3WLgo7ugX48/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -50787,24 +50835,24 @@
       "paired_self": null
     },
     {
-      "video_id": "TThKPMBMK_o",
-      "title": "さくら色ハイテンション! (Instrumental)",
-      "published_at": "20210125",
-      "url": "https://youtu.be/TThKPMBMK_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "dgkijs3AfAs",
       "title": "さくら色ハイテンション!",
       "published_at": "20210125",
       "url": "https://youtu.be/dgkijs3AfAs",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TThKPMBMK_o",
+      "title": "さくら色ハイテンション! (Instrumental)",
+      "published_at": "20210125",
+      "url": "https://youtu.be/TThKPMBMK_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

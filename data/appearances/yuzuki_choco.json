@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1032,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11351,6 +11351,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mxrDakiAjZo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kOE4qwwWCBE",
+      "title": "【#大空スバル８周年】2期生2人(急募：なきりあやめ)から凸くるまで重大告知できません【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260914",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kOE4qwwWCBE",
       "status": "unreviewed",
       "note": null
     }

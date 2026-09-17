@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1223,
+  "count": 1224,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13452,6 +13452,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4mmqfiGIoyI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aFyzB4Kqego",
+      "title": "【Crash Bash】I Assembled a Team to Beat My First Ever Video Game.... #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aFyzB4Kqego",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1467,
+  "count": 1468,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16136,6 +16136,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iaPFei9_944",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UTTsicHSoeI",
+      "title": "【DAY14】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UTTsicHSoeI",
       "status": "unreviewed",
       "note": null
     }
