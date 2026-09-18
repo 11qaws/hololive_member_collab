@@ -1,7 +1,19 @@
 {
   "target": "akaihaato",
-  "count": 3346,
+  "count": 3348,
   "entries": [
+    {
+      "video_id": "JopgqurdtaU",
+      "title": "IRIS OUT/赤井はあと×角巻わため(cover)【米津玄師】",
+      "published_at": "20260917",
+      "url": "https://youtu.be/JopgqurdtaU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JopgqurdtaU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "zVQwNFMJmos",
       "title": "【ガチャ旅】どこだ、ここ・・・【ホロライブ/赤井はあと】",
@@ -8691,24 +8703,24 @@
       "paired_self": null
     },
     {
-      "video_id": "VTx9vMCSOLs",
-      "title": "BAN RTA (Instrumental)",
-      "published_at": "20240810",
-      "url": "https://youtu.be/VTx9vMCSOLs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VTx9vMCSOLs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "lz9lUpxnkbg",
       "title": "BAN RTA",
       "published_at": "20240810",
       "url": "https://youtu.be/lz9lUpxnkbg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/lz9lUpxnkbg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VTx9vMCSOLs",
+      "title": "BAN RTA (Instrumental)",
+      "published_at": "20240810",
+      "url": "https://youtu.be/VTx9vMCSOLs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VTx9vMCSOLs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23547,24 +23559,24 @@
       "paired_self": null
     },
     {
-      "video_id": "2lsBHbXEnjU",
-      "title": "A　S　M　R　※No archive",
-      "published_at": "20210119",
-      "url": "https://youtu.be/2lsBHbXEnjU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/2lsBHbXEnjU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1ROUrTgJotw",
       "title": "A　S　M　R",
       "published_at": "20210119",
       "url": "https://youtu.be/1ROUrTgJotw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1ROUrTgJotw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2lsBHbXEnjU",
+      "title": "A　S　M　R　※No archive",
+      "published_at": "20210119",
+      "url": "https://youtu.be/2lsBHbXEnjU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2lsBHbXEnjU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -25115,6 +25127,18 @@
       "thumbnail": "https://img.youtube.com/vi/gA-R4CdRaaU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L62E3ec-Wcc",
+      "title": "【切り抜き動画10】ひつじのAPEX -キル集ー【角巻わため/ホロライブ4期生】",
+      "published_at": "20201102",
+      "url": "https://youtu.be/L62E3ec-Wcc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L62E3ec-Wcc/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
@@ -40131,24 +40155,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cXoSYavUL6g",
-      "title": "【重大告知】ワールドワイドな最強アイドル、ぶちかますぜ❤️‍🔥",
-      "published_at": "",
-      "url": "https://youtu.be/cXoSYavUL6g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cXoSYavUL6g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "rpRrLUYchMo",
       "title": "！？！？！？",
       "published_at": "",
       "url": "https://youtu.be/rpRrLUYchMo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rpRrLUYchMo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cXoSYavUL6g",
+      "title": "【重大告知】ワールドワイドな最強アイドル、ぶちかますぜ❤️‍🔥",
+      "published_at": "",
+      "url": "https://youtu.be/cXoSYavUL6g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cXoSYavUL6g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

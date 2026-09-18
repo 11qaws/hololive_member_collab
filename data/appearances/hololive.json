@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 172,
+  "count": 173,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1891,6 +1891,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2MF_Ueeh0Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SYAqHyCwqQw",
+      "title": "【同時視聴】『レッド・ワン』一緒に見よう~!!【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20250112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SYAqHyCwqQw",
       "status": "unreviewed",
       "note": null
     }

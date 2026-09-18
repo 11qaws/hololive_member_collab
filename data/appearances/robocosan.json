@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1322,
+  "count": 1323,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14541,6 +14541,17 @@
       "published_at": "20260803",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q_YY-ZyCszg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L62E3ec-Wcc",
+      "title": "【切り抜き動画10】ひつじのAPEX -キル集ー【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20201102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L62E3ec-Wcc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1282,
+  "count": 1283,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14101,6 +14101,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iaPFei9_944",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pu1uR5DSH8o",
+      "title": "【#あずいろ食堂】告知あり💡あずいろ弁当お渡し会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pu1uR5DSH8o",
       "status": "unreviewed",
       "note": null
     }

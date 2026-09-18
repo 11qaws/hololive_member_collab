@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1468,
+  "count": 1470,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16147,6 +16147,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UTTsicHSoeI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BDo61qnmU-8",
+      "title": "【 DAY13 】#ホロ7大豆劇場 ‼️荒れ地のクエスト回しまくるぞおお【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BDo61qnmU-8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lpejWDQTlJU",
+      "title": "【7Days to Die】荒地でクエスト回しまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lpejWDQTlJU",
       "status": "unreviewed",
       "note": null
     }

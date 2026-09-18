@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1648,
+  "count": 1651,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18127,6 +18127,39 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UTTsicHSoeI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GrlqRvK_NBo",
+      "title": "【DAY13】ラストスパートのゾンビ村…！！！！ #ホロ7大豆劇場【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GrlqRvK_NBo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lpejWDQTlJU",
+      "title": "【7Days to Die】荒地でクエスト回しまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lpejWDQTlJU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L62E3ec-Wcc",
+      "title": "【切り抜き動画10】ひつじのAPEX -キル集ー【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20201102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L62E3ec-Wcc",
       "status": "unreviewed",
       "note": null
     }

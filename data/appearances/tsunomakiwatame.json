@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1829,
+  "count": 1830,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20118,6 +20118,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JyP1hD-IzZg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JopgqurdtaU",
+      "title": "IRIS OUT/赤井はあと×角巻わため(cover)【米津玄師】",
+      "channel_handle": "akaihaato",
+      "channel_name": "HAACHAMA Ch 赤井はあと",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JopgqurdtaU",
       "status": "unreviewed",
       "note": null
     }

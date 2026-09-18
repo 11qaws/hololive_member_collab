@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1304,
+  "count": 1306,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14343,6 +14343,28 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Nc2V_HSuOsM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PlDgodRmrn0",
+      "title": "【 3D LIVE 】RosaMiAによる、初めてのアコースティックライブ【生歌唱】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PlDgodRmrn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pu1uR5DSH8o",
+      "title": "【#あずいろ食堂】告知あり💡あずいろ弁当お渡し会【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pu1uR5DSH8o",
       "status": "unreviewed",
       "note": null
     }

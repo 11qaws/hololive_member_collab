@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 3416,
+  "count": 3417,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b6H54qq6c0A",
+      "title": "???( 獅白ぼたん )",
+      "published_at": "20260917",
+      "url": "https://youtu.be/b6H54qq6c0A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b6H54qq6c0A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
