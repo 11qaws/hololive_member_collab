@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1188,
+  "count": 1190,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13067,6 +13067,28 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8yp3KgdIlus",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uq73H0vGbfw",
+      "title": "5分の1で☠罰ゲーム☠【3回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uq73H0vGbfw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LWW8tI6G5G0",
+      "title": "声がでかい女です#shorts #切り抜き #minecraft",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LWW8tI6G5G0",
       "status": "unreviewed",
       "note": null
     }

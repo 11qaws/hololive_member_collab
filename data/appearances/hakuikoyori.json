@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1435,
+  "count": 1437,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15784,6 +15784,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ByNy5C5Vxsw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7YArsF1RdXs",
+      "title": "【#ねぽっくす】ねぽらぼ×秘密結社holoXから重大発表‼️【ねぽらぼ/holoX】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7YArsF1RdXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J2E266xqk9M",
+      "title": "【#ねぽっくす あと8日】ラミこよがSnowZnowになった瞬間…!?【ホロライブ/雪花ラミィ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J2E266xqk9M",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1455,
+  "count": 1456,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16004,6 +16004,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9tnb-Smeul0",
+      "title": "We tried our best...😢 #tricks #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9tnb-Smeul0",
       "status": "unreviewed",
       "note": null
     }

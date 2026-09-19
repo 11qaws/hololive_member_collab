@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1335,
+  "count": 1339,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14684,6 +14684,50 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8yp3KgdIlus",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xWZqDLHRzSA",
+      "title": "【DXプラン限定】公式番組 #ホロさし 生アフタートーク!【イナちは】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xWZqDLHRzSA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4qv3XinP0Ys",
+      "title": "【ほろ酔い配信】イナちはで痛車デザインに挑戦!?【#ホロさし】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4qv3XinP0Ys",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uq73H0vGbfw",
+      "title": "5分の1で☠罰ゲーム☠【3回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uq73H0vGbfw",
       "status": "unreviewed",
       "note": null
     }

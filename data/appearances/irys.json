@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1147,
+  "count": 1148,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12616,6 +12616,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NcXOld6MRdo",
+      "title": "【Q&A】この略語の意味は?【CEO】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NcXOld6MRdo",
       "status": "unreviewed",
       "note": null
     }

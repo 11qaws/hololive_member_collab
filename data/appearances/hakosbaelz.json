@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1238,
+  "count": 1239,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13617,6 +13617,17 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aFyzB4Kqego",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9tnb-Smeul0",
+      "title": "We tried our best...😢 #tricks #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9tnb-Smeul0",
       "status": "unreviewed",
       "note": null
     }

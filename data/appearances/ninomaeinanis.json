@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1136,
+  "count": 1138,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12495,6 +12495,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WLXLfSwvss0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xWZqDLHRzSA",
+      "title": "【DXプラン限定】公式番組 #ホロさし 生アフタートーク!【イナちは】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xWZqDLHRzSA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4qv3XinP0Ys",
+      "title": "【ほろ酔い配信】イナちはで痛車デザインに挑戦!?【#ホロさし】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260916",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4qv3XinP0Ys",
       "status": "unreviewed",
       "note": null
     }

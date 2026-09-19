@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1089,
+  "count": 1091,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11978,6 +11978,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pu1uR5DSH8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SEuGEowBpCA",
+      "title": "【急遽雑談】#あずらみころ 女子会するぞ~!!【​AZKi・戌神ころね・雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SEuGEowBpCA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0L2BzfoL_ro",
+      "title": "【ころね支店】#あずらみころ で爆弾解除!?!?!?●~*【BOMBANANA!】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0L2BzfoL_ro",
       "status": "unreviewed",
       "note": null
     }

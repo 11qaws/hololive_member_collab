@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 914,
+  "count": 915,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10053,6 +10053,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pu1uR5DSH8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NcXOld6MRdo",
+      "title": "【Q&A】この略語の意味は?【CEO】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NcXOld6MRdo",
       "status": "unreviewed",
       "note": null
     }

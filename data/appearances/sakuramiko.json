@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2393,
+  "count": 2394,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26322,6 +26322,17 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lpejWDQTlJU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwYIcBAPHro",
       "status": "unreviewed",
       "note": null
     }

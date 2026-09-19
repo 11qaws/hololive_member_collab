@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3464,
+  "count": 3467,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38103,6 +38103,39 @@
       "published_at": "20200907",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mt1levfQN18",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NcXOld6MRdo",
+      "title": "【Q&A】この略語の意味は?【CEO】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NcXOld6MRdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ob46KW9KTvo",
+      "title": "【切り抜き動画13】角巻わため、3Dまとめ!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20201226",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ob46KW9KTvo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1491,
+  "count": 1493,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16400,6 +16400,28 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BDo61qnmU-8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Fn2Xhj6DQpc",
+      "title": "【 鳴潮 】「Ver.3.7予告特別通信」3人でアーカイブ同時視聴会!!!第4章幕間 Ver.3.7 #27【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Fn2Xhj6DQpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwYIcBAPHro",
       "status": "unreviewed",
       "note": null
     }

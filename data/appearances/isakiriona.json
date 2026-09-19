@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1178,
+  "count": 1180,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -12957,6 +12957,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7DvsuOOirb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uq73H0vGbfw",
+      "title": "5分の1で☠罰ゲーム☠【3回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uq73H0vGbfw",
       "status": "unreviewed",
       "note": null
     }

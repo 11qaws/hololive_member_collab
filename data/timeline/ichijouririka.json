@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2838,
+  "count": 2840,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,14 +27,38 @@
       "paired_self": null
     },
     {
+      "video_id": "o3z4AFu4N1E",
+      "title": "【ウォータースタンド】恋人候補が家に届いたので、検証します。ピュアライフS…❤【一条莉々華 / Regloss】",
+      "published_at": "20260919",
+      "url": "https://youtu.be/o3z4AFu4N1E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/o3z4AFu4N1E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "a17zVwTPF2I",
       "title": "【#ホロと祝う集英社100th】許斐剛先生×一条莉々華スペシャル対談後編 『新テニスの王子様』完結記念インタビュー!",
-      "published_at": "20260917",
+      "published_at": "20260918",
       "url": "https://youtu.be/a17zVwTPF2I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/a17zVwTPF2I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260918",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SwYIcBAPHro/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },

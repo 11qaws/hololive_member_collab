@@ -1,7 +1,31 @@
 {
   "target": "natsuiromatsuri",
-  "count": 3973,
+  "count": 3975,
   "entries": [
+    {
+      "video_id": "Fn2Xhj6DQpc",
+      "title": "【 鳴潮 】「Ver.3.7予告特別通信」3人でアーカイブ同時視聴会!!!第4章幕間 Ver.3.7 #27【姫森ルーナ/ホロライブ】",
+      "published_at": "20260918",
+      "url": "https://youtu.be/Fn2Xhj6DQpc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Fn2Xhj6DQpc/mqdefault.jpg",
+      "partner_handle": "himemoriluna",
+      "partner_name": "Luna Ch. 姫森ルーナ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260918",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SwYIcBAPHro/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "lpejWDQTlJU",
       "title": "【7Days to Die】荒地でクエスト回しまくり~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
@@ -4779,24 +4803,24 @@
       "paired_self": null
     },
     {
-      "video_id": "imYqFvZ2PS0",
-      "title": "ウーニャカ",
-      "published_at": "20260224",
-      "url": "https://youtu.be/imYqFvZ2PS0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "kFLKwEFutm4",
       "title": "ウェディングしよっ!",
       "published_at": "20260224",
       "url": "https://youtu.be/kFLKwEFutm4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kFLKwEFutm4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "imYqFvZ2PS0",
+      "title": "ウーニャカ",
+      "published_at": "20260224",
+      "url": "https://youtu.be/imYqFvZ2PS0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/imYqFvZ2PS0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

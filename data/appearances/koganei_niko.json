@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 851,
+  "count": 852,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9360,6 +9360,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7DvsuOOirb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uq73H0vGbfw",
+      "title": "5分の1で☠罰ゲーム☠【3回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uq73H0vGbfw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1341,
+  "count": 1342,
   "entries": [
     {
       "video_id": "UkXxf6M0b6w",
@@ -15,12 +15,36 @@
       "paired_self": null
     },
     {
+      "video_id": "NcXOld6MRdo",
+      "title": "【Q&A】この略語の意味は?【CEO】#hololive #ホロライブ",
+      "published_at": "20260918",
+      "url": "https://youtu.be/NcXOld6MRdo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NcXOld6MRdo/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Aev1DwVEccU",
       "title": "LET'S MAKE ARANCINO!!! 🍘🤌",
       "published_at": "20260916",
       "url": "https://youtu.be/Aev1DwVEccU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Aev1DwVEccU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KJge-KcU_x0",
+      "title": "【JUSTICE JAM + ANNOUNCEMENT】Justice United! We Have BIG ANNOUNCEMENT! #holojustice",
+      "published_at": "20260916",
+      "url": "https://youtu.be/KJge-KcU_x0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KJge-KcU_x0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +71,6 @@
       "thumbnail": "https://img.youtube.com/vi/JyP1hD-IzZg/mqdefault.jpg",
       "partner_handle": "oozora_subaru",
       "partner_name": "Subaru Ch. 大空スバル",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "KJge-KcU_x0",
-      "title": "【JUSTICE JAM + ANNOUNCEMENT】Justice United! We Have BIG ANNOUNCEMENT! #holojustice",
-      "published_at": "20260915",
-      "url": "https://youtu.be/KJge-KcU_x0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KJge-KcU_x0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

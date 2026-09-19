@@ -1,7 +1,55 @@
 {
   "target": "tokoyamitowa",
-  "count": 3768,
+  "count": 3773,
   "entries": [
+    {
+      "video_id": "lGlPO479PwI",
+      "title": "生きるよすが / 常闇トワ (cover)",
+      "published_at": "20260919",
+      "url": "https://youtu.be/lGlPO479PwI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lGlPO479PwI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KGOAr2ZiOrs",
+      "title": "【 Apex Legends 】せりーとありさんと!【常闇トワ / ホロライブ】",
+      "published_at": "20260918",
+      "url": "https://youtu.be/KGOAr2ZiOrs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KGOAr2ZiOrs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "772Pg_mU-rw",
+      "title": "おつかれSUMMER 踊ってみた☀️  #vtuber #dance  #踊ってみた #shorts",
+      "published_at": "20260918",
+      "url": "https://youtu.be/772Pg_mU-rw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/772Pg_mU-rw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SwYIcBAPHro",
+      "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
+      "published_at": "20260918",
+      "url": "https://youtu.be/SwYIcBAPHro",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SwYIcBAPHro/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "BDo61qnmU-8",
       "title": "【 DAY13 】#ホロ7大豆劇場 ‼️荒れ地のクエスト回しまくるぞおお【常闇トワ/ホロライブ】",
@@ -6975,24 +7023,24 @@
       "paired_self": null
     },
     {
-      "video_id": "darS1jexgTw",
-      "title": "TRUTH",
-      "published_at": "20251007",
-      "url": "https://youtu.be/darS1jexgTw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "c2hP0qWGgaA",
       "title": "凛",
       "published_at": "20251007",
       "url": "https://youtu.be/c2hP0qWGgaA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/c2hP0qWGgaA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "darS1jexgTw",
+      "title": "TRUTH",
+      "published_at": "20251007",
+      "url": "https://youtu.be/darS1jexgTw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/darS1jexgTw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -39623,6 +39671,18 @@
       "thumbnail": "https://img.youtube.com/vi/pmMGhjks7vs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ob46KW9KTvo",
+      "title": "【切り抜き動画13】角巻わため、3Dまとめ!【角巻わため/ホロライブ4期生】",
+      "published_at": "20201226",
+      "url": "https://youtu.be/ob46KW9KTvo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ob46KW9KTvo/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

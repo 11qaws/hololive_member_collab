@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1045,
+  "count": 1046,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11494,6 +11494,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ByNy5C5Vxsw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7YArsF1RdXs",
+      "title": "【#ねぽっくす】ねぽらぼ×秘密結社holoXから重大発表‼️【ねぽらぼ/holoX】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7YArsF1RdXs",
       "status": "unreviewed",
       "note": null
     }

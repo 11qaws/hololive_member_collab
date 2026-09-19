@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 755,
+  "count": 756,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8304,6 +8304,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JyP1hD-IzZg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NcXOld6MRdo",
+      "title": "【Q&A】この略語の意味は?【CEO】#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NcXOld6MRdo",
       "status": "unreviewed",
       "note": null
     }

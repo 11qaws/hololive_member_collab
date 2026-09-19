@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1323,
+  "count": 1324,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14552,6 +14552,17 @@
       "published_at": "20201102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L62E3ec-Wcc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ob46KW9KTvo",
+      "title": "【切り抜き動画13】角巻わため、3Dまとめ!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20201226",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ob46KW9KTvo",
       "status": "unreviewed",
       "note": null
     }

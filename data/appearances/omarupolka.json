@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1955,
+  "count": 1958,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21504,6 +21504,39 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ByNy5C5Vxsw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7YArsF1RdXs",
+      "title": "【#ねぽっくす】ねぽらぼ×秘密結社holoXから重大発表‼️【ねぽらぼ/holoX】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7YArsF1RdXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Fn2Xhj6DQpc",
+      "title": "【 鳴潮 】「Ver.3.7予告特別通信」3人でアーカイブ同時視聴会!!!第4章幕間 Ver.3.7 #27【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Fn2Xhj6DQpc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cI535pJp-TQ",
+      "title": "【 #獅白ぼたん生誕祭2026 】重大告知あります!獅白ぼたん生誕3D LIVE✨『Stray&Stay』【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20260912",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cI535pJp-TQ",
       "status": "unreviewed",
       "note": null
     }
