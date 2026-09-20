@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1031,
+  "count": 1032,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11340,6 +11340,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zL8WON66Q1I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bPRCgTOHXjE",
+      "title": "【Pode】Our Little Journey Continues! ゼーニャで協力プレイ!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bPRCgTOHXjE",
       "status": "unreviewed",
       "note": null
     }

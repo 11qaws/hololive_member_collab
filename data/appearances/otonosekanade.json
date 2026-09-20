@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1249,
+  "count": 1250,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13738,6 +13738,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kOE4qwwWCBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WykflSKzj8k",
+      "title": "this is IDOL POWER 👹 🔥 sync together with Kanaduy #shorts #kobokanaeru #otonosekanade #dance",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WykflSKzj8k",
       "status": "unreviewed",
       "note": null
     }

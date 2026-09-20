@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1140,
+  "count": 1144,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12539,6 +12539,50 @@
       "published_at": "20260911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RoXVbSPMgg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RrAKxhPyxg0",
+      "title": "【 R.E.P.O. 】久しぶりに！REPO★やり隊！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RrAKxhPyxg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FiCYHGLB7_U",
+      "title": "【 #ホロREPO 】久々れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FiCYHGLB7_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g3XDlsGUU8w",
+      "title": "【R.E.P.O.】ひさしぶりのREPO!はじめ視点【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g3XDlsGUU8w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZL0vgsjJkNE",
+      "title": "【オリ曲で採点！】お歌歌っちゃうぞ～！！【ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZL0vgsjJkNE",
       "status": "unreviewed",
       "note": null
     }

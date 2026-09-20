@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1477,
+  "count": 1478,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16246,6 +16246,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7YArsF1RdXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u8dv7AnXNXc",
+      "title": "【#ねぽっくす あと7日】ねねルイってみんなどんな印象?【 桃鈴ねね / hololive 】#shorts",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u8dv7AnXNXc",
       "status": "unreviewed",
       "note": null
     }

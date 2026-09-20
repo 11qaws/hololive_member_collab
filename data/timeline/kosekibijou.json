@@ -1,7 +1,31 @@
 {
   "target": "kosekibijou",
-  "count": 2507,
+  "count": 2509,
   "entries": [
+    {
+      "video_id": "htHnmN2gPY0",
+      "title": "スターマインcoverd by  ロボ子さん、Koseki Bijou、尾丸ポルカ、輪堂千速、Hakos Baelz【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "published_at": "20260919",
+      "url": "https://youtu.be/htHnmN2gPY0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/htHnmN2gPY0/mqdefault.jpg",
+      "partner_handle": "robocosan",
+      "partner_name": "Roboco Ch. - ロボ子",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fQ4JQ0uZBPY",
+      "title": "ロボ子さん ・ 尾丸ポルカ ・輪堂千速 ・古石ビジュー ・ハコスベールズのスターマイン#dance #sing #vtuber  #hololive",
+      "published_at": "20260919",
+      "url": "https://youtu.be/fQ4JQ0uZBPY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fQ4JQ0uZBPY/mqdefault.jpg",
+      "partner_handle": "robocosan",
+      "partner_name": "Roboco Ch. - ロボ子",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "aFyzB4Kqego",
       "title": "【Crash Bash】I Assembled a Team to Beat My First Ever Video Game.... #calliolive",
@@ -30063,24 +30087,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nJ-CPqxE9Q0",
-      "title": "【Armored Core 6】Activating Combat Mode! - #4",
-      "published_at": "",
-      "url": "https://youtu.be/nJ-CPqxE9Q0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "UPrSfuUGmgg",
       "title": "Biboo tank is real! #shorts #worldoftanksblitz",
       "published_at": "",
       "url": "https://youtu.be/UPrSfuUGmgg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nJ-CPqxE9Q0",
+      "title": "【Armored Core 6】Activating Combat Mode! - #4",
+      "published_at": "",
+      "url": "https://youtu.be/nJ-CPqxE9Q0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1190,
+  "count": 1194,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13089,6 +13089,50 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LWW8tI6G5G0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RrAKxhPyxg0",
+      "title": "【 R.E.P.O. 】久しぶりに！REPO★やり隊！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RrAKxhPyxg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "izYULn_WC3o",
+      "title": "【REPO】コスメ!コスメ!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/izYULn_WC3o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g3XDlsGUU8w",
+      "title": "【R.E.P.O.】ひさしぶりのREPO!はじめ視点【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g3XDlsGUU8w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ws1y5rxkYz4",
+      "title": "🪭CAN'T UNDO THIS!!!をみんなで踊ってみた💃",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ws1y5rxkYz4",
       "status": "unreviewed",
       "note": null
     }

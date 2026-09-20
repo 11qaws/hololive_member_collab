@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3659,
+  "count": 3661,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QYXz6-CRGDA",
+      "title": "【#ホロ甲2026】2年目春から夏大会のはじまりなのだ!!!【ホロライブ/宝鐘マリン】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/QYXz6-CRGDA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QYXz6-CRGDA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M6J_J9d1t2s",
+      "title": "【#ホロ甲2026】1年目秋大会から新入生までいくか!?ぺこらを添えて──【ホロライブ/宝鐘マリン・兎田ぺこら】",
+      "published_at": "20260919",
+      "url": "https://youtu.be/M6J_J9d1t2s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/M6J_J9d1t2s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -10911,18 +10935,6 @@
       "paired_self": null
     },
     {
-      "video_id": "V6a1pbqlXVw",
-      "title": "I I I",
-      "published_at": "20241015",
-      "url": "https://youtu.be/V6a1pbqlXVw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Vgipg_bXYwg",
       "title": "スキスキDieスキ超Ayeシテル",
       "published_at": "20241015",
@@ -10941,6 +10953,18 @@
       "url": "https://youtu.be/U9X6hVgIib8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/U9X6hVgIib8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V6a1pbqlXVw",
+      "title": "I I I",
+      "published_at": "20241015",
+      "url": "https://youtu.be/V6a1pbqlXVw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

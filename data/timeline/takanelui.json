@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 3977,
+  "count": 3980,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HWFQEW9W5A0",
+      "title": "【 ドラゴンクエスト ビルダーズ 】2個目の街へ・・・!?【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "published_at": "20260920",
+      "url": "https://youtu.be/HWFQEW9W5A0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/HWFQEW9W5A0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iufpAjIf3Yw",
+      "title": "【 オールカマー 】実力馬たち集まるオールカマーは的中したいぜ!!!【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/iufpAjIf3Yw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iufpAjIf3Yw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "u8dv7AnXNXc",
+      "title": "【#ねぽっくす あと7日】ねねルイってみんなどんな印象?【 桃鈴ねね / hololive 】#shorts",
+      "published_at": "20260919",
+      "url": "https://youtu.be/u8dv7AnXNXc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/u8dv7AnXNXc/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
       "paired_self": null
     },

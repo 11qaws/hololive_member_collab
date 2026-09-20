@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 932,
+  "count": 933,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10251,6 +10251,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kOE4qwwWCBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zBnInSNXS0Y",
+      "title": "みっころね写真で一言やってみた結果ww #さくらみこ #ホロライブ切り抜き",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zBnInSNXS0Y",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1105,
+  "count": 1107,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12154,6 +12154,28 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T2351eZtQC0",
+      "title": "【MV】THIS IS MYTH 【hololive -Myth- Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T2351eZtQC0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3jDKVlAxCYs",
+      "title": "1 day to go! #holoMyth #Myth6Years",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3jDKVlAxCYs",
       "status": "unreviewed",
       "note": null
     }

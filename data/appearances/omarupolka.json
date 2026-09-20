@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1958,
+  "count": 1960,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21537,6 +21537,28 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cI535pJp-TQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "htHnmN2gPY0",
+      "title": "スターマインcoverd by  ロボ子さん、Koseki Bijou、尾丸ポルカ、輪堂千速、Hakos Baelz【 #ホロライブ/ #ロボ子海底3Dライブ】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/htHnmN2gPY0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fQ4JQ0uZBPY",
+      "title": "ロボ子さん ・ 尾丸ポルカ ・輪堂千速 ・古石ビジュー ・ハコスベールズのスターマイン#dance #sing #vtuber  #hololive",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fQ4JQ0uZBPY",
       "status": "unreviewed",
       "note": null
     }

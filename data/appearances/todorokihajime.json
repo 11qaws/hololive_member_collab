@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1283,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14112,6 +14112,39 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pu1uR5DSH8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RrAKxhPyxg0",
+      "title": "【 R.E.P.O. 】久しぶりに！REPO★やり隊！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260918",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RrAKxhPyxg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "izYULn_WC3o",
+      "title": "【REPO】コスメ!コスメ!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/izYULn_WC3o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FiCYHGLB7_U",
+      "title": "【 #ホロREPO 】久々れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FiCYHGLB7_U",
       "status": "unreviewed",
       "note": null
     }

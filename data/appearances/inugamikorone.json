@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1140,
+  "count": 1141,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12539,6 +12539,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/A8wNRxkZGdc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zBnInSNXS0Y",
+      "title": "みっころね写真で一言やってみた結果ww #さくらみこ #ホロライブ切り抜き",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zBnInSNXS0Y",
       "status": "unreviewed",
       "note": null
     }

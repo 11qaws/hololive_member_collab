@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1666,
+  "count": 1667,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18325,6 +18325,17 @@
       "published_at": "20260912",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cI535pJp-TQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M6J_J9d1t2s",
+      "title": "【#ホロ甲2026】1年目秋大会から新入生までいくか!?ぺこらを添えて──【ホロライブ/宝鐘マリン・兎田ぺこら】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20260919",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M6J_J9d1t2s",
       "status": "unreviewed",
       "note": null
     }
