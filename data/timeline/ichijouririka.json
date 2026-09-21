@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2848,
+  "count": 2849,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5QTtiy8cmnw",
+      "title": "【メンバー限定】おしゃフェス延長戦雑談&歌【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/5QTtiy8cmnw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5QTtiy8cmnw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2345,
+  "count": 2348,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "54UO96Xrmt4",
+      "title": "【Minecraft ハードコア】仲良く平和なday1【水宮枢/ホロライブ】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/54UO96Xrmt4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/54UO96Xrmt4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zDok5ewkcS4",
+      "title": "みにみや瞬間移動?!/delicious #vtuber #hololive #呪術廻戦",
+      "published_at": "20260920",
+      "url": "https://youtu.be/zDok5ewkcS4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zDok5ewkcS4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2CSCQSFcmlQ",
+      "title": "5分の1で☠罰ゲーム☠【4回戦目】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/2CSCQSFcmlQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2CSCQSFcmlQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

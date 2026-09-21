@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1963,
+  "count": 1965,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21592,6 +21592,28 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kOE4qwwWCBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jCYFYrrwR6o",
+      "title": "Blossom Sinfonia (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jCYFYrrwR6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "F9Z39rz4XdI",
+      "title": "Blossom Sinfonia",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/F9Z39rz4XdI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "tokoyamitowa",
-  "count": 3782,
+  "count": 3783,
   "entries": [
+    {
+      "video_id": "cSaJ3UZCgn8",
+      "title": "【 Apex Legends 】おひさしのせといつものぷてち【常闇トワ / ホロライブ】",
+      "published_at": "20260921",
+      "url": "https://youtu.be/cSaJ3UZCgn8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cSaJ3UZCgn8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "8tKGB5Q9KHk",
       "title": "【 Detroit: Become Human 】#3 | 完全初見 人の気持ちって簡単にわかんね~な【常闇トワ/ホロライブ】",
@@ -21063,24 +21075,24 @@
       "paired_self": null
     },
     {
-      "video_id": "oXAObuOS1U4",
-      "title": "サンビタリア",
-      "published_at": "20230926",
-      "url": "https://youtu.be/oXAObuOS1U4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "llLjylG44DQ",
       "title": "Present Day",
       "published_at": "20230926",
       "url": "https://youtu.be/llLjylG44DQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oXAObuOS1U4",
+      "title": "サンビタリア",
+      "published_at": "20230926",
+      "url": "https://youtu.be/oXAObuOS1U4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

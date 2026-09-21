@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1667,
+  "count": 1668,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18336,6 +18336,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M6J_J9d1t2s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ee65v-uUN_Q",
+      "title": "初恋サイダー2",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ee65v-uUN_Q",
       "status": "unreviewed",
       "note": null
     }

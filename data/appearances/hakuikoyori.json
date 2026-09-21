@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1437,
+  "count": 1438,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15806,6 +15806,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J2E266xqk9M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4foCLbBypYw",
+      "title": "【アニメ】反則だらけの大運動会",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4foCLbBypYw",
       "status": "unreviewed",
       "note": null
     }

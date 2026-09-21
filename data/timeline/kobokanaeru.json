@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1708,
+  "count": 1710,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Lana5wKIi_E",
+      "title": "【#CharityRelay4Indonesia】RHYTHM GAMING!!!! GETTING AP ONLY!!!",
+      "published_at": "20260920",
+      "url": "https://youtu.be/Lana5wKIi_E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Lana5wKIi_E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sp7IxsSg8Zc",
+      "title": "-_- #shorts #dance #kobokanaeru #vtuber #hololive",
+      "published_at": "20260920",
+      "url": "https://youtu.be/sp7IxsSg8Zc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sp7IxsSg8Zc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

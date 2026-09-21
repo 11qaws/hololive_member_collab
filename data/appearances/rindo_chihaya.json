@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1349,
+  "count": 1353,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14838,6 +14838,50 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fQ4JQ0uZBPY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "54UO96Xrmt4",
+      "title": "【Minecraft ハードコア】仲良く平和なday1【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/54UO96Xrmt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b7fr7M28EEg",
+      "title": "【 BOMBANANA!】見ざる・聞かざる・言わざるで爆弾解除するにぇええええええええ???!【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b7fr7M28EEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sj4GdlFqDr8",
+      "title": "【 BOMBANANA! 】PONしなければスムーズに爆弾解除できます!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sj4GdlFqDr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2CSCQSFcmlQ",
+      "title": "5分の1で☠罰ゲーム☠【4回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2CSCQSFcmlQ",
       "status": "unreviewed",
       "note": null
     }

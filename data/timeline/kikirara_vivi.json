@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2512,
+  "count": 2515,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "bNz95l79nmk",
+      "title": "【 青鬼2 】完全初見!初めての青鬼2に挑戦!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/bNz95l79nmk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bNz95l79nmk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Ee65v-uUN_Q",
       "title": "初恋サイダー2",
       "published_at": "20260920",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/Ee65v-uUN_Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "54UO96Xrmt4",
+      "title": "【Minecraft ハードコア】仲良く平和なday1【水宮枢/ホロライブ】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/54UO96Xrmt4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/54UO96Xrmt4/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2CSCQSFcmlQ",
+      "title": "5分の1で☠罰ゲーム☠【4回戦目】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/2CSCQSFcmlQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2CSCQSFcmlQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

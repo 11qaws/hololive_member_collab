@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 2378,
+  "count": 2382,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -21,6 +21,54 @@
       "url": "https://youtu.be/ehRY3XerZev",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ndk65WSC5Jo",
+      "title": "風真いろはの #ねるまえらじお 📻❣ #24",
+      "published_at": "20260920",
+      "url": "https://youtu.be/Ndk65WSC5Jo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ndk65WSC5Jo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Gm3iF28gTaU",
+      "title": "【#マイクラ肝試し2026】今年もなんかすごいらしいぞ!!!!【風真いろは/ホロライブ】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/Gm3iF28gTaU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Gm3iF28gTaU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ryRxq2HQ2Bg",
+      "title": "【 #マイクラ肝試し2026 】マイクラ肝試しの地に初めて降り立つひつじ...🐏🌳【角巻わため/ホロライブ4期生】",
+      "published_at": "20260920",
+      "url": "https://youtu.be/ryRxq2HQ2Bg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ryRxq2HQ2Bg/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4foCLbBypYw",
+      "title": "【アニメ】反則だらけの大運動会",
+      "published_at": "20260920",
+      "url": "https://youtu.be/4foCLbBypYw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4foCLbBypYw/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

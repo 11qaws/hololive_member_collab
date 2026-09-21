@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1698,
+  "count": 1699,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18677,6 +18677,17 @@
       "published_at": "20201226",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ob46KW9KTvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ee65v-uUN_Q",
+      "title": "初恋サイダー2",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ee65v-uUN_Q",
       "status": "unreviewed",
       "note": null
     }
