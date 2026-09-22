@@ -1,7 +1,31 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1342,
+  "count": 1344,
   "entries": [
+    {
+      "video_id": "LxJcG_8O-tE",
+      "title": "【Human Fall Flat】Kaela falls flat but I don't guess why 【SMITTEN】",
+      "published_at": "20260921",
+      "url": "https://youtu.be/LxJcG_8O-tE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LxJcG_8O-tE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bQIjqb2yzMk",
+      "title": "【Human Fall Flat】how to escape【SMITTEN】",
+      "published_at": "20260921",
+      "url": "https://youtu.be/bQIjqb2yzMk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bQIjqb2yzMk/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "UkXxf6M0b6w",
       "title": "【UNDERTALE】we are back into the abyss【pacifist run】",
@@ -16083,24 +16107,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7C0BUIptm64",
-      "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
-      "published_at": "",
-      "url": "https://youtu.be/7C0BUIptm64",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7C0BUIptm64/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "6BZ79yNXJA4",
       "title": "My first Concert ever!!! #holoAllforOne #shorts",
       "published_at": "",
       "url": "https://youtu.be/6BZ79yNXJA4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/6BZ79yNXJA4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7C0BUIptm64",
+      "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
+      "published_at": "",
+      "url": "https://youtu.be/7C0BUIptm64",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7C0BUIptm64/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

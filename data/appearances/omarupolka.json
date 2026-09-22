@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1961,
+  "count": 1962,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21570,6 +21570,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4foCLbBypYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iSQYbf9XFg8",
+      "title": "【MV】Watcha Gatcha!!!!!!!! / ねぽらぼ × 秘密結社holoX【#ねぽっくす】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iSQYbf9XFg8",
       "status": "unreviewed",
       "note": null
     }

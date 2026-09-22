@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1033,
+  "count": 1034,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11362,6 +11362,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kOE4qwwWCBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CjSzYQVF9S4",
+      "title": "【#アキちょこナイパレ|第53回】❤️告白する派 🆚 告白されたい派💛 あなたはどっち?|ちょこのお悩み相談室~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CjSzYQVF9S4",
       "status": "unreviewed",
       "note": null
     }

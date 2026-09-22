@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1518,
+  "count": 1519,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16697,6 +16697,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fQ4JQ0uZBPY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1zjqJVNCmqU",
+      "title": "im with child #animation #anime #storytime #hololive #vtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1zjqJVNCmqU",
       "status": "unreviewed",
       "note": null
     }

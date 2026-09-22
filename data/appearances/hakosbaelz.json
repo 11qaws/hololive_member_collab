@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1241,
+  "count": 1242,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13650,6 +13650,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fQ4JQ0uZBPY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N-RBlIBPbic",
+      "title": "september 21",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N-RBlIBPbic",
       "status": "unreviewed",
       "note": null
     }

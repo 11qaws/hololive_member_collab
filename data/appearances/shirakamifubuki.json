@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3477,
+  "count": 3479,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38246,6 +38246,28 @@
       "published_at": "20210903",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/j6UB8GxOdB8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Esy17Q09l6U",
+      "title": "【 🍌BOMBANANA! 】3人で爆弾解除⁉️ｶﾞﾝﾊﾞﾘﾏｽ🙈【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Esy17Q09l6U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jXSsRQ3ZrWc",
+      "title": "【BOMBANANA!】え?見猿聞か猿言わで猿爆弾解除???🙉💣【ホロライブ/鷹嶺ルイ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jXSsRQ3ZrWc",
       "status": "unreviewed",
       "note": null
     }

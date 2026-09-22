@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 756,
+  "count": 757,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8315,6 +8315,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NcXOld6MRdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bQIjqb2yzMk",
+      "title": "【Human Fall Flat】how to escape【SMITTEN】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bQIjqb2yzMk",
       "status": "unreviewed",
       "note": null
     }

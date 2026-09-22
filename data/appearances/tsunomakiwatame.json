@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1834,
+  "count": 1836,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20173,6 +20173,28 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g3XDlsGUU8w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3YicRKXjQAM",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】今年もやってきました!お散歩回1【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3YicRKXjQAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-AhP9Bucn3U",
+      "title": "【#マイクラ肝試し2026】先輩たちと過去マップいく(ｳｷｳｷ)【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-AhP9Bucn3U",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1108,
+  "count": 1109,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12187,6 +12187,17 @@
       "published_at": "20260914",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NbsPTrTilcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LxJcG_8O-tE",
+      "title": "【Human Fall Flat】Kaela falls flat but I don't guess why 【SMITTEN】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LxJcG_8O-tE",
       "status": "unreviewed",
       "note": null
     }

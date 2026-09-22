@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 4513,
+  "count": 4516,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -21,6 +21,42 @@
       "url": "https://youtu.be/ehRY3XerZev",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4F0uBccaTcc",
+      "title": "【#ねぽっくす まであと5日】呪文のように長い必殺技…!?【風真いろは/尾丸ポルカ】 #shorts #hololive",
+      "published_at": "20260921",
+      "url": "https://youtu.be/4F0uBccaTcc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4F0uBccaTcc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9c9Ab8Cn5LQ",
+      "title": "ピアノ講師のかわいくなっちゃう職業病? #ポルカの伝説 #尾丸ポルカ",
+      "published_at": "20260921",
+      "url": "https://youtu.be/9c9Ab8Cn5LQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9c9Ab8Cn5LQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iSQYbf9XFg8",
+      "title": "【MV】Watcha Gatcha!!!!!!!! / ねぽらぼ × 秘密結社holoX【#ねぽっくす】",
+      "published_at": "20260921",
+      "url": "https://youtu.be/iSQYbf9XFg8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iSQYbf9XFg8/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -54075,24 +54111,24 @@
       "paired_self": null
     },
     {
-      "video_id": "g4G7bbRhBaQ",
-      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
-      "published_at": "20200815",
-      "url": "https://youtu.be/g4G7bbRhBaQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "q4eXcXl3BtI",
       "title": "尾丸ポルカサーカス開演",
       "published_at": "20200815",
       "url": "https://youtu.be/q4eXcXl3BtI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "g4G7bbRhBaQ",
+      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
+      "published_at": "20200815",
+      "url": "https://youtu.be/g4G7bbRhBaQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

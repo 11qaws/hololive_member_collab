@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 786,
+  "count": 787,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8645,6 +8645,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZ7GgKPwot4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N-RBlIBPbic",
+      "title": "september 21",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N-RBlIBPbic",
       "status": "unreviewed",
       "note": null
     }

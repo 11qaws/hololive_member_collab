@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1746,
+  "count": 1748,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19205,6 +19205,28 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UGQfq16yY1A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8_XNIP52-w4",
+      "title": "【BOMBANANA!】見猿聞か猿言わ猿な鷹と狐と猫【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8_XNIP52-w4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jXSsRQ3ZrWc",
+      "title": "【BOMBANANA!】え?見猿聞か猿言わで猿爆弾解除???🙉💣【ホロライブ/鷹嶺ルイ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jXSsRQ3ZrWc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2458,
+  "count": 2461,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mv7JwusdSH4",
+      "title": "【バイオハザード5】完全初見でいくバイオ5ラストまで! 【轟はじめ/ReGLOSS】※配信内容にネタバレを含みます",
+      "published_at": "20260921",
+      "url": "https://youtu.be/mv7JwusdSH4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mv7JwusdSH4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lEaa6y_GhNA",
+      "title": "【バイオハザード5】完全初見でいくバイオ5おおおお 【轟はじめ/ReGLOSS】※配信内容にネタバレを含みます",
+      "published_at": "20260921",
+      "url": "https://youtu.be/lEaa6y_GhNA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lEaa6y_GhNA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2nytRZFNJdo",
+      "title": "東京真中-フォーモ/振付師が踊ってみた【轟はじめ】#shorts #dance",
+      "published_at": "20260921",
+      "url": "https://youtu.be/2nytRZFNJdo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2nytRZFNJdo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

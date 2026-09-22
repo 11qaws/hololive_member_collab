@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1195,
+  "count": 1199,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13144,6 +13144,50 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2CSCQSFcmlQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jv4h3QZBLfk",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【FLOW GLOW】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jv4h3QZBLfk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X-axaMcpRhI",
+      "title": "【Minecraft ハードコア】絶対に生きたいマイクラ!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X-axaMcpRhI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zuBr3gfT2PU",
+      "title": "【 Minecraftハードコア 】〇んだら終わり!?人生初ハードコアに挑戦!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zuBr3gfT2PU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gTAXekKOTZU",
+      "title": "5分の1で☠罰ゲーム☠【5回戦目】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gTAXekKOTZU",
       "status": "unreviewed",
       "note": null
     }
