@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1119,
+  "count": 1120,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12308,6 +12308,17 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZDr09XLVGVc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N-RBlIBPbic",
+      "title": "september 21",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N-RBlIBPbic",
       "status": "unreviewed",
       "note": null
     }

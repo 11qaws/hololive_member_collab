@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3479,
+  "count": 3480,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38268,6 +38268,17 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jXSsRQ3ZrWc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n0NYvgFBVJg",
+      "title": "【 #ホロ7大豆劇場 】番外編!荒れ地高難易度を遊びにいく~!【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n0NYvgFBVJg",
       "status": "unreviewed",
       "note": null
     }

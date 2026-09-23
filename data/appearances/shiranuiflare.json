@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1586,
+  "count": 1587,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17445,6 +17445,17 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-AhP9Bucn3U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2Qvw9afY2jg",
+      "title": "【 #マイクラ肝試し2026 】今日は、フレわたわちゃわちゃ肝試し?!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2Qvw9afY2jg",
       "status": "unreviewed",
       "note": null
     }

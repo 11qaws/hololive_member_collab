@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 915,
+  "count": 916,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10064,6 +10064,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NcXOld6MRdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HjN1kS_HPH4",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【ReGLOSS】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HjN1kS_HPH4",
       "status": "unreviewed",
       "note": null
     }

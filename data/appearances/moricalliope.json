@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1462,
+  "count": 1465,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16081,6 +16081,39 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k7EMv1KgqXg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N-RBlIBPbic",
+      "title": "september 21",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260921",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N-RBlIBPbic",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FlTIIUWDF4U",
+      "title": "THIS IS MYTH (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FlTIIUWDF4U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cG8QKLoeWe4",
+      "title": "THIS IS MYTH",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cG8QKLoeWe4",
       "status": "unreviewed",
       "note": null
     }

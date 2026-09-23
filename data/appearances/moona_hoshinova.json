@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1164,
+  "count": 1166,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12803,6 +12803,28 @@
       "published_at": "20260913",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/skKeF1oLbjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9q5BVsXMLCo",
+      "title": "【holoplus Survey - #CharityRelay4Indonesia】 WHO'S MOST LIKELY TO??? 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260920",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9q5BVsXMLCo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jHAV43khTSk",
+      "title": "【#CharityRelay4Indonesia】LET'S PLAY TOGETHER? #HumanInitiative",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jHAV43khTSk",
       "status": "unreviewed",
       "note": null
     }

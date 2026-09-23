@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2783,
+  "count": 2785,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8bApkBT10Fw",
+      "title": "【ホロライブ ドリームス】ホロドリ参加型!メン限で一緒にあそぼ!【ホロライブ / AZKi】",
+      "published_at": "20260922",
+      "url": "https://youtu.be/8bApkBT10Fw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8bApkBT10Fw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uvOHEzAsuAM",
+      "title": "【 MLBxhololive 】シカゴ・ホワイトソックス(村上宗隆選手所属) VS カンザスシティ・ロイヤルズや日本人選手出場試合を応援しよう!【AZKi・博衣こより/ホロライブ】",
+      "published_at": "20260922",
+      "url": "https://youtu.be/uvOHEzAsuAM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uvOHEzAsuAM/mqdefault.jpg",
+      "partner_handle": "hakuikoyori",
+      "partner_name": "Koyori ch. 博衣こより - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -7011,24 +7035,24 @@
       "paired_self": null
     },
     {
-      "video_id": "aH2u7EKJLjc",
-      "title": "世界は巡り、やがて君のものになる",
-      "published_at": "20251110",
-      "url": "https://youtu.be/aH2u7EKJLjc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "0Q90Yw1ZSI8",
       "title": "自己アレルギー",
       "published_at": "20251110",
       "url": "https://youtu.be/0Q90Yw1ZSI8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/0Q90Yw1ZSI8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aH2u7EKJLjc",
+      "title": "世界は巡り、やがて君のものになる",
+      "published_at": "20251110",
+      "url": "https://youtu.be/aH2u7EKJLjc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aH2u7EKJLjc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26907,24 +26931,24 @@
       "paired_self": null
     },
     {
-      "video_id": "5bOH1CU_w40",
-      "title": "画面の中の君が好き",
-      "published_at": "20221130",
-      "url": "https://youtu.be/5bOH1CU_w40",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "b6rEZlYYWSw",
       "title": "The Last Frontier",
       "published_at": "20221130",
       "url": "https://youtu.be/b6rEZlYYWSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/b6rEZlYYWSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5bOH1CU_w40",
+      "title": "画面の中の君が好き",
+      "published_at": "20221130",
+      "url": "https://youtu.be/5bOH1CU_w40",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5bOH1CU_w40/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26979,24 +27003,24 @@
       "paired_self": null
     },
     {
-      "video_id": "rMzIoolzkTI",
-      "title": "Cream+Mint (cover)",
-      "published_at": "20221130",
-      "url": "https://youtu.be/rMzIoolzkTI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/rMzIoolzkTI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jFUgiGYY994",
       "title": "Creating world",
       "published_at": "20221130",
       "url": "https://youtu.be/jFUgiGYY994",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jFUgiGYY994/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rMzIoolzkTI",
+      "title": "Cream+Mint (cover)",
+      "published_at": "20221130",
+      "url": "https://youtu.be/rMzIoolzkTI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rMzIoolzkTI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27027,24 +27051,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nAaUKgTHxPQ",
-      "title": "画面の中の君が好き(Instrumental)",
-      "published_at": "20221130",
-      "url": "https://youtu.be/nAaUKgTHxPQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "J2zew4y-nwU",
       "title": "フェリシア",
       "published_at": "20221130",
       "url": "https://youtu.be/J2zew4y-nwU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/J2zew4y-nwU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nAaUKgTHxPQ",
+      "title": "画面の中の君が好き(Instrumental)",
+      "published_at": "20221130",
+      "url": "https://youtu.be/nAaUKgTHxPQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nAaUKgTHxPQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32187,24 +32211,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cl_Qikl7YaE",
-      "title": "リアルメランコリー (TEMPLIME Remix)",
-      "published_at": "20191111",
-      "url": "https://youtu.be/cl_Qikl7YaE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cl_Qikl7YaE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "YgRD177NeVk",
       "title": "Starry Regrets (Batsu Remix)",
       "published_at": "20191111",
       "url": "https://youtu.be/YgRD177NeVk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/YgRD177NeVk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cl_Qikl7YaE",
+      "title": "リアルメランコリー (TEMPLIME Remix)",
+      "published_at": "20191111",
+      "url": "https://youtu.be/cl_Qikl7YaE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cl_Qikl7YaE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

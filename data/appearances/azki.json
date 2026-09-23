@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1093,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12022,6 +12022,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F9Z39rz4XdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uvOHEzAsuAM",
+      "title": "【 MLBxhololive 】シカゴ・ホワイトソックス(村上宗隆選手所属) VS カンザスシティ・ロイヤルズや日本人選手出場試合を応援しよう!【AZKi・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uvOHEzAsuAM",
       "status": "unreviewed",
       "note": null
     }

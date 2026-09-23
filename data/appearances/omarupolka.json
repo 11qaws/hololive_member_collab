@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1962,
+  "count": 1963,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21581,6 +21581,17 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iSQYbf9XFg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bNKwoq-PWlg",
+      "title": "競馬的中したら食べに行くのは… #shorts #hololive #ホロライブ切り抜き",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bNKwoq-PWlg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1357,
+  "count": 1362,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14926,6 +14926,61 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gTAXekKOTZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fCkcUbNAlCw",
+      "title": "【同時視聴】#アソビまわり隊 初配信day2 【FLOWGLOW /ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fCkcUbNAlCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n0NYvgFBVJg",
+      "title": "【 #ホロ7大豆劇場 】番外編!荒れ地高難易度を遊びにいく~!【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n0NYvgFBVJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D_tBYkVrwu4",
+      "title": "#3【 Minecraftハードコア 】〇んだら終わり!?人生初ハードコアに挑戦!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D_tBYkVrwu4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pNDbIEaUNE0",
+      "title": "#2【 Minecraftハードコア 】〇んだら終わり!?人生初ハードコアに挑戦!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pNDbIEaUNE0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bNKwoq-PWlg",
+      "title": "競馬的中したら食べに行くのは… #shorts #hololive #ホロライブ切り抜き",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bNKwoq-PWlg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1250,
+  "count": 1251,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13749,6 +13749,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WykflSKzj8k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HjN1kS_HPH4",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【ReGLOSS】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HjN1kS_HPH4",
       "status": "unreviewed",
       "note": null
     }

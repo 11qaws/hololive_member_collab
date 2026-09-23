@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 593,
+  "count": 594,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6522,6 +6522,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KJge-KcU_x0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w3XgEV8h3YQ",
+      "title": "Parkour!🏃‍♀️ Parkour!!🏃‍♀️🏃‍♀️#parkour #fails",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w3XgEV8h3YQ",
       "status": "unreviewed",
       "note": null
     }

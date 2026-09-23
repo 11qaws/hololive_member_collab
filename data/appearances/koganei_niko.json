@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 856,
+  "count": 858,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9415,6 +9415,28 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gTAXekKOTZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fCkcUbNAlCw",
+      "title": "【同時視聴】#アソビまわり隊 初配信day2 【FLOWGLOW /ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fCkcUbNAlCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPnCuS2uiX0",
+      "title": "🪭CAN'T UNDO THIS!!!笑虎と枢とヴィヴィで踊ってみた🫣",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPnCuS2uiX0",
       "status": "unreviewed",
       "note": null
     }

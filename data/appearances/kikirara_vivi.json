@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1300,
+  "count": 1303,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14299,6 +14299,39 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gTAXekKOTZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fCkcUbNAlCw",
+      "title": "【同時視聴】#アソビまわり隊 初配信day2 【FLOWGLOW /ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fCkcUbNAlCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fFW8PcXboZs",
+      "title": "【Minecraft ハードコア】#2 絶対に生きたいマイクラ！！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fFW8PcXboZs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPnCuS2uiX0",
+      "title": "🪭CAN'T UNDO THIS!!!笑虎と枢とヴィヴィで踊ってみた🫣",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPnCuS2uiX0",
       "status": "unreviewed",
       "note": null
     }

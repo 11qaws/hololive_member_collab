@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1477,
+  "count": 1479,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16246,6 +16246,28 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vHj0NCLwo-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HjN1kS_HPH4",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【ReGLOSS】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HjN1kS_HPH4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n0NYvgFBVJg",
+      "title": "【 #ホロ7大豆劇場 】番外編!荒れ地高難易度を遊びにいく~!【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n0NYvgFBVJg",
       "status": "unreviewed",
       "note": null
     }

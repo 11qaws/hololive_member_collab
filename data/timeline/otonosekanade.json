@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2264,
+  "count": 2267,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FwMiFQjLbcA",
+      "title": "【アカペラで】「Surges」歌ってみた【音乃瀬奏】#Shorts #vtuber",
+      "published_at": "20260922",
+      "url": "https://youtu.be/FwMiFQjLbcA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FwMiFQjLbcA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "s5qLT2GPTU8",
+      "title": "【 雑談 】おしゃフェスたのしかったねぇ～【音乃瀬奏】#ReGLOSS",
+      "published_at": "20260922",
+      "url": "https://youtu.be/s5qLT2GPTU8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s5qLT2GPTU8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +76,7 @@
     },
     {
       "video_id": "K9S5Yf-CsNw",
-      "title": "「Surges」歌ってみました～ #shorts #Surges #Orangestar",
+      "title": "「Surges」歌ってみました~ #shorts #Surges #Orangestar",
       "published_at": "20260919",
       "url": "https://youtu.be/K9S5Yf-CsNw",
       "entry_type": "stream",
@@ -179,6 +203,18 @@
       "thumbnail": "https://img.youtube.com/vi/iaPFei9_944/mqdefault.jpg",
       "partner_handle": "juufuuteiraden",
       "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HjN1kS_HPH4",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【ReGLOSS】",
+      "published_at": "20260915",
+      "url": "https://youtu.be/HjN1kS_HPH4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HjN1kS_HPH4/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

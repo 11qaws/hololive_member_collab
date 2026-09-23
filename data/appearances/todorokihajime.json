@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1286,
+  "count": 1287,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14145,6 +14145,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FiCYHGLB7_U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HjN1kS_HPH4",
+      "title": "【ホロライブ】#アソビまわり隊 デビュー公式配信同時視聴【ReGLOSS】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HjN1kS_HPH4",
       "status": "unreviewed",
       "note": null
     }

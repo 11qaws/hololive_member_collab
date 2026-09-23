@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2403,
+  "count": 2404,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26432,6 +26432,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Sj4GdlFqDr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jq_6H1Zute4",
+      "title": "【BOMBANANA!】きんじょーずのはいしんよていち【ホロライブ/鷹嶺ルイ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jq_6H1Zute4",
       "status": "unreviewed",
       "note": null
     }
