@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 3123,
+  "count": 3125,
   "entries": [
     {
       "video_id": "o3VqMRlgWR4",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/o3VqMRlgWR4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GliiemIAMwY",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】GOOD LUCK ON DEBUT!!  キョーコちゃん!つづりちゃん!みんなで応援してるよー!! ❤️ 【Kureiji Ollie】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/GliiemIAMwY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GliiemIAMwY/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uRQDfrH1hTg",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】WATCHING OUR KOUHAIS DEBUT!! そぴあちゃん!!めらちゃん!!がんばってー!! ❤️ 【Kureiji Ollie】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/uRQDfrH1hTg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uRQDfrH1hTg/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -30603,18 +30627,6 @@
       "paired_self": null
     },
     {
-      "video_id": "PgfZckuqCb0",
-      "title": "Love Me Love Me",
-      "published_at": "20211206",
-      "url": "https://youtu.be/PgfZckuqCb0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "gTGL8HHOtRg",
       "title": "あの青空のせいだ(Instrumental)",
       "published_at": "20211206",
@@ -30627,12 +30639,12 @@
       "paired_self": null
     },
     {
-      "video_id": "m_noinhha_g",
-      "title": "Love Me Love Me(Instrumental)",
+      "video_id": "PgfZckuqCb0",
+      "title": "Love Me Love Me",
       "published_at": "20211206",
-      "url": "https://youtu.be/m_noinhha_g",
+      "url": "https://youtu.be/PgfZckuqCb0",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30645,6 +30657,18 @@
       "url": "https://youtu.be/yz8AiQc1Bk8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/yz8AiQc1Bk8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "m_noinhha_g",
+      "title": "Love Me Love Me(Instrumental)",
+      "published_at": "20211206",
+      "url": "https://youtu.be/m_noinhha_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

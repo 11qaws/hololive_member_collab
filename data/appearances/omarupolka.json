@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1963,
+  "count": 1965,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21592,6 +21592,28 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bNKwoq-PWlg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jxDtCG3i30s",
+      "title": "【 #マイクラ肝試し2026 】バカタレサーカスで肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jxDtCG3i30s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zmm_z1BnIJk",
+      "title": "【対決】ボール当てチャレンジ! #ねぽっくす #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zmm_z1BnIJk",
       "status": "unreviewed",
       "note": null
     }

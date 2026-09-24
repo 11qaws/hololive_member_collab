@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1088,
+  "count": 1089,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11967,6 +11967,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zL8WON66Q1I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t4_nfwdpeoU",
+      "title": "MSW Prev",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t4_nfwdpeoU",
       "status": "unreviewed",
       "note": null
     }

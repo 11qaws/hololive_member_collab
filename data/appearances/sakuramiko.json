@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2404,
+  "count": 2405,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26443,6 +26443,17 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Jq_6H1Zute4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s7bKx7jhHCc",
+      "title": "【BOMBANANA!】きんじょーずでイライラ爆弾解除💣【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s7bKx7jhHCc",
       "status": "unreviewed",
       "note": null
     }

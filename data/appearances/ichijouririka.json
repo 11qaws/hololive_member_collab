@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1479,
+  "count": 1481,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16268,6 +16268,28 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n0NYvgFBVJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Hf1TeFgu3YY",
+      "title": "【 7Days to Die 】番外編きちゃああ🔥まだまだゾンビやるぞおお🔥✨ 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Hf1TeFgu3YY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W4kIcPlxUTU",
+      "title": "【7Days to Die】番外編!高難易度クエストいくぞ~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W4kIcPlxUTU",
       "status": "unreviewed",
       "note": null
     }

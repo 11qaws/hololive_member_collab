@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1414,
+  "count": 1415,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15553,6 +15553,17 @@
       "published_at": "20260916",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pu1uR5DSH8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GliiemIAMwY",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】GOOD LUCK ON DEBUT!!  キョーコちゃん!つづりちゃん!みんなで応援してるよー!! ❤️ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GliiemIAMwY",
       "status": "unreviewed",
       "note": null
     }

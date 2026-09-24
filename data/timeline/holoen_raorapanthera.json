@@ -1,7 +1,19 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1345,
+  "count": 1347,
   "entries": [
+    {
+      "video_id": "m7fX9PYU5-A",
+      "title": "【POKÉMON LEAF GREEN】WE'RE BOTH ONE CRIT AWAY FROM DISASTER【SOUL-LINK NUZLOCKE】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/m7fX9PYU5-A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/m7fX9PYU5-A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "EwFHypyxeyg",
       "title": "【TREES HATE YOU】 GETTIN BULLIED BY NATURE 🌳💢",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/EwFHypyxeyg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PtbDj9jg380",
+      "title": "【POKÉMON FIRE RED】i missed my wawowa【SOUL-LINK NUZLOCKE】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/PtbDj9jg380",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PtbDj9jg380/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

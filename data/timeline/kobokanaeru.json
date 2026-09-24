@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1712,
+  "count": 1714,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GliiemIAMwY",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】GOOD LUCK ON DEBUT!!  キョーコちゃん!つづりちゃん!みんなで応援してるよー!! ❤️ 【Kureiji Ollie】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/GliiemIAMwY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GliiemIAMwY/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uRQDfrH1hTg",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】WATCHING OUR KOUHAIS DEBUT!! そぴあちゃん!!めらちゃん!!がんばってー!! ❤️ 【Kureiji Ollie】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/uRQDfrH1hTg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uRQDfrH1hTg/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Lana5wKIi_E",
+      "title": "【#CharityRelay4Indonesia】RHYTHM GAMING!!!! GETTING AP ONLY!!!",
+      "published_at": "20260922",
+      "url": "https://youtu.be/Lana5wKIi_E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Lana5wKIi_E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -33,18 +69,6 @@
       "url": "https://youtu.be/5QZKssFY9ww",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5QZKssFY9ww/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Lana5wKIi_E",
-      "title": "【#CharityRelay4Indonesia】RHYTHM GAMING!!!! GETTING AP ONLY!!!",
-      "published_at": "20260920",
-      "url": "https://youtu.be/Lana5wKIi_E",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Lana5wKIi_E/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

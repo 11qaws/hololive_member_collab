@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3906,
+  "count": 3910,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VhsUVnEtbyk",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】お散歩回3!バカサーでもお散歩にいく!【不知火フレア/ホロライブ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/VhsUVnEtbyk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VhsUVnEtbyk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QLTo2J3_RIM",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】お散歩回2!二人用の過去マップが増えたらしい!【不知火フレア/ホロライブ】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/QLTo2J3_RIM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QLTo2J3_RIM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jxDtCG3i30s",
+      "title": "【 #マイクラ肝試し2026 】バカタレサーカスで肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/jxDtCG3i30s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jxDtCG3i30s/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rmJOQEMzZlk",
+      "title": "【#マイクラ肝試し2026】バカタレサーカスでお祭りを練り歩く✨️【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/rmJOQEMzZlk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rmJOQEMzZlk/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +76,7 @@
     },
     {
       "video_id": "3YicRKXjQAM",
-      "title": "【 Minecraft / #マイクラ肝試し2026 】今年もやってきました！お散歩回1【不知火フレア/ホロライブ】",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】今年もやってきました!お散歩回1【不知火フレア/ホロライブ】",
       "published_at": "20260921",
       "url": "https://youtu.be/3YicRKXjQAM",
       "entry_type": "stream",

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3480,
+  "count": 3485,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38279,6 +38279,61 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n0NYvgFBVJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rmJOQEMzZlk",
+      "title": "【#マイクラ肝試し2026】バカタレサーカスでお祭りを練り歩く✨️【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rmJOQEMzZlk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jxDtCG3i30s",
+      "title": "【 #マイクラ肝試し2026 】バカタレサーカスで肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jxDtCG3i30s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RARzpMkQ4ak",
+      "title": "【番外編！？】激ムズクエストがあるらしい。 #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RARzpMkQ4ak",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Hf1TeFgu3YY",
+      "title": "【 7Days to Die 】番外編きちゃああ🔥まだまだゾンビやるぞおお🔥✨ 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Hf1TeFgu3YY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W4kIcPlxUTU",
+      "title": "【7Days to Die】番外編!高難易度クエストいくぞ~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W4kIcPlxUTU",
       "status": "unreviewed",
       "note": null
     }

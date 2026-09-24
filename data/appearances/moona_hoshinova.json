@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1166,
+  "count": 1168,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12825,6 +12825,28 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jHAV43khTSk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GliiemIAMwY",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】GOOD LUCK ON DEBUT!!  キョーコちゃん!つづりちゃん!みんなで応援してるよー!! ❤️ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GliiemIAMwY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uRQDfrH1hTg",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】WATCHING OUR KOUHAIS DEBUT!! そぴあちゃん!!めらちゃん!!がんばってー!! ❤️ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uRQDfrH1hTg",
       "status": "unreviewed",
       "note": null
     }

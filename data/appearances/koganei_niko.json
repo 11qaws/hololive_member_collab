@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 858,
+  "count": 859,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9437,6 +9437,17 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pPnCuS2uiX0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HNoZa-doxEE",
+      "title": "【💅ヴィヴィを探せ✨】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HNoZa-doxEE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1483,
+  "count": 1485,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16312,6 +16312,28 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q_XKhVZZ8I8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s7bKx7jhHCc",
+      "title": "【BOMBANANA!】きんじょーずでイライラ爆弾解除💣【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s7bKx7jhHCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zmm_z1BnIJk",
+      "title": "【対決】ボール当てチャレンジ! #ねぽっくす #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zmm_z1BnIJk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1480,
+  "count": 1481,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16279,6 +16279,17 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Jq_6H1Zute4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q_XKhVZZ8I8",
+      "title": "【BOMBANANA!】聞か猿見え猿言わ猿、きんじょーーーず！！！！！！！！【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q_XKhVZZ8I8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1587,
+  "count": 1589,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17456,6 +17456,28 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2Qvw9afY2jg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jxDtCG3i30s",
+      "title": "【 #マイクラ肝試し2026 】バカタレサーカスで肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jxDtCG3i30s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rmJOQEMzZlk",
+      "title": "【#マイクラ肝試し2026】バカタレサーカスでお祭りを練り歩く✨️【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rmJOQEMzZlk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1465,
+  "count": 1466,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16114,6 +16114,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cG8QKLoeWe4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xKlKbFkFwj0",
+      "title": "Is this group workout even working out? #hololive",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xKlKbFkFwj0",
       "status": "unreviewed",
       "note": null
     }

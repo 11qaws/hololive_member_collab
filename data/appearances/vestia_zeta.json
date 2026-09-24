@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1032,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11351,6 +11351,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bPRCgTOHXjE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t4_nfwdpeoU",
+      "title": "MSW Prev",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t4_nfwdpeoU",
       "status": "unreviewed",
       "note": null
     }

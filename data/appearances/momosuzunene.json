@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1254,
+  "count": 1255,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13793,6 +13793,17 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iSQYbf9XFg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zmm_z1BnIJk",
+      "title": "【対決】ボール当てチャレンジ! #ねぽっくす #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zmm_z1BnIJk",
       "status": "unreviewed",
       "note": null
     }

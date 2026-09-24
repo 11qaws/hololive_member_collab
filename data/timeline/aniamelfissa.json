@@ -1,11 +1,35 @@
 {
   "target": "aniamelfissa",
-  "count": 2734,
+  "count": 2736,
   "entries": [
+    {
+      "video_id": "5482PSeldcI",
+      "title": "【#CharityRelay4Indonesia】Charity for Indonesia ^^ Let's Golf It!【hololive holoro | Anya Melfissa】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/5482PSeldcI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5482PSeldcI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GliiemIAMwY",
+      "title": "【WATCHALONG - #アソビまわり隊 DEBUT】GOOD LUCK ON DEBUT!!  キョーコちゃん!つづりちゃん!みんなで応援してるよー!! ❤️ 【Kureiji Ollie】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/GliiemIAMwY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GliiemIAMwY/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "UNADECtgocI",
       "title": "【Free Talk 雑談】Me When I Free Then I Talk Then I- 久々の雑談〜【hololive holoro | Anya Melfissa】",
-      "published_at": "20260921",
+      "published_at": "20260922",
       "url": "https://youtu.be/UNADECtgocI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UNADECtgocI/mqdefault.jpg",

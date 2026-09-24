@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1050,
+  "count": 1054,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11549,6 +11549,50 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iSQYbf9XFg8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D_tBYkVrwu4",
+      "title": "#3【 Minecraftハードコア 】〇んだら終わり!?人生初ハードコアに挑戦!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260922",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D_tBYkVrwu4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xbz1v_kZ4dQ",
+      "title": "【Minecraft】#ミリキラハードコア ネザー行くぞ day3 【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xbz1v_kZ4dQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zmm_z1BnIJk",
+      "title": "【対決】ボール当てチャレンジ! #ねぽっくす #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zmm_z1BnIJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CWif8AqPJyo",
+      "title": "【Minecraft ハードコア】#3 絶対に生きたいマイクラ！！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CWif8AqPJyo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1303,
+  "count": 1306,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14332,6 +14332,39 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pPnCuS2uiX0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xbz1v_kZ4dQ",
+      "title": "【Minecraft】#ミリキラハードコア ネザー行くぞ day3 【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xbz1v_kZ4dQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CWif8AqPJyo",
+      "title": "【Minecraft ハードコア】#3 絶対に生きたいマイクラ！！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CWif8AqPJyo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HNoZa-doxEE",
+      "title": "【💅ヴィヴィを探せ✨】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HNoZa-doxEE",
       "status": "unreviewed",
       "note": null
     }

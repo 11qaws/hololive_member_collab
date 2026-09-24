@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2852,
+  "count": 2857,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,66 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GqKDbMVANBA",
+      "title": "らでんちゃんは手が焼けるなぁ…ｗ 【#一条莉々華の限界飯】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/GqKDbMVANBA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GqKDbMVANBA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RARzpMkQ4ak",
+      "title": "【番外編！？】激ムズクエストがあるらしい。 #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/RARzpMkQ4ak",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RARzpMkQ4ak/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2YeKfL58zew",
+      "title": "#ReGLOSS_1stLive #ReGLOSS 9/28(月)18:00までBlu-ray販売中！",
+      "published_at": "20260923",
+      "url": "https://youtu.be/2YeKfL58zew",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2YeKfL58zew/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Hf1TeFgu3YY",
+      "title": "【 7Days to Die 】番外編きちゃああ🔥まだまだゾンビやるぞおお🔥✨ 【ホロライブ FLOW GLOW 響咲リオナ】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/Hf1TeFgu3YY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Hf1TeFgu3YY/mqdefault.jpg",
+      "partner_handle": "isakiriona",
+      "partner_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "W4kIcPlxUTU",
+      "title": "【7Days to Die】番外編!高難易度クエストいくぞ~!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/W4kIcPlxUTU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/W4kIcPlxUTU/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },
@@ -376,7 +436,7 @@
     },
     {
       "video_id": "92Kybu_sepE",
-      "title": "カリスマックス、踊りました!!!!!! #shorts #hololive",
+      "title": "カリスマックス、踊りました！！！！！！ #shorts #hololive",
       "published_at": "20260912",
       "url": "https://youtu.be/92Kybu_sepE",
       "entry_type": "stream",
