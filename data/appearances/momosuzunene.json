@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1255,
+  "count": 1258,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13804,6 +13804,39 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zmm_z1BnIJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-pAnDesg9A4",
+      "title": "【同時視聴】アソビ★まわり隊！初配信同時視聴 そぴあ＆めら　#アソビまわり隊【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-pAnDesg9A4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YBetvNAkHuo",
+      "title": "【凸待ちアリ同時視聴】#アソビまわり隊 初配信を見る‼‼🤩【星街すいせい / #miComet】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YBetvNAkHuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Do8YdyE3-PY",
+      "title": "【 #ねぽっくす あと2日】マヨネーズガチ勢のスイッチを押してしまった桃鈴ねねの末路【ねっこよ】 #shorts #ホロライブ #hololive #vtuber #桃鈴ねね #博衣こより",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Do8YdyE3-PY",
       "status": "unreviewed",
       "note": null
     }

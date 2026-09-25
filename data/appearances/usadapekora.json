@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1668,
+  "count": 1669,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18347,6 +18347,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ee65v-uUN_Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Grg8l8bDXXs",
+      "title": "初恋サイダー#vtuber #ホロライブ #dance #shorts #宝鐘マリン #兎田ぺこら",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Grg8l8bDXXs",
       "status": "unreviewed",
       "note": null
     }

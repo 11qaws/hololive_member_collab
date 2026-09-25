@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1481,
+  "count": 1482,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16290,6 +16290,17 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Q_XKhVZZ8I8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-pAnDesg9A4",
+      "title": "【同時視聴】アソビ★まわり隊！初配信同時視聴 そぴあ＆めら　#アソビまわり隊【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-pAnDesg9A4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1965,
+  "count": 1967,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21614,6 +21614,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zmm_z1BnIJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VhsUVnEtbyk",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】お散歩回3！バカサーでもお散歩にいく！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VhsUVnEtbyk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jeA_H_fd_GA",
+      "title": "先輩に容赦ない失礼系VTuber  #ねぽっくす まであと3日 【ラプラス・ダークネス/ホロライブ】 #shorts #vtuber",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jeA_H_fd_GA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1205,
+  "count": 1206,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13254,6 +13254,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HNoZa-doxEE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "meIteEbwgQg",
+      "title": "【 深夜縦雑】声は治ってきたけど咳のターン!突発お子様バッテリー！【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/meIteEbwgQg",
       "status": "unreviewed",
       "note": null
     }

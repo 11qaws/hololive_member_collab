@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1148,
+  "count": 1149,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12627,6 +12627,17 @@
       "published_at": "20260918",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NcXOld6MRdo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rV7esp4Zcak",
+      "title": "≪#Baelz1stConcert≫ SPECIAL 3D STREAM FOR 「REGALIA」・続報配信 !",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rV7esp4Zcak",
       "status": "unreviewed",
       "note": null
     }

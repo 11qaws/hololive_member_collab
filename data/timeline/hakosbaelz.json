@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2738,
+  "count": 2740,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rV7esp4Zcak",
+      "title": "≪#Baelz1stConcert≫ SPECIAL 3D STREAM FOR 「REGALIA」・続報配信 !",
+      "published_at": "20260924",
+      "url": "https://youtu.be/rV7esp4Zcak",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rV7esp4Zcak/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wi-QysXMreI",
+      "title": "≪UNARCHIVED KARAOKE≫ rat here with announcement",
+      "published_at": "20260924",
+      "url": "https://youtu.be/wi-QysXMreI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wi-QysXMreI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16599,24 +16623,24 @@
       "paired_self": null
     },
     {
-      "video_id": "A2prYynvtJY",
-      "title": "BITE! カム! BITE!",
-      "published_at": "20240229",
-      "url": "https://youtu.be/A2prYynvtJY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "7KyZi4-KdWc",
       "title": "EIEN",
       "published_at": "20240229",
       "url": "https://youtu.be/7KyZi4-KdWc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A2prYynvtJY",
+      "title": "BITE! カム! BITE!",
+      "published_at": "20240229",
+      "url": "https://youtu.be/A2prYynvtJY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

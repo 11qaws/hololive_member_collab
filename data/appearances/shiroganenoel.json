@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1801,
+  "count": 1802,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19810,6 +19810,17 @@
       "published_at": "20260921",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JeTkS8h0JIY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jr4bYLjNYpM",
+      "title": "【 MLBxhololive 】全30球団が一斉に試合⁉️リーグ戦最終日、日本人選手出場試合をメインに楽しもう!【白銀ノエル・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jr4bYLjNYpM",
       "status": "unreviewed",
       "note": null
     }

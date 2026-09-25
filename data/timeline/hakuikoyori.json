@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 4997,
+  "count": 5001,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -23,6 +23,54 @@
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Jr4bYLjNYpM",
+      "title": "【 MLBxhololive 】全30球団が一斉に試合⁉️リーグ戦最終日、日本人選手出場試合をメインに楽しもう!【白銀ノエル・博衣こより/ホロライブ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/Jr4bYLjNYpM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Jr4bYLjNYpM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Do8YdyE3-PY",
+      "title": "【 #ねぽっくす あと2日】マヨネーズガチ勢のスイッチを押してしまった桃鈴ねねの末路【ねっこよ】 #shorts #ホロライブ #hololive #vtuber #桃鈴ねね #博衣こより",
+      "published_at": "20260924",
+      "url": "https://youtu.be/Do8YdyE3-PY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Do8YdyE3-PY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y4Z_PDYESUk",
+      "title": "【 Machine Party 】ねぽっくす前にholoXで命がけのゲームをしよう。【#SSholoX/ホロライブ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/Y4Z_PDYESUk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Y4Z_PDYESUk/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cTeiGKte9uo",
+      "title": "【 Machine Party 】ねぽっくす前にholoXで命がけのゲームをしよう。【#SSholoX/ホロライブ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/cTeiGKte9uo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cTeiGKte9uo/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },

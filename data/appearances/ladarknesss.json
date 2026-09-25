@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1066,
+  "count": 1068,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11725,6 +11725,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zmm_z1BnIJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y4Z_PDYESUk",
+      "title": "【 Machine Party 】ねぽっくす前にholoXで命がけのゲームをしよう。【#SSholoX/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y4Z_PDYESUk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cTeiGKte9uo",
+      "title": "【 Machine Party 】ねぽっくす前にholoXで命がけのゲームをしよう。【#SSholoX/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cTeiGKte9uo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3485,
+  "count": 3487,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38334,6 +38334,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W4kIcPlxUTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VhsUVnEtbyk",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】お散歩回3！バカサーでもお散歩にいく！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VhsUVnEtbyk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YBetvNAkHuo",
+      "title": "【凸待ちアリ同時視聴】#アソビまわり隊 初配信を見る‼‼🤩【星街すいせい / #miComet】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YBetvNAkHuo",
       "status": "unreviewed",
       "note": null
     }

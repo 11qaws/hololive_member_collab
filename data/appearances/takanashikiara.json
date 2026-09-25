@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1113,
+  "count": 1114,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12242,6 +12242,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cG8QKLoeWe4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m7fX9PYU5-A",
+      "title": "【POKÉMON LEAF GREEN】WE'RE BOTH ONE CRIT AWAY FROM DISASTER【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m7fX9PYU5-A",
       "status": "unreviewed",
       "note": null
     }

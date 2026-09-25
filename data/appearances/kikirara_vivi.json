@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1306,
+  "count": 1307,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14365,6 +14365,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HNoZa-doxEE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PXpnTX8dld4",
+      "title": "【#マイクラ肝試し2026】散歩しにいく〜【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PXpnTX8dld4",
       "status": "unreviewed",
       "note": null
     }
