@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5620,
+  "count": 5621,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -28,11 +28,35 @@
     },
     {
       "video_id": "s9zHPReS72Y",
-      "title": "【 凸待ちアリ同時視聴】#アソビまわり隊 初配信を見るにぇえええええええええええ!!【 #miComet /さくらみこ】",
+      "title": "【 凸待ちアリ同時視聴】#アソビまわり隊 初配信を見るにぇえええええええええええ！！【 #miComet /さくらみこ】",
       "published_at": "20260925",
       "url": "https://youtu.be/s9zHPReS72Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/s9zHPReS72Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qzZG5O_wx08",
+      "title": "【同時視聴】アソビ★まわり隊！初配信同時視聴 つづり＆キョーコ　#アソビまわり隊【ホロライブ/白上フブキ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/qzZG5O_wx08",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qzZG5O_wx08/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q_XKhVZZ8I8",
+      "title": "【BOMBANANA!】聞か猿見え猿言わ猿、きんじょーーーず!!!!!!!!【ホロライブ/さくらみこ】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/Q_XKhVZZ8I8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Q_XKhVZZ8I8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/YBetvNAkHuo/mqdefault.jpg",
       "partner_handle": "hoshimachisuisei",
       "partner_name": "Suisei Channel",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Q_XKhVZZ8I8",
-      "title": "【BOMBANANA!】聞か猿見え猿言わ猿、きんじょーーーず！！！！！！！！【ホロライブ/さくらみこ】",
-      "published_at": "20260922",
-      "url": "https://youtu.be/Q_XKhVZZ8I8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Q_XKhVZZ8I8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -2919,24 +2931,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dzcfXjQwGJ8",
-      "title": "ファッションビート",
-      "published_at": "20260713",
-      "url": "https://youtu.be/dzcfXjQwGJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dzcfXjQwGJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Zs8V61lfgQ0",
       "title": "ファッションビート (Instrumental)",
       "published_at": "20260713",
       "url": "https://youtu.be/Zs8V61lfgQ0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Zs8V61lfgQ0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dzcfXjQwGJ8",
+      "title": "ファッションビート",
+      "published_at": "20260713",
+      "url": "https://youtu.be/dzcfXjQwGJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dzcfXjQwGJ8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -51171,24 +51183,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dgkijs3AfAs",
-      "title": "さくら色ハイテンション!",
-      "published_at": "20210125",
-      "url": "https://youtu.be/dgkijs3AfAs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "TThKPMBMK_o",
       "title": "さくら色ハイテンション! (Instrumental)",
       "published_at": "20210125",
       "url": "https://youtu.be/TThKPMBMK_o",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TThKPMBMK_o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dgkijs3AfAs",
+      "title": "さくら色ハイテンション!",
+      "published_at": "20210125",
+      "url": "https://youtu.be/dgkijs3AfAs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dgkijs3AfAs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2466,
+  "count": 2467,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wnF3DJKHUJg",
+      "title": "リズムでだるまさんが転んだReGLOSS【轟はじめ】#shorts #gowild",
+      "published_at": "20260925",
+      "url": "https://youtu.be/wnF3DJKHUJg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wnF3DJKHUJg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20703,24 +20715,24 @@
       "paired_self": null
     },
     {
-      "video_id": "jwYEbr39tis",
-      "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
-      "published_at": "20240927",
-      "url": "https://youtu.be/jwYEbr39tis",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "aVywsgBF8Js",
       "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
       "published_at": "20240927",
       "url": "https://youtu.be/aVywsgBF8Js",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/aVywsgBF8Js/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jwYEbr39tis",
+      "title": "#LAKI MODE サビだけ歌ってみた! #shorts #ReGLOSS 3D LIVE #轟はじめ #MIXなし",
+      "published_at": "20240927",
+      "url": "https://youtu.be/jwYEbr39tis",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jwYEbr39tis/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

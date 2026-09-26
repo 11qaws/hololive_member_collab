@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1307,
+  "count": 1309,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14376,6 +14376,28 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PXpnTX8dld4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HxwogHrIk_w",
+      "title": "【#マイクラ肝試し2026】はじめての肝試し！お散歩するゾイ【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HxwogHrIk_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bgV4HGRVrjo",
+      "title": "【🎧千速を探せ🔧】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bgV4HGRVrjo",
       "status": "unreviewed",
       "note": null
     }

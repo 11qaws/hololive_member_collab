@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1663,
+  "count": 1665,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18292,6 +18292,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W4kIcPlxUTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qzZG5O_wx08",
+      "title": "【同時視聴】アソビ★まわり隊！初配信同時視聴 つづり＆キョーコ　#アソビまわり隊【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qzZG5O_wx08",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s9zHPReS72Y",
+      "title": "【 凸待ちアリ同時視聴】#アソビまわり隊 初配信を見るにぇえええええええええええ！！【 #miComet /さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s9zHPReS72Y",
       "status": "unreviewed",
       "note": null
     }

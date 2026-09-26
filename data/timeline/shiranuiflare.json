@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3910,
+  "count": 3911,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DC-jTgas4jw",
+      "title": "【 #マイクラ肝試し2026 】今日は、ふーたんとアーニャと肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "published_at": "20260925",
+      "url": "https://youtu.be/DC-jTgas4jw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DC-jTgas4jw/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27171,24 +27183,24 @@
       "paired_self": null
     },
     {
-      "video_id": "AByRY55F9_A",
-      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
-      "published_at": "20220322",
-      "url": "https://youtu.be/AByRY55F9_A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "LndV_sp65kk",
       "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
       "published_at": "20220322",
       "url": "https://youtu.be/LndV_sp65kk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AByRY55F9_A",
+      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
+      "published_at": "20220322",
+      "url": "https://youtu.be/AByRY55F9_A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1244,
+  "count": 1245,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13683,6 +13683,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xKlKbFkFwj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B6q-96i0raE",
+      "title": "【CASUAL OUTFIT REVEAL】silly hat SILLIER OUTFIT REVEAL?? #CasualGigi",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B6q-96i0raE",
       "status": "unreviewed",
       "note": null
     }

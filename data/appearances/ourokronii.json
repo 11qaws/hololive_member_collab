@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1057,
+  "count": 1059,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11626,6 +11626,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xKlKbFkFwj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qa3bFuPMI8Y",
+      "title": "【BOMBANANA】BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qa3bFuPMI8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "itScMyEA0O4",
+      "title": "【BOMBANANA!】bombocl-💣💥💥💥💥 #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/itScMyEA0O4",
       "status": "unreviewed",
       "note": null
     }

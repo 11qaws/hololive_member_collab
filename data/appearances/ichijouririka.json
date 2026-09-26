@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1481,
+  "count": 1482,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16290,6 +16290,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W4kIcPlxUTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XOi5Wm_kGAk",
+      "title": "【コラボ】リリーナ晩酌マシュマロ雑談❤【ホロライブ  響咲リオナ 一条莉々華】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XOi5Wm_kGAk",
       "status": "unreviewed",
       "note": null
     }

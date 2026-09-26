@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1651,
+  "count": 1653,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18160,6 +18160,28 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zmm_z1BnIJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jqY8VhdkQMk",
+      "title": "【同時視聴】#ねぽっくすday1ねぽらぼ×秘密結社holoXのイベントを一緒に楽しもう!【音乃瀬奏/儒烏風亭らでん/ホロライブ】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jqY8VhdkQMk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hqQ5-vgX00M",
+      "title": "【#ねぽっくす_day1】ねぽっくす! 〜ねぽらぼ×秘密結社holoX〜【チラ見せ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260924",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hqQ5-vgX00M",
       "status": "unreviewed",
       "note": null
     }

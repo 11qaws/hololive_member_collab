@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1522,
+  "count": 1523,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16741,6 +16741,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rV7esp4Zcak",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2O30XClJ16k",
+      "title": "BANNED YOUR ACCOUNT【BENT CPU PINS】#hololive #ホロライブ #memes",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2O30XClJ16k",
       "status": "unreviewed",
       "note": null
     }

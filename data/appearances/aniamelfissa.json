@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1415,
+  "count": 1416,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15564,6 +15564,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GliiemIAMwY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DC-jTgas4jw",
+      "title": "【 #マイクラ肝試し2026 】今日は、ふーたんとアーニャと肝試し~👻✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DC-jTgas4jw",
       "status": "unreviewed",
       "note": null
     }

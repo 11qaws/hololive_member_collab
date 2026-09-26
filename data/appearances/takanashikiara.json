@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1114,
+  "count": 1116,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12253,6 +12253,28 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/m7fX9PYU5-A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qa3bFuPMI8Y",
+      "title": "【BOMBANANA】BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qa3bFuPMI8Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0GDQs_jJF3M",
+      "title": "【Bombanana】See No Evil With @TakanashiKiara @holoen_raorapanthera​",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0GDQs_jJF3M",
       "status": "unreviewed",
       "note": null
     }

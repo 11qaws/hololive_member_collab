@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1532,
+  "count": 1533,
   "entries": [
     {
       "video_id": "N-RBlIBPbic",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/9tnb-Smeul0/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "B6q-96i0raE",
+      "title": "【CASUAL OUTFIT REVEAL】silly hat SILLIER OUTFIT REVEAL?? #CasualGigi",
+      "published_at": "20260917",
+      "url": "https://youtu.be/B6q-96i0raE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/B6q-96i0raE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18363,24 +18375,24 @@
       "paired_self": null
     },
     {
-      "video_id": "8q53wjHD3k4",
-      "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
-      "published_at": "",
-      "url": "https://youtu.be/8q53wjHD3k4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cf9V1Cth6Es",
       "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
       "published_at": "",
       "url": "https://youtu.be/cf9V1Cth6Es",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8q53wjHD3k4",
+      "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
+      "published_at": "",
+      "url": "https://youtu.be/8q53wjHD3k4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

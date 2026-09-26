@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1142,
+  "count": 1143,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12561,6 +12561,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8byfd8ZkuHk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qGglGbvHaSA",
+      "title": "【 🔵トルネコの大冒険 】99階ダンジョン行くぞ🔥ころさんとゆる並走🥐💛✦| トルネコの大冒険 ちょっとステキなリマスター【 猫又おかゆ/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qGglGbvHaSA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2369,
+  "count": 2375,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,80 @@
       "paired_self": null
     },
     {
+      "video_id": "gYJ_anRYXjo",
+      "title": "【歌みた】世界一可愛い私/水宮枢 #vtuber #hololive #歌ってみた",
+      "published_at": "20260926",
+      "url": "https://youtu.be/gYJ_anRYXjo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gYJ_anRYXjo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ks1JfUn6VPY",
+      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#6【水宮枢/ホロライブDEV_IS】※ネタバレ有",
+      "published_at": "20260925",
+      "url": "https://youtu.be/ks1JfUn6VPY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ks1JfUn6VPY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EGpVAzva5DY",
+      "title": "ハートキャッチ☆パラダイス/プリキュア 踊ってみた #vtuber #hololive #dance",
+      "published_at": "20260925",
+      "url": "https://youtu.be/EGpVAzva5DY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EGpVAzva5DY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HxwogHrIk_w",
+      "title": "【#マイクラ肝試し2026】はじめての肝試し！お散歩するゾイ【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260925",
+      "url": "https://youtu.be/HxwogHrIk_w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HxwogHrIk_w/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4UXtHi0_8D4",
+      "title": "【#マイクラ肝試し2026】初めてのマイクラ肝試しやああああ！！！！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW 】",
+      "published_at": "20260925",
+      "url": "https://youtu.be/4UXtHi0_8D4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4UXtHi0_8D4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bgV4HGRVrjo",
+      "title": "【🎧千速を探せ🔧】巨大な部屋でかくれんぼ🔭",
+      "published_at": "20260925",
+      "url": "https://youtu.be/bgV4HGRVrjo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bgV4HGRVrjo/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "PXpnTX8dld4",
-      "title": "【#マイクラ肝試し2026】散歩しにいく〜【水宮枢/ホロライブ】",
+      "title": "【#マイクラ肝試し2026】散歩しにいく〜【水宮枢／ホロライブ】",
       "published_at": "20260924",
       "url": "https://youtu.be/PXpnTX8dld4",
       "entry_type": "stream",
@@ -28,7 +100,7 @@
     },
     {
       "video_id": "AV2j6gaPdrU",
-      "title": "はくちゅーむ／みにみやと踊ってみた #vtuber #hololive #dance",
+      "title": "はくちゅーむ/みにみやと踊ってみた #vtuber #hololive #dance",
       "published_at": "20260924",
       "url": "https://youtu.be/AV2j6gaPdrU",
       "entry_type": "stream",
@@ -208,7 +280,7 @@
     },
     {
       "video_id": "54UO96Xrmt4",
-      "title": "【Minecraft】#ミリキラハードコア 仲良く平和なday1【水宮枢／ホロライブ】",
+      "title": "【Minecraft】#ミリキラハードコア 仲良く平和なday1【水宮枢/ホロライブ】",
       "published_at": "20260921",
       "url": "https://youtu.be/54UO96Xrmt4",
       "entry_type": "stream",

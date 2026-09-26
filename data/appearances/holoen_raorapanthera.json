@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 758,
+  "count": 761,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8337,6 +8337,39 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PtbDj9jg380",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wZ2pfscWYk4",
+      "title": "Proud dog owners be like...🦮🦮🏃‍♀️  #pets #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wZ2pfscWYk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0GDQs_jJF3M",
+      "title": "【Bombanana】See No Evil With @TakanashiKiara @holoen_raorapanthera​",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0GDQs_jJF3M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "itScMyEA0O4",
+      "title": "【BOMBANANA!】bombocl-💣💥💥💥💥 #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/itScMyEA0O4",
       "status": "unreviewed",
       "note": null
     }

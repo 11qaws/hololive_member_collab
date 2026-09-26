@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1121,
+  "count": 1122,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12330,6 +12330,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xKlKbFkFwj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2O30XClJ16k",
+      "title": "BANNED YOUR ACCOUNT【BENT CPU PINS】#hololive #ホロライブ #memes",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2O30XClJ16k",
       "status": "unreviewed",
       "note": null
     }

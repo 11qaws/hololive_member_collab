@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 2392,
+  "count": 2395,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/ehRY3XerZev/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jqY8VhdkQMk",
+      "title": "【同時視聴】#ねぽっくすday1ねぽらぼ×秘密結社holoXのイベントを一緒に楽しもう!【音乃瀬奏/儒烏風亭らでん/ホロライブ】",
+      "published_at": "20260926",
+      "url": "https://youtu.be/jqY8VhdkQMk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jqY8VhdkQMk/mqdefault.jpg",
+      "partner_handle": "juufuuteiraden",
+      "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VMWwn9Ekf-c",
+      "title": "【#ねぽっくす あと1日】アイスはいつ食べたっておいしいよな🍨",
+      "published_at": "20260925",
+      "url": "https://youtu.be/VMWwn9Ekf-c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VMWwn9Ekf-c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/cTeiGKte9uo/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hqQ5-vgX00M",
+      "title": "【#ねぽっくす_day1】ねぽっくす! 〜ねぽらぼ×秘密結社holoX〜【チラ見せ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/hqQ5-vgX00M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hqQ5-vgX00M/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
