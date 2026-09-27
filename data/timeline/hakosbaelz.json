@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2741,
+  "count": 2744,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ucVbmV0bflw",
+      "title": "≪#マイクラ肝試し2026≫ MINECRAFT TEST OF COURAGE 2026 w/ Ina & CC",
+      "published_at": "20260926",
+      "url": "https://youtu.be/ucVbmV0bflw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ucVbmV0bflw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GfgExP3YS2c",
+      "title": "oshi a rat #animation #anime #hololive #vtuber #envtuber",
+      "published_at": "20260926",
+      "url": "https://youtu.be/GfgExP3YS2c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GfgExP3YS2c/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "published_at": "20260925",
+      "url": "https://youtu.be/wBpVBfwdODs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wBpVBfwdODs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },
@@ -16563,24 +16599,24 @@
       "paired_self": null
     },
     {
-      "video_id": "_hEzJPgdF5Q",
-      "title": "RIDE",
-      "published_at": "20240229",
-      "url": "https://youtu.be/_hEzJPgdF5Q",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/_hEzJPgdF5Q/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "crdkv5i9pvo",
       "title": "HIDE & SEEK 〜なかよくケンカしな!〜",
       "published_at": "20240229",
       "url": "https://youtu.be/crdkv5i9pvo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/crdkv5i9pvo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_hEzJPgdF5Q",
+      "title": "RIDE",
+      "published_at": "20240229",
+      "url": "https://youtu.be/_hEzJPgdF5Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_hEzJPgdF5Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -16635,24 +16671,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7KyZi4-KdWc",
-      "title": "EIEN",
-      "published_at": "20240229",
-      "url": "https://youtu.be/7KyZi4-KdWc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "A2prYynvtJY",
       "title": "BITE! カム! BITE!",
       "published_at": "20240229",
       "url": "https://youtu.be/A2prYynvtJY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/A2prYynvtJY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7KyZi4-KdWc",
+      "title": "EIEN",
+      "published_at": "20240229",
+      "url": "https://youtu.be/7KyZi4-KdWc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7KyZi4-KdWc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

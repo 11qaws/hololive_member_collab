@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 2749,
+  "count": 2750,
   "entries": [
     {
       "video_id": "PnVZehg10Sx",
@@ -40,7 +40,7 @@
     },
     {
       "video_id": "SE0sxgNCeD4",
-      "title": "【 朝活 】ねぽっくす直前！みんなにおはよの配信【 桃鈴ねね / hololive 】",
+      "title": "【 朝活 】ねぽっくす直前!みんなにおはよの配信【 桃鈴ねね / hololive 】",
       "published_at": "20260924",
       "url": "https://youtu.be/SE0sxgNCeD4",
       "entry_type": "stream",
@@ -52,7 +52,7 @@
     },
     {
       "video_id": "zqhVYXaq0cE",
-      "title": "#アソビまわり隊 をみまもり隊～ｗほか雑談込み～‼【 桃鈴ねね / hololive 】",
+      "title": "#アソビまわり隊 をみまもり隊~wほか雑談込み~‼【 桃鈴ねね / hololive 】",
       "published_at": "20260924",
       "url": "https://youtu.be/zqhVYXaq0cE",
       "entry_type": "stream",
@@ -81,6 +81,18 @@
       "url": "https://youtu.be/hqQ5-vgX00M",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/hqQ5-vgX00M/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4xnApfWvjXs",
+      "title": "【#ねぽっくすday2】ねぽっくす! 〜ねぽらぼ×秘密結社holoX〜【チラ見せ】",
+      "published_at": "20260924",
+      "url": "https://youtu.be/4xnApfWvjXs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4xnApfWvjXs/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
@@ -16359,24 +16371,24 @@
       "paired_self": null
     },
     {
-      "video_id": "q6ZKeOa6YY4",
-      "title": "Lunch with me",
-      "published_at": "20230610",
-      "url": "https://youtu.be/q6ZKeOa6YY4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/q6ZKeOa6YY4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "2H6wWQ91xf8",
       "title": "モモノネ",
       "published_at": "20230610",
       "url": "https://youtu.be/2H6wWQ91xf8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/2H6wWQ91xf8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q6ZKeOa6YY4",
+      "title": "Lunch with me",
+      "published_at": "20230610",
+      "url": "https://youtu.be/q6ZKeOa6YY4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q6ZKeOa6YY4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32931,6 +32943,18 @@
       "paired_self": null
     },
     {
+      "video_id": "JVG9XQJNja4",
+      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
+      "published_at": "",
+      "url": "https://youtu.be/JVG9XQJNja4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "NtHKELQoO9I",
       "title": "みぎかたに～～むらさきちょうちょ～～#shorts 【桃鈴ねね/ホロライブ】",
       "published_at": "",
@@ -32943,12 +32967,12 @@
       "paired_self": null
     },
     {
-      "video_id": "JVG9XQJNja4",
-      "title": "おはよぉぉぉおおおお【 桃鈴ねね / hololive 】",
+      "video_id": "gReFh-GWGfA",
+      "title": "【羨ま゛し゛い゛】故の嫉妬【桃鈴ねね/ホロライブ】 #vtuber #shorts",
       "published_at": "",
-      "url": "https://youtu.be/JVG9XQJNja4",
+      "url": "https://youtu.be/gReFh-GWGfA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JVG9XQJNja4/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/gReFh-GWGfA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -32973,18 +32997,6 @@
       "url": "https://youtu.be/jT3CGTTWv7I",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jT3CGTTWv7I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "gReFh-GWGfA",
-      "title": "【羨ま゛し゛い゛】故の嫉妬【桃鈴ねね/ホロライブ】 #vtuber #shorts",
-      "published_at": "",
-      "url": "https://youtu.be/gReFh-GWGfA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/gReFh-GWGfA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

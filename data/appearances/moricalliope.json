@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1466,
+  "count": 1467,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16125,6 +16125,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xKlKbFkFwj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wBpVBfwdODs",
       "status": "unreviewed",
       "note": null
     }

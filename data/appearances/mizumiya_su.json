@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1209,
+  "count": 1210,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13298,6 +13298,17 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bgV4HGRVrjo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tvvNWCCPxoc",
+      "title": "ルカルカ★ナイトフィーバー💗みんなで踊ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tvvNWCCPxoc",
       "status": "unreviewed",
       "note": null
     }

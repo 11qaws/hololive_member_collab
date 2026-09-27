@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 761,
+  "count": 762,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8370,6 +8370,17 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/itScMyEA0O4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wBpVBfwdODs",
       "status": "unreviewed",
       "note": null
     }

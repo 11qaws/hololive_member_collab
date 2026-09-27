@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1094,
+  "count": 1095,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12033,6 +12033,17 @@
       "published_at": "20260922",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uvOHEzAsuAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dlq2aYuSN_M",
+      "title": "【#ホロ甲2026】2年目秋大会から！AZKiの癒し実況を添えて──【ホロライブ/宝鐘マリン・AZKi】",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dlq2aYuSN_M",
       "status": "unreviewed",
       "note": null
     }

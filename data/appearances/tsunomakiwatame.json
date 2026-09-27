@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1839,
+  "count": 1841,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20228,6 +20228,28 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VhsUVnEtbyk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ENzeBMWsLEg",
+      "title": "【Minecraft #マイクラ肝試し2026】初めてのマイクラ肝試し！ふれわたーニャで過去マップ見てみる〜【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ENzeBMWsLEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sqYbZ4Eq580",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】お散歩回4！今年の本チームでもお散歩にいく！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sqYbZ4Eq580",
       "status": "unreviewed",
       "note": null
     }

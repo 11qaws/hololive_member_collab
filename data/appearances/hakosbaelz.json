@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1245,
+  "count": 1247,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13694,6 +13694,28 @@
       "published_at": "20260917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B6q-96i0raE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260925",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wBpVBfwdODs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GfgExP3YS2c",
+      "title": "oshi a rat #animation #anime #hololive #vtuber #envtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GfgExP3YS2c",
       "status": "unreviewed",
       "note": null
     }

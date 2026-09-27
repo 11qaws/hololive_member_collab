@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1148,
+  "count": 1149,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12627,6 +12627,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xKlKbFkFwj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ucVbmV0bflw",
+      "title": "≪#マイクラ肝試し2026≫ MINECRAFT TEST OF COURAGE 2026 w/ Ina & CC",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ucVbmV0bflw",
       "status": "unreviewed",
       "note": null
     }

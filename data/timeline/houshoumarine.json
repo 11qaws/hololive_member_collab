@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3667,
+  "count": 3668,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,20 @@
       "paired_self": null
     },
     {
+      "video_id": "itkD87z7UMI",
+      "title": "【#ホロ甲2026】2年目春甲子園から3年目新入生!そぴ☆スター降臨か!?【ホロライブ/宝鐘マリン】",
+      "published_at": "20260927",
+      "url": "https://youtu.be/itkD87z7UMI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/itkD87z7UMI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "dlq2aYuSN_M",
-      "title": "【#ホロ甲2026】2年目秋大会から!AZKiの癒し実況を添えて──【ホロライブ/宝鐘マリン・AZKi】",
+      "title": "【#ホロ甲2026】2年目秋大会から！AZKiの癒し実況を添えて──【ホロライブ/宝鐘マリン・AZKi】",
       "published_at": "20260926",
       "url": "https://youtu.be/dlq2aYuSN_M",
       "entry_type": "stream",
@@ -11019,24 +11031,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Vgipg_bXYwg",
-      "title": "スキスキDieスキ超Ayeシテル",
-      "published_at": "20241015",
-      "url": "https://youtu.be/Vgipg_bXYwg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Vgipg_bXYwg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "V6a1pbqlXVw",
       "title": "I I I",
       "published_at": "20241015",
       "url": "https://youtu.be/V6a1pbqlXVw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/V6a1pbqlXVw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Vgipg_bXYwg",
+      "title": "スキスキDieスキ超Ayeシテル",
+      "published_at": "20241015",
+      "url": "https://youtu.be/Vgipg_bXYwg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Vgipg_bXYwg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

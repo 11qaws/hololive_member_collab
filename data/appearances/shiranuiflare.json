@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1590,
+  "count": 1591,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17489,6 +17489,17 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DC-jTgas4jw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ENzeBMWsLEg",
+      "title": "【Minecraft #マイクラ肝試し2026】初めてのマイクラ肝試し！ふれわたーニャで過去マップ見てみる〜【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ENzeBMWsLEg",
       "status": "unreviewed",
       "note": null
     }

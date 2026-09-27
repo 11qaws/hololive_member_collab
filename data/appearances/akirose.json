@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1308,
+  "count": 1309,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14387,6 +14387,17 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F9Z39rz4XdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PheMMvPxKdk",
+      "title": "今日調子いい!【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260926",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PheMMvPxKdk",
       "status": "unreviewed",
       "note": null
     }

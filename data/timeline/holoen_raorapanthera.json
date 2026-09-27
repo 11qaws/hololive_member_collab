@@ -1,7 +1,19 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1351,
+  "count": 1353,
   "entries": [
+    {
+      "video_id": "-BhI7Ya2Exk",
+      "title": "【ART STREAM】has been a billion year",
+      "published_at": "20260927",
+      "url": "https://youtu.be/-BhI7Ya2Exk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-BhI7Ya2Exk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "wZ2pfscWYk4",
       "title": "Proud dog owners be like...🦮🦮🏃‍♀️  #pets #hololive",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/itScMyEA0O4/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "published_at": "20260925",
+      "url": "https://youtu.be/wBpVBfwdODs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wBpVBfwdODs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },
