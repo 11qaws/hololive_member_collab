@@ -1,7 +1,19 @@
 {
   "target": "mococo_abyssgard",
-  "count": 2356,
+  "count": 2357,
   "entries": [
+    {
+      "video_id": "DMRYW68cB0M",
+      "title": "【アニメ】激やばメイドさんの特別な接客",
+      "published_at": "20260927",
+      "url": "https://youtu.be/DMRYW68cB0M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DMRYW68cB0M/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "uHDGJmhsX7k",
       "title": "【HITMAN】i protec and i also reck 🐾🩵 【FUWAWA SOLO】",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/uHDGJmhsX7k",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/uHDGJmhsX7k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UrLISw5iDWU",
+      "title": "【ROCK N' RAWR PARTY】fuwawa's 1st time solo singin' + announcement🐾【FUWAMOCO|告知あり】",
+      "published_at": "20260926",
+      "url": "https://youtu.be/UrLISw5iDWU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UrLISw5iDWU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,18 +47,6 @@
       "thumbnail": "https://img.youtube.com/vi/wZ2pfscWYk4/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "UrLISw5iDWU",
-      "title": "【ROCK N' RAWR PARTY】fuwawa's 1st time solo singin' + announcement🐾【FUWAMOCO｜告知あり】",
-      "published_at": "20260925",
-      "url": "https://youtu.be/UrLISw5iDWU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/UrLISw5iDWU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20187,24 +20199,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7YNhbv8dMnI",
-      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
-      "published_at": "20240616",
-      "url": "https://youtu.be/7YNhbv8dMnI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "zjtNzxi8t0w",
       "title": "【FWMC MINECRAFT JOURNEY】fluffy pickaxes for all 🐾【FUWAWA POV】",
       "published_at": "20240616",
       "url": "https://youtu.be/zjtNzxi8t0w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zjtNzxi8t0w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7YNhbv8dMnI",
+      "title": "【FWMC MINECRAFT JOURNEY】fuzzy pickaxes for all 🐾【MOCOCO POV】",
+      "published_at": "20240616",
+      "url": "https://youtu.be/7YNhbv8dMnI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7YNhbv8dMnI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

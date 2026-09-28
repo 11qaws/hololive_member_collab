@@ -1,7 +1,31 @@
 {
   "target": "shiorinovella",
-  "count": 2043,
+  "count": 2045,
   "entries": [
+    {
+      "video_id": "wBpVBfwdODs",
+      "title": "[New Audio Story] The Season of Crunchy Leaves",
+      "published_at": "20260928",
+      "url": "https://youtu.be/wBpVBfwdODs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wBpVBfwdODs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DVvbv1-YDsc",
+      "title": "Screaming In Your Ears Affectionately! 【Rubinite】",
+      "published_at": "20260927",
+      "url": "https://youtu.be/DVvbv1-YDsc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DVvbv1-YDsc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "QebCZtX4FV0",
       "title": "PUNCHING THE STRESS AWAY! 【Rubinite】",
@@ -24483,24 +24507,24 @@
       "paired_self": null
     },
     {
-      "video_id": "GoUqLjkrxBw",
-      "title": "Not sure if I'll be streaming tomorrow as a heads-up! I'll be working on some behind-the-scenes thi",
-      "published_at": "",
-      "url": "https://youtu.be/GoUqLjkrxBw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GoUqLjkrxBw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "WO_ONEMfir0",
       "title": "Finale: Who to Marry?【Inzoi】",
       "published_at": "",
       "url": "https://youtu.be/WO_ONEMfir0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WO_ONEMfir0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GoUqLjkrxBw",
+      "title": "Not sure if I'll be streaming tomorrow as a heads-up! I'll be working on some behind-the-scenes thi",
+      "published_at": "",
+      "url": "https://youtu.be/GoUqLjkrxBw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GoUqLjkrxBw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

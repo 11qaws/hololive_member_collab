@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1445,
+  "count": 1446,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15894,6 +15894,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4xnApfWvjXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iQlmYBCgLtI",
+      "title": "【第１回】猫又おかゆRTA【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iQlmYBCgLtI",
       "status": "unreviewed",
       "note": null
     }

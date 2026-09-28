@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3489,
+  "count": 3492,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38378,6 +38378,39 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LhNU63N-jw4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E9fLQvyydpM",
+      "title": "【BOMBANANA!】フブ、まちゅ、アキで爆弾解除！期待されてるので完全初見でいくぜ ＃ホロ１期生 【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E9fLQvyydpM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ReG1qNPwRRA",
+      "title": "【 BOMBANANA! 】まとも枠２狂人１（アキロゼ）【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ReG1qNPwRRA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DMRYW68cB0M",
+      "title": "【アニメ】激やばメイドさんの特別な接客",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DMRYW68cB0M",
       "status": "unreviewed",
       "note": null
     }

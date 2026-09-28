@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1210,
+  "count": 1213,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13309,6 +13309,39 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tvvNWCCPxoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z3_0DTNmBww",
+      "title": "【BOMBANANA!】見ざる聞かざる言わざる🙈の3匹で爆弾解除! 【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z3_0DTNmBww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SMKaIBsXwpE",
+      "title": "【BOMBANANA!】 見ざる聞かざる言わざる🙈の3匹で爆弾解除!【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SMKaIBsXwpE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rw4O4dYQpKQ",
+      "title": "【☺️笑虎を探せ🐅】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rw4O4dYQpKQ",
       "status": "unreviewed",
       "note": null
     }

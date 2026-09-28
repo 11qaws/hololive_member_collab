@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1309,
+  "count": 1312,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14398,6 +14398,39 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PheMMvPxKdk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d1SaZwjhnDM",
+      "title": "【BOMBANANA!】　ホロライブ１期生で爆弾猿してみたら多分アキロゼが一番ヤバイ【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d1SaZwjhnDM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ReG1qNPwRRA",
+      "title": "【 BOMBANANA! 】まとも枠２狂人１（アキロゼ）【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ReG1qNPwRRA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DVjjsJWH50U",
+      "title": "わちゃわちゃだw【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DVjjsJWH50U",
       "status": "unreviewed",
       "note": null
     }

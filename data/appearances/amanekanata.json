@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1332,
+  "count": 1333,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14651,6 +14651,17 @@
       "published_at": "20210317",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1Ts7X3vtYgQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iNjS1MIvb70",
+      "title": "【#桐生ココ】55万人記念緊急クエスト!FPS初心者⁉うるせぇ55キルしろ!【APEX】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200822",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iNjS1MIvb70",
       "status": "unreviewed",
       "note": null
     }

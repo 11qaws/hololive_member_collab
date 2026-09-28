@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1059,
+  "count": 1060,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11648,6 +11648,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4xnApfWvjXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a7gN7nU0cr8",
+      "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a7gN7nU0cr8",
       "status": "unreviewed",
       "note": null
     }

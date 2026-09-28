@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1149,
+  "count": 1150,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12638,6 +12638,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rV7esp4Zcak",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Tl6G4uEzteS",
+      "title": "Minecraft Test of Courage w/ Biboo & IRyS",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Tl6G4uEzteS",
       "status": "unreviewed",
       "note": null
     }

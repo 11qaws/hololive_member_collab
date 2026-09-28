@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 863,
+  "count": 864,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9492,6 +9492,17 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tvvNWCCPxoc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rw4O4dYQpKQ",
+      "title": "【☺️笑虎を探せ🐅】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rw4O4dYQpKQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1482,
+  "count": 1483,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16301,6 +16301,17 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XOi5Wm_kGAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7hs8aQU6BVk",
+      "title": "9/28(月)18:00までBlu-ray販売中! #ReGLOSS_1stLive #ReGLOSS",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7hs8aQU6BVk",
       "status": "unreviewed",
       "note": null
     }

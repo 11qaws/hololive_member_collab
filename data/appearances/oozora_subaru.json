@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2123,
+  "count": 2124,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23352,6 +23352,17 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vHj0NCLwo-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eCaOrzfsvSs",
+      "title": "はい､猫の雑談です",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eCaOrzfsvSs",
       "status": "unreviewed",
       "note": null
     }
