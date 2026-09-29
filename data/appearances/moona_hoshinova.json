@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1168,
+  "count": 1171,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12847,6 +12847,39 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uRQDfrH1hTg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZqzLMBhCoqI",
+      "title": "【hololive Dreams ホロライブドリームス】NEW AREA! DID ANYBODY SAY FISHING?!【hololive holoro | Anya】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZqzLMBhCoqI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9etqj1gIM74",
+      "title": "【hololive Dreams】 UNLOCKING AREA 3 TOGETHER!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9etqj1gIM74",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QiATSYtmze4",
+      "title": "【hololive Dreams】 Splash! NEW AREA UNLOCK! 新しいエリア! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QiATSYtmze4",
       "status": "unreviewed",
       "note": null
     }

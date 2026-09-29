@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1965,
+  "count": 1967,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21614,6 +21614,28 @@
       "published_at": "20260920",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/F9Z39rz4XdI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yk66EgbEulk",
+      "title": "諦めない心!【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yk66EgbEulk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DVjjsJWH50U",
+      "title": "わちゃわちゃだw【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DVjjsJWH50U",
       "status": "unreviewed",
       "note": null
     }

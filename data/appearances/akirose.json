@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1312,
+  "count": 1313,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14431,6 +14431,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DVjjsJWH50U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yk66EgbEulk",
+      "title": "諦めない心!【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yk66EgbEulk",
       "status": "unreviewed",
       "note": null
     }

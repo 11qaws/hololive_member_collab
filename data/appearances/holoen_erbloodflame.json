@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 594,
+  "count": 595,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6533,6 +6533,17 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w3XgEV8h3YQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "futPd6f5Gl4",
+      "title": "【HEAVY RAIN】CCGG MADNESS! sleep deprived & with drinks!",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/futPd6f5Gl4",
       "status": "unreviewed",
       "note": null
     }

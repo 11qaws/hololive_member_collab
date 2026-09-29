@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1446,
+  "count": 1447,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15905,6 +15905,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iQlmYBCgLtI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x0NWlpVEqD8",
+      "title": "【ホロドリ】今日からはじまった「スプラッシュボール」で遊ぼう!ホロ花火2026の告知もあるよ!!【尾丸ポルカ/博衣こより/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x0NWlpVEqD8",
       "status": "unreviewed",
       "note": null
     }

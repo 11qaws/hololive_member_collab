@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1972,
+  "count": 1974,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21691,6 +21691,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DMRYW68cB0M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m0wMAE1en5E",
+      "title": "【 #朝こよ 】㊗300回‼️ホロメンに逆凸＆お祝いも⁉️火曜日の朝も朝こよ～！☀ #300 【博衣こより/hololive】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m0wMAE1en5E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yk66EgbEulk",
+      "title": "諦めない心!【ホロライブ / AZKi】#ぷちあず #shorts #ロゼキャンARK #ARK #ASA #ARKSurvivalAscended",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yk66EgbEulk",
       "status": "unreviewed",
       "note": null
     }

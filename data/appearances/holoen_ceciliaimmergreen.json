@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 790,
+  "count": 792,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8689,6 +8689,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Rls89jeIrpf",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HHJW85Ktmco",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF (BAE'S) COURAGE 2026 w/ @HakosBaelz & @holoen_ceciliaimmergreen !!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HHJW85Ktmco",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "futPd6f5Gl4",
+      "title": "【HEAVY RAIN】CCGG MADNESS! sleep deprived & with drinks!",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/futPd6f5Gl4",
       "status": "unreviewed",
       "note": null
     }

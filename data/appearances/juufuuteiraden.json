@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 919,
+  "count": 921,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10108,6 +10108,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7hs8aQU6BVk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u1FB_xl768U",
+      "title": "🍺🍷酒でやらかす人たち　#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u1FB_xl768U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WrngqhuuMEk",
+      "title": "はじめの『Go Wild』にReGLOSSでだるまさんが転んだ🏃‍♀️ #轟はじめ #ReGLOSS #GoWild #VTuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WrngqhuuMEk",
       "status": "unreviewed",
       "note": null
     }

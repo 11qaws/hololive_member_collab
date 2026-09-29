@@ -1,7 +1,31 @@
 {
   "target": "pavoliareine",
-  "count": 3128,
+  "count": 3130,
   "entries": [
+    {
+      "video_id": "egLGTVyvEz4",
+      "title": "【hololive Dreams】Area 3 \"Soda Pop Lagoon\"! Good Thing I'm Thirsty #holodori【Pavolia Reine/hololive】",
+      "published_at": "20260928",
+      "url": "https://youtu.be/egLGTVyvEz4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/egLGTVyvEz4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i3foD9VE6P0",
+      "title": "(Episode 18 Onwards) Watching the Gnosia Anime with Members",
+      "published_at": "20260928",
+      "url": "https://youtu.be/i3foD9VE6P0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i3foD9VE6P0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "3VneqwjL8Do",
       "title": "Dressmaker: I Surprise My Clients Whether They Like It Or Not【Pavolia Reine/hololive】",
@@ -30663,18 +30687,6 @@
       "paired_self": null
     },
     {
-      "video_id": "PgfZckuqCb0",
-      "title": "Love Me Love Me",
-      "published_at": "20211206",
-      "url": "https://youtu.be/PgfZckuqCb0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "gTGL8HHOtRg",
       "title": "あの青空のせいだ(Instrumental)",
       "published_at": "20211206",
@@ -30687,12 +30699,12 @@
       "paired_self": null
     },
     {
-      "video_id": "m_noinhha_g",
-      "title": "Love Me Love Me(Instrumental)",
+      "video_id": "PgfZckuqCb0",
+      "title": "Love Me Love Me",
       "published_at": "20211206",
-      "url": "https://youtu.be/m_noinhha_g",
+      "url": "https://youtu.be/PgfZckuqCb0",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30705,6 +30717,18 @@
       "url": "https://youtu.be/yz8AiQc1Bk8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/yz8AiQc1Bk8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "m_noinhha_g",
+      "title": "Love Me Love Me(Instrumental)",
+      "published_at": "20211206",
+      "url": "https://youtu.be/m_noinhha_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/m_noinhha_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

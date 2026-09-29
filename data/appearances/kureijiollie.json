@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1426,
+  "count": 1429,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15685,6 +15685,39 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/t4_nfwdpeoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5kt7cbUiDJk",
+      "title": "【Hololive Dreams】OOH!! NEW AREA LET'S GO!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5kt7cbUiDJk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZqzLMBhCoqI",
+      "title": "【hololive Dreams ホロライブドリームス】NEW AREA! DID ANYBODY SAY FISHING?!【hololive holoro | Anya】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZqzLMBhCoqI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QiATSYtmze4",
+      "title": "【hololive Dreams】 Splash! NEW AREA UNLOCK! 新しいエリア! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QiATSYtmze4",
       "status": "unreviewed",
       "note": null
     }

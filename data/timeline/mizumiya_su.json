@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2384,
+  "count": 2389,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fMuuGaJz_Ok",
+      "title": "【ホロドリ】新エリアに行きたーーい!!#11【水宮枢/ホロライブ】",
+      "published_at": "20260929",
+      "url": "https://youtu.be/fMuuGaJz_Ok",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fMuuGaJz_Ok/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "O282u3LQMxs",
+      "title": "【手書き】得意なモノマネ…⁉️ #ホロライブ  #vtuber #animation",
+      "published_at": "20260929",
+      "url": "https://youtu.be/O282u3LQMxs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/O282u3LQMxs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WEs1XyMzph8",
+      "title": "【3分で覚えて】Love＆JOY/踊ってみた #vtuber #hololive #dance",
+      "published_at": "20260928",
+      "url": "https://youtu.be/WEs1XyMzph8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WEs1XyMzph8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pPLaboyc6Fg",
+      "title": "【BOMBANANA!】エケチャンの皆様と爆弾解除！？【ホロライブ 響咲リオナ 】",
+      "published_at": "20260928",
+      "url": "https://youtu.be/pPLaboyc6Fg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pPLaboyc6Fg/mqdefault.jpg",
+      "partner_handle": "isakiriona",
+      "partner_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x4aZIrVGLS0",
+      "title": "【🎤リオナを探せ👑】巨大な部屋でかくれんぼ🔭",
+      "published_at": "20260928",
+      "url": "https://youtu.be/x4aZIrVGLS0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/x4aZIrVGLS0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +88,7 @@
     },
     {
       "video_id": "u06WZ_e9A_8",
-      "title": "【BOMBANANA!】デバフ抱えて仲良く爆弾解除…💣【水宮枢/ホロライブ】",
+      "title": "【BOMBANANA!】デバフ抱えて仲良く爆弾解除…💣【水宮枢／ホロライブ】",
       "published_at": "20260927",
       "url": "https://youtu.be/u06WZ_e9A_8",
       "entry_type": "stream",
@@ -111,6 +171,18 @@
       "paired_self": null
     },
     {
+      "video_id": "ks1JfUn6VPY",
+      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#6【水宮枢/ホロライブDEV_IS】※ネタバレ有",
+      "published_at": "20260926",
+      "url": "https://youtu.be/ks1JfUn6VPY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ks1JfUn6VPY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "gYJ_anRYXjo",
       "title": "【歌みた】世界一可愛い私/水宮枢 #vtuber #hololive #歌ってみた",
       "published_at": "20260926",
@@ -131,18 +203,6 @@
       "thumbnail": "https://img.youtube.com/vi/tvvNWCCPxoc/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ks1JfUn6VPY",
-      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#6【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-      "published_at": "20260925",
-      "url": "https://youtu.be/ks1JfUn6VPY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ks1JfUn6VPY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

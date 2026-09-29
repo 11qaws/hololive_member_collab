@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1290,
+  "count": 1292,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14189,6 +14189,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u06WZ_e9A_8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPLaboyc6Fg",
+      "title": "【BOMBANANA!】エケチャンの皆様と爆弾解除！？【ホロライブ 響咲リオナ 】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPLaboyc6Fg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WrngqhuuMEk",
+      "title": "はじめの『Go Wild』にReGLOSSでだるまさんが転んだ🏃‍♀️ #轟はじめ #ReGLOSS #GoWild #VTuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WrngqhuuMEk",
       "status": "unreviewed",
       "note": null
     }

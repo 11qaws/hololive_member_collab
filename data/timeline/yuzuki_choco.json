@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 3096,
+  "count": 3099,
   "entries": [
+    {
+      "video_id": "Nqfm9jeLrWI",
+      "title": "アイドルパワー踊ってみた #踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts #milk",
+      "published_at": "20260928",
+      "url": "https://youtu.be/Nqfm9jeLrWI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Nqfm9jeLrWI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WjNxzPtIHhI",
+      "title": "【#アキちょこナイパレ|第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち?|シスターローズの懺悔室~深夜のひとくちラジオ~",
+      "published_at": "20260928",
+      "url": "https://youtu.be/WjNxzPtIHhI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WjNxzPtIHhI/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "n0fmwy7w3e4",
       "title": "しおざきわんだーらんど踊ってみた #踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts",
@@ -25619,6 +25643,18 @@
       "thumbnail": "https://img.youtube.com/vi/gSdKoR0N6gk/mqdefault.jpg",
       "partner_handle": "hoshimachisuisei",
       "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CjZ6KMULOb4",
+      "title": "【#Fall Guys】めんたいココ、TOPへのたび【#桐生ココ】",
+      "published_at": "20200818",
+      "url": "https://youtu.be/CjZ6KMULOb4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CjZ6KMULOb4/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
       "sub_entries": [],
       "paired_self": null
     },

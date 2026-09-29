@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1379,
+  "count": 1380,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15168,6 +15168,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4xnApfWvjXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u1FB_xl768U",
+      "title": "🍺🍷酒でやらかす人たち　#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u1FB_xl768U",
       "status": "unreviewed",
       "note": null
     }

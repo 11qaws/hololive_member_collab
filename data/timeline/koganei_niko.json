@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1710,
+  "count": 1714,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_XRL4dNwOqA",
+      "title": "アッカーン❤️ #ニコたんアニメ",
+      "published_at": "20260928",
+      "url": "https://youtu.be/_XRL4dNwOqA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_XRL4dNwOqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qx2QC_s4aB4",
+      "title": "流行りのまるごとレンチンニンジンで晩酌した結果【Vlog】",
+      "published_at": "20260928",
+      "url": "https://youtu.be/qx2QC_s4aB4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qx2QC_s4aB4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x4aZIrVGLS0",
+      "title": "【🎤リオナを探せ👑】巨大な部屋でかくれんぼ🔭",
+      "published_at": "20260928",
+      "url": "https://youtu.be/x4aZIrVGLS0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/x4aZIrVGLS0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -93,6 +129,18 @@
       "url": "https://youtu.be/HNoZa-doxEE",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/HNoZa-doxEE/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xMRwvFGy8Q4",
+      "title": "逆様 / 響咲リオナ × 虎金妃笑虎(cover) 【ポルカドットスティングレイ/歌ってみた】",
+      "published_at": "20260923",
+      "url": "https://youtu.be/xMRwvFGy8Q4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/xMRwvFGy8Q4/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
@@ -20499,24 +20547,24 @@
       "paired_self": null
     },
     {
-      "video_id": "pylOG0ntH_s",
-      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
-      "published_at": "",
-      "url": "https://youtu.be/pylOG0ntH_s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v9ea3cDKhX4",
       "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
       "published_at": "",
       "url": "https://youtu.be/v9ea3cDKhX4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pylOG0ntH_s",
+      "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
+      "published_at": "",
+      "url": "https://youtu.be/pylOG0ntH_s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pylOG0ntH_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

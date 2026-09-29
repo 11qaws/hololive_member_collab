@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1467,
+  "count": 1470,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16136,6 +16136,39 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wBpVBfwdODs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m0wMAE1en5E",
+      "title": "【 #朝こよ 】㊗300回‼️ホロメンに逆凸＆お祝いも⁉️火曜日の朝も朝こよ～！☀ #300 【博衣こより/hololive】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m0wMAE1en5E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jwTU4yXCkug",
+      "title": "【3D凸待ち】　何か新しい３Dのルームで凸待ちしたら誰か来てくれるのか検証してみる。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jwTU4yXCkug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "u1FB_xl768U",
+      "title": "🍺🍷酒でやらかす人たち　#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/u1FB_xl768U",
       "status": "unreviewed",
       "note": null
     }

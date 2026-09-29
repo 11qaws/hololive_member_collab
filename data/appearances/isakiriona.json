@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1204,
+  "count": 1206,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13243,6 +13243,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rw4O4dYQpKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xMRwvFGy8Q4",
+      "title": "逆様 / 響咲リオナ × 虎金妃笑虎(cover) 【ポルカドットスティングレイ/歌ってみた】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260923",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xMRwvFGy8Q4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x4aZIrVGLS0",
+      "title": "【🎤リオナを探せ👑】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x4aZIrVGLS0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1841,
+  "count": 1843,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20250,6 +20250,28 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sqYbZ4Eq580",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DsQ8TKxy4Jg",
+      "title": "【Minecraft #マイクラ肝試し2026】今日もまたふれわたーニャで肝試しのお散歩など！！！！！ 【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DsQ8TKxy4Jg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jwTU4yXCkug",
+      "title": "【3D凸待ち】　何か新しい３Dのルームで凸待ちしたら誰か来てくれるのか検証してみる。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jwTU4yXCkug",
       "status": "unreviewed",
       "note": null
     }

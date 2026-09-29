@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1213,
+  "count": 1215,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13342,6 +13342,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rw4O4dYQpKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPLaboyc6Fg",
+      "title": "【BOMBANANA!】エケチャンの皆様と爆弾解除！？【ホロライブ 響咲リオナ 】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPLaboyc6Fg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x4aZIrVGLS0",
+      "title": "【🎤リオナを探せ👑】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x4aZIrVGLS0",
       "status": "unreviewed",
       "note": null
     }

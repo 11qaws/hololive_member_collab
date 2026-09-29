@@ -1,7 +1,19 @@
 {
   "target": "nakiri_ayame",
-  "count": 1724,
+  "count": 1725,
   "entries": [
+    {
+      "video_id": "Jd6kk4OhJlM",
+      "title": "【俺だけレベルアップな件：KARMA】俺カル新作ゲーム事前プレイきちゃ!!【百鬼あやめ/ホロライブ】",
+      "published_at": "20260929",
+      "url": "https://youtu.be/Jd6kk4OhJlM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Jd6kk4OhJlM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "zBnInSNXS0Y",
       "title": "みっころね写真で一言やってみた結果ww #さくらみこ #ホロライブ切り抜き",
@@ -11091,24 +11103,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Z_9B2J1z_vY",
-      "title": "宵の余、良い! (Instrumental)",
-      "published_at": "20211005",
-      "url": "https://youtu.be/Z_9B2J1z_vY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Z_9B2J1z_vY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "uQR_JZpYAEU",
       "title": "宵の余、良い!",
       "published_at": "20211005",
       "url": "https://youtu.be/uQR_JZpYAEU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/uQR_JZpYAEU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Z_9B2J1z_vY",
+      "title": "宵の余、良い! (Instrumental)",
+      "published_at": "20211005",
+      "url": "https://youtu.be/Z_9B2J1z_vY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Z_9B2J1z_vY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

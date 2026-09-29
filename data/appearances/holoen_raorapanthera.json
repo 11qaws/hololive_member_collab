@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 762,
+  "count": 764,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8381,6 +8381,28 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wBpVBfwdODs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UAp6lMHvtBr",
+      "title": "Pokémon FireRed and LeafGreen NUZLOCKE w/ Raora",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UAp6lMHvtBr",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zuT0iIy1Oji",
+      "title": "holodori w/ Raora",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zuT0iIy1Oji",
       "status": "unreviewed",
       "note": null
     }

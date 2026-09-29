@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1665,
+  "count": 1666,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18314,6 +18314,17 @@
       "published_at": "20260925",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/s9zHPReS72Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m0wMAE1en5E",
+      "title": "【 #朝こよ 】㊗300回‼️ホロメンに逆凸＆お祝いも⁉️火曜日の朝も朝こよ～！☀ #300 【博衣こより/hololive】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m0wMAE1en5E",
       "status": "unreviewed",
       "note": null
     }

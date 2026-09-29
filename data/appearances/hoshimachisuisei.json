@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1485,
+  "count": 1486,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16334,6 +16334,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DMRYW68cB0M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CjZ6KMULOb4",
+      "title": "【#Fall Guys】めんたいココ、TOPへのたび【#桐生ココ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CjZ6KMULOb4",
       "status": "unreviewed",
       "note": null
     }

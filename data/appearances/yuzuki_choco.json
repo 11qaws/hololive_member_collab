@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1035,
+  "count": 1037,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11384,6 +11384,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/a7gN7nU0cr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WjNxzPtIHhI",
+      "title": "【#アキちょこナイパレ|第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち?|シスターローズの懺悔室~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WjNxzPtIHhI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CjZ6KMULOb4",
+      "title": "【#Fall Guys】めんたいココ、TOPへのたび【#桐生ココ】",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200818",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CjZ6KMULOb4",
       "status": "unreviewed",
       "note": null
     }

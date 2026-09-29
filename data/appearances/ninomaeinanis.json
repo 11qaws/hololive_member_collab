@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1149,
+  "count": 1150,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12638,6 +12638,17 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ucVbmV0bflw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NjvAkQy9FBI",
+      "title": "【MINECRAFT】TEST OF COURAGE 2026! with ⁨@HakosBaelz & @NinomaeInanis  #マイクラ肝試し2026",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NjvAkQy9FBI",
       "status": "unreviewed",
       "note": null
     }
