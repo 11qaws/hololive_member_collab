@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2124,
+  "count": 2125,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23363,6 +23363,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eCaOrzfsvSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O282u3LQMxs",
+      "title": "【手書き】得意なモノマネ…⁉️ #ホロライブ  #vtuber #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O282u3LQMxs",
       "status": "unreviewed",
       "note": null
     }

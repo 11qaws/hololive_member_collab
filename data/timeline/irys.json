@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 2127,
+  "count": 2128,
   "entries": [
     {
       "video_id": "Tl6G4uEzteS",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/Tl6G4uEzteS/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VToHFrkPpW0",
+      "title": "【CHADCast】EPISODE 2 - Falling into FALL",
+      "published_at": "20260929",
+      "url": "https://youtu.be/VToHFrkPpW0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VToHFrkPpW0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -17920,7 +17932,7 @@
     },
     {
       "video_id": "gvv0iNpElDU",
-      "title": "HERE COMES HOPE （Midnight ver.）",
+      "title": "HERE COMES HOPE (Midnight ver.)",
       "published_at": "20230120",
       "url": "https://youtu.be/gvv0iNpElDU",
       "entry_type": "stream",
@@ -20235,24 +20247,24 @@
       "paired_self": null
     },
     {
-      "video_id": "1IW5FEVUNZU",
-      "title": "One Step at a Time (Instrumental)",
-      "published_at": "20220629",
-      "url": "https://youtu.be/1IW5FEVUNZU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1IW5FEVUNZU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "pj9yqqTYa-E",
       "title": "One Step at a Time",
       "published_at": "20220629",
       "url": "https://youtu.be/pj9yqqTYa-E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/pj9yqqTYa-E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1IW5FEVUNZU",
+      "title": "One Step at a Time (Instrumental)",
+      "published_at": "20220629",
+      "url": "https://youtu.be/1IW5FEVUNZU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1IW5FEVUNZU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

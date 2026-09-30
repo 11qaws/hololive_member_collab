@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1215,
+  "count": 1221,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13364,6 +13364,72 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x4aZIrVGLS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9_3NHA6Amgw",
+      "title": "【#マイクラ肝試し2026】本編行くぞ!何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9_3NHA6Amgw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m03oad5dRIw",
+      "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ!「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m03oad5dRIw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vLN5q3b_2WI",
+      "title": "【#マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vLN5q3b_2WI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IquaQ2XcN-E",
+      "title": "【新ボイス】キミの全部、独り占め",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IquaQ2XcN-E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nUK_QjYgHbs",
+      "title": "【 ＃ホロドリ 】#お子様バッテリー は天井バッテリーじゃありません！いちぬーけた！！【ホロライブ/ ロボ子さん＆水宮枢 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nUK_QjYgHbs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kectzZz4WlA",
+      "title": "【 ＃ホロドリ 】新エリア解放した～い！ビンゴもしたい！なんか後ろから気配が…【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kectzZz4WlA",
       "status": "unreviewed",
       "note": null
     }

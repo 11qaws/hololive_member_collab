@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1292,
+  "count": 1294,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14211,6 +14211,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WrngqhuuMEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m03oad5dRIw",
+      "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ!「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m03oad5dRIw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9_3NHA6Amgw",
+      "title": "【#マイクラ肝試し2026】本編行くぞ!何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9_3NHA6Amgw",
       "status": "unreviewed",
       "note": null
     }

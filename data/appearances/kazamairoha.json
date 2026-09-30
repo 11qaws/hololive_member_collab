@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1060,
+  "count": 1062,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11659,6 +11659,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/a7gN7nU0cr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vLN5q3b_2WI",
+      "title": "【#マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vLN5q3b_2WI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m03oad5dRIw",
+      "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ!「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m03oad5dRIw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 999,
+  "count": 1004,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -10988,6 +10988,61 @@
       "published_at": "20260923",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uRQDfrH1hTg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Rv5QdnWbz7Y",
+      "title": "【hololive Dreams】 THESE 2 LADIES HAVE REALLY BIG HEARTS #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Rv5QdnWbz7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Tpd_eeg2NfM",
+      "title": "【hololive Dreams】 BACK IN OUR HOLOLIVE DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Tpd_eeg2NfM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2U64RtX8cwY",
+      "title": "【hololive Dreams】 WE'RE STILL DREAMING!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2U64RtX8cwY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5kRb9M0E5E4",
+      "title": "【hololive Dreams】 3 GIRLS 1 DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5kRb9M0E5E4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PJv4XSMhjps",
+      "title": "【hololive Dreams】 DREAMING TOGETHER IN HOLODORI!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PJv4XSMhjps",
       "status": "unreviewed",
       "note": null
     }

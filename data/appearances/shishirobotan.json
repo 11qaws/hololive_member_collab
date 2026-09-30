@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1654,
+  "count": 1655,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18193,6 +18193,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4xnApfWvjXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Wc1kJDN-xtQ",
+      "title": "【Machine Party】#いぬたかししらむ でガチやり合いするぞ",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Wc1kJDN-xtQ",
       "status": "unreviewed",
       "note": null
     }

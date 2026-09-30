@@ -1,10 +1,46 @@
 {
   "target": "omarupolka",
-  "count": 4539,
+  "count": 4542,
   "entries": [
     {
+      "video_id": "yZYwtj4cdvY",
+      "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/yZYwtj4cdvY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yZYwtj4cdvY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nbj6P1YQ7Dw",
+      "title": "【ホロドリ】夏は終わらない!!新エリアに新水着ガチャ!!!!【尾丸ポルカ/ホロライブ】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/nbj6P1YQ7Dw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nbj6P1YQ7Dw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IquaQ2XcN-E",
+      "title": "【新ボイス】キミの全部、独り占め",
+      "published_at": "20260929",
+      "url": "https://youtu.be/IquaQ2XcN-E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IquaQ2XcN-E/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "jYzhcVoSE0E",
-      "title": "【鳴潮】ついに「Ver.3.7」が解禁…!!その時ポルカは。【尾丸ポルカ/ホロライブ】",
+      "title": "【鳴潮】ついに「Ver.3.7」が解禁…！！その時ポルカは。【尾丸ポルカ/ホロライブ】",
       "published_at": "20260928",
       "url": "https://youtu.be/jYzhcVoSE0E",
       "entry_type": "stream",
@@ -16,7 +52,7 @@
     },
     {
       "video_id": "x0NWlpVEqD8",
-      "title": "【ホロドリ】今日からはじまった「スプラッシュボール」で遊ぼう!ホロ花火2026の告知もあるよ!!【尾丸ポルカ/博衣こより/ホロライブ】",
+      "title": "【ホロドリ】今日からはじまった「スプラッシュボール」で遊ぼう！ホロ花火2026の告知もあるよ！！【尾丸ポルカ/博衣こより/ホロライブ】",
       "published_at": "20260928",
       "url": "https://youtu.be/x0NWlpVEqD8",
       "entry_type": "stream",
@@ -76,7 +112,7 @@
     },
     {
       "video_id": "sq7dxX58tJw",
-      "title": "【OHAPOL】#206 9/28月曜日！ねぽっくす明けの一週間はじまり #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "title": "【OHAPOL】#206 9/28月曜日!ねぽっくす明けの一週間はじまり #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
       "published_at": "20260927",
       "url": "https://youtu.be/sq7dxX58tJw",
       "entry_type": "stream",
@@ -220,7 +256,7 @@
     },
     {
       "video_id": "ShgTs2dOmhc",
-      "title": "【OHAPOL】#204 9/24木曜日!伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "title": "【OHAPOL】#205 9/24木曜日!伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
       "published_at": "20260923",
       "url": "https://youtu.be/ShgTs2dOmhc",
       "entry_type": "stream",
@@ -32655,24 +32691,24 @@
       "paired_self": null
     },
     {
-      "video_id": "lZOJhreA5_o",
-      "title": "Twinkle 4 You(Instrumental)",
-      "published_at": "20230616",
-      "url": "https://youtu.be/lZOJhreA5_o",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "l8ekZ6RKQMg",
       "title": "Twinkle 4 You",
       "published_at": "20230616",
       "url": "https://youtu.be/l8ekZ6RKQMg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/l8ekZ6RKQMg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lZOJhreA5_o",
+      "title": "Twinkle 4 You(Instrumental)",
+      "published_at": "20230616",
+      "url": "https://youtu.be/lZOJhreA5_o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lZOJhreA5_o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -38931,24 +38967,24 @@
       "paired_self": null
     },
     {
-      "video_id": "7YJ1Dyoznms",
-      "title": "サイキョウチックポルカ",
-      "published_at": "20220816",
-      "url": "https://youtu.be/7YJ1Dyoznms",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7YJ1Dyoznms/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "F7RQo4pOc2g",
       "title": "サイキョウチックポルカ (Instrumental)",
       "published_at": "20220816",
       "url": "https://youtu.be/F7RQo4pOc2g",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/F7RQo4pOc2g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7YJ1Dyoznms",
+      "title": "サイキョウチックポルカ",
+      "published_at": "20220816",
+      "url": "https://youtu.be/7YJ1Dyoznms",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7YJ1Dyoznms/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -54387,18 +54423,6 @@
       "paired_self": null
     },
     {
-      "video_id": "q4eXcXl3BtI",
-      "title": "尾丸ポルカサーカス開演",
-      "published_at": "20200815",
-      "url": "https://youtu.be/q4eXcXl3BtI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "vbaff8W1Zrw",
       "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
       "published_at": "20200815",
@@ -54417,6 +54441,18 @@
       "url": "https://youtu.be/g4G7bbRhBaQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/g4G7bbRhBaQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q4eXcXl3BtI",
+      "title": "尾丸ポルカサーカス開演",
+      "published_at": "20200815",
+      "url": "https://youtu.be/q4eXcXl3BtI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,7 +1,19 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1537,
+  "count": 1538,
   "entries": [
+    {
+      "video_id": "LpnBAELPrKU",
+      "title": "【GREMBERS WORK STREAM】I WORKIN..WE WORKING!!!",
+      "published_at": "20260929",
+      "url": "https://youtu.be/LpnBAELPrKU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LpnBAELPrKU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "futPd6f5Gl4",
       "title": "【HEAVY RAIN】CCGG MADNESS! sleep deprived & with drinks!",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/futPd6f5Gl4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/futPd6f5Gl4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "P12JaQsz6W4",
+      "title": "【DRESSMAKER】making dresses with the grems!!!",
+      "published_at": "20260928",
+      "url": "https://youtu.be/P12JaQsz6W4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P12JaQsz6W4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,18 +47,6 @@
       "thumbnail": "https://img.youtube.com/vi/m0wMAE1en5E/mqdefault.jpg",
       "partner_handle": "hakuikoyori",
       "partner_name": "Koyori ch. 博衣こより - holoX -",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "P12JaQsz6W4",
-      "title": "【DRESSMAKER】making dresses with the grems!!!",
-      "published_at": "20260927",
-      "url": "https://youtu.be/P12JaQsz6W4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/P12JaQsz6W4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

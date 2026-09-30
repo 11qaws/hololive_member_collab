@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1974,
+  "count": 1975,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21713,6 +21713,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yk66EgbEulk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IquaQ2XcN-E",
+      "title": "【新ボイス】キミの全部、独り占め",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IquaQ2XcN-E",
       "status": "unreviewed",
       "note": null
     }

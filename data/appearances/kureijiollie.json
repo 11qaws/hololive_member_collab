@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1429,
+  "count": 1430,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15718,6 +15718,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QiATSYtmze4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ql-R2AG8KAM",
+      "title": "【Hololive Dreams】Can we clear this AREA 3 Story?!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ql-R2AG8KAM",
       "status": "unreviewed",
       "note": null
     }

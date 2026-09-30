@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1371,
+  "count": 1373,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15080,6 +15080,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x4aZIrVGLS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B5Mv14_L7aA",
+      "title": "【#マイクラ肝試し2026】ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B5Mv14_L7aA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LPnnr4wqwpg",
+      "title": "💚🩷🧡変ジェルで恋愛レボリューション踊ってみた💚🩷🧡",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LPnnr4wqwpg",
       "status": "unreviewed",
       "note": null
     }

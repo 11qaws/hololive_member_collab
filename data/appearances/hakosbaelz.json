@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1248,
+  "count": 1250,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13727,6 +13727,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NjvAkQy9FBI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VToHFrkPpW0",
+      "title": "【CHADCast】EPISODE 2 - Falling into FALL",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VToHFrkPpW0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HHJW85Ktmco",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF (BAE'S) COURAGE 2026 w/ @HakosBaelz & @holoen_ceciliaimmergreen !!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HHJW85Ktmco",
       "status": "unreviewed",
       "note": null
     }

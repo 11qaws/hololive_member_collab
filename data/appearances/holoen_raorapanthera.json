@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 764,
+  "count": 767,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8403,6 +8403,39 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zuT0iIy1Oji",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gJYSjJTHIOw",
+      "title": "【holodori】my cat teaches me all the games #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gJYSjJTHIOw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AN6UQsz2FrU",
+      "title": "【hololive Dreams】thanks Raora for the luck so i can pull the banner hehe【SMITTEN】 #holodori",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AN6UQsz2FrU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ln-2ywEVpTk",
+      "title": "rate this SMITTEN trapdoor challenge",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ln-2ywEVpTk",
       "status": "unreviewed",
       "note": null
     }

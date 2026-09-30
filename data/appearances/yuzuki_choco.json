@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1037,
+  "count": 1039,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11406,6 +11406,28 @@
       "published_at": "20200818",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CjZ6KMULOb4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vLN5q3b_2WI",
+      "title": "【#マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vLN5q3b_2WI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9_3NHA6Amgw",
+      "title": "【#マイクラ肝試し2026】本編行くぞ!何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9_3NHA6Amgw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1089,
+  "count": 1093,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -11978,6 +11978,50 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/t4_nfwdpeoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iZKj-rHFZIo",
+      "title": "【hololive Dreams】 DREAMS RIDING ON!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iZKj-rHFZIo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8XJSCqpX4Uo",
+      "title": "【hololive Dreams】 INDONESIAN TOGETHER STRONK #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8XJSCqpX4Uo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N6Aop1nYJB4",
+      "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N6Aop1nYJB4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JpiGbdrtGZA",
+      "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JpiGbdrtGZA",
       "status": "unreviewed",
       "note": null
     }

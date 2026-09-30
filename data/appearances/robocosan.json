@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1324,
+  "count": 1326,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14563,6 +14563,28 @@
       "published_at": "20201226",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ob46KW9KTvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XHb1GeACFjM",
+      "title": "【ホロドリ】ガチャ🌟お子様バッテリー100連対決❕天井はみない【水宮枢／ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XHb1GeACFjM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fMuuGaJz_Ok",
+      "title": "【 #ホロドリ 】新エリアに行きたーーい！！＃11【水宮枢／ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20260929",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fMuuGaJz_Ok",
       "status": "unreviewed",
       "note": null
     }
