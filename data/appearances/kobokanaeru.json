@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 770,
+  "count": 771,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8469,6 +8469,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QiATSYtmze4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rcForni7WLQ",
+      "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rcForni7WLQ",
       "status": "unreviewed",
       "note": null
     }

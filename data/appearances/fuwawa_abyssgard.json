@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1231,
+  "count": 1232,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -13540,6 +13540,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DMRYW68cB0M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eEYzBylw4ho",
+      "title": "Perfect travel plans🤦‍♀️#travel #summervacation #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eEYzBylw4ho",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2411,
+  "count": 2412,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26520,6 +26520,17 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DVjjsJWH50U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e4khfv6cZvQ",
+      "title": "【#マイクラ肝試し2026】みんなで怯えにいく【星街すいせい / #フブみこめっとさん】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e4khfv6cZvQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1524,
+  "count": 1527,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16763,6 +16763,39 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Tl6G4uEzteS",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPXaqk00utA",
+      "title": "【hololive Dreams】GRAONDSTONE vs VIEWERS til we win or else......... 【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPXaqk00utA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZHPtTHh2J8J",
+      "title": "HOLODORI WITH BIBOO AND KAELA!! ! #holodori",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZHPtTHh2J8J",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B7fT6-qr-Ds",
+      "title": "【hololive Dreams】GRINDSTONE is back after 67000 years #holodori",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B7fT6-qr-Ds",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1373,
+  "count": 1375,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15102,6 +15102,28 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LPnnr4wqwpg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kodrrCjkOM4",
+      "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kodrrCjkOM4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_d0YjZn9Fco",
+      "title": "【💬枢を探せ🔁💙】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_d0YjZn9Fco",
       "status": "unreviewed",
       "note": null
     }

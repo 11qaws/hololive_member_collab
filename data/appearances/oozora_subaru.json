@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2125,
+  "count": 2127,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23374,6 +23374,28 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/O282u3LQMxs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tjp0N7w6nQs",
+      "title": "【ホロドリ】BIG3でビンゴやるぞ～っ！！【​雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tjp0N7w6nQs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ugqd-zbuqyU",
+      "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ugqd-zbuqyU",
       "status": "unreviewed",
       "note": null
     }

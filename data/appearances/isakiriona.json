@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1207,
+  "count": 1208,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13276,6 +13276,17 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LPnnr4wqwpg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_d0YjZn9Fco",
+      "title": "【💬枢を探せ🔁💙】巨大な部屋でかくれんぼ🔭",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_d0YjZn9Fco",
       "status": "unreviewed",
       "note": null
     }

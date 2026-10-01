@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1431,
+  "count": 1435,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15740,6 +15740,50 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1jpKlGbDQNk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x38YQN5B9zk",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】ついに今年のMAP!!いくぞー!【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x38YQN5B9zk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JnCMZw3EQ1c",
+      "title": "【 #マイクラ肝試し2026 】ついに本番だ!肝試しだけど、ワクワクしてきたぞ!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JnCMZw3EQ1c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g4smL0VGEo0",
+      "title": "【hololive Dreams】 FISHING TIME!🐟 #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g4smL0VGEo0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7XrTMlJ0lLM",
+      "title": "【hololive Dreams】DAILY HOLODORI, WE GOING FISHING!!! #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7XrTMlJ0lLM",
       "status": "unreviewed",
       "note": null
     }

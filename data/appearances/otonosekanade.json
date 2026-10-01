@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1255,
+  "count": 1256,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13804,6 +13804,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WrngqhuuMEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yXxw4UUb_lc",
+      "title": "😰🍜にんにくいれますか? #hololive #ホロライブ #ホロぐら",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yXxw4UUb_lc",
       "status": "unreviewed",
       "note": null
     }

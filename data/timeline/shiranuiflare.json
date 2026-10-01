@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3917,
+  "count": 3921,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x38YQN5B9zk",
+      "title": "【 Minecraft / #マイクラ肝試し2026 】ついに今年のMAP!!いくぞー!【不知火フレア/ホロライブ】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/x38YQN5B9zk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x38YQN5B9zk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gI0BcBOkXH8",
+      "title": "【Super Chat】いつもありがとう！お礼＆ゆる雑談【不知火フレア/ホロライブ】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/gI0BcBOkXH8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gI0BcBOkXH8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0WX9Y5Q2JgM",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番!! 【hololive holoro | Anya Melfissa】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/0WX9Y5Q2JgM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0WX9Y5Q2JgM/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JnCMZw3EQ1c",
+      "title": "【 #マイクラ肝試し2026 】ついに本番だ!肝試しだけど、ワクワクしてきたぞ!!!【角巻わため/ホロライブ4期生】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/JnCMZw3EQ1c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JnCMZw3EQ1c/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

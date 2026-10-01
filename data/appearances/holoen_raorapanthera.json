@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 767,
+  "count": 769,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8436,6 +8436,28 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ln-2ywEVpTk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LDx8h1fxjcU",
+      "title": "【HOLOLIVE DREAMS】Graondstone be ballin #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LDx8h1fxjcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pPXaqk00utA",
+      "title": "【hololive Dreams】GRAONDSTONE vs VIEWERS til we win or else......... 【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pPXaqk00utA",
       "status": "unreviewed",
       "note": null
     }

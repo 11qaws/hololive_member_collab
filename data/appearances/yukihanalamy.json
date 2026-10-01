@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1380,
+  "count": 1382,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15179,6 +15179,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/u1FB_xl768U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n4eqMMG3mYE",
+      "title": "【#BIG3】ホロドリビンゴやるしゅばああああああああああああああああああああああああああああああああああああああああああああああ!!!!!!!!!!【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n4eqMMG3mYE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ugqd-zbuqyU",
+      "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ugqd-zbuqyU",
       "status": "unreviewed",
       "note": null
     }

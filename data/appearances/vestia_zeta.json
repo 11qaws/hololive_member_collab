@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1050,
+  "count": 1053,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11549,6 +11549,39 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1jpKlGbDQNk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_wYzBfR8cRs",
+      "title": "【hololive Dreams】 WHAT A DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_wYzBfR8cRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7XrTMlJ0lLM",
+      "title": "【hololive Dreams】DAILY HOLODORI, WE GOING FISHING!!! #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7XrTMlJ0lLM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rcForni7WLQ",
+      "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rcForni7WLQ",
       "status": "unreviewed",
       "note": null
     }

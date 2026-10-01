@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1594,
+  "count": 1596,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17533,6 +17533,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DsQ8TKxy4Jg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0WX9Y5Q2JgM",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番!! 【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0WX9Y5Q2JgM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JnCMZw3EQ1c",
+      "title": "【 #マイクラ肝試し2026 】ついに本番だ!肝試しだけど、ワクワクしてきたぞ!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JnCMZw3EQ1c",
       "status": "unreviewed",
       "note": null
     }

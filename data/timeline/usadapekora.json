@@ -1,16 +1,52 @@
 {
   "target": "usadapekora",
-  "count": 4738,
+  "count": 4741,
   "entries": [
     {
+      "video_id": "eFYByyw5AJc",
+      "title": "【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/eFYByyw5AJc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eFYByyw5AJc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "B5Mv14_L7aA",
-      "title": "【#マイクラ肝試し2026】ぺこ!【ホロライブ/兎田ぺこら】",
+      "title": "【＃マイクラ肝試し2026】3人で肝試しに挑む！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
       "published_at": "20260930",
       "url": "https://youtu.be/B5Mv14_L7aA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/B5Mv14_L7aA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kodrrCjkOM4",
+      "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW 】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/kodrrCjkOM4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kodrrCjkOM4/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JT0OscpSP5Y",
+      "title": "【#マイクラ肝試し2026】肝試しいくぞ～～～！！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/JT0OscpSP5Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JT0OscpSP5Y/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
