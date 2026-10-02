@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1435,
+  "count": 1437,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15784,6 +15784,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7XrTMlJ0lLM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_wYzBfR8cRs",
+      "title": "【hololive Dreams】 WHAT A DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_wYzBfR8cRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3vWscLxcJMo",
+      "title": "【holodori】not like i need you kobo, who cares about gacha anyway #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3vWscLxcJMo",
       "status": "unreviewed",
       "note": null
     }

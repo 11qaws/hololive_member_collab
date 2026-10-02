@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 595,
+  "count": 596,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6544,6 +6544,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/futPd6f5Gl4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 3104,
+  "count": 3106,
   "entries": [
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "published_at": "20261001",
+      "url": "https://youtu.be/eanypGa00ws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eanypGa00ws/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "m03oad5dRIw",
       "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ！「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
@@ -83,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/WjNxzPtIHhI/mqdefault.jpg",
       "partner_handle": "akirose",
       "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wp4tkF_Q_A4",
+      "title": "【告知】みんな集まれー!ホロわちゃ学園祭の最新情報&コーレス決め会議【#ホロわちゃ学園祭】【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20260928",
+      "url": "https://youtu.be/wp4tkF_Q_A4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wp4tkF_Q_A4/mqdefault.jpg",
+      "partner_handle": "ichijouririka",
+      "partner_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -37227,24 +37251,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Zd6Fl-wZVHk",
-      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/Zd6Fl-wZVHk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hTzLA7c04JM",
       "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/hTzLA7c04JM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd6Fl-wZVHk",
+      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/Zd6Fl-wZVHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

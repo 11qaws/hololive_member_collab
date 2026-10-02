@@ -1,7 +1,67 @@
 {
   "target": "airaniiofifteen",
-  "count": 3035,
+  "count": 3040,
   "entries": [
+    {
+      "video_id": "08qTq9agZ2Y",
+      "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/08qTq9agZ2Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/08qTq9agZ2Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BM0fxu3heIg",
+      "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/BM0fxu3heIg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BM0fxu3heIg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "published_at": "20261001",
+      "url": "https://youtu.be/eanypGa00ws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eanypGa00ws/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bUHDaMiNjmE",
+      "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
+      "published_at": "20261001",
+      "url": "https://youtu.be/bUHDaMiNjmE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bUHDaMiNjmE/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bgVbg9Xnt_0",
+      "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
+      "published_at": "20261001",
+      "url": "https://youtu.be/bgVbg9Xnt_0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/bgVbg9Xnt_0/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Xatu14OogO8",
       "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
@@ -15,24 +75,24 @@
       "paired_self": null
     },
     {
-      "video_id": "dy0y6uIvo6M",
-      "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
-      "published_at": "20260930",
-      "url": "https://youtu.be/dy0y6uIvo6M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dy0y6uIvo6M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "x9F-2UR4oJ8",
       "title": "【#holodori 】FC Songs!【 iofi / hololive】",
       "published_at": "20260930",
       "url": "https://youtu.be/x9F-2UR4oJ8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/x9F-2UR4oJ8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dy0y6uIvo6M",
+      "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/dy0y6uIvo6M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dy0y6uIvo6M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

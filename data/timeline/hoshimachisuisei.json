@@ -1,7 +1,19 @@
 {
   "target": "hoshimachisuisei",
-  "count": 3070,
+  "count": 3073,
   "entries": [
+    {
+      "video_id": "hfDz6XMp0Zk",
+      "title": "#ソーラン節 自由形、新居で踊ってみた🎶 #星街すいせい #dance",
+      "published_at": "20261001",
+      "url": "https://youtu.be/hfDz6XMp0Zk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hfDz6XMp0Zk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "IocPGciQay3",
       "title": "Minecraft Test of Courage 2026 w/ Miko & Suisei",
@@ -9,6 +21,30 @@
       "url": "https://youtu.be/IocPGciQay3",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/IocPGciQay3/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rskM0JyromY",
+      "title": "【#マイクラ肝試し2026】今年も３人で肝試しにいくにぇええええええええ！！👻【さくらみこ / #フブみこめっとさん】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/rskM0JyromY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rskM0JyromY/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d-5bPUqVbHk",
+      "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/d-5bPUqVbHk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/d-5bPUqVbHk/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
@@ -3543,24 +3579,24 @@
       "paired_self": null
     },
     {
-      "video_id": "2kp67GHIIXQ",
-      "title": "comet (TAKU INOUE Remix)",
-      "published_at": "20251226",
-      "url": "https://youtu.be/2kp67GHIIXQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/2kp67GHIIXQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "GBf_dIZUVIc",
       "title": "月に向かって撃て",
       "published_at": "20251226",
       "url": "https://youtu.be/GBf_dIZUVIc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/GBf_dIZUVIc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-MU1gg9dB6s",
+      "title": "月に向かって撃て (Instrumental)",
+      "published_at": "20251226",
+      "url": "https://youtu.be/-MU1gg9dB6s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-MU1gg9dB6s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3579,12 +3615,12 @@
       "paired_self": null
     },
     {
-      "video_id": "-MU1gg9dB6s",
-      "title": "月に向かって撃て (Instrumental)",
+      "video_id": "2kp67GHIIXQ",
+      "title": "comet (TAKU INOUE Remix)",
       "published_at": "20251226",
-      "url": "https://youtu.be/-MU1gg9dB6s",
+      "url": "https://youtu.be/2kp67GHIIXQ",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-MU1gg9dB6s/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/2kp67GHIIXQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -3963,24 +3999,24 @@
       "paired_self": null
     },
     {
-      "video_id": "E5hVng18OvA",
-      "title": "彗星",
-      "published_at": "20251204",
-      "url": "https://youtu.be/E5hVng18OvA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/E5hVng18OvA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "BzTNgHHXTRg",
       "title": "彗星 (Instrumental)",
       "published_at": "20251204",
       "url": "https://youtu.be/BzTNgHHXTRg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BzTNgHHXTRg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "E5hVng18OvA",
+      "title": "彗星",
+      "published_at": "20251204",
+      "url": "https://youtu.be/E5hVng18OvA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/E5hVng18OvA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26331,18 +26367,6 @@
       "paired_self": null
     },
     {
-      "video_id": "1gScCSRgupQ",
-      "title": "駆けろ(Instrumental)",
-      "published_at": "20210709",
-      "url": "https://youtu.be/1gScCSRgupQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1gScCSRgupQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "tHR9WFXBtjA",
       "title": "天球、彗星は夜を跨いで(Instrumental)",
       "published_at": "20210709",
@@ -26361,6 +26385,18 @@
       "url": "https://youtu.be/OF3W2m4lh2M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/OF3W2m4lh2M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1gScCSRgupQ",
+      "title": "駆けろ(Instrumental)",
+      "published_at": "20210709",
+      "url": "https://youtu.be/1gScCSRgupQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1gScCSRgupQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -26499,6 +26535,18 @@
       "paired_self": null
     },
     {
+      "video_id": "vCaVl0BxeqA",
+      "title": "Bluerose",
+      "published_at": "20210628",
+      "url": "https://youtu.be/vCaVl0BxeqA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "LpJXc5_uIak",
       "title": "Bluerose(Instrumental)",
       "published_at": "20210628",
@@ -26517,18 +26565,6 @@
       "url": "https://youtu.be/-qnJEqg1iqo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-qnJEqg1iqo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "vCaVl0BxeqA",
-      "title": "Bluerose",
-      "published_at": "20210628",
-      "url": "https://youtu.be/vCaVl0BxeqA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vCaVl0BxeqA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

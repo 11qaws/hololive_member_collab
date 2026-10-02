@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3493,
+  "count": 3494,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38422,6 +38422,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e4khfv6cZvQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rskM0JyromY",
+      "title": "【#マイクラ肝試し2026】今年も３人で肝試しにいくにぇええええええええ！！👻【さくらみこ / #フブみこめっとさん】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rskM0JyromY",
       "status": "unreviewed",
       "note": null
     }

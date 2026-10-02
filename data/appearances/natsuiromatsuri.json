@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1514,
+  "count": 1516,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16653,6 +16653,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jwTU4yXCkug",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wp4tkF_Q_A4",
+      "title": "【告知】みんな集まれー!ホロわちゃ学園祭の最新情報&コーレス決め会議【#ホロわちゃ学園祭】【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wp4tkF_Q_A4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2412,
+  "count": 2414,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26531,6 +26531,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/e4khfv6cZvQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CMlnK7XN8go",
+      "title": "【オフコラボ】#えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CMlnK7XN8go",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d-5bPUqVbHk",
+      "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d-5bPUqVbHk",
       "status": "unreviewed",
       "note": null
     }

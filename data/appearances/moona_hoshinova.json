@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1187,
+  "count": 1190,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13056,6 +13056,39 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rcForni7WLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_wYzBfR8cRs",
+      "title": "【hololive Dreams】 WHAT A DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_wYzBfR8cRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SHcVV3yE42E",
+      "title": "【hololive Dreams】Balling with the Girls 2: Electric Boogaloo #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SHcVV3yE42E",
       "status": "unreviewed",
       "note": null
     }

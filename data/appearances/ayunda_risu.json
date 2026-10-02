@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1093,
+  "count": 1095,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12022,6 +12022,28 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JpiGbdrtGZA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_wYzBfR8cRs",
+      "title": "【hololive Dreams】 WHAT A DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_wYzBfR8cRs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
       "status": "unreviewed",
       "note": null
     }

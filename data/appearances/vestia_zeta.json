@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1053,
+  "count": 1056,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11582,6 +11582,39 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rcForni7WLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "08qTq9agZ2Y",
+      "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/08qTq9agZ2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x9F-2UR4oJ8",
+      "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x9F-2UR4oJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bgVbg9Xnt_0",
+      "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bgVbg9Xnt_0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1846,
+  "count": 1848,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20305,6 +20305,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x38YQN5B9zk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vTac9JRkNcU",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番!! 【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vTac9JRkNcU",
       "status": "unreviewed",
       "note": null
     }

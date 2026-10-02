@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2127,
+  "count": 2128,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23396,6 +23396,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ugqd-zbuqyU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "F5TFEM8WkFg",
+      "title": "スバおかの絆について🤝 #VTuber #shorts #猫又おかゆ #大空スバル",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/F5TFEM8WkFg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1315,
+  "count": 1317,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14464,6 +14464,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_d0YjZn9Fco",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Tjy9Xmi5GUY",
+      "title": "💙💖すうヴィヴィで恋愛レボリューション踊ってみた💙💖",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Tjy9Xmi5GUY",
       "status": "unreviewed",
       "note": null
     }

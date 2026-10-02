@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1700,
+  "count": 1701,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18699,6 +18699,17 @@
       "published_at": "20260924",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Grg8l8bDXXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HMDpQW57xC0",
+      "title": "【#戌神ころね生誕祭2026】逆凸します！！！！！！！！！！！！【告知アリ★】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HMDpQW57xC0",
       "status": "unreviewed",
       "note": null
     }

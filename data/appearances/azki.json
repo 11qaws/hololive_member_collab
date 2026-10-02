@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1095,
+  "count": 1098,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12044,6 +12044,39 @@
       "published_at": "20260926",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dlq2aYuSN_M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X0qd75xcLp8",
+      "title": "【#ホロドリ】#あずいろ で朝釣り🎣やるしかないよな！乗れ！このビックウェーブ！！【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X0qd75xcLp8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HMDpQW57xC0",
+      "title": "【#戌神ころね生誕祭2026】逆凸します！！！！！！！！！！！！【告知アリ★】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HMDpQW57xC0",
       "status": "unreviewed",
       "note": null
     }

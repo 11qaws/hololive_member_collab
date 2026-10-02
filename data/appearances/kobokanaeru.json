@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 771,
+  "count": 774,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8480,6 +8480,39 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rcForni7WLQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "08qTq9agZ2Y",
+      "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/08qTq9agZ2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x9F-2UR4oJ8",
+      "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x9F-2UR4oJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bUHDaMiNjmE",
+      "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bUHDaMiNjmE",
       "status": "unreviewed",
       "note": null
     }

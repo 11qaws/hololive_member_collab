@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1447,
+  "count": 1449,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15916,6 +15916,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x0NWlpVEqD8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HterMbRKtNc",
+      "title": "【ホロドリ】母上が好きなミニキャラむちむちノエルで魂の釣りッッ!目標40種類!!(現在31種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HterMbRKtNc",
       "status": "unreviewed",
       "note": null
     }

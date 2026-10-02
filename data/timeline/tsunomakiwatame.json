@@ -1,7 +1,55 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5740,
+  "count": 5744,
   "entries": [
+    {
+      "video_id": "Zoz-ogvkQnw",
+      "title": "【 #ホロドリ 】すんごい景品が欲しいのでビンゴを頑張るひつじ!!!【角巻わため/ホロライブ4期生】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/Zoz-ogvkQnw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zoz-ogvkQnw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lYUqcfT2yqY",
+      "title": "「精励」なんて読むでしょう?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261001",
+      "url": "https://youtu.be/lYUqcfT2yqY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lYUqcfT2yqY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "published_at": "20261001",
+      "url": "https://youtu.be/eanypGa00ws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eanypGa00ws/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vTac9JRkNcU",
+      "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番!! 【hololive holoro | Anya Melfissa】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/vTac9JRkNcU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vTac9JRkNcU/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "JnCMZw3EQ1c",
       "title": "【 #マイクラ肝試し2026 】ついに本番だ!肝試しだけど、ワクワクしてきたぞ!!!【角巻わため/ホロライブ4期生】",
@@ -54699,24 +54747,24 @@
       "paired_self": null
     },
     {
-      "video_id": "31JxAFDb3xM",
-      "title": "キミだけのメロディ(Instrumental)",
-      "published_at": "20210702",
-      "url": "https://youtu.be/31JxAFDb3xM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/31JxAFDb3xM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9lfzTn8S5kA",
       "title": "キミだけのメロディ",
       "published_at": "20210702",
       "url": "https://youtu.be/9lfzTn8S5kA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/9lfzTn8S5kA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "31JxAFDb3xM",
+      "title": "キミだけのメロディ(Instrumental)",
+      "published_at": "20210702",
+      "url": "https://youtu.be/31JxAFDb3xM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/31JxAFDb3xM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -55515,18 +55563,6 @@
       "paired_self": null
     },
     {
-      "video_id": "rgSryslmpcU",
-      "title": "ホロライブ言えるかな?",
-      "published_at": "20210608",
-      "url": "https://youtu.be/rgSryslmpcU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/rgSryslmpcU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "WQvVeE05-MA",
       "title": "曇天羊",
       "published_at": "20210608",
@@ -55551,12 +55587,24 @@
       "paired_self": null
     },
     {
-      "video_id": "mOY_3cPQbrY",
-      "title": "クソザコ回線卒業!のうた",
+      "video_id": "-YvjkegAQgo",
+      "title": "わためラップ",
       "published_at": "20210608",
-      "url": "https://youtu.be/mOY_3cPQbrY",
+      "url": "https://youtu.be/-YvjkegAQgo",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/mOY_3cPQbrY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-YvjkegAQgo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rgSryslmpcU",
+      "title": "ホロライブ言えるかな?",
+      "published_at": "20210608",
+      "url": "https://youtu.be/rgSryslmpcU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rgSryslmpcU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -55575,12 +55623,12 @@
       "paired_self": null
     },
     {
-      "video_id": "-YvjkegAQgo",
-      "title": "わためラップ",
+      "video_id": "mOY_3cPQbrY",
+      "title": "クソザコ回線卒業!のうた",
       "published_at": "20210608",
-      "url": "https://youtu.be/-YvjkegAQgo",
+      "url": "https://youtu.be/mOY_3cPQbrY",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-YvjkegAQgo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/mOY_3cPQbrY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

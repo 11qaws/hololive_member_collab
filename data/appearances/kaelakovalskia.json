@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1111,
+  "count": 1112,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12220,6 +12220,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Bxw0S1GSMp8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LDx8h1fxjcU",
+      "title": "【HOLOLIVE DREAMS】Graondstone be ballin #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LDx8h1fxjcU",
       "status": "unreviewed",
       "note": null
     }

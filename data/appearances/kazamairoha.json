@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1062,
+  "count": 1063,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11681,6 +11681,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/m03oad5dRIw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QVI12l5PO6I",
+      "title": "【#ホロドリ】朝だ!釣りだ!あずいろだ!🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QVI12l5PO6I",
       "status": "unreviewed",
       "note": null
     }

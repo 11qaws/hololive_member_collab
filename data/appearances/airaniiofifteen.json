@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1144,
+  "count": 1147,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12583,6 +12583,39 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZL0vgsjJkNE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bUHDaMiNjmE",
+      "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bUHDaMiNjmE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bgVbg9Xnt_0",
+      "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bgVbg9Xnt_0",
       "status": "unreviewed",
       "note": null
     }

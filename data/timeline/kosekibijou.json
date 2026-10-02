@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2523,
+  "count": 2526,
   "entries": [
     {
       "video_id": "Tl6G4uEzteS",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/Tl6G4uEzteS/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3GT_OxyYoaE",
+      "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/3GT_OxyYoaE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3GT_OxyYoaE/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nwh-DuaVCfc",
+      "title": "【Resident Evil RE:4】What rhymes with fun? GUN!!!!",
+      "published_at": "20261001",
+      "url": "https://youtu.be/nwh-DuaVCfc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nwh-DuaVCfc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,12 +63,36 @@
       "paired_self": null
     },
     {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "published_at": "20261001",
+      "url": "https://youtu.be/eanypGa00ws",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eanypGa00ws/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Bxw0S1GSMp8",
       "title": "【HOLOLIVE DREAMS】KAELA WE HAVE TO FISH #holodori",
       "published_at": "20260930",
       "url": "https://youtu.be/Bxw0S1GSMp8",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Bxw0S1GSMp8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ig-fbNUYYFY",
+      "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN 【SPOILERS】",
+      "published_at": "20260930",
+      "url": "https://youtu.be/Ig-fbNUYYFY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ig-fbNUYYFY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/B7fT6-qr-Ds/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Ig-fbNUYYFY",
-      "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN 【SPOILERS】",
-      "published_at": "20260929",
-      "url": "https://youtu.be/Ig-fbNUYYFY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ig-fbNUYYFY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -30255,24 +30291,24 @@
       "paired_self": null
     },
     {
-      "video_id": "nJ-CPqxE9Q0",
-      "title": "【Armored Core 6】Activating Combat Mode! - #4",
-      "published_at": "",
-      "url": "https://youtu.be/nJ-CPqxE9Q0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "UPrSfuUGmgg",
       "title": "Biboo tank is real! #shorts #worldoftanksblitz",
       "published_at": "",
       "url": "https://youtu.be/UPrSfuUGmgg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/UPrSfuUGmgg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nJ-CPqxE9Q0",
+      "title": "【Armored Core 6】Activating Combat Mode! - #4",
+      "published_at": "",
+      "url": "https://youtu.be/nJ-CPqxE9Q0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nJ-CPqxE9Q0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

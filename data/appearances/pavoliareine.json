@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1005,
+  "count": 1006,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11054,6 +11054,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wM0vxENJliI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r824CVNNLUI",
+      "title": "【Hololive Dreams】play with reine and ollie again~【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r824CVNNLUI",
       "status": "unreviewed",
       "note": null
     }

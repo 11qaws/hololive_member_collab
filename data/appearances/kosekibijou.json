@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1527,
+  "count": 1529,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16796,6 +16796,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B7fT6-qr-Ds",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3GT_OxyYoaE",
+      "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3GT_OxyYoaE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
       "status": "unreviewed",
       "note": null
     }

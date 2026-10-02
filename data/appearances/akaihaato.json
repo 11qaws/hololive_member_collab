@@ -1,6 +1,6 @@
 {
   "target": "akaihaato",
-  "count": 740,
+  "count": 741,
   "appearances": [
     {
       "video_id": "dKhLn-042Yo",
@@ -8139,6 +8139,17 @@
       "published_at": "20201102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L62E3ec-Wcc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eanypGa00ws",
+      "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eanypGa00ws",
       "status": "unreviewed",
       "note": null
     }

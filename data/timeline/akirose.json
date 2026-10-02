@@ -1,10 +1,22 @@
 {
   "target": "akirose",
-  "count": 3473,
+  "count": 3474,
   "entries": [
     {
-      "video_id": "69FPzz6t7b4",
+      "video_id": "quExiPBBJPI",
       "title": "【ホロライブドリームス】新イベ水着ガチャコンプチャレンジ! #ホロドリ【ホロライブ/アキロゼ】",
+      "published_at": "20261001",
+      "url": "https://youtu.be/quExiPBBJPI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/quExiPBBJPI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "69FPzz6t7b4",
+      "title": "【ホロライブドリームス】新イベ水着ガチャコンプチャレンジ！ #ホロドリ【ホロライブ/アキロゼ】",
       "published_at": "20261001",
       "url": "https://youtu.be/69FPzz6t7b4",
       "entry_type": "stream",
@@ -52,7 +64,7 @@
     },
     {
       "video_id": "V65I-HIZsHw",
-      "title": "【ホロライブドリームス】新エリア遊びにいく！後半はメンバー限定でミニゲーム一緒にやりたい【ホロライブ/アキロゼ】",
+      "title": "【ホロライブドリームス】新エリア遊びにいく!後半はメンバー限定でミニゲーム一緒にやりたい【ホロライブ/アキロゼ】",
       "published_at": "20260929",
       "url": "https://youtu.be/V65I-HIZsHw",
       "entry_type": "stream",
@@ -30651,24 +30663,24 @@
       "paired_self": null
     },
     {
-      "video_id": "iuA06PWPB9U",
-      "title": "ヒロインオーディション",
-      "published_at": "20210217",
-      "url": "https://youtu.be/iuA06PWPB9U",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/iuA06PWPB9U/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "jNVqF2efWsY",
       "title": "ヒロインオーディション (Instrumental)",
       "published_at": "20210217",
       "url": "https://youtu.be/jNVqF2efWsY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jNVqF2efWsY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iuA06PWPB9U",
+      "title": "ヒロインオーディション",
+      "published_at": "20210217",
+      "url": "https://youtu.be/iuA06PWPB9U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iuA06PWPB9U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
