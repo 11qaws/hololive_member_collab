@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1313,
+  "count": 1315,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14442,6 +14442,28 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yk66EgbEulk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zoz-ogvkQnw",
+      "title": "【 #ホロドリ 】すんごい景品が欲しいのでビンゴを頑張るひつじ！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zoz-ogvkQnw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5uIZzkRsIXs",
+      "title": "【ホロライブ ドリームス】#ホロドリ 新MAPで遊ぶ🎣【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5uIZzkRsIXs",
       "status": "unreviewed",
       "note": null
     }

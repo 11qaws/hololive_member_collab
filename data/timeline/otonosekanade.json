@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2280,
+  "count": 2281,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AgIo8nOQxfE",
+      "title": "【手書き】トラックに引き篭り🚚  #vtuber #ホロライブ #animation",
+      "published_at": "20261003",
+      "url": "https://youtu.be/AgIo8nOQxfE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AgIo8nOQxfE/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27339,24 +27351,24 @@
       "paired_self": null
     },
     {
-      "video_id": "MBxH_i3bAhA",
-      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
-      "published_at": "",
-      "url": "https://youtu.be/MBxH_i3bAhA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "mVNF0Opghnc",
       "title": "【縦型 / スパチャ読み】先週の縦型歌枠のスパチャを読むむむ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published_at": "",
       "url": "https://youtu.be/mVNF0Opghnc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/mVNF0Opghnc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MBxH_i3bAhA",
+      "title": "【 NGテイク 】「SWEET STEP」踊ってみた！【 音乃瀬奏 】#shorts #hololive #dance",
+      "published_at": "",
+      "url": "https://youtu.be/MBxH_i3bAhA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MBxH_i3bAhA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

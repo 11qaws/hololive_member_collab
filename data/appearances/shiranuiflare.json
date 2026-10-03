@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1598,
+  "count": 1600,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17577,6 +17577,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vTac9JRkNcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kI6iZjoWQ1k",
+      "title": "【ホロライブドリームス】しんやのポカじゃん #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kI6iZjoWQ1k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zoz-ogvkQnw",
+      "title": "【 #ホロドリ 】すんごい景品が欲しいのでビンゴを頑張るひつじ！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zoz-ogvkQnw",
       "status": "unreviewed",
       "note": null
     }

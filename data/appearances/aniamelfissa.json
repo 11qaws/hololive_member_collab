@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1437,
+  "count": 1438,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15806,6 +15806,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3vWscLxcJMo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HGN3L1l8roQ",
+      "title": "【hololive Dreams】Reine & Anya Bonding Time #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HGN3L1l8roQ",
       "status": "unreviewed",
       "note": null
     }

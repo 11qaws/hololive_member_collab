@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1750,
+  "count": 1753,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19249,6 +19249,39 @@
       "published_at": "20260927",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iQlmYBCgLtI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gunryHFbKyw",
+      "title": "【トルネコの大冒険】大神ミオ初めての大冒険?!大丈夫そ? 【ネタバレあり】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gunryHFbKyw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pEJ_ZE0uRtA",
+      "title": "【 3D 】ソロライブ『REBELLION』続報解禁!関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pEJ_ZE0uRtA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "183AUMKOkas",
+      "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/183AUMKOkas",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 174,
+  "count": 175,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1913,6 +1913,17 @@
       "published_at": "20250111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3R1kcdYkx1I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pHJT-qfBiVE",
+      "title": "新曲「スキ⇄スキ☆うろぼろす」踊ってみたよ❣️ #shorts #ときのそら #ホロライブ",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pHJT-qfBiVE",
       "status": "unreviewed",
       "note": null
     }

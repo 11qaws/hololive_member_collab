@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1848,
+  "count": 1850,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20327,6 +20327,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vTac9JRkNcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kI6iZjoWQ1k",
+      "title": "【ホロライブドリームス】しんやのポカじゃん #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kI6iZjoWQ1k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5uIZzkRsIXs",
+      "title": "【ホロライブ ドリームス】#ホロドリ 新MAPで遊ぶ🎣【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5uIZzkRsIXs",
       "status": "unreviewed",
       "note": null
     }

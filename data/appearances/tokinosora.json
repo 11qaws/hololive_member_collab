@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 855,
+  "count": 856,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9404,6 +9404,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eanypGa00ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VpyheJQL14J",
+      "title": "VTuber Music Radio \"VR!\" #150 | Guest: Tokino Sora",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VpyheJQL14J",
       "status": "unreviewed",
       "note": null
     }

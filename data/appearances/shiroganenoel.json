@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1807,
+  "count": 1808,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19876,6 +19876,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0A_KrE4s1K8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VSxQqM-2QwA",
+      "title": "【 #ホロ甲2026 】みんなでBBQ(ベースボールクイズ)!⚾✨【白銀ノエル・尾丸ポルカ・響咲リオナ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VSxQqM-2QwA",
       "status": "unreviewed",
       "note": null
     }

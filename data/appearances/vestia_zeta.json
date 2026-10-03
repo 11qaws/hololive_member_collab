@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1056,
+  "count": 1057,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11615,6 +11615,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bgVbg9Xnt_0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z3_J7k_DahM",
+      "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z3_J7k_DahM",
       "status": "unreviewed",
       "note": null
     }

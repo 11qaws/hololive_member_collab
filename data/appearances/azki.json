@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1098,
+  "count": 1100,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12077,6 +12077,28 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HMDpQW57xC0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pTI-wUj2VAs",
+      "title": "今なにしてる？ #hololive #ホロライブ #KoZMy #ケーキ #setlog風",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pTI-wUj2VAs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ApdKf_cAiCw",
+      "title": "今なにしてる? #hololive #ホロライブ #KoZMy #ケーキ #setlog風",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ApdKf_cAiCw",
       "status": "unreviewed",
       "note": null
     }

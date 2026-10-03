@@ -1,6 +1,6 @@
 {
   "target": "murasakishion",
-  "count": 542,
+  "count": 543,
   "appearances": [
     {
       "video_id": "tA81jxo_kPQ",
@@ -5961,6 +5961,17 @@
       "published_at": "20200309",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tv7CrwCafs0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "183AUMKOkas",
+      "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/183AUMKOkas",
       "status": "unreviewed",
       "note": null
     }

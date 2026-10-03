@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1006,
+  "count": 1007,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11065,6 +11065,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r824CVNNLUI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l8Y2IWmtJ9Y",
+      "title": "【hololive Dreams ホロライブドリームス】Reinya Dreams【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l8Y2IWmtJ9Y",
       "status": "unreviewed",
       "note": null
     }

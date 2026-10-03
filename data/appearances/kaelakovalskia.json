@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1112,
+  "count": 1113,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12231,6 +12231,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LDx8h1fxjcU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fO__81BV1cg",
+      "title": "【HOLOLIVE DREAMS】Graondstone everyday #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fO__81BV1cg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1449,
+  "count": 1451,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15938,6 +15938,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HterMbRKtNc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pTI-wUj2VAs",
+      "title": "今なにしてる？ #hololive #ホロライブ #KoZMy #ケーキ #setlog風",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pTI-wUj2VAs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ApdKf_cAiCw",
+      "title": "今なにしてる? #hololive #ホロライブ #KoZMy #ケーキ #setlog風",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ApdKf_cAiCw",
       "status": "unreviewed",
       "note": null
     }

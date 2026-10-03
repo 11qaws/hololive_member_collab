@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1256,
+  "count": 1257,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13815,6 +13815,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yXxw4UUb_lc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AgIo8nOQxfE",
+      "title": "【手書き】トラックに引き篭り🚚  #vtuber #ホロライブ #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AgIo8nOQxfE",
       "status": "unreviewed",
       "note": null
     }

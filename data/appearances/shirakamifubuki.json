@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3494,
+  "count": 3498,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38433,6 +38433,50 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rskM0JyromY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pEJ_ZE0uRtA",
+      "title": "【 3D 】ソロライブ『REBELLION』続報解禁!関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pEJ_ZE0uRtA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kI6iZjoWQ1k",
+      "title": "【ホロライブドリームス】しんやのポカじゃん #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kI6iZjoWQ1k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zoz-ogvkQnw",
+      "title": "【 #ホロドリ 】すんごい景品が欲しいのでビンゴを頑張るひつじ！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261001",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zoz-ogvkQnw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5uIZzkRsIXs",
+      "title": "【ホロライブ ドリームス】#ホロドリ 新MAPで遊ぶ🎣【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5uIZzkRsIXs",
       "status": "unreviewed",
       "note": null
     }
