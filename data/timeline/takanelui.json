@@ -1,7 +1,43 @@
 {
   "target": "takanelui",
-  "count": 4015,
+  "count": 4018,
   "entries": [
+    {
+      "video_id": "5g1i3Zxzi6I",
+      "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
+      "published_at": "20261004",
+      "url": "https://youtu.be/5g1i3Zxzi6I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5g1i3Zxzi6I/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZNzyrv24iVI",
+      "title": "【初体験!】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする?】#5",
+      "published_at": "20261003",
+      "url": "https://youtu.be/ZNzyrv24iVI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZNzyrv24iVI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "82H8NTimtvM",
+      "title": "【 ダービースタリオン２ 】枠とりなおし！推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261003",
+      "url": "https://youtu.be/82H8NTimtvM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/82H8NTimtvM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "pEJ_ZE0uRtA",
       "title": "【 3D 】ソロライブ『REBELLION』続報解禁!関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
@@ -16,7 +52,7 @@
     },
     {
       "video_id": "ieiWUGMQ-oE",
-      "title": "【 ダービースタリオン2 】推しジョッキー騎乗の馬をG1で活躍させたい!!!【鷹嶺ルイ/ホロライブ】",
+      "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
       "published_at": "20261002",
       "url": "https://youtu.be/ieiWUGMQ-oE",
       "entry_type": "stream",
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "M5it5mDf5H4",
-      "title": "【 ドラゴンクエスト ビルダーズ 】いざ、新しいエリアへ…!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "title": "【 ドラゴンクエスト ビルダーズ 】いざ、新しいエリアへ…！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
       "published_at": "20261002",
       "url": "https://youtu.be/M5it5mDf5H4",
       "entry_type": "stream",
@@ -64,7 +100,7 @@
     },
     {
       "video_id": "8o8SVRKsiT8",
-      "title": "【 告知あり！ 】フワモコとルイが絡んでる切り抜きを一緒にみよう‼【鷹嶺ルイ/ホロライブ】",
+      "title": "【 告知あり! 】フワモコとルイが絡んでる切り抜きを一緒にみよう‼【鷹嶺ルイ/ホロライブ】",
       "published_at": "20261002",
       "url": "https://youtu.be/8o8SVRKsiT8",
       "entry_type": "stream",
@@ -48159,24 +48195,24 @@
       "paired_self": null
     },
     {
-      "video_id": "t5OuGLdg2NM",
-      "title": "【🌠L’s 星座シリーズ壁紙配布中🌠】 大好評の星座シリーズ継続決定‼ 今月は♈牡羊座-ARIES-♈ イラスト＆デザイン担当は・・・ 石原竜也様（ https://x.com/cur",
-      "published_at": "",
-      "url": "https://youtu.be/t5OuGLdg2NM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/t5OuGLdg2NM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "do75rY_QGCg",
       "title": "テスト",
       "published_at": "",
       "url": "https://youtu.be/do75rY_QGCg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/do75rY_QGCg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t5OuGLdg2NM",
+      "title": "【🌠L’s 星座シリーズ壁紙配布中🌠】 大好評の星座シリーズ継続決定‼ 今月は♈牡羊座-ARIES-♈ イラスト＆デザイン担当は・・・ 石原竜也様（ https://x.com/cur",
+      "published_at": "",
+      "url": "https://youtu.be/t5OuGLdg2NM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t5OuGLdg2NM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

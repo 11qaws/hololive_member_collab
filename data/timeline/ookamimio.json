@@ -1,7 +1,19 @@
 {
   "target": "ookamimio",
-  "count": 4144,
+  "count": 4146,
   "entries": [
+    {
+      "video_id": "5g1i3Zxzi6I",
+      "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
+      "published_at": "20261004",
+      "url": "https://youtu.be/5g1i3Zxzi6I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5g1i3Zxzi6I/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "gunryHFbKyw",
       "title": "【トルネコの大冒険】大神ミオ初めての大冒険?!大丈夫そ? 【ネタバレあり】",
@@ -27,9 +39,21 @@
       "paired_self": null
     },
     {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/62AgiXDP3tU/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "oYX-9RRlg98",
       "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園!【 ホロライブ / 大神ミオ 】",
-      "published_at": "20260930",
+      "published_at": "20261001",
       "url": "https://youtu.be/oYX-9RRlg98",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oYX-9RRlg98/mqdefault.jpg",
@@ -7983,24 +8007,24 @@
       "paired_self": null
     },
     {
-      "video_id": "SBLh1Z6XuCQ",
-      "title": "Colorful Universe",
-      "published_at": "20250819",
-      "url": "https://youtu.be/SBLh1Z6XuCQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/SBLh1Z6XuCQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Pb99o_S6ZmE",
       "title": "小心旅行",
       "published_at": "20250819",
       "url": "https://youtu.be/Pb99o_S6ZmE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Pb99o_S6ZmE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SBLh1Z6XuCQ",
+      "title": "Colorful Universe",
+      "published_at": "20250819",
+      "url": "https://youtu.be/SBLh1Z6XuCQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SBLh1Z6XuCQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1113,
+  "count": 1115,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12242,6 +12242,28 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fO__81BV1cg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HcMk0V0gTiU",
+      "title": "【hololive Dreams】 teamwork....? #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HcMk0V0gTiU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-0x6FCG85yw",
+      "title": "【hololive Dreams】holoh3ro doing things #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-0x6FCG85yw",
       "status": "unreviewed",
       "note": null
     }

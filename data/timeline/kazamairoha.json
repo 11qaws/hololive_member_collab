@@ -1,7 +1,31 @@
 {
   "target": "kazamairoha",
-  "count": 2410,
+  "count": 2413,
   "entries": [
+    {
+      "video_id": "vcIlbVGqwVQ",
+      "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY1🎣【風真いろは/ホロライブ】",
+      "published_at": "20261003",
+      "url": "https://youtu.be/vcIlbVGqwVQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vcIlbVGqwVQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_eoys4PnW54",
+      "title": "【#マイクラ肝試し2026】ルルイエ駆け込み寺🐟めざせ1500点📍【風真いろは/ホロライブ】",
+      "published_at": "20261003",
+      "url": "https://youtu.be/_eoys4PnW54",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_eoys4PnW54/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "isiBH6e0IWE",
       "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
@@ -15,8 +39,20 @@
       "paired_self": null
     },
     {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/62AgiXDP3tU/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "X0qd75xcLp8",
-      "title": "【#ホロドリ】#あずいろ で朝釣り🎣やるしかないよな！乗れ！このビックウェーブ！！【風真いろは/ホロライブ】",
+      "title": "【#ホロドリ】#あずいろ で朝釣り🎣やるしかないよな!乗れ!このビックウェーブ!!【風真いろは/ホロライブ】",
       "published_at": "20261001",
       "url": "https://youtu.be/X0qd75xcLp8",
       "entry_type": "stream",
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "h84I9LS58V8",
-      "title": "【#マイクラ肝試し2026】十怪談に終止符を！！ミニゲームも遊びたい！【風真いろは/ホロライブ】",
+      "title": "【#マイクラ肝試し2026】十怪談に終止符を!!ミニゲームも遊びたい!【風真いろは/ホロライブ】",
       "published_at": "20261001",
       "url": "https://youtu.be/h84I9LS58V8",
       "entry_type": "stream",
@@ -28899,24 +28935,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LzCnTk-qJTg",
-      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
-      "published_at": "",
-      "url": "https://youtu.be/LzCnTk-qJTg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "eziLCxfAF4w",
       "title": "【】急遽お仕事が外になってしまったので時間ずれるます😭【風真いろは/ホロライブ】",
       "published_at": "",
       "url": "https://youtu.be/eziLCxfAF4w",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/eziLCxfAF4w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LzCnTk-qJTg",
+      "title": "ホロライブ五目並べ最強侍(？)だぞ！！#shorts",
+      "published_at": "",
+      "url": "https://youtu.be/LzCnTk-qJTg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LzCnTk-qJTg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

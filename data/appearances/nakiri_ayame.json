@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 933,
+  "count": 935,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10262,6 +10262,28 @@
       "published_at": "20260919",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zBnInSNXS0Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5g1i3Zxzi6I",
+      "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5g1i3Zxzi6I",
       "status": "unreviewed",
       "note": null
     }

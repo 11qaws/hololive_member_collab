@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2129,
+  "count": 2130,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23418,6 +23418,17 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/183AUMKOkas",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ffiRtvdubvA",
+      "title": "#2【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ffiRtvdubvA",
       "status": "unreviewed",
       "note": null
     }

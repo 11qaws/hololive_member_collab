@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 3467,
+  "count": 3468,
   "entries": [
     {
       "video_id": "183AUMKOkas",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/183AUMKOkas",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/183AUMKOkas/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ffiRtvdubvA",
+      "title": "#2【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20261003",
+      "url": "https://youtu.be/ffiRtvdubvA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ffiRtvdubvA/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
       "sub_entries": [],
@@ -28,7 +40,7 @@
     },
     {
       "video_id": "RpBVO8AoGiY",
-      "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら!!!#1【姫森ルーナ/ホロライブ】※ネタバレあり",
+      "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃１【姫森ルーナ/ホロライブ】※ネタバレあり",
       "published_at": "20261002",
       "url": "https://youtu.be/RpBVO8AoGiY",
       "entry_type": "stream",
@@ -53,7 +65,7 @@
     {
       "video_id": "Ilw5E3EE8oM",
       "title": "10月がやってきたのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-      "published_at": "20260930",
+      "published_at": "20261001",
       "url": "https://youtu.be/Ilw5E3EE8oM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Ilw5E3EE8oM/mqdefault.jpg",
@@ -35547,24 +35559,24 @@
       "paired_self": null
     },
     {
-      "video_id": "EvOQ9Bu2lHo",
-      "title": "枠バグ【スーパーメトロイド #END】English only stream!! 英語縛りでクリア耐久なのら…！【姫森ルーナ/ホロライブ】 ",
-      "published_at": "20200915",
-      "url": "https://youtu.be/EvOQ9Bu2lHo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EvOQ9Bu2lHo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "WOmIT7u_yhw",
       "title": "枠バグ【スーパーメトロイド #END】English only stream!! 英語縛りでクリア耐久なのら…！【姫森ルーナ/ホロライブ】 ",
       "published_at": "20200915",
       "url": "https://youtu.be/WOmIT7u_yhw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WOmIT7u_yhw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EvOQ9Bu2lHo",
+      "title": "枠バグ【スーパーメトロイド #END】English only stream!! 英語縛りでクリア耐久なのら…！【姫森ルーナ/ホロライブ】 ",
+      "published_at": "20200915",
+      "url": "https://youtu.be/EvOQ9Bu2lHo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EvOQ9Bu2lHo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -41583,24 +41595,24 @@
       "paired_self": null
     },
     {
-      "video_id": "a-p-xw5LoyA",
-      "title": "【 FOAMSTARS 】FOAMSTARS PARTY in ホロライブ開催なのら～！.。o○【姫森ルーナ/ホロライブ】",
-      "published_at": "",
-      "url": "https://youtu.be/a-p-xw5LoyA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/a-p-xw5LoyA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "M5lg-yZmBzI",
       "title": "【 ドラゴンクエストV 】PS2版ドラクエ5 やるのらあああ！　#04【姫森ルーナ/ホロライブ】※ネタバレあり",
       "published_at": "",
       "url": "https://youtu.be/M5lg-yZmBzI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/M5lg-yZmBzI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "a-p-xw5LoyA",
+      "title": "【 FOAMSTARS 】FOAMSTARS PARTY in ホロライブ開催なのら～！.。o○【姫森ルーナ/ホロライブ】",
+      "published_at": "",
+      "url": "https://youtu.be/a-p-xw5LoyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/a-p-xw5LoyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

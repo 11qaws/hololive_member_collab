@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1438,
+  "count": 1442,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15817,6 +15817,50 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HGN3L1l8roQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Rv5QdnWbz7Y",
+      "title": "【hololive Dreams】WHOA MORE COLLABS #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Rv5QdnWbz7Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sk2dBKF7mAk",
+      "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sk2dBKF7mAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hzs0kNAzMPw",
+      "title": "【Hololive Dreams】Just play with the rythm【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hzs0kNAzMPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Tpd_eeg2NfM",
+      "title": "【hololive Dreams】 BACK TO RHYTHM GAMES!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Tpd_eeg2NfM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 773,
+  "count": 774,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8502,6 +8502,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fO__81BV1cg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LgKKqwoKPsM",
+      "title": "【THE JUSTICE HOTLINE】JUSTICE NEW OUTFIT COLLAB!!! LET'S HAVE SOME FUN!",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20260930",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LgKKqwoKPsM",
       "status": "unreviewed",
       "note": null
     }

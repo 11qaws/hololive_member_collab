@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1490,
+  "count": 1491,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16389,6 +16389,17 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Wc1kJDN-xtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5g1i3Zxzi6I",
+      "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5g1i3Zxzi6I",
       "status": "unreviewed",
       "note": null
     }

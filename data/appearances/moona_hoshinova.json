@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1190,
+  "count": 1192,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13089,6 +13089,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SHcVV3yE42E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TyeutXf70YI",
+      "title": "【hololive Dreams ホロライブドリームス】Morning Casual Rhythm Gaming~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TyeutXf70YI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nNHUv2Zyd_w",
+      "title": "【#holodori 】KEYBOAAAARDDDDD with @MoonaHoshinova @KureijiOllie 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nNHUv2Zyd_w",
       "status": "unreviewed",
       "note": null
     }

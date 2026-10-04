@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 856,
+  "count": 857,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9415,6 +9415,17 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VpyheJQL14J",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "En1EljuZYUo",
+      "title": "【雑談＆お礼】rakuでお喋り🍀ウェスタからお届け⛲【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/En1EljuZYUo",
       "status": "unreviewed",
       "note": null
     }
