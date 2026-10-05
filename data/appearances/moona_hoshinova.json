@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1192,
+  "count": 1195,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13111,6 +13111,39 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nNHUv2Zyd_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VshCIU0Xlsk",
+      "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VshCIU0Xlsk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7RD4-JhQXXM",
+      "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7RD4-JhQXXM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OcrFeHBqyUc",
+      "title": "【hololive Dreams】The Holocoins are in My Dreams (w/ holoro+Moona) #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OcrFeHBqyUc",
       "status": "unreviewed",
       "note": null
     }

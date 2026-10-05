@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1064,
+  "count": 1067,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11703,6 +11703,39 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Snk0CJCQOa8",
+      "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Snk0CJCQOa8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sk2dBKF7mAk",
+      "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sk2dBKF7mAk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ech6Av1CBko",
+      "title": "【アニメ】時間停止スイッチを手に入れた",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ech6Av1CBko",
       "status": "unreviewed",
       "note": null
     }

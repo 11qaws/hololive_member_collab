@@ -1,7 +1,55 @@
 {
   "target": "kaelakovalskia",
-  "count": 2897,
+  "count": 2901,
   "entries": [
+    {
+      "video_id": "UMPz1NYk-F4",
+      "title": "【hololive Dreams】r we gonna pokajan? 🤔【#holodori】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/UMPz1NYk-F4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UMPz1NYk-F4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aWEVjgkAp5M",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "published_at": "20261004",
+      "url": "https://youtu.be/aWEVjgkAp5M",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/aWEVjgkAp5M/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QLFzIZAMMDA",
+      "title": "【#holodori 】MINI GAMES with @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/QLFzIZAMMDA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QLFzIZAMMDA/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Io9ANLBGnxE",
+      "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
+      "published_at": "20261004",
+      "url": "https://youtu.be/Io9ANLBGnxE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Io9ANLBGnxE/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "3wdBknpZaso",
       "title": "【How to Fish】time to clear the game😎【SKJ】",

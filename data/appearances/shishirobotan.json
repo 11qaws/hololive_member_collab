@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1655,
+  "count": 1656,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18204,6 +18204,17 @@
       "published_at": "20260929",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Wc1kJDN-xtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BsKbBSIsaiI",
+      "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た!集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BsKbBSIsaiI",
       "status": "unreviewed",
       "note": null
     }

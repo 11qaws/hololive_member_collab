@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1263,
+  "count": 1264,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13892,6 +13892,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HMDpQW57xC0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hSJKa-b1VpM",
+      "title": "【えかきうた大合戦】✨絵心あるおれたちの戦い✨【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hSJKa-b1VpM",
       "status": "unreviewed",
       "note": null
     }

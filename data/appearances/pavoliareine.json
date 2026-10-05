@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1007,
+  "count": 1011,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11076,6 +11076,50 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/l8Y2IWmtJ9Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KqwaaYDR_4M",
+      "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KqwaaYDR_4M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKrHPv8ok7w",
+      "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKrHPv8ok7w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fCjfQKA_yic",
+      "title": "【Hololive Dreams】Play play play!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fCjfQKA_yic",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7RD4-JhQXXM",
+      "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7RD4-JhQXXM",
       "status": "unreviewed",
       "note": null
     }

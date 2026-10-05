@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1228,
+  "count": 1231,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13507,6 +13507,39 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AUJ4kJNAtIk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Snk0CJCQOa8",
+      "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Snk0CJCQOa8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0S3uMJoLPm0",
+      "title": "[ 🫣02 ]見えない2択に答えてみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0S3uMJoLPm0",
       "status": "unreviewed",
       "note": null
     }

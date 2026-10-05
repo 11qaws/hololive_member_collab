@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1319,
+  "count": 1324,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14508,6 +14508,61 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AUJ4kJNAtIk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BsKbBSIsaiI",
+      "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た!集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BsKbBSIsaiI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0S3uMJoLPm0",
+      "title": "[ 🫣02 ]見えない2択に答えてみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0S3uMJoLPm0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ein8l4JJj3Q",
+      "title": "閃いちゃった!【ホロライブ / AZKi】#ぷちあず #shorts #ダジャレASMRバトル2 #hololive #ASMR",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ein8l4JJj3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U2jdhO5Co9Q",
+      "title": "【手書き】卒アルのギャップが、、⁉️ #vtuber #hololive #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U2jdhO5Co9Q",
       "status": "unreviewed",
       "note": null
     }

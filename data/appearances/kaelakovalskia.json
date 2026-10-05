@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1115,
+  "count": 1118,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12264,6 +12264,39 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-0x6FCG85yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aWEVjgkAp5M",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aWEVjgkAp5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QLFzIZAMMDA",
+      "title": "【#holodori 】MINI GAMES with @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QLFzIZAMMDA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Io9ANLBGnxE",
+      "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Io9ANLBGnxE",
       "status": "unreviewed",
       "note": null
     }

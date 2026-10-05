@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1600,
+  "count": 1601,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17599,6 +17599,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Zoz-ogvkQnw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BsKbBSIsaiI",
+      "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た!集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BsKbBSIsaiI",
       "status": "unreviewed",
       "note": null
     }

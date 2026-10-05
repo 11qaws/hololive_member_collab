@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1451,
+  "count": 1453,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15960,6 +15960,28 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ApdKf_cAiCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ech6Av1CBko",
+      "title": "【アニメ】時間停止スイッチを手に入れた",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ech6Av1CBko",
       "status": "unreviewed",
       "note": null
     }

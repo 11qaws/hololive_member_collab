@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3927,
+  "count": 3929,
   "entries": [
     {
       "video_id": "g12nSDueGve",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/g12nSDueGve/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive-EN",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8eTyUBTN6Oo",
+      "title": "#12【ほの暮しの庭】ED後 親密度とかDLCとかチルいスローライフ【不知火フレア/ホロライブ】※ネタバレあり",
+      "published_at": "20261004",
+      "url": "https://youtu.be/8eTyUBTN6Oo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8eTyUBTN6Oo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BsKbBSIsaiI",
+      "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た!集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ4期生】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/BsKbBSIsaiI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BsKbBSIsaiI/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27375,24 +27399,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LndV_sp65kk",
-      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
-      "published_at": "20220322",
-      "url": "https://youtu.be/LndV_sp65kk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AByRY55F9_A",
       "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
       "published_at": "20220322",
       "url": "https://youtu.be/AByRY55F9_A",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LndV_sp65kk",
+      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
+      "published_at": "20220322",
+      "url": "https://youtu.be/LndV_sp65kk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

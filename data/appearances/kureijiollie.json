@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1441,
+  "count": 1446,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15850,6 +15850,61 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nNHUv2Zyd_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tK9PUUu9Gok",
+      "title": "【BOMBANANA!】【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tK9PUUu9Gok",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IKrHPv8ok7w",
+      "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IKrHPv8ok7w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fCjfQKA_yic",
+      "title": "【Hololive Dreams】Play play play!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fCjfQKA_yic",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7RD4-JhQXXM",
+      "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7RD4-JhQXXM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OcrFeHBqyUc",
+      "title": "【hololive Dreams】The Holocoins are in My Dreams (w/ holoro+Moona) #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OcrFeHBqyUc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3498,
+  "count": 3500,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38477,6 +38477,28 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5uIZzkRsIXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ech6Av1CBko",
+      "title": "【アニメ】時間停止スイッチを手に入れた",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ech6Av1CBko",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ein8l4JJj3Q",
+      "title": "閃いちゃった!【ホロライブ / AZKi】#ぷちあず #shorts #ダジャレASMRバトル2 #hololive #ASMR",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ein8l4JJj3Q",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1487,
+  "count": 1489,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16356,6 +16356,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eH7o6DetM6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FUQ2VFrTIA4",
+      "title": "#MWMEU の #IVI さん ( ‪@mwmeu_official_kr )と莉々華が一緒に #LuckyLoud 踊ってみた✨ #ReGLOSS #一条莉々華 #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FUQ2VFrTIA4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ein8l4JJj3Q",
+      "title": "閃いちゃった!【ホロライブ / AZKi】#ぷちあず #shorts #ダジャレASMRバトル2 #hololive #ASMR",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ein8l4JJj3Q",
       "status": "unreviewed",
       "note": null
     }

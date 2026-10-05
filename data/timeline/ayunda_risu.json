@@ -1,7 +1,19 @@
 {
   "target": "ayunda_risu",
-  "count": 2923,
+  "count": 2924,
   "entries": [
+    {
+      "video_id": "Fz14pr9BkMI",
+      "title": "M o n d a y",
+      "published_at": "20261005",
+      "url": "https://youtu.be/Fz14pr9BkMI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Fz14pr9BkMI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "eanypGa00ws",
       "title": "【新ボイス】ハロウィンの夜、7つの誘惑に溺れてみませんか?",
@@ -1899,12 +1911,12 @@
       "paired_self": null
     },
     {
-      "video_id": "toMMyF1ZxKM",
-      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+      "video_id": "1PxEmKQvM70",
+      "title": "【RISU VERSION】MIR//or 【KARAOKE】",
       "published_at": "20260622",
-      "url": "https://youtu.be/toMMyF1ZxKM",
+      "url": "https://youtu.be/1PxEmKQvM70",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/1PxEmKQvM70/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35055,24 +35067,24 @@
       "paired_self": null
     },
     {
-      "video_id": "h_7u630S0Bk",
-      "title": "FIRST OF APRIL !!! IT'S UNARCHIVED KARAOKE TIME !! 🎤🎤🎤 Whar songs are we gonna sing ~? Tune in t",
-      "published_at": "",
-      "url": "https://youtu.be/h_7u630S0Bk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/h_7u630S0Bk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "cWZuAf3qk1Q",
       "title": "test",
       "published_at": "",
       "url": "https://youtu.be/cWZuAf3qk1Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/cWZuAf3qk1Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "h_7u630S0Bk",
+      "title": "FIRST OF APRIL !!! IT'S UNARCHIVED KARAOKE TIME !! 🎤🎤🎤 Whar songs are we gonna sing ~? Tune in t",
+      "published_at": "",
+      "url": "https://youtu.be/h_7u630S0Bk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/h_7u630S0Bk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

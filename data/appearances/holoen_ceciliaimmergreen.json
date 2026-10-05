@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 795,
+  "count": 796,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8744,6 +8744,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KpCdU2wEHYs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P_C91D1fKqM",
+      "title": "【Cover MV】Guren no Yumiya 【hololive -Justice-】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P_C91D1fKqM",
       "status": "unreviewed",
       "note": null
     }

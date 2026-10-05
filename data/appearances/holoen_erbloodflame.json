@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 597,
+  "count": 598,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6566,6 +6566,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LgKKqwoKPsM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P_C91D1fKqM",
+      "title": "【Cover MV】Guren no Yumiya 【hololive -Justice-】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P_C91D1fKqM",
       "status": "unreviewed",
       "note": null
     }

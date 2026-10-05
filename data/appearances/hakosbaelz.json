@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1252,
+  "count": 1253,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13771,6 +13771,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FBzhfRM8f0Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GlGQAjenYqs",
+      "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GlGQAjenYqs",
       "status": "unreviewed",
       "note": null
     }

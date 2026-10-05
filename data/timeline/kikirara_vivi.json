@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2574,
+  "count": 2581,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Svxm5cI4ZiQ",
+      "title": "【#ホロドリ 】みんな！お昼のホロドリ だよおお【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/Svxm5cI4ZiQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Svxm5cI4ZiQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wW2QC1K7ZTY",
+      "title": "【#ホロドリ 】新エリア！！🎣釣りとスプラッシュボール 【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/wW2QC1K7ZTY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wW2QC1K7ZTY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,6 +63,54 @@
       "paired_self": null
     },
     {
+      "video_id": "BsKbBSIsaiI",
+      "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た!集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ4期生】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/BsKbBSIsaiI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BsKbBSIsaiI/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0S3uMJoLPm0",
+      "title": "[ 🫣02 ]見えない2択に答えてみた",
+      "published_at": "20261004",
+      "url": "https://youtu.be/0S3uMJoLPm0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0S3uMJoLPm0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ein8l4JJj3Q",
+      "title": "閃いちゃった!【ホロライブ / AZKi】#ぷちあず #shorts #ダジャレASMRバトル2 #hololive #ASMR",
+      "published_at": "20261004",
+      "url": "https://youtu.be/Ein8l4JJj3Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Ein8l4JJj3Q/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "U2jdhO5Co9Q",
+      "title": "【手書き】卒アルのギャップが、、⁉️ #vtuber #hololive #animation",
+      "published_at": "20261004",
+      "url": "https://youtu.be/U2jdhO5Co9Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/U2jdhO5Co9Q/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "_r8eHwqMvNA",
       "title": "【ホロライブ ドリームス】新エリア！！みんな教えて！！！！！ #ホロドリ 【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
       "published_at": "20261003",
@@ -52,7 +124,7 @@
     },
     {
       "video_id": "DM-7SD5_llE",
-      "title": "【 デス桃太郎 】これはホラー！？挑戦してみる！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
+      "title": "【 デス桃太郎 】これはホラー!?挑戦してみる!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published_at": "20261003",
       "url": "https://youtu.be/DM-7SD5_llE",
       "entry_type": "stream",
@@ -131,6 +203,18 @@
       "thumbnail": "https://img.youtube.com/vi/LW53FHLiC0U/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/62AgiXDP3tU/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -268,7 +352,7 @@
     },
     {
       "video_id": "YEPeiI1l2Mc",
-      "title": "【#ホロドリ 】新エリアきちゃ！音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【#ホロドリ 】新エリアきちゃ!音ゲー初心者!hololive Dreamsやってみる!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published_at": "20260929",
       "url": "https://youtu.be/YEPeiI1l2Mc",
       "entry_type": "stream",
@@ -340,7 +424,7 @@
     },
     {
       "video_id": "j4JY1472xjA",
-      "title": "マリン船長のきゃぴ！いくつになっても〜💘 #vtuber#dance #shorts #宝鐘マリン",
+      "title": "マリン船長のきゃぴ!いくつになっても〜💘 #vtuber#dance #shorts #宝鐘マリン",
       "published_at": "20260927",
       "url": "https://youtu.be/j4JY1472xjA",
       "entry_type": "stream",
@@ -30807,24 +30891,24 @@
       "paired_self": null
     },
     {
-      "video_id": "XIY3l0VI14k",
-      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
-      "published_at": "20241107",
-      "url": "https://youtu.be/XIY3l0VI14k",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "fDTGc5FhjCI",
       "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
       "published_at": "20241107",
       "url": "https://youtu.be/fDTGc5FhjCI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/fDTGc5FhjCI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XIY3l0VI14k",
+      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
+      "published_at": "20241107",
+      "url": "https://youtu.be/XIY3l0VI14k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30855,12 +30939,12 @@
       "paired_self": null
     },
     {
-      "video_id": "-OUvYpkxlVo",
-      "title": "💖⋱メンバーシップ限定壁紙配布⋰💖\n3月はなんと‼️\nPCとスマホ用の2パターンご用意しました✨ 春をテーマに制服ヴィヴィと綺麗な桜が最高に美しいです(自分で言う) いろんな出会いがあるなかで\nヴ",
+      "video_id": "oou7vZOqsrY",
+      "title": "【 縦型歌枠 】70万人耐久歌枠！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published_at": "",
-      "url": "https://youtu.be/-OUvYpkxlVo",
+      "url": "https://youtu.be/oou7vZOqsrY",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-OUvYpkxlVo/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/oou7vZOqsrY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -30879,12 +30963,12 @@
       "paired_self": null
     },
     {
-      "video_id": "oou7vZOqsrY",
-      "title": "【 縦型歌枠 】70万人耐久歌枠！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "video_id": "-OUvYpkxlVo",
+      "title": "💖⋱メンバーシップ限定壁紙配布⋰💖\n3月はなんと‼️\nPCとスマホ用の2パターンご用意しました✨ 春をテーマに制服ヴィヴィと綺麗な桜が最高に美しいです(自分で言う) いろんな出会いがあるなかで\nヴ",
       "published_at": "",
-      "url": "https://youtu.be/oou7vZOqsrY",
+      "url": "https://youtu.be/-OUvYpkxlVo",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oou7vZOqsrY/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-OUvYpkxlVo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

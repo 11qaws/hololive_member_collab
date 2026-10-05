@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2161,
+  "count": 2163,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/H8HnESpsUoQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GrSSOy9G5_c",
+      "title": "【朝(昼)ドリ#3】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ 響咲リオナ】#ホロドリ",
+      "published_at": "20261004",
+      "url": "https://youtu.be/GrSSOy9G5_c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GrSSOy9G5_c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0S3uMJoLPm0",
+      "title": "[ 🫣02 ]見えない2択に答えてみた",
+      "published_at": "20261004",
+      "url": "https://youtu.be/0S3uMJoLPm0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0S3uMJoLPm0/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +75,18 @@
       "paired_self": null
     },
     {
+      "video_id": "pAVsnFge6tA",
+      "title": "【朝ドリ#2】新エリア遊んでいく❤ビンゴも埋めたい・・!【ホロライブ  響咲リオナ】#ホロドリ",
+      "published_at": "20261003",
+      "url": "https://youtu.be/pAVsnFge6tA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pAVsnFge6tA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "AUJ4kJNAtIk",
       "title": "『good enough』公開1周年】 #shorts #flowglow  #ホロライブ #hololive",
       "published_at": "20261003",
@@ -59,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/AUJ4kJNAtIk/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "pAVsnFge6tA",
-      "title": "【朝ドリ#2】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ 響咲リオナ】#ホロドリ",
-      "published_at": "20261002",
-      "url": "https://youtu.be/pAVsnFge6tA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/pAVsnFge6tA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -25887,30 +25911,6 @@
       "paired_self": null
     },
     {
-      "video_id": "GMv9AlmncJ8",
-      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/GMv9AlmncJ8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "d7mYLP8c6LE",
-      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
-      "published_at": "",
-      "url": "https://youtu.be/d7mYLP8c6LE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "sa4kyeVj9Wk",
       "title": "【Dance practice】LOAD 響咲リオナver",
       "published_at": "",
@@ -25923,12 +25923,36 @@
       "paired_self": null
     },
     {
+      "video_id": "GMv9AlmncJ8",
+      "title": "【縦型歌枠】そこのあなた！歌聴いていかない？♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/GMv9AlmncJ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GMv9AlmncJ8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "f2x5-aQuSzA",
       "title": "Riona Ch. 響咲リオナ - FLOW GLOW がライブ配信中！",
       "published_at": "",
       "url": "https://youtu.be/f2x5-aQuSzA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/f2x5-aQuSzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d7mYLP8c6LE",
+      "title": "【縦型歌枠】ちょっと久々の歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "",
+      "url": "https://youtu.be/d7mYLP8c6LE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/d7mYLP8c6LE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

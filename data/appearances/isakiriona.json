@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1212,
+  "count": 1213,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13331,6 +13331,17 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AUJ4kJNAtIk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0S3uMJoLPm0",
+      "title": "[ 🫣02 ]見えない2択に答えてみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0S3uMJoLPm0",
       "status": "unreviewed",
       "note": null
     }

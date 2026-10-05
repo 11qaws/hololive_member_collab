@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1058,
+  "count": 1062,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11637,6 +11637,50 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-0x6FCG85yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aWEVjgkAp5M",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aWEVjgkAp5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QLFzIZAMMDA",
+      "title": "【#holodori 】MINI GAMES with @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QLFzIZAMMDA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UMPz1NYk-F4",
+      "title": "【hololive Dreams】r we gonna pokajan? 🤔【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UMPz1NYk-F4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1100,
+  "count": 1101,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12099,6 +12099,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ApdKf_cAiCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ech6Av1CBko",
+      "title": "【アニメ】時間停止スイッチを手に入れた",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ech6Av1CBko",
       "status": "unreviewed",
       "note": null
     }
