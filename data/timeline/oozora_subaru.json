@@ -1,7 +1,31 @@
 {
   "target": "oozora_subaru",
-  "count": 4920,
+  "count": 4922,
   "entries": [
+    {
+      "video_id": "KmNhWB4fcFI",
+      "title": "【】【ホロライブ/大空スバル】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/KmNhWB4fcFI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KmNhWB4fcFI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BOjKLly-bLQ",
+      "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
+      "published_at": "20261004",
+      "url": "https://youtu.be/BOjKLly-bLQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BOjKLly-bLQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "PSZCVpDgW5Q",
       "title": "【 SPAGHET 】スバルからパスタの宅配です🍝【ホロライブ/夏色まつり】",
@@ -75,18 +99,6 @@
       "paired_self": null
     },
     {
-      "video_id": "BOjKLly-bLQ",
-      "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-      "published_at": "20261002",
-      "url": "https://youtu.be/BOjKLly-bLQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BOjKLly-bLQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "Iw8_HkwkpeY",
       "title": "【#最終回】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ!!!!!： Higurashi When They Cry: Solution watching party【大空スバル】",
       "published_at": "20261002",
@@ -95,6 +107,18 @@
       "thumbnail": "https://img.youtube.com/vi/Iw8_HkwkpeY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "published_at": "20261002",
+      "url": "https://youtu.be/62AgiXDP3tU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/62AgiXDP3tU/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },

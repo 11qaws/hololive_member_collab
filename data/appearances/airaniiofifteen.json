@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1153,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12682,6 +12682,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UMPz1NYk-F4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7eb00QzNZ5Q",
+      "title": "【No Man Sky】Finally! NMS with Yopipi!!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7eb00QzNZ5Q",
       "status": "unreviewed",
       "note": null
     }

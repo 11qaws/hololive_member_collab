@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 175,
+  "count": 177,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1924,6 +1924,28 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pHJT-qfBiVE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MxpAOjgZX3Y",
+      "title": "【#アキちょこナイパレ|第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち?|ちょこのお悩み相談室~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MxpAOjgZX3Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C-lMgD8XIXo",
+      "title": "バンドリハで第二形態になっちゃった連打打打打打⚡️ #デジタリックリリック #ときのそら #shorts",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C-lMgD8XIXo",
       "status": "unreviewed",
       "note": null
     }

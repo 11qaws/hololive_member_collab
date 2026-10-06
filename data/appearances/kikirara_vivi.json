@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1324,
+  "count": 1325,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14563,6 +14563,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U2jdhO5Co9Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bthZ99mipXM",
+      "title": "[ 🫣03 ]見えない2択に答えてみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bthZ99mipXM",
       "status": "unreviewed",
       "note": null
     }

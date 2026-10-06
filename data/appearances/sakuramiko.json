@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2414,
+  "count": 2416,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26553,6 +26553,28 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/d-5bPUqVbHk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WmmhxWD1j2s",
+      "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか?レオン・ヘレナ編【#みこったかにぇ/ホロライブ】ネタバレあり",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WmmhxWD1j2s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1232,
+  "count": 1233,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -13551,6 +13551,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eEYzBylw4ho",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrEseXtUDNU",
       "status": "unreviewed",
       "note": null
     }

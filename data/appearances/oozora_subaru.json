@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2132,
+  "count": 2133,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23451,6 +23451,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w_QlfNcwYZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "62AgiXDP3tU",
+      "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261002",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/62AgiXDP3tU",
       "status": "unreviewed",
       "note": null
     }

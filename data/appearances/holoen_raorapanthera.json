@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 775,
+  "count": 777,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8524,6 +8524,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P_C91D1fKqM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrEseXtUDNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HucXvavmB7U",
+      "title": "【hololive Dreams】hmmm what should SMITTEN do today【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HucXvavmB7U",
       "status": "unreviewed",
       "note": null
     }

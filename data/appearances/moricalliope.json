@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1473,
+  "count": 1477,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16202,6 +16202,50 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KekKaW9XaPw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrEseXtUDNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qfV_Xy-6HCo",
+      "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qfV_Xy-6HCo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6KQSmoJPNbE",
+      "title": "≪hololive Dreams≫ +1890 coins #holodori",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6KQSmoJPNbE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pEJ_ZE0uRtA",
+      "title": "【 3D 】ソロライブ『REBELLION』続報解禁!関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261004",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pEJ_ZE0uRtA",
       "status": "unreviewed",
       "note": null
     }

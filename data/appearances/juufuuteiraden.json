@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 924,
+  "count": 925,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10163,6 +10163,17 @@
       "published_at": "20261001",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Js9u091mNZg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_n4FYrCbkSI",
+      "title": "🐈学芸員が猫にギリつけててもおかしくない名前20選 #hololive #ホロライブ #芸術",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_n4FYrCbkSI",
       "status": "unreviewed",
       "note": null
     }

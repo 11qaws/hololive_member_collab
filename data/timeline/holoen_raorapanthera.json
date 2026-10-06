@@ -1,7 +1,55 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1373,
+  "count": 1376,
   "entries": [
+    {
+      "video_id": "L0u4JCHYWfU",
+      "title": "【The Dandelion Endures.】A VERY DURABLE FLOWER",
+      "published_at": "20261005",
+      "url": "https://youtu.be/L0u4JCHYWfU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L0u4JCHYWfU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "published_at": "20261005",
+      "url": "https://youtu.be/zrEseXtUDNU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zrEseXtUDNU/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HucXvavmB7U",
+      "title": "【hololive Dreams】hmmm what should SMITTEN do today【#holodori】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/HucXvavmB7U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HucXvavmB7U/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JYsWj4sXeYw",
+      "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CasualRao",
+      "published_at": "20261004",
+      "url": "https://youtu.be/JYsWj4sXeYw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JYsWj4sXeYw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "P_C91D1fKqM",
       "title": "【Cover MV】Guren no Yumiya 【hololive -Justice-】",
@@ -119,18 +167,6 @@
       "thumbnail": "https://img.youtube.com/vi/eanypGa00ws/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "JYsWj4sXeYw",
-      "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CasualRao",
-      "published_at": "20260930",
-      "url": "https://youtu.be/JYsWj4sXeYw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JYsWj4sXeYw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

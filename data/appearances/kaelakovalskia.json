@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1118,
+  "count": 1120,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12297,6 +12297,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Io9ANLBGnxE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zwOysulSv68",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zwOysulSv68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "R_rO5A22qDE",
+      "title": "【hololive Dreams】we feesh all the way #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/R_rO5A22qDE",
       "status": "unreviewed",
       "note": null
     }

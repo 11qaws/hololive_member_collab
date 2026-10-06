@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1151,
+  "count": 1153,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12660,6 +12660,28 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GlGQAjenYqs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrEseXtUDNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6KQSmoJPNbE",
+      "title": "≪hololive Dreams≫ +1890 coins #holodori",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6KQSmoJPNbE",
       "status": "unreviewed",
       "note": null
     }

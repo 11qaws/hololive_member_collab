@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1492,
+  "count": 1493,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16411,6 +16411,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TIJctYljVA0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "be5J_EMObHI",
+      "title": "holodori w/ Reine & Lui",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/be5J_EMObHI",
       "status": "unreviewed",
       "note": null
     }

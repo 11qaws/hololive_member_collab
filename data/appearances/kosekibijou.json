@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1531,
+  "count": 1532,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16840,6 +16840,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W2O1OWa7p98",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zrEseXtUDNU",
+      "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zrEseXtUDNU",
       "status": "unreviewed",
       "note": null
     }

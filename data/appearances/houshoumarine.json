@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1704,
+  "count": 1705,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18743,6 +18743,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w_QlfNcwYZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kub1-xkf2Bk",
+      "title": "【超朗報アリ!】全員一致クイズで3期生の絆を確かめる!ぺこ!【3D】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kub1-xkf2Bk",
       "status": "unreviewed",
       "note": null
     }

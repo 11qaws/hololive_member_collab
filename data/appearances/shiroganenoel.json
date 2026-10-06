@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1810,
+  "count": 1811,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19909,6 +19909,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hPB32B6gS8o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kub1-xkf2Bk",
+      "title": "【超朗報アリ!】全員一致クイズで3期生の絆を確かめる!ぺこ!【3D】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20260928",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kub1-xkf2Bk",
       "status": "unreviewed",
       "note": null
     }

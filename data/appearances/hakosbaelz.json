@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1253,
+  "count": 1254,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13782,6 +13782,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GlGQAjenYqs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qfV_Xy-6HCo",
+      "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qfV_Xy-6HCo",
       "status": "unreviewed",
       "note": null
     }
