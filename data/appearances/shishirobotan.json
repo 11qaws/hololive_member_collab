@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1656,
+  "count": 1658,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18215,6 +18215,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BsKbBSIsaiI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OJP8X-YEZYw",
+      "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ!【 #SSholoX /ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OJP8X-YEZYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xhYUcXSiiz4",
+      "title": "【幻想水滸伝】教えて!幻想水滸伝!!【ホロライブ/大空スバル 姫森ルーナ 獅白ぼたん】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xhYUcXSiiz4",
       "status": "unreviewed",
       "note": null
     }

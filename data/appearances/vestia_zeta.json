@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1064,
+  "count": 1068,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11703,6 +11703,50 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lr_18KNe0k0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "II1-2CzVUAU",
+      "title": "Gak boleh sembarang \"EHEK\" #shorts #hololive #vtuber #kobokanaeru #kobokan",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/II1-2CzVUAU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ywYTR7ACjj4",
+      "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ywYTR7ACjj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hXmclHy8JDw",
+      "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hXmclHy8JDw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FFH9wmgDjJo",
+      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FFH9wmgDjJo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1254,
+  "count": 1255,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13793,6 +13793,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qfV_Xy-6HCo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8HOdd59nt3M",
+      "title": "【1-2-Switch】Promise 3D Off Collab + Announcement​",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8HOdd59nt3M",
       "status": "unreviewed",
       "note": null
     }

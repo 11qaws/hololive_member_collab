@@ -1,7 +1,19 @@
 {
   "target": "tokoyamitowa",
-  "count": 3804,
+  "count": 3805,
   "entries": [
+    {
+      "video_id": "hIWW9gvcYJE",
+      "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、アステル、のあ→渋ハル　【常闇トワ/ホロライブ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/hIWW9gvcYJE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hIWW9gvcYJE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "99JQOLiWDLo",
       "title": "【 第11回CRカップAPEX 】#とことこうるふぃWIN 🏆️※遅延有り【常闇トワ / ホロライブ】",
@@ -7431,24 +7443,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Afj_iZ_04ME",
-      "title": "バズビバザヴ",
-      "published_at": "20251007",
-      "url": "https://youtu.be/Afj_iZ_04ME",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "KcJKbMtIFfg",
       "title": "不可視",
       "published_at": "20251007",
       "url": "https://youtu.be/KcJKbMtIFfg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/KcJKbMtIFfg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Afj_iZ_04ME",
+      "title": "バズビバザヴ",
+      "published_at": "20251007",
+      "url": "https://youtu.be/Afj_iZ_04ME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Afj_iZ_04ME/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -21327,24 +21339,24 @@
       "paired_self": null
     },
     {
-      "video_id": "llLjylG44DQ",
-      "title": "Present Day",
-      "published_at": "20230926",
-      "url": "https://youtu.be/llLjylG44DQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "oXAObuOS1U4",
       "title": "サンビタリア",
       "published_at": "20230926",
       "url": "https://youtu.be/oXAObuOS1U4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oXAObuOS1U4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "llLjylG44DQ",
+      "title": "Present Day",
+      "published_at": "20230926",
+      "url": "https://youtu.be/llLjylG44DQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/llLjylG44DQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

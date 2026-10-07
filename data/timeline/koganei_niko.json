@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1725,
+  "count": 1727,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yRAZZhFDQ2w",
+      "title": "【質問コーナー】大変紳士的な質問達に答えてみました【Vlog】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/yRAZZhFDQ2w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yRAZZhFDQ2w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qH2z0fxwPaU",
+      "title": "最上級にかわいいの!全員で踊ってみた💘",
+      "published_at": "20261006",
+      "url": "https://youtu.be/qH2z0fxwPaU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qH2z0fxwPaU/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -20667,6 +20691,18 @@
       "paired_self": null
     },
     {
+      "video_id": "v9ea3cDKhX4",
+      "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
+      "published_at": "",
+      "url": "https://youtu.be/v9ea3cDKhX4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "pylOG0ntH_s",
       "title": "【歌枠】今宵も虎の遠吠え聞かせてやるゼ！【虎金妃笑虎】",
       "published_at": "",
@@ -20685,18 +20721,6 @@
       "url": "https://youtu.be/TK6OchILmqw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/TK6OchILmqw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "v9ea3cDKhX4",
-      "title": "【ホロのスイカ】スイカのゲームで気持ちよくなるッ！【虎金妃笑虎】",
-      "published_at": "",
-      "url": "https://youtu.be/v9ea3cDKhX4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/v9ea3cDKhX4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

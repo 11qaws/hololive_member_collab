@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1257,
+  "count": 1260,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13826,6 +13826,39 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AgIo8nOQxfE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r9WlsCrnq6M",
+      "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね??【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r9WlsCrnq6M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kM8BgRxJcZI",
+      "title": "【 BOMBANANA! 】先輩です、しばかないでください!!!!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kM8BgRxJcZI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8ydoQLxJyc4",
+      "title": "【#アヒヨコ】プールを経営して爆稼ぎしゅばああああああああああああああああああああああああああああああああ!!!!!!：Waterpark Simulator【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8ydoQLxJyc4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 3396,
+  "count": 3400,
   "entries": [
     {
       "video_id": "EPLPJX11dwI",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/EPLPJX11dwI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ywYTR7ACjj4",
+      "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/ywYTR7ACjj4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ywYTR7ACjj4/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hXmclHy8JDw",
+      "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/hXmclHy8JDw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hXmclHy8JDw/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zQYztohcqME",
+      "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
+      "published_at": "20261006",
+      "url": "https://youtu.be/zQYztohcqME",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zQYztohcqME/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FFH9wmgDjJo",
+      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+      "published_at": "20261006",
+      "url": "https://youtu.be/FFH9wmgDjJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FFH9wmgDjJo/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,6 +87,30 @@
       "paired_self": null
     },
     {
+      "video_id": "KqwaaYDR_4M",
+      "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/KqwaaYDR_4M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KqwaaYDR_4M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Rv5QdnWbz7Y",
+      "title": "【hololive Dreams】WHOA MORE COLLABS #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/Rv5QdnWbz7Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Rv5QdnWbz7Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "OcrFeHBqyUc",
       "title": "【hololive Dreams】The Holocoins are in My Dreams (w/ holoro+Moona) #holodori【Pavolia Reine/hololive】",
       "published_at": "20261005",
@@ -47,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/OcrFeHBqyUc/mqdefault.jpg",
       "partner_handle": "pavoliareine",
       "partner_name": "Pavolia Reine Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "KqwaaYDR_4M",
-      "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
-      "published_at": "20261004",
-      "url": "https://youtu.be/KqwaaYDR_4M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KqwaaYDR_4M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -501,18 +561,6 @@
       "url": "https://youtu.be/JpiGbdrtGZA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JpiGbdrtGZA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Rv5QdnWbz7Y",
-      "title": "【hololive Dreams】WHOA MORE COLLABS #holodori #ホロドリ 【Kureiji Ollie】",
-      "published_at": "20260927",
-      "url": "https://youtu.be/Rv5QdnWbz7Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Rv5QdnWbz7Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

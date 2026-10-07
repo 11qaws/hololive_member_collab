@@ -1,7 +1,43 @@
 {
   "target": "omarupolka",
-  "count": 4557,
+  "count": 4560,
   "entries": [
+    {
+      "video_id": "es8u97HLyms",
+      "title": "【OHAPOL】#208 10/7水曜日！今日からホロドリは俺の水着 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/es8u97HLyms",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/es8u97HLyms/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "f11FZtZeA7s",
+      "title": "【妹に運転を教える】俺は無免許の長女だから教えられた【尾丸ポルカ/ホロライブ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/f11FZtZeA7s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f11FZtZeA7s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OJP8X-YEZYw",
+      "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ!【 #SSholoX /ホロライブ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/OJP8X-YEZYw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OJP8X-YEZYw/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "UmCNZZIqbBE",
       "title": "この逆言葉クイズ、難易度が高すぎるwww #ポルカの伝説 #尾丸ポルカ",
@@ -18231,24 +18267,24 @@
       "paired_self": null
     },
     {
-      "video_id": "ZTjry52_Ou4",
-      "title": "パペット",
-      "published_at": "20250130",
-      "url": "https://youtu.be/ZTjry52_Ou4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v5kXEPBEVSw",
       "title": "無理ぽ to ポジ",
       "published_at": "20250130",
       "url": "https://youtu.be/v5kXEPBEVSw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v5kXEPBEVSw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZTjry52_Ou4",
+      "title": "パペット",
+      "published_at": "20250130",
+      "url": "https://youtu.be/ZTjry52_Ou4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZTjry52_Ou4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -54603,18 +54639,6 @@
       "paired_self": null
     },
     {
-      "video_id": "vbaff8W1Zrw",
-      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
-      "published_at": "20200815",
-      "url": "https://youtu.be/vbaff8W1Zrw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/vbaff8W1Zrw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "g4G7bbRhBaQ",
       "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
       "published_at": "20200815",
@@ -54633,6 +54657,18 @@
       "url": "https://youtu.be/q4eXcXl3BtI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/q4eXcXl3BtI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vbaff8W1Zrw",
+      "title": "【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】",
+      "published_at": "20200815",
+      "url": "https://youtu.be/vbaff8W1Zrw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vbaff8W1Zrw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

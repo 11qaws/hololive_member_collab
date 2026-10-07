@@ -1,7 +1,91 @@
 {
   "target": "ayunda_risu",
-  "count": 2925,
+  "count": 2932,
   "entries": [
+    {
+      "video_id": "GwjrZkGxQPo",
+      "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/GwjrZkGxQPo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GwjrZkGxQPo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wAJ5VprJ7eE",
+      "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/wAJ5VprJ7eE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wAJ5VprJ7eE/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hXmclHy8JDw",
+      "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/hXmclHy8JDw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hXmclHy8JDw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oasHD6OMXZk",
+      "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/oasHD6OMXZk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oasHD6OMXZk/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ywYTR7ACjj4",
+      "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/ywYTR7ACjj4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ywYTR7ACjj4/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zQYztohcqME",
+      "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
+      "published_at": "20261006",
+      "url": "https://youtu.be/zQYztohcqME",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zQYztohcqME/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FFH9wmgDjJo",
+      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+      "published_at": "20261006",
+      "url": "https://youtu.be/FFH9wmgDjJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FFH9wmgDjJo/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "4iMFt9xP-BI",
       "title": "BOMBANANA : LANJUTTT DENGAN TIM S.A.R. @sammybollivienn @sayaayaaulya",
@@ -1923,24 +2007,24 @@
       "paired_self": null
     },
     {
-      "video_id": "toMMyF1ZxKM",
-      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
-      "published_at": "20260622",
-      "url": "https://youtu.be/toMMyF1ZxKM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "1PxEmKQvM70",
       "title": "【RISU VERSION】MIR//or 【KARAOKE】",
       "published_at": "20260622",
       "url": "https://youtu.be/1PxEmKQvM70",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1PxEmKQvM70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "toMMyF1ZxKM",
+      "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+      "published_at": "20260622",
+      "url": "https://youtu.be/toMMyF1ZxKM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/toMMyF1ZxKM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -35055,18 +35139,6 @@
       "paired_self": null
     },
     {
-      "video_id": "L_uUweBx4_g",
-      "title": "APRIL FOOL IS HERE !!! We're gonna do the funny ! IF I act unseiso, the stream will end ! 😱😱😱😱😱",
-      "published_at": "",
-      "url": "https://youtu.be/L_uUweBx4_g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/L_uUweBx4_g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "h_7u630S0Bk",
       "title": "FIRST OF APRIL !!! IT'S UNARCHIVED KARAOKE TIME !! 🎤🎤🎤 Whar songs are we gonna sing ~? Tune in t",
       "published_at": "",
@@ -35097,6 +35169,18 @@
       "url": "https://youtu.be/1u7L9FLmKdM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/1u7L9FLmKdM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L_uUweBx4_g",
+      "title": "APRIL FOOL IS HERE !!! We're gonna do the funny ! IF I act unseiso, the stream will end ! 😱😱😱😱😱",
+      "published_at": "",
+      "url": "https://youtu.be/L_uUweBx4_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L_uUweBx4_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

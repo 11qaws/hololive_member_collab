@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1477,
+  "count": 1479,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16246,6 +16246,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pEJ_ZE0uRtA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CRs0_lwYnp0",
+      "title": "Saw it from a mile away😡💀 #prank",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CRs0_lwYnp0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nUYSD8jXufM",
+      "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nUYSD8jXufM",
       "status": "unreviewed",
       "note": null
     }

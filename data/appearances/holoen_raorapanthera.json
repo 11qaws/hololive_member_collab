@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 777,
+  "count": 778,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8546,6 +8546,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HucXvavmB7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w8YJY2D608E",
+      "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora's luck🎣👑【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w8YJY2D608E",
       "status": "unreviewed",
       "note": null
     }

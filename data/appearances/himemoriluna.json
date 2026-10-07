@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1065,
+  "count": 1066,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11714,6 +11714,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w_QlfNcwYZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xhYUcXSiiz4",
+      "title": "【幻想水滸伝】教えて!幻想水滸伝!!【ホロライブ/大空スバル 姫森ルーナ 獅白ぼたん】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xhYUcXSiiz4",
       "status": "unreviewed",
       "note": null
     }

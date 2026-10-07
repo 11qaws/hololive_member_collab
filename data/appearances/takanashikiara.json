@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1122,
+  "count": 1123,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12341,6 +12341,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zrEseXtUDNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E9s4eVlRwzs",
+      "title": "【hololive Dreams】Pavonashi Beach Vacay in Soda Pop Lagoon!!! #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E9s4eVlRwzs",
       "status": "unreviewed",
       "note": null
     }

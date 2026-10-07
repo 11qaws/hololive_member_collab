@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1388,
+  "count": 1389,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15267,6 +15267,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OJP8X-YEZYw",
+      "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ!【 #SSholoX /ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OJP8X-YEZYw",
       "status": "unreviewed",
       "note": null
     }

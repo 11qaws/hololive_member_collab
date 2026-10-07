@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 3158,
+  "count": 3159,
   "entries": [
     {
       "video_id": "be5J_EMObHI",
@@ -27,12 +27,36 @@
       "paired_self": null
     },
     {
+      "video_id": "JOHgIEKEYeU",
+      "title": "【holodori】weine we are at the beach show me ur swimsuit #kfp #キアライブ",
+      "published_at": "20261006",
+      "url": "https://youtu.be/JOHgIEKEYeU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JOHgIEKEYeU/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "lACWqJi42Jk",
-      "title": "Following the Breeze to Reine's New Song 🍃✨　#PavoliaReine #ReineEndlessBlue",
+      "title": "Following the Breeze to Reine's New Song 🍃✨ #PavoliaReine #ReineEndlessBlue",
       "published_at": "20261005",
       "url": "https://youtu.be/lACWqJi42Jk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/lACWqJi42Jk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tK9PUUu9Gok",
+      "title": "【BOMBANANA!】Holoro Monkey Business【Pavolia Reine/hololive】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/tK9PUUu9Gok",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tK9PUUu9Gok/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -59,18 +83,6 @@
       "thumbnail": "https://img.youtube.com/vi/3L3tjTbKPwo/mqdefault.jpg",
       "partner_handle": "takanashikiara",
       "partner_name": "Takanashi Kiara Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "tK9PUUu9Gok",
-      "title": "【BOMBANANA!】Holoro Monkey Business【Pavolia Reine/hololive】",
-      "published_at": "20261004",
-      "url": "https://youtu.be/tK9PUUu9Gok",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tK9PUUu9Gok/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -31023,24 +31035,24 @@
       "paired_self": null
     },
     {
-      "video_id": "PgfZckuqCb0",
-      "title": "Love Me Love Me",
-      "published_at": "20211206",
-      "url": "https://youtu.be/PgfZckuqCb0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "gTGL8HHOtRg",
       "title": "あの青空のせいだ(Instrumental)",
       "published_at": "20211206",
       "url": "https://youtu.be/gTGL8HHOtRg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/gTGL8HHOtRg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PgfZckuqCb0",
+      "title": "Love Me Love Me",
+      "published_at": "20211206",
+      "url": "https://youtu.be/PgfZckuqCb0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PgfZckuqCb0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

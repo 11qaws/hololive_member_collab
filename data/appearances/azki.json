@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1101,
+  "count": 1103,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12110,6 +12110,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ech6Av1CBko",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o3Rp1OxpSgQ",
+      "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボール視聴者参加バトル💥🥊 【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o3Rp1OxpSgQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "80hzRYQd8Ks",
+      "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/80hzRYQd8Ks",
       "status": "unreviewed",
       "note": null
     }

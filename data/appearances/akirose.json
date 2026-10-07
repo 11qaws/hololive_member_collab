@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1315,
+  "count": 1317,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14464,6 +14464,28 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5uIZzkRsIXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "80hzRYQd8Ks",
+      "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/80hzRYQd8Ks",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nZQnvkZtXgY",
+      "title": "【#ホロドリ】#RosaMiA チーム対抗!スプラッシュボール視聴者参加型バトル💥 hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nZQnvkZtXgY",
       "status": "unreviewed",
       "note": null
     }

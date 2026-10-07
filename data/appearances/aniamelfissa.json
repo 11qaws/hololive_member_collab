@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1447,
+  "count": 1453,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15916,6 +15916,72 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mLhm1FdOLd4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jRslRJEYD6g",
+      "title": "【Hololive Dreams】Pokajan!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jRslRJEYD6g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J9hnmOq6TI0",
+      "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J9hnmOq6TI0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "II1-2CzVUAU",
+      "title": "Gak boleh sembarang \"EHEK\" #shorts #hololive #vtuber #kobokanaeru #kobokan",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/II1-2CzVUAU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hXmclHy8JDw",
+      "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hXmclHy8JDw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zQYztohcqME",
+      "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zQYztohcqME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FFH9wmgDjJo",
+      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FFH9wmgDjJo",
       "status": "unreviewed",
       "note": null
     }

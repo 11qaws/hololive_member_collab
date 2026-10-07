@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2874,
+  "count": 2877,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jgs6vYj8dwQ",
+      "title": "【番外編】限界飯はなぜ動画シリーズになったのか?【りりらでん限界対談】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/jgs6vYj8dwQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jgs6vYj8dwQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ACvWie_jpi8",
+      "title": "【みんなでティア表】【やってみる!?】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/ACvWie_jpi8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ACvWie_jpi8/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gckWJKFetcw",
+      "title": "クエスチョン！！ #shorts #踊ってみた",
+      "published_at": "20261006",
+      "url": "https://youtu.be/gckWJKFetcw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gckWJKFetcw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

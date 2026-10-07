@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1195,
+  "count": 1199,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13144,6 +13144,50 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OcrFeHBqyUc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wAJ5VprJ7eE",
+      "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wAJ5VprJ7eE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J9hnmOq6TI0",
+      "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J9hnmOq6TI0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "II1-2CzVUAU",
+      "title": "Gak boleh sembarang \"EHEK\" #shorts #hololive #vtuber #kobokanaeru #kobokan",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/II1-2CzVUAU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ywYTR7ACjj4",
+      "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ywYTR7ACjj4",
       "status": "unreviewed",
       "note": null
     }

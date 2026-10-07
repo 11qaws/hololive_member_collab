@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1850,
+  "count": 1851,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20349,6 +20349,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5uIZzkRsIXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r9WlsCrnq6M",
+      "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね??【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r9WlsCrnq6M",
       "status": "unreviewed",
       "note": null
     }

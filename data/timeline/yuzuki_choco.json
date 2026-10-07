@@ -1,7 +1,19 @@
 {
   "target": "yuzuki_choco",
-  "count": 3107,
+  "count": 3108,
   "entries": [
+    {
+      "video_id": "J8ZF7d2M-qk",
+      "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/J8ZF7d2M-qk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J8ZF7d2M-qk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "MxpAOjgZX3Y",
       "title": "【#アキちょこナイパレ|第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち?|ちょこのお悩み相談室~深夜のひとくちラジオ~",
@@ -7311,24 +7323,24 @@
       "paired_self": null
     },
     {
-      "video_id": "IPZwmgO_F1Y",
-      "title": "NoDistance",
-      "published_at": "20240904",
-      "url": "https://youtu.be/IPZwmgO_F1Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AZo4NIQeuGU",
       "title": "Got Cheat",
       "published_at": "20240904",
       "url": "https://youtu.be/AZo4NIQeuGU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AZo4NIQeuGU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IPZwmgO_F1Y",
+      "title": "NoDistance",
+      "published_at": "20240904",
+      "url": "https://youtu.be/IPZwmgO_F1Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IPZwmgO_F1Y/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1489,
+  "count": 1490,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16378,6 +16378,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ein8l4JJj3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ACvWie_jpi8",
+      "title": "【みんなでティア表】【やってみる!?】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ACvWie_jpi8",
       "status": "unreviewed",
       "note": null
     }

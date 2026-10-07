@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1325,
+  "count": 1326,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14574,6 +14574,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bthZ99mipXM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qH2z0fxwPaU",
+      "title": "最上級にかわいいの!全員で踊ってみた💘",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qH2z0fxwPaU",
       "status": "unreviewed",
       "note": null
     }
