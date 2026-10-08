@@ -1,7 +1,79 @@
 {
   "target": "airaniiofifteen",
-  "count": 3062,
+  "count": 3069,
   "entries": [
+    {
+      "video_id": "iU4Y-xRXO2g",
+      "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/iU4Y-xRXO2g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iU4Y-xRXO2g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "P8eRh91xH8g",
+      "title": "【TCG CARD SHOP SIM】Opening some cards yes【 iofi / hololive】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/P8eRh91xH8g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P8eRh91xH8g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pTXVlP3DaFw",
+      "title": "【#holodori 】ioRisu in da house! @ayundarisu 【 iofi / hololive】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/pTXVlP3DaFw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pTXVlP3DaFw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AuNushV0v6o",
+      "title": "【hololive Dreams】 Holodori with IoRisu ~!!!!【#holodori #ホロドリ】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/AuNushV0v6o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AuNushV0v6o/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QxgSd37q-v0",
+      "title": "【 #holoctober 】DAY 7 : Autumn Outfit【 iofi / hololive】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/QxgSd37q-v0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QxgSd37q-v0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i0Vx8y3t2ms",
+      "title": "Kidnapped in No Man's Sky be like",
+      "published_at": "20261007",
+      "url": "https://youtu.be/i0Vx8y3t2ms",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i0Vx8y3t2ms/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "wAJ5VprJ7eE",
       "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
@@ -11,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/wAJ5VprJ7eE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GwjrZkGxQPo",
+      "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/GwjrZkGxQPo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GwjrZkGxQPo/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,6 +147,18 @@
       "paired_self": null
     },
     {
+      "video_id": "VshCIU0Xlsk",
+      "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
+      "published_at": "20261005",
+      "url": "https://youtu.be/VshCIU0Xlsk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VshCIU0Xlsk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "x9Z-ntAHhgM",
       "title": "【#holodori 】POKAJAN WITH IOFORIA【 iofi / hololive】",
       "published_at": "20261005",
@@ -95,18 +191,6 @@
       "thumbnail": "https://img.youtube.com/vi/7eb00QzNZ5Q/mqdefault.jpg",
       "partner_handle": "moona_hoshinova",
       "partner_name": "Moona Hoshinova hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "VshCIU0Xlsk",
-      "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
-      "published_at": "20261004",
-      "url": "https://youtu.be/VshCIU0Xlsk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/VshCIU0Xlsk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

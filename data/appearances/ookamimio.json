@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1973,
+  "count": 1974,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21702,6 +21702,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nZQnvkZtXgY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FVpLKAiHYFA",
+      "title": "【#日本HP大決算】いろはにほへっとショッピング2 ~あやふぶみりたーんず~【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FVpLKAiHYFA",
       "status": "unreviewed",
       "note": null
     }

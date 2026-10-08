@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 2626,
+  "count": 2628,
   "entries": [
     {
       "video_id": "wAJ5VprJ7eE",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/wAJ5VprJ7eE/mqdefault.jpg",
       "partner_handle": "airaniiofifteen",
       "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i0Vx8y3t2ms",
+      "title": "Kidnapped in No Man's Sky be like",
+      "published_at": "20261007",
+      "url": "https://youtu.be/i0Vx8y3t2ms",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i0Vx8y3t2ms/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GwjrZkGxQPo",
+      "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/GwjrZkGxQPo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GwjrZkGxQPo/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

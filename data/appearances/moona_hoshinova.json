@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1199,
+  "count": 1201,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13188,6 +13188,28 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ywYTR7ACjj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i0Vx8y3t2ms",
+      "title": "Kidnapped in No Man's Sky be like",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i0Vx8y3t2ms",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GwjrZkGxQPo",
+      "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GwjrZkGxQPo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1235,
+  "count": 1239,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13584,6 +13584,50 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EM9dYO4JSHE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GN0q9XzjmA8",
+      "title": "【 ホロドリ 】しゅぴなでドドドで突発ホロドリ？！【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GN0q9XzjmA8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "adQxwdH7dBE",
+      "title": "【 #ホロドリ 】しゅぴなでドドドで突発ホロドリ！！！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/adQxwdH7dBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2dyp860Va10",
+      "title": "【 BOMBANANA! 】見れない、聞けない、喋れない爆弾解除！！【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2dyp860Va10",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aIwPjHVYKsg",
+      "title": "📖台本の読み方に個性出まくり‼️",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aIwPjHVYKsg",
       "status": "unreviewed",
       "note": null
     }

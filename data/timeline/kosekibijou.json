@@ -1,7 +1,43 @@
 {
   "target": "kosekibijou",
-  "count": 2533,
+  "count": 2536,
   "entries": [
+    {
+      "video_id": "xbvwxTMOAgo",
+      "title": "1 MILLIONS? PEBBLES!",
+      "published_at": "20261008",
+      "url": "https://youtu.be/xbvwxTMOAgo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xbvwxTMOAgo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6eKITYZOON4",
+      "title": "【UNARCHIVED KARAOKE】1 MILLIONS? PEBBLES!",
+      "published_at": "20261008",
+      "url": "https://youtu.be/6eKITYZOON4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6eKITYZOON4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "le1JQDJ0xII",
+      "title": "【オトナ】世紀末なラスト! #ホロライブ #hololive #ホロぐら #お前も赤ちゃんにしてやろうか",
+      "published_at": "20261007",
+      "url": "https://youtu.be/le1JQDJ0xII",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/le1JQDJ0xII/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "bxPTC-TCHQo",
       "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",

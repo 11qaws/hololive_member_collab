@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1453,
+  "count": 1457,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -15982,6 +15982,50 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FFH9wmgDjJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uDLdE8UY6f0",
+      "title": "【hololive Dreams】little bit of trolling #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uDLdE8UY6f0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yVYyxLL9iUs",
+      "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yVYyxLL9iUs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S4wHR_O4VzM",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S4wHR_O4VzM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z4cHVm0VjJo",
+      "title": "【hololive Dreams】UWEE NEW EVENT ! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z4cHVm0VjJo",
       "status": "unreviewed",
       "note": null
     }

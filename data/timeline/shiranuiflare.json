@@ -1,7 +1,31 @@
 {
   "target": "shiranuiflare",
-  "count": 3930,
+  "count": 3932,
   "entries": [
+    {
+      "video_id": "KCT9xoCNMBU",
+      "title": "【ホロライブ ドリームス】#ホロドリ フレポルでガチャ並走！【不知火フレア/ホロライブ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/KCT9xoCNMBU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KCT9xoCNMBU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_c2F9ml9acM",
+      "title": "【#ホロドリ】ポルカの水着ガチャキタコレ!!!フレアとガチャバトル!!!!【尾丸ポルカ/ホロライブ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/_c2F9ml9acM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_c2F9ml9acM/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "g12nSDueGve",
       "title": "IRyS 1st Concert「HOPE𝄆 Beyond the Stars」",
@@ -27411,24 +27435,24 @@
       "paired_self": null
     },
     {
-      "video_id": "LndV_sp65kk",
-      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
-      "published_at": "20220322",
-      "url": "https://youtu.be/LndV_sp65kk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "AByRY55F9_A",
       "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
       "published_at": "20220322",
       "url": "https://youtu.be/AByRY55F9_A",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/AByRY55F9_A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LndV_sp65kk",
+      "title": "【Raft】もうすぐクライマックスの予感?!【不知火フレア/角巻わため/ホロライブ】",
+      "published_at": "20220322",
+      "url": "https://youtu.be/LndV_sp65kk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LndV_sp65kk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

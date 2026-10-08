@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3500,
+  "count": 3502,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38499,6 +38499,28 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ein8l4JJj3Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l2oa8BexdmU",
+      "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l2oa8BexdmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6SWsNVshR0o",
+      "title": "『姫森ルーナ生誕ロックLIVE』告知ダイジェスト⭐(・o・🍬)",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6SWsNVshR0o",
       "status": "unreviewed",
       "note": null
     }

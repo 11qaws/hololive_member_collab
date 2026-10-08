@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1326,
+  "count": 1329,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14585,6 +14585,39 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qH2z0fxwPaU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ryLnuH_ueL4",
+      "title": "【#FGの秋🍁】さすがにお互いの好みわかるよね?もうすぐ2周年の理解度クイズ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ryLnuH_ueL4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cNL9fTlnW38",
+      "title": "【 重大告知あり 】108の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cNL9fTlnW38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aIwPjHVYKsg",
+      "title": "📖台本の読み方に個性出まくり‼️",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aIwPjHVYKsg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1926,
+  "count": 1927,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BPoSmwYE3fA",
+      "title": "たてたて抹茶ダンス",
+      "published_at": "20261007",
+      "url": "https://youtu.be/BPoSmwYE3fA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BPoSmwYE3fA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

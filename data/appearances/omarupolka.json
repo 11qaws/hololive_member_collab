@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1982,
+  "count": 1985,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21801,6 +21801,39 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OJP8X-YEZYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l2oa8BexdmU",
+      "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l2oa8BexdmU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KCT9xoCNMBU",
+      "title": "【ホロライブ ドリームス】#ホロドリ フレポルでガチャ並走！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KCT9xoCNMBU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6SWsNVshR0o",
+      "title": "『姫森ルーナ生誕ロックLIVE』告知ダイジェスト⭐(・o・🍬)",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6SWsNVshR0o",
       "status": "unreviewed",
       "note": null
     }

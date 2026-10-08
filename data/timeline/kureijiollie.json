@@ -1,7 +1,55 @@
 {
   "target": "kureijiollie",
-  "count": 3400,
+  "count": 3403,
   "entries": [
+    {
+      "video_id": "1G90RQ8uuIE",
+      "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/1G90RQ8uuIE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1G90RQ8uuIE/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S4wHR_O4VzM",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "published_at": "20261007",
+      "url": "https://youtu.be/S4wHR_O4VzM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S4wHR_O4VzM/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Z4cHVm0VjJo",
+      "title": "【hololive Dreams】UWEE NEW EVENT ! #holodori #ホロドリ",
+      "published_at": "20261007",
+      "url": "https://youtu.be/Z4cHVm0VjJo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Z4cHVm0VjJo/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JpiGbdrtGZA",
+      "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/JpiGbdrtGZA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/JpiGbdrtGZA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "EPLPJX11dwI",
       "title": "PEACE IN MY HEART?! Haato ni Peace by Takane Lui #ハートにピース",
@@ -532,7 +580,7 @@
     },
     {
       "video_id": "8XJSCqpX4Uo",
-      "title": "【hololive Dreams】 INDONESIAN TOGETHER STRONK #holodori #ホロドリ 【Kureiji Ollie】",
+      "title": "【hololive Dreams】 A-A POTENTIAL DATE STREAM WITH MOONA-SENPAI #holodori #ホロドリ 【Kureiji Ollie】",
       "published_at": "20260927",
       "url": "https://youtu.be/8XJSCqpX4Uo",
       "entry_type": "stream",
@@ -549,18 +597,6 @@
       "url": "https://youtu.be/N6Aop1nYJB4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/N6Aop1nYJB4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "JpiGbdrtGZA",
-      "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
-      "published_at": "20260927",
-      "url": "https://youtu.be/JpiGbdrtGZA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JpiGbdrtGZA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

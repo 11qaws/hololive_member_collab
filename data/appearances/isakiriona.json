@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1215,
+  "count": 1216,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13364,6 +13364,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qH2z0fxwPaU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aIwPjHVYKsg",
+      "title": "📖台本の読み方に個性出まくり‼️",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aIwPjHVYKsg",
       "status": "unreviewed",
       "note": null
     }

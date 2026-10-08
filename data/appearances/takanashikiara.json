@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1123,
+  "count": 1124,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12352,6 +12352,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/E9s4eVlRwzs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "te4AvMXOtcs",
+      "title": "【hololive Dreams】Pavonashi 2: More Totally Holodori Stream #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/te4AvMXOtcs",
       "status": "unreviewed",
       "note": null
     }

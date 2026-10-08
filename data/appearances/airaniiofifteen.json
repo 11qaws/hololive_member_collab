@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1157,
+  "count": 1159,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12726,6 +12726,28 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ywYTR7ACjj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AuNushV0v6o",
+      "title": "【hololive Dreams】 Holodori with IoRisu ~!!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AuNushV0v6o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GwjrZkGxQPo",
+      "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GwjrZkGxQPo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 983,
+  "count": 984,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10812,6 +10812,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wBpVBfwdODs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "le1JQDJ0xII",
+      "title": "【オトナ】世紀末なラスト! #ホロライブ #hololive #ホロぐら #お前も赤ちゃんにしてやろうか",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/le1JQDJ0xII",
       "status": "unreviewed",
       "note": null
     }

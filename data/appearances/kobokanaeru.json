@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 785,
+  "count": 790,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8634,6 +8634,61 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zQYztohcqME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uDLdE8UY6f0",
+      "title": "【hololive Dreams】little bit of trolling #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uDLdE8UY6f0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WxEXqVgvrJI",
+      "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WxEXqVgvrJI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1G90RQ8uuIE",
+      "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1G90RQ8uuIE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N6Aop1nYJB4",
+      "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20260927",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N6Aop1nYJB4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z4cHVm0VjJo",
+      "title": "【hololive Dreams】UWEE NEW EVENT ! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z4cHVm0VjJo",
       "status": "unreviewed",
       "note": null
     }

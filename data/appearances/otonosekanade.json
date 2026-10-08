@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1260,
+  "count": 1262,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -13859,6 +13859,28 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8ydoQLxJyc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "adQxwdH7dBE",
+      "title": "【 #ホロドリ 】しゅぴなでドドドで突発ホロドリ！！！！！【角巻わため/ホロライブ４期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/adQxwdH7dBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MeW6KmBAnJ4",
+      "title": "【 #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MeW6KmBAnJ4",
       "status": "unreviewed",
       "note": null
     }

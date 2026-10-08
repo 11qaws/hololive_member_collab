@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1602,
+  "count": 1603,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17621,6 +17621,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Kub1-xkf2Bk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_c2F9ml9acM",
+      "title": "【#ホロドリ】ポルカの水着ガチャキタコレ!!!フレアとガチャバトル!!!!【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_c2F9ml9acM",
       "status": "unreviewed",
       "note": null
     }

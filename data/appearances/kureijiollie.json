@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1450,
+  "count": 1453,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -15949,6 +15949,39 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FFH9wmgDjJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1G90RQ8uuIE",
+      "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1G90RQ8uuIE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S4wHR_O4VzM",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S4wHR_O4VzM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z4cHVm0VjJo",
+      "title": "【hololive Dreams】UWEE NEW EVENT ! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261007",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z4cHVm0VjJo",
       "status": "unreviewed",
       "note": null
     }

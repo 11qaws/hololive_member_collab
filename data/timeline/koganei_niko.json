@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1727,
+  "count": 1729,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "n7D1YBMCb7s",
+      "title": "ｴｹﾁｪﾝかわいいめぅ🩷 #ニコたんアニメ",
+      "published_at": "20261007",
+      "url": "https://youtu.be/n7D1YBMCb7s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/n7D1YBMCb7s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aIwPjHVYKsg",
+      "title": "📖台本の読み方に個性出まくり‼️",
+      "published_at": "20261007",
+      "url": "https://youtu.be/aIwPjHVYKsg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/aIwPjHVYKsg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
