@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1074,
+  "count": 1075,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11813,6 +11813,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OJP8X-YEZYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cNL9fTlnW38",
+      "title": "【 重大告知あり 】108の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cNL9fTlnW38",
       "status": "unreviewed",
       "note": null
     }

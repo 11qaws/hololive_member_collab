@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1256,
+  "count": 1259,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13815,6 +13815,39 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cNL9fTlnW38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WuUrTMO9FWU",
+      "title": "[New Audio Drama & ASMR] Three Plus One #PromiseRoadTrip",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WuUrTMO9FWU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3VomCoEsXGM",
+      "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3VomCoEsXGM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oqWDq8CMavQ",
+      "title": "【Promise Road Trip】Trying Our Best To Escape A Room",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oqWDq8CMavQ",
       "status": "unreviewed",
       "note": null
     }

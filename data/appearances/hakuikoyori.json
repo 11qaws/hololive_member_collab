@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1454,
+  "count": 1455,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -15993,6 +15993,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OJP8X-YEZYw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g_oVknG8XvI",
       "status": "unreviewed",
       "note": null
     }

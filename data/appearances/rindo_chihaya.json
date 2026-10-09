@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1383,
+  "count": 1386,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15212,6 +15212,39 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/aIwPjHVYKsg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ryLnuH_ueL4",
+      "title": "【#FGの秋🍁】さすがにお互いの好みわかるよね?もうすぐ2周年の理解度クイズ!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ryLnuH_ueL4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mcaQqM9mxr4",
+      "title": "駆け引きする4人とルールが分からないに笑虎🐯❓",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mcaQqM9mxr4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1985,
+  "count": 1987,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21834,6 +21834,28 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6SWsNVshR0o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BmEqAde2mc0",
+      "title": "【#ホロボドゲ部】第3回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BmEqAde2mc0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g_oVknG8XvI",
       "status": "unreviewed",
       "note": null
     }

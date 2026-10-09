@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 177,
+  "count": 178,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1946,6 +1946,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C-lMgD8XIXo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BqUfGBP3jMM",
+      "title": "3日目【 FCマリオ】残機0で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261005",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BqUfGBP3jMM",
       "status": "unreviewed",
       "note": null
     }

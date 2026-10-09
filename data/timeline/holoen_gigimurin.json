@@ -1,7 +1,55 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1550,
+  "count": 1553,
   "entries": [
+    {
+      "video_id": "DEaXutHcNA0",
+      "title": "【hololive Dreams】clearing area 3!!!! #holodori",
+      "published_at": "20261008",
+      "url": "https://youtu.be/DEaXutHcNA0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DEaXutHcNA0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3VomCoEsXGM",
+      "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
+      "published_at": "20261008",
+      "url": "https://youtu.be/3VomCoEsXGM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3VomCoEsXGM/mqdefault.jpg",
+      "partner_handle": "irys",
+      "partner_name": "IRyS Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UtKW2HOGidc",
+      "title": "Learning to become an honest Gillionaire with Gigi in FFXIV #ad",
+      "published_at": "20261008",
+      "url": "https://youtu.be/UtKW2HOGidc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UtKW2HOGidc/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nUYSD8jXufM",
+      "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
+      "published_at": "20261007",
+      "url": "https://youtu.be/nUYSD8jXufM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nUYSD8jXufM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "CRs0_lwYnp0",
       "title": "Saw it from a mile away😡💀 #prank",
@@ -11,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/CRs0_lwYnp0/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "nUYSD8jXufM",
-      "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
-      "published_at": "20261006",
-      "url": "https://youtu.be/nUYSD8jXufM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nUYSD8jXufM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -18579,24 +18615,24 @@
       "paired_self": null
     },
     {
-      "video_id": "cf9V1Cth6Es",
-      "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
-      "published_at": "",
-      "url": "https://youtu.be/cf9V1Cth6Es",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "8q53wjHD3k4",
       "title": "SCHEDULE FOR THIS WEEK!!!!!!!!!!!!!!!!!!!!!\nYAYYYYYYYYYYYYY fun collabs time..drawn to dawn watchalo",
       "published_at": "",
       "url": "https://youtu.be/8q53wjHD3k4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/8q53wjHD3k4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cf9V1Cth6Es",
+      "title": "HAPPY SCHEDULE BEFORE BEDTIME DAYYYYYYYYY\nyeaaaaaaaaaahhhhhhh schedule time yeahhh woohoooooooo\nyea.",
+      "published_at": "",
+      "url": "https://youtu.be/cf9V1Cth6Es",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/cf9V1Cth6Es/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

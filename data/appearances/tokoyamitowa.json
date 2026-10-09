@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1667,
+  "count": 1668,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18336,6 +18336,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WXaEsVLtZAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YjHwvaQ5MtA",
+      "title": "TOWASAMA! WATCH THIS!  #ウチらしか勝たん #mmd",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YjHwvaQ5MtA",
       "status": "unreviewed",
       "note": null
     }

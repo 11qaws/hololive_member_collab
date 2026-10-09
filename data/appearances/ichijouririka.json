@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1490,
+  "count": 1491,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16389,6 +16389,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ACvWie_jpi8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g_oVknG8XvI",
       "status": "unreviewed",
       "note": null
     }

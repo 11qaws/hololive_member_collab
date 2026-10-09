@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1658,
+  "count": 1660,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18237,6 +18237,28 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xhYUcXSiiz4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BmEqAde2mc0",
+      "title": "【#ホロボドゲ部】第3回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BmEqAde2mc0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2SLixNCGlDk",
+      "title": "ライオンを煽った結果...【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260603",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2SLixNCGlDk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 790,
+  "count": 791,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8689,6 +8689,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z4cHVm0VjJo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s-ryur9C_uM",
+      "title": "【Handcam】Wayang Painting with @KoboKanaeru @AnyaMelfissa",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s-ryur9C_uM",
       "status": "unreviewed",
       "note": null
     }

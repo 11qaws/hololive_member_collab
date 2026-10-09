@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2877,
+  "count": 2879,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "trKttFgIY_0",
+      "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/trKttFgIY_0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/trKttFgIY_0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "published_at": "20261008",
+      "url": "https://youtu.be/g_oVknG8XvI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/g_oVknG8XvI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -64,7 +88,7 @@
     },
     {
       "video_id": "zbYU5MWJyqI",
-      "title": "心予報　踊ってみたーー！！！！ #shorts #hololive",
+      "title": "心予報 踊ってみたーー!!!! #shorts #hololive",
       "published_at": "20261005",
       "url": "https://youtu.be/zbYU5MWJyqI",
       "entry_type": "stream",

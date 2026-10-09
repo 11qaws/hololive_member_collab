@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 779,
+  "count": 780,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8568,6 +8568,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9i4Dyi0490E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jYzFoTmaIHM",
+      "title": "【hololive Dreams】mantacademic.......【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jYzFoTmaIHM",
       "status": "unreviewed",
       "note": null
     }

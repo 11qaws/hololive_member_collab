@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2435,
+  "count": 2439,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lf7DYGgyCsU",
+      "title": "ネコガネコロンダー/踊ってみた #vtuber #hololive #dance",
+      "published_at": "20261009",
+      "url": "https://youtu.be/lf7DYGgyCsU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lf7DYGgyCsU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,12 +39,48 @@
       "paired_self": null
     },
     {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "published_at": "20261008",
+      "url": "https://youtu.be/g_oVknG8XvI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/g_oVknG8XvI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mcaQqM9mxr4",
+      "title": "駆け引きする4人とルールが分からないに笑虎🐯❓",
+      "published_at": "20261008",
+      "url": "https://youtu.be/mcaQqM9mxr4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/mcaQqM9mxr4/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "MeW6KmBAnJ4",
       "title": "【 #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
       "published_at": "20261007",
       "url": "https://youtu.be/MeW6KmBAnJ4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/MeW6KmBAnJ4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "r9WlsCrnq6M",
+      "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね??【水宮枢/ホロライブ】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/r9WlsCrnq6M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/r9WlsCrnq6M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -135,12 +183,12 @@
       "paired_self": null
     },
     {
-      "video_id": "r9WlsCrnq6M",
-      "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね？？【水宮枢／ホロライブ】",
+      "video_id": "rXjkqFLbiqI",
+      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢/ホロライブDEV_IS】※ネタバレ有",
       "published_at": "20261006",
-      "url": "https://youtu.be/r9WlsCrnq6M",
+      "url": "https://youtu.be/rXjkqFLbiqI",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/r9WlsCrnq6M/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/rXjkqFLbiqI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -195,6 +243,18 @@
       "paired_self": null
     },
     {
+      "video_id": "ryLnuH_ueL4",
+      "title": "【#FGの秋🍁】さすがにお互いの好みわかるよね?もうすぐ2周年の理解度クイズ!",
+      "published_at": "20261006",
+      "url": "https://youtu.be/ryLnuH_ueL4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ryLnuH_ueL4/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "R7LOh8pMLjM",
       "title": "【妹に運転を教える】仲良くキレずに教えるよ😊相性いいよね…?【水宮枢/ホロライブ】",
       "published_at": "20261005",
@@ -227,18 +287,6 @@
       "thumbnail": "https://img.youtube.com/vi/bthZ99mipXM/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "rXjkqFLbiqI",
-      "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-      "published_at": "20261004",
-      "url": "https://youtu.be/rXjkqFLbiqI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/rXjkqFLbiqI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

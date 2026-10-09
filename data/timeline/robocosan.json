@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 4188,
+  "count": 4192,
   "entries": [
     {
       "video_id": "WXaEsVLtZAM",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/WXaEsVLtZAM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WXaEsVLtZAM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BK2mvHvdf4c",
+      "title": "チルノのパーフェクトさんすう教室 /ロボ子さん&白上フブキ cover",
+      "published_at": "20261008",
+      "url": "https://youtu.be/BK2mvHvdf4c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BK2mvHvdf4c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L3u53Hflr_k",
+      "title": "【 初配信 】2Dではろ~ぼ~!ロボ子さんです!   #ホロドリ【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/L3u53Hflr_k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L3u53Hflr_k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27,6 +51,18 @@
       "paired_self": null
     },
     {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "published_at": "20261008",
+      "url": "https://youtu.be/g_oVknG8XvI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/g_oVknG8XvI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "xF6lHgRijKU",
       "title": "【  #ホロドリ 】ついに新エリアの釣りだああああああああ【ホロライブ/ ロボ子さん 】",
       "published_at": "20261007",
@@ -35,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/xF6lHgRijKU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fhn_uUqI9hs",
+      "title": "【新発見!】牌源郷(ぱいげんきょう)の謎に迫る!【#ホロじゃん】",
+      "published_at": "20261007",
+      "url": "https://youtu.be/fhn_uUqI9hs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fhn_uUqI9hs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

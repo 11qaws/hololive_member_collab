@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1811,
+  "count": 1812,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19920,6 +19920,17 @@
       "published_at": "20260928",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Kub1-xkf2Bk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g_oVknG8XvI",
+      "title": "【新ボイス】こんな狭い場所にふたりきり…!?",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g_oVknG8XvI",
       "status": "unreviewed",
       "note": null
     }

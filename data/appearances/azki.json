@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1103,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12132,6 +12132,17 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/80hzRYQd8Ks",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-m56gEFYloo",
+      "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-m56gEFYloo",
       "status": "unreviewed",
       "note": null
     }

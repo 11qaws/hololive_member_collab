@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 930,
+  "count": 932,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10229,6 +10229,28 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yUsPfDw6hEw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3VomCoEsXGM",
+      "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3VomCoEsXGM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UtKW2HOGidc",
+      "title": "Learning to become an honest Gillionaire with Gigi in FFXIV #ad",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UtKW2HOGidc",
       "status": "unreviewed",
       "note": null
     }

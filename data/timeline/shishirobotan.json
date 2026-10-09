@@ -1,7 +1,19 @@
 {
   "target": "shishirobotan",
-  "count": 3436,
+  "count": 3439,
   "entries": [
+    {
+      "video_id": "WNmTJRqh1ac",
+      "title": "【ホロドリ】「ぽ」と「ら」と「り」を引く!!!!【獅白ぼたん/ホロライ】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/WNmTJRqh1ac",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WNmTJRqh1ac/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "OJP8X-YEZYw",
       "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ!【 #SSholoX /ホロライブ】",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/xhYUcXSiiz4/mqdefault.jpg",
       "partner_handle": "oozora_subaru",
       "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BmEqAde2mc0",
+      "title": "【#ホロボドゲ部】第3回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+      "published_at": "20261006",
+      "url": "https://youtu.be/BmEqAde2mc0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BmEqAde2mc0/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -2351,6 +2375,18 @@
       "thumbnail": "https://img.youtube.com/vi/jrDnHQoYEFk/mqdefault.jpg",
       "partner_handle": "sakuramiko",
       "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2SLixNCGlDk",
+      "title": "ライオンを煽った結果...【ギリギリわるくないわため】 #ギリわる",
+      "published_at": "20260603",
+      "url": "https://youtu.be/2SLixNCGlDk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2SLixNCGlDk/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },
