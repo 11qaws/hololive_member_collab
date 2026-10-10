@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1014,
+  "count": 1017,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11153,6 +11153,39 @@
       "published_at": "20261006",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JOHgIEKEYeU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uhnubq3gd8E",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uhnubq3gd8E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OhVssU_z5lA",
+      "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OhVssU_z5lA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LxfUqHLhevw",
+      "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LxfUqHLhevw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 984,
+  "count": 985,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10823,6 +10823,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/le1JQDJ0xII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cQajwC6mhlU",
+      "title": "Thanks for 1(.02) million!!🎉 #1millionsubscribers #celebration #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cQajwC6mhlU",
       "status": "unreviewed",
       "note": null
     }

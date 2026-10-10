@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1153,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12682,6 +12682,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6KQSmoJPNbE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QOhMghyZLVE",
+      "title": "【hololive Dreams】ladies fear me, fish want me #calliolive #holodori",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QOhMghyZLVE",
       "status": "unreviewed",
       "note": null
     }

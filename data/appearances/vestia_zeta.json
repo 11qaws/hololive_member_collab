@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1072,
+  "count": 1075,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11791,6 +11791,39 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S4wHR_O4VzM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NiJUh04oEew",
+      "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NiJUh04oEew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uhnubq3gd8E",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uhnubq3gd8E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OhVssU_z5lA",
+      "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OhVssU_z5lA",
       "status": "unreviewed",
       "note": null
     }

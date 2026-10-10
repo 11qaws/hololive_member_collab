@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1455,
+  "count": 1456,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16004,6 +16004,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iZ-GXK5b1kI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wuA2g_lf7ys",
+      "title": "【#holodori 】AREA15.1 !【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wuA2g_lf7ys",
       "status": "unreviewed",
       "note": null
     }

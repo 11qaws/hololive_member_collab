@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2602,
+  "count": 2604,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,8 +15,20 @@
       "paired_self": null
     },
     {
+      "video_id": "b5nDqJmKJy8",
+      "title": "【#ホロドリ 】おはよう!朝のホロドリ!!新エリアクリア目指してまったり~!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261009",
+      "url": "https://youtu.be/b5nDqJmKJy8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b5nDqJmKJy8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Fm6BeAZhWYU",
-      "title": "【配信予定】なにする?【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
       "published_at": "20261009",
       "url": "https://youtu.be/Fm6BeAZhWYU",
       "entry_type": "stream",
@@ -28,13 +40,25 @@
     },
     {
       "video_id": "lSNuJMM8xSA",
-      "title": "いっつみーダンス💃",
+      "title": "It's Me ダンス💃 ILLIT #vtuber #ホロライブ #dance #shorts",
       "published_at": "20261009",
       "url": "https://youtu.be/lSNuJMM8xSA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/lSNuJMM8xSA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MPEZJ_M-oV4",
+      "title": "ふろうぐ老かわいい❤️ #ニコたんアニメ",
+      "published_at": "20261009",
+      "url": "https://youtu.be/MPEZJ_M-oV4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/MPEZJ_M-oV4/mqdefault.jpg",
+      "partner_handle": "koganei_niko",
+      "partner_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -52,7 +76,7 @@
     },
     {
       "video_id": "nR7YhNhQb-E",
-      "title": "【耐久】75.１万人目指して！！新アプリ『hololive raku』で歌う！！【#綺々羅々ヴィヴィ #hololive #FLOWGLOW】",
+      "title": "【耐久】75.1万人目指して!!新アプリ『hololive raku』で歌う!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published_at": "20261008",
       "url": "https://youtu.be/nR7YhNhQb-E",
       "entry_type": "stream",
@@ -64,11 +88,23 @@
     },
     {
       "video_id": "_hg5Uz-0Kjk",
-      "title": "みんなも頭カクカクしてみて！#vtuber #ホロライブ #dance #shorts",
+      "title": "みんなも頭カクカクしてみて!#vtuber #ホロライブ #dance #shorts",
       "published_at": "20261008",
       "url": "https://youtu.be/_hg5Uz-0Kjk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/_hg5Uz-0Kjk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wSoYBTffgFw",
+      "title": "【#ホロドリ 】お昼だよ!みんな集合!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261008",
+      "url": "https://youtu.be/wSoYBTffgFw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wSoYBTffgFw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -107,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/mcaQqM9mxr4/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "wSoYBTffgFw",
-      "title": "【#ホロドリ 】お昼だよ!みんな集合!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published_at": "20261007",
-      "url": "https://youtu.be/wSoYBTffgFw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/wSoYBTffgFw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -31143,24 +31167,24 @@
       "paired_self": null
     },
     {
-      "video_id": "XIY3l0VI14k",
-      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
-      "published_at": "20241107",
-      "url": "https://youtu.be/XIY3l0VI14k",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "fDTGc5FhjCI",
       "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
       "published_at": "20241107",
       "url": "https://youtu.be/fDTGc5FhjCI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/fDTGc5FhjCI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XIY3l0VI14k",
+      "title": "#綺々羅々ヴィヴィ - DEBUT PV【#FLOWGLOW】",
+      "published_at": "20241107",
+      "url": "https://youtu.be/XIY3l0VI14k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XIY3l0VI14k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -31191,6 +31215,18 @@
       "paired_self": null
     },
     {
+      "video_id": "zYJcWGgg5LU",
+      "title": "🌼お知らせ🌼 /／ ㊗️50万人記念グッズが出ました✨ \\＼ 🎀ヴィヴィ大歓喜🎶タペストリー\n🎀ヴィヴィ語録ボイスキーホルダー\n🎀魅了しちゃうぞ♡ランダム缶バッジ\n🎀アイドルヴィヴィぬいぐるみ",
+      "published_at": "",
+      "url": "https://youtu.be/zYJcWGgg5LU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zYJcWGgg5LU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "oou7vZOqsrY",
       "title": "【 縦型歌枠 】70万人耐久歌枠！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published_at": "",
@@ -31209,18 +31245,6 @@
       "url": "https://youtu.be/-OUvYpkxlVo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/-OUvYpkxlVo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "zYJcWGgg5LU",
-      "title": "🌼お知らせ🌼 /／ ㊗️50万人記念グッズが出ました✨ \\＼ 🎀ヴィヴィ大歓喜🎶タペストリー\n🎀ヴィヴィ語録ボイスキーホルダー\n🎀魅了しちゃうぞ♡ランダム缶バッジ\n🎀アイドルヴィヴィぬいぐるみ",
-      "published_at": "",
-      "url": "https://youtu.be/zYJcWGgg5LU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/zYJcWGgg5LU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

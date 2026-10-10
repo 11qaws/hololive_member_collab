@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1603,
+  "count": 1604,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17632,6 +17632,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_c2F9ml9acM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DCJiRvoSD28",
+      "title": "【 #ホロドリ 】ししドリ杯チームw/てぇてぇ でポカジャンとかやる‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DCJiRvoSD28",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1975,
+  "count": 1976,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21724,6 +21724,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fhn_uUqI9hs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rt7_6q8Rclc",
+      "title": "【⚔対決🛡】どっちの勝ち? #ホロライブ #hololive #白上フブキ #大神ミオ #猫又おかゆ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rt7_6q8Rclc",
       "status": "unreviewed",
       "note": null
     }

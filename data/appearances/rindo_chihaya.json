@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1386,
+  "count": 1387,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15245,6 +15245,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mcaQqM9mxr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MPEZJ_M-oV4",
+      "title": "ふろうぐ老かわいい❤️ #ニコたんアニメ",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MPEZJ_M-oV4",
       "status": "unreviewed",
       "note": null
     }

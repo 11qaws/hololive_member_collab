@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 791,
+  "count": 794,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8700,6 +8700,39 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/s-ryur9C_uM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NiJUh04oEew",
+      "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NiJUh04oEew",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OhVssU_z5lA",
+      "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OhVssU_z5lA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LxfUqHLhevw",
+      "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LxfUqHLhevw",
       "status": "unreviewed",
       "note": null
     }

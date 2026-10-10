@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 780,
+  "count": 782,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8579,6 +8579,28 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jYzFoTmaIHM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r5dVVEZNP0Q",
+      "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r5dVVEZNP0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cQajwC6mhlU",
+      "title": "Thanks for 1(.02) million!!🎉 #1millionsubscribers #celebration #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cQajwC6mhlU",
       "status": "unreviewed",
       "note": null
     }

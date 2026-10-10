@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2417,
+  "count": 2418,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26586,6 +26586,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cNL9fTlnW38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DCJiRvoSD28",
+      "title": "【 #ホロドリ 】ししドリ杯チームw/てぇてぇ でポカジャンとかやる‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DCJiRvoSD28",
       "status": "unreviewed",
       "note": null
     }

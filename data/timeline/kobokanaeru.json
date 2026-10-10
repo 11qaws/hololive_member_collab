@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1754,
+  "count": 1758,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uhnubq3gd8E",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "published_at": "20261009",
+      "url": "https://youtu.be/uhnubq3gd8E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/uhnubq3gd8E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NiJUh04oEew",
+      "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
+      "published_at": "20261009",
+      "url": "https://youtu.be/NiJUh04oEew",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NiJUh04oEew/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OhVssU_z5lA",
+      "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261009",
+      "url": "https://youtu.be/OhVssU_z5lA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OhVssU_z5lA/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LxfUqHLhevw",
+      "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
+      "published_at": "20261009",
+      "url": "https://youtu.be/LxfUqHLhevw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LxfUqHLhevw/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yVYyxLL9iUs",
+      "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
+      "published_at": "20261008",
+      "url": "https://youtu.be/yVYyxLL9iUs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yVYyxLL9iUs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/s-ryur9C_uM/mqdefault.jpg",
       "partner_handle": "vestia_zeta",
       "partner_name": "Vestia Zeta Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "yVYyxLL9iUs",
-      "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
-      "published_at": "20261007",
-      "url": "https://youtu.be/yVYyxLL9iUs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/yVYyxLL9iUs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

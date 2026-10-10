@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1242,
+  "count": 1243,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13661,6 +13661,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mcaQqM9mxr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DbQXMsMieE0",
+      "title": "【同時視聴】『#朱色の仮面』大好きな漫画がついにアニメ化!!すうと一緒に第1話みるよ【尾丸ポルカ/水宮枢/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DbQXMsMieE0",
       "status": "unreviewed",
       "note": null
     }

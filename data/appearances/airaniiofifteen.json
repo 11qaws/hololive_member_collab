@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1159,
+  "count": 1166,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12748,6 +12748,83 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GwjrZkGxQPo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qpm2GeNmykY",
+      "title": "【Hololive Dreams】ioMoona time!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qpm2GeNmykY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3O_YOueo-ig",
+      "title": "Saatnya melepaskan rantai membebaskan diri yang asli. Dengarkan Dramatic XViltration Oleg Area15!",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240425",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3O_YOueo-ig",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n9n3TqcqewE",
+      "title": "Raihlah masa depan dengan tanganmu sendiri! Dengarkan Dramatic XViltration di segala platform!",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240424",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n9n3TqcqewE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "A5sUAUhrprY",
+      "title": "Saksikan perubahan dramatis Area15 di lagu terbaru \"Dramatic XViltration\"! #15x4nniversary",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240417",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/A5sUAUhrprY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EC-2APet9RU",
+      "title": "Dramatic XViltration",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240415",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EC-2APet9RU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FYxHGPXPiY4",
+      "title": "Dramatic XViltration - Japanese ver.",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240415",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FYxHGPXPiY4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MFexw5FcH38",
+      "title": "Dramatic XViltration - Instrumental",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240415",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MFexw5FcH38",
       "status": "unreviewed",
       "note": null
     }
