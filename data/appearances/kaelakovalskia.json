@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1120,
+  "count": 1121,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12319,6 +12319,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/R_rO5A22qDE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ww0nnMSWO7I",
+      "title": "【Hololive Dreams】First Time Playing #holodori",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ww0nnMSWO7I",
       "status": "unreviewed",
       "note": null
     }

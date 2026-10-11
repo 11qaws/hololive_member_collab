@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1604,
+  "count": 1605,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17643,6 +17643,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DCJiRvoSD28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jKWcL1XtVzY",
+      "title": "【 #ホロドリ 】ししドリ杯のあのチームと俺!?!?!?!?!?【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jKWcL1XtVzY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1491,
+  "count": 1493,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16400,6 +16400,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xw_cQWay7AE",
+      "title": "【ホロドリ】りぐろすで遊ぶぞ！！！！【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xw_cQWay7AE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J5ArluZmg5o",
+      "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J5ArluZmg5o",
       "status": "unreviewed",
       "note": null
     }

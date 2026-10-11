@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1043,
+  "count": 1044,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11472,6 +11472,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c9XZhiqOPk4",
+      "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c9XZhiqOPk4",
       "status": "unreviewed",
       "note": null
     }

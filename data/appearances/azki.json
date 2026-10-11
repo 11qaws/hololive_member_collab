@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1106,
+  "count": 1107,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12165,6 +12165,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Mre0PhrgLcE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5CV7XchOvUU",
+      "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5CV7XchOvUU",
       "status": "unreviewed",
       "note": null
     }

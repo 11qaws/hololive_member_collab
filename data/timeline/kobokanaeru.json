@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1758,
+  "count": 1762,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-cP2wRg1-e0",
+      "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+      "published_at": "20261010",
+      "url": "https://youtu.be/-cP2wRg1-e0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-cP2wRg1-e0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5CV7XchOvUU",
+      "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/5CV7XchOvUU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5CV7XchOvUU/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gwpNGfL9Pek",
+      "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
+      "published_at": "20261010",
+      "url": "https://youtu.be/gwpNGfL9Pek",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gwpNGfL9Pek/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -311,6 +347,18 @@
       "thumbnail": "https://img.youtube.com/vi/HcMk0V0gTiU/mqdefault.jpg",
       "partner_handle": "vestia_zeta",
       "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z0xUEhweI1U",
+      "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+      "published_at": "20261003",
+      "url": "https://youtu.be/z0xUEhweI1U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z0xUEhweI1U/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

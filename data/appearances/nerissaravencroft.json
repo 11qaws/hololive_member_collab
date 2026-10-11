@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1126,
+  "count": 1127,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12385,6 +12385,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cQajwC6mhlU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z0xUEhweI1U",
+      "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z0xUEhweI1U",
       "status": "unreviewed",
       "note": null
     }

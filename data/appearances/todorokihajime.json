@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1297,
+  "count": 1299,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14266,6 +14266,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/trKttFgIY_0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Oczr8R0w6As",
+      "title": "【ReGLOSSコラボ】一緒にチル #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Oczr8R0w6As",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J5ArluZmg5o",
+      "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J5ArluZmg5o",
       "status": "unreviewed",
       "note": null
     }

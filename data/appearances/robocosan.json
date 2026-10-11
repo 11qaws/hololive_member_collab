@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1329,
+  "count": 1331,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14618,6 +14618,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UMnDc0TEYQw",
+      "title": "【#ホロドリ】#ろぼあず と一緒にポカジャン！！！！！！ hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UMnDc0TEYQw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5CV7XchOvUU",
+      "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5CV7XchOvUU",
       "status": "unreviewed",
       "note": null
     }

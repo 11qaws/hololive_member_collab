@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1333,
+  "count": 1335,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14662,6 +14662,28 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MPEZJ_M-oV4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UjdcDg3mPnY",
+      "title": "ホロ鯖ARKきtらああああああああああああああああああああ!!!DAY2【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UjdcDg3mPnY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ne5UTaUAMvo",
+      "title": "全員でマル・マル・モリ・モリ!踊ってみた☀️",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ne5UTaUAMvo",
       "status": "unreviewed",
       "note": null
     }

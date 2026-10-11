@@ -1,7 +1,43 @@
 {
   "target": "yuzuki_choco",
-  "count": 3113,
+  "count": 3116,
   "entries": [
+    {
+      "video_id": "yfVCHt9brno",
+      "title": "【ホロARK】ARK上陸するぞ! 【ホロライブ/癒月ちょこ】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/yfVCHt9brno",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yfVCHt9brno/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OXq-hxQMDlI",
+      "title": "【#ホロドリ】アキちゃんと対決だいっ📣 【ホロライブ/癒月ちょこ】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/OXq-hxQMDlI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OXq-hxQMDlI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c9XZhiqOPk4",
+      "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/c9XZhiqOPk4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/c9XZhiqOPk4/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "q0wYZa7eEb8",
       "title": "【Freetalk】深夜にまったり悪魔のARKゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
@@ -37335,24 +37371,24 @@
       "paired_self": null
     },
     {
-      "video_id": "Zd6Fl-wZVHk",
-      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
-      "published_at": "",
-      "url": "https://youtu.be/Zd6Fl-wZVHk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "hTzLA7c04JM",
       "title": "【#ホロと祝う集英社100th】種村有菜先生×癒月ちょこスペシャル対談【ホロライブ/癒月ちょこ】",
       "published_at": "",
       "url": "https://youtu.be/hTzLA7c04JM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTzLA7c04JM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Zd6Fl-wZVHk",
+      "title": "【#FOAMSTARS】ブルーチーム参戦！ 楽しむわよ！！！！！！！【ホロライブ/癒月ちょこ】",
+      "published_at": "",
+      "url": "https://youtu.be/Zd6Fl-wZVHk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Zd6Fl-wZVHk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

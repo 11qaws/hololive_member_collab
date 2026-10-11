@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1668,
+  "count": 1670,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18347,6 +18347,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YjHwvaQ5MtA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JK9a1CQocNU",
+      "title": "【ホロライブ ドリームス】#ホロドリ ポッカジャーーーン！！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JK9a1CQocNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jKWcL1XtVzY",
+      "title": "【 #ホロドリ 】ししドリ杯のあのチームと俺!?!?!?!?!?【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jKWcL1XtVzY",
       "status": "unreviewed",
       "note": null
     }

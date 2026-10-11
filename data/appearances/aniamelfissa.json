@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1461,
+  "count": 1466,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16070,6 +16070,61 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LxfUqHLhevw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z0xUEhweI1U",
+      "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z0xUEhweI1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UMnDc0TEYQw",
+      "title": "【#ホロドリ】#ろぼあず と一緒にポカジャン！！！！！！ hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UMnDc0TEYQw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mre0PhrgLcE",
+      "title": "【 #ホロドリ 】#ろぼあず でポカジャンがっぽがっぽ~!!ホロメン乱入凸◎【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261009",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mre0PhrgLcE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cP2wRg1-e0",
+      "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cP2wRg1-e0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gwpNGfL9Pek",
+      "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gwpNGfL9Pek",
       "status": "unreviewed",
       "note": null
     }

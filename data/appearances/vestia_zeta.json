@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1075,
+  "count": 1078,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11824,6 +11824,39 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OhVssU_z5lA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z0xUEhweI1U",
+      "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z0xUEhweI1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-cP2wRg1-e0",
+      "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-cP2wRg1-e0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5CV7XchOvUU",
+      "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5CV7XchOvUU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 598,
+  "count": 599,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6577,6 +6577,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P_C91D1fKqM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z0xUEhweI1U",
+      "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261003",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z0xUEhweI1U",
       "status": "unreviewed",
       "note": null
     }

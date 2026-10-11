@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1494,
+  "count": 1495,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16433,6 +16433,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DCJiRvoSD28",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JK9a1CQocNU",
+      "title": "【ホロライブ ドリームス】#ホロドリ ポッカジャーーーン！！【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JK9a1CQocNU",
       "status": "unreviewed",
       "note": null
     }

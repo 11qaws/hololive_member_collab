@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1976,
+  "count": 1977,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21735,6 +21735,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rt7_6q8Rclc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0_-7MQxVxjk",
+      "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ!ゲスト：大神ミオ🌲【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0_-7MQxVxjk",
       "status": "unreviewed",
       "note": null
     }
