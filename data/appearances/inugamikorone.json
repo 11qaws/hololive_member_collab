@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1144,
+  "count": 1145,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12583,6 +12583,17 @@
       "published_at": "20261004",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hSJKa-b1VpM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NQc2ULvq7-k",
+      "title": "【アニメ】ここをフブキングダムとする!!【みろくの里】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NQc2ULvq7-k",
       "status": "unreviewed",
       "note": null
     }

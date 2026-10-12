@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 933,
+  "count": 934,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10262,6 +10262,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c2B_FPJkDTw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zNCnpGZRo8s",
+      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Ocean Fishing! Plenty of fish in the sea!🌱 | #ad 💄👧 (Spoiler Alert)",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zNCnpGZRo8s",
       "status": "unreviewed",
       "note": null
     }

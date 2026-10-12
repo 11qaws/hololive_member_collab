@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1495,
+  "count": 1496,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16444,6 +16444,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JK9a1CQocNU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yntknFdGzFw",
+      "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yntknFdGzFw",
       "status": "unreviewed",
       "note": null
     }

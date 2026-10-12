@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1212,
+  "count": 1213,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13331,6 +13331,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VSmelPligX8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "624XMrg3l64",
+      "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/624XMrg3l64",
       "status": "unreviewed",
       "note": null
     }

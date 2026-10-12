@@ -1,7 +1,43 @@
 {
   "target": "moona_hoshinova",
-  "count": 2642,
+  "count": 2645,
   "entries": [
+    {
+      "video_id": "NbzZWUP7yjY",
+      "title": "【Membership】Watch and Walk【Moona Hoshinova】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/NbzZWUP7yjY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NbzZWUP7yjY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4H-VTnYQB-M",
+      "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/4H-VTnYQB-M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4H-VTnYQB-M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "624XMrg3l64",
+      "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/624XMrg3l64",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/624XMrg3l64/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "8M4IFbZ_SxA",
       "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",

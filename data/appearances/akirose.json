@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1318,
+  "count": 1320,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14497,6 +14497,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OXq-hxQMDlI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IHyk0Xse3Wg",
+      "title": "【#ちくまろ】わちゃわちゃBig Walk📣 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IHyk0Xse3Wg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cyPhbiFX8eI",
+      "title": "次女大暴れ【ホロライブ / AZKi】#ぷちあず #shorts #壺おじ #hololive #RosaMiA #GettingOverIt",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261008",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cyPhbiFX8eI",
       "status": "unreviewed",
       "note": null
     }

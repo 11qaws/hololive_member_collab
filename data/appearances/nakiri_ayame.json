@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 937,
+  "count": 939,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10306,6 +10306,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o0v7SG5zbQc",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o0v7SG5zbQc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GTlBGK-DuE8",
+      "title": "【#ホロローソン】あやミオ二人でキャンペーン紹介配信!【百鬼あやめ/大神ミオ/ホロライブ】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GTlBGK-DuE8",
       "status": "unreviewed",
       "note": null
     }

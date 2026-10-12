@@ -1,7 +1,19 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1556,
+  "count": 1558,
   "entries": [
+    {
+      "video_id": "J1RSjv9Q3bE",
+      "title": "【DRESSMAKER】only the prettiest dresses for my fast fashion shop",
+      "published_at": "20261012",
+      "url": "https://youtu.be/J1RSjv9Q3bE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J1RSjv9Q3bE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "UIx1lScM4IU",
       "title": "【FINAL FANTASY XIV】LEEEEEEEEETS GO FISHINGGGGGG #ad",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/UIx1lScM4IU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zNCnpGZRo8s",
+      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Ocean Fishing! Plenty of fish in the sea!🌱 | #ad 💄👧 (Spoiler Alert)",
+      "published_at": "20261011",
+      "url": "https://youtu.be/zNCnpGZRo8s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zNCnpGZRo8s/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

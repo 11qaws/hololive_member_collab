@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1068,
+  "count": 1070,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11747,6 +11747,28 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r5dVVEZNP0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "facS93pFVgM",
+      "title": "【hololive Dreams】back to the basement grind 🫵【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/facS93pFVgM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7zJbXp5tss",
+      "title": "TODAY  NO MORE BROKE OK #holodori",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7zJbXp5tss",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1244,
+  "count": 1245,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13683,6 +13683,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ne5UTaUAMvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q3SRuViTO24",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💅✨ヴィヴィ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q3SRuViTO24",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1044,
+  "count": 1046,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11483,6 +11483,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c9XZhiqOPk4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "o0v7SG5zbQc",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/o0v7SG5zbQc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "me_Pq47Plxg",
+      "title": "【 Big Walk 】4人で協力謎解きできる!?#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/me_Pq47Plxg",
       "status": "unreviewed",
       "note": null
     }

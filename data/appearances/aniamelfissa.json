@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1466,
+  "count": 1468,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16125,6 +16125,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gwpNGfL9Pek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ak1Xc3TxJac",
+      "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ak1Xc3TxJac",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3MWvYVYt3Nc",
+      "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3MWvYVYt3Nc",
       "status": "unreviewed",
       "note": null
     }

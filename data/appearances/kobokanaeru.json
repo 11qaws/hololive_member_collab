@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 797,
+  "count": 799,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8766,6 +8766,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gwpNGfL9Pek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fHt1krJuNr4",
+      "title": "【hololive Dreams ホロライブドリームス】HOLODORIIIIIII【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fHt1krJuNr4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ak1Xc3TxJac",
+      "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ak1Xc3TxJac",
       "status": "unreviewed",
       "note": null
     }

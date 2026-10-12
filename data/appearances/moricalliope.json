@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1480,
+  "count": 1481,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16279,6 +16279,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5jJXMm7mIrU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ppn_FqhuiLw",
+      "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ppn_FqhuiLw",
       "status": "unreviewed",
       "note": null
     }

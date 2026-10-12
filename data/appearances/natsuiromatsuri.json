@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1517,
+  "count": 1518,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16686,6 +16686,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/62AgiXDP3tU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Dja0s_tl9ig",
+      "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Dja0s_tl9ig",
       "status": "unreviewed",
       "note": null
     }

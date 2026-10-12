@@ -1,7 +1,67 @@
 {
   "target": "moricalliope",
-  "count": 3777,
+  "count": 3782,
   "entries": [
+    {
+      "video_id": "jcDQsEftkpk",
+      "title": "【SIGNALIS】i wanna remember but i have a bad memory (part 2) #calliolive",
+      "published_at": "20261012",
+      "url": "https://youtu.be/jcDQsEftkpk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jcDQsEftkpk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t4b9y5XGlw8",
+      "title": "【hololive Dreams】rocking in with biboo today #calliolive #holodori",
+      "published_at": "20261012",
+      "url": "https://youtu.be/t4b9y5XGlw8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/t4b9y5XGlw8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "d_RYISTapbo",
+      "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
+      "published_at": "20261012",
+      "url": "https://youtu.be/d_RYISTapbo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/d_RYISTapbo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2Rx1Nx1cNlg",
+      "title": "【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori",
+      "published_at": "20261012",
+      "url": "https://youtu.be/2Rx1Nx1cNlg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2Rx1Nx1cNlg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Ppn_FqhuiLw",
+      "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
+      "published_at": "20261011",
+      "url": "https://youtu.be/Ppn_FqhuiLw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Ppn_FqhuiLw/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "RdaWhu97HqA",
       "title": "【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive",
@@ -15,9 +75,21 @@
       "paired_self": null
     },
     {
+      "video_id": "ohHabiPPiFY",
+      "title": "【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive",
+      "published_at": "20261010",
+      "url": "https://youtu.be/ohHabiPPiFY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ohHabiPPiFY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "QOhMghyZLVE",
       "title": "【hololive Dreams】ladies fear me, fish want me #calliolive #holodori",
-      "published_at": "20261009",
+      "published_at": "20261010",
       "url": "https://youtu.be/QOhMghyZLVE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/QOhMghyZLVE/mqdefault.jpg",
@@ -47,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/5jJXMm7mIrU/mqdefault.jpg",
       "partner_handle": "ninomaeinanis",
       "partner_name": "Ninomae Ina'nis Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ohHabiPPiFY",
-      "title": "【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive",
-      "published_at": "20261008",
-      "url": "https://youtu.be/ohHabiPPiFY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ohHabiPPiFY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

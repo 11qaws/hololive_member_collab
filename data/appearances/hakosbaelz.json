@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1261,
+  "count": 1262,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13870,6 +13870,17 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z0xUEhweI1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2Rx1Nx1cNlg",
+      "title": "【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2Rx1Nx1cNlg",
       "status": "unreviewed",
       "note": null
     }

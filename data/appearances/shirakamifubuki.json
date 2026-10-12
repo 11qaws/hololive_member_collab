@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3505,
+  "count": 3507,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38554,6 +38554,28 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rt7_6q8Rclc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Dja0s_tl9ig",
+      "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Dja0s_tl9ig",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NQc2ULvq7-k",
+      "title": "【アニメ】ここをフブキングダムとする!!【みろくの里】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NQc2ULvq7-k",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1017,
+  "count": 1018,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11186,6 +11186,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LxfUqHLhevw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yntknFdGzFw",
+      "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yntknFdGzFw",
       "status": "unreviewed",
       "note": null
     }

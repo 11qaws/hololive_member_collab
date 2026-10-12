@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2177,
+  "count": 2180,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dBrak5ChSXQ",
+      "title": "【朝ドリ#6】ゼータ先輩とホロドリ❤【ホロライブ  響咲リオナ】#ホロドリ",
+      "published_at": "20261011",
+      "url": "https://youtu.be/dBrak5ChSXQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dBrak5ChSXQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M8Ld87b-bfI",
+      "title": "【#ホロドリ】リオナちゃんと一緒に遊ぶぞ~~!!✨ #holodori #hololivedreams",
+      "published_at": "20261011",
+      "url": "https://youtu.be/M8Ld87b-bfI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/M8Ld87b-bfI/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q3SRuViTO24",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💅✨ヴィヴィ編】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/q3SRuViTO24",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/q3SRuViTO24/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "BO6FB-GPBB4",
-      "title": "【タンポポは耐える】リオナは耐える。多分【ホロライブ 響咲リオナ】",
+      "title": "【タンポポは耐える】リオナは耐える。多分【ホロライブ  響咲リオナ】",
       "published_at": "20261010",
       "url": "https://youtu.be/BO6FB-GPBB4",
       "entry_type": "stream",

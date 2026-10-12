@@ -1,6 +1,6 @@
 {
   "target": "hololiveenglish",
-  "count": 2,
+  "count": 3,
   "appearances": [
     {
       "video_id": "CYce1mozNRo",
@@ -21,6 +21,17 @@
       "published_at": "20260915",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5eK3iWd0FQ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P1EiHexHkHc",
+      "title": "【CHAT 振り返り雑談】Talking About #IRySConcert2026 !! THANK YOU!! ソロライブありがとう!!新ライブ衣装もお披露目!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P1EiHexHkHc",
       "status": "unreviewed",
       "note": null
     }

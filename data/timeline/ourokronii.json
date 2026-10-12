@@ -1,7 +1,43 @@
 {
   "target": "ourokronii",
-  "count": 1906,
+  "count": 1910,
   "entries": [
+    {
+      "video_id": "SLLS2T4SWvg",
+      "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
+      "published_at": "20261012",
+      "url": "https://youtu.be/SLLS2T4SWvg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SLLS2T4SWvg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oyOFxOhcXCQ",
+      "title": "【Hololive Dreams】We're CATCHING UP #holodori",
+      "published_at": "20261012",
+      "url": "https://youtu.be/oyOFxOhcXCQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oyOFxOhcXCQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i7zJbXp5tss",
+      "title": "TODAY  NO MORE BROKE OK #holodori",
+      "published_at": "20261012",
+      "url": "https://youtu.be/i7zJbXp5tss",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i7zJbXp5tss/mqdefault.jpg",
+      "partner_handle": "holoen_raorapanthera",
+      "partner_name": "Raora Panthera Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "liHFYjCa2Dg",
       "title": "【Hololive Dreams】The Dreams Ahh #holodori",
@@ -23,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/6ejO5FqYUKt/mqdefault.jpg",
       "partner_handle": "holoen_raorapanthera",
       "partner_name": "Raora Panthera Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "facS93pFVgM",
+      "title": "【hololive Dreams】back to the basement grind 🫵【#holodori】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/facS93pFVgM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/facS93pFVgM/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

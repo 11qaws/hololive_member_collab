@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1388,
+  "count": 1390,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15267,6 +15267,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ne5UTaUAMvo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Dja0s_tl9ig",
+      "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Dja0s_tl9ig",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q3SRuViTO24",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💅✨ヴィヴィ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q3SRuViTO24",
       "status": "unreviewed",
       "note": null
     }

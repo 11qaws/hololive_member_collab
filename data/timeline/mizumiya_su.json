@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2446,
+  "count": 2448,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "6NGG3Ka4R88",
+      "title": "【手書き】5分で作った曲が酷すぎる/みりきら #ホロライブ #VTuber #animation",
+      "published_at": "20261012",
+      "url": "https://youtu.be/6NGG3Ka4R88",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6NGG3Ka4R88/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "v5mrWzH1w8g",
       "title": "【みにみや】グルーミングしてみた #hololive #funny #animation",
       "published_at": "20261011",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/v5mrWzH1w8g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q3SRuViTO24",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💅✨ヴィヴィ編】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/q3SRuViTO24",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/q3SRuViTO24/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -71,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/Ne5UTaUAMvo/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9FpDYuWXTgQ",
+      "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
+      "published_at": "20261009",
+      "url": "https://youtu.be/9FpDYuWXTgQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9FpDYuWXTgQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -249,18 +285,6 @@
       "url": "https://youtu.be/MfUlg9FWdx4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/MfUlg9FWdx4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "9FpDYuWXTgQ",
-      "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-      "published_at": "20261006",
-      "url": "https://youtu.be/9FpDYuWXTgQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/9FpDYuWXTgQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
