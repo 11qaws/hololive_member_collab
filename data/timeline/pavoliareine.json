@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 3172,
+  "count": 3173,
   "entries": [
     {
       "video_id": "SJb2L2Y0-jA",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/SJb2L2Y0-jA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lZd_bHhNB68",
+      "title": "【 #ホロドリ 】ホロトリでホロドリ!?!?!?!?!?【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/lZd_bHhNB68",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/lZd_bHhNB68/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },

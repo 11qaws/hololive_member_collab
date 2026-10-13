@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2885,
+  "count": 2887,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xRlvKp55xIs",
+      "title": "【浮気判定シート!?】正反対の二人で女子会だ!まつりりかコラボ【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/xRlvKp55xIs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xRlvKp55xIs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "s26NJKTd-qI",
+      "title": "油はアチアチだし、足はパンパンだし、プンプン!!【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/s26NJKTd-qI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s26NJKTd-qI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

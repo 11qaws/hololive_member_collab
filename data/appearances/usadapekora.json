@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1671,
+  "count": 1672,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18380,6 +18380,17 @@
       "published_at": "20260930",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JT0OscpSP5Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s8E_ZDn6QAw",
+      "title": "ものすごく饒舌にヘラる兎田ぺこらwwwwwww #ぺこマリ #ホロドリ #ガチャ #shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s8E_ZDn6QAw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1979,
+  "count": 1980,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21768,6 +21768,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cyPhbiFX8eI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BNinM6Wa3Pk",
+      "title": "【Japanese Ramen Simulator】>>>>>>ド珍らーめん屋開業<<<<<<<<【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BNinM6Wa3Pk",
       "status": "unreviewed",
       "note": null
     }

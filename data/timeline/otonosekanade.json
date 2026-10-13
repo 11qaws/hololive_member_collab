@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2299,
+  "count": 2302,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,54 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WRC4rUL5ghw",
+      "title": "アイシカケ (Instrumental)",
+      "published_at": "20261012",
+      "url": "https://youtu.be/WRC4rUL5ghw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WRC4rUL5ghw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5L4DDPQCPg0",
+      "title": "アイシカケ",
+      "published_at": "20261012",
+      "url": "https://youtu.be/5L4DDPQCPg0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5L4DDPQCPg0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tMdBH2P7Oa4",
+      "title": "新曲『アイシカケ』出ました!いっぱい聞いてね🔥#音乃瀬奏 #アイシカケ",
+      "published_at": "20261012",
+      "url": "https://youtu.be/tMdBH2P7Oa4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tMdBH2P7Oa4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LjuKylF4udw",
+      "title": "音乃瀬奏 - アイシカケ (Official MV)",
+      "published_at": "20261012",
+      "url": "https://youtu.be/LjuKylF4udw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LjuKylF4udw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/xw_cQWay7AE/mqdefault.jpg",
       "partner_handle": "todorokihajime",
       "partner_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "LjuKylF4udw",
-      "title": "音乃瀬奏 - ??? (Official MV)",
-      "published_at": "20261009",
-      "url": "https://youtu.be/LjuKylF4udw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/LjuKylF4udw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

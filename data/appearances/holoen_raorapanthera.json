@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 786,
+  "count": 789,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8645,6 +8645,39 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oyOFxOhcXCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aMRFjcO58lA",
+      "title": "【POKÉMON FIRE RED】1 spicy yuripean stream to go pls, with some pkmn on the side【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aMRFjcO58lA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xwx8s_qkXus",
+      "title": "【hololive Dreams】might be graondstone【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xwx8s_qkXus",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AMKwq_MXukM",
+      "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AMKwq_MXukM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1320,
+  "count": 1322,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14519,6 +14519,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cyPhbiFX8eI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Lo_TnR73v3A",
+      "title": "【ホロARK】ARK上陸3日目! パイロメインテイムがしたいんじゃー!【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Lo_TnR73v3A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yglkhvNfWnE",
+      "title": "【 #ホロドリ 】#ロボタール の釣り ここ釣れてますか??【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yglkhvNfWnE",
       "status": "unreviewed",
       "note": null
     }

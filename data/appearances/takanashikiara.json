@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1125,
+  "count": 1128,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12374,6 +12374,39 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cQajwC6mhlU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lZd_bHhNB68",
+      "title": "【 #ホロドリ 】ホロトリでホロドリ!?!?!?!?!?【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lZd_bHhNB68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SJb2L2Y0-jA",
+      "title": "【hololive Dreams】BIRDS OF A FEATHER!! HOLOTORIでホロドリ #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SJb2L2Y0-jA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OQawPlFx8Do",
+      "title": "今、私のこと見て笑ったよね?(圧)#ホロライブ #hololive  #kobo_kanaeru  #takanashikiara",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OQawPlFx8Do",
       "status": "unreviewed",
       "note": null
     }

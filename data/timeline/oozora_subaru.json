@@ -1,7 +1,31 @@
 {
   "target": "oozora_subaru",
-  "count": 4931,
+  "count": 4934,
   "entries": [
+    {
+      "video_id": "aGEWoxMs6Kg",
+      "title": "【】本当にホラゲーなんですか?【ホロライブ/大空スバル】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/aGEWoxMs6Kg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aGEWoxMs6Kg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BNinM6Wa3Pk",
+      "title": "【Japanese Ramen Simulator】>>>>>>ド珍らーめん屋開業<<<<<<<<【ホロライブ/さくらみこ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/BNinM6Wa3Pk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BNinM6Wa3Pk/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "o0v7SG5zbQc",
       "title": "【】【ホロライブ/大空スバル】",
@@ -9,6 +33,18 @@
       "url": "https://youtu.be/o0v7SG5zbQc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/o0v7SG5zbQc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QeppR1Vk3_g",
+      "title": "【#最終回】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/QeppR1Vk3_g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QeppR1Vk3_g/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -39,14 +75,14 @@
       "paired_self": null
     },
     {
-      "video_id": "QeppR1Vk3_g",
-      "title": "【#最終回】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ!!!!!!!【ホロライブ/大空スバル】",
-      "published_at": "20261009",
-      "url": "https://youtu.be/QeppR1Vk3_g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QeppR1Vk3_g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
+      "video_id": "yfVCHt9brno",
+      "title": "【ホロARK】ARK上陸するぞ! 【ホロライブ/癒月ちょこ】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/yfVCHt9brno",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yfVCHt9brno/mqdefault.jpg",
+      "partner_handle": "yuzuki_choco",
+      "partner_name": "Choco Ch. 癒月ちょこ",
       "sub_entries": [],
       "paired_self": null
     },

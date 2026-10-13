@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1481,
+  "count": 1484,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16290,6 +16290,39 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ppn_FqhuiLw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "URoIRFVvsuD",
+      "title": "Shattered Legends ft. Matthew Mercer & Marisha Ray",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/URoIRFVvsuD",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LzXz7hX6ofa",
+      "title": "LEAGUE OF LEGENDS w/ SPECIAL GUEST",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LzXz7hX6ofa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MZX4T02aGXQ",
+      "title": "【hololive production x Critical Role】You ready for some Daggerheart? #ShatteredLegends",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MZX4T02aGXQ",
       "status": "unreviewed",
       "note": null
     }

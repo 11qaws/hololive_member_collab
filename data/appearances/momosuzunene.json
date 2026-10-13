@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1268,
+  "count": 1269,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13947,6 +13947,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ElRElcdQIFU",
+      "title": "【 #ホロ鯖ARK 】その3|なんでだよおおおおおおおおおおおおおおおおお【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ElRElcdQIFU",
       "status": "unreviewed",
       "note": null
     }

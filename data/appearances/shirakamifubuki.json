@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3507,
+  "count": 3512,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38576,6 +38576,61 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NQc2ULvq7-k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BNinM6Wa3Pk",
+      "title": "【Japanese Ramen Simulator】>>>>>>ド珍らーめん屋開業<<<<<<<<【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BNinM6Wa3Pk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JzHvkdqVgkI",
+      "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい&文明開化【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JzHvkdqVgkI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Lo_TnR73v3A",
+      "title": "【ホロARK】ARK上陸3日目! パイロメインテイムがしたいんじゃー!【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Lo_TnR73v3A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p56RdgclIB4",
+      "title": "【#インボキア】こわこわなボドゲ・・・?【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p56RdgclIB4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mNCm_htibCw",
+      "title": "【Invokyr】呪われたボドゲ?!?!?!なんとかなれ!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mNCm_htibCw",
       "status": "unreviewed",
       "note": null
     }

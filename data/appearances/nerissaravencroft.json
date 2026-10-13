@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1127,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12396,6 +12396,50 @@
       "published_at": "20261003",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z0xUEhweI1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "URoIRFVvsuD",
+      "title": "Shattered Legends ft. Matthew Mercer & Marisha Ray",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/URoIRFVvsuD",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3l6eG_cBlKA",
+      "title": "🔴LIVE |【VRCHAT】Ollie's Ramen Birthday Party!  | 💄🧟‍♀️",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3l6eG_cBlKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z3qd7Kj8Shk",
+      "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z3qd7Kj8Shk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MZX4T02aGXQ",
+      "title": "【hololive production x Critical Role】You ready for some Daggerheart? #ShatteredLegends",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MZX4T02aGXQ",
       "status": "unreviewed",
       "note": null
     }

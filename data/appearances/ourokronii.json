@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1070,
+  "count": 1071,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11769,6 +11769,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i7zJbXp5tss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Bf-svPy0kfU",
+      "title": "【hololive Dreams】MEET AND GREET WITH CELEBRITY OURO KRONII #holodori",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Bf-svPy0kfU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1468,
+  "count": 1471,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16147,6 +16147,39 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3MWvYVYt3Nc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0e3Z6brGBLs",
+      "title": "【hololive Dreams】 DON'T FORGET TO LOGIN TODAY!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0e3Z6brGBLs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hIab5_5T3g8",
+      "title": "【hololive Dreams】HAPPY BIRTHDAY KUREIJI OLLIE daily holodori ... #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hIab5_5T3g8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n1M-2Qe7OMg",
+      "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n1M-2Qe7OMg",
       "status": "unreviewed",
       "note": null
     }

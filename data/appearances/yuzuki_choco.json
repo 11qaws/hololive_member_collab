@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1046,
+  "count": 1048,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11505,6 +11505,28 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/me_Pq47Plxg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C8W03Z6zWFk",
+      "title": "【#アキちょこナイパレ|第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち?|シスターローズの懺悔室 🌹~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C8W03Z6zWFk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JzHvkdqVgkI",
+      "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい&文明開化【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JzHvkdqVgkI",
       "status": "unreviewed",
       "note": null
     }

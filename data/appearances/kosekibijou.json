@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1535,
+  "count": 1537,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16884,6 +16884,28 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/t4b9y5XGlw8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xwx8s_qkXus",
+      "title": "【hololive Dreams】might be graondstone【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xwx8s_qkXus",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1pdM-tUBukA",
+      "title": "【UNDERTALE】MAKING FRIENDS IN THE UNDERGROUND!!【pacifist run】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1pdM-tUBukA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1081,
+  "count": 1083,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11890,6 +11890,28 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3MWvYVYt3Nc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uqv64HCY-Fc",
+      "title": "【#holodori 】Morning...【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uqv64HCY-Fc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-GKhhny4ao4",
+      "title": "【Hololive Dreams】play with iofi and zeta!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-GKhhny4ao4",
       "status": "unreviewed",
       "note": null
     }

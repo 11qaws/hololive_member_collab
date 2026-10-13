@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2773,
+  "count": 2776,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z3qd7Kj8Shk",
+      "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
+      "published_at": "20261012",
+      "url": "https://youtu.be/z3qd7Kj8Shk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/z3qd7Kj8Shk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "fGfVta2QVeo",
+      "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
+      "published_at": "20261012",
+      "url": "https://youtu.be/fGfVta2QVeo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fGfVta2QVeo/mqdefault.jpg",
+      "partner_handle": "nerissaravencroft",
+      "partner_name": "Nerissa Ravencroft Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Ppn_FqhuiLw",
       "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
       "published_at": "20261011",
@@ -35,6 +59,42 @@
       "thumbnail": "https://img.youtube.com/vi/Ppn_FqhuiLw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MXUSGZT_Prs",
+      "title": "≪hololive Dreams≫ more feesh #3 #holodori",
+      "published_at": "20261011",
+      "url": "https://youtu.be/MXUSGZT_Prs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MXUSGZT_Prs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5pc_-YAwKAE",
+      "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Holdings Pt 2...First Playthrough #7【SPOILER WARNING】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/5pc_-YAwKAE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5pc_-YAwKAE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3l6eG_cBlKA",
+      "title": "🔴LIVE |【VRCHAT】Ollie's Ramen Birthday Party!  | 💄🧟‍♀️",
+      "published_at": "20261011",
+      "url": "https://youtu.be/3l6eG_cBlKA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3l6eG_cBlKA/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -81,30 +141,6 @@
       "url": "https://youtu.be/xib4vD33oYY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/xib4vD33oYY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "MXUSGZT_Prs",
-      "title": "≪hololive Dreams≫ more feesh #3 #holodori",
-      "published_at": "20261009",
-      "url": "https://youtu.be/MXUSGZT_Prs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MXUSGZT_Prs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "5pc_-YAwKAE",
-      "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Holdings Pt 2...First Playthrough #7【SPOILER WARNING】",
-      "published_at": "20261009",
-      "url": "https://youtu.be/5pc_-YAwKAE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5pc_-YAwKAE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

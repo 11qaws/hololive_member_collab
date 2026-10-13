@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2134,
+  "count": 2136,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23473,6 +23473,28 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HyYRxpqKoY0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BNinM6Wa3Pk",
+      "title": "【Japanese Ramen Simulator】>>>>>>ド珍らーめん屋開業<<<<<<<<【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BNinM6Wa3Pk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yfVCHt9brno",
+      "title": "【ホロARK】ARK上陸するぞ! 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261010",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yfVCHt9brno",
       "status": "unreviewed",
       "note": null
     }

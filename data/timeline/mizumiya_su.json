@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2448,
+  "count": 2451,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,30 @@
       "paired_self": null
     },
     {
+      "video_id": "vUQa-pOEAnY",
+      "title": "マルマルモリモリ/みにみや踊ってみた #vtuber #ホロライブ #dance",
+      "published_at": "20261013",
+      "url": "https://youtu.be/vUQa-pOEAnY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vUQa-pOEAnY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DjNZh4y9Qkk",
+      "title": "【 タンポポは耐える。 】忍耐の水宮✋【水宮枢/ホロライブ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/DjNZh4y9Qkk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DjNZh4y9Qkk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "6NGG3Ka4R88",
       "title": "【手書き】5分で作った曲が酷すぎる/みりきら #ホロライブ #VTuber #animation",
       "published_at": "20261012",
@@ -23,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/6NGG3Ka4R88/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "izevNlPpHvc",
+      "title": "ついてこれる?30秒の爆速自己紹介!【🎧🔧千速編】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/izevNlPpHvc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/izevNlPpHvc/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -69,6 +105,18 @@
       "url": "https://youtu.be/RSQe2OoIV2Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/RSQe2OoIV2Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MfUlg9FWdx4",
+      "title": "【#2】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/MfUlg9FWdx4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MfUlg9FWdx4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -275,18 +323,6 @@
       "thumbnail": "https://img.youtube.com/vi/aIwPjHVYKsg/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "MfUlg9FWdx4",
-      "title": "【#2】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
-      "published_at": "20261006",
-      "url": "https://youtu.be/MfUlg9FWdx4",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/MfUlg9FWdx4/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

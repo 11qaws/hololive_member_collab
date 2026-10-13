@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 934,
+  "count": 938,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10273,6 +10273,50 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zNCnpGZRo8s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "URoIRFVvsuD",
+      "title": "Shattered Legends ft. Matthew Mercer & Marisha Ray",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/URoIRFVvsuD",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uK13eINwmY7",
+      "title": "【Sponsored】Ratatan w/ Gigi",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uK13eINwmY7",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MZX4T02aGXQ",
+      "title": "【hololive production x Critical Role】You ready for some Daggerheart? #ShatteredLegends",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MZX4T02aGXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GK37bRFmm2c",
+      "title": "【Hololive Dreams】Progress #holodori",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GK37bRFmm2c",
       "status": "unreviewed",
       "note": null
     }

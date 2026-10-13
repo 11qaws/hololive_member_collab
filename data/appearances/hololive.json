@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 178,
+  "count": 179,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1957,6 +1957,17 @@
       "published_at": "20261005",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BqUfGBP3jMM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "efFNIDrV9Io",
+      "title": "さくらみこ 2nd Album 『Blooming Cinderella』クロスフェード - 2026年10月14日発売",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/efFNIDrV9Io",
       "status": "unreviewed",
       "note": null
     }

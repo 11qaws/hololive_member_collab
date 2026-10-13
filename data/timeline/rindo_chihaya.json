@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2244,
+  "count": 2249,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mNCm_htibCw",
+      "title": "【Invokyr】呪われたボドゲ?!?!?!なんとかなれ!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/mNCm_htibCw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mNCm_htibCw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,12 +39,72 @@
       "paired_self": null
     },
     {
+      "video_id": "jYaN2U7Lx_4",
+      "title": "【#インボキア】呪いのダイスゲーム開催!!!!【ホロライブ/白上フブキ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/jYaN2U7Lx_4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jYaN2U7Lx_4/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "p56RdgclIB4",
+      "title": "【#インボキア】こわこわなボドゲ・・・?【ホロライブ/夏色まつり】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/p56RdgclIB4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/p56RdgclIB4/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "izevNlPpHvc",
+      "title": "ついてこれる?30秒の爆速自己紹介!【🎧🔧千速編】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/izevNlPpHvc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/izevNlPpHvc/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6NGG3Ka4R88",
+      "title": "【手書き】5分で作った曲が酷すぎる/みりきら #ホロライブ #VTuber #animation",
+      "published_at": "20261012",
+      "url": "https://youtu.be/6NGG3Ka4R88",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6NGG3Ka4R88/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "8uPD30WkoVM",
       "title": "元気が残ってたらやるかもメン限配信【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published_at": "20261011",
       "url": "https://youtu.be/8uPD30WkoVM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/8uPD30WkoVM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fUfP9lBpKgs",
+      "title": "【F1同時視聴】シンガポールGP!決勝ナイトレース!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20261011",
+      "url": "https://youtu.be/fUfP9lBpKgs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fUfP9lBpKgs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -69,18 +141,6 @@
       "url": "https://youtu.be/LAMRZYO7gf0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/LAMRZYO7gf0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "fUfP9lBpKgs",
-      "title": "【F1同時視聴】シンガポールGP!決勝ナイトレース!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published_at": "20261010",
-      "url": "https://youtu.be/fUfP9lBpKgs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/fUfP9lBpKgs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

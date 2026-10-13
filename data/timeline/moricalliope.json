@@ -1,7 +1,43 @@
 {
   "target": "moricalliope",
-  "count": 3782,
+  "count": 3785,
   "entries": [
+    {
+      "video_id": "URoIRFVvsuD",
+      "title": "Shattered Legends ft. Matthew Mercer & Marisha Ray",
+      "published_at": "20261120",
+      "url": "https://youtu.be/URoIRFVvsuD",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LzXz7hX6ofa",
+      "title": "LEAGUE OF LEGENDS w/ SPECIAL GUEST",
+      "published_at": "20261015",
+      "url": "https://youtu.be/LzXz7hX6ofa",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LzXz7hX6ofa/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MZX4T02aGXQ",
+      "title": "【hololive production x Critical Role】You ready for some Daggerheart? #ShatteredLegends",
+      "published_at": "20261013",
+      "url": "https://youtu.be/MZX4T02aGXQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/MZX4T02aGXQ/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "jcDQsEftkpk",
       "title": "【SIGNALIS】i wanna remember but i have a bad memory (part 2) #calliolive",
@@ -51,6 +87,18 @@
       "paired_self": null
     },
     {
+      "video_id": "RdaWhu97HqA",
+      "title": "【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive",
+      "published_at": "20261011",
+      "url": "https://youtu.be/RdaWhu97HqA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RdaWhu97HqA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Ppn_FqhuiLw",
       "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
       "published_at": "20261011",
@@ -59,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/Ppn_FqhuiLw/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "RdaWhu97HqA",
-      "title": "【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive",
-      "published_at": "20261010",
-      "url": "https://youtu.be/RdaWhu97HqA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/RdaWhu97HqA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1496,
+  "count": 1497,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16455,6 +16455,17 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yntknFdGzFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SJb2L2Y0-jA",
+      "title": "【hololive Dreams】BIRDS OF A FEATHER!! HOLOTORIでホロドリ #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SJb2L2Y0-jA",
       "status": "unreviewed",
       "note": null
     }

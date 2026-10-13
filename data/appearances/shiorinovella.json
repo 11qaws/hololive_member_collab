@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 985,
+  "count": 987,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10834,6 +10834,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cQajwC6mhlU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "URoIRFVvsuD",
+      "title": "Shattered Legends ft. Matthew Mercer & Marisha Ray",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/URoIRFVvsuD",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MZX4T02aGXQ",
+      "title": "【hololive production x Critical Role】You ready for some Daggerheart? #ShatteredLegends",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MZX4T02aGXQ",
       "status": "unreviewed",
       "note": null
     }

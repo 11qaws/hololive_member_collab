@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1262,
+  "count": 1264,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13881,6 +13881,28 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2Rx1Nx1cNlg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3l6eG_cBlKA",
+      "title": "🔴LIVE |【VRCHAT】Ollie's Ramen Birthday Party!  | 💄🧟‍♀️",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261011",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3l6eG_cBlKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fGfVta2QVeo",
+      "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fGfVta2QVeo",
       "status": "unreviewed",
       "note": null
     }

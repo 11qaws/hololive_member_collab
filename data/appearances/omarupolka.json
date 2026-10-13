@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1988,
+  "count": 1989,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21867,6 +21867,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bkuQTaGvLSM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vDwkqnTSXT4",
+      "title": "【 Ratatan(ラタタン) 】ポルカと二人でラタタン!!!どんなゲームなの~!?【 桃鈴ねね / 尾丸ポルカ / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vDwkqnTSXT4",
       "status": "unreviewed",
       "note": null
     }
