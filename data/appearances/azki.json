@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1107,
+  "count": 1109,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12176,6 +12176,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5CV7XchOvUU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ku7_BDnFNQY",
+      "title": "【#ホロドリ 】100連ガチャ対決!運のいい姉妹はだれ!?#RosaMiA  【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ku7_BDnFNQY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bSU9petYzKc",
+      "title": "【ホロドリ】RosaMiAで・・ガチャ対決?!?!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bSU9petYzKc",
       "status": "unreviewed",
       "note": null
     }

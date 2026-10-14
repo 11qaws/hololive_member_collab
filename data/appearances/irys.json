@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1157,
+  "count": 1158,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12726,6 +12726,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7BB1hl9FqDk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9MVZmTwLr1g",
+      "title": "The realization came in too late😢😢😢 #diy #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9MVZmTwLr1g",
       "status": "unreviewed",
       "note": null
     }

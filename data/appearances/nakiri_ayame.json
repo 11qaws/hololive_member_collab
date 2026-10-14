@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 939,
+  "count": 940,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10328,6 +10328,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GTlBGK-DuE8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g-Pot3FcnUY",
+      "title": "【BOMBANANA!】 ホロライブ2期生で協力爆弾解除できるのか? 【ホロライブ/癒月ちょこ/大空スバル/百鬼あやめ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g-Pot3FcnUY",
       "status": "unreviewed",
       "note": null
     }

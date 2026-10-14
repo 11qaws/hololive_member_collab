@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1048,
+  "count": 1049,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11527,6 +11527,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JzHvkdqVgkI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qbpGRUKFqnA",
+      "title": "【BOMBANANA!】幻の2期生コラボ【百鬼あやめ/ホロライブ】",
+      "channel_handle": "nakiri_ayame",
+      "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qbpGRUKFqnA",
       "status": "unreviewed",
       "note": null
     }

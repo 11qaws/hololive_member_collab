@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 4756,
+  "count": 4757,
   "entries": [
     {
       "video_id": "rQJtAEtidic",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/rQJtAEtidic",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/rQJtAEtidic/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5XVavftwhps",
+      "title": "【爆走】ぺこら、レーシングマスター案件でガチレース!最速の座を目指して大爆走!【兎田ぺこら/レーシングマスター】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/5XVavftwhps",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5XVavftwhps/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

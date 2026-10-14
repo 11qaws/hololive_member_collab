@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1980,
+  "count": 1983,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21779,6 +21779,39 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BNinM6Wa3Pk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y4TuxUICXIQ",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y4TuxUICXIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CSDqYuiQUsc",
+      "title": "【#ホロドリ】#RosaMiA ガチャ対決!三姉妹で一番運がいいのは誰だ――⁉️hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CSDqYuiQUsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ku7_BDnFNQY",
+      "title": "【#ホロドリ 】100連ガチャ対決!運のいい姉妹はだれ!?#RosaMiA  【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ku7_BDnFNQY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1497,
+  "count": 1498,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16466,6 +16466,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SJb2L2Y0-jA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pGHdBSGFLqY",
+      "title": "【#SSholox 】みんなでティア表!をやるぞ!【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pGHdBSGFLqY",
       "status": "unreviewed",
       "note": null
     }

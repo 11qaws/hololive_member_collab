@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 7451,
+  "count": 7452,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "y4TuxUICXIQ",
+      "title": "【】【ホロライブ/大空スバル】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/y4TuxUICXIQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/y4TuxUICXIQ/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },

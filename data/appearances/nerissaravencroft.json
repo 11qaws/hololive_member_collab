@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1131,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12440,6 +12440,61 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MZX4T02aGXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hViopM3eW_o",
+      "title": "【VRChat】Ollie's Ramen Birthday Party!! Let's EAT EAT EAT!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hViopM3eW_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OV-2TlfCqUg",
+      "title": "【VRChat #OlliesRamenParty】HAPPY BIRTHDAY TO THE SWEETEST ZOMBIE!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OV-2TlfCqUg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kk0oE7MfGCY",
+      "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kk0oE7MfGCY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CbTM0de_DWA",
+      "title": "【Ollie's Ramen Birthday Party | VRChat】HAPPY BIRTHDAY OLLIE!!! LETS EAT RAMEN TOGETHER ?!!!",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CbTM0de_DWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WNY4NI8Alrc",
+      "title": "【VRChat】HAPPY BIRTHDAY OLLIE!!!!! ❤️ ramen party? 🍜",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WNY4NI8Alrc",
       "status": "unreviewed",
       "note": null
     }

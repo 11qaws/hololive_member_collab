@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1455,
+  "count": 1456,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16004,6 +16004,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pGHdBSGFLqY",
+      "title": "【#SSholox 】みんなでティア表!をやるぞ!【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20261006",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pGHdBSGFLqY",
       "status": "unreviewed",
       "note": null
     }

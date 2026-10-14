@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2421,
+  "count": 2422,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26630,6 +26630,17 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jKWcL1XtVzY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "y4TuxUICXIQ",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/y4TuxUICXIQ",
       "status": "unreviewed",
       "note": null
     }

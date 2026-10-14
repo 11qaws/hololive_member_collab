@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1322,
+  "count": 1324,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14541,6 +14541,28 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yglkhvNfWnE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CSDqYuiQUsc",
+      "title": "【#ホロドリ】#RosaMiA ガチャ対決!三姉妹で一番運がいいのは誰だ――⁉️hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CSDqYuiQUsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bSU9petYzKc",
+      "title": "【ホロドリ】RosaMiAで・・ガチャ対決?!?!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bSU9petYzKc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1520,
+  "count": 1521,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16719,6 +16719,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mNCm_htibCw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xRlvKp55xIs",
+      "title": "【浮気判定シート!?】正反対の二人で女子会だ!まつりりかコラボ【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xRlvKp55xIs",
       "status": "unreviewed",
       "note": null
     }

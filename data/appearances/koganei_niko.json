@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 880,
+  "count": 881,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9679,6 +9679,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/izevNlPpHvc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yLvhG4bRyow",
+      "title": "ヴィヴィガーでマル・マル・モリ・モリ!踊ってみた☀️",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yLvhG4bRyow",
       "status": "unreviewed",
       "note": null
     }

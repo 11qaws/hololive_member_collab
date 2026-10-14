@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1128,
+  "count": 1129,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12407,6 +12407,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OQawPlFx8Do",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Db8BFOGOo1o",
+      "title": "【POKÉMON LEAF GREEN】we're legally responsible for each others crimes【SOUL-LINK NUZLOCKE】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Db8BFOGOo1o",
       "status": "unreviewed",
       "note": null
     }

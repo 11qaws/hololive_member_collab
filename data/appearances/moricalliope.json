@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1484,
+  "count": 1485,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16323,6 +16323,17 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MZX4T02aGXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9MVZmTwLr1g",
+      "title": "The realization came in too late😢😢😢 #diy #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9MVZmTwLr1g",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 3420,
+  "count": 3425,
   "entries": [
     {
       "video_id": "-TakcYwYUSo",
@@ -23,6 +23,78 @@
       "thumbnail": "https://img.youtube.com/vi/3bwEiGea-5o/mqdefault.jpg",
       "partner_handle": "aniamelfissa",
       "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hViopM3eW_o",
+      "title": "【VRChat】Ollie's Ramen Birthday Party!! Let's EAT EAT EAT!【hololive | moona】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/hViopM3eW_o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/hViopM3eW_o/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OV-2TlfCqUg",
+      "title": "【VRChat #OlliesRamenParty】HAPPY BIRTHDAY TO THE SWEETEST ZOMBIE!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/OV-2TlfCqUg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/OV-2TlfCqUg/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kk0oE7MfGCY",
+      "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
+      "published_at": "20261013",
+      "url": "https://youtu.be/Kk0oE7MfGCY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Kk0oE7MfGCY/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CbTM0de_DWA",
+      "title": "【Ollie's Ramen Birthday Party | VRChat】HAPPY BIRTHDAY OLLIE!!! LETS EAT RAMEN TOGETHER ?!!!",
+      "published_at": "20261013",
+      "url": "https://youtu.be/CbTM0de_DWA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CbTM0de_DWA/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WNY4NI8Alrc",
+      "title": "【VRChat】HAPPY BIRTHDAY OLLIE!!!!! ❤️ ramen party? 🍜",
+      "published_at": "20261013",
+      "url": "https://youtu.be/WNY4NI8Alrc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WNY4NI8Alrc/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x4eIbYKOZXo",
+      "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/x4eIbYKOZXo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x4eIbYKOZXo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -779,18 +851,6 @@
       "thumbnail": "https://img.youtube.com/vi/QiATSYtmze4/mqdefault.jpg",
       "partner_handle": "vestia_zeta",
       "partner_name": "Vestia Zeta Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "x4eIbYKOZXo",
-      "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
-      "published_at": "20260927",
-      "url": "https://youtu.be/x4eIbYKOZXo",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/x4eIbYKOZXo/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
