@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 7452,
+  "count": 7454,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6dyS5PuVy24",
+      "title": "【#ド珍組】開店★ド珍ラーメン【ホロライブ/白上フブキ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/6dyS5PuVy24",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6dyS5PuVy24/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tMOyVuhtnU8",
+      "title": "【ラーメンシミュレーター】ド珍でラーメン屋を経営するとこうなる【大神ミオ視点】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/tMOyVuhtnU8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tMOyVuhtnU8/mqdefault.jpg",
+      "partner_handle": "ookamimio",
+      "partner_name": "Mio Channel 大神ミオ",
       "sub_entries": [],
       "paired_self": null
     },

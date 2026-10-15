@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2500,
+  "count": 2501,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -21,6 +21,18 @@
       "url": "https://youtu.be/RUB0bEwTJeL",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9gu3Re3YTtQ",
+      "title": "ARライブグッズの実物を初披露!GLOSSERのみんなと一緒に見ちゃおう!!【#ReGLOSS_ARLIVE】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/9gu3Re3YTtQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9gu3Re3YTtQ/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
       "sub_entries": [],

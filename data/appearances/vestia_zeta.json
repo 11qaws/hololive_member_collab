@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1090,
+  "count": 1093,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -11989,6 +11989,39 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fGfVta2QVeo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J7X_-Z37pt4",
+      "title": "【hololive Dreams】 PRACTICING RYTHM LIVE SKILL【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J7X_-Z37pt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TM_j1DJGA-Y",
+      "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TM_j1DJGA-Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1kN3r2ME5HA",
+      "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1kN3r2ME5HA",
       "status": "unreviewed",
       "note": null
     }

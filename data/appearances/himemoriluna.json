@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1067,
+  "count": 1068,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11736,6 +11736,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/le1JQDJ0xII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SO4RGesjHjc",
+      "title": "【】4人で格付けランキングするしゅばああああああああああああああああああああああああああああああああああああああああああああ【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SO4RGesjHjc",
       "status": "unreviewed",
       "note": null
     }

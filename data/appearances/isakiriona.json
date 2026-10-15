@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1224,
+  "count": 1228,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13463,6 +13463,50 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yLvhG4bRyow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HbnrA9b5iH8",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️3Dでお届け!まずは3チームずつの総当たり戦!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HbnrA9b5iH8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YpHDZs_IMfY",
+      "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校の注目ポイントをチェック!本戦をもっと楽しんじゃおう!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YpHDZs_IMfY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/moynbcjuOBY",
       "status": "unreviewed",
       "note": null
     }

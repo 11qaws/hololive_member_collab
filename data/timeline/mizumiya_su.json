@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2453,
+  "count": 2459,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,78 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yysalaEg0ng",
+      "title": "【Japanese Ramen Simulator】最強塩ラーメン屋への道…!✨️【水宮枢/ホロライブ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/yysalaEg0ng",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yysalaEg0ng/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "r6164aiVdZE",
+      "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟#13【水宮枢/ホロライブ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/r6164aiVdZE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/r6164aiVdZE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aGlmDUWP-B4",
+      "title": "心臓マッスル/踊ってみた #vtuber #hololive #dance",
+      "published_at": "20261014",
+      "url": "https://youtu.be/aGlmDUWP-B4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aGlmDUWP-B4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0WmS7VsEX0c",
+      "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン!【音乃瀬奏】#ReGLOSS",
+      "published_at": "20261014",
+      "url": "https://youtu.be/0WmS7VsEX0c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0WmS7VsEX0c/mqdefault.jpg",
+      "partner_handle": "otonosekanade",
+      "partner_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "published_at": "20261014",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L3-JqdtdAQg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "published_at": "20261014",
+      "url": "https://youtu.be/moynbcjuOBY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/moynbcjuOBY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -57,6 +129,18 @@
       "url": "https://youtu.be/DjNZh4y9Qkk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/DjNZh4y9Qkk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "B8uQ19SjIVQ",
+      "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢/ホロライブ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/B8uQ19SjIVQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/B8uQ19SjIVQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -119,18 +203,6 @@
       "thumbnail": "https://img.youtube.com/vi/q3SRuViTO24/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "B8uQ19SjIVQ",
-      "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢/ホロライブ】",
-      "published_at": "20261010",
-      "url": "https://youtu.be/B8uQ19SjIVQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/B8uQ19SjIVQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

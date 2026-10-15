@@ -1,7 +1,19 @@
 {
   "target": "kaelakovalskia",
-  "count": 2920,
+  "count": 2921,
   "entries": [
+    {
+      "video_id": "RCHwC80-wjQ",
+      "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/RCHwC80-wjQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/RCHwC80-wjQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "RU35S-EZU0g",
       "title": "【hololive OCG】BEEG HANDS MEANS BEEG LUCK!!!!!!!!! 【handcam】",
@@ -17,10 +29,22 @@
     {
       "video_id": "Xwx8s_qkXus",
       "title": "【hololive Dreams】might be graondstone【#holodori】",
-      "published_at": "20261012",
+      "published_at": "20261013",
       "url": "https://youtu.be/Xwx8s_qkXus",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Xwx8s_qkXus/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6_macuVxJ4c",
+      "title": "【PengPong】wow i can show the Pemaloe's POV in the basement now!",
+      "published_at": "20261012",
+      "url": "https://youtu.be/6_macuVxJ4c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6_macuVxJ4c/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/AMKwq_MXukM/mqdefault.jpg",
       "partner_handle": "kosekibijou",
       "partner_name": "Koseki Bijou Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "6_macuVxJ4c",
-      "title": "【PengPong】wow i can show the Pemaloe's POV in the basement now!",
-      "published_at": "20261011",
-      "url": "https://youtu.be/6_macuVxJ4c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/6_macuVxJ4c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

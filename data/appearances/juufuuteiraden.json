@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 929,
+  "count": 931,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10218,6 +10218,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J5ArluZmg5o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eldFBt5q_LE",
+      "title": "あは〜ん うふ〜ん いや〜ん @JuufuuteiRaden",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eldFBt5q_LE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9gu3Re3YTtQ",
+      "title": "ARライブグッズの実物を初披露!GLOSSERのみんなと一緒に見ちゃおう!!【#ReGLOSS_ARLIVE】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9gu3Re3YTtQ",
       "status": "unreviewed",
       "note": null
     }

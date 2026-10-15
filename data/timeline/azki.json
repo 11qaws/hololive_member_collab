@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2821,
+  "count": 2823,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/UdLwgvlJqL5",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Hlm-t5kEmgM",
+      "title": "【GeoGuessr】今日は鉄道の日!日本の鉄道車両基地をゲス!【ホロライブ / AZKi】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/Hlm-t5kEmgM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Hlm-t5kEmgM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v15Gn9AwPZk",
+      "title": "きたねぇ花火だ #hololive #ホロライブ #ホロぐら #綺麗な花火は明日",
+      "published_at": "20261014",
+      "url": "https://youtu.be/v15Gn9AwPZk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/v15Gn9AwPZk/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

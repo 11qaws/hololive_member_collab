@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2422,
+  "count": 2424,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26641,6 +26641,28 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/y4TuxUICXIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6dyS5PuVy24",
+      "title": "【#ド珍組】開店★ド珍ラーメン【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6dyS5PuVy24",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tMOyVuhtnU8",
+      "title": "【ラーメンシミュレーター】ド珍でラーメン屋を経営するとこうなる【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tMOyVuhtnU8",
       "status": "unreviewed",
       "note": null
     }

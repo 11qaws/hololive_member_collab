@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2183,
+  "count": 2190,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,78 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sfhaGNWf0X4",
+      "title": "【妹に運転を教える】無免許だけど、長女なんでいけます!!【ホロライブ  響咲リオナ】",
+      "published_at": "20261015",
+      "url": "https://youtu.be/sfhaGNWf0X4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sfhaGNWf0X4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uH9AFj1qbyA",
+      "title": "【朝ドリ#7】新エリア遊んでいく❤ビンゴも埋めたい・・!【ホロライブ  響咲リオナ】#ホロドリ",
+      "published_at": "20261014",
+      "url": "https://youtu.be/uH9AFj1qbyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/uH9AFj1qbyA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "57EhYtFyeDo",
+      "title": "【 メンバーシップ限定 】同時視聴✨『シャッターアイランド』観る❤【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/57EhYtFyeDo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/57EhYtFyeDo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YpHDZs_IMfY",
+      "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校の注目ポイントをチェック!本戦をもっと楽しんじゃおう!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/YpHDZs_IMfY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YpHDZs_IMfY/mqdefault.jpg",
+      "partner_handle": "hakuikoyori",
+      "partner_name": "Koyori ch. 博衣こより - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "published_at": "20261014",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L3-JqdtdAQg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "published_at": "20261014",
+      "url": "https://youtu.be/moynbcjuOBY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/moynbcjuOBY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +131,18 @@
       "thumbnail": "https://img.youtube.com/vi/izevNlPpHvc/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HbnrA9b5iH8",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️3Dでお届け!まずは3チームずつの総当たり戦!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "published_at": "20261012",
+      "url": "https://youtu.be/HbnrA9b5iH8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HbnrA9b5iH8/mqdefault.jpg",
+      "partner_handle": "hakuikoyori",
+      "partner_name": "Koyori ch. 博衣こより - holoX -",
       "sub_entries": [],
       "paired_self": null
     },

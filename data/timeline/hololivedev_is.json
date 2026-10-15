@@ -1,6 +1,6 @@
 {
   "target": "hololivedev_is",
-  "count": 965,
+  "count": 966,
   "entries": [
     {
       "video_id": "9gu3Re3YTtQ",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/9gu3Re3YTtQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/9gu3Re3YTtQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PQRTFRt1jL0",
+      "title": "ポーズを決めちゃえっ 奏ver. みなさんは最後どう聞こえましたか?🤔 #音乃瀬奏 #ReGLOSS #VTuber #Shorts",
+      "published_at": "20261014",
+      "url": "https://youtu.be/PQRTFRt1jL0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PQRTFRt1jL0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

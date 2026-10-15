@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1395,
+  "count": 1398,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15344,6 +15344,39 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yLvhG4bRyow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/moynbcjuOBY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C76Y3eNI8hU",
+      "title": "労い特化型ラジオ【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C76Y3eNI8hU",
       "status": "unreviewed",
       "note": null
     }

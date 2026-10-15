@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1223,
+  "count": 1224,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13452,6 +13452,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fGfVta2QVeo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "asHmzNw6E6Y",
+      "title": "【HOLOLIVE DREAMS】mother? #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/asHmzNw6E6Y",
       "status": "unreviewed",
       "note": null
     }

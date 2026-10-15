@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1983,
+  "count": 1986,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21812,6 +21812,39 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ku7_BDnFNQY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HbnrA9b5iH8",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️3Dでお届け!まずは3チームずつの総当たり戦!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HbnrA9b5iH8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YpHDZs_IMfY",
+      "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校の注目ポイントをチェック!本戦をもっと楽しんじゃおう!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YpHDZs_IMfY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6dyS5PuVy24",
+      "title": "【#ド珍組】開店★ド珍ラーメン【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6dyS5PuVy24",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1076,
+  "count": 1077,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11835,6 +11835,17 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bkuQTaGvLSM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v15Gn9AwPZk",
+      "title": "きたねぇ花火だ #hololive #ホロライブ #ホロぐら #綺麗な花火は明日",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v15Gn9AwPZk",
       "status": "unreviewed",
       "note": null
     }

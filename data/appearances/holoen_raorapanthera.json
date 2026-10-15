@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 797,
+  "count": 798,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8766,6 +8766,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fGfVta2QVeo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RCHwC80-wjQ",
+      "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RCHwC80-wjQ",
       "status": "unreviewed",
       "note": null
     }

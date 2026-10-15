@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1707,
+  "count": 1710,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18776,6 +18776,39 @@
       "published_at": "20261009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bkuQTaGvLSM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HbnrA9b5iH8",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️3Dでお届け!まずは3チームずつの総当たり戦!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HbnrA9b5iH8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YpHDZs_IMfY",
+      "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校の注目ポイントをチェック!本戦をもっと楽しんじゃおう!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YpHDZs_IMfY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7rVMjVTbNuo",
+      "title": "【#ホロ花火2026】~ hololive production 9th Anniversary Fireworks ~ Blooming Dreams【チラ見せ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7rVMjVTbNuo",
       "status": "unreviewed",
       "note": null
     }

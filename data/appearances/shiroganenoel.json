@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1812,
+  "count": 1814,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19931,6 +19931,28 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g_oVknG8XvI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HbnrA9b5iH8",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️3Dでお届け!まずは3チームずつの総当たり戦!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HbnrA9b5iH8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YpHDZs_IMfY",
+      "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校の注目ポイントをチェック!本戦をもっと楽しんじゃおう!【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YpHDZs_IMfY",
       "status": "unreviewed",
       "note": null
     }

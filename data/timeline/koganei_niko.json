@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1742,
+  "count": 1745,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eldFBt5q_LE",
+      "title": "あは〜ん うふ〜ん いや〜ん @JuufuuteiRaden",
+      "published_at": "20261014",
+      "url": "https://youtu.be/eldFBt5q_LE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eldFBt5q_LE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "published_at": "20261014",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L3-JqdtdAQg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "published_at": "20261014",
+      "url": "https://youtu.be/moynbcjuOBY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/moynbcjuOBY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

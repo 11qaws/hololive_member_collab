@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2251,
+  "count": 2255,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-RyJYPrczs0",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/-RyJYPrczs0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-RyJYPrczs0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L3-JqdtdAQg",
+      "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
+      "published_at": "20261014",
+      "url": "https://youtu.be/L3-JqdtdAQg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/L3-JqdtdAQg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "moynbcjuOBY",
+      "title": "FLOW GLOW Station",
+      "published_at": "20261014",
+      "url": "https://youtu.be/moynbcjuOBY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/moynbcjuOBY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "wNjLwlh7MJw",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/wNjLwlh7MJw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wNjLwlh7MJw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "yLvhG4bRyow",
       "title": "ヴィヴィガーでマル・マル・モリ・モリ!踊ってみた☀️",
       "published_at": "20261013",
@@ -35,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/yLvhG4bRyow/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "C76Y3eNI8hU",
+      "title": "労い特化型ラジオ【轟はじめ/ホロライブReGLOSS】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/C76Y3eNI8hU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/C76Y3eNI8hU/mqdefault.jpg",
+      "partner_handle": "todorokihajime",
+      "partner_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },
@@ -155,18 +215,6 @@
       "thumbnail": "https://img.youtube.com/vi/q3SRuViTO24/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "wNjLwlh7MJw",
-      "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-      "published_at": "20261010",
-      "url": "https://youtu.be/wNjLwlh7MJw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/wNjLwlh7MJw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

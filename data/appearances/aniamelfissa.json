@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1478,
+  "count": 1481,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16257,6 +16257,39 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fGfVta2QVeo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J7X_-Z37pt4",
+      "title": "【hololive Dreams】 PRACTICING RYTHM LIVE SKILL【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J7X_-Z37pt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TM_j1DJGA-Y",
+      "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TM_j1DJGA-Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PMLvhfz5nIo",
+      "title": "【hololive Dreams】RHYTHM GAME PRACTICE! 音ゲー練習 #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PMLvhfz5nIo",
       "status": "unreviewed",
       "note": null
     }

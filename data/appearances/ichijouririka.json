@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1493,
+  "count": 1495,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16422,6 +16422,28 @@
       "published_at": "20261010",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J5ArluZmg5o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7rVMjVTbNuo",
+      "title": "【#ホロ花火2026】~ hololive production 9th Anniversary Fireworks ~ Blooming Dreams【チラ見せ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7rVMjVTbNuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9gu3Re3YTtQ",
+      "title": "ARライブグッズの実物を初披露!GLOSSERのみんなと一緒に見ちゃおう!!【#ReGLOSS_ARLIVE】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261014",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9gu3Re3YTtQ",
       "status": "unreviewed",
       "note": null
     }

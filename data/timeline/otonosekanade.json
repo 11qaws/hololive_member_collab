@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2303,
+  "count": 2308,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -21,6 +21,66 @@
       "url": "https://youtu.be/RUB0bEwTJeL",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7eArl_Aj6uQ",
+      "title": "新曲『アイシカケ』!フルは関連動画から‼️#音乃瀬奏 #アイシカケ",
+      "published_at": "20261014",
+      "url": "https://youtu.be/7eArl_Aj6uQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7eArl_Aj6uQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zp9UdcG9VwU",
+      "title": "【 雑談 】アコースティックライブお疲れ様でした~新曲聞いてくれたカナ?!で~【音乃瀬奏】#ReGLOSS",
+      "published_at": "20261014",
+      "url": "https://youtu.be/zp9UdcG9VwU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zp9UdcG9VwU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0WmS7VsEX0c",
+      "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン!【音乃瀬奏】#ReGLOSS",
+      "published_at": "20261014",
+      "url": "https://youtu.be/0WmS7VsEX0c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0WmS7VsEX0c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "r6164aiVdZE",
+      "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟#13【水宮枢/ホロライブ】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/r6164aiVdZE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/r6164aiVdZE/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9gu3Re3YTtQ",
+      "title": "ARライブグッズの実物を初披露!GLOSSERのみんなと一緒に見ちゃおう!!【#ReGLOSS_ARLIVE】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/9gu3Re3YTtQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/9gu3Re3YTtQ/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
