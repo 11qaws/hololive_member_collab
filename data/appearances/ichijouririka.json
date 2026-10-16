@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1495,
+  "count": 1497,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16444,6 +16444,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9gu3Re3YTtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ew7xwHrPk5U",
+      "title": "holodori FISHING MASTER",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ew7xwHrPk5U",
       "status": "unreviewed",
       "note": null
     }

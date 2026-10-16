@@ -1,7 +1,31 @@
 {
   "target": "hololive",
-  "count": 2824,
+  "count": 2827,
   "entries": [
+    {
+      "video_id": "6PalG3AatAg",
+      "title": "PARADISE! (Instrumental)",
+      "published_at": "20261015",
+      "url": "https://youtu.be/6PalG3AatAg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6PalG3AatAg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H6HLlUWShrQ",
+      "title": "PARADISE!",
+      "published_at": "20261015",
+      "url": "https://youtu.be/H6HLlUWShrQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H6HLlUWShrQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "7rVMjVTbNuo",
       "title": "【#ホロ花火2026】~ hololive production 9th Anniversary Fireworks ~ Blooming Dreams【チラ見せ】",
@@ -9791,6 +9815,18 @@
       "thumbnail": "https://img.youtube.com/vi/Hzasuey2kpU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uMdrXFG14g4",
+      "title": "【晩酌】寝る前に一緒にちょっと飲もう♡【 雪花ラミィ /ホロライブ】",
+      "published_at": "20250113",
+      "url": "https://youtu.be/uMdrXFG14g4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uMdrXFG14g4/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1539,
+  "count": 1540,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16928,6 +16928,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3x2qjSw3NPM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wB8SEl1feZU",
+      "title": "【hololive Dreams】hmmm lets think about the title of new clip【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wB8SEl1feZU",
       "status": "unreviewed",
       "note": null
     }

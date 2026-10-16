@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 931,
+  "count": 932,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10240,6 +10240,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9gu3Re3YTtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RfcUJq15feA",
+      "title": "【ポルカの伝説】久しぶりのゲスト回!即興音声ガイド!",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RfcUJq15feA",
       "status": "unreviewed",
       "note": null
     }

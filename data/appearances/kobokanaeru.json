@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 815,
+  "count": 817,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8964,6 +8964,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PMLvhfz5nIo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6BpZddjpdtU",
+      "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6BpZddjpdtU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UQox0Df00rE",
+      "title": "【Hololive Dreams】UWEEEEEEEEEEEEEEEEEEEEEEEEEE✨#holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UQox0Df00rE",
       "status": "unreviewed",
       "note": null
     }

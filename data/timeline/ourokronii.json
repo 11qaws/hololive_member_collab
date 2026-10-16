@@ -1,11 +1,23 @@
 {
   "target": "ourokronii",
-  "count": 1913,
+  "count": 1914,
   "entries": [
+    {
+      "video_id": "N4i72xMwAqM",
+      "title": "【Hololive Dreams】Zone 2 I Think #holodori",
+      "published_at": "20261015",
+      "url": "https://youtu.be/N4i72xMwAqM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/N4i72xMwAqM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "kEOPrfFTRpg",
       "title": "【Hololive Dreams】Trying In-Game Outfit #holodori",
-      "published_at": "20261013",
+      "published_at": "20261014",
       "url": "https://youtu.be/kEOPrfFTRpg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/kEOPrfFTRpg/mqdefault.jpg",

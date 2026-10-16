@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2891,
+  "count": 2894,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mK7OGYgrui8",
+      "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ!! #ホロドリ【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/mK7OGYgrui8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mK7OGYgrui8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ew7xwHrPk5U",
+      "title": "holodori FISHING MASTER",
+      "published_at": "20261016",
+      "url": "https://youtu.be/ew7xwHrPk5U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ew7xwHrPk5U/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261015",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AoZtWNOwEME/mqdefault.jpg",
+      "partner_handle": "robocosan",
+      "partner_name": "Roboco Ch. - ロボ子",
       "sub_entries": [],
       "paired_self": null
     },

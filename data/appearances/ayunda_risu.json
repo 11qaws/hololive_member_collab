@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1121,
+  "count": 1123,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12330,6 +12330,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PMLvhfz5nIo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WBoi6qduQlY",
+      "title": "【#holodori 】Quick daily with @ayundarisu 【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WBoi6qduQlY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qlV6m7g2F68",
+      "title": "【hololive Dreams】 SPENDING THE AFTERNOON WITH RISU AND IOFI!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qlV6m7g2F68",
       "status": "unreviewed",
       "note": null
     }

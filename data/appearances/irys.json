@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1158,
+  "count": 1159,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12737,6 +12737,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9MVZmTwLr1g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jPv1zTt-poY",
+      "title": "じゃあ!尻相撲しようよ!【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260603",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jPv1zTt-poY",
       "status": "unreviewed",
       "note": null
     }

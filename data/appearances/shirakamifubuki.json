@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3514,
+  "count": 3519,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38653,6 +38653,61 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tMOyVuhtnU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iNaRzlLqWVw",
+      "title": "【 #ホロドリ釣り名人 】耐えの水宮✋すごいの釣りたい🎣【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iNaRzlLqWVw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OIMQ1zT21Sk",
+      "title": "【#ホロドリ】釣りきちAZ平 #ホロドリ釣り名人 になる!!!!!!hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OIMQ1zT21Sk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UoIEc0ChGLA",
+      "title": "【 #ホロドリ釣り名人 】今日から釣り名人を名乗りたいひつじ🎣【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UoIEc0ChGLA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nMl9IXxPhDU",
+      "title": "【#ホロドリ釣り名人】だからやってみろ、必ず目標を達成できる!【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nMl9IXxPhDU",
       "status": "unreviewed",
       "note": null
     }

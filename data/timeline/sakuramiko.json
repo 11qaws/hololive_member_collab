@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5674,
+  "count": 5675,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/9USWsjINQUq/mqdefault.jpg",
       "partner_handle": "hoshimachisuisei",
       "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OL-bZF_fP84",
+      "title": "おけつぷりぷりPONだんす🎶🍑 #さくらみこ",
+      "published_at": "20261015",
+      "url": "https://youtu.be/OL-bZF_fP84",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OL-bZF_fP84/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,12 +75,36 @@
       "paired_self": null
     },
     {
+      "video_id": "ptCKA2cAagI",
+      "title": "【2ndアルバム発売】ついに発売!カウントダウン!!!!!!!!!!【ホロライブ/さくらみこ】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/ptCKA2cAagI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ptCKA2cAagI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "i5GP5VRzB4E",
       "title": "【Animation MV】PON-DERFUL!!! / さくらみこ (official)",
       "published_at": "20261013",
       "url": "https://youtu.be/i5GP5VRzB4E",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/i5GP5VRzB4E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0sik9RTdQ04",
+      "title": "【検証】ついに決着をつける時がきた――――――。告知アリ!【ホロライブ/さくらみこ】",
+      "published_at": "20261013",
+      "url": "https://youtu.be/0sik9RTdQ04",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0sik9RTdQ04/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -105,30 +141,6 @@
       "url": "https://youtu.be/BNinM6Wa3Pk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BNinM6Wa3Pk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ptCKA2cAagI",
-      "title": "【2ndアルバム発売】ついに発売!カウントダウン!!!!!!!!!!【ホロライブ/さくらみこ】",
-      "published_at": "20261012",
-      "url": "https://youtu.be/ptCKA2cAagI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ptCKA2cAagI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "0sik9RTdQ04",
-      "title": "【検証】ついに決着をつける時がきた――――――。告知アリ!【ホロライブ/さくらみこ】",
-      "published_at": "20261012",
-      "url": "https://youtu.be/0sik9RTdQ04",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/0sik9RTdQ04/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

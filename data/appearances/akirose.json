@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1324,
+  "count": 1326,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14563,6 +14563,28 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bSU9petYzKc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ew7xwHrPk5U",
+      "title": "holodori FISHING MASTER",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ew7xwHrPk5U",
       "status": "unreviewed",
       "note": null
     }

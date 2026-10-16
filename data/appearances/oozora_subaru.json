@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2140,
+  "count": 2142,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23539,6 +23539,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tMOyVuhtnU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jPv1zTt-poY",
+      "title": "じゃあ!尻相撲しようよ!【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20260603",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jPv1zTt-poY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hWFJG6gLJ-Y",
+      "title": "【hololive Dreams】B I R D スバル先輩と遊ぶ! #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hWFJG6gLJ-Y",
       "status": "unreviewed",
       "note": null
     }

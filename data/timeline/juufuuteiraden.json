@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1935,
+  "count": 1937,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ur_r-r9Q2B8",
+      "title": "【晩酌雑談】栗ご飯食べながら!一緒に飲もう!!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20261015",
+      "url": "https://youtu.be/ur_r-r9Q2B8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ur_r-r9Q2B8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RfcUJq15feA",
+      "title": "【ポルカの伝説】久しぶりのゲスト回!即興音声ガイド!",
+      "published_at": "20261015",
+      "url": "https://youtu.be/RfcUJq15feA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RfcUJq15feA/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
       "sub_entries": [],
       "paired_self": null
     },

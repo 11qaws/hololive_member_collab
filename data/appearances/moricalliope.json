@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1487,
+  "count": 1488,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16356,6 +16356,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w13xqPC1h1g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9sjXc6K-R24",
+      "title": "【hololive Dreams】MORI CALLIOPE REAL #holodori",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9sjXc6K-R24",
       "status": "unreviewed",
       "note": null
     }

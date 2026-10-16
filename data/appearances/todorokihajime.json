@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1300,
+  "count": 1301,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14299,6 +14299,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9gu3Re3YTtQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ByLWsCXuUBY",
+      "title": "【hololive Dreams ホロライブドリームス】ばんちょー!ポカジャンやろう!!!LET'S POKAJAN, BANCHO!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ByLWsCXuUBY",
       "status": "unreviewed",
       "note": null
     }

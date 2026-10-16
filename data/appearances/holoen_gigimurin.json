@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 938,
+  "count": 939,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10317,6 +10317,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GK37bRFmm2c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TyIpkqjl7mU",
+      "title": "【hololive Dreams】bothering her #calliolive #holodori",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TyIpkqjl7mU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1332,
+  "count": 1333,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14651,6 +14651,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fID7HLF0LJY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ew7xwHrPk5U",
+      "title": "holodori FISHING MASTER",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ew7xwHrPk5U",
       "status": "unreviewed",
       "note": null
     }

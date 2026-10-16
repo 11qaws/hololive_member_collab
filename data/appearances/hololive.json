@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 180,
+  "count": 181,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1979,6 +1979,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XfcJIyeN0SI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uMdrXFG14g4",
+      "title": "【晩酌】寝る前に一緒にちょっと飲もう♡【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20250113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uMdrXFG14g4",
       "status": "unreviewed",
       "note": null
     }

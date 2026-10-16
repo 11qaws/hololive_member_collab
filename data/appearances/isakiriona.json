@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1228,
+  "count": 1229,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13507,6 +13507,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/moynbcjuOBY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EU9B6p6WLIk",
+      "title": "すうリオちはでマル・マル・モリ・モリ!踊ってみた🍙",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EU9B6p6WLIk",
       "status": "unreviewed",
       "note": null
     }

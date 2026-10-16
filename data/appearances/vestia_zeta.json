@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1093,
+  "count": 1097,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -12022,6 +12022,50 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1kN3r2ME5HA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ew7xwHrPk5U",
+      "title": "holodori FISHING MASTER",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ew7xwHrPk5U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6BpZddjpdtU",
+      "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6BpZddjpdtU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "11ZfwjKW5DE",
+      "title": "【hololive Dreams】HOLODORI DAILYYY #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/11ZfwjKW5DE",
       "status": "unreviewed",
       "note": null
     }
