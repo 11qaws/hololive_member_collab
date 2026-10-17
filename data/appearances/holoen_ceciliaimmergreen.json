@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 797,
+  "count": 799,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8766,6 +8766,28 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rrmpyT1C_Wg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7PxwGBGIl0",
+      "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7PxwGBGIl0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BEb9P-JrSGc",
+      "title": "How To Run 30 Miles🏃‍♀️‍➡️🏃‍♀️‍➡️#funny #exercise #sports",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BEb9P-JrSGc",
       "status": "unreviewed",
       "note": null
     }

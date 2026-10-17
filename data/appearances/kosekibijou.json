@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1540,
+  "count": 1541,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16939,6 +16939,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wB8SEl1feZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5TxU2NO_wO0",
+      "title": "【Fortnite】pov because I love biboo #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5TxU2NO_wO0",
       "status": "unreviewed",
       "note": null
     }

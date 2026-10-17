@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1269,
+  "count": 1270,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13958,6 +13958,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ElRElcdQIFU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gMNqo-VKOO4",
+      "title": "iPhone Duo争奪戦【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gMNqo-VKOO4",
       "status": "unreviewed",
       "note": null
     }

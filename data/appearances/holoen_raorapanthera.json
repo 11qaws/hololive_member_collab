@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 802,
+  "count": 805,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8821,6 +8821,39 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wB8SEl1feZU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OLAujyVXiXQ",
+      "title": "【hololive Dreams】what song will we learn today?🤔【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OLAujyVXiXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BEb9P-JrSGc",
+      "title": "How To Run 30 Miles🏃‍♀️‍➡️🏃‍♀️‍➡️#funny #exercise #sports",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BEb9P-JrSGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LSb7-waQDNQ",
       "status": "unreviewed",
       "note": null
     }

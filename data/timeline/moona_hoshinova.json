@@ -1,7 +1,19 @@
 {
   "target": "moona_hoshinova",
-  "count": 2664,
+  "count": 2666,
   "entries": [
+    {
+      "video_id": "fht4M1kLgBw",
+      "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/fht4M1kLgBw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/fht4M1kLgBw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "VZJfcLMs41I",
       "title": "【Hololive Dreams】main apa hari ini?【hololive | moona】",
@@ -11,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/VZJfcLMs41I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qUWZcDQ8yz0",
+      "title": "【hololive Dreams】Holodori new event daily ~!!!【#holodori #ホロドリ】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/qUWZcDQ8yz0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qUWZcDQ8yz0/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

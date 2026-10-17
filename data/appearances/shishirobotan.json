@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1664,
+  "count": 1665,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18303,6 +18303,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7Dt7inGp6OU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LSb7-waQDNQ",
       "status": "unreviewed",
       "note": null
     }

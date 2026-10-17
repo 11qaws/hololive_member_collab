@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1232,
+  "count": 1233,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13551,6 +13551,17 @@
       "published_at": "20261007",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/le1JQDJ0xII",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mUPBmmasvaY",
+      "title": "三位一体♡ラブシステム",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mUPBmmasvaY",
       "status": "unreviewed",
       "note": null
     }

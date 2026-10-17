@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1071,
+  "count": 1072,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11780,6 +11780,17 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Bf-svPy0kfU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7PxwGBGIl0",
+      "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7PxwGBGIl0",
       "status": "unreviewed",
       "note": null
     }

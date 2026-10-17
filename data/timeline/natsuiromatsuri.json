@@ -1,7 +1,19 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4021,
+  "count": 4023,
   "entries": [
+    {
+      "video_id": "2ZLDbpgY__A",
+      "title": "【 #ホロドリ 】キャッチ&イーティング【ホロライブ/夏色まつり】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/2ZLDbpgY__A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2ZLDbpgY__A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "ew7xwHrPk5U",
       "title": "holodori FISHING MASTER",
@@ -623,6 +635,18 @@
       "thumbnail": "https://img.youtube.com/vi/UTTsicHSoeI/mqdefault.jpg",
       "partner_handle": "oozora_subaru",
       "partner_name": "Subaru Ch. 大空スバル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_3RDEed-kIk",
+      "title": "【ホロライブ/夏色まつり】",
+      "published_at": "20260915",
+      "url": "https://youtu.be/_3RDEed-kIk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_3RDEed-kIk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

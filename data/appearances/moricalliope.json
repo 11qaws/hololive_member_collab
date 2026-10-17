@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1488,
+  "count": 1490,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16367,6 +16367,28 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9sjXc6K-R24",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7PxwGBGIl0",
+      "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7PxwGBGIl0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QeyNbvaCNl4",
+      "title": "【FORTNITE】Manifesting with @MoriCalliope",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QeyNbvaCNl4",
       "status": "unreviewed",
       "note": null
     }

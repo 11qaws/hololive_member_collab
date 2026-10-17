@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1674,
+  "count": 1676,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18413,6 +18413,28 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MzTG21TTUfI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AoZtWNOwEME",
       "status": "unreviewed",
       "note": null
     }

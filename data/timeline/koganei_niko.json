@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1746,
+  "count": 1749,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WZw3uXwPUEU",
+      "title": "アッ…///  @usadapekora",
+      "published_at": "20261016",
+      "url": "https://youtu.be/WZw3uXwPUEU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WZw3uXwPUEU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qv113q2fMZA",
+      "title": "【 歌枠 】久しぶりにうたうぞー!【虎金妃笑虎】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/qv113q2fMZA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qv113q2fMZA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0QX0Bi8HLxg",
+      "title": "ついてこれる?30秒の爆速自己紹介!【☺️🐅笑虎編】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/0QX0Bi8HLxg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0QX0Bi8HLxg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

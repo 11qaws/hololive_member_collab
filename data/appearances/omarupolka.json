@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1992,
+  "count": 1993,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21911,6 +21911,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7rVMjVTbNuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "m73y3nyuZ6A",
+      "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY2⚾️3D✨トーナメント戦‼️ #ホロ甲2026DAY2 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261012",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/m73y3nyuZ6A",
       "status": "unreviewed",
       "note": null
     }

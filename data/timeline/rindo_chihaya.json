@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2257,
+  "count": 2260,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,14 +15,50 @@
       "paired_self": null
     },
     {
+      "video_id": "-nP_op2vyOY",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】#7 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/-nP_op2vyOY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-nP_op2vyOY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "qn3L8mN76qI",
-      "title": "【トップガン マーヴェリック同時視聴】よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ!!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
       "published_at": "20261016",
       "url": "https://youtu.be/qn3L8mN76qI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/qn3L8mN76qI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0QX0Bi8HLxg",
+      "title": "ついてこれる?30秒の爆速自己紹介!【☺️🐅笑虎編】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/0QX0Bi8HLxg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0QX0Bi8HLxg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_wFR042t70Q",
+      "title": "モニタリング / 猫又おかゆ × 輪堂千速  (cover)",
+      "published_at": "20261016",
+      "url": "https://youtu.be/_wFR042t70Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_wFR042t70Q/mqdefault.jpg",
+      "partner_handle": "nekomataokayu",
+      "partner_name": "Okayu Ch. 猫又おかゆ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +87,18 @@
       "paired_self": null
     },
     {
+      "video_id": "33ypZMfzUuA",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】#5 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/33ypZMfzUuA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/33ypZMfzUuA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "L3-JqdtdAQg",
       "title": "10月生配信直前のFLOW GLOWを覗き見!😳🧼",
       "published_at": "20261014",
@@ -71,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/moynbcjuOBY/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "33ypZMfzUuA",
-      "title": "【ACE COMBAT 8: WINGS OF THEVE】#5 はじめて空に出ます!!!!!※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-      "published_at": "20261013",
-      "url": "https://youtu.be/33ypZMfzUuA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/33ypZMfzUuA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

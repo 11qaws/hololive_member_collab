@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1112,
+  "count": 1114,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12231,6 +12231,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ew7xwHrPk5U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ef1RMZcQVaw",
+      "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん#02【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ef1RMZcQVaw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LSb7-waQDNQ",
       "status": "unreviewed",
       "note": null
     }

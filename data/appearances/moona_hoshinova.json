@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1226,
+  "count": 1227,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13485,6 +13485,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UQox0Df00rE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qUWZcDQ8yz0",
+      "title": "【hololive Dreams】Holodori new event daily ~!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qUWZcDQ8yz0",
       "status": "unreviewed",
       "note": null
     }

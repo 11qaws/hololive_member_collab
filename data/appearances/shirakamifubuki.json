@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3519,
+  "count": 3531,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38708,6 +38708,138 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nMl9IXxPhDU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LW9TpiitMS8",
+      "title": "悲しみの釣り",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LW9TpiitMS8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4k4Wr7JMQVo",
+      "title": "【hololive Dreams】#ホロドリ釣り名人 FEEEEESH THEY CALL TO MEEEE",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4k4Wr7JMQVo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mK7OGYgrui8",
+      "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ!! #ホロドリ【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mK7OGYgrui8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e3yHNJQYUxw",
+      "title": "【 #ホロドリ 】#ホロドリ釣り名人🎣 緊急参戦‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e3yHNJQYUxw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2ZLDbpgY__A",
+      "title": "【 #ホロドリ 】キャッチ&イーティング【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2ZLDbpgY__A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XFUfKye11X0",
+      "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XFUfKye11X0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "70TvRJfxLD8",
+      "title": "【#ホロドリ釣り名人】釣りバカはおでだーーーｯ!!つりまくり大臣出勤🎣【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/70TvRJfxLD8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K9iqnQtgoxc",
+      "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ!【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K9iqnQtgoxc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pcSdYxScZbo",
+      "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pcSdYxScZbo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Lf4831miTHE",
+      "title": "【hololive Dreams - #ホロドリ釣り名人】 IT'S A FISHING TOURNAMENT!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Lf4831miTHE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "imQVfNXzypw",
+      "title": "【hololive Dreams #ホロドリ釣り名人】FISHING TOURNAMENT, APEX PREDATOR IN THE WILD!!!【#holodori】",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/imQVfNXzypw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gZteapaG5jE",
+      "title": "【hololive Dreams】I NEED TO BE SWEATY #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gZteapaG5jE",
       "status": "unreviewed",
       "note": null
     }

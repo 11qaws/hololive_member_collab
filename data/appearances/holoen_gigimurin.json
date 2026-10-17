@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 939,
+  "count": 940,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10328,6 +10328,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TyIpkqjl7mU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BEb9P-JrSGc",
+      "title": "How To Run 30 Miles🏃‍♀️‍➡️🏃‍♀️‍➡️#funny #exercise #sports",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BEb9P-JrSGc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1674,
+  "count": 1676,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18413,6 +18413,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ew7xwHrPk5U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WZw3uXwPUEU",
+      "title": "アッ…///  @usadapekora",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WZw3uXwPUEU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JOueV7_ndiU",
+      "title": "【 #ホロ鯖ARK 】ワイバーンの卵取りに行く(無理ですか?)【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JOueV7_ndiU",
       "status": "unreviewed",
       "note": null
     }

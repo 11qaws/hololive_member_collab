@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 3432,
+  "count": 3434,
   "entries": [
     {
       "video_id": "ew7xwHrPk5U",
@@ -15,8 +15,32 @@
       "paired_self": null
     },
     {
+      "video_id": "smyROHJ-JLE",
+      "title": "【hololive Dreams】DAILY HOLODORIIII KOBOLLIEEEE #holodori #ホロドリ",
+      "published_at": "20261016",
+      "url": "https://youtu.be/smyROHJ-JLE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/smyROHJ-JLE/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/LSb7-waQDNQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LSb7-waQDNQ/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "kS1znvfnNlc",
-      "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
+      "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
       "published_at": "20261015",
       "url": "https://youtu.be/kS1znvfnNlc",
       "entry_type": "stream",
@@ -83,6 +107,18 @@
       "thumbnail": "https://img.youtube.com/vi/COli1xENiU8/mqdefault.jpg",
       "partner_handle": "ayunda_risu",
       "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7QvLKuPSqmE",
+      "title": "【hololive Dreams】 FISHING WHILE TALKING ABOUT MY BIRTHDAY #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261014",
+      "url": "https://youtu.be/7QvLKuPSqmE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7QvLKuPSqmE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -935,18 +971,6 @@
       "thumbnail": "https://img.youtube.com/vi/QiATSYtmze4/mqdefault.jpg",
       "partner_handle": "vestia_zeta",
       "partner_name": "Vestia Zeta Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "7QvLKuPSqmE",
-      "title": "【hololive Dreams】 FISHING WHILE TALKING ABOUT MY BIRTHDAY #holodori #ホロドリ 【Kureiji Ollie】",
-      "published_at": "20260927",
-      "url": "https://youtu.be/7QvLKuPSqmE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/7QvLKuPSqmE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

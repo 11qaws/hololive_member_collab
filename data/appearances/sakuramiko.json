@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2424,
+  "count": 2426,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26663,6 +26663,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tMOyVuhtnU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ang9xA90VFE",
+      "title": "【BOMBANANA!】PONとPON(偽)とPONの爆弾解除…💣【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ang9xA90VFE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L-AQ2t2mJbE",
+      "title": "【BOMBANANA!】信じていいん…信じるのは己のみ…!?爆弾解除PONBANANA【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L-AQ2t2mJbE",
       "status": "unreviewed",
       "note": null
     }

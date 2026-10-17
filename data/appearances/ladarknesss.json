@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1077,
+  "count": 1078,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11846,6 +11846,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v15Gn9AwPZk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z2Socv9thzk",
+      "title": "【通販】この番組は秘密結社の提供でお送りします。 #テレビショッピング #ホロじゃん #麻雀 #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z2Socv9thzk",
       "status": "unreviewed",
       "note": null
     }

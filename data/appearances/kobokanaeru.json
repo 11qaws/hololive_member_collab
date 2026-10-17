@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 817,
+  "count": 819,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -8986,6 +8986,28 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UQox0Df00rE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kS1znvfnNlc",
+      "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261015",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kS1znvfnNlc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LSb7-waQDNQ",
+      "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ!!!!!!!【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LSb7-waQDNQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 884,
+  "count": 885,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9723,6 +9723,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EU9B6p6WLIk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0QX0Bi8HLxg",
+      "title": "ついてこれる?30秒の爆速自己紹介!【☺️🐅笑虎編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261016",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0QX0Bi8HLxg",
       "status": "unreviewed",
       "note": null
     }
