@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1159,
+  "count": 1161,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12748,6 +12748,28 @@
       "published_at": "20260603",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jPv1zTt-poY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7PxwGBGIl0",
+      "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7PxwGBGIl0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FLuj-J_8OrQ",
+      "title": "【MV】La Mascarade【hololive Promise Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FLuj-J_8OrQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1019,
+  "count": 1020,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11208,6 +11208,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/lZd_bHhNB68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tQKl2WHH3GE",
+      "title": "【hololive Dreams】tomorrow is.......... NEW BANNER and it's MONDAY!!!【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tQKl2WHH3GE",
       "status": "unreviewed",
       "note": null
     }

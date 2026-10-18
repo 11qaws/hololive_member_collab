@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1476,
+  "count": 1477,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16235,6 +16235,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HX1OvSPws0A",
+      "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HX1OvSPws0A",
       "status": "unreviewed",
       "note": null
     }

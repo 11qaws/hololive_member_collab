@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1072,
+  "count": 1074,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11791,6 +11791,28 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i7PxwGBGIl0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FLuj-J_8OrQ",
+      "title": "【MV】La Mascarade【hololive Promise Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FLuj-J_8OrQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zPCcFbCONek",
+      "title": "【Promise Collab】The 3 Maskateers announcing & defusing #PromiseMasquerade",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zPCcFbCONek",
       "status": "unreviewed",
       "note": null
     }

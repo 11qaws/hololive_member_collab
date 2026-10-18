@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1401,
+  "count": 1402,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15410,6 +15410,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_wFR042t70Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "20LfmUjrJWc",
+      "title": "ついてこれる?30秒の爆速自己紹介!【🎤👑リオナ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/20LfmUjrJWc",
       "status": "unreviewed",
       "note": null
     }

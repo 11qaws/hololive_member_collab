@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1335,
+  "count": 1338,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14684,6 +14684,39 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rOXIiFNDi1U",
+      "title": "【  #ホロドリ 】ホロドリきちゃ🐟#13【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rOXIiFNDi1U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O-bOizBC2Lg",
+      "title": "【BOMBANANA!】PONだけのPONBANANAやるにぇ!!!!!!!!!【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O-bOizBC2Lg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TGHLjRcU9sk",
+      "title": "【#ホロドリ】ちょろぼの釣り配信📣 【ホロライブ/癒月ちょこ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TGHLjRcU9sk",
       "status": "unreviewed",
       "note": null
     }

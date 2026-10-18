@@ -1,7 +1,67 @@
 {
   "target": "vestia_zeta",
-  "count": 2223,
+  "count": 2228,
   "entries": [
+    {
+      "video_id": "VGYpAv-_IiY",
+      "title": "【Hololive Dreams】with keyboard! #holodori #ホロドリ",
+      "published_at": "20261017",
+      "url": "https://youtu.be/VGYpAv-_IiY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VGYpAv-_IiY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HX1OvSPws0A",
+      "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/HX1OvSPws0A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HX1OvSPws0A/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fht4M1kLgBw",
+      "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/fht4M1kLgBw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fht4M1kLgBw/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XPpo3zPzVss",
+      "title": "【hololive Dreams】RYTHM GAME PRACTICE AGAIN with Anya and Zeta ~!!!【#holodori #ホロドリ】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/XPpo3zPzVss",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/XPpo3zPzVss/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "l4UFpMlixj8",
+      "title": "【hololive Dreams ホロライブドリームス】The Dreams Continue!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/l4UFpMlixj8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/l4UFpMlixj8/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "XFUfKye11X0",
       "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1541,
+  "count": 1543,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16950,6 +16950,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5TxU2NO_wO0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tQKl2WHH3GE",
+      "title": "【hololive Dreams】tomorrow is.......... NEW BANNER and it's MONDAY!!!【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tQKl2WHH3GE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OLAujyVXiXQ",
+      "title": "【hololive Dreams】what song will we learn today?🤔【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OLAujyVXiXQ",
       "status": "unreviewed",
       "note": null
     }

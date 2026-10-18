@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1227,
+  "count": 1231,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13496,6 +13496,50 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qUWZcDQ8yz0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HX1OvSPws0A",
+      "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HX1OvSPws0A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XPpo3zPzVss",
+      "title": "【hololive Dreams】RYTHM GAME PRACTICE AGAIN with Anya and Zeta ~!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XPpo3zPzVss",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VGYpAv-_IiY",
+      "title": "【Hololive Dreams】with keyboard! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VGYpAv-_IiY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "l4UFpMlixj8",
+      "title": "【hololive Dreams ホロライブドリームス】The Dreams Continue!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/l4UFpMlixj8",
       "status": "unreviewed",
       "note": null
     }

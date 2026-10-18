@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1344,
+  "count": 1346,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14783,6 +14783,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0QX0Bi8HLxg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jEVsTmNEwb0",
+      "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう!! #calliolive #holodori #ホロドリ",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jEVsTmNEwb0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "20LfmUjrJWc",
+      "title": "ついてこれる?30秒の爆速自己紹介!【🎤👑リオナ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/20LfmUjrJWc",
       "status": "unreviewed",
       "note": null
     }

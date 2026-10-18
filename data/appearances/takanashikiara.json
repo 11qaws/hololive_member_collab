@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1129,
+  "count": 1130,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12418,6 +12418,17 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Db8BFOGOo1o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i7PxwGBGIl0",
+      "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261013",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i7PxwGBGIl0",
       "status": "unreviewed",
       "note": null
     }

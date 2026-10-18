@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 857,
+  "count": 858,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9426,6 +9426,17 @@
       "published_at": "20261002",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/En1EljuZYUo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【ホロライブ/さくらみこ/ときのそら】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/25waBu_edn0",
       "status": "unreviewed",
       "note": null
     }
