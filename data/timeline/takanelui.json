@@ -1,7 +1,31 @@
 {
   "target": "takanelui",
-  "count": 4050,
+  "count": 4053,
   "entries": [
+    {
+      "video_id": "I2BUk-RoA4Y",
+      "title": "【 ホロドリ 】駆け込みガチャああああああああああああああ【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/I2BUk-RoA4Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/I2BUk-RoA4Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mC-881pDOgw",
+      "title": "【競馬/秋華賞】ひさびさのG1です!!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/mC-881pDOgw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/mC-881pDOgw/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "3Czc-bPlFR8",
       "title": "【 秋華賞 】牝馬三冠最終戦!!この秋の女王はどの馬に・・・!?【鷹嶺ルイ/ホロライブ】",
@@ -17,12 +41,24 @@
     {
       "video_id": "uJiq13m0xkY",
       "title": "【 ドラゴンクエスト ビルダーズ 】マイラガライヤ編続きしていくぞおおおお【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published_at": "20261016",
+      "published_at": "20261017",
       "url": "https://youtu.be/uJiq13m0xkY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/uJiq13m0xkY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/25waBu_edn0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/25waBu_edn0/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

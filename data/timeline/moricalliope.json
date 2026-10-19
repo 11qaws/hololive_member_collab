@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 3798,
+  "count": 3800,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -27,6 +27,18 @@
       "paired_self": null
     },
     {
+      "video_id": "4UK6DAq9jdw",
+      "title": "今日もがんばれ!!!#hololive #anime #animation #meme #dance",
+      "published_at": "20261018",
+      "url": "https://youtu.be/4UK6DAq9jdw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4UK6DAq9jdw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "jEVsTmNEwb0",
       "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう!! #calliolive #holodori #ホロドリ",
       "published_at": "20261018",
@@ -39,9 +51,21 @@
       "paired_self": null
     },
     {
+      "video_id": "gooJUZcKXPc",
+      "title": "【#ホロドリ 】カリオペ先輩と初サシコラボ!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/gooJUZcKXPc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gooJUZcKXPc/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "PShNTkv1j98",
       "title": "【Elden Ring】pwincess.......... (with girlDM) #calliolive",
-      "published_at": "20261016",
+      "published_at": "20261017",
       "url": "https://youtu.be/PShNTkv1j98",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/PShNTkv1j98/mqdefault.jpg",
@@ -53,7 +77,7 @@
     {
       "video_id": "5TxU2NO_wO0",
       "title": "【Fortnite】pov because I love biboo #calliolive",
-      "published_at": "20261016",
+      "published_at": "20261017",
       "url": "https://youtu.be/5TxU2NO_wO0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5TxU2NO_wO0/mqdefault.jpg",

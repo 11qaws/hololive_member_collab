@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1232,
+  "count": 1233,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13551,6 +13551,17 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/20LfmUjrJWc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cCTyC3Q6_gg",
+      "title": "ソーラン節 自由形リオニコで踊ってみた🌊",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cCTyC3Q6_gg",
       "status": "unreviewed",
       "note": null
     }

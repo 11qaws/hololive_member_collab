@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1676,
+  "count": 1678,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18435,6 +18435,28 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AoZtWNOwEME",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/25waBu_edn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "keX-vGIf71A",
+      "title": "【#ホロARK】文明を進めてたいDAY🏝【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/keX-vGIf71A",
       "status": "unreviewed",
       "note": null
     }

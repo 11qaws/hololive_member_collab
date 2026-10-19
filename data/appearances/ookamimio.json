@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1987,
+  "count": 1988,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21856,6 +21856,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/m73y3nyuZ6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JLpX7HlUs1w",
+      "title": "【#ド珍組】ド珍検証会を開催するので3人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JLpX7HlUs1w",
       "status": "unreviewed",
       "note": null
     }

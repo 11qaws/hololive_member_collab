@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1074,
+  "count": 1075,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11813,6 +11813,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zPCcFbCONek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uzi9BJgvEoU",
+      "title": "M-M-M-Masquerade! 【hololive Promise Original Song】",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uzi9BJgvEoU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1402,
+  "count": 1406,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15421,6 +15421,50 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/20LfmUjrJWc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "j_nflQRGPUw",
+      "title": "【セルフ3D】いつもありがとな千速【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/j_nflQRGPUw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cCTyC3Q6_gg",
+      "title": "ソーラン節 自由形リオニコで踊ってみた🌊",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cCTyC3Q6_gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XCl9bc0MrRI",
+      "title": "【アニメ】峠を攻めるならユーロビートでしょ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XCl9bc0MrRI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3Czc-bPlFR8",
+      "title": "【 秋華賞 】牝馬三冠最終戦!!この秋の女王はどの馬に・・・!?【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3Czc-bPlFR8",
       "status": "unreviewed",
       "note": null
     }

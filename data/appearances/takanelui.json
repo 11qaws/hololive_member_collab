@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1500,
+  "count": 1502,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16499,6 +16499,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z2Socv9thzk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/25waBu_edn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mC-881pDOgw",
+      "title": "【競馬/秋華賞】ひさびさのG1です!!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mC-881pDOgw",
       "status": "unreviewed",
       "note": null
     }

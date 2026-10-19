@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1750,
+  "count": 1751,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cCTyC3Q6_gg",
+      "title": "ソーラン節 自由形リオニコで踊ってみた🌊",
+      "published_at": "20261018",
+      "url": "https://youtu.be/cCTyC3Q6_gg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cCTyC3Q6_gg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

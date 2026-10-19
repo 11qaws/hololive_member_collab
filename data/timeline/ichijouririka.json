@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2896,
+  "count": 2898,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bQ0EckQTj5I",
+      "title": "【80億分の1】何度生まれ変わっても…【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/bQ0EckQTj5I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bQ0EckQTj5I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Qv7M3pSYW5U",
+      "title": "【初】3Dで莉々華とリングフィット アドベンチャー!【轟はじめ/ホロライブReGLOSS】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/Qv7M3pSYW5U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Qv7M3pSYW5U/mqdefault.jpg",
+      "partner_handle": "todorokihajime",
+      "partner_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 805,
+  "count": 806,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8854,6 +8854,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XdJ8yQO-RnU",
+      "title": "【Hololive Dreams】Zone 3 #holodori",
+      "channel_handle": "ourokronii",
+      "channel_name": "Ouro Kronii Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XdJ8yQO-RnU",
       "status": "unreviewed",
       "note": null
     }

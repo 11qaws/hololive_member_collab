@@ -1,7 +1,19 @@
 {
   "target": "robocosan",
-  "count": 4212,
+  "count": 4214,
   "entries": [
+    {
+      "video_id": "TnijhHRqd5w",
+      "title": "【 #ホロドリ 】深夜のチル釣り図鑑うめうめ🐡【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/TnijhHRqd5w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TnijhHRqd5w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "3hzhCGG4JzU",
       "title": "【 #ホロドリ 】#お子様バッテリー で深夜のチルドリ  【ホロライブ/ ロボ子さん 】",
@@ -75,6 +87,30 @@
       "paired_self": null
     },
     {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/25waBu_edn0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/25waBu_edn0/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AoZtWNOwEME",
+      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261016",
+      "url": "https://youtu.be/AoZtWNOwEME",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AoZtWNOwEME/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "ew7xwHrPk5U",
       "title": "holodori FISHING MASTER",
       "published_at": "20261016",
@@ -107,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/LSb7-waQDNQ/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "AoZtWNOwEME",
-      "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう!金冠こいこい【ホロライブ/ ロボ子さん 】",
-      "published_at": "20261015",
-      "url": "https://youtu.be/AoZtWNOwEME",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/AoZtWNOwEME/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

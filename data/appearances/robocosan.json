@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1338,
+  "count": 1339,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14717,6 +14717,17 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TGHLjRcU9sk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/25waBu_edn0",
       "status": "unreviewed",
       "note": null
     }

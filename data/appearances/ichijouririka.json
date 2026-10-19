@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1498,
+  "count": 1499,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16477,6 +16477,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qv7M3pSYW5U",
+      "title": "【初】3Dで莉々華とリングフィット アドベンチャー!【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qv7M3pSYW5U",
       "status": "unreviewed",
       "note": null
     }

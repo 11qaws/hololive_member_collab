@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1075,
+  "count": 1076,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11824,6 +11824,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z2Socv9thzk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kDDUFiCKD3M",
+      "title": "【 #ホロ鯖ARK 】その8|流石に今日はパイロ‼️【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kDDUFiCKD3M",
       "status": "unreviewed",
       "note": null
     }

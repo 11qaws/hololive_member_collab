@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1543,
+  "count": 1545,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16972,6 +16972,28 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OLAujyVXiXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uhsXGA58_f4",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uhsXGA58_f4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TBJjrebnHNs",
+      "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TBJjrebnHNs",
       "status": "unreviewed",
       "note": null
     }

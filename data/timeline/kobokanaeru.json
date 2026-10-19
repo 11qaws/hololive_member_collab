@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1794,
+  "count": 1798,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vV_K_yyMYik",
+      "title": "【HOLOLIVE DREAMS】PREPPING FOR SWIMSUIT BIBOO BECAUSE SHE EXISTS TOMORROW #holodori",
+      "published_at": "20261018",
+      "url": "https://youtu.be/vV_K_yyMYik",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vV_K_yyMYik/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tQKl2WHH3GE",
+      "title": "【hololive Dreams】tomorrow is.......... KAELA BANNER and it's MONDAY!!!【#holodori】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/tQKl2WHH3GE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/tQKl2WHH3GE/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TBJjrebnHNs",
+      "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/TBJjrebnHNs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TBJjrebnHNs/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,9 +63,33 @@
       "paired_self": null
     },
     {
+      "video_id": "uhsXGA58_f4",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "published_at": "20261017",
+      "url": "https://youtu.be/uhsXGA58_f4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/uhsXGA58_f4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QYelQz1V1nQ",
+      "title": "【FREE TALK】LET'S TAAAALKKKKKKK !!!!!",
+      "published_at": "20261017",
+      "url": "https://youtu.be/QYelQz1V1nQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QYelQz1V1nQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "smyROHJ-JLE",
       "title": "【hololive Dreams】DAILY HOLODORIIII KOBOLLIEEEE #holodori #ホロドリ",
-      "published_at": "20261016",
+      "published_at": "20261017",
       "url": "https://youtu.be/smyROHJ-JLE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/smyROHJ-JLE/mqdefault.jpg",
@@ -1017,18 +1077,6 @@
       "url": "https://youtu.be/5QZKssFY9ww",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/5QZKssFY9ww/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "QYelQz1V1nQ",
-      "title": "【FREE TALK】LET'S TAAAALKKKKKKK !!!!!",
-      "published_at": "20260920",
-      "url": "https://youtu.be/QYelQz1V1nQ",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QYelQz1V1nQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1490,
+  "count": 1491,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16389,6 +16389,17 @@
       "published_at": "20261008",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cNL9fTlnW38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "25waBu_edn0",
+      "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/25waBu_edn0",
       "status": "unreviewed",
       "note": null
     }

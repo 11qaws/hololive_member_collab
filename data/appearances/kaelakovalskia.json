@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1128,
+  "count": 1131,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12407,6 +12407,39 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vV_K_yyMYik",
+      "title": "【HOLOLIVE DREAMS】PREPPING FOR SWIMSUIT BIBOO BECAUSE SHE EXISTS TOMORROW #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vV_K_yyMYik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uhsXGA58_f4",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261017",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uhsXGA58_f4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TBJjrebnHNs",
+      "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TBJjrebnHNs",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1490,
+  "count": 1491,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16389,6 +16389,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QeyNbvaCNl4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gooJUZcKXPc",
+      "title": "【#ホロドリ 】カリオペ先輩と初サシコラボ!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gooJUZcKXPc",
       "status": "unreviewed",
       "note": null
     }

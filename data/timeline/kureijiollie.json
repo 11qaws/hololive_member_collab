@@ -1,7 +1,67 @@
 {
   "target": "kureijiollie",
-  "count": 3436,
+  "count": 3440,
   "entries": [
+    {
+      "video_id": "G9EkIot_yZQ",
+      "title": "【hololive Dreams】 LOCKING IN ON KEYBOARD RHYTHM!!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/G9EkIot_yZQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G9EkIot_yZQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "7LMSX43mAFU",
+      "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/7LMSX43mAFU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/7LMSX43mAFU/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XMQ2yRBByPg",
+      "title": "【hololive Dreams】More holodori practice ~!!! With the girlies !【#holodori #ホロドリ】",
+      "published_at": "20261018",
+      "url": "https://youtu.be/XMQ2yRBByPg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/XMQ2yRBByPg/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3E_1kUJvJ64",
+      "title": "【Hololive Dreams】RHYTHM  TRAINING ARC !!!!!!!!! #holodori #ホロドリ",
+      "published_at": "20261018",
+      "url": "https://youtu.be/3E_1kUJvJ64",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3E_1kUJvJ64/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kS1znvfnNlc",
+      "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/kS1znvfnNlc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kS1znvfnNlc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "HX1OvSPws0A",
       "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
@@ -71,18 +131,6 @@
       "thumbnail": "https://img.youtube.com/vi/LSb7-waQDNQ/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "kS1znvfnNlc",
-      "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
-      "published_at": "20261015",
-      "url": "https://youtu.be/kS1znvfnNlc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kS1znvfnNlc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
