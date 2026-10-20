@@ -1,7 +1,55 @@
 {
   "target": "vestia_zeta",
-  "count": 2232,
+  "count": 2236,
   "entries": [
+    {
+      "video_id": "BgJbJfVFYGR",
+      "title": "Gone Fishing w/ Anya & Zeta",
+      "published_at": "20261023",
+      "url": "https://youtu.be/BgJbJfVFYGR",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BgJbJfVFYGR/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nn2jkZ0D6nE",
+      "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
+      "published_at": "20261019",
+      "url": "https://youtu.be/nn2jkZ0D6nE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nn2jkZ0D6nE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "c3G1J9wnny4",
+      "title": "【Hololive Dreams】Play together~【hololive | moona】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/c3G1J9wnny4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/c3G1J9wnny4/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "twJxcLQGULI",
+      "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/twJxcLQGULI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/twJxcLQGULI/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "3E_1kUJvJ64",
       "title": "【Hololive Dreams】RHYTHM  TRAINING ARC !!!!!!!!! #holodori #ホロドリ",

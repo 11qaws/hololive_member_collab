@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1234,
+  "count": 1236,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13573,6 +13573,28 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3E_1kUJvJ64",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "twJxcLQGULI",
+      "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/twJxcLQGULI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nn2jkZ0D6nE",
+      "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nn2jkZ0D6nE",
       "status": "unreviewed",
       "note": null
     }

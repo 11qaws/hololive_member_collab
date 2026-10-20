@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1261,
+  "count": 1265,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13870,6 +13870,50 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cCTyC3Q6_gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IDzeb4Zhs1o",
+      "title": "【コラボ】可愛すぎる4人で呪いのゲーム『インボキア』に挑戦!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IDzeb4Zhs1o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N3VTS_7uPx0",
+      "title": "【 インボキア 】呪いのボードゲーム?!やってみる!!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N3VTS_7uPx0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RCrquCVZPtM",
+      "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RCrquCVZPtM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RB52h91FN8s",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💬🔁💙枢編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RB52h91FN8s",
       "status": "unreviewed",
       "note": null
     }

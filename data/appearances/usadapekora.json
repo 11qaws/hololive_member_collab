@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1676,
+  "count": 1681,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18435,6 +18435,61 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JOueV7_ndiU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N3VTS_7uPx0",
+      "title": "【 インボキア 】呪いのボードゲーム?!やってみる!!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N3VTS_7uPx0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RCrquCVZPtM",
+      "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RCrquCVZPtM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UTbW5ggmTTU",
+      "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UTbW5ggmTTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oaK23WqaVPk",
+      "title": "3期生にたらい回しにされるマリン船長wwwwww#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oaK23WqaVPk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IRtl8s__ptk",
+      "title": "【ホロ鯖ARK】今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IRtl8s__ptk",
       "status": "unreviewed",
       "note": null
     }

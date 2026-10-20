@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 181,
+  "count": 182,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -1990,6 +1990,17 @@
       "published_at": "20250113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uMdrXFG14g4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gOgelYGugao",
+      "title": "スキ…?💗💛 #shorts #ときのそら #ホロライブ",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gOgelYGugao",
       "status": "unreviewed",
       "note": null
     }

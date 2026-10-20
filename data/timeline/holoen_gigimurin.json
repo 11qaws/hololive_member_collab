@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1575,
+  "count": 1578,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jnMODXBj9iE",
+      "title": "【hololive Dreams】CCGG HOLODORI #holodori",
+      "published_at": "20261020",
+      "url": "https://youtu.be/jnMODXBj9iE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jnMODXBj9iE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FPyl3gyldA9",
+      "title": "teacher-student w/ gigi",
+      "published_at": "20261020",
+      "url": "https://youtu.be/FPyl3gyldA9",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FPyl3gyldA9/mqdefault.jpg",
+      "partner_handle": "holoen_ceciliaimmergreen",
+      "partner_name": "Cecilia Immergreen Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "qEe8JW9u7bU",
+      "title": "【GREMBERS】oh geez grems who gave you TWO AFTER PARTIES?",
+      "published_at": "20261019",
+      "url": "https://youtu.be/qEe8JW9u7bU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qEe8JW9u7bU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "3pYMoZq0rqI",
       "title": "【GREMBERS 3D AFTERPARTY】mini after party in the shoebox!! #GGROOMPARTY",
       "published_at": "20261018",
@@ -53,7 +89,7 @@
     {
       "video_id": "JXx5vnvdjvQ",
       "title": "【CRIME SCENE CLEANER】im da cleaner",
-      "published_at": "20261017",
+      "published_at": "20261018",
       "url": "https://youtu.be/JXx5vnvdjvQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JXx5vnvdjvQ/mqdefault.jpg",

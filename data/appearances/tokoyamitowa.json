@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1678,
+  "count": 1679,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18457,6 +18457,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/keX-vGIf71A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gU9N2n5lDsU",
+      "title": "【ホロドリ】トワ様、助けて。初めてのホロドリ配信【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gU9N2n5lDsU",
       "status": "unreviewed",
       "note": null
     }

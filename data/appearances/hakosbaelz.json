@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1274,
+  "count": 1275,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14013,6 +14013,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Uzi9BJgvEoU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n7eiuHQAR_E",
+      "title": "BRATTEA!!!!!!!",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n7eiuHQAR_E",
       "status": "unreviewed",
       "note": null
     }

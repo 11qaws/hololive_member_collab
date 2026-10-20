@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2481,
+  "count": 2487,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,78 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IDzeb4Zhs1o",
+      "title": "【コラボ】可愛すぎる4人で呪いのゲーム『インボキア』に挑戦!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20261020",
+      "url": "https://youtu.be/IDzeb4Zhs1o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IDzeb4Zhs1o/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UTbW5ggmTTU",
+      "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢/ホロライブ】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/UTbW5ggmTTU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UTbW5ggmTTU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kep_lGTYifY",
+      "title": "ステップシーン/IRIS OUT #vtuber #dance #hololive",
+      "published_at": "20261019",
+      "url": "https://youtu.be/Kep_lGTYifY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Kep_lGTYifY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "N3VTS_7uPx0",
+      "title": "【 インボキア 】呪いのボードゲーム?!やってみる!!【音乃瀬奏】#ReGLOSS",
+      "published_at": "20261019",
+      "url": "https://youtu.be/N3VTS_7uPx0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/N3VTS_7uPx0/mqdefault.jpg",
+      "partner_handle": "otonosekanade",
+      "partner_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RCrquCVZPtM",
+      "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ4期生】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/RCrquCVZPtM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RCrquCVZPtM/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RB52h91FN8s",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💬🔁💙枢編】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/RB52h91FN8s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RB52h91FN8s/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -75,6 +147,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Ang9xA90VFE",
+      "title": "【BOMBANANA!】PONとPON(偽)とPONの爆弾解除…💣【水宮枢/ホロライブ】",
+      "published_at": "20261017",
+      "url": "https://youtu.be/Ang9xA90VFE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ang9xA90VFE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "KADSGtIaU1M",
       "title": "【手書き】特殊詐欺を心配された話 #vtuber #hololive #animation",
       "published_at": "20261017",
@@ -131,18 +215,6 @@
       "thumbnail": "https://img.youtube.com/vi/20LfmUjrJWc/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Ang9xA90VFE",
-      "title": "【BOMBANANA!】PONとPON(偽)とPONの爆弾解除…💣【水宮枢/ホロライブ】",
-      "published_at": "20261016",
-      "url": "https://youtu.be/Ang9xA90VFE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ang9xA90VFE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

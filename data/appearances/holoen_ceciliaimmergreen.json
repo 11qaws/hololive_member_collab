@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 799,
+  "count": 800,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8788,6 +8788,17 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BEb9P-JrSGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Yn624nnrVNQ",
+      "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Yn624nnrVNQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1233,
+  "count": 1234,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13562,6 +13562,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cCTyC3Q6_gg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RB52h91FN8s",
+      "title": "ついてこれる?30秒の爆速自己紹介!【💬🔁💙枢編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RB52h91FN8s",
       "status": "unreviewed",
       "note": null
     }

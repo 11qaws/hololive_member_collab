@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1665,
+  "count": 1666,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18314,6 +18314,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QoQRLGY7LFg",
+      "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る!イベント同時視聴配信~~!【 #ねぽらぼ /ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QoQRLGY7LFg",
       "status": "unreviewed",
       "note": null
     }

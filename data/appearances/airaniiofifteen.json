@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1174,
+  "count": 1175,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12913,6 +12913,17 @@
       "published_at": "20261015",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qlV6m7g2F68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fHMPLC--VH4",
+      "title": "【hololive Dreams】IoRisu hololive dream collab ~!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fHMPLC--VH4",
       "status": "unreviewed",
       "note": null
     }

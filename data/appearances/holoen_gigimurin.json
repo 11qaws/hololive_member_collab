@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 940,
+  "count": 941,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10339,6 +10339,17 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BEb9P-JrSGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FPyl3gyldA9",
+      "title": "teacher-student w/ gigi",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FPyl3gyldA9",
       "status": "unreviewed",
       "note": null
     }

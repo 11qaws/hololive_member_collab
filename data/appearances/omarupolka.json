@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 1993,
+  "count": 1994,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -21922,6 +21922,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/m73y3nyuZ6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WKNo6ObGB_Y",
+      "title": "【 #ポルーナお披露目 】告知あり!今年もポルーナはありま~す!!!2人でお揃いの髪型にしたのら!!!✨【姫森ルーナ&尾丸ポルカ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WKNo6ObGB_Y",
       "status": "unreviewed",
       "note": null
     }

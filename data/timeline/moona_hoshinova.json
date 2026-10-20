@@ -1,7 +1,43 @@
 {
   "target": "moona_hoshinova",
-  "count": 2675,
+  "count": 2678,
   "entries": [
+    {
+      "video_id": "c3G1J9wnny4",
+      "title": "【Hololive Dreams】Play together~【hololive | moona】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/c3G1J9wnny4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/c3G1J9wnny4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "twJxcLQGULI",
+      "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/twJxcLQGULI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/twJxcLQGULI/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nn2jkZ0D6nE",
+      "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
+      "published_at": "20261019",
+      "url": "https://youtu.be/nn2jkZ0D6nE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/nn2jkZ0D6nE/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "oVx5xEKL6Ms",
       "title": "【Membership】just watch.【Moona Hoshinova】",

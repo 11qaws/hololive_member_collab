@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1131,
+  "count": 1132,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12440,6 +12440,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3E_1kUJvJ64",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c5SjOOZNX68",
+      "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c5SjOOZNX68",
       "status": "unreviewed",
       "note": null
     }

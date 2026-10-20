@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1068,
+  "count": 1069,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11747,6 +11747,17 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SO4RGesjHjc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vShW-eC3M4I",
+      "title": "チェリーポップ - 尾丸ポルカ/姫森ルーナ(cover)",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vShW-eC3M4I",
       "status": "unreviewed",
       "note": null
     }

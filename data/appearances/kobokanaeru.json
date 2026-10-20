@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 822,
+  "count": 825,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9041,6 +9041,39 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TBJjrebnHNs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7LQx7N-K2OM",
+      "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7LQx7N-K2OM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QqBm7SLR1dA",
+      "title": "【hololive Dreams】Pemaloe. luck. gimme.【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QqBm7SLR1dA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JUrki_ovv1Y",
+      "title": "【hololive Dreams ホロライブドリームス】TOWA-SAMAAAAA CUTEEEEEEEEEEEE【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JUrki_ovv1Y",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "amanekanata",
-  "count": 1333,
+  "count": 1334,
   "appearances": [
     {
       "video_id": "c5qJc8ArTUo",
@@ -14662,6 +14662,17 @@
       "published_at": "20200822",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iNjS1MIvb70",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J0cMTULJSks",
+      "title": "クソ投稿止まらず!!NON STOP SHITPOSTING / Reddit MEME review",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200830",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J0cMTULJSks",
       "status": "unreviewed",
       "note": null
     }

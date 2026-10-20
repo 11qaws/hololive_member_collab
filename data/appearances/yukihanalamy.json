@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1393,
+  "count": 1395,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15322,6 +15322,28 @@
       "published_at": "20261014",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7rVMjVTbNuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QoQRLGY7LFg",
+      "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る!イベント同時視聴配信~~!【 #ねぽらぼ /ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QoQRLGY7LFg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9CpRJl5TDjw",
+      "title": "【 浮気判定シート 】ねねたちの愛を受け止めて…?💛(雪民さんとねっ子のみんな参考にしてください)【 桃鈴ねね / 雪花ラミィ / hololive 】#まがまがーず",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9CpRJl5TDjw",
       "status": "unreviewed",
       "note": null
     }

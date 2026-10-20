@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1606,
+  "count": 1607,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17665,6 +17665,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XCl9bc0MrRI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oaK23WqaVPk",
+      "title": "3期生にたらい回しにされるマリン船長wwwwww#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oaK23WqaVPk",
       "status": "unreviewed",
       "note": null
     }

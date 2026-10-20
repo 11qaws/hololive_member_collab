@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1857,
+  "count": 1860,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20426,6 +20426,39 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IDzeb4Zhs1o",
+      "title": "【コラボ】可愛すぎる4人で呪いのゲーム『インボキア』に挑戦!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IDzeb4Zhs1o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "N3VTS_7uPx0",
+      "title": "【 インボキア 】呪いのボードゲーム?!やってみる!!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/N3VTS_7uPx0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UTbW5ggmTTU",
+      "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UTbW5ggmTTU",
       "status": "unreviewed",
       "note": null
     }
