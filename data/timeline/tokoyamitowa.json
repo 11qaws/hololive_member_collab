@@ -1,7 +1,55 @@
 {
   "target": "tokoyamitowa",
-  "count": 3839,
+  "count": 3843,
   "entries": [
+    {
+      "video_id": "LEyISnCpXEe",
+      "title": "Hakos Baelz 1st Concert「REGALIA」",
+      "published_at": "20261201",
+      "url": "https://youtu.be/LEyISnCpXEe",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rmqSq8an8FY",
+      "title": "【 #ホロ鯖ARK 】その10|なにか行きたいなとは…【常闇トワ/ホロライブ】",
+      "published_at": "20261020",
+      "url": "https://youtu.be/rmqSq8an8FY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rmqSq8an8FY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b9awn-a7iZw",
+      "title": "#ハートにピース MMDトワ様に踊ってもらった!🥀👾  #vtuber #dance #踊ってみた #shorts",
+      "published_at": "20261020",
+      "url": "https://youtu.be/b9awn-a7iZw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b9awn-a7iZw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z2eCGbnrPIA",
+      "title": "≪OFF COLLAB≫ TOWA SAMA IN THE FLESH + BIG ANNOUNCEMENT #RoadToREGALIA",
+      "published_at": "20261020",
+      "url": "https://youtu.be/z2eCGbnrPIA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/z2eCGbnrPIA/mqdefault.jpg",
+      "partner_handle": "hakosbaelz",
+      "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "eaJE2X2rPSQ",
       "title": "【 #ホロ鯖ARK 】その9|はちみつ…❔️そしてユウティラ…❔️海⁉️【常闇トワ/ホロライブ】",

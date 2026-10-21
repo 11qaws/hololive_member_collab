@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1327,
+  "count": 1329,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14596,6 +14596,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d79Vkg3Yxyw",
+      "title": "【#ホロドリ】深夜のわちゃわちゃ釣り対決配信📣 【ホロライブ/癒月ちょこ/アキ・ローゼンタール/アーニャ・メルフィッサ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d79Vkg3Yxyw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WcC1pWBo-6I",
+      "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WcC1pWBo-6I",
       "status": "unreviewed",
       "note": null
     }

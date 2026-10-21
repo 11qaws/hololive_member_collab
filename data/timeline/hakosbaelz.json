@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2792,
+  "count": 2796,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/n7eiuHQAR_E/mqdefault.jpg",
       "partner_handle": "holoen_ceciliaimmergreen",
       "partner_name": "Cecilia Immergreen Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IKHPXuQiF5M",
+      "title": "≪hololive Dreams≫ Low Cortizol Hours #holodori",
+      "published_at": "20261021",
+      "url": "https://youtu.be/IKHPXuQiF5M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IKHPXuQiF5M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z2eCGbnrPIA",
+      "title": "≪OFF COLLAB≫ TOWA SAMA IN THE FLESH + BIG ANNOUNCEMENT #RoadToREGALIA",
+      "published_at": "20261020",
+      "url": "https://youtu.be/z2eCGbnrPIA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/z2eCGbnrPIA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -107,6 +131,30 @@
       "thumbnail": "https://img.youtube.com/vi/zPCcFbCONek/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2ikG_rA2eBw",
+      "title": "La Mascarade (Instrumental)",
+      "published_at": "20261018",
+      "url": "https://youtu.be/2ikG_rA2eBw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2ikG_rA2eBw/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZRl5CvMveWI",
+      "title": "La Mascarade",
+      "published_at": "20261018",
+      "url": "https://youtu.be/ZRl5CvMveWI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ZRl5CvMveWI/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },

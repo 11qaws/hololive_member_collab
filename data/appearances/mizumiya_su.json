@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1265,
+  "count": 1266,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -13914,6 +13914,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RB52h91FN8s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I3dVfPH59tM",
+      "title": "ソーラン節 自由形すうヴィヴィちはで踊ってみた🌊",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I3dVfPH59tM",
       "status": "unreviewed",
       "note": null
     }

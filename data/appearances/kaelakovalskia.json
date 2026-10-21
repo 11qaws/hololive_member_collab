@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1134,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12473,6 +12473,28 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JUrki_ovv1Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WcC1pWBo-6I",
+      "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WcC1pWBo-6I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r4F6-lUv9a0",
+      "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r4F6-lUv9a0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "hololiveenglish",
-  "count": 713,
+  "count": 718,
   "entries": [
+    {
+      "video_id": "x_TQ0xw4c7I",
+      "title": "How did that even fit in the bag!? 😱 #hololive #funny",
+      "published_at": "20261021",
+      "url": "https://youtu.be/x_TQ0xw4c7I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x_TQ0xw4c7I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Uzi9BJgvEoU",
       "title": "M-M-M-Masquerade! 【hololive Promise Original Song】",
@@ -9,6 +21,30 @@
       "url": "https://youtu.be/Uzi9BJgvEoU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Uzi9BJgvEoU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2ikG_rA2eBw",
+      "title": "La Mascarade (Instrumental)",
+      "published_at": "20261018",
+      "url": "https://youtu.be/2ikG_rA2eBw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2ikG_rA2eBw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZRl5CvMveWI",
+      "title": "La Mascarade",
+      "published_at": "20261018",
+      "url": "https://youtu.be/ZRl5CvMveWI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZRl5CvMveWI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -2709,6 +2745,30 @@
       "url": "https://youtu.be/3nq0CkvL0CI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/3nq0CkvL0CI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xVSt0wY5NSM",
+      "title": "Run Back 'Round",
+      "published_at": "20251009",
+      "url": "https://youtu.be/xVSt0wY5NSM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xVSt0wY5NSM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KsilxxyipPo",
+      "title": "Run Back 'Round(Instrumental)",
+      "published_at": "20251009",
+      "url": "https://youtu.be/KsilxxyipPo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KsilxxyipPo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

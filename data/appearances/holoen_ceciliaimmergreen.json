@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 800,
+  "count": 803,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8799,6 +8799,39 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Yn624nnrVNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H80Z5-4pwZb",
+      "title": "Spooky -Justice- Jams",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H80Z5-4pwZb",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AtO7F_Zle78",
+      "title": "【DEADLOCK】LITERALLY ONLY ONE GAME",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AtO7F_Zle78",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jnMODXBj9iE",
+      "title": "【hololive Dreams】CCGG HOLODORI #holodori",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jnMODXBj9iE",
       "status": "unreviewed",
       "note": null
     }

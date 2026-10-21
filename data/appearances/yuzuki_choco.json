@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1053,
+  "count": 1055,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11582,6 +11582,28 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dTbDAIbG84I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mqbSYtp8auE",
+      "title": "【ホロライブドリームス】 釣り対決!w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mqbSYtp8auE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WcC1pWBo-6I",
+      "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WcC1pWBo-6I",
       "status": "unreviewed",
       "note": null
     }

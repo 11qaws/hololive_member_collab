@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 888,
+  "count": 889,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9767,6 +9767,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RB52h91FN8s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tmw3NuK0-ww",
+      "title": "こらー!先輩を冷笑うな!★ミ【#一条莉々華の限界飯】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tmw3NuK0-ww",
       "status": "unreviewed",
       "note": null
     }

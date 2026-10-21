@@ -1,7 +1,43 @@
 {
   "target": "kosekibijou",
-  "count": 2568,
+  "count": 2571,
   "entries": [
+    {
+      "video_id": "x_TQ0xw4c7I",
+      "title": "How did that even fit in the bag!? 😱 #hololive #funny",
+      "published_at": "20261021",
+      "url": "https://youtu.be/x_TQ0xw4c7I",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/x_TQ0xw4c7I/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "j3tGcGZUScw",
+      "title": "when biboo hijack my body #anime #hololive #animation #envtuber #vtuber",
+      "published_at": "20261021",
+      "url": "https://youtu.be/j3tGcGZUScw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/j3tGcGZUScw/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NwXvWnw7QPY",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】COPE AND THEVE",
+      "published_at": "20261020",
+      "url": "https://youtu.be/NwXvWnw7QPY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NwXvWnw7QPY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Yn624nnrVNQ",
       "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
@@ -21,6 +57,18 @@
       "url": "https://youtu.be/7LQx7N-K2OM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/7LQx7N-K2OM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Dt5OHkR6Tok",
+      "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
+      "published_at": "20261019",
+      "url": "https://youtu.be/Dt5OHkR6Tok",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Dt5OHkR6Tok/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/JUrki_ovv1Y/mqdefault.jpg",
       "partner_handle": "aniamelfissa",
       "partner_name": "Anya Melfissa Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Dt5OHkR6Tok",
-      "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
-      "published_at": "20261018",
-      "url": "https://youtu.be/Dt5OHkR6Tok",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Dt5OHkR6Tok/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

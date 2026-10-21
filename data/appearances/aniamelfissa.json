@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1501,
+  "count": 1506,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16510,6 +16510,61 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QqBm7SLR1dA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CaDX-pheWK0",
+      "title": "【BOMBANANA!】Holoro Monkey Business 2【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CaDX-pheWK0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mqbSYtp8auE",
+      "title": "【ホロライブドリームス】 釣り対決!w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mqbSYtp8auE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d79Vkg3Yxyw",
+      "title": "【#ホロドリ】深夜のわちゃわちゃ釣り対決配信📣 【ホロライブ/癒月ちょこ/アキ・ローゼンタール/アーニャ・メルフィッサ】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d79Vkg3Yxyw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r4F6-lUv9a0",
+      "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r4F6-lUv9a0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1TGbof7MfTc",
+      "title": "【hololive Dreams】preparing and setting up for Kaela's event tomorrow🙏【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1TGbof7MfTc",
       "status": "unreviewed",
       "note": null
     }

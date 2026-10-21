@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 987,
+  "count": 988,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10856,6 +10856,17 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MZX4T02aGXQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "x_TQ0xw4c7I",
+      "title": "How did that even fit in the bag!? 😱 #hololive #funny",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/x_TQ0xw4c7I",
       "status": "unreviewed",
       "note": null
     }

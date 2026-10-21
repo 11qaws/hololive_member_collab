@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1275,
+  "count": 1277,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14024,6 +14024,28 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n7eiuHQAR_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2ikG_rA2eBw",
+      "title": "La Mascarade (Instrumental)",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2ikG_rA2eBw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZRl5CvMveWI",
+      "title": "La Mascarade",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZRl5CvMveWI",
       "status": "unreviewed",
       "note": null
     }

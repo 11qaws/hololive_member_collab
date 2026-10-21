@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1076,
+  "count": 1077,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11835,6 +11835,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kDDUFiCKD3M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XcDskINdvo4",
+      "title": "【#ホロドリ 】いろは先輩と初サシコラボ!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #風真いろは】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XcDskINdvo4",
       "status": "unreviewed",
       "note": null
     }

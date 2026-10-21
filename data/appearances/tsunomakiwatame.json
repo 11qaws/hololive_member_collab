@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1860,
+  "count": 1861,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20459,6 +20459,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UTbW5ggmTTU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1izBd_B1_Ld",
+      "title": "hololive RECORDS MUSIC STAGE 2027 DAY 2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1izBd_B1_Ld",
       "status": "unreviewed",
       "note": null
     }

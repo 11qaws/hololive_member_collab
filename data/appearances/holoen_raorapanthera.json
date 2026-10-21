@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 810,
+  "count": 814,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8909,6 +8909,50 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JUrki_ovv1Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H80Z5-4pwZb",
+      "title": "Spooky -Justice- Jams",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H80Z5-4pwZb",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WcC1pWBo-6I",
+      "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WcC1pWBo-6I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r4F6-lUv9a0",
+      "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r4F6-lUv9a0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1TGbof7MfTc",
+      "title": "【hololive Dreams】preparing and setting up for Kaela's event tomorrow🙏【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1TGbof7MfTc",
       "status": "unreviewed",
       "note": null
     }

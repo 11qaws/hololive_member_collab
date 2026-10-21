@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1132,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12451,6 +12451,50 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c5SjOOZNX68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qKYIe9s5T6s",
+      "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qKYIe9s5T6s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qd9ynQNf3pQ",
+      "title": "【hololive Dreams】 KEYBOARD RHYTHM IS THE WAY!!  #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qd9ynQNf3pQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WET_Y25XXhY",
+      "title": "【Hololive Dreams】Grind~?【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WET_Y25XXhY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qvgeJEpelBM",
+      "title": "【Hololive Dreams】bit of trolling #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qvgeJEpelBM",
       "status": "unreviewed",
       "note": null
     }

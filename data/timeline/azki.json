@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2831,
+  "count": 2832,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hk7W_rz3Zt4",
+      "title": "ハートにピース / 鷹嶺ルイ 踊ってみた!#承認欲求チャレンジ #鷹嶺ルイの反逆 #ハートにピース #AZKi #ホロライブ #hololive #shorts",
+      "published_at": "20261020",
+      "url": "https://youtu.be/hk7W_rz3Zt4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hk7W_rz3Zt4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

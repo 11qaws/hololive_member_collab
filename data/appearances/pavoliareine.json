@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1022,
+  "count": 1024,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11241,6 +11241,28 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uhsXGA58_f4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WcC1pWBo-6I",
+      "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WcC1pWBo-6I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1TGbof7MfTc",
+      "title": "【hololive Dreams】preparing and setting up for Kaela's event tomorrow🙏【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1TGbof7MfTc",
       "status": "unreviewed",
       "note": null
     }

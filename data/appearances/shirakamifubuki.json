@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3531,
+  "count": 3532,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38840,6 +38840,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gZteapaG5jE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6QdqwaNwa68",
+      "title": "【】【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261020",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6QdqwaNwa68",
       "status": "unreviewed",
       "note": null
     }
