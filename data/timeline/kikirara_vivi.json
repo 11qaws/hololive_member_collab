@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2657,
+  "count": 2659,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lFE7x8fo3f8",
+      "title": "【#ホロARK】ドラゴンテイムしたい!!初めてのホロ鯖ARK!!#13【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/lFE7x8fo3f8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/lFE7x8fo3f8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "H3oLA_wUUhM",
+      "title": "やーめーて",
+      "published_at": "20261021",
+      "url": "https://youtu.be/H3oLA_wUUhM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H3oLA_wUUhM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1817,
+  "count": 1818,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19986,6 +19986,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oaK23WqaVPk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iDGqJ-j4py4",
+      "title": "【健全】昭和の番組 #ホロライブ #hololive #ホロぐら #バラエティ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iDGqJ-j4py4",
       "status": "unreviewed",
       "note": null
     }

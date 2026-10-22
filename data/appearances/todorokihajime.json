@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1302,
+  "count": 1304,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14321,6 +14321,28 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gl0xSLpNdOk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "22sFpGEgqAc",
+      "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/22sFpGEgqAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
       "status": "unreviewed",
       "note": null
     }

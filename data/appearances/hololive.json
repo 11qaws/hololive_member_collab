@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 182,
+  "count": 183,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2001,6 +2001,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gOgelYGugao",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
       "status": "unreviewed",
       "note": null
     }

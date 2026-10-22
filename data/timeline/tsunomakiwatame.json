@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5803,
+  "count": 5805,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4lhNId4gqUE",
+      "title": "集中したい時はどっち派?無音 or 音楽あり【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261021",
+      "url": "https://youtu.be/4lhNId4gqUE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4lhNId4gqUE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,6 +75,18 @@
       "paired_self": null
     },
     {
+      "video_id": "4k5k9SkR25c",
+      "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...!今宵も気ままなARK生活🦕【角巻わため/ホロライブ4期生】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/4k5k9SkR25c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4k5k9SkR25c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "N3VTS_7uPx0",
       "title": "【 インボキア 】呪いのボードゲーム?!やってみる!!【音乃瀬奏】#ReGLOSS",
       "published_at": "20261019",
@@ -83,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/UTbW5ggmTTU/mqdefault.jpg",
       "partner_handle": "mizumiya_su",
       "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "4k5k9SkR25c",
-      "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...!今宵も気ままなARK生活🦕【角巻わため/ホロライブ4期生】",
-      "published_at": "20261018",
-      "url": "https://youtu.be/4k5k9SkR25c",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/4k5k9SkR25c/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -61811,6 +61823,18 @@
       "thumbnail": "https://img.youtube.com/vi/vVDcEsz5k_Q/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gOY45tCOfvg",
+      "title": "またやってるぜクソ投稿!GOD u  guys never stop shitposting / Reddit MEME review",
+      "published_at": "20200906",
+      "url": "https://youtu.be/gOY45tCOfvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gOY45tCOfvg/mqdefault.jpg",
+      "partner_handle": "kiryucoco",
+      "partner_name": "Coco Ch. 桐生ココ",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1506,
+  "count": 1513,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16565,6 +16565,83 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1TGbof7MfTc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "22sFpGEgqAc",
+      "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/22sFpGEgqAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8_Xl7UK3D_E",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Rekreasi bareng Anya, Zeta dan Kobo [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8_Xl7UK3D_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HmuDOgwpB6Y",
+      "title": "【hololive Dreams】Gyu-Don My Soul #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HmuDOgwpB6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "njkU0cMAWVM",
+      "title": "【HOLOLIVE DREAMS】KAELA SONG KAELA SONG #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/njkU0cMAWVM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nuPuhR4xf2A",
+      "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nuPuhR4xf2A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w8IDo6EoBws",
+      "title": "【BOMBANANA!】 WE'RE COMPLETING THE GAME!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w8IDo6EoBws",
       "status": "unreviewed",
       "note": null
     }

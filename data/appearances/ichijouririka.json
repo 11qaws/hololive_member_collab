@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1499,
+  "count": 1501,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16488,6 +16488,28 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Qv7M3pSYW5U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kd0nT-tybTA",
+      "title": "【ロケ】おもてなQ グルメ編!インドネシアの\"美味しい\"が集まる!名物料理をご馳走しよう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kd0nT-tybTA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1989,
+  "count": 1991,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21878,6 +21878,28 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6QdqwaNwa68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "30yvrPeSFlA",
+      "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜!!!!!!!!!【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/30yvrPeSFlA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OO2kY-Yrz68",
+      "title": "【#ド珍組】第二回 開店★ド珍ラーメン 【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OO2kY-Yrz68",
       "status": "unreviewed",
       "note": null
     }

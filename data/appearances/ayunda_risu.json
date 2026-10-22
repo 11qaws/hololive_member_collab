@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1136,
+  "count": 1140,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12495,6 +12495,50 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qvgeJEpelBM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xdyWWbWCaFY",
+      "title": "【ロケ】おもてなQ 文化編!世界遺産から王族文化まで!インドネシアの文化と歴史を知ろう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xdyWWbWCaFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "h7cefJBNItQ",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Budaya bareng Risu, Iofi dan Ollie [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/h7cefJBNItQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GNjgna9YQWE",
+      "title": "【#holodori 】ioRisu again! Cihuy【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GNjgna9YQWE",
       "status": "unreviewed",
       "note": null
     }

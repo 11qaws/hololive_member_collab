@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 814,
+  "count": 818,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8953,6 +8953,50 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1TGbof7MfTc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HmuDOgwpB6Y",
+      "title": "【hololive Dreams】Gyu-Don My Soul #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HmuDOgwpB6Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "njkU0cMAWVM",
+      "title": "【HOLOLIVE DREAMS】KAELA SONG KAELA SONG #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/njkU0cMAWVM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q9VhYASmjFA",
+      "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q9VhYASmjFA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nuPuhR4xf2A",
+      "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nuPuhR4xf2A",
       "status": "unreviewed",
       "note": null
     }

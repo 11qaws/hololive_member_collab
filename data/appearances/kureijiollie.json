@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1490,
+  "count": 1493,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16389,6 +16389,39 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qvgeJEpelBM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xdyWWbWCaFY",
+      "title": "【ロケ】おもてなQ 文化編!世界遺産から王族文化まで!インドネシアの文化と歴史を知ろう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xdyWWbWCaFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KviedHsy-8M",
+      "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KviedHsy-8M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QnOG89sUJJ8",
+      "title": "【BOMBANANA!】LEVEL 21-30 HOLORO SWEEP【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QnOG89sUJJ8",
       "status": "unreviewed",
       "note": null
     }

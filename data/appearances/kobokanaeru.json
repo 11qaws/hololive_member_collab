@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 831,
+  "count": 833,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9140,6 +9140,28 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qvgeJEpelBM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "22sFpGEgqAc",
+      "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/22sFpGEgqAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oton7UN0uxE",
+      "title": "【hololive Dreams】 DAILY HOLODORI  #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oton7UN0uxE",
       "status": "unreviewed",
       "note": null
     }

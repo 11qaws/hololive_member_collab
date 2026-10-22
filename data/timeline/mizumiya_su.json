@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2490,
+  "count": 2493,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "89kUA14-sCc",
+      "title": "【 #ホロ鯖かくれんぼ 】新人ちゃんを見つける❕🎁素材集め冒険 【水宮枢/ホロライブ】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/89kUA14-sCc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/89kUA14-sCc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gB1FiE80rWQ",
+      "title": "【メン限】ほぼ無言作業 🩵OFFモードローテンション【水宮枢/ホロライブ】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/gB1FiE80rWQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gB1FiE80rWQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eG8gHW4VbeM",
+      "title": "分かっちゃいないね/踊ってみた #hololive #dance #VTuber",
+      "published_at": "20261021",
+      "url": "https://youtu.be/eG8gHW4VbeM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eG8gHW4VbeM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -75,6 +111,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Ee5Hcmx2oX8",
+      "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
+      "published_at": "20261019",
+      "url": "https://youtu.be/Ee5Hcmx2oX8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Ee5Hcmx2oX8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Kep_lGTYifY",
       "title": "ステップシーン/IRIS OUT #vtuber #dance #hololive",
       "published_at": "20261019",
@@ -119,18 +167,6 @@
       "thumbnail": "https://img.youtube.com/vi/RB52h91FN8s/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Ee5Hcmx2oX8",
-      "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
-      "published_at": "20261018",
-      "url": "https://youtu.be/Ee5Hcmx2oX8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Ee5Hcmx2oX8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

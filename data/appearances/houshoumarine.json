@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1711,
+  "count": 1712,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18820,6 +18820,17 @@
       "published_at": "20261012",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/m73y3nyuZ6A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iDGqJ-j4py4",
+      "title": "【健全】昭和の番組 #ホロライブ #hololive #ホロぐら #バラエティ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iDGqJ-j4py4",
       "status": "unreviewed",
       "note": null
     }

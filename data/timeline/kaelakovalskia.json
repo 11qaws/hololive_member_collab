@@ -1,7 +1,67 @@
 {
   "target": "kaelakovalskia",
-  "count": 2938,
+  "count": 2945,
   "entries": [
+    {
+      "video_id": "nuPuhR4xf2A",
+      "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/nuPuhR4xf2A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nuPuhR4xf2A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HmuDOgwpB6Y",
+      "title": "【hololive Dreams】Gyu-Don My Soul #holodori【Pavolia Reine/hololive】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/HmuDOgwpB6Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HmuDOgwpB6Y/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "njkU0cMAWVM",
+      "title": "【HOLOLIVE DREAMS】KAELA SONG KAELA SONG #holodori",
+      "published_at": "20261021",
+      "url": "https://youtu.be/njkU0cMAWVM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/njkU0cMAWVM/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q9VhYASmjFA",
+      "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/Q9VhYASmjFA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Q9VhYASmjFA/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "published_at": "20261021",
+      "url": "https://youtu.be/v7j_n9Nmutw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/v7j_n9Nmutw/mqdefault.jpg",
+      "partner_handle": "hololiveindonesia",
+      "partner_name": "hololive Indonesia",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1TGbof7MfTc",
       "title": "【hololive Dreams】preparing and setting up for Kaela's event tomorrow🙏【#holodori】",
@@ -83,6 +143,30 @@
       "thumbnail": "https://img.youtube.com/vi/JUrki_ovv1Y/mqdefault.jpg",
       "partner_handle": "aniamelfissa",
       "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kd0nT-tybTA",
+      "title": "【ロケ】おもてなQ グルメ編!インドネシアの\"美味しい\"が集まる!名物料理をご馳走しよう![#CompassHorizon]",
+      "published_at": "20261019",
+      "url": "https://youtu.be/Kd0nT-tybTA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Kd0nT-tybTA/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "t0alZwYhHL4",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Kuliner bareng Moona, Reine dan Kaela [#CompassHorizon]",
+      "published_at": "20261019",
+      "url": "https://youtu.be/t0alZwYhHL4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/t0alZwYhHL4/mqdefault.jpg",
+      "partner_handle": "hololiveindonesia",
+      "partner_name": "hololive Indonesia",
       "sub_entries": [],
       "paired_self": null
     },

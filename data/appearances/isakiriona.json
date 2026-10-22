@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1234,
+  "count": 1235,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13573,6 +13573,17 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RB52h91FN8s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dbHzyllS3RA",
+      "title": "おうふ…… @IsakiRiona",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dbHzyllS3RA",
       "status": "unreviewed",
       "note": null
     }

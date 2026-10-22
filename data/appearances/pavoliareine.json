@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1024,
+  "count": 1033,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11263,6 +11263,105 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1TGbof7MfTc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kd0nT-tybTA",
+      "title": "【ロケ】おもてなQ グルメ編!インドネシアの\"美味しい\"が集まる!名物料理をご馳走しよう![#CompassHorizon]",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kd0nT-tybTA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t0alZwYhHL4",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Kuliner bareng Moona, Reine dan Kaela [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261019",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t0alZwYhHL4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "njkU0cMAWVM",
+      "title": "【HOLOLIVE DREAMS】KAELA SONG KAELA SONG #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/njkU0cMAWVM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q9VhYASmjFA",
+      "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q9VhYASmjFA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nuPuhR4xf2A",
+      "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nuPuhR4xf2A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iDGqJ-j4py4",
+      "title": "【健全】昭和の番組 #ホロライブ #hololive #ホロぐら #バラエティ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iDGqJ-j4py4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "v7j_n9Nmutw",
+      "title": "[Cuplikan Vlog] 🧭Keseruan baru ada di depan mata? [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QnOG89sUJJ8",
+      "title": "【BOMBANANA!】LEVEL 21-30 HOLORO SWEEP【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QnOG89sUJJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w8IDo6EoBws",
+      "title": "【BOMBANANA!】 WE'RE COMPLETING THE GAME!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w8IDo6EoBws",
       "status": "unreviewed",
       "note": null
     }

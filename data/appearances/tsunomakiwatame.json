@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1861,
+  "count": 1862,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20470,6 +20470,17 @@
       "published_at": "20270110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1izBd_B1_Ld",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gOY45tCOfvg",
+      "title": "またやってるぜクソ投稿!GOD u  guys never stop shitposting / Reddit MEME review",
+      "channel_handle": "kiryucoco",
+      "channel_name": "Coco Ch. 桐生ココ",
+      "published_at": "20200906",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gOY45tCOfvg",
       "status": "unreviewed",
       "note": null
     }

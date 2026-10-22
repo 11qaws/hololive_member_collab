@@ -1,7 +1,31 @@
 {
   "target": "robocosan",
-  "count": 4217,
+  "count": 4220,
   "entries": [
+    {
+      "video_id": "NJvTv2Vya5M",
+      "title": "【 #ホロドリ 】ビンゴ完了!!魚釣って図鑑も埋めちゃおおおお!!ね、先生♥【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/NJvTv2Vya5M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/NJvTv2Vya5M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x1fTCIGvTIo",
+      "title": "【 #ホロドリ 】先生図鑑埋まってるの!?なんで!!ねえ!!ねえ!!【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/x1fTCIGvTIo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x1fTCIGvTIo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "fanR5mMMtyM",
       "title": "【 #ホロドリ 】先生図鑑埋まってるの!?なんで!!ねえ!!ねえ!!【ホロライブ/ ロボ子さん 】",
@@ -11,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/fanR5mMMtyM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DrK2kWKmIwo",
+      "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+      "published_at": "20261021",
+      "url": "https://youtu.be/DrK2kWKmIwo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DrK2kWKmIwo/mqdefault.jpg",
+      "partner_handle": "yuzuki_choco",
+      "partner_name": "Choco Ch. 癒月ちょこ",
       "sub_entries": [],
       "paired_self": null
     },
