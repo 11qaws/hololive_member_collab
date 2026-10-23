@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3533,
+  "count": 3537,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38862,6 +38862,50 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/30yvrPeSFlA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sF7SZcOidhM",
+      "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sF7SZcOidhM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "83F3kMuhy1M",
+      "title": "【 R.E.P.O. 】仕事帰りにはやっぱりREPOだよな~~🥂✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/83F3kMuhy1M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2VbHmzZHTW0",
+      "title": "【#突発ホロREPO】ひさびされーーーーーぽ!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2VbHmzZHTW0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wfN_zRPd9tk",
+      "title": "【REPO】お!久々にREPO会開催だってお【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wfN_zRPd9tk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1078,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11857,6 +11857,17 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z2Socv9thzk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GKjoS9iBPg0",
+      "title": "【Nintendo Switch Sports Resort】本日発売!3DでholoXがガチバトル!? #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GKjoS9iBPg0",
       "status": "unreviewed",
       "note": null
     }

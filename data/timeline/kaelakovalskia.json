@@ -1,7 +1,55 @@
 {
   "target": "kaelakovalskia",
-  "count": 2945,
+  "count": 2949,
   "entries": [
+    {
+      "video_id": "a7UcYPDKjvU",
+      "title": "【hololive Dreams】cant make a new thumbnail. cant stop the grind【#holodori】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/a7UcYPDKjvU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/a7UcYPDKjvU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "published_at": "20261022",
+      "url": "https://youtu.be/yBel96l_yik",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yBel96l_yik/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "J9CN6395O2s",
+      "title": "【hololive Dreams】Sneaking Into Kaela's Co-Op Room #holodori【Pavolia Reine/hololive】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/J9CN6395O2s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/J9CN6395O2s/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-OUq_BR3XV4",
+      "title": "【ART】DRAWING IS FUN!!! FOR REAL FOR REAL",
+      "published_at": "20261022",
+      "url": "https://youtu.be/-OUq_BR3XV4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-OUq_BR3XV4/mqdefault.jpg",
+      "partner_handle": "holoen_raorapanthera",
+      "partner_name": "Raora Panthera Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "nuPuhR4xf2A",
       "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",

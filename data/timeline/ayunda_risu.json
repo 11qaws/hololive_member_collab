@@ -1,7 +1,31 @@
 {
   "target": "ayunda_risu",
-  "count": 2996,
+  "count": 3002,
   "entries": [
+    {
+      "video_id": "8-mi6uM7eyg",
+      "title": "【hololive Dreams】 I WANT TO FISH !!【#holodori #ホロドリ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/8-mi6uM7eyg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8-mi6uM7eyg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qdCCLKBPs5Y",
+      "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/qdCCLKBPs5Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qdCCLKBPs5Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "h7cefJBNItQ",
       "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Budaya bareng Risu, Iofi dan Ollie [#CompassHorizon]",
@@ -11,6 +35,54 @@
       "thumbnail": "https://img.youtube.com/vi/h7cefJBNItQ/mqdefault.jpg",
       "partner_handle": "hololiveindonesia",
       "partner_name": "hololive Indonesia",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "published_at": "20261022",
+      "url": "https://youtu.be/yBel96l_yik",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/yBel96l_yik/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MPlSBcrtmMo",
+      "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/MPlSBcrtmMo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/MPlSBcrtmMo/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dcAj-I6de44",
+      "title": "【Hololive Dreams】GOATED #holodori #ホロドリ",
+      "published_at": "20261022",
+      "url": "https://youtu.be/dcAj-I6de44",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dcAj-I6de44/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BXcX-NlFCVI",
+      "title": "【hololive Dreams ホロライブドリームス】Very Casual Dreaming Today!~【hololive holoro | Anya Melfissa】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/BXcX-NlFCVI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BXcX-NlFCVI/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1142,
+  "count": 1145,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12561,6 +12561,39 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBel96l_yik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J9CN6395O2s",
+      "title": "【hololive Dreams】Sneaking Into Kaela's Co-Op Room #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J9CN6395O2s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-OUq_BR3XV4",
+      "title": "【ART】DRAWING IS FUN!!! FOR REAL FOR REAL",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-OUq_BR3XV4",
       "status": "unreviewed",
       "note": null
     }

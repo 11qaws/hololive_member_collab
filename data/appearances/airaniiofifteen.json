@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1179,
+  "count": 1180,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12968,6 +12968,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vAghMnlaPvM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBel96l_yik",
       "status": "unreviewed",
       "note": null
     }

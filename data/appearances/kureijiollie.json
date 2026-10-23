@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1493,
+  "count": 1496,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16422,6 +16422,39 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QnOG89sUJJ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "h7cefJBNItQ",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Budaya bareng Risu, Iofi dan Ollie [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/h7cefJBNItQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBel96l_yik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tY-webWlO4Y",
+      "title": "【#ホロドリ 】やーらし!!オリー先輩とお昼のホロドリ!! 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tY-webWlO4Y",
       "status": "unreviewed",
       "note": null
     }

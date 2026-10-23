@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1077,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11846,6 +11846,28 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XcDskINdvo4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3XASCt7gbRg",
+      "title": "【#ホロドリ】あずいろの釣り物語~完結編~🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3XASCt7gbRg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GKjoS9iBPg0",
+      "title": "【Nintendo Switch Sports Resort】本日発売!3DでholoXがガチバトル!? #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GKjoS9iBPg0",
       "status": "unreviewed",
       "note": null
     }

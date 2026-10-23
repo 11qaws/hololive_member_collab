@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 988,
+  "count": 990,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10867,6 +10867,28 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/x_TQ0xw4c7I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9vDfgmig87M",
+      "title": "if i didn't show up it's not because i overslept, i'm GONE FISHING",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9vDfgmig87M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hfgBp-j5luU",
+      "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hfgBp-j5luU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 818,
+  "count": 819,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8997,6 +8997,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nuPuhR4xf2A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a7UcYPDKjvU",
+      "title": "【hololive Dreams】cant make a new thumbnail. cant stop the grind【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a7UcYPDKjvU",
       "status": "unreviewed",
       "note": null
     }

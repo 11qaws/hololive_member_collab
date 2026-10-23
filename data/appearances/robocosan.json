@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1341,
+  "count": 1342,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14750,6 +14750,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DrK2kWKmIwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w4x2SNpFUl4",
+      "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+      "channel_handle": "yuzuki_choco",
+      "channel_name": "Choco Ch. 癒月ちょこ",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w4x2SNpFUl4",
       "status": "unreviewed",
       "note": null
     }

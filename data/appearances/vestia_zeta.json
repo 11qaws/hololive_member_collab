@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1113,
+  "count": 1120,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -12242,6 +12242,83 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/22sFpGEgqAc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8_Xl7UK3D_E",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Rekreasi bareng Anya, Zeta dan Kobo [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8_Xl7UK3D_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBel96l_yik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hfgBp-j5luU",
+      "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hfgBp-j5luU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IbY-7z30iTY",
+      "title": "Fish fear me but women want me 【GONE Fishing】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IbY-7z30iTY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MPlSBcrtmMo",
+      "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MPlSBcrtmMo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qdCCLKBPs5Y",
+      "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qdCCLKBPs5Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BXcX-NlFCVI",
+      "title": "【hololive Dreams ホロライブドリームス】Very Casual Dreaming Today!~【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BXcX-NlFCVI",
       "status": "unreviewed",
       "note": null
     }

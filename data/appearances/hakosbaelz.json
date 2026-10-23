@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1277,
+  "count": 1278,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14046,6 +14046,17 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZRl5CvMveWI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S8G_wiWs2s0",
+      "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S8G_wiWs2s0",
       "status": "unreviewed",
       "note": null
     }

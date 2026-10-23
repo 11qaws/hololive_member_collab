@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 833,
+  "count": 835,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9162,6 +9162,28 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oton7UN0uxE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8_Xl7UK3D_E",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Rekreasi bareng Anya, Zeta dan Kobo [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8_Xl7UK3D_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBel96l_yik",
+      "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBel96l_yik",
       "status": "unreviewed",
       "note": null
     }

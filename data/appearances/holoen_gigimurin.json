@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 945,
+  "count": 946,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10394,6 +10394,17 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pPGahrMUZWY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kM1ye6qHA5Y",
+      "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kM1ye6qHA5Y",
       "status": "unreviewed",
       "note": null
     }

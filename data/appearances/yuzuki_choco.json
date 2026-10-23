@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1057,
+  "count": 1058,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11626,6 +11626,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fanR5mMMtyM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NJvTv2Vya5M",
+      "title": "【 #ホロドリ 】ビンゴ完了!!魚釣って図鑑も埋めちゃおおおお!!ね、先生♥【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NJvTv2Vya5M",
       "status": "unreviewed",
       "note": null
     }

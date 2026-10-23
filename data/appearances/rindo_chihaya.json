@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1409,
+  "count": 1422,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15498,6 +15498,149 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I3dVfPH59tM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sF7SZcOidhM",
+      "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sF7SZcOidhM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "83F3kMuhy1M",
+      "title": "【 R.E.P.O. 】仕事帰りにはやっぱりREPOだよな~~🥂✨【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/83F3kMuhy1M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wfN_zRPd9tk",
+      "title": "【REPO】お!久々にREPO会開催だってお【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wfN_zRPd9tk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OjtUbtvLRAU",
+      "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OjtUbtvLRAU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "89kUA14-sCc",
+      "title": "【 #ホロ鯖かくれんぼ 】新人ちゃんを見つける❕🎁素材集め冒険 【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/89kUA14-sCc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AqXLFyrg5XM",
+      "title": "【 #ホロ鯖かくれんぼ 】WHERE ARE MY KOHAI!?",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AqXLFyrg5XM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bs2wM6dE8Js",
+      "title": "【HOLOLIVE MINECRAFT】finding the newbies + making them cry🐾🩵 【 #ホロ鯖かくれんぼ 】",
+      "channel_handle": "mococo_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bs2wM6dE8Js",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TeM5-RfvY-Y",
+      "title": "【#ホロ鯖かくれんぼ】ねぇ、逃げないで。【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TeM5-RfvY-Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Aq266GeNx8",
+      "title": "【Minecraft】マイクラでかくれんぼ?あそびまわっちゃえ~!!【ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Aq266GeNx8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Og6_oSSRbl4",
+      "title": "【Minecraft】あそびまわりたいをみつけたい!???!!??【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Og6_oSSRbl4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4U7eDs9AmBE",
+      "title": "【 #ホロ鯖かくれんぼ 】可愛い可愛い後輩ちゃん、みーーーつけたっ!!!!【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4U7eDs9AmBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7sZG9nk7uk0",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[最上級にかわいいの!]",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7sZG9nk7uk0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uu6Ac9BKAkg",
+      "title": "好-じょし-をヴィヴィとリオナと笑虎で踊ってみた🎸✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20260915",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uu6Ac9BKAkg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 889,
+  "count": 890,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9778,6 +9778,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tmw3NuK0-ww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7sZG9nk7uk0",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[最上級にかわいいの!]",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7sZG9nk7uk0",
       "status": "unreviewed",
       "note": null
     }

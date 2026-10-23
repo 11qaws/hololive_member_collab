@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1114,
+  "count": 1116,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12253,6 +12253,28 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/LSb7-waQDNQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7D-DTq6bfqg",
+      "title": "AZKiちゃん、これどーぞ!【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261018",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7D-DTq6bfqg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3gRKVX0rdzc",
+      "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3gRKVX0rdzc",
       "status": "unreviewed",
       "note": null
     }
