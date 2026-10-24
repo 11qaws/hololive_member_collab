@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1531,
+  "count": 1533,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16840,6 +16840,28 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4U7eDs9AmBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H0gBswYTun0",
+      "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ!!!Ver.3.7 #30【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H0gBswYTun0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wd4lBj7WGYc",
+      "title": "【鳴潮】3人でクイズ!?まつりとルーナといっしょに挑戦!【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wd4lBj7WGYc",
       "status": "unreviewed",
       "note": null
     }

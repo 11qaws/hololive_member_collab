@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1501,
+  "count": 1502,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16510,6 +16510,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c8rO_xOYfQY",
+      "title": "令和のソーラン節 自由形 りりらでんver.🩷💚 #ReGLOSS #一条莉々華 #儒烏風亭らでん #VTuber #Shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c8rO_xOYfQY",
       "status": "unreviewed",
       "note": null
     }

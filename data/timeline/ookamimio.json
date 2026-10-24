@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 4177,
+  "count": 4178,
   "entries": [
     {
       "video_id": "30yvrPeSFlA",
@@ -36467,6 +36467,18 @@
       "thumbnail": "https://img.youtube.com/vi/nXwHoNmw-o4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "I8Q7nMijBys",
+      "title": "【#おたおめスバル】おたんじょうび!!!!!!!!!!HAPPY BIRTH DAY SUBARU!!!【見てみな、飛ぶぞ】",
+      "published_at": "20210702",
+      "url": "https://youtu.be/I8Q7nMijBys",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/I8Q7nMijBys/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },

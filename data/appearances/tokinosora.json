@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 866,
+  "count": 867,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9525,6 +9525,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4U7eDs9AmBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oiIg-HumTdQ",
+      "title": "アイドルVTuberの理想✨と現実👄 / Expectations and Reality #ホロライブ #hololive #hololiveid #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oiIg-HumTdQ",
       "status": "unreviewed",
       "note": null
     }

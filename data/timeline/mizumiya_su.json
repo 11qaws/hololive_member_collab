@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2505,
+  "count": 2510,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hoFYvROFbkU",
+      "title": "【手書き】雑すぎるドッキリ  #ホロライブ  #vtuber #animation",
+      "published_at": "20261024",
+      "url": "https://youtu.be/hoFYvROFbkU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hoFYvROFbkU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_gUFvyYj3iE",
+      "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/_gUFvyYj3iE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/_gUFvyYj3iE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EwxON07swbU",
+      "title": "【#7】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/EwxON07swbU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EwxON07swbU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "93QBp3tqhEk",
+      "title": "瞬間超能力…⚡/delicious #vtuber #hololive #呪術廻戦",
+      "published_at": "20261023",
+      "url": "https://youtu.be/93QBp3tqhEk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/93QBp3tqhEk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TyZBrPl4Z4Y",
+      "title": "🎧magic summer歌うのが大変だったところは?①",
+      "published_at": "20261023",
+      "url": "https://youtu.be/TyZBrPl4Z4Y",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TyZBrPl4Z4Y/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -171,24 +231,24 @@
       "paired_self": null
     },
     {
-      "video_id": "eG8gHW4VbeM",
-      "title": "分かっちゃいないね/踊ってみた #hololive #dance #VTuber",
+      "video_id": "dmPELDvXPKA",
+      "title": "【#6】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
       "published_at": "20261021",
-      "url": "https://youtu.be/eG8gHW4VbeM",
+      "url": "https://youtu.be/dmPELDvXPKA",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/eG8gHW4VbeM/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/dmPELDvXPKA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
     {
-      "video_id": "dmPELDvXPKA",
-      "title": "【#6】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢/ホロライブ】",
-      "published_at": "20261020",
-      "url": "https://youtu.be/dmPELDvXPKA",
+      "video_id": "eG8gHW4VbeM",
+      "title": "分かっちゃいないね/踊ってみた #hololive #dance #VTuber",
+      "published_at": "20261021",
+      "url": "https://youtu.be/eG8gHW4VbeM",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/dmPELDvXPKA/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/eG8gHW4VbeM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

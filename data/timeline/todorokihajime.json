@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2510,
+  "count": 2511,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "I3V89GlWIl0",
+      "title": "【メン限】やったー!!喋ろー!!【轟はじめ/ホロライブReGLOSS】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/I3V89GlWIl0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/I3V89GlWIl0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

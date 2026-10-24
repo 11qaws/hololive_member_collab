@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1249,
+  "count": 1253,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13738,6 +13738,50 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BXcX-NlFCVI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D39lYu3jaBk",
+      "title": "【hololive Dreams】Play daily, will change thumbnail later #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D39lYu3jaBk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y2ltasz7pCg",
+      "title": "【hololive Dreams ホロライブドリームス】Girls Night HOLODORI!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y2ltasz7pCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ixfa22UP_gc",
+      "title": "【hololive Dreams】the grind is over. lets just chill with friends【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ixfa22UP_gc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uZNBAZu38Yw",
+      "title": "【hololive Dreams】Girls Night Where We Clear Shop #holodori【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uZNBAZu38Yw",
       "status": "unreviewed",
       "note": null
     }

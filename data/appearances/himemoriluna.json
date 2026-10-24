@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1069,
+  "count": 1071,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11758,6 +11758,28 @@
       "published_at": "20261019",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vShW-eC3M4I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wd4lBj7WGYc",
+      "title": "【鳴潮】3人でクイズ!?まつりとルーナといっしょに挑戦!【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wd4lBj7WGYc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oiIg-HumTdQ",
+      "title": "アイドルVTuberの理想✨と現実👄 / Expectations and Reality #ホロライブ #hololive #hololiveid #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oiIg-HumTdQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1611,
+  "count": 1612,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17720,6 +17720,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OjtUbtvLRAU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I8Q7nMijBys",
+      "title": "【#おたおめスバル】おたんじょうび!!!!!!!!!!HAPPY BIRTH DAY SUBARU!!!【見てみな、飛ぶぞ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20210702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I8Q7nMijBys",
       "status": "unreviewed",
       "note": null
     }

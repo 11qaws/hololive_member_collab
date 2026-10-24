@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2145,
+  "count": 2147,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23594,6 +23594,28 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OO2kY-Yrz68",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oiIg-HumTdQ",
+      "title": "アイドルVTuberの理想✨と現実👄 / Expectations and Reality #ホロライブ #hololive #hololiveid #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oiIg-HumTdQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XoaUBfmG8Ow",
+      "title": "【#ホロライブサマー】ポニテ狼の水着3D配信!【大神ミオ/ホロライブ】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20190911",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XoaUBfmG8Ow",
       "status": "unreviewed",
       "note": null
     }

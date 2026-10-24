@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1058,
+  "count": 1062,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11637,6 +11637,50 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/NJvTv2Vya5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FQIZehpmvjk",
+      "title": "【 #ホロドリ 】釣り対決終わったので参加型ぽかじゃん!!!【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FQIZehpmvjk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jHKZlIRSd0g",
+      "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jHKZlIRSd0g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oiIg-HumTdQ",
+      "title": "アイドルVTuberの理想✨と現実👄 / Expectations and Reality #ホロライブ #hololive #hololiveid #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oiIg-HumTdQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I8Q7nMijBys",
+      "title": "【#おたおめスバル】おたんじょうび!!!!!!!!!!HAPPY BIRTH DAY SUBARU!!!【見てみな、飛ぶぞ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20210702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I8Q7nMijBys",
       "status": "unreviewed",
       "note": null
     }

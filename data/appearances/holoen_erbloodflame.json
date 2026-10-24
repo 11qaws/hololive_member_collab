@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 608,
+  "count": 609,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6687,6 +6687,17 @@
       "published_at": "20261017",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BEb9P-JrSGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oiIg-HumTdQ",
+      "title": "アイドルVTuberの理想✨と現実👄 / Expectations and Reality #ホロライブ #hololive #hololiveid #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oiIg-HumTdQ",
       "status": "unreviewed",
       "note": null
     }

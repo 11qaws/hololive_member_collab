@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1158,
+  "count": 1159,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12737,6 +12737,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-7351WjdU3M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mQTP73JRKvU",
+      "title": "Make sure you follow each step! 🧑‍🩰#sports #exercise",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mQTP73JRKvU",
       "status": "unreviewed",
       "note": null
     }

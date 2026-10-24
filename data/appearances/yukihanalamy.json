@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1396,
+  "count": 1397,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15355,6 +15355,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iDGqJ-j4py4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "I8Q7nMijBys",
+      "title": "【#おたおめスバル】おたんじょうび!!!!!!!!!!HAPPY BIRTH DAY SUBARU!!!【見てみな、飛ぶぞ】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20210702",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/I8Q7nMijBys",
       "status": "unreviewed",
       "note": null
     }
