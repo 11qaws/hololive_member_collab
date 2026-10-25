@@ -1,7 +1,19 @@
 {
   "target": "hololive",
-  "count": 2837,
+  "count": 2838,
   "entries": [
+    {
+      "video_id": "xdyWWbWCaFY",
+      "title": "【ロケ】おもてなQ 文化編!世界遺産から王族文化まで!インドネシアの文化と歴史を知ろう![#CompassHorizon]",
+      "published_at": "20261024",
+      "url": "https://youtu.be/xdyWWbWCaFY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xdyWWbWCaFY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "yBel96l_yik",
       "title": "【新ボイス】ジョグジャカルタへ冒険の旅へ!",
@@ -35,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/Kd0nT-tybTA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "h7cefJBNItQ",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Budaya bareng Risu, Iofi dan Ollie [#CompassHorizon]",
+      "published_at": "20261022",
+      "url": "https://youtu.be/h7cefJBNItQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/h7cefJBNItQ/mqdefault.jpg",
+      "partner_handle": "hololiveindonesia",
+      "partner_name": "hololive Indonesia",
       "sub_entries": [],
       "paired_self": null
     },
@@ -81,18 +105,6 @@
       "url": "https://youtu.be/22sFpGEgqAc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/22sFpGEgqAc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "xdyWWbWCaFY",
-      "title": "【ロケ】おもてなQ 文化編!世界遺産から王族文化まで!インドネシアの文化と歴史を知ろう![#CompassHorizon]",
-      "published_at": "20261019",
-      "url": "https://youtu.be/xdyWWbWCaFY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/xdyWWbWCaFY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

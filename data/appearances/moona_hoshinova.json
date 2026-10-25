@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1253,
+  "count": 1256,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13782,6 +13782,39 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uZNBAZu38Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "h03mMhkVP_s",
+      "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/h03mMhkVP_s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NA8Lwjxj1pY",
+      "title": "【Hololive Dreams】holoh3ro looks kinda different today... #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NA8Lwjxj1pY",
       "status": "unreviewed",
       "note": null
     }

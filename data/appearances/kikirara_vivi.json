@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1362,
+  "count": 1365,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -14981,6 +14981,39 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TyZBrPl4Z4Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ghEg55I_Ahc",
+      "title": "【#holodori 】With Vivi!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ghEg55I_Ahc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FXRarXIFbkM",
+      "title": "🎧magic summer歌うのが大変だったところは?②",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FXRarXIFbkM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1397,
+  "count": 1398,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15366,6 +15366,17 @@
       "published_at": "20210702",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I8Q7nMijBys",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tFcJg5DfOpM",
+      "title": "【悪意 / Dread Neighbor】ししらみはアパートで一人暮らしをするそうです【雪花ラミィ・獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tFcJg5DfOpM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1504,
+  "count": 1505,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16543,6 +16543,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GKjoS9iBPg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dIdwFNWz420",
+      "title": "ANOTHER GROOVY SONG FROM LUI! 「ハートにピース」がキャッチーすぎる!! #shorts #vtuber #鷹嶺ルイの反逆 #ハートにピース #承認欲求チャレンジ",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dIdwFNWz420",
       "status": "unreviewed",
       "note": null
     }

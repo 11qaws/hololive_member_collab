@@ -1,7 +1,43 @@
 {
   "target": "aniamelfissa",
-  "count": 2891,
+  "count": 2894,
   "entries": [
+    {
+      "video_id": "7f2dBcUN3Oo",
+      "title": "【hololive Dreams ホロライブドリームス】Exciting Reinya Dreams!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261024",
+      "url": "https://youtu.be/7f2dBcUN3Oo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7f2dBcUN3Oo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dIdwFNWz420",
+      "title": "ANOTHER GROOVY SONG FROM LUI! 「ハートにピース」がキャッチーすぎる!! #shorts #vtuber #鷹嶺ルイの反逆 #ハートにピース #承認欲求チャレンジ",
+      "published_at": "20261024",
+      "url": "https://youtu.be/dIdwFNWz420",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dIdwFNWz420/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-sgyAWeUFqA",
+      "title": "【hololive Dreams】Chilling with Anya Melfissa from hololive Dreams #holodori【Pavolia Reine/hololive】",
+      "published_at": "20261024",
+      "url": "https://youtu.be/-sgyAWeUFqA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-sgyAWeUFqA/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Y2ltasz7pCg",
       "title": "【hololive Dreams ホロライブドリームス】Girls Night HOLODORI!【hololive holoro | Anya Melfissa】",
@@ -9,6 +45,18 @@
       "url": "https://youtu.be/Y2ltasz7pCg",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/Y2ltasz7pCg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hfgBp-j5luU",
+      "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/hfgBp-j5luU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hfgBp-j5luU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/uZNBAZu38Yw/mqdefault.jpg",
       "partner_handle": "pavoliareine",
       "partner_name": "Pavolia Reine Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "hfgBp-j5luU",
-      "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
-      "published_at": "20261022",
-      "url": "https://youtu.be/hfgBp-j5luU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/hfgBp-j5luU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

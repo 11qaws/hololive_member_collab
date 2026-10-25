@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 183,
+  "count": 184,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2012,6 +2012,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/v7j_n9Nmutw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "h7cefJBNItQ",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Budaya bareng Risu, Iofi dan Ollie [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/h7cefJBNItQ",
       "status": "unreviewed",
       "note": null
     }

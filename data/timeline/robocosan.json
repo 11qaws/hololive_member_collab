@@ -1,7 +1,55 @@
 {
   "target": "robocosan",
-  "count": 4223,
+  "count": 4227,
   "entries": [
+    {
+      "video_id": "Z5mEiQb_Fz8",
+      "title": "【 #ホロドリ】ふれあとそらちゃんとポカジャンするじゃん【ホロライブ/ ロボ子さん 】",
+      "published_at": "20261024",
+      "url": "https://youtu.be/Z5mEiQb_Fz8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Z5mEiQb_Fz8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "W9sCAStIq3A",
+      "title": "「【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】」のコピー",
+      "published_at": "20261024",
+      "url": "https://youtu.be/W9sCAStIq3A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/W9sCAStIq3A/mqdefault.jpg",
+      "partner_handle": "tokinosora",
+      "partner_name": "SoraCh. ときのそらチャンネル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0S2WSM0OrXg",
+      "title": "【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】",
+      "published_at": "20261024",
+      "url": "https://youtu.be/0S2WSM0OrXg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0S2WSM0OrXg/mqdefault.jpg",
+      "partner_handle": "tokinosora",
+      "partner_name": "SoraCh. ときのそらチャンネル",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vAKfC6iES-U",
+      "title": "【ホロライブ ドリームス】#ホロドリ 突然だが3人でポカジャンすっぞ!!【不知火フレア/ホロライブ】",
+      "published_at": "20261024",
+      "url": "https://youtu.be/vAKfC6iES-U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/vAKfC6iES-U/mqdefault.jpg",
+      "partner_handle": "shiranuiflare",
+      "partner_name": "Flare Ch. 不知火フレア",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "FQIZehpmvjk",
       "title": "【 #ホロドリ 】釣り対決終わったので参加型ぽかじゃん!!!【ホロライブ/ ロボ子さん 】",

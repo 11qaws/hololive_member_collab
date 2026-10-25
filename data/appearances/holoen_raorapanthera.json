@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 824,
+  "count": 827,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9063,6 +9063,39 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uZNBAZu38Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g-HRtUB49UQ",
+      "title": "【hololive Dreams】no more grind for me so i chill【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g-HRtUB49UQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_-OrfkSVMJQ",
+      "title": "【HOLOLIVE DREAMS】NEW BIBOO SONG RAHHHH WE GONNA PREP #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_-OrfkSVMJQ",
       "status": "unreviewed",
       "note": null
     }

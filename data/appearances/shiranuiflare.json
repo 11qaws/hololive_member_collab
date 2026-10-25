@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1612,
+  "count": 1615,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17731,6 +17731,39 @@
       "published_at": "20210702",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I8Q7nMijBys",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W9sCAStIq3A",
+      "title": "「【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】」のコピー",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W9sCAStIq3A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0S2WSM0OrXg",
+      "title": "【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0S2WSM0OrXg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z5mEiQb_Fz8",
+      "title": "【 #ホロドリ】ふれあとそらちゃんとポカジャンするじゃん【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z5mEiQb_Fz8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1180,
+  "count": 1181,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12979,6 +12979,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yBel96l_yik",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "scBzgQKnnf0",
+      "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/scBzgQKnnf0",
       "status": "unreviewed",
       "note": null
     }

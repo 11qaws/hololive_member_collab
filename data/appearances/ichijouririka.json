@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1502,
+  "count": 1503,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16521,6 +16521,17 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/c8rO_xOYfQY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xZLz587JZt4",
+      "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO COOK SPAGHETTI! :)",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xZLz587JZt4",
       "status": "unreviewed",
       "note": null
     }

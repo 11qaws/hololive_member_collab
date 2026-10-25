@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1343,
+  "count": 1346,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14772,6 +14772,39 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ofAIg0466NM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W9sCAStIq3A",
+      "title": "「【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】」のコピー",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W9sCAStIq3A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0S2WSM0OrXg",
+      "title": "【#ホロドリ】ポカジャンでコラボ配信だ~!!【ときのそら/ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0S2WSM0OrXg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vAKfC6iES-U",
+      "title": "【ホロライブ ドリームス】#ホロドリ 突然だが3人でポカジャンすっぞ!!【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vAKfC6iES-U",
       "status": "unreviewed",
       "note": null
     }

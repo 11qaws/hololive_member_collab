@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2510,
+  "count": 2514,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "9GUKfVfLDxM",
+      "title": "【手書き】クッキーメイクしてみた🍪 #vtuber #animation #hololive",
+      "published_at": "20261025",
+      "url": "https://youtu.be/9GUKfVfLDxM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9GUKfVfLDxM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "hoFYvROFbkU",
       "title": "【手書き】雑すぎるドッキリ  #ホロライブ  #vtuber #animation",
       "published_at": "20261024",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/hoFYvROFbkU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "published_at": "20261024",
+      "url": "https://youtu.be/b6mcVgI0JjY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/b6mcVgI0JjY/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FXRarXIFbkM",
+      "title": "🎧magic summer歌うのが大変だったところは?②",
+      "published_at": "20261024",
+      "url": "https://youtu.be/FXRarXIFbkM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FXRarXIFbkM/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -75,12 +111,36 @@
       "paired_self": null
     },
     {
+      "video_id": "uQ7m5CII3RA",
+      "title": "自家製麺の魅力!ご当地の麺を堪能するぞ~っ編🍜【#ししろんの47ラーメンツアー2 / 獅白ぼたん ホロライブ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/uQ7m5CII3RA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uQ7m5CII3RA/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "jHKZlIRSd0g",
       "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
       "published_at": "20261022",
       "url": "https://youtu.be/jHKZlIRSd0g",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jHKZlIRSd0g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "89kUA14-sCc",
+      "title": "【 #ホロ鯖かくれんぼ 】新人ちゃんを見つける❕🎁素材集め冒険 【水宮枢/ホロライブ】",
+      "published_at": "20261022",
+      "url": "https://youtu.be/89kUA14-sCc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/89kUA14-sCc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -203,18 +263,6 @@
       "thumbnail": "https://img.youtube.com/vi/7sZG9nk7uk0/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "89kUA14-sCc",
-      "title": "【 #ホロ鯖かくれんぼ 】新人ちゃんを見つける❕🎁素材集め冒険 【水宮枢/ホロライブ】",
-      "published_at": "20261021",
-      "url": "https://youtu.be/89kUA14-sCc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/89kUA14-sCc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 867,
+  "count": 869,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9536,6 +9536,28 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oiIg-HumTdQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vAKfC6iES-U",
+      "title": "【ホロライブ ドリームス】#ホロドリ 突然だが3人でポカジャンすっぞ!!【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vAKfC6iES-U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Z5mEiQb_Fz8",
+      "title": "【 #ホロドリ】ふれあとそらちゃんとポカジャンするじゃん【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Z5mEiQb_Fz8",
       "status": "unreviewed",
       "note": null
     }
