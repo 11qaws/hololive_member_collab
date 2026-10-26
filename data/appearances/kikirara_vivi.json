@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1365,
+  "count": 1367,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15014,6 +15014,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FXRarXIFbkM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eM2gAjRhqtE",
+      "title": "【 #ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん!【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eM2gAjRhqtE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GTs9w_yYzUU",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[マル・マル・モリ・モリ!]",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GTs9w_yYzUU",
       "status": "unreviewed",
       "note": null
     }

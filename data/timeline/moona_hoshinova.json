@@ -1,7 +1,55 @@
 {
   "target": "moona_hoshinova",
-  "count": 2703,
+  "count": 2707,
   "entries": [
+    {
+      "video_id": "skgRofiUBu0",
+      "title": "【Hololive Dreams】Play play~【hololive | moona】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/skgRofiUBu0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/skgRofiUBu0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "StvkQUp-r9s",
+      "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/StvkQUp-r9s",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/StvkQUp-r9s/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-hUlYi0mzjQ",
+      "title": "【Hololive Dreams】my last holodori...of this week! #holodori #ホロドリ",
+      "published_at": "20261025",
+      "url": "https://youtu.be/-hUlYi0mzjQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-hUlYi0mzjQ/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dAkUy8ScRNY",
+      "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+      "published_at": "20261025",
+      "url": "https://youtu.be/dAkUy8ScRNY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/dAkUy8ScRNY/mqdefault.jpg",
+      "partner_handle": "kobokanaeru",
+      "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "IFhVmIDHeSc",
       "title": "【Hololive Dreams】am i back to holoh3ro?【hololive | moona】",

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2217,
+  "count": 2220,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9XKRUCDekUo",
+      "title": "【 メンバーシップ限定 】KU100でスクイーズASMR♡【ホロライブ DEV_IS 響咲リオナ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/9XKRUCDekUo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9XKRUCDekUo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WcmzbnVo178",
+      "title": "【 #ホロARK 】パイロテイム!!成し遂げたい事があるっ・・!🔥✨【ホロライブ  響咲リオナ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/WcmzbnVo178",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WcmzbnVo178/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GTs9w_yYzUU",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[マル・マル・モリ・モリ!]",
+      "published_at": "20261025",
+      "url": "https://youtu.be/GTs9w_yYzUU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GTs9w_yYzUU/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

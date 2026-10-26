@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1280,
+  "count": 1283,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14079,6 +14079,39 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FXRarXIFbkM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V-hYQg6VotU",
+      "title": "すぅちゃん、お望み通り、、 @MizumiyaSu #ニコたんアニメ",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V-hYQg6VotU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GTs9w_yYzUU",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[マル・マル・モリ・モリ!]",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GTs9w_yYzUU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Q_y9Y-zHnMg",
+      "title": "【ホロ鯖ARK】拠点完成したのでジャングルの洞窟やギガラプテイムしたい!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Q_y9Y-zHnMg",
       "status": "unreviewed",
       "note": null
     }

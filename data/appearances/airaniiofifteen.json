@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1181,
+  "count": 1183,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12990,6 +12990,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/scBzgQKnnf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BQzobP1HOmI",
+      "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BQzobP1HOmI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HFWBaS2mIYI",
+      "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HFWBaS2mIYI",
       "status": "unreviewed",
       "note": null
     }

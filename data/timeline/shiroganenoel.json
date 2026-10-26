@@ -1,7 +1,19 @@
 {
   "target": "shiroganenoel",
-  "count": 3882,
+  "count": 3884,
   "entries": [
+    {
+      "video_id": "7aa7uTITfwg",
+      "title": "【ホロ鯖ARK】カワウソ先生今日も行く!初めての強者の洞窟!あとテイム!!【白銀ノエル/ホロライブ】",
+      "published_at": "20261026",
+      "url": "https://youtu.be/7aa7uTITfwg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/7aa7uTITfwg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Q_y9Y-zHnMg",
       "title": "【ホロ鯖ARK】拠点完成したのでジャングルの洞窟やギガラプテイムしたい!!【白銀ノエル/ホロライブ】",
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/phTSyNW5ihc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_gUFvyYj3iE",
+      "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢/ホロライブ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/_gUFvyYj3iE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_gUFvyYj3iE/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

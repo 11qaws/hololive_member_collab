@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1615,
+  "count": 1616,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17764,6 +17764,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z5mEiQb_Fz8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YtlEtnJ4leY",
+      "title": "【Ratatan】楽しいリズムに乗ってマルチプレイだあああああああああネタバレ注意【尾丸ポルカ/不知火フレア/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YtlEtnJ4leY",
       "status": "unreviewed",
       "note": null
     }

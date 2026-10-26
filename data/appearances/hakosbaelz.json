@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1278,
+  "count": 1279,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14057,6 +14057,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/S8G_wiWs2s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "18YXe3Bq2Io",
+      "title": "【hololive Dreams】OUR PLAN IS NO PLAN I THINK",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/18YXe3Bq2Io",
       "status": "unreviewed",
       "note": null
     }

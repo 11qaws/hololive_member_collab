@@ -1,7 +1,19 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4043,
+  "count": 4044,
   "entries": [
+    {
+      "video_id": "PkXGo4jh4fY",
+      "title": "食欲の秋🍁最近食べた美味しいものおしえて!",
+      "published_at": "20261025",
+      "url": "https://youtu.be/PkXGo4jh4fY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PkXGo4jh4fY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "b6mcVgI0JjY",
       "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
@@ -21,6 +33,18 @@
       "url": "https://youtu.be/zcgET_OkNUw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/zcgET_OkNUw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wrurxY9WgGs",
+      "title": "【凸待ち】新人限定🌀凸待ち会場!【ホロライブ/夏色まつり】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/wrurxY9WgGs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wrurxY9WgGs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +71,6 @@
       "thumbnail": "https://img.youtube.com/vi/wd4lBj7WGYc/mqdefault.jpg",
       "partner_handle": "omarupolka",
       "partner_name": "Polka Ch. 尾丸ポルカ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "wrurxY9WgGs",
-      "title": "【凸待ち】新人限定🌀凸待ち会場!【ホロライブ/夏色まつり】",
-      "published_at": "20261022",
-      "url": "https://youtu.be/wrurxY9WgGs",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/wrurxY9WgGs/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

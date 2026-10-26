@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 812,
+  "count": 813,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8931,6 +8931,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4U7eDs9AmBE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3FwAg_0_xDc",
+      "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3FwAg_0_xDc",
       "status": "unreviewed",
       "note": null
     }

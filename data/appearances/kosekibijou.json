@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1554,
+  "count": 1556,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17093,6 +17093,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/g-HRtUB49UQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "7Ttu78AKUOI",
+      "title": "【日本事故物件監視協会3 -Japan Stigmatized Property-】SCARY GAME WITH BIBOO",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/7Ttu78AKUOI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fhl9XGBkFh4",
+      "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fhl9XGBkFh4",
       "status": "unreviewed",
       "note": null
     }

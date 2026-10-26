@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 869,
+  "count": 870,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9558,6 +9558,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Z5mEiQb_Fz8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EN09xRQIbqQ",
+      "title": "【アニメ】みこやってないもん!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EN09xRQIbqQ",
       "status": "unreviewed",
       "note": null
     }

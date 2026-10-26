@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1325,
+  "count": 1327,
   "entries": [
     {
       "video_id": "H80Z5-4pwZb",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/H80Z5-4pwZb",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/H80Z5-4pwZb/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vWaYUZpwmro",
+      "title": "【GAME STREAM!?】Guess the game this time!!!!!! WOAH",
+      "published_at": "20261025",
+      "url": "https://youtu.be/vWaYUZpwmro",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vWaYUZpwmro/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3FwAg_0_xDc",
+      "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
+      "published_at": "20261025",
+      "url": "https://youtu.be/3FwAg_0_xDc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3FwAg_0_xDc/mqdefault.jpg",
       "partner_handle": "holoen_erbloodflame",
       "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
       "sub_entries": [],
@@ -29,7 +53,7 @@
     {
       "video_id": "S8G_wiWs2s0",
       "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
-      "published_at": "20261022",
+      "published_at": "20261023",
       "url": "https://youtu.be/S8G_wiWs2s0",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/S8G_wiWs2s0/mqdefault.jpg",

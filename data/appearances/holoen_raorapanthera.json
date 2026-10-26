@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 827,
+  "count": 830,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9096,6 +9096,39 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_-OrfkSVMJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3FwAg_0_xDc",
+      "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3FwAg_0_xDc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fhl9XGBkFh4",
+      "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fhl9XGBkFh4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ci3iXxZBy2Y",
+      "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ci3iXxZBy2Y",
       "status": "unreviewed",
       "note": null
     }

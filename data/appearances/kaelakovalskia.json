@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1150,
+  "count": 1151,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12649,6 +12649,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_-OrfkSVMJQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Ci3iXxZBy2Y",
+      "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Ci3iXxZBy2Y",
       "status": "unreviewed",
       "note": null
     }

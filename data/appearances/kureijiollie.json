@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1497,
+  "count": 1499,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16466,6 +16466,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P8KJ7HSmoGk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HFWBaS2mIYI",
+      "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HFWBaS2mIYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8O7uRt1WR9I",
+      "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8O7uRt1WR9I",
       "status": "unreviewed",
       "note": null
     }

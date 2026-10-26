@@ -1,7 +1,19 @@
 {
   "target": "airaniiofifteen",
-  "count": 3125,
+  "count": 3128,
   "entries": [
+    {
+      "video_id": "FozMUoFyc0Q",
+      "title": "We Listen and We Do Not Judge PART 2",
+      "published_at": "20261025",
+      "url": "https://youtu.be/FozMUoFyc0Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FozMUoFyc0Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "8O7uRt1WR9I",
       "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/QWHIbU1cY5o/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BQzobP1HOmI",
+      "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/BQzobP1HOmI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BQzobP1HOmI/mqdefault.jpg",
+      "partner_handle": "kureijiollie",
+      "partner_name": "Kureiji Ollie Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HFWBaS2mIYI",
+      "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/HFWBaS2mIYI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/HFWBaS2mIYI/mqdefault.jpg",
+      "partner_handle": "ayunda_risu",
+      "partner_name": "Ayunda Risu Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1346,
+  "count": 1348,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14805,6 +14805,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/vAKfC6iES-U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EfplefkAuuE",
+      "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EfplefkAuuE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EN09xRQIbqQ",
+      "title": "【アニメ】みこやってないもん!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EN09xRQIbqQ",
       "status": "unreviewed",
       "note": null
     }

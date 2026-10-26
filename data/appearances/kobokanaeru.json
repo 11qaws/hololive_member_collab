@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 842,
+  "count": 845,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9261,6 +9261,39 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IFhVmIDHeSc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "skgRofiUBu0",
+      "title": "【Hololive Dreams】Play play~【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/skgRofiUBu0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "StvkQUp-r9s",
+      "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/StvkQUp-r9s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-hUlYi0mzjQ",
+      "title": "【Hololive Dreams】my last holodori...of this week! #holodori #ホロドリ",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-hUlYi0mzjQ",
       "status": "unreviewed",
       "note": null
     }

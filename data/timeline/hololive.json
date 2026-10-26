@@ -1,7 +1,43 @@
 {
   "target": "hololive",
-  "count": 2838,
+  "count": 2841,
   "entries": [
+    {
+      "video_id": "22sFpGEgqAc",
+      "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",
+      "published_at": "20261025",
+      "url": "https://youtu.be/22sFpGEgqAc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/22sFpGEgqAc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EN09xRQIbqQ",
+      "title": "【アニメ】みこやってないもん!",
+      "published_at": "20261025",
+      "url": "https://youtu.be/EN09xRQIbqQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EN09xRQIbqQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "We9gLLUHG0w",
+      "title": "エレクトリカル・サーフィン【踊ってみる/#ときのそら /#ホロライブ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/We9gLLUHG0w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/We9gLLUHG0w/mqdefault.jpg",
+      "partner_handle": "tokinosora",
+      "partner_name": "SoraCh. ときのそらチャンネル",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "xdyWWbWCaFY",
       "title": "【ロケ】おもてなQ 文化編!世界遺産から王族文化まで!インドネシアの文化と歴史を知ろう![#CompassHorizon]",
@@ -63,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "8_Xl7UK3D_E",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Rekreasi bareng Anya, Zeta dan Kobo [#CompassHorizon]",
+      "published_at": "20261022",
+      "url": "https://youtu.be/8_Xl7UK3D_E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8_Xl7UK3D_E/mqdefault.jpg",
+      "partner_handle": "hololiveindonesia",
+      "partner_name": "hololive Indonesia",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "iDGqJ-j4py4",
       "title": "【健全】昭和の番組 #ホロライブ #hololive #ホロぐら #バラエティ",
       "published_at": "20261021",
@@ -93,18 +141,6 @@
       "url": "https://youtu.be/ll4X00r44UU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ll4X00r44UU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "22sFpGEgqAc",
-      "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",
-      "published_at": "20261019",
-      "url": "https://youtu.be/22sFpGEgqAc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/22sFpGEgqAc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

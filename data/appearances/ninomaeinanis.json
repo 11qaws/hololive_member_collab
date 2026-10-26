@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1160,
+  "count": 1161,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12759,6 +12759,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bOlDh1Ji880",
+      "title": "≪hololive Dreams≫ ONE LAST HURRAH!! w/ Ninyomae Inyanis #holodori",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bOlDh1Ji880",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5696,
+  "count": 5700,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -15,6 +15,42 @@
       "paired_self": null
     },
     {
+      "video_id": "mQTx-WStvH4",
+      "title": "【ライブ直前配信】【ホロライブ/さくらみこ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/mQTx-WStvH4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mQTx-WStvH4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rG1oVBJtqoo",
+      "title": "【コーレス動画】電脳神楽ミコビート🌸コーレスフルver.【ホロライブ/さくらみこ】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/rG1oVBJtqoo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rG1oVBJtqoo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "57i6iixTyAc",
+      "title": "ライブまであと4️⃣日🎉電脳神楽ミコビートコーレス練習💥🌸#咲き乱れみこち  #さくらみこ",
+      "published_at": "20261025",
+      "url": "https://youtu.be/57i6iixTyAc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/57i6iixTyAc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "Oh0uWDA6UiA",
       "title": "10/29 2ndソロライブ開催🎊バンドとブラス隊さん達とバンドリハの様子にぇ!#咲き乱れみこち #さくらみこ",
       "published_at": "20261025",
@@ -23,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/Oh0uWDA6UiA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EN09xRQIbqQ",
+      "title": "【アニメ】みこやってないもん!",
+      "published_at": "20261025",
+      "url": "https://youtu.be/EN09xRQIbqQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EN09xRQIbqQ/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

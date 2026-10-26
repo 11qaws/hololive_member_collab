@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2293,
+  "count": 2296,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iqPUf6TiJ_0",
+      "title": "【雑談/CHAT】おしゃべりしよう~~!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/iqPUf6TiJ_0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iqPUf6TiJ_0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pvSj7QCht-Y",
+      "title": "【雑談/CHAT】ちょびtっとおしゃべり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/pvSj7QCht-Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pvSj7QCht-Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GTs9w_yYzUU",
+      "title": "⋱⊹🔍︴FGの練習を覗き見👀[マル・マル・モリ・モリ!]",
+      "published_at": "20261025",
+      "url": "https://youtu.be/GTs9w_yYzUU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GTs9w_yYzUU/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

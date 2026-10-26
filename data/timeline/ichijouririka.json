@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2906,
+  "count": 2908,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8236Kd4-I4s",
+      "title": "【3Dガチバトル】リグロスのスポーツ王は誰だ!? Nintendo Switch Sports Resort【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261026",
+      "url": "https://youtu.be/8236Kd4-I4s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8236Kd4-I4s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qCG4iHnsGOs",
+      "title": "もしもし…?踊れてる…!? #shorts #hololive",
+      "published_at": "20261025",
+      "url": "https://youtu.be/qCG4iHnsGOs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qCG4iHnsGOs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

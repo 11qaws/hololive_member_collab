@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2838,
+  "count": 2840,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -9,6 +9,30 @@
       "url": "https://youtu.be/UdLwgvlJqL5",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WAo2tt6kHsY",
+      "title": "トラウマなんだが【ホロライブ / AZKi】#ぷちあず #shorts #GeoGuessr #ジオゲッサー #飛び出し坊や",
+      "published_at": "20261025",
+      "url": "https://youtu.be/WAo2tt6kHsY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WAo2tt6kHsY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EN09xRQIbqQ",
+      "title": "【アニメ】みこやってないもん!",
+      "published_at": "20261025",
+      "url": "https://youtu.be/EN09xRQIbqQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/EN09xRQIbqQ/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],

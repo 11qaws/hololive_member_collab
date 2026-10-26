@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 184,
+  "count": 186,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2023,6 +2023,28 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/h7cefJBNItQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "We9gLLUHG0w",
+      "title": "エレクトリカル・サーフィン【踊ってみる/#ときのそら /#ホロライブ】",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/We9gLLUHG0w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8_Xl7UK3D_E",
+      "title": "[Watchalong Party]🧭Nobar OmotenaQ edisi Rekreasi bareng Anya, Zeta dan Kobo [#CompassHorizon]",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20261022",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8_Xl7UK3D_E",
       "status": "unreviewed",
       "note": null
     }
