@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 1945,
+  "count": 1947,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eCUMGKfZBHg",
+      "title": "【 #ホロドリ 】ホロドリ衣装で最初から!一緒に始めませんか?【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20261027",
+      "url": "https://youtu.be/eCUMGKfZBHg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eCUMGKfZBHg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "iJSup4RT1rI",
+      "title": "【雑談】最近のあれこれ!【儒烏風亭らでん #ReGLOSS 】",
+      "published_at": "20261026",
+      "url": "https://youtu.be/iJSup4RT1rI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/iJSup4RT1rI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1426,
+  "count": 1427,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15685,6 +15685,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GTs9w_yYzUU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xTrCzFPKCLw",
+      "title": "【#FG3D】大切なのは、愛💖?お金💰?悩まず決めて!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261026",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xTrCzFPKCLw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 186,
+  "count": 187,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2045,6 +2045,17 @@
       "published_at": "20261022",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8_Xl7UK3D_E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4Ebb33QFZBQ",
+      "title": "【#アキちょこナイパレ|第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち?|シスターローズの懺悔室 🌹~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261026",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4Ebb33QFZBQ",
       "status": "unreviewed",
       "note": null
     }

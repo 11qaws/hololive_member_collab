@@ -1,7 +1,31 @@
 {
   "target": "hololive",
-  "count": 2841,
+  "count": 2843,
   "entries": [
+    {
+      "video_id": "Lamp0UFiVQ8",
+      "title": "🌎褒められるのって嬉しい! #hololive #ホロライブ #peaceful",
+      "published_at": "20261026",
+      "url": "https://youtu.be/Lamp0UFiVQ8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Lamp0UFiVQ8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4Ebb33QFZBQ",
+      "title": "【#アキちょこナイパレ|第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち?|シスターローズの懺悔室 🌹~深夜のひとくちラジオ~",
+      "published_at": "20261026",
+      "url": "https://youtu.be/4Ebb33QFZBQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4Ebb33QFZBQ/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "22sFpGEgqAc",
       "title": "【ロケ】おもてなQ レジャー編!インドネシアの自然の絶景スポットで遊びつくそう![#CompassHorizon]",

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1682,
+  "count": 1683,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18501,6 +18501,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iDGqJ-j4py4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Lamp0UFiVQ8",
+      "title": "🌎褒められるのって嬉しい! #hololive #ホロライブ #peaceful",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261026",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Lamp0UFiVQ8",
       "status": "unreviewed",
       "note": null
     }

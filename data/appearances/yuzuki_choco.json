@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1062,
+  "count": 1064,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11681,6 +11681,28 @@
       "published_at": "20210702",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/I8Q7nMijBys",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4Ebb33QFZBQ",
+      "title": "【#アキちょこナイパレ|第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち?|シスターローズの懺悔室 🌹~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261026",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4Ebb33QFZBQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xggoSG1ANhA",
+      "title": "決めるのはあなた! #ホロ麺QTTA頂上決戦 !【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xggoSG1ANhA",
       "status": "unreviewed",
       "note": null
     }
