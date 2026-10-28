@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3848,
+  "count": 3851,
   "entries": [
     {
       "video_id": "LEyISnCpXEe",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uiCtRu3q9ZQ",
+      "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
+      "published_at": "20261028",
+      "url": "https://youtu.be/uiCtRu3q9ZQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/uiCtRu3q9ZQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xrN9Ez2ObZA",
+      "title": "【 #ホロ鯖ARK 】その13|作戦会議と‼️です‼️【常闇トワ/ホロライブ】",
+      "published_at": "20261028",
+      "url": "https://youtu.be/xrN9Ez2ObZA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xrN9Ez2ObZA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Jqe0ZLROaj0",
+      "title": "【APEX/初コラボ✨】つづり&トワと久しぶりにAPEXしていく‼【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20261028",
+      "url": "https://youtu.be/Jqe0ZLROaj0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Jqe0ZLROaj0/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
       "sub_entries": [],
       "paired_self": null
     },

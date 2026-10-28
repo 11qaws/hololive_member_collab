@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1505,
+  "count": 1507,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16554,6 +16554,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dIdwFNWz420",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Uq0v8C09KSs",
+      "title": "ギャンブルも3倍になるJapanese Ramen Simulator【戌神ころね・獅白ぼたん・鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Uq0v8C09KSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p5dtCuM3vc4",
+      "title": "【Japanese Ramen Simulator】怖がらせ隊でラメーン!!!!!【ころね支店】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p5dtCuM3vc4",
       "status": "unreviewed",
       "note": null
     }

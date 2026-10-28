@@ -1,7 +1,67 @@
 {
   "target": "tokinosora",
-  "count": 3260,
+  "count": 3266,
   "entries": [
+    {
+      "video_id": "kpMgniQvIEM",
+      "title": "マルゴトミライ",
+      "published_at": "20261027",
+      "url": "https://youtu.be/kpMgniQvIEM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kpMgniQvIEM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sr5nJSExxrk",
+      "title": "スキ⇄スキ☆うろぼろす",
+      "published_at": "20261027",
+      "url": "https://youtu.be/sr5nJSExxrk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sr5nJSExxrk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mMO8VSZrZWI",
+      "title": "キラメキMODE! feat. 響咲リオナ",
+      "published_at": "20261027",
+      "url": "https://youtu.be/mMO8VSZrZWI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mMO8VSZrZWI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KDfB6ag_h6c",
+      "title": "決意のソラへ",
+      "published_at": "20261027",
+      "url": "https://youtu.be/KDfB6ag_h6c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KDfB6ag_h6c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BUGV22uYc9Y",
+      "title": "ハイパーチャッチャカチャージ",
+      "published_at": "20261027",
+      "url": "https://youtu.be/BUGV22uYc9Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BUGV22uYc9Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "fB3pPG01nJM",
       "title": "Chu-Chu-Lu【みんなでせーの!踊ってみた/#ときのそら /#ホロライブ 】",
@@ -35,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/EN09xRQIbqQ/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mQTx-WStvH4",
+      "title": "【ライブ直前】決起会!!!凸待ち!!!参戦装備やコーレス練習もやるどおおおおお!!!【ホロライブ/さくらみこ #咲き乱れみこち】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/mQTx-WStvH4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/mQTx-WStvH4/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

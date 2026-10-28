@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2841,
+  "count": 2842,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "M4utnSkzW-U",
+      "title": "【新・都道府県ゲーム】日本列島、完成させる―――!【ホロライブ / AZKi】",
+      "published_at": "20261027",
+      "url": "https://youtu.be/M4utnSkzW-U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/M4utnSkzW-U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

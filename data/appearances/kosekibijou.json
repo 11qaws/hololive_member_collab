@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1556,
+  "count": 1557,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17115,6 +17115,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fhl9XGBkFh4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wN_u4VEp24b",
+      "title": "babydoll returns",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wN_u4VEp24b",
       "status": "unreviewed",
       "note": null
     }

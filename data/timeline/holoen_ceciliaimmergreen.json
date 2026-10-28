@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1328,
+  "count": 1331,
   "entries": [
     {
       "video_id": "H80Z5-4pwZb",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/H80Z5-4pwZb/mqdefault.jpg",
       "partner_handle": "holoen_erbloodflame",
       "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nZelBRkzU9u",
+      "title": "-Justice- Phasmophobia",
+      "published_at": "20261030",
+      "url": "https://youtu.be/nZelBRkzU9u",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/nZelBRkzU9u/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wRbEG7zWtQA",
+      "title": "【MEMBERS GUERILLA??】workspace where i will actually get work done",
+      "published_at": "20261027",
+      "url": "https://youtu.be/wRbEG7zWtQA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wRbEG7zWtQA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,8 +51,20 @@
       "paired_self": null
     },
     {
+      "video_id": "AjTcF5Mjl8U",
+      "title": "【#holoKitchen】holoKitchen Cooking Project Show!",
+      "published_at": "20261027",
+      "url": "https://youtu.be/AjTcF5Mjl8U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/AjTcF5Mjl8U/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "vWaYUZpwmro",
-      "title": "【GAME STREAM!?】Guess the game this time!!!!!! WOAH",
+      "title": "【SLAY THE PRINCESS】Guess the game this time!!!!!! WOAH",
       "published_at": "20261025",
       "url": "https://youtu.be/vWaYUZpwmro",
       "entry_type": "stream",

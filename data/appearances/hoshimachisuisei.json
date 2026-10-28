@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1492,
+  "count": 1493,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16411,6 +16411,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EN09xRQIbqQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mD093bq2UOk",
+      "title": "≪OFF COLLAB≫ WORKING OUT WITH SUISEI + NEW MV RELEASE #RoadToREGALIA",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mD093bq2UOk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1494,
+  "count": 1499,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16433,6 +16433,61 @@
       "published_at": "20261016",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Yq7fq9RoNNI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-rEMiOIoqbo",
+      "title": "≪CHADCast≫ EPISODE 3 - Happy Halloween #chadcast",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-rEMiOIoqbo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AjTcF5Mjl8U",
+      "title": "【#holoKitchen】holoKitchen Cooking Project Show!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AjTcF5Mjl8U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J_uZTBLE4rY",
+      "title": "【JUMP KING HOLORACE】本番!初心者🔰がんばるぞ!【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J_uZTBLE4rY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5SH-ItPkNFk",
+      "title": "If you walk out that door...😡 #funny #relationship #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5SH-ItPkNFk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mQTx-WStvH4",
+      "title": "【ライブ直前】決起会!!!凸待ち!!!参戦装備やコーレス練習もやるどおおおおお!!!【ホロライブ/さくらみこ #咲き乱れみこち】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mQTx-WStvH4",
       "status": "unreviewed",
       "note": null
     }

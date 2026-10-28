@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1167,
+  "count": 1168,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12836,6 +12836,17 @@
       "published_at": "20251009",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KsilxxyipPo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-rEMiOIoqbo",
+      "title": "≪CHADCast≫ EPISODE 3 - Happy Halloween #chadcast",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-rEMiOIoqbo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 871,
+  "count": 872,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9580,6 +9580,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xggoSG1ANhA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mQTx-WStvH4",
+      "title": "【ライブ直前】決起会!!!凸待ち!!!参戦装備やコーレス練習もやるどおおおおお!!!【ホロライブ/さくらみこ #咲き乱れみこち】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mQTx-WStvH4",
       "status": "unreviewed",
       "note": null
     }

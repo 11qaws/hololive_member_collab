@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 610,
+  "count": 612,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6709,6 +6709,28 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k_r4poBNhIa",
+      "title": "-Justice- Phasmophobia",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k_r4poBNhIa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nZelBRkzU9u",
+      "title": "-Justice- Phasmophobia",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nZelBRkzU9u",
       "status": "unreviewed",
       "note": null
     }

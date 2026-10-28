@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1398,
+  "count": 1399,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15377,6 +15377,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tFcJg5DfOpM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k5X1DRWL6mg",
+      "title": "【Machine Party】友情破壊ゲー⁉️デスゲーム【hololive/水宮枢】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k5X1DRWL6mg",
       "status": "unreviewed",
       "note": null
     }

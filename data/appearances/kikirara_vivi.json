@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1368,
+  "count": 1369,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15047,6 +15047,17 @@
       "published_at": "20261026",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xTrCzFPKCLw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KjEw1qSGTv0",
+      "title": "【#ホロ鯖ARK】DAY17🦖きtらああああああああああああああああああああ!!!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KjEw1qSGTv0",
       "status": "unreviewed",
       "note": null
     }

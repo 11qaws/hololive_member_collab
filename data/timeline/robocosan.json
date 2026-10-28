@@ -1,10 +1,10 @@
 {
   "target": "robocosan",
-  "count": 4230,
+  "count": 4231,
   "entries": [
     {
       "video_id": "eM2gAjRhqtE",
-      "title": "【 #ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん!【ホロライブ/ ロボ子さん 】",
+      "title": "【 #ホロドリ】ヴィヴィと一緒に♥ 強くなったので今日はろぼさーとミニゲームあそびまくるじゃん!【ホロライブ/ ロボ子さん 】",
       "published_at": "20261025",
       "url": "https://youtu.be/eM2gAjRhqtE",
       "entry_type": "stream",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/EN09xRQIbqQ/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mQTx-WStvH4",
+      "title": "【ライブ直前】決起会!!!凸待ち!!!参戦装備やコーレス練習もやるどおおおおお!!!【ホロライブ/さくらみこ #咲き乱れみこち】",
+      "published_at": "20261025",
+      "url": "https://youtu.be/mQTx-WStvH4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/mQTx-WStvH4/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

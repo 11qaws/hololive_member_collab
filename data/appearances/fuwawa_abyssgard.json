@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1247,
+  "count": 1248,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -13716,6 +13716,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/b6mcVgI0JjY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5SH-ItPkNFk",
+      "title": "If you walk out that door...😡 #funny #relationship #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5SH-ItPkNFk",
       "status": "unreviewed",
       "note": null
     }

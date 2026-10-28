@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1683,
+  "count": 1684,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18512,6 +18512,17 @@
       "published_at": "20261026",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Lamp0UFiVQ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jqe0ZLROaj0",
+      "title": "【APEX/初コラボ✨】つづり&トワと久しぶりにAPEXしていく‼【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jqe0ZLROaj0",
       "status": "unreviewed",
       "note": null
     }

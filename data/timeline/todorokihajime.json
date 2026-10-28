@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2514,
+  "count": 2515,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "k5X1DRWL6mg",
+      "title": "【Machine Party】友情破壊ゲー⁉️デスゲーム【hololive/水宮枢】",
+      "published_at": "20261027",
+      "url": "https://youtu.be/k5X1DRWL6mg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/k5X1DRWL6mg/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1077,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11846,6 +11846,28 @@
       "published_at": "20261018",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZRl5CvMveWI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AjTcF5Mjl8U",
+      "title": "【#holoKitchen】holoKitchen Cooking Project Show!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AjTcF5Mjl8U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5SH-ItPkNFk",
+      "title": "If you walk out that door...😡 #funny #relationship #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5SH-ItPkNFk",
       "status": "unreviewed",
       "note": null
     }

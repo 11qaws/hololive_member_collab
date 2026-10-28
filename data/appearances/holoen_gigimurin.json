@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 948,
+  "count": 949,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10427,6 +10427,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3FwAg_0_xDc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k_r4poBNhIa",
+      "title": "-Justice- Phasmophobia",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k_r4poBNhIa",
       "status": "unreviewed",
       "note": null
     }

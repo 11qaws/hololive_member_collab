@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1666,
+  "count": 1667,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18325,6 +18325,17 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QoQRLGY7LFg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p5dtCuM3vc4",
+      "title": "【Japanese Ramen Simulator】怖がらせ隊でラメーン!!!!!【ころね支店】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p5dtCuM3vc4",
       "status": "unreviewed",
       "note": null
     }

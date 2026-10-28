@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 830,
+  "count": 833,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9129,6 +9129,39 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ci3iXxZBy2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AjTcF5Mjl8U",
+      "title": "【#holoKitchen】holoKitchen Cooking Project Show!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AjTcF5Mjl8U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k_r4poBNhIa",
+      "title": "-Justice- Phasmophobia",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k_r4poBNhIa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nZelBRkzU9u",
+      "title": "-Justice- Phasmophobia",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nZelBRkzU9u",
       "status": "unreviewed",
       "note": null
     }
