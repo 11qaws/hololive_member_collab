@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1251,
+  "count": 1253,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13760,6 +13760,28 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/axC82Mz2CUM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "R9kCk8nojzs",
+      "title": "【りりーなオフコラボ】普通のたこパだと思った?ロシアンルーレットでした~ww【hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/R9kCk8nojzs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FaAoCZjeew0",
+      "title": "虎金妃笑虎 PICK-UP short 「逆様」歌ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FaAoCZjeew0",
       "status": "unreviewed",
       "note": null
     }

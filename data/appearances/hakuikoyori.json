@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1459,
+  "count": 1460,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16048,6 +16048,17 @@
       "published_at": "20261013",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i7PxwGBGIl0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VjGQF7Vi7_w",
+      "title": "551 Collab",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VjGQF7Vi7_w",
       "status": "unreviewed",
       "note": null
     }

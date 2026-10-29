@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 895,
+  "count": 896,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9844,6 +9844,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/axC82Mz2CUM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FaAoCZjeew0",
+      "title": "虎金妃笑虎 PICK-UP short 「逆様」歌ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FaAoCZjeew0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1493,
+  "count": 1494,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16422,6 +16422,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mD093bq2UOk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uiCtRu3q9ZQ",
+      "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uiCtRu3q9ZQ",
       "status": "unreviewed",
       "note": null
     }

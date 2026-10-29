@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 938,
+  "count": 940,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10317,6 +10317,28 @@
       "published_at": "20261026",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8236Kd4-I4s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PY7_JVQ2hKE",
+      "title": "【ポルカの伝説】帰ってきたおつまみドラフト!?!!?",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PY7_JVQ2hKE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PQaa8bj1P_o",
+      "title": "#ReGLOSS_ARLIVE 「X-ReCHORD」の配信チケット発売中🎉 スマホやPCからお楽しみいただけます! #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PQaa8bj1P_o",
       "status": "unreviewed",
       "note": null
     }

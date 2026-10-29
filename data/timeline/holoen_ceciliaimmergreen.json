@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1331,
+  "count": 1334,
   "entries": [
     {
       "video_id": "H80Z5-4pwZb",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/nZelBRkzU9u/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DkGhq1hi8KY",
+      "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
+      "published_at": "20261029",
+      "url": "https://youtu.be/DkGhq1hi8KY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DkGhq1hi8KY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WRS2SODdX8w",
+      "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
+      "published_at": "20261029",
+      "url": "https://youtu.be/WRS2SODdX8w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/WRS2SODdX8w/mqdefault.jpg",
+      "partner_handle": "kosekibijou",
+      "partner_name": "Koseki Bijou Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4fkztER_lDY",
+      "title": "【SLAY THE PRINCESS】I am not the contrarian",
+      "published_at": "20261028",
+      "url": "https://youtu.be/4fkztER_lDY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4fkztER_lDY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

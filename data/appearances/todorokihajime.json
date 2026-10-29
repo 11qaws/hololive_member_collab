@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1306,
+  "count": 1308,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14365,6 +14365,28 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k5X1DRWL6mg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QNJ2XSvAsKZ",
+      "title": "Halloween Collab w/ Kanade & Hajime",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QNJ2XSvAsKZ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PQaa8bj1P_o",
+      "title": "#ReGLOSS_ARLIVE 「X-ReCHORD」の配信チケット発売中🎉 スマホやPCからお楽しみいただけます! #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PQaa8bj1P_o",
       "status": "unreviewed",
       "note": null
     }

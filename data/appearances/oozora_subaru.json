@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2147,
+  "count": 2148,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23616,6 +23616,17 @@
       "published_at": "20190911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XoaUBfmG8Ow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kulGmF3O8fE",
+      "title": "【伝説】リアタイした人がいたらコメントしてね! #hololive #ホロライブ #ホロぐら #ホロざんまい",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kulGmF3O8fE",
       "status": "unreviewed",
       "note": null
     }

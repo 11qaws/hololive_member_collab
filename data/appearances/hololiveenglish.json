@@ -1,6 +1,6 @@
 {
   "target": "hololiveenglish",
-  "count": 3,
+  "count": 4,
   "appearances": [
     {
       "video_id": "CYce1mozNRo",
@@ -32,6 +32,17 @@
       "published_at": "20261011",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P1EiHexHkHc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qRhXRK4zu1s",
+      "title": "【Watchalong / 同時視聴】IRyS 1st Concert 「HOPE ||: Beyond the Stars」配信チケット11/6まで発売中!",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qRhXRK4zu1s",
       "status": "unreviewed",
       "note": null
     }

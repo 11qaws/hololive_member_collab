@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1369,
+  "count": 1370,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15058,6 +15058,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KjEw1qSGTv0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_ypWJ0IitYA",
+      "title": "クリームで会いにいけますか / 水宮枢×綺々羅々ヴィヴィ(cover)【ずっと真夜中でいいのに。/歌ってみた】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261021",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_ypWJ0IitYA",
       "status": "unreviewed",
       "note": null
     }

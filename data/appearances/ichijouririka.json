@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1503,
+  "count": 1504,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16532,6 +16532,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xZLz587JZt4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PQaa8bj1P_o",
+      "title": "#ReGLOSS_ARLIVE 「X-ReCHORD」の配信チケット発売中🎉 スマホやPCからお楽しみいただけます! #ReGLOSS #Vtuber #shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PQaa8bj1P_o",
       "status": "unreviewed",
       "note": null
     }

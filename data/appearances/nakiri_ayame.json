@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 941,
+  "count": 942,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10350,6 +10350,17 @@
       "published_at": "20190911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XoaUBfmG8Ow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P_uGDdotlF4",
+      "title": "【#あやスバ】凸待ち!だれかあやスバと大富豪しませんか?：アソビ大全【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P_uGDdotlF4",
       "status": "unreviewed",
       "note": null
     }

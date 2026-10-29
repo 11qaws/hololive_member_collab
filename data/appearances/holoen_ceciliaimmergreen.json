@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 815,
+  "count": 816,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8964,6 +8964,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nZelBRkzU9u",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WRS2SODdX8w",
+      "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WRS2SODdX8w",
       "status": "unreviewed",
       "note": null
     }

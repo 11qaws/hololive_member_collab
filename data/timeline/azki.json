@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2842,
+  "count": 2843,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XPlyUmp0dbw",
+      "title": "ちょっぴりセクシーに踊ってみた💋 Hey baby! / 倖田來未 #踊ってみた #AZKi #hololive #shorts #Heybaby",
+      "published_at": "20261028",
+      "url": "https://youtu.be/XPlyUmp0dbw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XPlyUmp0dbw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
