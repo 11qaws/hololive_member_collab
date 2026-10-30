@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1183,
+  "count": 1184,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13012,6 +13012,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HFWBaS2mIYI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bRxPuvCtUrc",
+      "title": "【APEX LEGENDS】 FOR THE FIRST TIME IN FOREVER!! #IOLLIE 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bRxPuvCtUrc",
       "status": "unreviewed",
       "note": null
     }

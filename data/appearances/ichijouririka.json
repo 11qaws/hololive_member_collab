@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1504,
+  "count": 1505,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16543,6 +16543,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PQaa8bj1P_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cAmMlH1Jr-0",
+      "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか!???【博衣こより視点/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cAmMlH1Jr-0",
       "status": "unreviewed",
       "note": null
     }

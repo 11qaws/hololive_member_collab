@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1147,
+  "count": 1148,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12616,6 +12616,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8O7uRt1WR9I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c9yFK-ytqPg",
+      "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261027",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c9yFK-ytqPg",
       "status": "unreviewed",
       "note": null
     }

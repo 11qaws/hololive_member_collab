@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3540,
+  "count": 3542,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38939,6 +38939,28 @@
       "published_at": "20190911",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XoaUBfmG8Ow",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZetSOnfSnww",
+      "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZetSOnfSnww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uNfrn28Q9Fk",
+      "title": "【告知アリ凸待ち】自認!!!新人限定凸待ち~~!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uNfrn28Q9Fk",
       "status": "unreviewed",
       "note": null
     }

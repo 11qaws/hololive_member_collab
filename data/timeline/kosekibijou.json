@@ -1,7 +1,31 @@
 {
   "target": "kosekibijou",
-  "count": 2587,
+  "count": 2589,
   "entries": [
+    {
+      "video_id": "SRdO1hBERWU",
+      "title": "【MEMBER'S WATCHALONG】Cabin in the Woods",
+      "published_at": "20261030",
+      "url": "https://youtu.be/SRdO1hBERWU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SRdO1hBERWU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tiTvG0apB-w",
+      "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
+      "published_at": "20261029",
+      "url": "https://youtu.be/tiTvG0apB-w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tiTvG0apB-w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "WRS2SODdX8w",
       "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
@@ -41,7 +65,7 @@
     {
       "video_id": "YlzdFQIPBTM",
       "title": "【Five Nights at Freddy's: Security Breach】I'M SUPERSTAR",
-      "published_at": "20261026",
+      "published_at": "20261028",
       "url": "https://youtu.be/YlzdFQIPBTM",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/YlzdFQIPBTM/mqdefault.jpg",

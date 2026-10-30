@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 612,
+  "count": 613,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6731,6 +6731,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nZelBRkzU9u",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "paGB4o8r5JQ",
+      "title": "PHASMOPHOBIA GIGI MURIN",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/paGB4o8r5JQ",
       "status": "unreviewed",
       "note": null
     }

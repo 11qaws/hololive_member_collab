@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3696,
+  "count": 3697,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "suiN7F1D7E4",
+      "title": "【 勝利の女神：NIKKE 】船長初NIKKE!!4周年、参戦します!!【宝鐘マリン/ホロライブ】#PR",
+      "published_at": "20261029",
+      "url": "https://youtu.be/suiN7F1D7E4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/suiN7F1D7E4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

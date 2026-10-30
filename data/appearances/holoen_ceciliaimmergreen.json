@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 816,
+  "count": 818,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8975,6 +8975,28 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WRS2SODdX8w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "paGB4o8r5JQ",
+      "title": "PHASMOPHOBIA GIGI MURIN",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/paGB4o8r5JQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bkJhD2YVLz4",
+      "title": "#holoKitchen disgusting @holoen_ceciliaimmergreen",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bkJhD2YVLz4",
       "status": "unreviewed",
       "note": null
     }

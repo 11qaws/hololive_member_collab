@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 187,
+  "count": 188,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2056,6 +2056,17 @@
       "published_at": "20261026",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4Ebb33QFZBQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pTadTZQGUUk",
+      "title": "【コーレス動画】スキ⇄スキ☆うろぼろす Part1 #ときのそら #ホロライブ #shorts",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pTadTZQGUUk",
       "status": "unreviewed",
       "note": null
     }

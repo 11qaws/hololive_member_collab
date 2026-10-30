@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2004,
+  "count": 2006,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22043,6 +22043,28 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VjGQF7Vi7_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cAmMlH1Jr-0",
+      "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか!???【博衣こより視点/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cAmMlH1Jr-0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZetSOnfSnww",
+      "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZetSOnfSnww",
       "status": "unreviewed",
       "note": null
     }

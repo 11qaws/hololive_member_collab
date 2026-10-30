@@ -1,7 +1,55 @@
 {
   "target": "kureijiollie",
-  "count": 3471,
+  "count": 3475,
   "entries": [
+    {
+      "video_id": "EhMi6yjxtHU",
+      "title": "#音乃瀬奏 #You&合図",
+      "published_at": "20261030",
+      "url": "https://youtu.be/EhMi6yjxtHU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EhMi6yjxtHU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "bRxPuvCtUrc",
+      "title": "【APEX LEGENDS】 FOR THE FIRST TIME IN FOREVER!! #IOLLIE 【Kureiji Ollie】",
+      "published_at": "20261029",
+      "url": "https://youtu.be/bRxPuvCtUrc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bRxPuvCtUrc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gX4NtduorW0",
+      "title": "【 APEX LEGENDS 】IOLLIE, THE LEGEND IS BACK【 iofi / hololive】",
+      "published_at": "20261029",
+      "url": "https://youtu.be/gX4NtduorW0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/gX4NtduorW0/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "59Pbq66VTBw",
+      "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
+      "published_at": "20261027",
+      "url": "https://youtu.be/59Pbq66VTBw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/59Pbq66VTBw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "_10LCkHkAJE",
       "title": "@HimeHina の新曲『フランケンシュタインの怪物』一緒に踊りました!🧟",
@@ -880,7 +928,7 @@
     },
     {
       "video_id": "Ikx_2yaU7AM",
-      "title": "【#OllieNewDrip】ERM ACTUALLY- NEW OUTFIT!!【Kureiji Ollie】",
+      "title": "【#OllieNewDrip】 ERM ACTUALLY- NEW OUTFIT!! 【Kureiji Ollie】",
       "published_at": "20261007",
       "url": "https://youtu.be/Ikx_2yaU7AM",
       "entry_type": "stream",
@@ -1007,18 +1055,6 @@
       "thumbnail": "https://img.youtube.com/vi/FFH9wmgDjJo/mqdefault.jpg",
       "partner_handle": "kobokanaeru",
       "partner_name": "Kobo Kanaeru Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "59Pbq66VTBw",
-      "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
-      "published_at": "20261005",
-      "url": "https://youtu.be/59Pbq66VTBw",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/59Pbq66VTBw/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -8747,6 +8783,18 @@
       "thumbnail": "https://img.youtube.com/vi/VM_ymNBFnCs/mqdefault.jpg",
       "partner_handle": "airaniiofifteen",
       "partner_name": "Airani Iofifteen Channel hololive-ID",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Mml_omzcGiE",
+      "title": "bakunyu prev",
+      "published_at": "20250510",
+      "url": "https://youtu.be/Mml_omzcGiE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Mml_omzcGiE/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
       "sub_entries": [],
       "paired_self": null
     },

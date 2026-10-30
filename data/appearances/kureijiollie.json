@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1499,
+  "count": 1501,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16488,6 +16488,28 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8O7uRt1WR9I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gX4NtduorW0",
+      "title": "【 APEX LEGENDS 】IOLLIE, THE LEGEND IS BACK【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gX4NtduorW0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mml_omzcGiE",
+      "title": "bakunyu prev",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20250510",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mml_omzcGiE",
       "status": "unreviewed",
       "note": null
     }

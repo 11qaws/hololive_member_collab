@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 3819,
+  "count": 3822,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qnLXx1-mOr0",
+      "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
+      "published_at": "20261030",
+      "url": "https://youtu.be/qnLXx1-mOr0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qnLXx1-mOr0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zHorAsW9mPQ",
+      "title": "洗脳 (Brainwashed) - Mori Calliope (cover)",
+      "published_at": "20261030",
+      "url": "https://youtu.be/zHorAsW9mPQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zHorAsW9mPQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9mGH-o1cabk",
+      "title": "spooky scary skeletons",
+      "published_at": "20261030",
+      "url": "https://youtu.be/9mGH-o1cabk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9mGH-o1cabk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

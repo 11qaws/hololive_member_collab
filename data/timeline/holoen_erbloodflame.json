@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 1128,
+  "count": 1131,
   "entries": [
     {
       "video_id": "k_r4poBNhIa",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/nZelBRkzU9u/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "paGB4o8r5JQ",
+      "title": "PHASMOPHOBIA GIGI MURIN",
+      "published_at": "20261030",
+      "url": "https://youtu.be/paGB4o8r5JQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/paGB4o8r5JQ/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EKBdQXpVk0",
+      "title": "🔴LIVE |【JUMP KING HOLORACE】Elizabeth POV | 💄#holorace2026",
+      "published_at": "20261029",
+      "url": "https://youtu.be/3EKBdQXpVk0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3EKBdQXpVk0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rirD_bqRkEc",
+      "title": "🔴LIVE |【JUMP KING】First Time - Practice for HOLORACE | 💄",
+      "published_at": "20261029",
+      "url": "https://youtu.be/rirD_bqRkEc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rirD_bqRkEc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -1000,7 +1036,7 @@
     },
     {
       "video_id": "JzXm4ejfVOA",
-      "title": "FORTNITE - I love blue women ~! 💄",
+      "title": "🟣VOD |【FORTNITE】I love blue women ~! | 💄",
       "published_at": "20260729",
       "url": "https://youtu.be/JzXm4ejfVOA",
       "entry_type": "stream",

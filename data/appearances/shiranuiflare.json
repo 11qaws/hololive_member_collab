@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1616,
+  "count": 1617,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17775,6 +17775,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YtlEtnJ4leY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZetSOnfSnww",
+      "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261025",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZetSOnfSnww",
       "status": "unreviewed",
       "note": null
     }

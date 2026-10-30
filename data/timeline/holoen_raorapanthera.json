@@ -1,7 +1,19 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1443,
+  "count": 1445,
   "entries": [
+    {
+      "video_id": "Sq8z79nQlsY",
+      "title": "【JUMP KING HOLORACE】I AM COOKED #holorace2026",
+      "published_at": "20261030",
+      "url": "https://youtu.be/Sq8z79nQlsY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Sq8z79nQlsY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "H80Z5-4pwZb",
       "title": "Spooky -Justice- Jams",
@@ -33,6 +45,18 @@
       "url": "https://youtu.be/nZelBRkzU9u",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/nZelBRkzU9u/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "paGB4o8r5JQ",
+      "title": "PHASMOPHOBIA GIGI MURIN",
+      "published_at": "20261030",
+      "url": "https://youtu.be/paGB4o8r5JQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/paGB4o8r5JQ/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1285,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14134,6 +14134,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_ypWJ0IitYA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uNfrn28Q9Fk",
+      "title": "【告知アリ凸待ち】自認!!!新人限定凸待ち~~!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uNfrn28Q9Fk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4048,
+  "count": 4051,
   "entries": [
+    {
+      "video_id": "oMXaXv1q7kw",
+      "title": "【 3DLIVE 】速報!夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
+      "published_at": "20261029",
+      "url": "https://youtu.be/oMXaXv1q7kw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oMXaXv1q7kw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "wIZpKua4svI",
       "title": "【#ホロドリ 】自分完凸するまで終われないガチャ🎃【ホロライブ/夏色まつり】",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/wIZpKua4svI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PvuskitcrIM",
+      "title": "古神曲ライブまであと3日!みんなが知ってるネット語録教えて✨ #夏色まつり",
+      "published_at": "20261029",
+      "url": "https://youtu.be/PvuskitcrIM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PvuskitcrIM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "uNfrn28Q9Fk",
+      "title": "【告知アリ凸待ち】自認!!!新人限定凸待ち~~!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261028",
+      "url": "https://youtu.be/uNfrn28Q9Fk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/uNfrn28Q9Fk/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
