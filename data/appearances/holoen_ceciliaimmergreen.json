@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 818,
+  "count": 821,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -8997,6 +8997,39 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bkJhD2YVLz4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yzSK7Ups70",
+      "title": "Try not to drop challenge: impossible💀 #challenge #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yzSK7Ups70",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "94qVroazdCI",
+      "title": "【DEADLOCK】1 VERY SHORT GAME",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/94qVroazdCI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2Ofg-tSzc9U",
+      "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2Ofg-tSzc9U",
       "status": "unreviewed",
       "note": null
     }

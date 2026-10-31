@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 940,
+  "count": 941,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10339,6 +10339,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PQaa8bj1P_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MUoRVZCvrGU",
+      "title": "【フラグ】この牌が通ったら、あいつに会いに行くんだ #ホロじゃん #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MUoRVZCvrGU",
       "status": "unreviewed",
       "note": null
     }

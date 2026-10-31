@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1080,
+  "count": 1081,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11879,6 +11879,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xggoSG1ANhA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261024",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/b6mcVgI0JjY",
       "status": "unreviewed",
       "note": null
     }

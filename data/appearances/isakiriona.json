@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1255,
+  "count": 1266,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13804,6 +13804,127 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/K-RZnTETmgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KvJk00Vf4H0",
+      "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KvJk00Vf4H0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i3huWkaIwaw",
+      "title": "【R.E.P.O.】大型アプデきちゃ!プロに任せなさい!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i3huWkaIwaw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PqFDi4i5BEw",
+      "title": "リオナちゃん(5才)ザコくて可愛いww @IsakiRiona #ニコたんアニメ",
+      "channel_handle": "koganei_niko",
+      "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PqFDi4i5BEw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3EKBdQXpVk0",
+      "title": "🔴LIVE |【JUMP KING HOLORACE】Elizabeth POV | 💄#holorace2026",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3EKBdQXpVk0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "e_t_f0XaqCg",
+      "title": "【JUMP KING HOLORACE】人生初🔰本番!!どこまでいけるか・・・【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/e_t_f0XaqCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AY7VADUUjIQ",
+      "title": "【JUMP KING HOLORACE】初めてのジャンキンいくぞ!!!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AY7VADUUjIQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Sq8z79nQlsY",
+      "title": "【JUMP KING HOLORACE】I AM COOKED #holorace2026",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Sq8z79nQlsY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9MXWNiM2aVg",
+      "title": "【JUMP KING HOLORACE】FIRST TIME NO CONFIDENCE",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9MXWNiM2aVg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YYuSQaMnojg",
+      "title": "【JUMP KING HOLORACE】初心者限定!?完全初見で挑んだら何位になるのかッ!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YYuSQaMnojg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pVSuqseDO0M",
+      "title": "【Jump King 🔰#holorace2026】First time and already joining a race? i'm cooked.【moona POV】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pVSuqseDO0M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0iV9iAER9ww",
+      "title": "【Jump King】WATASHI WA UTAU NO GA SUKI #holorace2026",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261029",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0iV9iAER9ww",
       "status": "unreviewed",
       "note": null
     }

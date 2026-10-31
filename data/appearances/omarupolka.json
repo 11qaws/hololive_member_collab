@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2006,
+  "count": 2007,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22065,6 +22065,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZetSOnfSnww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p9J_muoYcxk",
+      "title": "変質者ではないんです!!551で初めてのBOMBANANA!【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p9J_muoYcxk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 949,
+  "count": 950,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10438,6 +10438,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k_r4poBNhIa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yzSK7Ups70",
+      "title": "Try not to drop challenge: impossible💀 #challenge #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yzSK7Ups70",
       "status": "unreviewed",
       "note": null
     }

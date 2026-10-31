@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1117,
+  "count": 1118,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12286,6 +12286,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EN09xRQIbqQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cQ7TwS2xPDk",
+      "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ!【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cQ7TwS2xPDk",
       "status": "unreviewed",
       "note": null
     }

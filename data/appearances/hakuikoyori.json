@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1460,
+  "count": 1462,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16059,6 +16059,28 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VjGQF7Vi7_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0hIvMpxHLvw",
+      "title": "【BOMBANANA!】見えない聞こえない喋れない!?三匹の猿になって爆弾解除!!! #ホロ551【尾丸ポルカ/博衣こより/一条莉々華】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0hIvMpxHLvw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "p9J_muoYcxk",
+      "title": "変質者ではないんです!!551で初めてのBOMBANANA!【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/p9J_muoYcxk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1399,
+  "count": 1400,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15388,6 +15388,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k5X1DRWL6mg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cQ7TwS2xPDk",
+      "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ!【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cQ7TwS2xPDk",
       "status": "unreviewed",
       "note": null
     }

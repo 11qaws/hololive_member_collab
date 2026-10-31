@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1286,
+  "count": 1287,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14145,6 +14145,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uNfrn28Q9Fk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G6bF7EFUyhc",
+      "title": "【 オフコラボ】カメラ付き! #お子様バッテリー  でもできるハロウィンクッキング✨  【ホロライブ/ ロボ子さん 】",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G6bF7EFUyhc",
       "status": "unreviewed",
       "note": null
     }

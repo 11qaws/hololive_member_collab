@@ -1,7 +1,55 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4051,
+  "count": 4056,
   "entries": [
+    {
+      "video_id": "i3huWkaIwaw",
+      "title": "【R.E.P.O.】大型アプデきちゃ!プロに任せなさい!【ホロライブ/夏色まつり】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/i3huWkaIwaw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i3huWkaIwaw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YYuSQaMnojg",
+      "title": "【JUMP KING HOLORACE】初心者限定!?完全初見で挑んだら何位になるのかッ!【ホロライブ/夏色まつり】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/YYuSQaMnojg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YYuSQaMnojg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "I-_-qhTmn4Q",
+      "title": "古神曲ライブまであと2日!あの頃のインターネットを思い出せ! #夏色まつり",
+      "published_at": "20261030",
+      "url": "https://youtu.be/I-_-qhTmn4Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/I-_-qhTmn4Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wIAWYWAAlBU",
+      "title": "【R.E.P.O. 】アプデきた!?久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/wIAWYWAAlBU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wIAWYWAAlBU/mqdefault.jpg",
+      "partner_handle": "isakiriona",
+      "partner_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "oMXaXv1q7kw",
       "title": "【 3DLIVE 】速報!夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
@@ -35,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/PvuskitcrIM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KvJk00Vf4H0",
+      "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+      "published_at": "20261029",
+      "url": "https://youtu.be/KvJk00Vf4H0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/KvJk00Vf4H0/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },

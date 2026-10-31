@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1766,
+  "count": 1769,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TFWDFZ_RJog",
+      "title": "【 #朝ガオ vol.17 】今日はあまり元気じゃないですが久しぶりに話しましょう【虎金妃笑虎】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/TFWDFZ_RJog",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TFWDFZ_RJog/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2T7X7D9Fh7Y",
+      "title": "【メン限】気分はLowだが担に会う",
+      "published_at": "20261030",
+      "url": "https://youtu.be/2T7X7D9Fh7Y",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/2T7X7D9Fh7Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PqFDi4i5BEw",
+      "title": "リオナちゃん(5才)ザコくて可愛いww @IsakiRiona #ニコたんアニメ",
+      "published_at": "20261030",
+      "url": "https://youtu.be/PqFDi4i5BEw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PqFDi4i5BEw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

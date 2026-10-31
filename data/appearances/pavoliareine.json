@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1040,
+  "count": 1041,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11439,6 +11439,17 @@
       "published_at": "20261024",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/7f2dBcUN3Oo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "whveNujaPVo",
+      "title": "【JAPANESE RAMEN SIMULATOR】DATTEBAYO~ with @PavoliaReine",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/whveNujaPVo",
       "status": "unreviewed",
       "note": null
     }

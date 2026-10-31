@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1505,
+  "count": 1507,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16554,6 +16554,28 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cAmMlH1Jr-0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0hIvMpxHLvw",
+      "title": "【BOMBANANA!】見えない聞こえない喋れない!?三匹の猿になって爆弾解除!!! #ホロ551【尾丸ポルカ/博衣こより/一条莉々華】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0hIvMpxHLvw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MUoRVZCvrGU",
+      "title": "【フラグ】この牌が通ったら、あいつに会いに行くんだ #ホロじゃん #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MUoRVZCvrGU",
       "status": "unreviewed",
       "note": null
     }

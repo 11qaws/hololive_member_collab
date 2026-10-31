@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1140,
+  "count": 1141,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12539,6 +12539,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/AjTcF5Mjl8U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8ZJwaJVJBSI",
+      "title": "you'd do anything for senpai, right? #holoKitchen #hololive #anime #vtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8ZJwaJVJBSI",
       "status": "unreviewed",
       "note": null
     }

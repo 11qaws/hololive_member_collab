@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1079,
+  "count": 1080,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11868,6 +11868,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5SH-ItPkNFk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tKvF-j5-TN8",
+      "title": "THE BETRAYAL🍕 🍍#holoKitchen",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261030",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tKvF-j5-TN8",
       "status": "unreviewed",
       "note": null
     }

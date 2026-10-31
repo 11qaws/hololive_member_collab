@@ -1,10 +1,46 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1337,
+  "count": 1341,
   "entries": [
     {
+      "video_id": "6b_lYraAX38",
+      "title": "【OKTOBERFEST】IT'S NOT HALLOWEEN OK, IT'S OKTOBERFEST!!!!!!!!!!!!! YAY~",
+      "published_at": "20261031",
+      "url": "https://youtu.be/6b_lYraAX38",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6b_lYraAX38/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5yzSK7Ups70",
+      "title": "Try not to drop challenge: impossible💀 #challenge #hololive",
+      "published_at": "20261031",
+      "url": "https://youtu.be/5yzSK7Ups70",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5yzSK7Ups70/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "94qVroazdCI",
+      "title": "【DEADLOCK】1 VERY SHORT GAME",
+      "published_at": "20261031",
+      "url": "https://youtu.be/94qVroazdCI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/94qVroazdCI/mqdefault.jpg",
+      "partner_handle": "holoen_gigimurin",
+      "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "whveNujaPVo",
-      "title": "Auto-mane made this",
+      "title": "【JAPANESE RAMEN SIMULATOR】DATTEBAYO~ with @PavoliaReine",
       "published_at": "20261030",
       "url": "https://youtu.be/whveNujaPVo",
       "entry_type": "stream",
@@ -47,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/paGB4o8r5JQ/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2Ofg-tSzc9U",
+      "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/2Ofg-tSzc9U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2Ofg-tSzc9U/mqdefault.jpg",
+      "partner_handle": "pavoliareine",
+      "partner_name": "Pavolia Reine Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
