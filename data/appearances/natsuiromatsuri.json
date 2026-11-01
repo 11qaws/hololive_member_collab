@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1539,
+  "count": 1541,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16928,6 +16928,28 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KvJk00Vf4H0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cQbWSAbnduc",
+      "title": "Loveit? / biz×ZERA【Cover】(Vestia Zeta/夏色まつり)",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cQbWSAbnduc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "06Z7Li1NTv4",
+      "title": "【雑談】まちゅゼタ!FREE TALK~~~~",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/06Z7Li1NTv4",
       "status": "unreviewed",
       "note": null
     }

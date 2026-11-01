@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1151,
+  "count": 1152,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12660,6 +12660,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Ci3iXxZBy2Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oxzHtsAvcv8",
+      "title": "【Voice Drama Baru】Apakah pentas seni akan berjalan lancar...?",
+      "channel_handle": "hololiveindonesia",
+      "channel_name": "hololive Indonesia",
+      "published_at": "20240814",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oxzHtsAvcv8",
       "status": "unreviewed",
       "note": null
     }

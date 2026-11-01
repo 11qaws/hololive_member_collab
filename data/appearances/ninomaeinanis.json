@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1161,
+  "count": 1162,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12770,6 +12770,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bOlDh1Ji880",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g60ws7KwfmY",
+      "title": "I HAVE A JOKE FOR YOU. #halloween #hololive #anime #vtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g60ws7KwfmY",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1286,
+  "count": 1287,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14145,6 +14145,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PQaa8bj1P_o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SNnWyE1rL-s",
+      "title": "【ReGLOSSの絆】本人不在の分かりて選手権!?!!【一条莉々華/hololive ReGLOSS】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SNnWyE1rL-s",
       "status": "unreviewed",
       "note": null
     }

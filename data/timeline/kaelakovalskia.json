@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 2962,
+  "count": 2963,
   "entries": [
     {
       "video_id": "hd1Nf27gIIU",
@@ -12383,6 +12383,18 @@
       "thumbnail": "https://img.youtube.com/vi/E5b40Yf198k/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oxzHtsAvcv8",
+      "title": "【Voice Drama Baru】Apakah pentas seni akan berjalan lancar...?",
+      "published_at": "20240814",
+      "url": "https://youtu.be/oxzHtsAvcv8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oxzHtsAvcv8/mqdefault.jpg",
+      "partner_handle": "hololiveindonesia",
+      "partner_name": "hololive Indonesia",
       "sub_entries": [],
       "paired_self": null
     },

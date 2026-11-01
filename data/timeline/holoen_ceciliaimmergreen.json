@@ -1,7 +1,19 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 1341,
+  "count": 1342,
   "entries": [
+    {
+      "video_id": "4GbzRgCPLAg",
+      "title": "【UNARCHIVED KAAROAKE】OKTOBERJEST KAROAKEEE",
+      "published_at": "20261031",
+      "url": "https://youtu.be/4GbzRgCPLAg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4GbzRgCPLAg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "6b_lYraAX38",
       "title": "【OKTOBERFEST】IT'S NOT HALLOWEEN OK, IT'S OKTOBERFEST!!!!!!!!!!!!! YAY~",
@@ -45,6 +57,18 @@
       "url": "https://youtu.be/whveNujaPVo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/whveNujaPVo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DkGhq1hi8KY",
+      "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
+      "published_at": "20261030",
+      "url": "https://youtu.be/DkGhq1hi8KY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/DkGhq1hi8KY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -95,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/2Ofg-tSzc9U/mqdefault.jpg",
       "partner_handle": "pavoliareine",
       "partner_name": "Pavolia Reine Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "DkGhq1hi8KY",
-      "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
-      "published_at": "20261029",
-      "url": "https://youtu.be/DkGhq1hi8KY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/DkGhq1hi8KY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

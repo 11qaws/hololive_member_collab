@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1370,
+  "count": 1371,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15069,6 +15069,17 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/_ypWJ0IitYA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttLNTdMUi8E",
+      "title": "水宮枢 PICK-UP short 「クリームで会いにいけますか」歌ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttLNTdMUi8E",
       "status": "unreviewed",
       "note": null
     }

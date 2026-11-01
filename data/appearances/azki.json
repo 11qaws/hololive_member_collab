@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1118,
+  "count": 1121,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12297,6 +12297,39 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cQ7TwS2xPDk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H2ZY7Tav_V8",
+      "title": "推したら引けない恋でした (Instrumental)",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H2ZY7Tav_V8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WQddgm8A1R8",
+      "title": "推したら引けない恋でした",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WQddgm8A1R8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Cl3LkvJkQzQ",
+      "title": "推したら引けない恋でした / KoZMy(AZKi・雪花ラミィ・博衣こより (Official)",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Cl3LkvJkQzQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2242,
+  "count": 2244,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,12 +15,36 @@
       "paired_self": null
     },
     {
+      "video_id": "Aj_IjmDH-qU",
+      "title": "【Dead by Daylight】人生初DBD✨愛しのアート・ザ・クラウン【ホロライブ  響咲リオナ】",
+      "published_at": "20261031",
+      "url": "https://youtu.be/Aj_IjmDH-qU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Aj_IjmDH-qU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "wIAWYWAAlBU",
       "title": "【R.E.P.O. 】アプデきた!?久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
       "published_at": "20261030",
       "url": "https://youtu.be/wIAWYWAAlBU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/wIAWYWAAlBU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XZyWiUY8MFE",
+      "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/XZyWiUY8MFE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XZyWiUY8MFE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -123,18 +147,6 @@
       "paired_self": null
     },
     {
-      "video_id": "XZyWiUY8MFE",
-      "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
-      "published_at": "20261029",
-      "url": "https://youtu.be/XZyWiUY8MFE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/XZyWiUY8MFE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "EG9DEE9eKvw",
       "title": "【 歌枠 】ゲリラで歌います!!聴いてええええ❤【ホロライブ DEV_IS 響咲リオナ】",
       "published_at": "20261029",
@@ -203,6 +215,18 @@
       "thumbnail": "https://img.youtube.com/vi/0iV9iAER9ww/mqdefault.jpg",
       "partner_handle": "kobokanaeru",
       "partner_name": "Kobo Kanaeru Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oMXaXv1q7kw",
+      "title": "【 3DLIVE 】速報!夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
+      "published_at": "20261029",
+      "url": "https://youtu.be/oMXaXv1q7kw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oMXaXv1q7kw/mqdefault.jpg",
+      "partner_handle": "natsuiromatsuri",
+      "partner_name": "Matsuri Channel 夏色まつり",
       "sub_entries": [],
       "paired_self": null
     },

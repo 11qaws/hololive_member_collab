@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1287,
+  "count": 1288,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14156,6 +14156,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/G6bF7EFUyhc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ttLNTdMUi8E",
+      "title": "水宮枢 PICK-UP short 「クリームで会いにいけますか」歌ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ttLNTdMUi8E",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2535,
+  "count": 2537,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "S31LpkHlrok",
+      "title": "シカ色デイズ/踊ってみた #vtuber #hololive #dance",
+      "published_at": "20261101",
+      "url": "https://youtu.be/S31LpkHlrok",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/S31LpkHlrok/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "ttLNTdMUi8E",
+      "title": "水宮枢 PICK-UP short 「クリームで会いにいけますか」歌ってみた",
+      "published_at": "20261031",
+      "url": "https://youtu.be/ttLNTdMUi8E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ttLNTdMUi8E/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "GB6MNA9grKw",
       "title": "【同時視聴】ドラゴンボール超スーパーヒーロー 完全初見!【水宮枢/ホロライブ】",
       "published_at": "20261030",
@@ -39,12 +63,36 @@
       "paired_self": null
     },
     {
+      "video_id": "J_uZTBLE4rY",
+      "title": "【JUMP KING HOLORACE】本番!初心者🔰がんばるぞ!【水宮枢/ホロライブ】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/J_uZTBLE4rY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J_uZTBLE4rY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "WaYmvBcULZw",
       "title": "ピポパポ/踊ってみた #vtuber #hololive #dance",
       "published_at": "20261030",
       "url": "https://youtu.be/WaYmvBcULZw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/WaYmvBcULZw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FI1HuollS5U",
+      "title": "【Jump King 】初めてのジャンキン!キレない1時間練習配信【水宮枢/ホロライブ】",
+      "published_at": "20261030",
+      "url": "https://youtu.be/FI1HuollS5U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FI1HuollS5U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -129,30 +177,6 @@
       "url": "https://youtu.be/QZ-GN3Yo7dU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/QZ-GN3Yo7dU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "J_uZTBLE4rY",
-      "title": "【JUMP KING HOLORACE】本番!初心者🔰がんばるぞ!【水宮枢/ホロライブ】",
-      "published_at": "20261027",
-      "url": "https://youtu.be/J_uZTBLE4rY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/J_uZTBLE4rY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "FI1HuollS5U",
-      "title": "【Jump King 】初めてのジャンキン!キレない1時間練習配信【水宮枢/ホロライブ】",
-      "published_at": "20261027",
-      "url": "https://youtu.be/FI1HuollS5U",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/FI1HuollS5U/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

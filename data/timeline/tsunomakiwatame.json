@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5826,
+  "count": 5828,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nshhgKnhRlk",
+      "title": "Q.また見たくなる鏡はなんだ?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261031",
+      "url": "https://youtu.be/nshhgKnhRlk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nshhgKnhRlk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eIkrwL6j-a4",
+      "title": "【歌枠】第138回!Halloween🎃Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
+      "published_at": "20261031",
+      "url": "https://youtu.be/eIkrwL6j-a4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eIkrwL6j-a4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
