@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1146,
+  "count": 1147,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12605,6 +12605,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Uq0v8C09KSs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-Se1EOY452o",
+      "title": "新衣装お披露目だああああああ🔥🍙✦",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-Se1EOY452o",
       "status": "unreviewed",
       "note": null
     }

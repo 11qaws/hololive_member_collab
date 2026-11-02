@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1371,
+  "count": 1372,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15080,6 +15080,17 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ttLNTdMUi8E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "saf-j2YBg5M",
+      "title": "綺々羅々ヴィヴィ PICK-UP short 「クリームで会いにいけますか」歌ってみた",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/saf-j2YBg5M",
       "status": "unreviewed",
       "note": null
     }

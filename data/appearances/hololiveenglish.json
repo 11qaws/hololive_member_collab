@@ -1,6 +1,6 @@
 {
   "target": "hololiveenglish",
-  "count": 4,
+  "count": 5,
   "appearances": [
     {
       "video_id": "CYce1mozNRo",
@@ -43,6 +43,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qRhXRK4zu1s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mVOs-0U1YqE",
+      "title": "【#GBVSR】First Time Playing!!! We gonna FIGHT and TRAIN #sponsored",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mVOs-0U1YqE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,19 @@
 {
   "target": "ookamimio",
-  "count": 4183,
+  "count": 4185,
   "entries": [
+    {
+      "video_id": "-CttcNadrdY",
+      "title": "【#朝ミオ 】11月だ!月曜日だよ~~!おはみぉーん!",
+      "published_at": "20261101",
+      "url": "https://youtu.be/-CttcNadrdY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-CttcNadrdY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "RxqGatF8tLI",
       "title": "【妹に運転を教える】お姉ちゃん免許持ってるから大丈夫!【ホロライブ/大神ミオ】",
@@ -21299,6 +21311,18 @@
       "thumbnail": "https://img.youtube.com/vi/Mbh50gmWgbM/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CZsaaJt3RGo",
+      "title": "【だらだら皆と年越し万歳】ゆくホロ同時視聴とhololive COUNTDOWN LIVEミラー配信で年越しキメ!!!!!!!!wwwwwwwwwww【尾丸ポルカ/ホロライブ】",
+      "published_at": "20231231",
+      "url": "https://youtu.be/CZsaaJt3RGo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CZsaaJt3RGo/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
       "sub_entries": [],
       "paired_self": null
     },

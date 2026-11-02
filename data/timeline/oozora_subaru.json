@@ -1,14 +1,38 @@
 {
   "target": "oozora_subaru",
-  "count": 4967,
+  "count": 4968,
   "entries": [
     {
       "video_id": "etHdRM82XOE",
-      "title": "【】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
+      "title": "【#生スバル】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
       "published_at": "20261031",
       "url": "https://youtu.be/etHdRM82XOE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/etHdRM82XOE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KjmUgCl9K0g",
+      "title": "【#4】閲覧注意!初見トルネコやるしゅばあああああああああああ!!!!!：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+      "published_at": "20261031",
+      "url": "https://youtu.be/KjmUgCl9K0g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KjmUgCl9K0g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "z3I5yvxdD4w",
+      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
+      "published_at": "20261031",
+      "url": "https://youtu.be/z3I5yvxdD4w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/z3I5yvxdD4w/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -27,33 +51,9 @@
       "paired_self": null
     },
     {
-      "video_id": "KjmUgCl9K0g",
-      "title": "【#4】閲覧注意!初見トルネコやるしゅばあああああああああああ!!!!!：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-      "published_at": "20261030",
-      "url": "https://youtu.be/KjmUgCl9K0g",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/KjmUgCl9K0g/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "z3I5yvxdD4w",
-      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
-      "published_at": "20261030",
-      "url": "https://youtu.be/z3I5yvxdD4w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/z3I5yvxdD4w/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "2kTRJXDL8bA",
       "title": "【#3】攻殻機動隊STAND ALONE COMPLEX!!!同時視聴するしゅばああああああああああああああああああああああ!!!!!【ホロライブ/大空スバル】",
-      "published_at": "20261029",
+      "published_at": "20261030",
       "url": "https://youtu.be/2kTRJXDL8bA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/2kTRJXDL8bA/mqdefault.jpg",
@@ -25259,6 +25259,18 @@
       "thumbnail": "https://img.youtube.com/vi/p2jx9H5Ck74/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CZsaaJt3RGo",
+      "title": "【だらだら皆と年越し万歳】ゆくホロ同時視聴とhololive COUNTDOWN LIVEミラー配信で年越しキメ!!!!!!!!wwwwwwwwwww【尾丸ポルカ/ホロライブ】",
+      "published_at": "20231231",
+      "url": "https://youtu.be/CZsaaJt3RGo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CZsaaJt3RGo/mqdefault.jpg",
+      "partner_handle": "omarupolka",
+      "partner_name": "Polka Ch. 尾丸ポルカ",
       "sub_entries": [],
       "paired_self": null
     },

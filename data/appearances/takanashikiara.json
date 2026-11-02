@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1131,
+  "count": 1132,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12440,6 +12440,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5SH-ItPkNFk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yttiGD00wCo",
+      "title": "TRAUMA DANCE CHALLENGE with Kiara! #shorts #dance",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261101",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yttiGD00wCo",
       "status": "unreviewed",
       "note": null
     }

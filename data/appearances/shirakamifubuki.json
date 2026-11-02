@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3544,
+  "count": 3545,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38983,6 +38983,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i3huWkaIwaw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CZsaaJt3RGo",
+      "title": "【だらだら皆と年越し万歳】ゆくホロ同時視聴とhololive COUNTDOWN LIVEミラー配信で年越しキメ!!!!!!!!wwwwwwwwwww【尾丸ポルカ/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20231231",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CZsaaJt3RGo",
       "status": "unreviewed",
       "note": null
     }

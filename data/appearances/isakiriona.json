@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1267,
+  "count": 1268,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13936,6 +13936,17 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oMXaXv1q7kw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gr9kcxof0X4",
+      "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gr9kcxof0X4",
       "status": "unreviewed",
       "note": null
     }

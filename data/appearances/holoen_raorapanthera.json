@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 834,
+  "count": 835,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9173,6 +9173,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/paGB4o8r5JQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MuPlYJbkzzA",
+      "title": "【BLOODBORNE】Forcing @holoen_raorapanthera to play so I can watch! hehehehe",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MuPlYJbkzzA",
       "status": "unreviewed",
       "note": null
     }

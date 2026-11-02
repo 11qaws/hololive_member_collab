@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 3838,
+  "count": 3841,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i__wtswcD-E",
+      "title": "【Granblue Fantasy Versus: Rising】this reaper TRAINED I PROMISE!! #PR #calliolive",
+      "published_at": "20261102",
+      "url": "https://youtu.be/i__wtswcD-E",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i__wtswcD-E/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SamRIBA9wJ4",
+      "title": "do you remember? #hololive #chadcast #anime #animation #vtuber #story #storytime",
+      "published_at": "20261102",
+      "url": "https://youtu.be/SamRIBA9wJ4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SamRIBA9wJ4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5htZJ4LI_1M",
+      "title": "【ZELDA: MAJORA'S MASK】im just a lil deku scrub guy!! (part 2) #calliolive",
+      "published_at": "20261101",
+      "url": "https://youtu.be/5htZJ4LI_1M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5htZJ4LI_1M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -93,6 +129,18 @@
       "url": "https://youtu.be/8ZJwaJVJBSI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/8ZJwaJVJBSI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "b6mcVgI0JjY",
+      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+      "published_at": "20261030",
+      "url": "https://youtu.be/b6mcVgI0JjY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/b6mcVgI0JjY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -323,18 +371,6 @@
       "thumbnail": "https://img.youtube.com/vi/mQTx-WStvH4/mqdefault.jpg",
       "partner_handle": "sakuramiko",
       "partner_name": "Miko Ch. さくらみこ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "b6mcVgI0JjY",
-      "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
-      "published_at": "20261024",
-      "url": "https://youtu.be/b6mcVgI0JjY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/b6mcVgI0JjY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

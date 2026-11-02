@@ -1,7 +1,43 @@
 {
   "target": "irys",
-  "count": 2157,
+  "count": 2160,
   "entries": [
+    {
+      "video_id": "SamRIBA9wJ4",
+      "title": "do you remember? #hololive #chadcast #anime #animation #vtuber #story #storytime",
+      "published_at": "20261102",
+      "url": "https://youtu.be/SamRIBA9wJ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SamRIBA9wJ4/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "mVOs-0U1YqE",
+      "title": "【#GBVSR】First Time Playing!!! We gonna FIGHT and TRAIN #sponsored",
+      "published_at": "20261101",
+      "url": "https://youtu.be/mVOs-0U1YqE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/mVOs-0U1YqE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-1mx2lr17Gw",
+      "title": "【ソロライブ切り抜き/ Solo Live Highlights】Why do we stay #vtuber #IRySConcert2026 #ホロライブ #irys #shorts",
+      "published_at": "20261101",
+      "url": "https://youtu.be/-1mx2lr17Gw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-1mx2lr17Gw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "_nWPRcunHCY",
       "title": "【ソロライブ切り抜き/ Solo Live Highlights】ECLIPSE #vtuber #IRySConcert2026 #ホロライブ #irys",

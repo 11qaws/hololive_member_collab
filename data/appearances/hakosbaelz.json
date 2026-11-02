@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1284,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14123,6 +14123,28 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oMXaXv1q7kw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-XnJq8Rn6P4",
+      "title": "WHY IS @HakosBaelz LIKE THIS!? #hololive",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-XnJq8Rn6P4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SamRIBA9wJ4",
+      "title": "do you remember? #hololive #chadcast #anime #animation #vtuber #story #storytime",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SamRIBA9wJ4",
       "status": "unreviewed",
       "note": null
     }
