@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1268,
+  "count": 1272,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13947,6 +13947,50 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gr9kcxof0X4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fKJZ46_LQSA",
+      "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら!!!【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fKJZ46_LQSA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nUl4wcsH0kg",
+      "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator!【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nUl4wcsH0kg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8JM2qJ5UhN0",
+      "title": "【奇跡の裏側】天才かも!!! #hololive #ホロライブ #魔法 #チャレンジ #ペン投げ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8JM2qJ5UhN0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pb9CiUCvQUo",
+      "title": "2周年記念!ひと言他己紹介【🎤👑リオナ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pb9CiUCvQUo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1770,
+  "count": 1774,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,54 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q3yMMD9GNow",
+      "title": "【 歌枠 】お歌を歌いますよ!リクエストにも応える!【虎金妃笑虎】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/Q3yMMD9GNow",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Q3yMMD9GNow/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "npJwL8-TV4g",
+      "title": "みゃぅ/////// #ニコたんアニメ",
+      "published_at": "20261102",
+      "url": "https://youtu.be/npJwL8-TV4g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/npJwL8-TV4g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8JM2qJ5UhN0",
+      "title": "【奇跡の裏側】天才かも!!! #hololive #ホロライブ #魔法 #チャレンジ #ペン投げ",
+      "published_at": "20261102",
+      "url": "https://youtu.be/8JM2qJ5UhN0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8JM2qJ5UhN0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pb9CiUCvQUo",
+      "title": "2周年記念!ひと言他己紹介【🎤👑リオナ編】",
+      "published_at": "20261102",
+      "url": "https://youtu.be/pb9CiUCvQUo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pb9CiUCvQUo/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

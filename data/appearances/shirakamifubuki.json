@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3545,
+  "count": 3546,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -38994,6 +38994,17 @@
       "published_at": "20231231",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZsaaJt3RGo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Gr9kcxof0X4",
+      "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Gr9kcxof0X4",
       "status": "unreviewed",
       "note": null
     }

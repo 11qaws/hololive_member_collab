@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 2965,
+  "count": 2966,
   "entries": [
     {
       "video_id": "Gr9kcxof0X4",
@@ -9,6 +9,18 @@
       "url": "https://youtu.be/Gr9kcxof0X4",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/Gr9kcxof0X4/mqdefault.jpg",
+      "partner_handle": "vestia_zeta",
+      "partner_name": "Vestia Zeta Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "lUzGRYAD4Yc",
+      "title": "we do a little cooking.",
+      "published_at": "20261102",
+      "url": "https://youtu.be/lUzGRYAD4Yc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/lUzGRYAD4Yc/mqdefault.jpg",
       "partner_handle": "vestia_zeta",
       "partner_name": "Vestia Zeta Ch. hololive",
       "sub_entries": [],

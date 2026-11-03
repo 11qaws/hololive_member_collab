@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1147,
+  "count": 1148,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12616,6 +12616,17 @@
       "published_at": "20261101",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-Se1EOY452o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vZHb1OwdDpA",
+      "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vZHb1OwdDpA",
       "status": "unreviewed",
       "note": null
     }

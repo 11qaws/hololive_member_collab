@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1713,
+  "count": 1714,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18842,6 +18842,17 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oMXaXv1q7kw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MNqsUcQloXs",
+      "title": "【コラボ】3人で浮気判定シートに挑戦!!!!!ぺこ!【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MNqsUcQloXs",
       "status": "unreviewed",
       "note": null
     }

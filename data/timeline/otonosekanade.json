@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2335,
+  "count": 2337,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FUvFlWFh7Zo",
+      "title": "新曲『アイシカケ』ピアノアレンジで歌ってみました!フルは関連動画から‼️ 【 #音乃瀬奏AcousticLive 】 #音乃瀬奏 #アイシカケ",
+      "published_at": "20261102",
+      "url": "https://youtu.be/FUvFlWFh7Zo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FUvFlWFh7Zo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2gd-K7aKa1E",
+      "title": "【Japanese Ramen Simulator】しゅぴなで最強ラーメン屋への道…!✨️【水宮枢/ホロライブ】",
+      "published_at": "20261102",
+      "url": "https://youtu.be/2gd-K7aKa1E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2gd-K7aKa1E/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

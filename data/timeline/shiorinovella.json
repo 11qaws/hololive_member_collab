@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 2072,
+  "count": 2073,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZryTcFRL0uk",
+      "title": "Official Unc Status Achieved 【OPUS: Prism Peak】❗Spoilers",
+      "published_at": "20261103",
+      "url": "https://youtu.be/ZryTcFRL0uk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZryTcFRL0uk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29,7 +41,7 @@
     {
       "video_id": "iNmJjLc1_RU",
       "title": "American Candy Tier List 【Halloween Handcam】",
-      "published_at": "20261031",
+      "published_at": "20261101",
       "url": "https://youtu.be/iNmJjLc1_RU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/iNmJjLc1_RU/mqdefault.jpg",

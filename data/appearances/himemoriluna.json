@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1073,
+  "count": 1075,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11802,6 +11802,28 @@
       "published_at": "20261026",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Lamp0UFiVQ8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C64sM_QroSI",
+      "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ!【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C64sM_QroSI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nUl4wcsH0kg",
+      "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator!【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nUl4wcsH0kg",
       "status": "unreviewed",
       "note": null
     }

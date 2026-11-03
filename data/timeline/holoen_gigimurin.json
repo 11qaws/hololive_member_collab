@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1598,
+  "count": 1603,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,66 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EhLvVLPRtg8",
+      "title": "【DEADLOCK】using my senpai tax to form my deadlock team with @HyakutoKyoko",
+      "published_at": "20261103",
+      "url": "https://youtu.be/EhLvVLPRtg8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EhLvVLPRtg8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "85zaVMZJOGQ",
+      "title": "【#GBVSR】i wont throw i wont throw i wont throw i wont throw i wont throw #ad",
+      "published_at": "20261102",
+      "url": "https://youtu.be/85zaVMZJOGQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/85zaVMZJOGQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XmWqKmGtLHk",
+      "title": "【#GBVSR】Tournament Time!!! #sponsored",
+      "published_at": "20261102",
+      "url": "https://youtu.be/XmWqKmGtLHk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/XmWqKmGtLHk/mqdefault.jpg",
+      "partner_handle": "ninomaeinanis",
+      "partner_name": "Ninomae Ina'nis Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "k02lF6t4Eec",
+      "title": "【#GBVSR】Please don't obliterate me #ad",
+      "published_at": "20261102",
+      "url": "https://youtu.be/k02lF6t4Eec",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/k02lF6t4Eec/mqdefault.jpg",
+      "partner_handle": "irys",
+      "partner_name": "IRyS Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i__wtswcD-E",
+      "title": "【Granblue Fantasy Versus: Rising】this reaper TRAINED I PROMISE!! #PR #calliolive",
+      "published_at": "20261102",
+      "url": "https://youtu.be/i__wtswcD-E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i__wtswcD-E/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

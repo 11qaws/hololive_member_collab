@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1372,
+  "count": 1374,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15091,6 +15091,28 @@
       "published_at": "20261101",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/saf-j2YBg5M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MNqsUcQloXs",
+      "title": "【コラボ】3人で浮気判定シートに挑戦!!!!!ぺこ!【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MNqsUcQloXs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pb9CiUCvQUo",
+      "title": "2周年記念!ひと言他己紹介【🎤👑リオナ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pb9CiUCvQUo",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1287,
+  "count": 1288,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14156,6 +14156,17 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SNnWyE1rL-s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2gd-K7aKa1E",
+      "title": "【Japanese Ramen Simulator】しゅぴなで最強ラーメン屋への道…!✨️【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2gd-K7aKa1E",
       "status": "unreviewed",
       "note": null
     }

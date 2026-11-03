@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1667,
+  "count": 1668,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18336,6 +18336,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/p5dtCuM3vc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jx8v-46RnHQ",
+      "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jx8v-46RnHQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1762,
+  "count": 1763,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19381,6 +19381,17 @@
       "published_at": "20231231",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CZsaaJt3RGo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M9eA-TmMgFg",
+      "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M9eA-TmMgFg",
       "status": "unreviewed",
       "note": null
     }

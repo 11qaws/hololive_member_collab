@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2007,
+  "count": 2012,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22076,6 +22076,61 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/p9J_muoYcxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C64sM_QroSI",
+      "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ!【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C64sM_QroSI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fKJZ46_LQSA",
+      "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら!!!【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fKJZ46_LQSA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nUl4wcsH0kg",
+      "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator!【轟はじめ/ホロライブReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nUl4wcsH0kg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BaHxZoGkpV0",
+      "title": "【#どちゃ凸】突発でどちゃくそゆるい凸待ちをする配信【獅白ぼたん・尾丸ポルカ/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BaHxZoGkpV0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Jx8v-46RnHQ",
+      "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Jx8v-46RnHQ",
       "status": "unreviewed",
       "note": null
     }

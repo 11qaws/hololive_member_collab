@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1309,
+  "count": 1311,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14398,6 +14398,28 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SNnWyE1rL-s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C64sM_QroSI",
+      "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ!【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C64sM_QroSI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fKJZ46_LQSA",
+      "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら!!!【姫森ルーナ/ホロライブ】",
+      "channel_handle": "himemoriluna",
+      "channel_name": "Luna Ch. 姫森ルーナ",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fKJZ46_LQSA",
       "status": "unreviewed",
       "note": null
     }

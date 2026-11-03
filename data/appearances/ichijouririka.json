@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1507,
+  "count": 1508,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16576,6 +16576,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MUoRVZCvrGU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "srAnh0VrtCQ",
+      "title": "Toei Animation Watchalong w/ Ririka",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/srAnh0VrtCQ",
       "status": "unreviewed",
       "note": null
     }

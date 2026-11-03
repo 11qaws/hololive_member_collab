@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1169,
+  "count": 1172,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12858,6 +12858,39 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SamRIBA9wJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XmWqKmGtLHk",
+      "title": "【#GBVSR】Tournament Time!!! #sponsored",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XmWqKmGtLHk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "85zaVMZJOGQ",
+      "title": "【#GBVSR】i wont throw i wont throw i wont throw i wont throw i wont throw #ad",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/85zaVMZJOGQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i__wtswcD-E",
+      "title": "【Granblue Fantasy Versus: Rising】this reaper TRAINED I PROMISE!! #PR #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i__wtswcD-E",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1541,
+  "count": 1542,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16950,6 +16950,17 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/06Z7Li1NTv4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qj8766EqChE",
+      "title": "美味しいご飯をいっぱい食べさせて@NatsuiroMatsuri",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qj8766EqChE",
       "status": "unreviewed",
       "note": null
     }

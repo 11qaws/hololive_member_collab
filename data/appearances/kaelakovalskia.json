@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1153,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12682,6 +12682,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gr9kcxof0X4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lUzGRYAD4Yc",
+      "title": "we do a little cooking.",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lUzGRYAD4Yc",
       "status": "unreviewed",
       "note": null
     }
