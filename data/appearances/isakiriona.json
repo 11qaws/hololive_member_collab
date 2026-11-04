@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1272,
+  "count": 1275,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -13991,6 +13991,39 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pb9CiUCvQUo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pY-1F1HPKHd",
+      "title": "Flow Glow 2nd Anniversary Stream (on the FG ch.)",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pY-1F1HPKHd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eikW4el4rwo",
+      "title": "【Japanese Ramen Simulator】へいらっしゃい! #ハリポルーナ のラーメン屋だよ!!【尾丸ポルカ視点/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eikW4el4rwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GctVKS7hRvg",
+      "title": "2周年記念!ひと言他己紹介【☺️🐅笑虎編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GctVKS7hRvg",
       "status": "unreviewed",
       "note": null
     }

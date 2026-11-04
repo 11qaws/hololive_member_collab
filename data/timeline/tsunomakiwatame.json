@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5834,
+  "count": 5837,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "YC57kzchD2c",
+      "title": "景色はどっち派?紅葉 or 桜【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261103",
+      "url": "https://youtu.be/YC57kzchD2c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YC57kzchD2c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "17uiYbuaKa8",
       "title": "【 RATATAN  】フレわたーニャで初めてのラタタン🎺🎶【角巻わため/ホロライブ4期生】※ネタバレ注意",
       "published_at": "20261103",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/17uiYbuaKa8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sN6ixbuoAf0",
+      "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+      "published_at": "20261103",
+      "url": "https://youtu.be/sN6ixbuoAf0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/sN6ixbuoAf0/mqdefault.jpg",
+      "partner_handle": "shiranuiflare",
+      "partner_name": "Flare Ch. 不知火フレア",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "V4nbZaxZQdM",
+      "title": "【SPOILER WARNING | Ratatan ラタタン】FIRST TIME PLAYING!! 初見プレイ!フレわたーニャ!【hololive holoro | Anya Melfissa】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/V4nbZaxZQdM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/V4nbZaxZQdM/mqdefault.jpg",
+      "partner_handle": "aniamelfissa",
+      "partner_name": "Anya Melfissa Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

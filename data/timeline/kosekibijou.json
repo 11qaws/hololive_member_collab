@@ -1,11 +1,35 @@
 {
   "target": "kosekibijou",
-  "count": 2591,
+  "count": 2593,
   "entries": [
+    {
+      "video_id": "ydMW5pd1bOM",
+      "title": "【UNARCHIVED KARAOKE】but im just messing around",
+      "published_at": "20261103",
+      "url": "https://youtu.be/ydMW5pd1bOM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ydMW5pd1bOM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZIUUENJo-6A",
+      "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
+      "published_at": "20261103",
+      "url": "https://youtu.be/ZIUUENJo-6A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ZIUUENJo-6A/mqdefault.jpg",
+      "partner_handle": "holoen_raorapanthera",
+      "partner_name": "Raora Panthera Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "i98EfvV4i2Q",
       "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
-      "published_at": "20261101",
+      "published_at": "20261102",
       "url": "https://youtu.be/i98EfvV4i2Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/i98EfvV4i2Q/mqdefault.jpg",

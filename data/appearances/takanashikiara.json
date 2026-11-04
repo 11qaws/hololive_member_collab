@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1132,
+  "count": 1133,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12451,6 +12451,17 @@
       "published_at": "20261101",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yttiGD00wCo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XpLGpqjTEZo",
+      "title": "韓国アイドルの気持ちで小鳥遊キアラさんとIRISÉのコラボ新曲を踊る吾輩 #아이리제 #IRISÉ #TRAUMA #트라우마 #트라우마챌린지 #TRAUMAChallenge #vtuber",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XpLGpqjTEZo",
       "status": "unreviewed",
       "note": null
     }

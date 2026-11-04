@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1291,
+  "count": 1294,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14200,6 +14200,39 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pb9CiUCvQUo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xJkby-5noE3",
+      "title": "holo 1 GRAND-PRIX",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xJkby-5noE3",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0j6ZTJh4sSU",
+      "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない!しゅぴなで【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0j6ZTJh4sSU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GctVKS7hRvg",
+      "title": "2周年記念!ひと言他己紹介【☺️🐅笑虎編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GctVKS7hRvg",
       "status": "unreviewed",
       "note": null
     }

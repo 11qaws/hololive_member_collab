@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2713,
+  "count": 2719,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -15,6 +15,66 @@
       "paired_self": null
     },
     {
+      "video_id": "pY-1F1HPKHd",
+      "title": "Flow Glow 2nd Anniversary Stream (on the FG ch.)",
+      "published_at": "20261109",
+      "url": "https://youtu.be/pY-1F1HPKHd",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pY-1F1HPKHd/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EfY_yvlTOLc",
+      "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK!!#27【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261104",
+      "url": "https://youtu.be/EfY_yvlTOLc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EfY_yvlTOLc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oPh0Vv6FNHM",
+      "title": "踊ってない夜を知らないネキ #vtuber #ホロライブ",
+      "published_at": "20261104",
+      "url": "https://youtu.be/oPh0Vv6FNHM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oPh0Vv6FNHM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8a_G_WJL-RE",
+      "title": "【#ホロ鯖ARK】ガルガンターテイム!初めてのホロ鯖ARK!!#26【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/8a_G_WJL-RE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8a_G_WJL-RE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "dhHAj-J6uCs",
+      "title": "ILLIT/it's Me",
+      "published_at": "20261103",
+      "url": "https://youtu.be/dhHAj-J6uCs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/dhHAj-J6uCs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "MNqsUcQloXs",
       "title": "【コラボ】3人で浮気判定シートに挑戦!!!!!ぺこ!【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
       "published_at": "20261103",
@@ -23,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/MNqsUcQloXs/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GctVKS7hRvg",
+      "title": "2周年記念!ひと言他己紹介【☺️🐅笑虎編】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/GctVKS7hRvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GctVKS7hRvg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +123,18 @@
       "paired_self": null
     },
     {
+      "video_id": "bnxbPxmpqQc",
+      "title": "【#ホロ鯖ARK】ガルガンダーテイム!初めてのホロ鯖ARK!!#24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261102",
+      "url": "https://youtu.be/bnxbPxmpqQc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bnxbPxmpqQc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "pb9CiUCvQUo",
       "title": "2周年記念!ひと言他己紹介【🎤👑リオナ編】",
       "published_at": "20261102",
@@ -59,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/pb9CiUCvQUo/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "bnxbPxmpqQc",
-      "title": "【#ホロ鯖ARK】ガルガンダーテイム!初めてのホロ鯖ARK!!#24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published_at": "20261101",
-      "url": "https://youtu.be/bnxbPxmpqQc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/bnxbPxmpqQc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

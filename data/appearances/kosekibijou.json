@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1557,
+  "count": 1558,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17126,6 +17126,17 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wN_u4VEp24b",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZIUUENJo-6A",
+      "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZIUUENJo-6A",
       "status": "unreviewed",
       "note": null
     }

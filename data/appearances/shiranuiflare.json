@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1617,
+  "count": 1619,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17786,6 +17786,28 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZetSOnfSnww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "17uiYbuaKa8",
+      "title": "【 RATATAN  】フレわたーニャで初めてのラタタン🎺🎶【角巻わため/ホロライブ4期生】※ネタバレ注意",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/17uiYbuaKa8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V4nbZaxZQdM",
+      "title": "【SPOILER WARNING | Ratatan ラタタン】FIRST TIME PLAYING!! 初見プレイ!フレわたーニャ!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V4nbZaxZQdM",
       "status": "unreviewed",
       "note": null
     }

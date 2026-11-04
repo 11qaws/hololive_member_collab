@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1075,
+  "count": 1076,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11824,6 +11824,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nUl4wcsH0kg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eikW4el4rwo",
+      "title": "【Japanese Ramen Simulator】へいらっしゃい! #ハリポルーナ のラーメン屋だよ!!【尾丸ポルカ視点/ホロライブ】",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eikW4el4rwo",
       "status": "unreviewed",
       "note": null
     }

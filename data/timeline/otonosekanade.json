@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2337,
+  "count": 2339,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "0j6ZTJh4sSU",
+      "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない!しゅぴなで【音乃瀬奏】#ReGLOSS",
+      "published_at": "20261103",
+      "url": "https://youtu.be/0j6ZTJh4sSU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0j6ZTJh4sSU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CRF-JqRir8Q",
+      "title": "感情を込めて歌いました!『 #アイシカケ 』Acoustic ver. フルは関連動画から‼️【 #音乃瀬奏AcousticLive 】 #音乃瀬奏",
+      "published_at": "20261103",
+      "url": "https://youtu.be/CRF-JqRir8Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CRF-JqRir8Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

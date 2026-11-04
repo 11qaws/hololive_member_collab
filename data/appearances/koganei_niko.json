@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 899,
+  "count": 902,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9888,6 +9888,39 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pb9CiUCvQUo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pY-1F1HPKHd",
+      "title": "Flow Glow 2nd Anniversary Stream (on the FG ch.)",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pY-1F1HPKHd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BV5iPvOLHeg",
+      "title": "ニコたんはコイツが好きだと聞いた【#一条莉々華の限界飯】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BV5iPvOLHeg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GctVKS7hRvg",
+      "title": "2周年記念!ひと言他己紹介【☺️🐅笑虎編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GctVKS7hRvg",
       "status": "unreviewed",
       "note": null
     }

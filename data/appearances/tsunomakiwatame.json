@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1868,
+  "count": 1870,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20547,6 +20547,28 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gr9kcxof0X4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sN6ixbuoAf0",
+      "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sN6ixbuoAf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "V4nbZaxZQdM",
+      "title": "【SPOILER WARNING | Ratatan ラタタン】FIRST TIME PLAYING!! 初見プレイ!フレわたーニャ!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/V4nbZaxZQdM",
       "status": "unreviewed",
       "note": null
     }

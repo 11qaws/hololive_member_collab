@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1066,
+  "count": 1067,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11725,6 +11725,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wV7bDHLuBa8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uwL3J0l9ueI",
+      "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその8【ホロライブ/白上フブキ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uwL3J0l9ueI",
       "status": "unreviewed",
       "note": null
     }

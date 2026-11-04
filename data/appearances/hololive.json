@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 190,
+  "count": 191,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2089,6 +2089,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Nw92D9fMYhM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BxJqCSku0O4",
+      "title": "【コーレス動画】エレクトリカル・サーフィン #ときのそら #ホロライブ #shorts",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BxJqCSku0O4",
       "status": "unreviewed",
       "note": null
     }

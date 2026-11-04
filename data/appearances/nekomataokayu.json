@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1763,
+  "count": 1764,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19392,6 +19392,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M9eA-TmMgFg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GLBnfdLZTtU",
+      "title": "【案件】おかころで『ソニックレーシング クロスワールド』遊ぶよ!!!【戌神ころね/猫又おかゆ/ホロライブ】",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GLBnfdLZTtU",
       "status": "unreviewed",
       "note": null
     }

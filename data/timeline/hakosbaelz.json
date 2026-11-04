@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2824,
+  "count": 2825,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5DRwmNFE1U8",
+      "title": "𝐁𝐎𝐎𝐌! 𝐇𝐄𝐀𝐃𝐒𝐇𝐎𝐓! #HEADSHOT #hakosbaelz #hololive #shorts",
+      "published_at": "20261103",
+      "url": "https://youtu.be/5DRwmNFE1U8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5DRwmNFE1U8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kD0fpHScZLk",
+      "title": "≪HEADSHOT NEW MV AFTER PARTY≫ rat did some things hehehe lets talk #HEADSHOT",
+      "published_at": "20261102",
+      "url": "https://youtu.be/kD0fpHScZLk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kD0fpHScZLk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/SamRIBA9wJ4/mqdefault.jpg",
       "partner_handle": "moricalliope",
       "partner_name": "Mori Calliope Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "kD0fpHScZLk",
-      "title": "≪HEADSHOT NEW MV AFTER PARTY≫ rat did some things hehehe lets talk #HEADSHOT",
-      "published_at": "20261101",
-      "url": "https://youtu.be/kD0fpHScZLk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/kD0fpHScZLk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -147,6 +159,18 @@
       "paired_self": null
     },
     {
+      "video_id": "r2Ax7ADRSWg",
+      "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
+      "published_at": "20261101",
+      "url": "https://youtu.be/r2Ax7ADRSWg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/r2Ax7ADRSWg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "gcw3FDCFWi8",
       "title": "【ORIGINAL 3D MV】 HEADSHOT || HAKOS BAELZ (Prod. TeddyLoid x MATZ)",
       "published_at": "20261101",
@@ -227,18 +251,6 @@
       "thumbnail": "https://img.youtube.com/vi/5SH-ItPkNFk/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "r2Ax7ADRSWg",
-      "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
-      "published_at": "20261027",
-      "url": "https://youtu.be/r2Ax7ADRSWg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/r2Ax7ADRSWg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

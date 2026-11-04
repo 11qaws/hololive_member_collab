@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2313,
+  "count": 2315,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pY-1F1HPKHd",
+      "title": "Flow Glow 2nd Anniversary Stream (on the FG ch.)",
+      "published_at": "20261109",
+      "url": "https://youtu.be/pY-1F1HPKHd",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pY-1F1HPKHd/mqdefault.jpg",
+      "partner_handle": "mizumiya_su",
+      "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GctVKS7hRvg",
+      "title": "2周年記念!ひと言他己紹介【☺️🐅笑虎編】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/GctVKS7hRvg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GctVKS7hRvg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +75,18 @@
       "paired_self": null
     },
     {
+      "video_id": "FZ7rqXi-Bvg",
+      "title": "【F1同時視聴】メキシコGP!絶対見逃せない決勝!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261101",
+      "url": "https://youtu.be/FZ7rqXi-Bvg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/FZ7rqXi-Bvg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "GqlolTWydpg",
       "title": "アニメーションMV『果てない旅』公開されました✨#shorts #animation #ホロライブ",
       "published_at": "20261101",
@@ -69,18 +105,6 @@
       "url": "https://youtu.be/JzZqjEgVOQY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JzZqjEgVOQY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "FZ7rqXi-Bvg",
-      "title": "【F1同時視聴】メキシコGP!絶対見逃せない決勝!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published_at": "20261031",
-      "url": "https://youtu.be/FZ7rqXi-Bvg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/FZ7rqXi-Bvg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

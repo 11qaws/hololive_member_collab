@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1082,
+  "count": 1084,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11901,6 +11901,28 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oMXaXv1q7kw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fIGicaBRC-E",
+      "title": "【恐怖診断】自分が怖いものだけ出てくる!? ホラーゲームを #いろはス  でやる!【ラプラス・ダークネス/ホロライブ】",
+      "channel_handle": "ladarknesss",
+      "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fIGicaBRC-E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4lga0I_b6fc",
+      "title": "【3D LIVE】グリズリーに襲われたら・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4lga0I_b6fc",
       "status": "unreviewed",
       "note": null
     }

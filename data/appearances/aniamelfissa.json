@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1528,
+  "count": 1529,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16807,6 +16807,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/17uiYbuaKa8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sN6ixbuoAf0",
+      "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sN6ixbuoAf0",
       "status": "unreviewed",
       "note": null
     }
