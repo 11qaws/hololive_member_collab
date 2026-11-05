@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1079,
+  "count": 1081,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11868,6 +11868,28 @@
       "published_at": "20261021",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GKjoS9iBPg0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s71UlFLqJH0",
+      "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s71UlFLqJH0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tT3AIXi7KMw",
+      "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tT3AIXi7KMw",
       "status": "unreviewed",
       "note": null
     }

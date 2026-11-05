@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2256,
+  "count": 2259,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -27,6 +27,30 @@
       "paired_self": null
     },
     {
+      "video_id": "W_hd_Quw0nQ",
+      "title": "5分で覚えたYes!東京🗼 #vtuber #shorts #dance #hololive",
+      "published_at": "20261105",
+      "url": "https://youtu.be/W_hd_Quw0nQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/W_hd_Quw0nQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UV2irCI-src",
+      "title": "【定期配信#49】木曜のお昼の12時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+      "published_at": "20261104",
+      "url": "https://youtu.be/UV2irCI-src",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UV2irCI-src/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "09rgDjt5K5M",
       "title": "【 #ホロARK 】ああ、パイロメインテイムしておいて良かったああ【ホロライブ  響咲リオナ】",
       "published_at": "20261104",
@@ -35,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/09rgDjt5K5M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "73nSPsXzfsE",
+      "title": "2周年記念!ひと言他己紹介【💬🔁💙枢編】",
+      "published_at": "20261104",
+      "url": "https://youtu.be/73nSPsXzfsE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/73nSPsXzfsE/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1084,
+  "count": 1085,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11923,6 +11923,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4lga0I_b6fc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XMUjdlrDVFs",
+      "title": "【 #ホロ鯖ARK 】その17|残るところ試練の天帝だ…【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XMUjdlrDVFs",
       "status": "unreviewed",
       "note": null
     }

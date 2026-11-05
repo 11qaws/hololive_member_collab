@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1764,
+  "count": 1765,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19403,6 +19403,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GLBnfdLZTtU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KrQBNXaPMlA",
+      "title": "【トルネコの大冒険】そろそろドラゴン・・会えるかな?! 【ネタバレあり】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KrQBNXaPMlA",
       "status": "unreviewed",
       "note": null
     }

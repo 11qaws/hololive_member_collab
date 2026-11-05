@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1514,
+  "count": 1515,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16653,6 +16653,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N29R7OjuEho",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rShP1u-_wEE",
+      "title": "【DESIGN CHALLENGE】Mori and I dress each other up! 👚",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rShP1u-_wEE",
       "status": "unreviewed",
       "note": null
     }

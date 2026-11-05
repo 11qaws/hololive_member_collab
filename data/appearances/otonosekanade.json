@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1288,
+  "count": 1290,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14167,6 +14167,28 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2gd-K7aKa1E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2P-sTvXs0pA",
+      "title": "【視聴者プレゼントあり🎁】箱の中身当てで大絶叫!サイコロでキャラ変!?ヤンキー?パリピ?にゃんこ?で限界突破!【#ReGLOSSホロじゃんコラボ】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2P-sTvXs0pA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ze2iEveLWb4",
+      "title": "なにこれめっちゃ懐かしいwwww #存在しない架空のアニメ #カートゥーン",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ze2iEveLWb4",
       "status": "unreviewed",
       "note": null
     }

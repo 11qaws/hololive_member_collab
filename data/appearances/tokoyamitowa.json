@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1685,
+  "count": 1686,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18534,6 +18534,17 @@
       "published_at": "20261029",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oMXaXv1q7kw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5JvXsQrVOz0",
+      "title": "【#ホロ鯖ARK】雑務【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5JvXsQrVOz0",
       "status": "unreviewed",
       "note": null
     }

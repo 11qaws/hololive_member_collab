@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 7507,
+  "count": 7510,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Nfbr10KhVWs",
+      "title": "神ツモ☆ドラドラ伝説 (白上フブキ SOLO ver.)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/Nfbr10KhVWs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Nfbr10KhVWs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EAD0xdl9Qg",
+      "title": "神ツモ☆ドラドラ伝説 (Instrumental)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/3EAD0xdl9Qg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3EAD0xdl9Qg/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BNz8E49HkkI",
+      "title": "神ツモ☆ドラドラ伝説",
+      "published_at": "20261104",
+      "url": "https://youtu.be/BNz8E49HkkI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BNz8E49HkkI/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +64,7 @@
     },
     {
       "video_id": "4lga0I_b6fc",
-      "title": "【3D LIVE】グリズリーに襲われたら・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
+      "title": "【3D LIVE】グリズリーに襲われたら♡・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
       "published_at": "20261103",
       "url": "https://youtu.be/4lga0I_b6fc",
       "entry_type": "stream",

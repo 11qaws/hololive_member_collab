@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 3701,
+  "count": 3704,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q4P_cEApp44",
+      "title": "神ツモ☆ドラドラ伝説 (宝鐘マリン SOLO ver.)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/q4P_cEApp44",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q4P_cEApp44/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EAD0xdl9Qg",
+      "title": "神ツモ☆ドラドラ伝説 (Instrumental)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/3EAD0xdl9Qg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3EAD0xdl9Qg/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BNz8E49HkkI",
+      "title": "神ツモ☆ドラドラ伝説",
+      "published_at": "20261104",
+      "url": "https://youtu.be/BNz8E49HkkI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BNz8E49HkkI/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },

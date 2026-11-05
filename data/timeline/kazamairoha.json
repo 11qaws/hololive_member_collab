@@ -1,7 +1,31 @@
 {
   "target": "kazamairoha",
-  "count": 2480,
+  "count": 2484,
   "entries": [
+    {
+      "video_id": "s71UlFLqJH0",
+      "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/s71UlFLqJH0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s71UlFLqJH0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tT3AIXi7KMw",
+      "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/tT3AIXi7KMw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tT3AIXi7KMw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "5JvXsQrVOz0",
       "title": "【#ホロ鯖ARK】雑務【風真いろは/ホロライブ】",
@@ -11,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/5JvXsQrVOz0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "XMUjdlrDVFs",
+      "title": "【 #ホロ鯖ARK 】その17|残るところ試練の天帝だ…【常闇トワ/ホロライブ】",
+      "published_at": "20261104",
+      "url": "https://youtu.be/XMUjdlrDVFs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/XMUjdlrDVFs/mqdefault.jpg",
+      "partner_handle": "tokoyamitowa",
+      "partner_name": "Towa Ch. 常闇トワ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -29735,6 +29771,18 @@
       "thumbnail": "https://img.youtube.com/vi/vqmh-8qU5Wg/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aEbPVwdCJmA",
+      "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+      "published_at": "",
+      "url": "https://youtu.be/aEbPVwdCJmA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aEbPVwdCJmA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

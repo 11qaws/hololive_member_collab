@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 2920,
+  "count": 2925,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -39,6 +39,30 @@
       "paired_self": null
     },
     {
+      "video_id": "f6gzo_8PzyU",
+      "title": "【先行プレイ】リリース日きたああああ!!ホロじゃんで遊ぼう!!【一条莉々華/hololive ReGLOSS】",
+      "published_at": "20261104",
+      "url": "https://youtu.be/f6gzo_8PzyU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/f6gzo_8PzyU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YwH7pW1k2yc",
+      "title": "神ツモ☆ドラドラ伝説 (一条莉々華 SOLO ver.)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/YwH7pW1k2yc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YwH7pW1k2yc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "BV5iPvOLHeg",
       "title": "ニコたんはコイツが好きだと聞いた【#一条莉々華の限界飯】",
       "published_at": "20261104",
@@ -47,6 +71,30 @@
       "thumbnail": "https://img.youtube.com/vi/BV5iPvOLHeg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3EAD0xdl9Qg",
+      "title": "神ツモ☆ドラドラ伝説 (Instrumental)",
+      "published_at": "20261104",
+      "url": "https://youtu.be/3EAD0xdl9Qg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3EAD0xdl9Qg/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BNz8E49HkkI",
+      "title": "神ツモ☆ドラドラ伝説",
+      "published_at": "20261104",
+      "url": "https://youtu.be/BNz8E49HkkI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BNz8E49HkkI/mqdefault.jpg",
+      "partner_handle": "akirose",
+      "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
       "sub_entries": [],
       "paired_self": null
     },
@@ -237,6 +285,18 @@
       "url": "https://youtu.be/c8rO_xOYfQY",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/c8rO_xOYfQY/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2P-sTvXs0pA",
+      "title": "【視聴者プレゼントあり🎁】箱の中身当てで大絶叫!サイコロでキャラ変!?ヤンキー?パリピ?にゃんこ?で限界突破!【#ReGLOSSホロじゃんコラボ】",
+      "published_at": "20261023",
+      "url": "https://youtu.be/2P-sTvXs0pA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2P-sTvXs0pA/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
       "sub_entries": [],

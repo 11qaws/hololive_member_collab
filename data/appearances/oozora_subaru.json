@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2150,
+  "count": 2151,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23649,6 +23649,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gr9kcxof0X4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hoaJ6f2J2M8",
+      "title": "【 Nintendo Switch Sports Resort 】二人で魂のスポーツ!!💥 告知アリ🥳【 猫又おかゆ/大空スバル/#スバおか 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hoaJ6f2J2M8",
       "status": "unreviewed",
       "note": null
     }

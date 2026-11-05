@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1508,
+  "count": 1511,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16587,6 +16587,39 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/srAnh0VrtCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2P-sTvXs0pA",
+      "title": "【視聴者プレゼントあり🎁】箱の中身当てで大絶叫!サイコロでキャラ変!?ヤンキー?パリピ?にゃんこ?で限界突破!【#ReGLOSSホロじゃんコラボ】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2P-sTvXs0pA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3EAD0xdl9Qg",
+      "title": "神ツモ☆ドラドラ伝説 (Instrumental)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3EAD0xdl9Qg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BNz8E49HkkI",
+      "title": "神ツモ☆ドラドラ伝説",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BNz8E49HkkI",
       "status": "unreviewed",
       "note": null
     }

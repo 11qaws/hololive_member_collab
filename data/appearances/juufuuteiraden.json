@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 942,
+  "count": 943,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10361,6 +10361,17 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SNnWyE1rL-s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2P-sTvXs0pA",
+      "title": "【視聴者プレゼントあり🎁】箱の中身当てで大絶叫!サイコロでキャラ変!?ヤンキー?パリピ?にゃんこ?で限界突破!【#ReGLOSSホロじゃんコラボ】",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261023",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2P-sTvXs0pA",
       "status": "unreviewed",
       "note": null
     }
