@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1529,
+  "count": 1530,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16818,6 +16818,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sN6ixbuoAf0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
       "status": "unreviewed",
       "note": null
     }

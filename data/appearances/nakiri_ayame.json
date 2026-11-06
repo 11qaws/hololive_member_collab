@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 942,
+  "count": 943,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10361,6 +10361,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P_uGDdotlF4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "02OOQBuTODA",
+      "title": "【3D LIVE】Special♡Spell・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/02OOQBuTODA",
       "status": "unreviewed",
       "note": null
     }

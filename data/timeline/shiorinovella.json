@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 2075,
+  "count": 2077,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Fnb0XDRVjI4",
+      "title": "Studying Japanese with Food 【Handcam】",
+      "published_at": "20261106",
+      "url": "https://youtu.be/Fnb0XDRVjI4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Fnb0XDRVjI4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "6oGdOpLqkws",
       "title": "I'm just a little Alice! 【Withering Rooms】",
       "published_at": "20261105",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/6oGdOpLqkws/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Hm4u9QWHXCs",
+      "title": "Shattered Legends | Trailer | Premiering Nov 13 PT / 14 JT",
+      "published_at": "20261105",
+      "url": "https://youtu.be/Hm4u9QWHXCs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Hm4u9QWHXCs/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
       "sub_entries": [],
       "paired_self": null
     },
@@ -41,7 +65,7 @@
     {
       "video_id": "ZryTcFRL0uk",
       "title": "Official Unc Status Achieved 【OPUS: Prism Peak】❗Spoilers",
-      "published_at": "20261103",
+      "published_at": "20261104",
       "url": "https://youtu.be/ZryTcFRL0uk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ZryTcFRL0uk/mqdefault.jpg",

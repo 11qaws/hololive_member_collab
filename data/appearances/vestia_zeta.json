@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1125,
+  "count": 1127,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -12374,6 +12374,28 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dAkUy8ScRNY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "02OOQBuTODA",
+      "title": "【3D LIVE】Special♡Spell・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/02OOQBuTODA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rjHDuESZLFw",
+      "title": "a very normal holoh3ro day 🍌",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rjHDuESZLFw",
       "status": "unreviewed",
       "note": null
     }

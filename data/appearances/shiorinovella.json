@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 991,
+  "count": 992,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10900,6 +10900,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Gr9kcxof0X4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Hm4u9QWHXCs",
+      "title": "Shattered Legends | Trailer | Premiering Nov 13 PT / 14 JT",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Hm4u9QWHXCs",
       "status": "unreviewed",
       "note": null
     }

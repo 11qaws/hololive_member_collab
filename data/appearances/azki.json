@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1121,
+  "count": 1123,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12330,6 +12330,28 @@
       "published_at": "20261031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Cl3LkvJkQzQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dei4o6Rkj14",
+      "title": "【 #ホロARK 】初心者がいく🔰冒険【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dei4o6Rkj14",
       "status": "unreviewed",
       "note": null
     }

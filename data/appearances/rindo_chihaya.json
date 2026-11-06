@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1433,
+  "count": 1436,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15762,6 +15762,39 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/73nSPsXzfsE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bo1peSPsa2U",
+      "title": "2周年記念!ひと言他己紹介【🎧🔧千速編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bo1peSPsa2U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uAFjGmoB6KM",
+      "title": "【祝100万回再生突破】『magic summer』これを聴いたらいつでも夏気分",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uAFjGmoB6KM",
       "status": "unreviewed",
       "note": null
     }

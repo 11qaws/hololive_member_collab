@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1559,
+  "count": 1560,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17148,6 +17148,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/N_77GxuprFY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wJ-0AtStMB0",
+      "title": "rock lickers #anime #hololive #animation #vtuber #envtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wJ-0AtStMB0",
       "status": "unreviewed",
       "note": null
     }

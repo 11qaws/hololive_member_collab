@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 7510,
+  "count": 7512,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gZ42MAwjPGA",
+      "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/gZ42MAwjPGA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gZ42MAwjPGA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "02OOQBuTODA",
+      "title": "【3D LIVE】Special♡Spell・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/02OOQBuTODA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/02OOQBuTODA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

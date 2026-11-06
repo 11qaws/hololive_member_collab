@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1542,
+  "count": 1543,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16961,6 +16961,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Qj8766EqChE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 943,
+  "count": 944,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10372,6 +10372,17 @@
       "published_at": "20261023",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2P-sTvXs0pA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cj2V97x8kCE",
+      "title": "【#ReGLOSSホロじゃんコラボ】 ReGLOSSが麻雀最強を目指して箱の中身あて!?  #ReGLOSS #ホロじゃん #VTuber #Shorts",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cj2V97x8kCE",
       "status": "unreviewed",
       "note": null
     }

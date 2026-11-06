@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 2342,
+  "count": 2344,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -27,6 +27,18 @@
       "paired_self": null
     },
     {
+      "video_id": "T6dgENyxJqY",
+      "title": "【 #音乃瀬奏AcousticLive 】『 #アイシカケ 』Acoustic ver. フルMVは関連動画から‼️ #音乃瀬奏",
+      "published_at": "20261105",
+      "url": "https://youtu.be/T6dgENyxJqY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/T6dgENyxJqY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "f8qeTQ6WWsI",
       "title": "【 Supermarket Chaos 】我が家のよう【音乃瀬奏】#ReGLOSS",
       "published_at": "20261104",
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/ze2iEveLWb4/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cj2V97x8kCE",
+      "title": "【#ReGLOSSホロじゃんコラボ】 ReGLOSSが麻雀最強を目指して箱の中身あて!?  #ReGLOSS #ホロじゃん #VTuber #Shorts",
+      "published_at": "20261104",
+      "url": "https://youtu.be/cj2V97x8kCE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cj2V97x8kCE/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

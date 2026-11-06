@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2530,
+  "count": 2532,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "noxmYpufgAk",
+      "title": "もちもちきゅーてぃーわーるど踊ってみた【轟はじめ】#shorts #dance",
+      "published_at": "20261106",
+      "url": "https://youtu.be/noxmYpufgAk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/noxmYpufgAk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +63,30 @@
       "paired_self": null
     },
     {
+      "video_id": "cj2V97x8kCE",
+      "title": "【#ReGLOSSホロじゃんコラボ】 ReGLOSSが麻雀最強を目指して箱の中身あて!?  #ReGLOSS #ホロじゃん #VTuber #Shorts",
+      "published_at": "20261104",
+      "url": "https://youtu.be/cj2V97x8kCE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cj2V97x8kCE/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "nUl4wcsH0kg",
+      "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator!【轟はじめ/ホロライブReGLOSS】",
+      "published_at": "20261103",
+      "url": "https://youtu.be/nUl4wcsH0kg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/nUl4wcsH0kg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "C64sM_QroSI",
       "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ!【ホロライブ  響咲リオナ】",
       "published_at": "20261103",
@@ -71,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/eikW4el4rwo/mqdefault.jpg",
       "partner_handle": "omarupolka",
       "partner_name": "Polka Ch. 尾丸ポルカ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "nUl4wcsH0kg",
-      "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator!【轟はじめ/ホロライブReGLOSS】",
-      "published_at": "20261102",
-      "url": "https://youtu.be/nUl4wcsH0kg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/nUl4wcsH0kg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

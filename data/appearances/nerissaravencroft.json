@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1141,
+  "count": 1142,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12550,6 +12550,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8ZJwaJVJBSI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Hm4u9QWHXCs",
+      "title": "Shattered Legends | Trailer | Premiering Nov 13 PT / 14 JT",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Hm4u9QWHXCs",
       "status": "unreviewed",
       "note": null
     }

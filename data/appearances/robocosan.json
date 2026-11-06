@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1349,
+  "count": 1350,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14838,6 +14838,17 @@
       "published_at": "20261025",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/mQTx-WStvH4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
       "status": "unreviewed",
       "note": null
     }

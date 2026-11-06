@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1248,
+  "count": 1249,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -13727,6 +13727,17 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5SH-ItPkNFk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ccu5HnPptWA",
+      "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ccu5HnPptWA",
       "status": "unreviewed",
       "note": null
     }
