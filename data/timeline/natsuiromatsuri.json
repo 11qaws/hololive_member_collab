@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4071,
+  "count": 4073,
   "entries": [
     {
       "video_id": "-k8EZv9wkAs",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/-k8EZv9wkAs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "2g8h37-ztTE",
+      "title": "【#サンリオパーティランド】みんななかよく!○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
+      "published_at": "20261106",
+      "url": "https://youtu.be/2g8h37-ztTE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/2g8h37-ztTE/mqdefault.jpg",
+      "partner_handle": "juufuuteiraden",
+      "partner_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pUHrdigH6Y0",
+      "title": "握力61キロ♪【ホロライブ / AZKi】#ぷちあず #shorts #MooWho #天音かなた #ぎゅっぎゅっ",
+      "published_at": "20261106",
+      "url": "https://youtu.be/pUHrdigH6Y0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pUHrdigH6Y0/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
       "sub_entries": [],
       "paired_self": null
     },

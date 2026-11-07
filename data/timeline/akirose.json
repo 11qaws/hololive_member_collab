@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 3539,
+  "count": 3540,
   "entries": [
     {
       "video_id": "zlIbXAyUdgA",
@@ -7055,6 +7055,18 @@
       "thumbnail": "https://img.youtube.com/vi/VRKuVLclf5k/mqdefault.jpg",
       "partner_handle": "natsuiromatsuri",
       "partner_name": "Matsuri Channel 夏色まつり",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i3Nd5uDRxsY",
+      "title": "【ホロナツパラダイス】ビーチで対決!ホロナツクイーン決定戦 in VRChat【#holonatsuParadise】",
+      "published_at": "20250726",
+      "url": "https://youtu.be/i3Nd5uDRxsY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i3Nd5uDRxsY/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

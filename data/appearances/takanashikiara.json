@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1133,
+  "count": 1134,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12462,6 +12462,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/XpLGpqjTEZo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kZ1n5F7jad8",
+      "title": "キアラちゃんの「아이리제 - TRAUMA」踊ってみた💃✨ #vtuber #shorts #아이리제  #trauma",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kZ1n5F7jad8",
       "status": "unreviewed",
       "note": null
     }

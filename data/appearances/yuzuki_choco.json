@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1068,
+  "count": 1069,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11747,6 +11747,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4o1a8flNNCg",
+      "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ!!!【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4o1a8flNNCg",
       "status": "unreviewed",
       "note": null
     }

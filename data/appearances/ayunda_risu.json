@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1149,
+  "count": 1150,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12638,6 +12638,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tBY0CjsLwmQ",
+      "title": "GB PREV",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261028",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tBY0CjsLwmQ",
       "status": "unreviewed",
       "note": null
     }

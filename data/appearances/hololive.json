@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 191,
+  "count": 193,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2100,6 +2100,28 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BxJqCSku0O4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9Ijs0V2woWo",
+      "title": "#そらぱぴあアリ いよいよ本日!! #ときのそら #shorts",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9Ijs0V2woWo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "n6YjcXt4Bxk",
+      "title": "#そらぱぴあアリ まであと1日!! #ときのそら #shorts",
+      "channel_handle": "tokinosora",
+      "channel_name": "SoraCh. ときのそらチャンネル",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/n6YjcXt4Bxk",
       "status": "unreviewed",
       "note": null
     }

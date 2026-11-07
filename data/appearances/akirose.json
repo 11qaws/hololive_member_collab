@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1329,
+  "count": 1330,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14618,6 +14618,17 @@
       "published_at": "20261020",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WcC1pWBo-6I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i3Nd5uDRxsY",
+      "title": "【ホロナツパラダイス】ビーチで対決!ホロナツクイーン決定戦 in VRChat【#holonatsuParadise】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20250726",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i3Nd5uDRxsY",
       "status": "unreviewed",
       "note": null
     }

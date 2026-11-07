@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 821,
+  "count": 822,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9030,6 +9030,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2Ofg-tSzc9U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5Fg6ldWqESI",
+      "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
+      "channel_handle": "robocosan",
+      "channel_name": "Roboco Ch. - ロボ子",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5Fg6ldWqESI",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3548,
+  "count": 3550,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39027,6 +39027,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BNz8E49HkkI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4o1a8flNNCg",
+      "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ!!!【博衣こより/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4o1a8flNNCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pUHrdigH6Y0",
+      "title": "握力61キロ♪【ホロライブ / AZKi】#ぷちあず #shorts #MooWho #天音かなた #ぎゅっぎゅっ",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pUHrdigH6Y0",
       "status": "unreviewed",
       "note": null
     }

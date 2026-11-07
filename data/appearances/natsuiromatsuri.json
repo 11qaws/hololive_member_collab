@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1543,
+  "count": 1545,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16972,6 +16972,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2g8h37-ztTE",
+      "title": "【#サンリオパーティランド】みんななかよく!○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2g8h37-ztTE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pUHrdigH6Y0",
+      "title": "握力61キロ♪【ホロライブ / AZKi】#ぷちあず #shorts #MooWho #天音かなた #ぎゅっぎゅっ",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pUHrdigH6Y0",
       "status": "unreviewed",
       "note": null
     }

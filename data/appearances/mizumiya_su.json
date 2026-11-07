@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1298,
+  "count": 1302,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14277,6 +14277,50 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uAFjGmoB6KM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "48hUYLrV8bE",
+      "title": "【📢 重大発表 🔥】 BOUNCE BACK!【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/48hUYLrV8bE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2g8h37-ztTE",
+      "title": "【#サンリオパーティランド】みんななかよく!○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2g8h37-ztTE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "niQ20RlvkX4",
+      "title": "2周年記念!ひと言他己紹介【💅✨ヴィヴィ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/niQ20RlvkX4",
       "status": "unreviewed",
       "note": null
     }

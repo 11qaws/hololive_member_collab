@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1436,
+  "count": 1438,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15795,6 +15795,28 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/uAFjGmoB6KM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "48hUYLrV8bE",
+      "title": "【📢 重大発表 🔥】 BOUNCE BACK!【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/48hUYLrV8bE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "niQ20RlvkX4",
+      "title": "2周年記念!ひと言他己紹介【💅✨ヴィヴィ編】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/niQ20RlvkX4",
       "status": "unreviewed",
       "note": null
     }

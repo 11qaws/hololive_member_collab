@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1516,
+  "count": 1517,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16675,6 +16675,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Hm4u9QWHXCs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C_i7SwqfjKw",
+      "title": "Today's game: Guess the word!🤯   #friends #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C_i7SwqfjKw",
       "status": "unreviewed",
       "note": null
     }

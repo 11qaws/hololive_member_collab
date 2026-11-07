@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 836,
+  "count": 837,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9195,6 +9195,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1I1KmFWx1Ww",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bY7R4O4Eruk",
+      "title": "【ZELDA: MAJORA'S MASK】\"I Think the Mask Vendor is Hot\" (part 3) #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bY7R4O4Eruk",
       "status": "unreviewed",
       "note": null
     }

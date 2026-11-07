@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1076,
+  "count": 1077,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11835,6 +11835,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/eikW4el4rwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2Kh239jxevA",
+      "title": "【言えない……!】ピンクの夢 #hololive #ホロライブ #memes #謝罪",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2Kh239jxevA",
       "status": "unreviewed",
       "note": null
     }

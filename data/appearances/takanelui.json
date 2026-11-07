@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1507,
+  "count": 1508,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16576,6 +16576,17 @@
       "published_at": "20261027",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/p5dtCuM3vc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sm56j6A9qrY",
+      "title": "【 #ホロ1GP 】狙うのはドパただそれだけ、、✨️【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sm56j6A9qrY",
       "status": "unreviewed",
       "note": null
     }

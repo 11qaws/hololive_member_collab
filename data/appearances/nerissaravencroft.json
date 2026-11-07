@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1142,
+  "count": 1143,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12561,6 +12561,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Hm4u9QWHXCs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bY7R4O4Eruk",
+      "title": "【ZELDA: MAJORA'S MASK】\"I Think the Mask Vendor is Hot\" (part 3) #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261104",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bY7R4O4Eruk",
       "status": "unreviewed",
       "note": null
     }

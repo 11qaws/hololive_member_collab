@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1404,
+  "count": 1405,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15443,6 +15443,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q0zY_ELM7V4",
+      "title": "好きって言って😣もっと言って!推したら引けない恋でした💗 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #推し恋 #KoZMy",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q0zY_ELM7V4",
       "status": "unreviewed",
       "note": null
     }
