@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 822,
+  "count": 823,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9041,6 +9041,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5Fg6ldWqESI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bldM9O_zXD8",
+      "title": "【DETROIT: BECOME HUMAN】OH LAWD DETROIT BECOMIN WITH @holoen_ceciliaimmergreen​",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bldM9O_zXD8",
       "status": "unreviewed",
       "note": null
     }

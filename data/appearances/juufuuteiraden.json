@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 944,
+  "count": 945,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10383,6 +10383,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cj2V97x8kCE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SkTcCa4b3QA",
+      "title": "【飲酒雑談】🏮まちゅらでん🐚マシュマロ雑談!【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SkTcCa4b3QA",
       "status": "unreviewed",
       "note": null
     }

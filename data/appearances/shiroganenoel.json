@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1824,
+  "count": 1826,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -20063,6 +20063,28 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pUHrdigH6Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BXafvmQoFZQ",
+      "title": "【 #ホロARK 】初心者がいく🔰列車と冒険すうのArk最終日!【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BXafvmQoFZQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pW21lPuGNYo",
+      "title": "【Blu-rayダイジェスト映像】hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜【DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pW21lPuGNYo",
       "status": "unreviewed",
       "note": null
     }

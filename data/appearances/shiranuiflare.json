@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1619,
+  "count": 1621,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17808,6 +17808,28 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/V4nbZaxZQdM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SStzDq4MONU",
+      "title": "【R.E.P.O】ころね支店",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SStzDq4MONU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pW21lPuGNYo",
+      "title": "【Blu-rayダイジェスト映像】hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜【DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pW21lPuGNYo",
       "status": "unreviewed",
       "note": null
     }
