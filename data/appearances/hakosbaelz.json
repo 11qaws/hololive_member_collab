@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1286,
+  "count": 1287,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14145,6 +14145,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SamRIBA9wJ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DGokr-B4Qbc",
+      "title": "【#holoKitchen】Join the Talents in the Kitchen!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DGokr-B4Qbc",
       "status": "unreviewed",
       "note": null
     }

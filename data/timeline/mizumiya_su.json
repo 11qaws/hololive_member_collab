@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2567,
+  "count": 2571,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hSTlvVP3dEg",
+      "title": "ソーラン節自由形Ver/一緒に踊れるよ #vtuber #hololive #dance",
+      "published_at": "20261109",
+      "url": "https://youtu.be/hSTlvVP3dEg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hSTlvVP3dEg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -35,6 +47,30 @@
       "thumbnail": "https://img.youtube.com/vi/xJkby-5noE3/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "B_e9L3zpgpk",
+      "title": "綺々羅々ヴィヴィ袋叩き!?",
+      "published_at": "20261108",
+      "url": "https://youtu.be/B_e9L3zpgpk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/B_e9L3zpgpk/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jVR6XxAJjRw",
+      "title": "【3D LIVE】くりてぃかる♡ぷりちー/歌詞無しver【ホロライブ/白上フブキ/百鬼あやめ/白銀ノエル/Vestia Zeta】",
+      "published_at": "20261108",
+      "url": "https://youtu.be/jVR6XxAJjRw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jVR6XxAJjRw/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -141,6 +177,18 @@
       "url": "https://youtu.be/niQ20RlvkX4",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/niQ20RlvkX4/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6kO5HJKQ8GI",
+      "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
+      "published_at": "20261106",
+      "url": "https://youtu.be/6kO5HJKQ8GI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6kO5HJKQ8GI/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],

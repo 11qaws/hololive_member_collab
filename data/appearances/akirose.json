@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1330,
+  "count": 1331,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14629,6 +14629,17 @@
       "published_at": "20250726",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i3Nd5uDRxsY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dCx9Wavk6fQ",
+      "title": "マリン船長、キレるwwwwww#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dCx9Wavk6fQ",
       "status": "unreviewed",
       "note": null
     }

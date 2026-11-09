@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 837,
+  "count": 839,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9206,6 +9206,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bY7R4O4Eruk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bvIOFYU2RH3",
+      "title": "SMITTEN - game not decided yet! (｡•́︿•̀｡)",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bvIOFYU2RH3",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DGokr-B4Qbc",
+      "title": "【#holoKitchen】Join the Talents in the Kitchen!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DGokr-B4Qbc",
       "status": "unreviewed",
       "note": null
     }

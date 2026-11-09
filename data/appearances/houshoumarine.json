@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1717,
+  "count": 1718,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18886,6 +18886,17 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pW21lPuGNYo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M1eInTBTOYM",
+      "title": "【Blu-rayダイジェスト映像】hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜【DAY2】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M1eInTBTOYM",
       "status": "unreviewed",
       "note": null
     }

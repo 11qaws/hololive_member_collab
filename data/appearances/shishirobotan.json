@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1668,
+  "count": 1669,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18347,6 +18347,17 @@
       "published_at": "20261102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Jx8v-46RnHQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1149,
+  "count": 1150,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12638,6 +12638,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VdOa9bkgkEU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-FB40n63OhM",
+      "title": "【REPO】アプデ後 #ぬいころ 初見REPO【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-FB40n63OhM",
       "status": "unreviewed",
       "note": null
     }

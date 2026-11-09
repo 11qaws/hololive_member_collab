@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1086,
+  "count": 1087,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -11945,6 +11945,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BL3L8kvAPsw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
       "status": "unreviewed",
       "note": null
     }

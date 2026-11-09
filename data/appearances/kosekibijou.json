@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1561,
+  "count": 1562,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17170,6 +17170,17 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C_i7SwqfjKw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "O3I0BcLkFGc",
+      "title": "【PEAK】PEJUANG MONDAY PEAK with Koseki Kyoko Knoja",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/O3I0BcLkFGc",
       "status": "unreviewed",
       "note": null
     }

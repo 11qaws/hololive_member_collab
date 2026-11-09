@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1517,
+  "count": 1523,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16686,6 +16686,72 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/W7meQ6PrDpo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jLtxfahJsKE",
+      "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jLtxfahJsKE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MgPlox_h_Oo",
+      "title": "【 #ホロ1GP 】アーカイブ残るよなぁ?! 競馬勝ちます。【ホロライブと名乗りたい】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MgPlox_h_Oo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SRE2N2NK2Wo",
+      "title": "【Minecraft #ホロ1GP】HASHIREEEEEEEEEEEEE🏇【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SRE2N2NK2Wo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k8HVxzKkvJI",
+      "title": "【 #ホロ1GP 】どぱ予想家です!!!ここでも勝つぞ!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k8HVxzKkvJI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "aM7w-nnuP5Y",
+      "title": "【ホロ1グランプリ】勝つ馬を 当ててみましょう タロットで...【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/aM7w-nnuP5Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8llnciIkv8I",
+      "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8llnciIkv8I",
       "status": "unreviewed",
       "note": null
     }

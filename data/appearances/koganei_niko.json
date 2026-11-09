@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 908,
+  "count": 910,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -9987,6 +9987,28 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/etCvIClEUsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6kO5HJKQ8GI",
+      "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6kO5HJKQ8GI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B_e9L3zpgpk",
+      "title": "綺々羅々ヴィヴィ袋叩き!?",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B_e9L3zpgpk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3860,
+  "count": 3862,
   "entries": [
     {
       "video_id": "LEyISnCpXEe",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PBH5PxiQPx4",
+      "title": "【 雑談-Freetalk- 】 #Towavel 旅行に行きたい欲をみんなに託す‼️【常闇トワ/ホロライブ】",
+      "published_at": "20261109",
+      "url": "https://youtu.be/PBH5PxiQPx4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PBH5PxiQPx4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -47,6 +59,18 @@
       "thumbnail": "https://img.youtube.com/vi/t1Y6pmLXut8/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/ShQEwCHd838",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ShQEwCHd838/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },

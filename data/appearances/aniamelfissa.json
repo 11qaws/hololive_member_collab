@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1531,
+  "count": 1532,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16840,6 +16840,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pUHrdigH6Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
       "status": "unreviewed",
       "note": null
     }

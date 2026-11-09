@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1517,
+  "count": 1518,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16686,6 +16686,17 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C_i7SwqfjKw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DGokr-B4Qbc",
+      "title": "【#holoKitchen】Join the Talents in the Kitchen!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DGokr-B4Qbc",
       "status": "unreviewed",
       "note": null
     }

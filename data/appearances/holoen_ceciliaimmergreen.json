@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 823,
+  "count": 824,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9052,6 +9052,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bldM9O_zXD8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DGokr-B4Qbc",
+      "title": "【#holoKitchen】Join the Talents in the Kitchen!",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DGokr-B4Qbc",
       "status": "unreviewed",
       "note": null
     }

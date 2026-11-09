@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1513,
+  "count": 1514,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16642,6 +16642,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cj2V97x8kCE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FYzxO5awzsQ",
+      "title": "【アニメ】ギャルになる呪い",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FYzxO5awzsQ",
       "status": "unreviewed",
       "note": null
     }

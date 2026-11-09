@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5846,
+  "count": 5848,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "kCFsFjDm7M0",
+      "title": "「一蹴」なんて読むでしょう?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261108",
+      "url": "https://youtu.be/kCFsFjDm7M0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/kCFsFjDm7M0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,24 +75,24 @@
       "paired_self": null
     },
     {
-      "video_id": "QIefuJ9odOc",
-      "title": "わためぇ Night Fever!! in your dreams...【ギリギリわるくないわため】 #ギリわる",
+      "video_id": "-pDfy5uD06Q",
+      "title": "【 ヒツジのいらない枕 】アンバサダーのお仕事です!超豪華なコラボキャンペーン情報を解禁するよ~📢【角巻わため/ホロライブ4期生】",
       "published_at": "20261106",
-      "url": "https://youtu.be/QIefuJ9odOc",
+      "url": "https://youtu.be/-pDfy5uD06Q",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/QIefuJ9odOc/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/-pDfy5uD06Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
     {
-      "video_id": "-pDfy5uD06Q",
-      "title": "【 ヒツジのいらない枕 】アンバサダーのお仕事です!超豪華なコラボキャンペーン情報を解禁するよ~📢【角巻わため/ホロライブ4期生】",
-      "published_at": "20261105",
-      "url": "https://youtu.be/-pDfy5uD06Q",
+      "video_id": "QIefuJ9odOc",
+      "title": "わためぇ Night Fever!! in your dreams...【ギリギリわるくないわため】 #ギリわる",
+      "published_at": "20261106",
+      "url": "https://youtu.be/QIefuJ9odOc",
       "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-pDfy5uD06Q/mqdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/QIefuJ9odOc/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -107,6 +119,18 @@
       "thumbnail": "https://img.youtube.com/vi/ko3z615ZvQA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261105",
+      "url": "https://youtu.be/ShQEwCHd838",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ShQEwCHd838/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },

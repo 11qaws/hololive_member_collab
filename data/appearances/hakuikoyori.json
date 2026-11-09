@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1464,
+  "count": 1466,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16103,6 +16103,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jVR6XxAJjRw",
+      "title": "【3D LIVE】くりてぃかる♡ぷりちー/歌詞無しver【ホロライブ/白上フブキ/百鬼あやめ/白銀ノエル/Vestia Zeta】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jVR6XxAJjRw",
       "status": "unreviewed",
       "note": null
     }

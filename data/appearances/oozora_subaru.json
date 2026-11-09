@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2151,
+  "count": 2153,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23660,6 +23660,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hoaJ6f2J2M8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ShQEwCHd838",
+      "title": "【 #ホロ1GP 】神視点!本格実況付き✨マイクラ競馬で一攫千金を狙え!! 【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261105",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dCx9Wavk6fQ",
+      "title": "マリン船長、キレるwwwwww#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dCx9Wavk6fQ",
       "status": "unreviewed",
       "note": null
     }

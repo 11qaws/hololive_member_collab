@@ -1,6 +1,6 @@
 {
   "target": "vestia_zeta",
-  "count": 1127,
+  "count": 1128,
   "appearances": [
     {
       "video_id": "rY7cYZcQd8c",
@@ -12396,6 +12396,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rjHDuESZLFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FYzxO5awzsQ",
+      "title": "【アニメ】ギャルになる呪い",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FYzxO5awzsQ",
       "status": "unreviewed",
       "note": null
     }

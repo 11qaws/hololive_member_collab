@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1303,
+  "count": 1306,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14332,6 +14332,39 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/etCvIClEUsc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6kO5HJKQ8GI",
+      "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6kO5HJKQ8GI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B_e9L3zpgpk",
+      "title": "綺々羅々ヴィヴィ袋叩き!?",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B_e9L3zpgpk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jVR6XxAJjRw",
+      "title": "【3D LIVE】くりてぃかる♡ぷりちー/歌詞無しver【ホロライブ/白上フブキ/百鬼あやめ/白銀ノエル/Vestia Zeta】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jVR6XxAJjRw",
       "status": "unreviewed",
       "note": null
     }
