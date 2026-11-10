@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1924,
+  "count": 1926,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -15,6 +15,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Nbck0MbQRnA",
+      "title": "Good morning, Darling~ did you sleep well? | ASMR",
+      "published_at": "20261109",
+      "url": "https://youtu.be/Nbck0MbQRnA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Nbck0MbQRnA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "6eaSJws0QFU",
       "title": "I haven't sewn anything since middle school | Dressmaker",
       "published_at": "20261108",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/6eaSJws0QFU/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pcmJoVYzV00",
+      "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+      "published_at": "20261107",
+      "url": "https://youtu.be/pcmJoVYzV00",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pcmJoVYzV00/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

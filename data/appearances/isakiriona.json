@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1285,
+  "count": 1290,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14134,6 +14134,61 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B_e9L3zpgpk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "S0sVsWiJTcs",
+      "title": "「NO BORDER,TAKE OVER.」3D Live",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20270320",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/S0sVsWiJTcs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "16ntsLkkcQ4",
+      "title": "BOUNCE BACK! (Instrumental)",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/16ntsLkkcQ4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Fv8ijeYqTS8",
+      "title": "BOUNCE BACK!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Fv8ijeYqTS8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Y4DLWUtPsYM",
+      "title": "【#FG2周年 アンコール&アフタートーク】感動の余韻そのままに…2周年配信の裏側、5人で語り尽くします!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Y4DLWUtPsYM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mfcj1AdnzhQ",
+      "title": "FLOW GLOW / BOUNCE BACK!【Official Music Video】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mfcj1AdnzhQ",
       "status": "unreviewed",
       "note": null
     }

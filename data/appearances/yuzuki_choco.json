@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1069,
+  "count": 1070,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11758,6 +11758,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4o1a8flNNCg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-Hat1gYDP7U",
+      "title": "【#アキちょこナイパレ|第60回】恋人には束縛されたい派🆚自由がいい派  あなたはどっち?|シスターローズの懺悔室🌹~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-Hat1gYDP7U",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1685,
+  "count": 1687,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18534,6 +18534,28 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M1eInTBTOYM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZvXnGnT3yuo",
+      "title": "【待望の新作発売!】ゲーム好きの気持ちいい瞬間🎮/Greatest moments for a gamer #hololive #ホロライブ #ご褒美",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZvXnGnT3yuo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "dCx9Wavk6fQ",
+      "title": "マリン船長、キレるwwwwww#shorts",
+      "channel_handle": "houshoumarine",
+      "channel_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/dCx9Wavk6fQ",
       "status": "unreviewed",
       "note": null
     }

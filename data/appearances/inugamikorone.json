@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1150,
+  "count": 1153,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12649,6 +12649,39 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-FB40n63OhM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BYMnrRjbZAQ",
+      "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ!【#いぬたかししの怖がらせ隊/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BYMnrRjbZAQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GCUK_IyRTY8",
+      "title": "みっころね×しょうたいむ!!",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20220102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GCUK_IyRTY8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "C2su6xWnZ7c",
+      "title": "みっころね×しょうたいむ!! (Instrumental)",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20220102",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/C2su6xWnZ7c",
       "status": "unreviewed",
       "note": null
     }

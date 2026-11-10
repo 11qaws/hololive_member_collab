@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2153,
+  "count": 2154,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23682,6 +23682,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dCx9Wavk6fQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4WUK7l5adOg",
+      "title": "【#みこスバ】【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4WUK7l5adOg",
       "status": "unreviewed",
       "note": null
     }

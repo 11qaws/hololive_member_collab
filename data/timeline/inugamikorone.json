@@ -1,7 +1,31 @@
 {
   "target": "inugamikorone",
-  "count": 3039,
+  "count": 3044,
   "entries": [
+    {
+      "video_id": "BYMnrRjbZAQ",
+      "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ!【#いぬたかししの怖がらせ隊/ホロライブ】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/BYMnrRjbZAQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/BYMnrRjbZAQ/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PuzU1g9zOhk",
+      "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ!!",
+      "published_at": "20261108",
+      "url": "https://youtu.be/PuzU1g9zOhk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/PuzU1g9zOhk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "-FB40n63OhM",
       "title": "【REPO】アプデ後 #ぬいころ 初見REPO【不知火フレア/ホロライブ】",
@@ -21,18 +45,6 @@
       "url": "https://youtu.be/SStzDq4MONU",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/SStzDq4MONU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "PuzU1g9zOhk",
-      "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ!!",
-      "published_at": "20261107",
-      "url": "https://youtu.be/PuzU1g9zOhk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/PuzU1g9zOhk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -9119,6 +9131,30 @@
       "thumbnail": "https://img.youtube.com/vi/sQqK0CD-tqc/mqdefault.jpg",
       "partner_handle": "yukihanalamy",
       "partner_name": "Lamy Ch. 雪花ラミィ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UT7H4b8cIOw",
+      "title": "みっころね×やってやんよ!!(Instrumental)",
+      "published_at": "20241205",
+      "url": "https://youtu.be/UT7H4b8cIOw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UT7H4b8cIOw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1X4cKLmSwbg",
+      "title": "みっころね×やってやんよ!!",
+      "published_at": "20241205",
+      "url": "https://youtu.be/1X4cKLmSwbg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1X4cKLmSwbg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -22475,6 +22511,30 @@
       "thumbnail": "https://img.youtube.com/vi/HyT_8zPmp6Q/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "GCUK_IyRTY8",
+      "title": "みっころね×しょうたいむ!!",
+      "published_at": "20220102",
+      "url": "https://youtu.be/GCUK_IyRTY8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GCUK_IyRTY8/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "C2su6xWnZ7c",
+      "title": "みっころね×しょうたいむ!! (Instrumental)",
+      "published_at": "20220102",
+      "url": "https://youtu.be/C2su6xWnZ7c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/C2su6xWnZ7c/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

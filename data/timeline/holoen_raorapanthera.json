@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1458,
+  "count": 1460,
   "entries": [
     {
       "video_id": "bvIOFYU2RH3",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/bvIOFYU2RH3/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oaZxyiBKnyA",
+      "title": "【Pokémon Emerald Nuzlocke】 Victory Road and the Pokémon League Await!",
+      "published_at": "20261109",
+      "url": "https://youtu.be/oaZxyiBKnyA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oaZxyiBKnyA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1HL83Q-zI_k",
+      "title": "Cappuccino after lunch is a CRIME! #shorts",
+      "published_at": "20261109",
+      "url": "https://youtu.be/1HL83Q-zI_k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1HL83Q-zI_k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

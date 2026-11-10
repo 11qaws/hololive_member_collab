@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1143,
+  "count": 1144,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12572,6 +12572,17 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bY7R4O4Eruk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pcmJoVYzV00",
+      "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pcmJoVYzV00",
       "status": "unreviewed",
       "note": null
     }

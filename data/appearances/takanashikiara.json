@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1134,
+  "count": 1135,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12473,6 +12473,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kZ1n5F7jad8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Bx1TUxeaoS4",
+      "title": "WELCOME TO MY TRAUMA @irise_theofficial  #아이리제 #IRISÉ #TRAUMA #트라우마 #트라우마챌린지 #TRAUMAChallenge",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Bx1TUxeaoS4",
       "status": "unreviewed",
       "note": null
     }

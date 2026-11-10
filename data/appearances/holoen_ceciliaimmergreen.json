@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 824,
+  "count": 825,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9063,6 +9063,17 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DGokr-B4Qbc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pcmJoVYzV00",
+      "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pcmJoVYzV00",
       "status": "unreviewed",
       "note": null
     }

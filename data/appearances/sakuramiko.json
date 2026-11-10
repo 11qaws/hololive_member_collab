@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2442,
+  "count": 2444,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26861,6 +26861,28 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dCx9Wavk6fQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UT7H4b8cIOw",
+      "title": "みっころね×やってやんよ!!(Instrumental)",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20241205",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UT7H4b8cIOw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1X4cKLmSwbg",
+      "title": "みっころね×やってやんよ!!",
+      "channel_handle": "inugamikorone",
+      "channel_name": "Korone Ch. 戌神ころね",
+      "published_at": "20241205",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1X4cKLmSwbg",
       "status": "unreviewed",
       "note": null
     }

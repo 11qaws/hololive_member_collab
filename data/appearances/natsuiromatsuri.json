@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1545,
+  "count": 1549,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -16994,6 +16994,50 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pUHrdigH6Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M8nW5BZOD4I",
+      "title": "【 R.E.P.O. 】フルパでハロウィンイベントだー!!!🎃【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M8nW5BZOD4I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YTj3UpmVrbs",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YTj3UpmVrbs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PMiMH0svbKY",
+      "title": "【VALORANT】再インストールしました(^o^)存在していたはずの記憶をもとにがんばります🔥【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PMiMH0svbKY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XhBSBiLT21c",
+      "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XhBSBiLT21c",
       "status": "unreviewed",
       "note": null
     }

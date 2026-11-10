@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1562,
+  "count": 1563,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17181,6 +17181,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/O3I0BcLkFGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FyNJO0aVBEc",
+      "title": "【Soul Chained】#2 鎖に繋がれて運命共同体!!!!!【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FyNJO0aVBEc",
       "status": "unreviewed",
       "note": null
     }

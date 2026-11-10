@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1669,
+  "count": 1670,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18358,6 +18358,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BYMnrRjbZAQ",
+      "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ!【#いぬたかししの怖がらせ隊/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BYMnrRjbZAQ",
       "status": "unreviewed",
       "note": null
     }

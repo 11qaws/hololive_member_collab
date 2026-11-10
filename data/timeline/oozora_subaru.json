@@ -1,7 +1,19 @@
 {
   "target": "oozora_subaru",
-  "count": 4984,
+  "count": 4985,
   "entries": [
+    {
+      "video_id": "4WUK7l5adOg",
+      "title": "【#みこスバ】【ホロライブ/さくらみこ】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/4WUK7l5adOg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4WUK7l5adOg/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "jLtxfahJsKE",
       "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
@@ -9,6 +21,30 @@
       "url": "https://youtu.be/jLtxfahJsKE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/jLtxfahJsKE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8llnciIkv8I",
+      "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
+      "published_at": "20261108",
+      "url": "https://youtu.be/8llnciIkv8I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8llnciIkv8I/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EK0Idt3nktE",
+      "title": "【#2】龍が如く維新極!やるしゅばああああああああああああああああああああああああああああああああああああ!!!!!：Like a Dragon: Ishin!【※ネタバレあり】",
+      "published_at": "20261108",
+      "url": "https://youtu.be/EK0Idt3nktE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EK0Idt3nktE/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,30 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/dCx9Wavk6fQ/mqdefault.jpg",
       "partner_handle": "houshoumarine",
       "partner_name": "Marine Ch. 宝鐘マリン hololive3期生",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "8llnciIkv8I",
-      "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ!!!!【ホロライブ/大空スバル】",
-      "published_at": "20261107",
-      "url": "https://youtu.be/8llnciIkv8I",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/8llnciIkv8I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "EK0Idt3nktE",
-      "title": "【#2】龍が如く維新極!やるしゅばああああああああああああああああああああああああああああああああああああ!!!!!：Like a Dragon: Ishin!【※ネタバレあり】",
-      "published_at": "20261107",
-      "url": "https://youtu.be/EK0Idt3nktE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/EK0Idt3nktE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

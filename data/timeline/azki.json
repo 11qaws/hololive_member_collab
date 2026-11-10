@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2855,
+  "count": 2843,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yYinXVLf5OM",
+      "title": "【GeoGuessr】日本の酷道・険道【ホロライブ / AZKi】",
+      "published_at": "20261109",
+      "url": "https://youtu.be/yYinXVLf5OM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yYinXVLf5OM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QAInlT7_uPk",
+      "title": "凄いけど怖い…【ホロライブ / AZKi】#ぷちあず #shorts #GeoGuessr #ジオゲッサー #海の日 #海の見える駅",
+      "published_at": "20261109",
+      "url": "https://youtu.be/QAInlT7_uPk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QAInlT7_uPk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -3771,30 +3795,6 @@
       "paired_self": null
     },
     {
-      "video_id": "-7cYjcTL7OE",
-      "title": "Going My Way",
-      "published_at": "20260518",
-      "url": "https://youtu.be/-7cYjcTL7OE",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "cwysw8Fzk_w",
-      "title": "Going My Way (Instrumental)",
-      "published_at": "20260518",
-      "url": "https://youtu.be/cwysw8Fzk_w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "v60QmEvEQqw",
       "title": "【オフコラボ】#AS_tar ホラゲクリアできるまで告知できません!!!!! / 悪意 Dread Neighbor【 ホロライブ / AZKi / 星街すいせい】",
       "published_at": "20260518",
@@ -3803,6 +3803,30 @@
       "thumbnail": "https://img.youtube.com/vi/v60QmEvEQqw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-7cYjcTL7OE",
+      "title": "Going My Way",
+      "published_at": "20260518",
+      "url": "https://youtu.be/-7cYjcTL7OE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-7cYjcTL7OE/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cwysw8Fzk_w",
+      "title": "Going My Way (Instrumental)",
+      "published_at": "20260518",
+      "url": "https://youtu.be/cwysw8Fzk_w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cwysw8Fzk_w/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
       "sub_entries": [],
       "paired_self": null
     },
@@ -4761,30 +4785,6 @@
       "url": "https://youtu.be/dO-3yy1xaTQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/dO-3yy1xaTQ/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "G_8hUXbVNrk",
-      "title": "黎明",
-      "published_at": "20260318",
-      "url": "https://youtu.be/G_8hUXbVNrk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/G_8hUXbVNrk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ZJyoEX5fDUk",
-      "title": "mind reader",
-      "published_at": "20260318",
-      "url": "https://youtu.be/ZJyoEX5fDUk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZJyoEX5fDUk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -9015,30 +9015,6 @@
       "paired_self": null
     },
     {
-      "video_id": "X_8bREio2zM",
-      "title": "あずいろ BESTIE DAYS",
-      "published_at": "20250917",
-      "url": "https://youtu.be/X_8bREio2zM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/X_8bREio2zM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "JapBZNyQx0w",
-      "title": "あずいろ BESTIE DAYS (Instrumental)",
-      "published_at": "20250917",
-      "url": "https://youtu.be/JapBZNyQx0w",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/JapBZNyQx0w/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "YxLE_AXMEuk",
       "title": "【#あずいろ3Dカラオケ】重大告知あり!あずいろ結成3周年!?歌うよ~~!!!【ホロライブ / AZKi / 風真いろは】",
       "published_at": "20250917",
@@ -9059,6 +9035,30 @@
       "thumbnail": "https://img.youtube.com/vi/LUDUDsPs1pI/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X_8bREio2zM",
+      "title": "あずいろ BESTIE DAYS",
+      "published_at": "20250917",
+      "url": "https://youtu.be/X_8bREio2zM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/X_8bREio2zM/mqdefault.jpg",
+      "partner_handle": "kazamairoha",
+      "partner_name": "Iroha ch. 風真いろは - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JapBZNyQx0w",
+      "title": "あずいろ BESTIE DAYS (Instrumental)",
+      "published_at": "20250917",
+      "url": "https://youtu.be/JapBZNyQx0w",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JapBZNyQx0w/mqdefault.jpg",
+      "partner_handle": "kazamairoha",
+      "partner_name": "Iroha ch. 風真いろは - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -11019,66 +11019,6 @@
       "paired_self": null
     },
     {
-      "video_id": "yn4m2be_dYU",
-      "title": "one step",
-      "published_at": "20250620",
-      "url": "https://youtu.be/yn4m2be_dYU",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/yn4m2be_dYU/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "ZyHQPErzprc",
-      "title": "With You",
-      "published_at": "20250620",
-      "url": "https://youtu.be/ZyHQPErzprc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/ZyHQPErzprc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "YVSZrEpuzEY",
-      "title": "惺LOVE",
-      "published_at": "20250620",
-      "url": "https://youtu.be/YVSZrEpuzEY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/YVSZrEpuzEY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "n8h7DWb6dkA",
-      "title": "Resolve",
-      "published_at": "20250620",
-      "url": "https://youtu.be/n8h7DWb6dkA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/n8h7DWb6dkA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "a1ZSZS-pAW0",
-      "title": "Don't Look Back",
-      "published_at": "20250620",
-      "url": "https://youtu.be/a1ZSZS-pAW0",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/a1ZSZS-pAW0/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9WNlgIryEYU",
       "title": "【STREET FIGHTER 6】はじめてのスト6!人生初のストリートファイター!【ホロライブ / AZKi】",
       "published_at": "20250619",
@@ -11727,18 +11667,6 @@
       "paired_self": null
     },
     {
-      "video_id": "l9k9kc73i4Y",
-      "title": "free one's mind (update Remix)",
-      "published_at": "20250604",
-      "url": "https://youtu.be/l9k9kc73i4Y",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/l9k9kc73i4Y/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "z60IS_CltNQ",
       "title": "vs.アンダイン【ホロライブ / AZKi】#ぷちあず #shorts #アンダーテール #undertale",
       "published_at": "20250604",
@@ -11985,30 +11913,6 @@
       "url": "https://youtu.be/wR0lfhi393M",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/wR0lfhi393M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "moeC2nutQXk",
-      "title": "free one's mind (Instrumental)",
-      "published_at": "20250520",
-      "url": "https://youtu.be/moeC2nutQXk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/moeC2nutQXk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "5l9hooPdd7A",
-      "title": "free one's mind (2025 Remaster)",
-      "published_at": "20250520",
-      "url": "https://youtu.be/5l9hooPdd7A",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5l9hooPdd7A/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -22611,30 +22515,6 @@
       "paired_self": null
     },
     {
-      "video_id": "gV8nWTDxNF8",
-      "title": "Another World",
-      "published_at": "20240104",
-      "url": "https://youtu.be/gV8nWTDxNF8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/gV8nWTDxNF8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "oukw7cd-_hc",
-      "title": "don't let go",
-      "published_at": "20240104",
-      "url": "https://youtu.be/oukw7cd-_hc",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/oukw7cd-_hc/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "9fKtT9mdb2w",
       "title": "【新年歌枠】新年のご挨拶&歌い始め!Happy New Year 2024 Singing Stream【ホロライブ / AZKi】",
       "published_at": "20240103",
@@ -26175,18 +26055,6 @@
       "paired_self": null
     },
     {
-      "video_id": "Hh3rc3P561M",
-      "title": "kiseki (Remix)",
-      "published_at": "20230514",
-      "url": "https://youtu.be/Hh3rc3P561M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Hh3rc3P561M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "RwU3iquAJQQ",
       "title": "【お絵描き】ついに明かされる…!開拓者の姿!?Drawing Stream【ホロライブ / AZKi】",
       "published_at": "20230514",
@@ -27225,18 +27093,6 @@
       "url": "https://youtu.be/hTcri9RH-98",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hTcri9RH-98/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "fFRV9_Sn5DI",
-      "title": "chasing dreams (A-Kit mix)",
-      "published_at": "20221220",
-      "url": "https://youtu.be/fFRV9_Sn5DI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/fFRV9_Sn5DI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

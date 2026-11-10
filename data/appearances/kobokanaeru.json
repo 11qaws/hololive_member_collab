@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 848,
+  "count": 849,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9327,6 +9327,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rjHDuESZLFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "d00W-TVA01U",
+      "title": "【Solo Shift! Karaoke】iya iya #bozet 👩‍🍳🍳",
+      "channel_handle": "vestia_zeta",
+      "channel_name": "Vestia Zeta Ch. hololive",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/d00W-TVA01U",
       "status": "unreviewed",
       "note": null
     }

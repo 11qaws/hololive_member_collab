@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1125,
+  "count": 1129,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12374,6 +12374,50 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/BXafvmQoFZQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-7cYjcTL7OE",
+      "title": "Going My Way",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260518",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-7cYjcTL7OE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cwysw8Fzk_w",
+      "title": "Going My Way (Instrumental)",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20260518",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cwysw8Fzk_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "X_8bREio2zM",
+      "title": "あずいろ BESTIE DAYS",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20250917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/X_8bREio2zM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JapBZNyQx0w",
+      "title": "あずいろ BESTIE DAYS (Instrumental)",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20250917",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JapBZNyQx0w",
       "status": "unreviewed",
       "note": null
     }

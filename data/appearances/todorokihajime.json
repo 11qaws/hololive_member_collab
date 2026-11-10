@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1315,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14464,6 +14464,39 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cj2V97x8kCE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "M8nW5BZOD4I",
+      "title": "【 R.E.P.O. 】フルパでハロウィンイベントだー!!!🎃【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/M8nW5BZOD4I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "mwrHpbDojIM",
+      "title": "【R.E.P.O.】フルパきちゃ~!!#ホロREPO【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/mwrHpbDojIM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YTj3UpmVrbs",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YTj3UpmVrbs",
       "status": "unreviewed",
       "note": null
     }

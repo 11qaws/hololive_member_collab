@@ -1,7 +1,19 @@
 {
   "target": "isakiriona",
-  "count": 2273,
+  "count": 2280,
   "entries": [
+    {
+      "video_id": "S0sVsWiJTcs",
+      "title": "「NO BORDER,TAKE OVER.」3D Live",
+      "published_at": "20270320",
+      "url": "https://youtu.be/S0sVsWiJTcs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/S0sVsWiJTcs/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1izBd_B1_Ld",
       "title": "hololive RECORDS MUSIC STAGE 2027 DAY 2",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ML-gaU1QP2o",
+      "title": "【絨毯を洗うゲーム】久々のチルゲー🎵絨毯洗うど!【ホロライブ  響咲リオナ】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/ML-gaU1QP2o",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ML-gaU1QP2o/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9ca-hA2w6s0",
+      "title": "二周年お疲れ様会❤",
+      "published_at": "20261109",
+      "url": "https://youtu.be/9ca-hA2w6s0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9ca-hA2w6s0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,12 +75,60 @@
       "paired_self": null
     },
     {
+      "video_id": "16ntsLkkcQ4",
+      "title": "BOUNCE BACK! (Instrumental)",
+      "published_at": "20261109",
+      "url": "https://youtu.be/16ntsLkkcQ4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/16ntsLkkcQ4/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Fv8ijeYqTS8",
+      "title": "BOUNCE BACK!",
+      "published_at": "20261109",
+      "url": "https://youtu.be/Fv8ijeYqTS8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Fv8ijeYqTS8/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Mfcj1AdnzhQ",
+      "title": "FLOW GLOW / BOUNCE BACK!【Official Music Video】",
+      "published_at": "20261109",
+      "url": "https://youtu.be/Mfcj1AdnzhQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Mfcj1AdnzhQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "xQW2LqlLblQ",
       "title": "2周年カウントダウン",
       "published_at": "20261108",
       "url": "https://youtu.be/xQW2LqlLblQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/xQW2LqlLblQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5snx9ftx_vk",
+      "title": "【 #ホロARK 】LAST!ARK★トライブメンバーでボス戦!【ホロライブ  響咲リオナ】",
+      "published_at": "20261108",
+      "url": "https://youtu.be/5snx9ftx_vk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5snx9ftx_vk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -71,18 +155,6 @@
       "thumbnail": "https://img.youtube.com/vi/B_e9L3zpgpk/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "5snx9ftx_vk",
-      "title": "【 #ホロARK 】LAST!ARK★トライブメンバーでボス戦!【ホロライブ  響咲リオナ】",
-      "published_at": "20261107",
-      "url": "https://youtu.be/5snx9ftx_vk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5snx9ftx_vk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -165,6 +237,18 @@
       "url": "https://youtu.be/6kO5HJKQ8GI",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/6kO5HJKQ8GI/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y4DLWUtPsYM",
+      "title": "【#FG2周年 アンコール&アフタートーク】感動の余韻そのままに…2周年配信の裏側、5人で語り尽くします!",
+      "published_at": "20261106",
+      "url": "https://youtu.be/Y4DLWUtPsYM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Y4DLWUtPsYM/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],

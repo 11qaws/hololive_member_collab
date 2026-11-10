@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 955,
+  "count": 956,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10504,6 +10504,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Hm4u9QWHXCs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pcmJoVYzV00",
+      "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pcmJoVYzV00",
       "status": "unreviewed",
       "note": null
     }

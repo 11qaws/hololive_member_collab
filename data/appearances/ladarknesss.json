@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1081,
+  "count": 1084,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11890,6 +11890,39 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tT3AIXi7KMw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lbi8UiWi4zs",
+      "title": "【VALORANT】この中で一番初心者だったりします✌【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lbi8UiWi4zs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PMiMH0svbKY",
+      "title": "【VALORANT】再インストールしました(^o^)存在していたはずの記憶をもとにがんばります🔥【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PMiMH0svbKY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "XhBSBiLT21c",
+      "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/XhBSBiLT21c",
       "status": "unreviewed",
       "note": null
     }
