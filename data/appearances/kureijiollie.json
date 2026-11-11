@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1502,
+  "count": 1504,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16521,6 +16521,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kHR3VjaW4bA",
+      "title": "【BOMBANANA!】HOLORO SWEEP, NO EXPLOSION GUARANTEED【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kHR3VjaW4bA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wf0Re4u84vk",
+      "title": "【BOMBANANA!】Holoro Monkey Business 3【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wf0Re4u84vk",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 946,
+  "count": 947,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10405,6 +10405,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FYzxO5awzsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "B2z0dcm_YfM",
+      "title": "【#ポッキーの日にReGLOSS】勝つのは誰だ!心・技・体3つのゲームで対決!",
+      "channel_handle": "hololivedev_is",
+      "channel_name": "hololive ReGLOSS",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/B2z0dcm_YfM",
       "status": "unreviewed",
       "note": null
     }

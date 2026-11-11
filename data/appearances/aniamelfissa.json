@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1532,
+  "count": 1535,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16851,6 +16851,39 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Eo-KYLCU10g",
+      "title": "【BOMBANANA!】 HOLORO BUT AIRPLANE MODE!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Eo-KYLCU10g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wf0Re4u84vk",
+      "title": "【BOMBANANA!】Holoro Monkey Business 3【Pavolia Reine/hololive】",
+      "channel_handle": "pavoliareine",
+      "channel_name": "Pavolia Reine Ch. hololive",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wf0Re4u84vk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qPmmRBA9yHE",
+      "title": "【凸待ち】重大告知あり!㊗️2周年突発凸待ち!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qPmmRBA9yHE",
       "status": "unreviewed",
       "note": null
     }

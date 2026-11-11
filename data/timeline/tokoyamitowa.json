@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3862,
+  "count": 3863,
   "entries": [
     {
       "video_id": "LEyISnCpXEe",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Yt1ksPD19UU",
+      "title": "【 STREET FIGHTER 6 】立川さんに5勝ボコボコしたら告知スル!【常闇トワ/ホロライブ】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/Yt1ksPD19UU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Yt1ksPD19UU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

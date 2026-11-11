@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1518,
+  "count": 1519,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16697,6 +16697,17 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DGokr-B4Qbc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yGUKrsTIrXI",
+      "title": "Charging with aura💯💯 #prank #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yGUKrsTIrXI",
       "status": "unreviewed",
       "note": null
     }

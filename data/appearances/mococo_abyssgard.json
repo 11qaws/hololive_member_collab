@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1248,
+  "count": 1249,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13727,6 +13727,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pUHrdigH6Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "296b1BhtOnH",
+      "title": "-Advent- Sunset Summit",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/296b1BhtOnH",
       "status": "unreviewed",
       "note": null
     }

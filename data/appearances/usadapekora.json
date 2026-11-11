@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1687,
+  "count": 1688,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18556,6 +18556,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/dCx9Wavk6fQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2c2qahpayxk",
+      "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2c2qahpayxk",
       "status": "unreviewed",
       "note": null
     }

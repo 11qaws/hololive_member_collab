@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 956,
+  "count": 957,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10515,6 +10515,17 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pcmJoVYzV00",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vUHQR-Klh86",
+      "title": "forcing her to play this cause it bday week",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vUHQR-Klh86",
       "status": "unreviewed",
       "note": null
     }

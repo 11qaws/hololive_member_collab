@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 2080,
+  "count": 2081,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "I-gZeuWTNsg",
+      "title": "44th Annual Golden Joystick Awards (2026)",
+      "published_at": "20261111",
+      "url": "https://youtu.be/I-gZeuWTNsg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/I-gZeuWTNsg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

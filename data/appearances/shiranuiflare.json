@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1625,
+  "count": 1627,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17874,6 +17874,28 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YTj3UpmVrbs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ylu_LekLETs",
+      "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ylu_LekLETs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U6DYgg1GQ-8",
+      "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U6DYgg1GQ-8",
       "status": "unreviewed",
       "note": null
     }

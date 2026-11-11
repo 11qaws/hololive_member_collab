@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 825,
+  "count": 829,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9074,6 +9074,50 @@
       "published_at": "20261107",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pcmJoVYzV00",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DDCAb5WP_HN",
+      "title": "i think i'm being forced to play for her bday",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DDCAb5WP_HN",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2c2qahpayxk",
+      "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2c2qahpayxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tNpNejI5B0Q",
+      "title": "【DEADLOCK】MORE DEADLOCK MORE DEADLOCK MORE DEADLOCK @HyakutoKyoko​",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tNpNejI5B0Q",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yGUKrsTIrXI",
+      "title": "Charging with aura💯💯 #prank #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yGUKrsTIrXI",
       "status": "unreviewed",
       "note": null
     }

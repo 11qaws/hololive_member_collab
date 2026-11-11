@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1391,
+  "count": 1393,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15300,6 +15300,28 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y4DLWUtPsYM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2c2qahpayxk",
+      "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2c2qahpayxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z-XlvaWKoDU",
+      "title": "Errybody 暴れ出せvolcano📈🚀",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z-XlvaWKoDU",
       "status": "unreviewed",
       "note": null
     }

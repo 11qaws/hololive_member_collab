@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1312,
+  "count": 1317,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14431,6 +14431,61 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Y4DLWUtPsYM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ylu_LekLETs",
+      "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ylu_LekLETs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U6DYgg1GQ-8",
+      "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる!【音乃瀬奏】#ReGLOSS",
+      "channel_handle": "otonosekanade",
+      "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U6DYgg1GQ-8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "viDZKzmJiwo",
+      "title": "【REPO】ハロウィンと新アプデみんなで稼ぐ🎃 【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/viDZKzmJiwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qPmmRBA9yHE",
+      "title": "【凸待ち】重大告知あり!㊗️2周年突発凸待ち!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qPmmRBA9yHE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z-XlvaWKoDU",
+      "title": "Errybody 暴れ出せvolcano📈🚀",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z-XlvaWKoDU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 839,
+  "count": 841,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9228,6 +9228,28 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/DGokr-B4Qbc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LamvKoqWVsk",
+      "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LamvKoqWVsk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2c2qahpayxk",
+      "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2c2qahpayxk",
       "status": "unreviewed",
       "note": null
     }

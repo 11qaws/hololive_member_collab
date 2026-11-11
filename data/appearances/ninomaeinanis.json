@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1169,
+  "count": 1170,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12858,6 +12858,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/D4hu48ehy3c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Iltx3wc2XnA",
+      "title": "WORLDS FINALS COSTREAM also taking bets if ina wakes up",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Iltx3wc2XnA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1288,
+  "count": 1289,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14167,6 +14167,17 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SkkgeNSZs_k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yGUKrsTIrXI",
+      "title": "Charging with aura💯💯 #prank #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yGUKrsTIrXI",
       "status": "unreviewed",
       "note": null
     }

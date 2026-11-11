@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 2536,
+  "count": 2538,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/RUB0bEwTJeL/mqdefault.jpg",
       "partner_handle": "hololivedev_is",
       "partner_name": "hololive ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CRHu7BtBQ6U",
+      "title": "タップダンス前にドカ食いするばんちょー【轟はじめ】 #shorts  #vtuber",
+      "published_at": "20261111",
+      "url": "https://youtu.be/CRHu7BtBQ6U",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CRHu7BtBQ6U/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -71,6 +83,18 @@
       "thumbnail": "https://img.youtube.com/vi/YTj3UpmVrbs/mqdefault.jpg",
       "partner_handle": "mizumiya_su",
       "partner_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "B2z0dcm_YfM",
+      "title": "【#ポッキーの日にReGLOSS】勝つのは誰だ!心・技・体3つのゲームで対決!",
+      "published_at": "20261109",
+      "url": "https://youtu.be/B2z0dcm_YfM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/B2z0dcm_YfM/mqdefault.jpg",
+      "partner_handle": "hololivedev_is",
+      "partner_name": "hololive ReGLOSS",
       "sub_entries": [],
       "paired_self": null
     },

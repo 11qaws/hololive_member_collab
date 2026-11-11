@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2608,
+  "count": 2609,
   "entries": [
+    {
+      "video_id": "296b1BhtOnH",
+      "title": "-Advent- Sunset Summit",
+      "published_at": "20261113",
+      "url": "https://youtu.be/296b1BhtOnH",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/296b1BhtOnH/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "hwRDqS5YND4",
       "title": "【SOUL CHAINED】WE ARE PASSION",
@@ -9,6 +21,18 @@
       "url": "https://youtu.be/hwRDqS5YND4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hwRDqS5YND4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "X2guMrZF6_M",
+      "title": "【PEAK】Showing my kouhai what peak looks like",
+      "published_at": "20261109",
+      "url": "https://youtu.be/X2guMrZF6_M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/X2guMrZF6_M/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -23,18 +47,6 @@
       "thumbnail": "https://img.youtube.com/vi/FyNJO0aVBEc/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "X2guMrZF6_M",
-      "title": "【PEAK】Showing my kouhai what peak looks like",
-      "published_at": "20261108",
-      "url": "https://youtu.be/X2guMrZF6_M",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/X2guMrZF6_M/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
