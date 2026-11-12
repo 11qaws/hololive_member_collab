@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1768,
+  "count": 1769,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19447,6 +19447,17 @@
       "published_at": "20261105",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ShQEwCHd838",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RyumNFImeWU",
+      "title": "【#スバおか】戦国時代サバイバルシュミレーター【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261110",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RyumNFImeWU",
       "status": "unreviewed",
       "note": null
     }

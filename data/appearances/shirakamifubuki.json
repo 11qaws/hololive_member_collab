@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3550,
+  "count": 3551,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39049,6 +39049,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pUHrdigH6Y0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6l6fWAFhEJs",
+      "title": "【重大発表あり】いろはにほへっと 3人の絆を試せ!【#あやふぶみ三位一体クイズ】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6l6fWAFhEJs",
       "status": "unreviewed",
       "note": null
     }

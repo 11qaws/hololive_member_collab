@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1519,
+  "count": 1520,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16708,6 +16708,17 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yGUKrsTIrXI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TZro-823L38",
+      "title": "Winds of Change | Shattered Legends | Episode 1",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261103",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TZro-823L38",
       "status": "unreviewed",
       "note": null
     }

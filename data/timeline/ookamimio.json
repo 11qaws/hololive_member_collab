@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 4191,
+  "count": 4192,
   "entries": [
     {
       "video_id": "V46fDZ87LFc",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/ztic5ij8o48/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6l6fWAFhEJs",
+      "title": "【重大発表あり】いろはにほへっと 3人の絆を試せ!【#あやふぶみ三位一体クイズ】",
+      "published_at": "20261106",
+      "url": "https://youtu.be/6l6fWAFhEJs",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6l6fWAFhEJs/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

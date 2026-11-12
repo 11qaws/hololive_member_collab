@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1450,
+  "count": 1451,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15949,6 +15949,17 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/z-XlvaWKoDU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1AJ0Wfc5NmY",
+      "title": "Bounce back! 🎤✨Bounce bounce bounce bounce",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1AJ0Wfc5NmY",
       "status": "unreviewed",
       "note": null
     }

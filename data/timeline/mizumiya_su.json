@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 2586,
+  "count": 2591,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -23,6 +23,66 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "phk77t6kryk",
+      "title": "Deep Dive/轟はじめ #vtuber #hololive #dance",
+      "published_at": "20261112",
+      "url": "https://youtu.be/phk77t6kryk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/phk77t6kryk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "AJvIXTM9tWg",
+      "title": "Deep Dive/轟はじめ #vtuber #hololive #dance",
+      "published_at": "20261112",
+      "url": "https://youtu.be/AJvIXTM9tWg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/AJvIXTM9tWg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Q94508R1j1M",
+      "title": "【単発予定】サムネ変更前枠予定地【水宮枢/ホロライブ】",
+      "published_at": "20261111",
+      "url": "https://youtu.be/Q94508R1j1M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Q94508R1j1M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9gdvR4Sohvc",
+      "title": "ステップシーン/UNDEAD#vtuber #hololive #dance",
+      "published_at": "20261111",
+      "url": "https://youtu.be/9gdvR4Sohvc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9gdvR4Sohvc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1AJ0Wfc5NmY",
+      "title": "Bounce back! 🎤✨Bounce bounce bounce bounce",
+      "published_at": "20261111",
+      "url": "https://youtu.be/1AJ0Wfc5NmY",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/1AJ0Wfc5NmY/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

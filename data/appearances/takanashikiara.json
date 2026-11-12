@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1135,
+  "count": 1136,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12484,6 +12484,17 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Bx1TUxeaoS4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GuYatpdd9N0",
+      "title": "SLAYING WITH KIARA🔥#아이리제 #IRISÉ #TRAUMA #트라우마 #트라우마챌린지 #TRAUMAChallenge",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GuYatpdd9N0",
       "status": "unreviewed",
       "note": null
     }

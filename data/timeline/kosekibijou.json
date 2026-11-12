@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2609,
+  "count": 2611,
   "entries": [
     {
       "video_id": "296b1BhtOnH",
@@ -15,9 +15,33 @@
       "paired_self": null
     },
     {
+      "video_id": "BuWqK7b2llg",
+      "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
+      "published_at": "20261111",
+      "url": "https://youtu.be/BuWqK7b2llg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BuWqK7b2llg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zdRBTgdgmKA",
+      "title": "You can call me 'UNCLE'【Sunset Summit】",
+      "published_at": "20261111",
+      "url": "https://youtu.be/zdRBTgdgmKA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zdRBTgdgmKA/mqdefault.jpg",
+      "partner_handle": "shiorinovella",
+      "partner_name": "Shiori Novella Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "hwRDqS5YND4",
       "title": "【SOUL CHAINED】WE ARE PASSION",
-      "published_at": "20261109",
+      "published_at": "20261110",
       "url": "https://youtu.be/hwRDqS5YND4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/hwRDqS5YND4/mqdefault.jpg",

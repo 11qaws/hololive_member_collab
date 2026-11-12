@@ -1,7 +1,31 @@
 {
   "target": "nekomataokayu",
-  "count": 4109,
+  "count": 4112,
   "entries": [
+    {
+      "video_id": "qwY4M_HC98s",
+      "title": "#スバおか 戦国時代に行くってよ",
+      "published_at": "20261111",
+      "url": "https://youtu.be/qwY4M_HC98s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qwY4M_HC98s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hufZWSOmg5g",
+      "title": "ありがとうございました✦",
+      "published_at": "20261111",
+      "url": "https://youtu.be/hufZWSOmg5g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hufZWSOmg5g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "2c2qahpayxk",
       "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
@@ -11,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/2c2qahpayxk/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "RyumNFImeWU",
+      "title": "【#スバおか】戦国時代サバイバルシュミレーター【ホロライブ/大空スバル】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/RyumNFImeWU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/RyumNFImeWU/mqdefault.jpg",
+      "partner_handle": "oozora_subaru",
+      "partner_name": "Subaru Ch. 大空スバル",
       "sub_entries": [],
       "paired_self": null
     },

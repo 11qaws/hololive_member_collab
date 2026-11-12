@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1564,
+  "count": 1565,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17203,6 +17203,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/296b1BhtOnH",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zdRBTgdgmKA",
+      "title": "You can call me 'UNCLE'【Sunset Summit】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zdRBTgdgmKA",
       "status": "unreviewed",
       "note": null
     }

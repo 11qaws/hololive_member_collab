@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1129,
+  "count": 1130,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12418,6 +12418,17 @@
       "published_at": "20250917",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/JapBZNyQx0w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oqUw6pjYIRw",
+      "title": "推したら引けない恋でした💗 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #推し恋 #KoZMy",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oqUw6pjYIRw",
       "status": "unreviewed",
       "note": null
     }

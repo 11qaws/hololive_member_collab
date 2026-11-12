@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1170,
+  "count": 1171,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12869,6 +12869,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Iltx3wc2XnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EGyR-p-dwc4",
+      "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EGyR-p-dwc4",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "fuwawa_abyssgard",
-  "count": 1251,
+  "count": 1253,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -13760,6 +13760,28 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/296b1BhtOnH",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zdRBTgdgmKA",
+      "title": "You can call me 'UNCLE'【Sunset Summit】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zdRBTgdgmKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MK1Z4o8yoaA",
+      "title": "原作にいないアニオリの妹が出てくる回 #存在しない架空のアニメ #フワモコ #fuwamoco #学園モノ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MK1Z4o8yoaA",
       "status": "unreviewed",
       "note": null
     }
