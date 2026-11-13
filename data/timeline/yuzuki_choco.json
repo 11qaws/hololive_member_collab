@@ -1,7 +1,31 @@
 {
   "target": "yuzuki_choco",
-  "count": 3202,
+  "count": 3205,
   "entries": [
+    {
+      "video_id": "GImIw_LzGx0",
+      "title": "【original】サウダーデ/癒月ちょこ【ホロライブ】",
+      "published_at": "20261113",
+      "url": "https://youtu.be/GImIw_LzGx0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/GImIw_LzGx0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Oq1XCdsXXNc",
+      "title": "最初はキュン!踊ってみた#踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts",
+      "published_at": "20261113",
+      "url": "https://youtu.be/Oq1XCdsXXNc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Oq1XCdsXXNc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "0rDJM6Vo3RM",
       "title": "ロミオとシンデレラ踊ってみた#踊ってみた #癒月ちょこ #vtuber #hololive #dance #shorts",
@@ -11,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/0rDJM6Vo3RM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "published_at": "20261112",
+      "url": "https://youtu.be/qL9LbE5oKj0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qL9LbE5oKj0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

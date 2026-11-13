@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1565,
+  "count": 1567,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17214,6 +17214,28 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zdRBTgdgmKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H6VK2m70bns",
+      "title": "【SUNSET SUMMIT COLLAB】what waits for us at the top of the summit? 🐾  #holoAdvent 【FUWAWA SOLO】",
+      "channel_handle": "fuwawa_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H6VK2m70bns",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pj8-ZLo5uTY",
+      "title": "Advent's back at it again! | Sunset Summit",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pj8-ZLo5uTY",
       "status": "unreviewed",
       "note": null
     }

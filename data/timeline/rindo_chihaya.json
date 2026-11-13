@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2346,
+  "count": 2349,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8QqmuUHhKcI",
+      "title": "【わちゃわちゃ学園祭】わちゃわちゃ見る枠【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261113",
+      "url": "https://youtu.be/8QqmuUHhKcI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8QqmuUHhKcI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "published_at": "20261112",
+      "url": "https://youtu.be/qL9LbE5oKj0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/qL9LbE5oKj0/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Cg4yJRgjKKM",
+      "title": "【3Dコラボ】ちはヴィヴィでガチバトル!Nintendo Switch Sports Resort【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
+      "published_at": "20261112",
+      "url": "https://youtu.be/Cg4yJRgjKKM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Cg4yJRgjKKM/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -63,6 +99,18 @@
       "paired_self": null
     },
     {
+      "video_id": "bd5nR7lYsU8",
+      "title": "【同時視聴会】新作映画直前!映画『楽園追放』莉々華先輩と一緒に見よう!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261110",
+      "url": "https://youtu.be/bd5nR7lYsU8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/bd5nR7lYsU8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "FyNJO0aVBEc",
       "title": "【Soul Chained】#2 鎖に繋がれて運命共同体!!!!!【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
       "published_at": "20261110",
@@ -95,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/z-XlvaWKoDU/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "bd5nR7lYsU8",
-      "title": "【同時視聴会】新作映画直前!映画『楽園追放』莉々華先輩と一緒に見よう!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published_at": "20261109",
-      "url": "https://youtu.be/bd5nR7lYsU8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/bd5nR7lYsU8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1289,
+  "count": 1292,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14178,6 +14178,39 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yGUKrsTIrXI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rAeecnLpwqw",
+      "title": "HEADHSHOT / HAKOS BAELZ べーちゃんと一緒に踊ってみた!#AZKi #ホロライブ #hololive #shorts #HEADHSHOT #hakosbaelz",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rAeecnLpwqw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UX4Ps6FshsI",
+      "title": "LET'S DANCE WITH BAE!!! #HEADSHOT  #vtuber",
+      "channel_handle": "holoen_raorapanthera",
+      "channel_name": "Raora Panthera Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UX4Ps6FshsI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4NKAqzsMSWk",
+      "title": "We're aimed at you!! #HEADSHOT #dance #hololive #vtuber #envtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4NKAqzsMSWk",
       "status": "unreviewed",
       "note": null
     }

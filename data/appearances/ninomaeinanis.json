@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1171,
+  "count": 1172,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12880,6 +12880,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EGyR-p-dwc4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
       "status": "unreviewed",
       "note": null
     }

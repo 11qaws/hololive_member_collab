@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1535,
+  "count": 1538,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16884,6 +16884,39 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qPmmRBA9yHE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "haXn0kVN9uo",
+      "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/haXn0kVN9uo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P0Kkuvovr04",
+      "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P0Kkuvovr04",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YZh1vbE9mHU",
+      "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです!ﾄﾞｷﾄﾞｷ...!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YZh1vbE9mHU",
       "status": "unreviewed",
       "note": null
     }

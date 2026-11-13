@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1070,
+  "count": 1071,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11769,6 +11769,17 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-Hat1gYDP7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qL9LbE5oKj0",
       "status": "unreviewed",
       "note": null
     }

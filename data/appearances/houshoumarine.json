@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1718,
+  "count": 1719,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18897,6 +18897,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/M1eInTBTOYM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Qa0tYHMs5BU",
+      "title": "モニタリング",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Qa0tYHMs5BU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1350,
+  "count": 1352,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14849,6 +14849,28 @@
       "published_at": "20261104",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ccu5HnPptWA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qL9LbE5oKj0",
       "status": "unreviewed",
       "note": null
     }

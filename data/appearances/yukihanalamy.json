@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1408,
+  "count": 1410,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15487,6 +15487,28 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oqUw6pjYIRw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jLeGubsh1rk",
+      "title": "胸枕、最高!!!【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261107",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jLeGubsh1rk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qL9LbE5oKj0",
       "status": "unreviewed",
       "note": null
     }

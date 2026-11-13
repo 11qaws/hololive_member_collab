@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1251,
+  "count": 1253,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13760,6 +13760,28 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/MK1Z4o8yoaA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6Y44pwznOBc",
+      "title": "【SUNSET SUMMIT】ADVENT ON TOP",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6Y44pwznOBc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Pj8-ZLo5uTY",
+      "title": "Advent's back at it again! | Sunset Summit",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Pj8-ZLo5uTY",
       "status": "unreviewed",
       "note": null
     }

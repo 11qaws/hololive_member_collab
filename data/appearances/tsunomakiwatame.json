@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1877,
+  "count": 1880,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20646,6 +20646,39 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qPmmRBA9yHE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "haXn0kVN9uo",
+      "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/haXn0kVN9uo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P0Kkuvovr04",
+      "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P0Kkuvovr04",
       "status": "unreviewed",
       "note": null
     }

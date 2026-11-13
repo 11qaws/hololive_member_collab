@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1516,
+  "count": 1517,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16675,6 +16675,17 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/B2z0dcm_YfM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qL9LbE5oKj0",
       "status": "unreviewed",
       "note": null
     }

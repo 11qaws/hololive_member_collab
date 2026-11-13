@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 850,
+  "count": 851,
   "appearances": [
     {
       "video_id": "B8vLpzLFK-Q",
@@ -9349,6 +9349,17 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J3ewkJ-wcpg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1146,
+  "count": 1150,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12605,6 +12605,50 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/zdRBTgdgmKA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "VqkiTQbWk0c",
+      "title": "≪OFF-COLLAB KARAOKE・歌枠≫ just two gals singing some anisongs + ANNOUNCEMENT! #RoadToREGALIA",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/VqkiTQbWk0c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6Y44pwznOBc",
+      "title": "【SUNSET SUMMIT】ADVENT ON TOP",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6Y44pwznOBc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H6VK2m70bns",
+      "title": "【SUNSET SUMMIT COLLAB】what waits for us at the top of the summit? 🐾  #holoAdvent 【FUWAWA SOLO】",
+      "channel_handle": "fuwawa_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H6VK2m70bns",
       "status": "unreviewed",
       "note": null
     }

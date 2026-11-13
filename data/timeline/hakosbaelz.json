@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 2835,
+  "count": 2841,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,78 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "VqkiTQbWk0c",
+      "title": "≪OFF-COLLAB KARAOKE・歌枠≫ just two gals singing some anisongs + ANNOUNCEMENT! #RoadToREGALIA",
+      "published_at": "20261112",
+      "url": "https://youtu.be/VqkiTQbWk0c",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/VqkiTQbWk0c/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A_mH8BzbqYY",
+      "title": "≪Yakuza 7: Like a Dragon≫ THE EYEBROWS ARE DIFFERENT...First Playthrough #10【SPOILER WARNING】",
+      "published_at": "20261112",
+      "url": "https://youtu.be/A_mH8BzbqYY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A_mH8BzbqYY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "P-fdVPfHOIM",
+      "title": "≪Ring Fit Adventure≫ Defeating Dragaux to save REGALIA! #RoadToREGALIA",
+      "published_at": "20261112",
+      "url": "https://youtu.be/P-fdVPfHOIM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P-fdVPfHOIM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rAeecnLpwqw",
+      "title": "HEADHSHOT / HAKOS BAELZ べーちゃんと一緒に踊ってみた!#AZKi #ホロライブ #hololive #shorts #HEADHSHOT #hakosbaelz",
+      "published_at": "20261112",
+      "url": "https://youtu.be/rAeecnLpwqw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/rAeecnLpwqw/mqdefault.jpg",
+      "partner_handle": "azki",
+      "partner_name": "AZKi Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UX4Ps6FshsI",
+      "title": "LET'S DANCE WITH BAE!!! #HEADSHOT  #vtuber",
+      "published_at": "20261112",
+      "url": "https://youtu.be/UX4Ps6FshsI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UX4Ps6FshsI/mqdefault.jpg",
+      "partner_handle": "holoen_raorapanthera",
+      "partner_name": "Raora Panthera Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "4NKAqzsMSWk",
+      "title": "We're aimed at you!! #HEADSHOT #dance #hololive #vtuber #envtuber",
+      "published_at": "20261112",
+      "url": "https://youtu.be/4NKAqzsMSWk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/4NKAqzsMSWk/mqdefault.jpg",
+      "partner_handle": "moricalliope",
+      "partner_name": "Mori Calliope Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

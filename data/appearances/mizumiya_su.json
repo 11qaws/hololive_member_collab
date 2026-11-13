@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1318,
+  "count": 1322,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14497,6 +14497,50 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1AJ0Wfc5NmY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "D1O7D1qyqEA",
+      "title": "【Meccha Chameleon】BIG CHAMELEON COLLAB! みんなとめっちゃカメレオン!【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/D1O7D1qyqEA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "P0Kkuvovr04",
+      "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
+      "channel_handle": "kureijiollie",
+      "channel_name": "Kureiji Ollie Ch. hololive",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/P0Kkuvovr04",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YZh1vbE9mHU",
+      "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです!ﾄﾞｷﾄﾞｷ...!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YZh1vbE9mHU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qL9LbE5oKj0",
+      "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qL9LbE5oKj0",
       "status": "unreviewed",
       "note": null
     }

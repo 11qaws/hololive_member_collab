@@ -1,6 +1,6 @@
 {
   "target": "kureijiollie",
-  "count": 1504,
+  "count": 1506,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -16543,6 +16543,28 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wf0Re4u84vk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "haXn0kVN9uo",
+      "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/haXn0kVN9uo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YZh1vbE9mHU",
+      "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです!ﾄﾞｷﾄﾞｷ...!!!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YZh1vbE9mHU",
       "status": "unreviewed",
       "note": null
     }
