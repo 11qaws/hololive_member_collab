@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1077,
+  "count": 1078,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11846,6 +11846,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2Kh239jxevA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WAjSKMiBysk",
+      "title": "【コント】君もこのアプリで伝説のレジマシーンになろう!! #ホロじゃん #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WAjSKMiBysk",
       "status": "unreviewed",
       "note": null
     }

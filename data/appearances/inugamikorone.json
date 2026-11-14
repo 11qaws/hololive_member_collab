@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1153,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12682,6 +12682,17 @@
       "published_at": "20220102",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C2su6xWnZ7c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Mfa13xlRqYw",
+      "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Mfa13xlRqYw",
       "status": "unreviewed",
       "note": null
     }

@@ -1,7 +1,55 @@
 {
   "target": "hololive",
-  "count": 2864,
+  "count": 2869,
   "entries": [
+    {
+      "video_id": "K8bLq2XDevc",
+      "title": "極楽ごきげん縁日和 (Instrumental)",
+      "published_at": "20261113",
+      "url": "https://youtu.be/K8bLq2XDevc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/K8bLq2XDevc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hI7W5ngWOLE",
+      "title": "極楽ごきげん縁日和",
+      "published_at": "20261113",
+      "url": "https://youtu.be/hI7W5ngWOLE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hI7W5ngWOLE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tzJm1yDe-YU",
+      "title": "【MV】極楽ごきげん縁日和 / いろはにほへっと あやふぶみ【 #いろはにほへっとあやふぶみ 】",
+      "published_at": "20261113",
+      "url": "https://youtu.be/tzJm1yDe-YU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tzJm1yDe-YU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "WAjSKMiBysk",
+      "title": "【コント】君もこのアプリで伝説のレジマシーンになろう!! #ホロじゃん #hololive #ホロライブ",
+      "published_at": "20261113",
+      "url": "https://youtu.be/WAjSKMiBysk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/WAjSKMiBysk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "qL9LbE5oKj0",
       "title": "【新ボイス】あなたへの想いを書き綴る幸せな時間",
@@ -10355,6 +10403,18 @@
       "thumbnail": "https://img.youtube.com/vi/PtP_zr5yHhQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kd2VOrGvz7U",
+      "title": "【 #BIG3 】中身は何かな!?BIG3で闇タコパ!!!【大空スバル・白銀ノエル・ 雪花ラミィ /ホロライブ】",
+      "published_at": "20250108",
+      "url": "https://youtu.be/Kd2VOrGvz7U",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Kd2VOrGvz7U/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
       "sub_entries": [],
       "paired_self": null
     },

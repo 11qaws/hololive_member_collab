@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 193,
+  "count": 194,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2122,6 +2122,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/n6YjcXt4Bxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kd2VOrGvz7U",
+      "title": "【 #BIG3 】中身は何かな!?BIG3で闇タコパ!!!【大空スバル・白銀ノエル・ 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20250108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kd2VOrGvz7U",
       "status": "unreviewed",
       "note": null
     }

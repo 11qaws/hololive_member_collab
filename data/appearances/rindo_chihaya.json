@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1453,
+  "count": 1454,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15982,6 +15982,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Cg4yJRgjKKM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZbkCVeaPoc8",
+      "title": "夜の踊り子ミーム #vtuber #ホロライブ",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZbkCVeaPoc8",
       "status": "unreviewed",
       "note": null
     }

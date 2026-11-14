@@ -1,7 +1,19 @@
 {
   "target": "yukihanalamy",
-  "count": 3424,
+  "count": 3427,
   "entries": [
+    {
+      "video_id": "Mj_V7G27VvA",
+      "title": "【晩酌】生誕前夜祭!!誕生日カウントダウン!!【​雪花ラミィ /ホロライブ】",
+      "published_at": "20261113",
+      "url": "https://youtu.be/Mj_V7G27VvA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Mj_V7G27VvA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "1yEvpTM1GGk",
       "title": "【夜雑談】告知あり!!今年の生誕、アレやります【​雪花ラミィ /ホロライブ】",
@@ -23,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/qL9LbE5oKj0/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "xTjkcJjjw3w",
+      "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
+      "published_at": "20261111",
+      "url": "https://youtu.be/xTjkcJjjw3w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/xTjkcJjjw3w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pnIli_xfMzc",
+      "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり!!【 雪花ラミィ /ホロライブ】",
+      "published_at": "20261111",
+      "url": "https://youtu.be/pnIli_xfMzc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/pnIli_xfMzc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

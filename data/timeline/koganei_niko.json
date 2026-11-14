@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1798,
+  "count": 1801,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1Z4o-H557WU",
+      "title": "【 #朝ガオ vol.19】3年目の発酵タイガーはこちらです♡【虎金妃笑虎】",
+      "published_at": "20261114",
+      "url": "https://youtu.be/1Z4o-H557WU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1Z4o-H557WU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZbkCVeaPoc8",
+      "title": "夜の踊り子ミーム #vtuber #ホロライブ",
+      "published_at": "20261113",
+      "url": "https://youtu.be/ZbkCVeaPoc8",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ZbkCVeaPoc8/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -743,6 +767,18 @@
       "thumbnail": "https://img.youtube.com/vi/q3SRuViTO24/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3lX3dp4oAbI",
+      "title": "【 #朝ガオ 】3年目の発酵タイガーはこちらです♡【虎金妃笑虎】",
+      "published_at": "20261010",
+      "url": "https://youtu.be/3lX3dp4oAbI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/3lX3dp4oAbI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

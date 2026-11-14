@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1352,
+  "count": 1353,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14871,6 +14871,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WAjSKMiBysk",
+      "title": "【コント】君もこのアプリで伝説のレジマシーンになろう!! #ホロじゃん #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WAjSKMiBysk",
       "status": "unreviewed",
       "note": null
     }

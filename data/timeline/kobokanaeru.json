@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1840,
+  "count": 1841,
   "entries": [
     {
       "video_id": "1izBd_B1_Ld",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "F-i01GLc0sE",
+      "title": "【Kobolonimbus】I gotta finish this in 2 hours..",
+      "published_at": "20261113",
+      "url": "https://youtu.be/F-i01GLc0sE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/F-i01GLc0sE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

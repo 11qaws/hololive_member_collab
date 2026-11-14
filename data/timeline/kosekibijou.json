@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2614,
+  "count": 2615,
   "entries": [
+    {
+      "video_id": "Njtkv24_i5g",
+      "title": "【MEMBER'S UNARCHIVED SINGING PRACTICE】LET'S LEARN SOME NEW SONGS!",
+      "published_at": "20261113",
+      "url": "https://youtu.be/Njtkv24_i5g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Njtkv24_i5g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "296b1BhtOnH",
       "title": "-Advent- Sunset Summit",
@@ -21,6 +33,18 @@
       "url": "https://youtu.be/6Y44pwznOBc",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/6Y44pwznOBc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "BuWqK7b2llg",
+      "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
+      "published_at": "20261112",
+      "url": "https://youtu.be/BuWqK7b2llg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/BuWqK7b2llg/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -47,18 +71,6 @@
       "thumbnail": "https://img.youtube.com/vi/Pj8-ZLo5uTY/mqdefault.jpg",
       "partner_handle": "nerissaravencroft",
       "partner_name": "Nerissa Ravencroft Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "BuWqK7b2llg",
-      "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
-      "published_at": "20261111",
-      "url": "https://youtu.be/BuWqK7b2llg",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/BuWqK7b2llg/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

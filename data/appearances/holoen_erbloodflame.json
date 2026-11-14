@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 613,
+  "count": 614,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6742,6 +6742,17 @@
       "published_at": "20261030",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/paGB4o8r5JQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LlSnRqqYVno",
+      "title": "Friendship Speedrun Any%  #funny #prank #friends #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LlSnRqqYVno",
       "status": "unreviewed",
       "note": null
     }

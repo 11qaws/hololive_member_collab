@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 958,
+  "count": 961,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10537,6 +10537,39 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZro-823L38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FIU7zFuxQKQ",
+      "title": "【DEADLOCK】just one game",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FIU7zFuxQKQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1xBIgoPZYCM",
+      "title": "【DARK SOULS 3】Forcing @holoen_gigimurin to play my favourite game #CCWEEK",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1xBIgoPZYCM",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 1996,
+  "count": 2001,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -21955,6 +21955,61 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/cNoh00Q44b8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "K8bLq2XDevc",
+      "title": "極楽ごきげん縁日和 (Instrumental)",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/K8bLq2XDevc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hI7W5ngWOLE",
+      "title": "極楽ごきげん縁日和",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hI7W5ngWOLE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tzJm1yDe-YU",
+      "title": "【MV】極楽ごきげん縁日和 / いろはにほへっと あやふぶみ【 #いろはにほへっとあやふぶみ 】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tzJm1yDe-YU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WAjSKMiBysk",
+      "title": "【コント】君もこのアプリで伝説のレジマシーンになろう!! #ホロじゃん #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WAjSKMiBysk",
       "status": "unreviewed",
       "note": null
     }

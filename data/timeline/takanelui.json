@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 4103,
+  "count": 4104,
   "entries": [
     {
       "video_id": "txxqDL6L_hA",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/MAxIuRAI0_s/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pnIli_xfMzc",
+      "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり!!【 雪花ラミィ /ホロライブ】",
+      "published_at": "20261111",
+      "url": "https://youtu.be/pnIli_xfMzc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pnIli_xfMzc/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
       "sub_entries": [],
       "paired_self": null
     },

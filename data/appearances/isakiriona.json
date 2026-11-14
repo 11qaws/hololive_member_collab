@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1293,
+  "count": 1294,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14222,6 +14222,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZbkCVeaPoc8",
+      "title": "夜の踊り子ミーム #vtuber #ホロライブ",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZbkCVeaPoc8",
       "status": "unreviewed",
       "note": null
     }

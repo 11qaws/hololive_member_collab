@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 829,
+  "count": 831,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9118,6 +9118,28 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yGUKrsTIrXI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "LlSnRqqYVno",
+      "title": "Friendship Speedrun Any%  #funny #prank #friends #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/LlSnRqqYVno",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hBFBLkvpylU",
+      "title": "【DEADLOCK】1 GAME ONLYYYY ONE GAME ONLY",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hBFBLkvpylU",
       "status": "unreviewed",
       "note": null
     }

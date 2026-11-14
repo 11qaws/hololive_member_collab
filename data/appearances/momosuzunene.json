@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1280,
+  "count": 1282,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14079,6 +14079,28 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xTjkcJjjw3w",
+      "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xTjkcJjjw3w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pnIli_xfMzc",
+      "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり!!【 雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20261111",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pnIli_xfMzc",
       "status": "unreviewed",
       "note": null
     }
