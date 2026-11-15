@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1627,
+  "count": 1628,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17896,6 +17896,17 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/U6DYgg1GQ-8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "caCNa767k6Y",
+      "title": "【pop'n music Lively】ふーたんと深夜のポプ会! A relaxing Pop'n Music session w/ Flare :D",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/caCNa767k6Y",
       "status": "unreviewed",
       "note": null
     }

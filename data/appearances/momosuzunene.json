@@ -1,6 +1,6 @@
 {
   "target": "momosuzunene",
-  "count": 1282,
+  "count": 1286,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14101,6 +14101,50 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pnIli_xfMzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a3dAtphBqZ0",
+      "title": "【コラボ】大型アプデが来たらしいミメシスをやるぞ!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a3dAtphBqZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k-fiYPedgwA",
+      "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k-fiYPedgwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z1n320Ug5RQ",
+      "title": "【MIMESIS】ひさびさMIMESIS!アプデもきたらしい??【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z1n320Ug5RQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TYar06YXdL8",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY1【#ホロわちゃ学園祭_DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TYar06YXdL8",
       "status": "unreviewed",
       "note": null
     }

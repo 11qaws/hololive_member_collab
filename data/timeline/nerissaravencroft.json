@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1935,
+  "count": 1936,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "aYUQXTvo62s",
+      "title": "Finally letting you into a new room of my house | Bathroom BG Debut",
+      "published_at": "20261114",
+      "url": "https://youtu.be/aYUQXTvo62s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/aYUQXTvo62s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "Pj8-ZLo5uTY",
+      "title": "Advent's back at it again! | Sunset Summit",
+      "published_at": "20261113",
+      "url": "https://youtu.be/Pj8-ZLo5uTY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Pj8-ZLo5uTY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "296b1BhtOnH",
       "title": "-Advent- Sunset Summit",
       "published_at": "20261113",
@@ -35,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/296b1BhtOnH/mqdefault.jpg",
       "partner_handle": "shiorinovella",
       "partner_name": "Shiori Novella Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "Pj8-ZLo5uTY",
-      "title": "Advent's back at it again! | Sunset Summit",
-      "published_at": "20261112",
-      "url": "https://youtu.be/Pj8-ZLo5uTY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/Pj8-ZLo5uTY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

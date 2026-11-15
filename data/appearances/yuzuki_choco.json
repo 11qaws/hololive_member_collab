@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1071,
+  "count": 1072,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11780,6 +11780,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TYar06YXdL8",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY1【#ホロわちゃ学園祭_DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TYar06YXdL8",
       "status": "unreviewed",
       "note": null
     }

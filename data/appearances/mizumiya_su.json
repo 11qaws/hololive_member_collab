@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1326,
+  "count": 1330,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14585,6 +14585,50 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZbkCVeaPoc8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a3dAtphBqZ0",
+      "title": "【コラボ】大型アプデが来たらしいミメシスをやるぞ!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a3dAtphBqZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z1n320Ug5RQ",
+      "title": "【MIMESIS】ひさびさMIMESIS!アプデもきたらしい??【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z1n320Ug5RQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2fs7D0Wcn1w",
+      "title": "【3Dライブ名場面】🎬BOUCE BACK🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2fs7D0Wcn1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2M_svzifWUA",
+      "title": "Ey ey ey ey Bounce☝️✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2M_svzifWUA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1688,
+  "count": 1690,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18567,6 +18567,28 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2c2qahpayxk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k-fiYPedgwA",
+      "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k-fiYPedgwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "z1n320Ug5RQ",
+      "title": "【MIMESIS】ひさびさMIMESIS!アプデもきたらしい??【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/z1n320Ug5RQ",
       "status": "unreviewed",
       "note": null
     }

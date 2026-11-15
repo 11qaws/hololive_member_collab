@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2444,
+  "count": 2446,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26883,6 +26883,28 @@
       "published_at": "20241205",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1X4cKLmSwbg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DO3jot8NuC0",
+      "title": "【 #フブみこさん】フブみこさん3Dゲーム対決!!※罰ゲーム&ご褒美あり【ホロライブ/白上フブキ/さくらみこ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261108",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DO3jot8NuC0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Rflc3TWfLFI",
+      "title": "【3D LIVE】ray/歌詞無しver【ホロライブ/白上フブキ/大神ミオ/さくらみこ/大空スバル】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Rflc3TWfLFI",
       "status": "unreviewed",
       "note": null
     }

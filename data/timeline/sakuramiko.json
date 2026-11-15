@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5722,
+  "count": 5726,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rCCjRZm2IZo",
+      "title": "バカすぎるガリレオBGMﾃﾞﾃﾞﾃﾞﾃﾞﾃﾞ🎶👓 #ホロライブ切り抜き #さくらみこ",
+      "published_at": "20261115",
+      "url": "https://youtu.be/rCCjRZm2IZo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rCCjRZm2IZo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Pb9s7ZOu9GA",
+      "title": "【急募】@ホロメン  Switch Sports Resortでおれと戦ってくれないか⁉【ホロライブ/さくらみこ】",
+      "published_at": "20261114",
+      "url": "https://youtu.be/Pb9s7ZOu9GA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Pb9s7ZOu9GA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Rflc3TWfLFI",
+      "title": "【3D LIVE】ray/歌詞無しver【ホロライブ/白上フブキ/大神ミオ/さくらみこ/大空スバル】",
+      "published_at": "20261114",
+      "url": "https://youtu.be/Rflc3TWfLFI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Rflc3TWfLFI/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +95,18 @@
       "thumbnail": "https://img.youtube.com/vi/dCx9Wavk6fQ/mqdefault.jpg",
       "partner_handle": "houshoumarine",
       "partner_name": "Marine Ch. 宝鐘マリン hololive3期生",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "DO3jot8NuC0",
+      "title": "【 #フブみこさん】フブみこさん3Dゲーム対決!!※罰ゲーム&ご褒美あり【ホロライブ/白上フブキ/さくらみこ】",
+      "published_at": "20261108",
+      "url": "https://youtu.be/DO3jot8NuC0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/DO3jot8NuC0/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
       "sub_entries": [],
       "paired_self": null
     },

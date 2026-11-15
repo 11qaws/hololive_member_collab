@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2016,
+  "count": 2017,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22175,6 +22175,17 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pnIli_xfMzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TYar06YXdL8",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY1【#ホロわちゃ学園祭_DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TYar06YXdL8",
       "status": "unreviewed",
       "note": null
     }

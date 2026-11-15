@@ -1,6 +1,6 @@
 {
   "target": "oozora_subaru",
-  "count": 2157,
+  "count": 2158,
   "appearances": [
     {
       "video_id": "_pr72KtKeXw",
@@ -23726,6 +23726,17 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pnIli_xfMzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Rflc3TWfLFI",
+      "title": "【3D LIVE】ray/歌詞無しver【ホロライブ/白上フブキ/大神ミオ/さくらみこ/大空スバル】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Rflc3TWfLFI",
       "status": "unreviewed",
       "note": null
     }

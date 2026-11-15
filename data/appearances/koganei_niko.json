@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 918,
+  "count": 920,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -10097,6 +10097,28 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZbkCVeaPoc8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2fs7D0Wcn1w",
+      "title": "【3Dライブ名場面】🎬BOUCE BACK🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2fs7D0Wcn1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2M_svzifWUA",
+      "title": "Ey ey ey ey Bounce☝️✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2M_svzifWUA",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1294,
+  "count": 1300,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14233,6 +14233,72 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ZbkCVeaPoc8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "a3dAtphBqZ0",
+      "title": "【コラボ】大型アプデが来たらしいミメシスをやるぞ!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/a3dAtphBqZ0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k-fiYPedgwA",
+      "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k-fiYPedgwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1pQ0s4t3jno",
+      "title": "🎬BOUCE BACK🎤👑響咲リオナ PICK-UP!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1pQ0s4t3jno",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TYar06YXdL8",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY1【#ホロわちゃ学園祭_DAY1】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TYar06YXdL8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2fs7D0Wcn1w",
+      "title": "【3Dライブ名場面】🎬BOUCE BACK🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261113",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2fs7D0Wcn1w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2M_svzifWUA",
+      "title": "Ey ey ey ey Bounce☝️✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2M_svzifWUA",
       "status": "unreviewed",
       "note": null
     }

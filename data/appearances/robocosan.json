@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1353,
+  "count": 1354,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14882,6 +14882,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WAjSKMiBysk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QRlHLy5aFxQ",
+      "title": "【手書き】最強炒飯右左どっち? #vtuber #hololive #animation",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QRlHLy5aFxQ",
       "status": "unreviewed",
       "note": null
     }

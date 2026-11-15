@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1172,
+  "count": 1173,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12891,6 +12891,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qhCOQm1N678",
+      "title": "【#WORLDS2026】LEGENDS NEVER DIE",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qhCOQm1N678",
       "status": "unreviewed",
       "note": null
     }
