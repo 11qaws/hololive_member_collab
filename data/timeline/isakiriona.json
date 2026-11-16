@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2297,
+  "count": 2301,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -23,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "MO-CjgI14os",
+      "title": "【R.E.P.O. 】今日もレポ!!今日は可愛いコスメ欲しい・・・【ホロライブ  響咲リオナ】",
+      "published_at": "20261116",
+      "url": "https://youtu.be/MO-CjgI14os",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/MO-CjgI14os/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jVXwQ6SkBwM",
+      "title": "誰にでも優しくしないで、でもそこが好き♡#shorts #dance #hololive",
+      "published_at": "20261116",
+      "url": "https://youtu.be/jVXwQ6SkBwM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jVXwQ6SkBwM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -59,6 +83,30 @@
       "thumbnail": "https://img.youtube.com/vi/a3dAtphBqZ0/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zdby4ni6Gmg",
+      "title": "【 MIMESIS 】大型アプデきちゃーーー!みんなでやる!!!【 桃鈴ねね / hololive 】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/zdby4ni6Gmg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/zdby4ni6Gmg/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "FP2T8k0Zd0o",
+      "title": "【 MIMESIS 】大型アプデきちゃーーー!みんなでやる!!!【 桃鈴ねね / hololive 】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/FP2T8k0Zd0o",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/FP2T8k0Zd0o/mqdefault.jpg",
+      "partner_handle": "momosuzunene",
+      "partner_name": "Nene Ch.桃鈴ねね",
       "sub_entries": [],
       "paired_self": null
     },

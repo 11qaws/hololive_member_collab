@@ -1,7 +1,19 @@
 {
   "target": "ninomaeinanis",
-  "count": 2253,
+  "count": 2255,
   "entries": [
+    {
+      "video_id": "kSH8nBizEPy",
+      "title": "Collab w/ Ina",
+      "published_at": "20261118",
+      "url": "https://youtu.be/kSH8nBizEPy",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/kSH8nBizEPy/mqdefault.jpg",
+      "partner_handle": "takanashikiara",
+      "partner_name": "Takanashi Kiara Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "Iltx3wc2XnA",
       "title": "WORLDS FINALS COSTREAM also taking bets if ina wakes up",
@@ -23,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/qhCOQm1N678/mqdefault.jpg",
       "partner_handle": "holoen_gigimurin",
       "partner_name": "Gigi Murin Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Vthypqd1Ni0",
+      "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+      "published_at": "20261114",
+      "url": "https://youtu.be/Vthypqd1Ni0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Vthypqd1Ni0/mqdefault.jpg",
+      "partner_handle": "holoen_ceciliaimmergreen",
+      "partner_name": "Cecilia Immergreen Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

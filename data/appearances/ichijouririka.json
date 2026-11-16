@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1517,
+  "count": 1519,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16686,6 +16686,28 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3O0mWNSEw1c",
+      "title": "【ホロじゃん】先行コラボ‼️公式番組出た4人で麻雀打つぞ打つぞ打つぞ!!!🀄✨【博衣こより視点/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3O0mWNSEw1c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8Z6Fl9GlPog",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY2【#ホロわちゃ学園祭_DAY2】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8Z6Fl9GlPog",
       "status": "unreviewed",
       "note": null
     }

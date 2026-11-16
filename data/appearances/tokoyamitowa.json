@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1694,
+  "count": 1695,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18633,6 +18633,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k7VJs1kk8-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rCCjRZm2IZo",
+      "title": "バカすぎるガリレオBGMﾃﾞﾃﾞﾃﾞﾃﾞﾃﾞ🎶👓 #ホロライブ切り抜き #さくらみこ",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rCCjRZm2IZo",
       "status": "unreviewed",
       "note": null
     }

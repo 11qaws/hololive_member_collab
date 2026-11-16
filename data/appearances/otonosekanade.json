@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1305,
+  "count": 1306,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14354,6 +14354,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k7VJs1kk8-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nW5eNn-G3MA",
+      "title": "【ロケ企画】AZKi's LOCATION!  Vol.7 ~自然を満喫!あずのせで奏の森リゾートでゲスしてきた!~【#AZロケ】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261112",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nW5eNn-G3MA",
       "status": "unreviewed",
       "note": null
     }

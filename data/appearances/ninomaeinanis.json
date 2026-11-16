@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1173,
+  "count": 1175,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12902,6 +12902,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qhCOQm1N678",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kSH8nBizEPy",
+      "title": "Collab w/ Ina",
+      "channel_handle": "takanashikiara",
+      "channel_name": "Takanashi Kiara Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kSH8nBizEPy",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vthypqd1Ni0",
+      "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vthypqd1Ni0",
       "status": "unreviewed",
       "note": null
     }

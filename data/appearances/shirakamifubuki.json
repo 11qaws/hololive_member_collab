@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3555,
+  "count": 3558,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39104,6 +39104,39 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tzJm1yDe-YU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_DAtn-yPnaI",
+      "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_DAtn-yPnaI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iRm-KtiML_w",
+      "title": "【アニメ】経歴詐欺でオーディション突破するやつ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iRm-KtiML_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rCCjRZm2IZo",
+      "title": "バカすぎるガリレオBGMﾃﾞﾃﾞﾃﾞﾃﾞﾃﾞ🎶👓 #ホロライブ切り抜き #さくらみこ",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rCCjRZm2IZo",
       "status": "unreviewed",
       "note": null
     }

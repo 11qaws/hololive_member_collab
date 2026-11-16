@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1354,
+  "count": 1356,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14893,6 +14893,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QRlHLy5aFxQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iRm-KtiML_w",
+      "title": "【アニメ】経歴詐欺でオーディション突破するやつ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iRm-KtiML_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8Z6Fl9GlPog",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY2【#ホロわちゃ学園祭_DAY2】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8Z6Fl9GlPog",
       "status": "unreviewed",
       "note": null
     }

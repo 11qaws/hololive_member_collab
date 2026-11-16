@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1261,
+  "count": 1264,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13870,6 +13870,39 @@
       "published_at": "20261028",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tBY0CjsLwmQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PrAaIuk5tnE",
+      "title": "Goblok Tenan Acapella Ver by hololive AREA15",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PrAaIuk5tnE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "JCR2UftWaEo",
+      "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/JCR2UftWaEo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HolpZnNFoPI",
+      "title": "BOMBANANA with AREA15",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HolpZnNFoPI",
       "status": "unreviewed",
       "note": null
     }

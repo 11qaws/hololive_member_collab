@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1885,
+  "count": 1886,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20734,6 +20734,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WAjSKMiBysk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8Z6Fl9GlPog",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY2【#ホロわちゃ学園祭_DAY2】",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261106",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8Z6Fl9GlPog",
       "status": "unreviewed",
       "note": null
     }

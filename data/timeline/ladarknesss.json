@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 2180,
+  "count": 2181,
   "entries": [
     {
       "video_id": "XhBSBiLT21c",
@@ -71,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/zDYSfXhGvU4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8Z6Fl9GlPog",
+      "title": "【チラ見せ枠】ホロライブわちゃわちゃ学園祭!DAY2【#ホロわちゃ学園祭_DAY2】",
+      "published_at": "20261106",
+      "url": "https://youtu.be/8Z6Fl9GlPog",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/8Z6Fl9GlPog/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

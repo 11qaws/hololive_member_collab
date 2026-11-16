@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1300,
+  "count": 1302,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14299,6 +14299,28 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2M_svzifWUA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zdby4ni6Gmg",
+      "title": "【 MIMESIS 】大型アプデきちゃーーー!みんなでやる!!!【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zdby4ni6Gmg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "FP2T8k0Zd0o",
+      "title": "【 MIMESIS 】大型アプデきちゃーーー!みんなでやる!!!【 桃鈴ねね / hololive 】",
+      "channel_handle": "momosuzunene",
+      "channel_name": "Nene Ch.桃鈴ねね",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/FP2T8k0Zd0o",
       "status": "unreviewed",
       "note": null
     }

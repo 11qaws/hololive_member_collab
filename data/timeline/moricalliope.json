@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 3873,
+  "count": 3874,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "x71pYWcTqqg",
+      "title": "【member's only】look outside (REALLY don't though) #calliolive",
+      "published_at": "20261115",
+      "url": "https://youtu.be/x71pYWcTqqg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/x71pYWcTqqg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "tQYcVwPhcKI",
+      "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
+      "published_at": "20261114",
+      "url": "https://youtu.be/tQYcVwPhcKI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/tQYcVwPhcKI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -81,18 +105,6 @@
       "url": "https://youtu.be/I3hlBx8MeQE",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/I3hlBx8MeQE/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "tQYcVwPhcKI",
-      "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
-      "published_at": "20261112",
-      "url": "https://youtu.be/tQYcVwPhcKI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/tQYcVwPhcKI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

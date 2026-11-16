@@ -1,7 +1,67 @@
 {
   "target": "ayunda_risu",
-  "count": 3022,
+  "count": 3027,
   "entries": [
+    {
+      "video_id": "P2noW6ojVQU",
+      "title": "#KoboSwitch LET'S SWITCH IT SWITCH IT UP!!",
+      "published_at": "20261115",
+      "url": "https://youtu.be/P2noW6ojVQU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/P2noW6ojVQU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "HolpZnNFoPI",
+      "title": "BOMBANANA with AREA15",
+      "published_at": "20261115",
+      "url": "https://youtu.be/HolpZnNFoPI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/HolpZnNFoPI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PrAaIuk5tnE",
+      "title": "Goblok Tenan Acapella Ver by hololive AREA15",
+      "published_at": "20261115",
+      "url": "https://youtu.be/PrAaIuk5tnE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PrAaIuk5tnE/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "69FQ_jTU73E",
+      "title": "【BOMBANANA!】AREA15 trying to guide eachother?!【hololive | moona】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/69FQ_jTU73E",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/69FQ_jTU73E/mqdefault.jpg",
+      "partner_handle": "moona_hoshinova",
+      "partner_name": "Moona Hoshinova hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "JCR2UftWaEo",
+      "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/JCR2UftWaEo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/JCR2UftWaEo/mqdefault.jpg",
+      "partner_handle": "airaniiofifteen",
+      "partner_name": "Airani Iofifteen Channel hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "MEshahbfI4I",
       "title": "PRISUNERS NIGHT (eggplant emoji)",

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1457,
+  "count": 1459,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -16026,6 +16026,28 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2M_svzifWUA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "07uC8LL9cAY",
+      "title": "【 エリザベス女王杯 】久々的中をしたい。どうしても。【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/07uC8LL9cAY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rCCjRZm2IZo",
+      "title": "バカすぎるガリレオBGMﾃﾞﾃﾞﾃﾞﾃﾞﾃﾞ🎶👓 #ホロライブ切り抜き #さくらみこ",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rCCjRZm2IZo",
       "status": "unreviewed",
       "note": null
     }

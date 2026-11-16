@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2845,
+  "count": 2849,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -11,6 +11,42 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Kpe1dOPOntI",
+      "title": "【オフコラボ】正解しないとたべれません🍪 #ホロ都道府県クッキーバトル 🔥熱千めらVS鈴鳴つづり【風真いろは/ホロライブ】",
+      "published_at": "20261116",
+      "url": "https://youtu.be/Kpe1dOPOntI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/Kpe1dOPOntI/mqdefault.jpg",
+      "partner_handle": "kazamairoha",
+      "partner_name": "Iroha ch. 風真いろは - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "LX4pKNh3YK8",
+      "title": "画面の中と向こうの君へ (Instrumental)",
+      "published_at": "20261115",
+      "url": "https://youtu.be/LX4pKNh3YK8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/LX4pKNh3YK8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "1EifVbEmDKM",
+      "title": "画面の中と向こうの君へ",
+      "published_at": "20261115",
+      "url": "https://youtu.be/1EifVbEmDKM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1EifVbEmDKM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -57,6 +93,18 @@
       "url": "https://youtu.be/nW5eNn-G3MA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/nW5eNn-G3MA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "IqN0XeMdGU4",
+      "title": "画面の中と向こうの君へ / AZKi (official)",
+      "published_at": "20261112",
+      "url": "https://youtu.be/IqN0XeMdGU4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/IqN0XeMdGU4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

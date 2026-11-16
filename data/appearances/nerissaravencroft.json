@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1150,
+  "count": 1151,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12649,6 +12649,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/H6VK2m70bns",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vthypqd1Ni0",
+      "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vthypqd1Ni0",
       "status": "unreviewed",
       "note": null
     }

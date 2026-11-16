@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2446,
+  "count": 2448,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26905,6 +26905,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Rflc3TWfLFI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sa_soQ5X4cE",
+      "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか?クリス・ピアーズ編【#みこったかにぇ/ホロライブ】ネタバレあり",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sa_soQ5X4cE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_DAtn-yPnaI",
+      "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_DAtn-yPnaI",
       "status": "unreviewed",
       "note": null
     }

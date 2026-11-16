@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1526,
+  "count": 1529,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16785,6 +16785,39 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pnIli_xfMzc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Xw-VRQo2AvA",
+      "title": "【バイオハザード6】ポンコツバイオでゆくクリス・ピアーズ編クリア耐久【ホロライブ/#みこったかにぇ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Xw-VRQo2AvA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_DAtn-yPnaI",
+      "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_DAtn-yPnaI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "J10gU822nZY",
+      "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/J10gU822nZY",
       "status": "unreviewed",
       "note": null
     }

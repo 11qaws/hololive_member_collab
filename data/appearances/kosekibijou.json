@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1568,
+  "count": 1570,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17247,6 +17247,28 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "T1g0vNaH7As",
+      "title": "【the cabin game】KOSEKI BIJOU loves horror game. but is this a horror game?【GRINDSTONE】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/T1g0vNaH7As",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vthypqd1Ni0",
+      "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vthypqd1Ni0",
       "status": "unreviewed",
       "note": null
     }

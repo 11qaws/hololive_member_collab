@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1769,
+  "count": 1770,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19458,6 +19458,17 @@
       "published_at": "20261110",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RyumNFImeWU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iRm-KtiML_w",
+      "title": "【アニメ】経歴詐欺でオーディション突破するやつ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iRm-KtiML_w",
       "status": "unreviewed",
       "note": null
     }

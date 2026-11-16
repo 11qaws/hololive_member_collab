@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1541,
+  "count": 1543,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16950,6 +16950,28 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k7VJs1kk8-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ZkkIPO3T4SJ",
+      "title": "OMET - Japanese Ramen Simulator 🍜",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ZkkIPO3T4SJ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Vthypqd1Ni0",
+      "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Vthypqd1Ni0",
       "status": "unreviewed",
       "note": null
     }

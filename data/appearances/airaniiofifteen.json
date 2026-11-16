@@ -1,6 +1,6 @@
 {
   "target": "airaniiofifteen",
-  "count": 1186,
+  "count": 1188,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13045,6 +13045,28 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FYzxO5awzsQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "69FQ_jTU73E",
+      "title": "【BOMBANANA!】AREA15 trying to guide eachother?!【hololive | moona】",
+      "channel_handle": "moona_hoshinova",
+      "channel_name": "Moona Hoshinova hololive",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/69FQ_jTU73E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HolpZnNFoPI",
+      "title": "BOMBANANA with AREA15",
+      "channel_handle": "ayunda_risu",
+      "channel_name": "Ayunda Risu Ch. hololive",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HolpZnNFoPI",
       "status": "unreviewed",
       "note": null
     }
