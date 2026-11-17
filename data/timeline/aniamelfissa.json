@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 2937,
+  "count": 2939,
   "entries": [
     {
       "video_id": "ZkkIPO3T4SJ",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/ZkkIPO3T4SJ/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "sbw4J67eIKQ",
+      "title": "今日は〜?\\\\月曜日!//約束を奏でよう!「You&合図」by音乃瀬奏 Happy Monday! Let's Dance to Mo... Kanade's Song #shorts #音乃瀬奏",
+      "published_at": "20261116",
+      "url": "https://youtu.be/sbw4J67eIKQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/sbw4J67eIKQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "published_at": "20261116",
+      "url": "https://youtu.be/fwKyf3sRw5k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fwKyf3sRw5k/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

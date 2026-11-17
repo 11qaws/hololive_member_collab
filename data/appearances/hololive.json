@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 194,
+  "count": 195,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2133,6 +2133,17 @@
       "published_at": "20250108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Kd2VOrGvz7U",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3WeD0WJUGxM",
+      "title": "【#アキちょこナイパレ|第61回】500万円を今もらう派-vs-10年後に1000万円もらう派  あなたはどっち?|ちょこのお悩み相談室💋~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3WeD0WJUGxM",
       "status": "unreviewed",
       "note": null
     }

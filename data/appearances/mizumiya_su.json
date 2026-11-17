@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1332,
+  "count": 1338,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14651,6 +14651,72 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FP2T8k0Zd0o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MO-CjgI14os",
+      "title": "【R.E.P.O. 】今日もレポ!!今日は可愛いコスメ欲しい・・・【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MO-CjgI14os",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pfuaRb9HmeM",
+      "title": "【R.E.P.O.】子供たちといくぞ!!#ホロREPO【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pfuaRb9HmeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KaPEJuLLvHo",
+      "title": "🎬BOUNCE BACK!🎤💬🔁💙水宮枢 PICK-UP!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KaPEJuLLvHo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0mKJqDXFTvQ",
+      "title": "🎬BOUNCE BACK!🎤💬🔁💙水宮枢 PICK-UP!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0mKJqDXFTvQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IfPppYvQvYg",
+      "title": "【3Dライブ名場面】🎬BOUNCE BACK!🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IfPppYvQvYg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3KAQNVt6YIk",
+      "title": "FLOW GLOW Station 2.0",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3KAQNVt6YIk",
       "status": "unreviewed",
       "note": null
     }

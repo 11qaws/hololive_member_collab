@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1770,
+  "count": 1778,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19469,6 +19469,94 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iRm-KtiML_w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iUF7uNJVLMQ",
+      "title": "【#ホロじゃん】4人でいざホロじゃん対決!!カスタムルールでカオス麻雀!!【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iUF7uNJVLMQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c4kR3fa3cLo",
+      "title": "Road to Bremen (with Hen)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c4kR3fa3cLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Kc0Nb55pkW4",
+      "title": "The Fantasy Seeker",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Kc0Nb55pkW4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EF_zB50Kzj4",
+      "title": "The Kind Illusionist〜Road to Bremen (with All)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EF_zB50Kzj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NePVC7CQktg",
+      "title": "Road to Bremen (with Cat)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NePVC7CQktg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BczTVRPQJ44",
+      "title": "Bremen Music Festival",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BczTVRPQJ44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jMV3xaoikVA",
+      "title": "Feel my Song!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jMV3xaoikVA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r1aDEhYv41s",
+      "title": "Finale",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r1aDEhYv41s",
       "status": "unreviewed",
       "note": null
     }

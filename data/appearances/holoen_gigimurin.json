@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 962,
+  "count": 965,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10581,6 +10581,39 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Vthypqd1Ni0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cszLyRCGvT4",
+      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Palace of the Dead & Crystal Tower🌱 | #ad 💄👧 (Spoiler Alert)",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cszLyRCGvT4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
       "status": "unreviewed",
       "note": null
     }

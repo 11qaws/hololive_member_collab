@@ -1,7 +1,43 @@
 {
   "target": "kaelakovalskia",
-  "count": 2985,
+  "count": 2989,
   "entries": [
+    {
+      "video_id": "4WEKgYar25g",
+      "title": "Forge My Soul (Instrumental)",
+      "published_at": "20261116",
+      "url": "https://youtu.be/4WEKgYar25g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/4WEKgYar25g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "zvy16ucrCGY",
+      "title": "Forge My Soul",
+      "published_at": "20261116",
+      "url": "https://youtu.be/zvy16ucrCGY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zvy16ucrCGY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "r4sIqTcZouQ",
+      "title": "#HEADSHOT HER WITH THE HAMMER 🔨🔫",
+      "published_at": "20261116",
+      "url": "https://youtu.be/r4sIqTcZouQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/r4sIqTcZouQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "T1g0vNaH7As",
       "title": "【the cabin game】KOSEKI BIJOU loves horror game. but is this a horror game?【GRINDSTONE】",
@@ -11,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/T1g0vNaH7As/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "published_at": "20261116",
+      "url": "https://youtu.be/fwKyf3sRw5k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fwKyf3sRw5k/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,7 +1,31 @@
 {
   "target": "takanelui",
-  "count": 4112,
+  "count": 4114,
   "entries": [
+    {
+      "video_id": "iUF7uNJVLMQ",
+      "title": "【#ホロじゃん】4人でいざホロじゃん対決!!カスタムルールでカオス麻雀!!【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+      "published_at": "20261117",
+      "url": "https://youtu.be/iUF7uNJVLMQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/iUF7uNJVLMQ/mqdefault.jpg",
+      "partner_handle": "shirakamifubuki",
+      "partner_name": "フブキCh。白上フブキ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eyyK63D59xw",
+      "title": "【 #ホロドリ 】豪華賞品ありの企画を発表しちゃいます!【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261116",
+      "url": "https://youtu.be/eyyK63D59xw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/eyyK63D59xw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "4jyBI0tn1-E",
       "title": "シャキーーーン🦸 #ハートにピース #hololive #鷹嶺ルイの反逆 #shorts",
@@ -39,21 +63,9 @@
       "paired_self": null
     },
     {
-      "video_id": "_DAtn-yPnaI",
-      "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / #ほしまちすたじお】",
-      "published_at": "20261115",
-      "url": "https://youtu.be/_DAtn-yPnaI",
-      "entry_type": "collab",
-      "thumbnail": "https://img.youtube.com/vi/_DAtn-yPnaI/mqdefault.jpg",
-      "partner_handle": "hoshimachisuisei",
-      "partner_name": "Suisei Channel",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "0Heo2FKeE9Q",
       "title": "【 #ホロ1GP 】先週のホロ1グランプリの切り抜き鑑賞会!裏話も話すぞ~!! 【鷹嶺ルイ/ホロライブ】",
-      "published_at": "20261114",
+      "published_at": "20261115",
       "url": "https://youtu.be/0Heo2FKeE9Q",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/0Heo2FKeE9Q/mqdefault.jpg",
@@ -65,7 +77,7 @@
     {
       "video_id": "07uC8LL9cAY",
       "title": "【 エリザベス女王杯 】久々的中をしたい。どうしても。【鷹嶺ルイ/ホロライブ】",
-      "published_at": "20261114",
+      "published_at": "20261115",
       "url": "https://youtu.be/07uC8LL9cAY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/07uC8LL9cAY/mqdefault.jpg",
@@ -77,12 +89,24 @@
     {
       "video_id": "JGWJZgmi5S4",
       "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見!モンゾーラ島の再建をするぞぉ!!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published_at": "20261114",
+      "published_at": "20261115",
       "url": "https://youtu.be/JGWJZgmi5S4",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/JGWJZgmi5S4/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "_DAtn-yPnaI",
+      "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/_DAtn-yPnaI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/_DAtn-yPnaI/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
       "sub_entries": [],
       "paired_self": null
     },

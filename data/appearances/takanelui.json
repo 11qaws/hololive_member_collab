@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1529,
+  "count": 1530,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16818,6 +16818,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/J10gU822nZY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iUF7uNJVLMQ",
+      "title": "【#ホロじゃん】4人でいざホロじゃん対決!!カスタムルールでカオス麻雀!!【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iUF7uNJVLMQ",
       "status": "unreviewed",
       "note": null
     }

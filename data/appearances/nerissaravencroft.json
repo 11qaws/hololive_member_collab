@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1151,
+  "count": 1154,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12660,6 +12660,39 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Vthypqd1Ni0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "HHG4YJEA4Ek",
+      "title": "【Invokyr】This is gonna be interesting!! The game!!!",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/HHG4YJEA4Ek",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GRh8oUOsuBo",
+      "title": "An Evil Sentient Board Game Wants to Play 【Invokyr】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GRh8oUOsuBo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
       "status": "unreviewed",
       "note": null
     }

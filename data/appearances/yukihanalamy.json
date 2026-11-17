@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1411,
+  "count": 1412,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15520,6 +15520,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TYar06YXdL8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
       "status": "unreviewed",
       "note": null
     }

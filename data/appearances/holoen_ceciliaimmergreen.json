@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 831,
+  "count": 832,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9140,6 +9140,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hBFBLkvpylU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
       "status": "unreviewed",
       "note": null
     }

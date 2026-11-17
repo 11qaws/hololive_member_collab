@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1719,
+  "count": 1722,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18908,6 +18908,39 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Qa0tYHMs5BU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EF_zB50Kzj4",
+      "title": "The Kind Illusionist〜Road to Bremen (with All)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EF_zB50Kzj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BczTVRPQJ44",
+      "title": "Bremen Music Festival",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BczTVRPQJ44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r1aDEhYv41s",
+      "title": "Finale",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r1aDEhYv41s",
       "status": "unreviewed",
       "note": null
     }

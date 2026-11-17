@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1302,
+  "count": 1306,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14321,6 +14321,50 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/FP2T8k0Zd0o",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cTVfAX7A1IY",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cTVfAX7A1IY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pfuaRb9HmeM",
+      "title": "【R.E.P.O.】子供たちといくぞ!!#ホロREPO【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pfuaRb9HmeM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IfPppYvQvYg",
+      "title": "【3Dライブ名場面】🎬BOUNCE BACK!🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IfPppYvQvYg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3KAQNVt6YIk",
+      "title": "FLOW GLOW Station 2.0",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3KAQNVt6YIk",
       "status": "unreviewed",
       "note": null
     }

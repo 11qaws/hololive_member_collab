@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 2002,
+  "count": 2004,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -22021,6 +22021,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Rflc3TWfLFI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iUF7uNJVLMQ",
+      "title": "【#ホロじゃん】4人でいざホロじゃん対決!!カスタムルールでカオス麻雀!!【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iUF7uNJVLMQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
       "status": "unreviewed",
       "note": null
     }

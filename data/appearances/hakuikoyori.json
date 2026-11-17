@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1470,
+  "count": 1472,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16169,6 +16169,28 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8Z6Fl9GlPog",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zgUs9Rg3ln4",
+      "title": "【#ホロじゃん 】🀄麻雀コラボでりべんじ🀄w/こより、らでん、りりか【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zgUs9Rg3ln4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3Kgs5rsITD4",
+      "title": "【ホロライブ麻雀 -ホロじゃん-】あの日の4人で先行プレイします!!!【儒烏風亭らでん #ReGLOSS 】",
+      "channel_handle": "juufuuteiraden",
+      "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3Kgs5rsITD4",
       "status": "unreviewed",
       "note": null
     }

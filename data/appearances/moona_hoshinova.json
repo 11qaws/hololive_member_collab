@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1264,
+  "count": 1265,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13903,6 +13903,17 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/HolpZnNFoPI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1562,
+  "count": 1564,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -17181,6 +17181,28 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rCCjRZm2IZo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MO-CjgI14os",
+      "title": "【R.E.P.O. 】今日もレポ!!今日は可愛いコスメ欲しい・・・【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MO-CjgI14os",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cTVfAX7A1IY",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cTVfAX7A1IY",
       "status": "unreviewed",
       "note": null
     }

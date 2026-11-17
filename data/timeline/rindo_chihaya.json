@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2357,
+  "count": 2359,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -28,11 +28,35 @@
     },
     {
       "video_id": "W-LIi3bf-Yw",
-      "title": "【】よていち【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "title": "【タンポポは耐える。】ド根性タンポポ!!!!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
       "published_at": "20261116",
       "url": "https://youtu.be/W-LIi3bf-Yw",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/W-LIi3bf-Yw/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "8QqmuUHhKcI",
+      "title": "【わちゃわちゃ学園祭】DAY2同時視聴!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/8QqmuUHhKcI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/8QqmuUHhKcI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "J10gU822nZY",
+      "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/J10gU822nZY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/J10gU822nZY/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -51,14 +75,14 @@
       "paired_self": null
     },
     {
-      "video_id": "J10gU822nZY",
-      "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published_at": "20261114",
-      "url": "https://youtu.be/J10gU822nZY",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/J10gU822nZY/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
+      "video_id": "IfPppYvQvYg",
+      "title": "【3Dライブ名場面】🎬BOUNCE BACK!🎤✨【#FG2周年】",
+      "published_at": "20261115",
+      "url": "https://youtu.be/IfPppYvQvYg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/IfPppYvQvYg/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -83,18 +107,6 @@
       "thumbnail": "https://img.youtube.com/vi/07uC8LL9cAY/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "8QqmuUHhKcI",
-      "title": "【わちゃわちゃ学園祭】DAY2同時視聴!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published_at": "20261113",
-      "url": "https://youtu.be/8QqmuUHhKcI",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/8QqmuUHhKcI/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -309,6 +321,18 @@
       "url": "https://youtu.be/Mfcj1AdnzhQ",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/Mfcj1AdnzhQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3KAQNVt6YIk",
+      "title": "FLOW GLOW Station 2.0",
+      "published_at": "20261109",
+      "url": "https://youtu.be/3KAQNVt6YIk",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3KAQNVt6YIk/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],

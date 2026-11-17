@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 3876,
+  "count": 3878,
   "entries": [
     {
       "video_id": "LEyISnCpXEe",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CuPh6p99Ic0",
+      "title": "Shallow Shadow (Instrumental)",
+      "published_at": "20261116",
+      "url": "https://youtu.be/CuPh6p99Ic0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CuPh6p99Ic0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i2VXRmZ63g0",
+      "title": "Shallow Shadow",
+      "published_at": "20261116",
+      "url": "https://youtu.be/i2VXRmZ63g0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/i2VXRmZ63g0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

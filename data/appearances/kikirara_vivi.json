@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1398,
+  "count": 1400,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15377,6 +15377,28 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/2M_svzifWUA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "IfPppYvQvYg",
+      "title": "【3Dライブ名場面】🎬BOUNCE BACK!🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261115",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/IfPppYvQvYg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3KAQNVt6YIk",
+      "title": "FLOW GLOW Station 2.0",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261109",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3KAQNVt6YIk",
       "status": "unreviewed",
       "note": null
     }

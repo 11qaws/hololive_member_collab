@@ -1,6 +1,6 @@
 {
   "target": "juufuuteiraden",
-  "count": 951,
+  "count": 952,
   "appearances": [
     {
       "video_id": "azxyUy7t_gw",
@@ -10460,6 +10460,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8Z6Fl9GlPog",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "zgUs9Rg3ln4",
+      "title": "【#ホロじゃん 】🀄麻雀コラボでりべんじ🀄w/こより、らでん、りりか【ホロライブ/アキロゼ】",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/zgUs9Rg3ln4",
       "status": "unreviewed",
       "note": null
     }

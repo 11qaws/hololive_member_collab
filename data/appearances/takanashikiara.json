@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1138,
+  "count": 1144,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12517,6 +12517,72 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Vthypqd1Ni0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "c4kR3fa3cLo",
+      "title": "Road to Bremen (with Hen)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/c4kR3fa3cLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EF_zB50Kzj4",
+      "title": "The Kind Illusionist〜Road to Bremen (with All)",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EF_zB50Kzj4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BczTVRPQJ44",
+      "title": "Bremen Music Festival",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BczTVRPQJ44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jMV3xaoikVA",
+      "title": "Feel my Song!",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jMV3xaoikVA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r1aDEhYv41s",
+      "title": "Finale",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r1aDEhYv41s",
       "status": "unreviewed",
       "note": null
     }

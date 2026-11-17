@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1254,
+  "count": 1255,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13793,6 +13793,17 @@
       "published_at": "20261108",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RFKeljZW5s0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
       "status": "unreviewed",
       "note": null
     }

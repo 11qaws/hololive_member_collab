@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2017,
+  "count": 2021,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22186,6 +22186,50 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TYar06YXdL8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BMf07iUaucQ",
+      "title": "Prelude",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BMf07iUaucQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BczTVRPQJ44",
+      "title": "Bremen Music Festival",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BczTVRPQJ44",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hZezWrdD17k",
+      "title": "Dreaming Princess〜Road to Bremen",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20250601",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hZezWrdD17k",
       "status": "unreviewed",
       "note": null
     }

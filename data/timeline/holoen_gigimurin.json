@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 1625,
+  "count": 1629,
   "entries": [
     {
       "video_id": "URoIRFVvsuD",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/URoIRFVvsuD/mqdefault.jpg",
       "partner_handle": "hololiveenglish",
       "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SPJ0efWHFdY",
+      "title": "【FINAL FANTASY XIV】LET'S GO INTO THE CRYSTAL TOWER!!! #ad",
+      "published_at": "20261117",
+      "url": "https://youtu.be/SPJ0efWHFdY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/SPJ0efWHFdY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cszLyRCGvT4",
+      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Palace of the Dead & Crystal Tower🌱 | #ad 💄👧 (Spoiler Alert)",
+      "published_at": "20261117",
+      "url": "https://youtu.be/cszLyRCGvT4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cszLyRCGvT4/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -27,9 +51,21 @@
       "paired_self": null
     },
     {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "published_at": "20261116",
+      "url": "https://youtu.be/fwKyf3sRw5k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/fwKyf3sRw5k/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "qhCOQm1N678",
       "title": "【#WORLDS2026】LEGENDS NEVER DIE",
-      "published_at": "20261114",
+      "published_at": "20261115",
       "url": "https://youtu.be/qhCOQm1N678",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/qhCOQm1N678/mqdefault.jpg",
@@ -69,6 +105,18 @@
       "url": "https://youtu.be/Vthypqd1Ni0",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/Vthypqd1Ni0/mqdefault.jpg",
+      "partner_handle": "holoen_ceciliaimmergreen",
+      "partner_name": "Cecilia Immergreen Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "published_at": "20261114",
+      "url": "https://youtu.be/CibHkJOA2Yw",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/CibHkJOA2Yw/mqdefault.jpg",
       "partner_handle": "holoen_ceciliaimmergreen",
       "partner_name": "Cecilia Immergreen Ch. hololive",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1886,
+  "count": 1887,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20745,6 +20745,17 @@
       "published_at": "20261106",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8Z6Fl9GlPog",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CibHkJOA2Yw",
+      "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
+      "channel_handle": "holoen_ceciliaimmergreen",
+      "channel_name": "Cecilia Immergreen Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CibHkJOA2Yw",
       "status": "unreviewed",
       "note": null
     }

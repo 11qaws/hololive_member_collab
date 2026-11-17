@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1046,
+  "count": 1047,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11505,6 +11505,17 @@
       "published_at": "20261111",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/1sYErO3RtU8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "fwKyf3sRw5k",
+      "title": "【雨になって】止められないんだ、これが #hololive #ホロライブ #ねぽらぼ #hololiveid #holojustice",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/fwKyf3sRw5k",
       "status": "unreviewed",
       "note": null
     }

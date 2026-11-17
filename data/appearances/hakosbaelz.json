@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1295,
+  "count": 1297,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14244,6 +14244,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Vthypqd1Ni0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hHkfIwIJgSk",
+      "title": "HEADHSHOT / HAKOS BAELZ ハコ太郎と一緒に踊ってもらった!#ホロライブ #hololive #shorts #HEADHSHOT #hakosbaelz",
+      "channel_handle": "omarupolka",
+      "channel_name": "Polka Ch. 尾丸ポルカ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hHkfIwIJgSk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "r4sIqTcZouQ",
+      "title": "#HEADSHOT HER WITH THE HAMMER 🔨🔫",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/r4sIqTcZouQ",
       "status": "unreviewed",
       "note": null
     }
