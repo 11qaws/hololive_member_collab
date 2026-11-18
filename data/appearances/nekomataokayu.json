@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1778,
+  "count": 1779,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19557,6 +19557,17 @@
       "published_at": "20250601",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r1aDEhYv41s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rUEyequT3ro",
+      "title": "【ホロじゃん】うちは鳴かないみぉ~~~ん(たぶん)【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rUEyequT3ro",
       "status": "unreviewed",
       "note": null
     }

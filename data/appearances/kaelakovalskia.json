@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1158,
+  "count": 1159,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12737,6 +12737,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k8vgMXW762Y",
+      "title": "【Japanese Ramen Simulator】Kaela. I Heard This Game Has Gambling. Kaela.【hololive | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k8vgMXW762Y",
       "status": "unreviewed",
       "note": null
     }

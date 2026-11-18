@@ -1,6 +1,6 @@
 {
   "target": "holoen_erbloodflame",
-  "count": 616,
+  "count": 617,
   "appearances": [
     {
       "video_id": "TYkOI8OwCPY",
@@ -6775,6 +6775,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SPJ0efWHFdY",
+      "title": "【FINAL FANTASY XIV】LET'S GO INTO THE CRYSTAL TOWER!!! #ad",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SPJ0efWHFdY",
       "status": "unreviewed",
       "note": null
     }

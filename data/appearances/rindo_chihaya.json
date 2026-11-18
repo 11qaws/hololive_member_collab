@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1461,
+  "count": 1464,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -16070,6 +16070,39 @@
       "published_at": "20261109",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3KAQNVt6YIk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f-4X9GFI-Gc",
+      "title": "【 初対談 】千速とトワでお互いに質問してみた‼️告知あり🔥🔥【常闇トワ/ホロライブ】",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f-4X9GFI-Gc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PimlbHi8EAE",
+      "title": "爆裂愛してる / 緑仙×如月れん×鷹嶺ルイ×樋口楓×輪堂千速 (cover)",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PimlbHi8EAE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UQvqXSHkbE8",
+      "title": "🎬BOUNCE BACK!🎤🎧🔧輪堂千速 PICK-UP!!",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UQvqXSHkbE8",
       "status": "unreviewed",
       "note": null
     }

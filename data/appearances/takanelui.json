@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1530,
+  "count": 1531,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16829,6 +16829,17 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/iUF7uNJVLMQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rUEyequT3ro",
+      "title": "【ホロじゃん】うちは鳴かないみぉ~~~ん(たぶん)【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rUEyequT3ro",
       "status": "unreviewed",
       "note": null
     }

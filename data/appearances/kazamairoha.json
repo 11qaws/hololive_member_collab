@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1093,
+  "count": 1094,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -12022,6 +12022,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CibHkJOA2Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "DneczIf74WU",
+      "title": "これが限界飯かぁ…【#一条莉々華の限界飯】",
+      "channel_handle": "ichijouririka",
+      "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/DneczIf74WU",
       "status": "unreviewed",
       "note": null
     }

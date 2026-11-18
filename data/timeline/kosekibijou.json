@@ -1,7 +1,31 @@
 {
   "target": "kosekibijou",
-  "count": 2624,
+  "count": 2626,
   "entries": [
+    {
+      "video_id": "0MD-iYNKS7k",
+      "title": "Legit reasons frfr😭 #funny #relatable #hololive",
+      "published_at": "20261118",
+      "url": "https://youtu.be/0MD-iYNKS7k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/0MD-iYNKS7k/mqdefault.jpg",
+      "partner_handle": "hololiveenglish",
+      "partner_name": "hololive English",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "THV68_R0s0k",
+      "title": "【FORTNITE】MIKU",
+      "published_at": "20261117",
+      "url": "https://youtu.be/THV68_R0s0k",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/THV68_R0s0k/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "qIOZShVkRTk",
       "title": "【FORTNITE】HATSUNE MIKU",
@@ -39,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "CrIEIMzlt1s",
+      "title": "【the cabin game】trapped with @KaelaKovalskia oh nooo~ the horror~~",
+      "published_at": "20261116",
+      "url": "https://youtu.be/CrIEIMzlt1s",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CrIEIMzlt1s/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "T1g0vNaH7As",
       "title": "【the cabin game】KOSEKI BIJOU loves horror game. but is this a horror game?【GRINDSTONE】",
       "published_at": "20261116",
@@ -47,18 +83,6 @@
       "thumbnail": "https://img.youtube.com/vi/T1g0vNaH7As/mqdefault.jpg",
       "partner_handle": "kaelakovalskia",
       "partner_name": "Kaela Kovalskia Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "CrIEIMzlt1s",
-      "title": "【the cabin game】trapped with @KaelaKovalskia oh nooo~ the horror~~",
-      "published_at": "20261115",
-      "url": "https://youtu.be/CrIEIMzlt1s",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/CrIEIMzlt1s/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 832,
+  "count": 833,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9151,6 +9151,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Nn_IvHYNHR8",
+      "title": "【HEAVY RAIN】I'M DA ORIGAMI KILLER!!!!!!!!!",
+      "channel_handle": "holoen_gigimurin",
+      "channel_name": "Gigi Murin Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Nn_IvHYNHR8",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 1000,
+  "count": 1001,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10999,6 +10999,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CibHkJOA2Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0MD-iYNKS7k",
+      "title": "Legit reasons frfr😭 #funny #relatable #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0MD-iYNKS7k",
       "status": "unreviewed",
       "note": null
     }
