@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1531,
+  "count": 1532,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16840,6 +16840,17 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rUEyequT3ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t6BO3oyVbqE",
+      "title": "【オフコラボ】セルフ3Dで#SSholoX 格付けバトル🔥",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t6BO3oyVbqE",
       "status": "unreviewed",
       "note": null
     }

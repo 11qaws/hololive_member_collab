@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1464,
+  "count": 1468,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -16103,6 +16103,50 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/UQvqXSHkbE8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QCpvZGg7sfa",
+      "title": "holodori Triathlon",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QCpvZGg7sfa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G9-WAiZKFjA",
+      "title": "【マリオカート8DX】3位以内だけ喋れる全集中マリオカート!!!!!!!!!!【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G9-WAiZKFjA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "iKhjVwoXrEk",
+      "title": "【マリオカート8DX】4以下の人は無言を貫くマリオカート【ホロライブ/白上フブキ/さくらみこ/輪堂千速】",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/iKhjVwoXrEk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vxJ6dAtNi-s",
+      "title": "【3Dライブ名場面】🎬BOUNCE BACK!🎤✨【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vxJ6dAtNi-s",
       "status": "unreviewed",
       "note": null
     }

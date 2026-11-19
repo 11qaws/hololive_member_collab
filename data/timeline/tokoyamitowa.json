@@ -1,7 +1,19 @@
 {
   "target": "tokoyamitowa",
-  "count": 3879,
+  "count": 3882,
   "entries": [
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "published_at": "20261218",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "LEyISnCpXEe",
       "title": "Hakos Baelz 1st Concert「REGALIA」",
@@ -11,6 +23,30 @@
       "thumbnail": "https://img.youtube.com/vi/LEyISnCpXEe/mqdefault.jpg",
       "partner_handle": "hakosbaelz",
       "partner_name": "Hakos Baelz Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "teDVJYhMMiQ",
+      "title": "Group & Course Draw - holo Year-End Cup 2026",
+      "published_at": "20261129",
+      "url": "https://youtu.be/teDVJYhMMiQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/teDVJYhMMiQ/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "vjfSfq7N1bQ",
+      "title": "#NightTraintoNowhere MMDトワ様に踊ってもらった!🔮👾  #vtuber #dance #踊ってみた #shorts",
+      "published_at": "20261119",
+      "url": "https://youtu.be/vjfSfq7N1bQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/vjfSfq7N1bQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "hoshimachisuisei",
-  "count": 1495,
+  "count": 1497,
   "appearances": [
     {
       "video_id": "2qwcnPaszhA",
@@ -16444,6 +16444,28 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Pb9s7ZOu9GA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YBzppBSr-fY",
+      "title": "【大罪】ちがうぅ~! みこじゃないぃ~ #ホロぐら #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YBzppBSr-fY",
       "status": "unreviewed",
       "note": null
     }

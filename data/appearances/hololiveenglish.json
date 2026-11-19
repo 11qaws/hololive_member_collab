@@ -1,6 +1,6 @@
 {
   "target": "hololiveenglish",
-  "count": 6,
+  "count": 7,
   "appearances": [
     {
       "video_id": "CYce1mozNRo",
@@ -65,6 +65,17 @@
       "published_at": "20261103",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TZro-823L38",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tRnWGzjlqS0",
+      "title": "Terror at the Brim | Shattered Legends | Episode 2",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261114",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tRnWGzjlqS0",
       "status": "unreviewed",
       "note": null
     }

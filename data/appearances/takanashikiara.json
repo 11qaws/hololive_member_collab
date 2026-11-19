@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1144,
+  "count": 1145,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12583,6 +12583,17 @@
       "published_at": "20250601",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r1aDEhYv41s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "9WH8DMp3iOc",
+      "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/9WH8DMp3iOc",
       "status": "unreviewed",
       "note": null
     }

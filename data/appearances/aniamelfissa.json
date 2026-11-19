@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1545,
+  "count": 1546,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -16994,6 +16994,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8YCSRGp1Brs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QCpvZGg7sfa",
+      "title": "holodori Triathlon",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QCpvZGg7sfa",
       "status": "unreviewed",
       "note": null
     }

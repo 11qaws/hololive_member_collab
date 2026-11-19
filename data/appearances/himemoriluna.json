@@ -1,6 +1,6 @@
 {
   "target": "himemoriluna",
-  "count": 1078,
+  "count": 1079,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -11857,6 +11857,17 @@
       "published_at": "20261113",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WAjSKMiBysk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
       "status": "unreviewed",
       "note": null
     }

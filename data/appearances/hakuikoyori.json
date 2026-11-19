@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1472,
+  "count": 1474,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16191,6 +16191,28 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3Kgs5rsITD4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "t6BO3oyVbqE",
+      "title": "【オフコラボ】セルフ3Dで#SSholoX 格付けバトル🔥",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/t6BO3oyVbqE",
       "status": "unreviewed",
       "note": null
     }

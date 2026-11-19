@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 2004,
+  "count": 2009,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -22043,6 +22043,61 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/CibHkJOA2Yw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "1TEs3v4hA78",
+      "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/1TEs3v4hA78",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oXfefvzpPwo",
+      "title": "【 #ホロ7DTD 】初めての7 Days to Die!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oXfefvzpPwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vnOhAveMDB0",
+      "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY1【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vnOhAveMDB0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xm0ZxpDQYJg",
+      "title": "【#ホロ7DTD】7 Days to Die!!!!!!!!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xm0ZxpDQYJg",
       "status": "unreviewed",
       "note": null
     }

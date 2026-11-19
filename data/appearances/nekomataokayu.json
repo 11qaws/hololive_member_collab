@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1779,
+  "count": 1784,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19568,6 +19568,61 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rUEyequT3ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oXfefvzpPwo",
+      "title": "【 #ホロ7DTD 】初めての7 Days to Die!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oXfefvzpPwo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vnOhAveMDB0",
+      "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY1【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vnOhAveMDB0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "xm0ZxpDQYJg",
+      "title": "【#ホロ7DTD】7 Days to Die!!!!!!!!!!!!!!!!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/xm0ZxpDQYJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yuLlvdYwtng",
+      "title": "【 #ホロ7DTD 】初心者3人、経験者2人の物語がはじまるッ【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yuLlvdYwtng",
       "status": "unreviewed",
       "note": null
     }

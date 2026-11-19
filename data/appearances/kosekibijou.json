@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1572,
+  "count": 1574,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17291,6 +17291,28 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0MD-iYNKS7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RHN2OjNmTzU",
+      "title": "【Deep Dish Dungeon】WE ARE HUNGRY @KosekiBijou @holoen_ceciliaimmergreen",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RHN2OjNmTzU",
       "status": "unreviewed",
       "note": null
     }

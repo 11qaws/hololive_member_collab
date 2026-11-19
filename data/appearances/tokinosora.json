@@ -1,6 +1,6 @@
 {
   "target": "tokinosora",
-  "count": 874,
+  "count": 875,
   "appearances": [
     {
       "video_id": "lKd07PQLCLM",
@@ -9613,6 +9613,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/qL9LbE5oKj0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YBzppBSr-fY",
+      "title": "【大罪】ちがうぅ~! みこじゃないぃ~ #ホロぐら #hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YBzppBSr-fY",
       "status": "unreviewed",
       "note": null
     }

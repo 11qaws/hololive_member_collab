@@ -1,7 +1,31 @@
 {
   "target": "irys",
-  "count": 2170,
+  "count": 2172,
   "entries": [
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "published_at": "20261218",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
+      "partner_handle": "rindo_chihaya",
+      "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KrkWpzWknMc",
+      "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た!!ガチャも回すぞ!!",
+      "published_at": "20261118",
+      "url": "https://youtu.be/KrkWpzWknMc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KrkWpzWknMc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "caCNa767k6Y",
       "title": "【pop'n music Lively】ふーたんと深夜のポプ会! A relaxing Pop'n Music session w/ Flare :D",

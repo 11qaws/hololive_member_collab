@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1695,
+  "count": 1697,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18644,6 +18644,28 @@
       "published_at": "20261115",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rCCjRZm2IZo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "teDVJYhMMiQ",
+      "title": "Group & Course Draw - holo Year-End Cup 2026",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261129",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/teDVJYhMMiQ",
       "status": "unreviewed",
       "note": null
     }

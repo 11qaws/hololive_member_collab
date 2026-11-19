@@ -1,6 +1,6 @@
 {
   "target": "holoen_ceciliaimmergreen",
-  "count": 833,
+  "count": 835,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9162,6 +9162,28 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/Nn_IvHYNHR8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "2i6a9BDr60E",
+      "title": "【DEEP DISH DUNGEON】EATING GOOD WITH @holoen_ceciliaimmergreen AND @NinomaeInanis",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/2i6a9BDr60E",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "RHN2OjNmTzU",
+      "title": "【Deep Dish Dungeon】WE ARE HUNGRY @KosekiBijou @holoen_ceciliaimmergreen",
+      "channel_handle": "ninomaeinanis",
+      "channel_name": "Ninomae Ina'nis Ch. hololive",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/RHN2OjNmTzU",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1159,
+  "count": 1160,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12748,6 +12748,17 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k8vgMXW762Y",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QCpvZGg7sfa",
+      "title": "holodori Triathlon",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QCpvZGg7sfa",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3560,
+  "count": 3564,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39159,6 +39159,50 @@
       "published_at": "20261117",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/rUEyequT3ro",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GZQn5p_QiU1",
+      "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261218",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QCpvZGg7sfa",
+      "title": "holodori Triathlon",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QCpvZGg7sfa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "G9-WAiZKFjA",
+      "title": "【マリオカート8DX】3位以内だけ喋れる全集中マリオカート!!!!!!!!!!【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/G9-WAiZKFjA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8v_G4fz90sI",
+      "title": "【マリオカート8DX】しゃべらせろ!!!!!!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8v_G4fz90sI",
       "status": "unreviewed",
       "note": null
     }
