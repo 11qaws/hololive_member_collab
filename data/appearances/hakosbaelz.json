@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1299,
+  "count": 1300,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14288,6 +14288,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QCpvZGg7sfa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sSkB-FmWpeA",
+      "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sSkB-FmWpeA",
       "status": "unreviewed",
       "note": null
     }

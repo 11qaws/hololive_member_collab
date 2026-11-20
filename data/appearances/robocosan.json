@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1359,
+  "count": 1360,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -14948,6 +14948,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YBzppBSr-fY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ys-MVFw6nBk",
+      "title": "おこちゃま戦争/低音で歌って踊ってみた #vtuber #hololive #dance",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ys-MVFw6nBk",
       "status": "unreviewed",
       "note": null
     }

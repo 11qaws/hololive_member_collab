@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1306,
+  "count": 1307,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14365,6 +14365,17 @@
       "published_at": "20261112",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nW5eNn-G3MA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q5Pw7TBGesE",
+      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前!優勝目指して麻雀を楽しもう!【本配信/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q5Pw7TBGesE",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2857,
+  "count": 2858,
   "entries": [
     {
       "video_id": "UdLwgvlJqL5",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/xm0ZxpDQYJg/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6mDmMvDsEpU",
+      "title": "大ダジャレ大会開幕!【ギリギリわるくないわため】 #ギリわる",
+      "published_at": "20261119",
+      "url": "https://youtu.be/6mDmMvDsEpU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/6mDmMvDsEpU/mqdefault.jpg",
+      "partner_handle": "tsunomakiwatame",
+      "partner_name": "Watame Ch. 角巻わため",
       "sub_entries": [],
       "paired_self": null
     },

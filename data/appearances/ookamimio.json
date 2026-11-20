@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 2009,
+  "count": 2011,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -22098,6 +22098,28 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/xm0ZxpDQYJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q5Pw7TBGesE",
+      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前!優勝目指して麻雀を楽しもう!【本配信/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q5Pw7TBGesE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QWb46fkCrys",
+      "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QWb46fkCrys",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1138,
+  "count": 1139,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12517,6 +12517,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/YBzppBSr-fY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "6mDmMvDsEpU",
+      "title": "大ダジャレ大会開幕!【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/6mDmMvDsEpU",
       "status": "unreviewed",
       "note": null
     }

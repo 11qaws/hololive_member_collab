@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1574,
+  "count": 1575,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17313,6 +17313,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/RHN2OjNmTzU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "sSkB-FmWpeA",
+      "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/sSkB-FmWpeA",
       "status": "unreviewed",
       "note": null
     }

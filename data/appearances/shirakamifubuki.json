@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3564,
+  "count": 3565,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39203,6 +39203,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/8v_G4fz90sI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QWb46fkCrys",
+      "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QWb46fkCrys",
       "status": "unreviewed",
       "note": null
     }

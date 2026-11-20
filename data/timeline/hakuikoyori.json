@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 5150,
+  "count": 5153,
   "entries": [
     {
       "video_id": "GZQn5p_QiU1",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ZZdJ3dptwiU",
+      "title": "君は僕にムチュウ!💗「キライのちスキ!/ ano」踊ってみた🐸【ケロロ軍曹☆】 #vtuber #hololive #dance #踊ってみた #shorts #ホロライブ #ダンス #博衣こより",
+      "published_at": "20261120",
+      "url": "https://youtu.be/ZZdJ3dptwiU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/ZZdJ3dptwiU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "q5Pw7TBGesE",
+      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前!優勝目指して麻雀を楽しもう!【本配信/ホロライブ】",
+      "published_at": "20261119",
+      "url": "https://youtu.be/q5Pw7TBGesE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/q5Pw7TBGesE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28,7 +52,7 @@
     },
     {
       "video_id": "_X97yrqlpeQ",
-      "title": "【 #ホロじゃん 】1位獲らないと告知できません!?だけど1時間以内に告知したい告知枠!!!【博衣こより/ホロライブ】",
+      "title": "【 #ホロじゃん 】お披露目もアリ!1位獲らないと告知できません!?だけど1時間以内に告知したい告知枠!!!【博衣こより/ホロライブ】",
       "published_at": "20261118",
       "url": "https://youtu.be/_X97yrqlpeQ",
       "entry_type": "stream",
@@ -95,6 +119,18 @@
       "thumbnail": "https://img.youtube.com/vi/9kvLD7ux_fs/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QWb46fkCrys",
+      "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
+      "published_at": "20261117",
+      "url": "https://youtu.be/QWb46fkCrys",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QWb46fkCrys/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },

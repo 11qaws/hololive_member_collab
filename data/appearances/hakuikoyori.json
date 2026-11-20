@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1474,
+  "count": 1475,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16213,6 +16213,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/t6BO3oyVbqE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QWb46fkCrys",
+      "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QWb46fkCrys",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1321,
+  "count": 1322,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14530,6 +14530,17 @@
       "published_at": "20261218",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QWb46fkCrys",
+      "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QWb46fkCrys",
       "status": "unreviewed",
       "note": null
     }

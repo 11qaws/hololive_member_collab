@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1265,
+  "count": 1266,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13914,6 +13914,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "vjfSfq7N1bQ",
+      "title": "#NightTraintoNowhere MMDトワ様に踊ってもらった!🔮👾  #vtuber #dance #踊ってみた #shorts",
+      "channel_handle": "tokoyamitowa",
+      "channel_name": "Towa Ch. 常闇トワ",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/vjfSfq7N1bQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1565,
+  "count": 1566,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -17214,6 +17214,17 @@
       "published_at": "20261218",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/GZQn5p_QiU1",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "q5Pw7TBGesE",
+      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前!優勝目指して麻雀を楽しもう!【本配信/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261119",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/q5Pw7TBGesE",
       "status": "unreviewed",
       "note": null
     }
