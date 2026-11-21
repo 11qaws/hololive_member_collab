@@ -1,7 +1,31 @@
 {
   "target": "ookamimio",
-  "count": 4214,
+  "count": 4220,
   "entries": [
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "published_at": "20270314",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5yM0sRU5Oz-/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "published_at": "20270313",
+      "url": "https://youtu.be/QhiKqajK5OI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QhiKqajK5OI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GZQn5p_QiU1",
       "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
@@ -11,6 +35,54 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TZmaUP8ktzM",
+      "title": "ビギナーズハイ / 大神ミオ【Official MV】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/TZmaUP8ktzM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TZmaUP8ktzM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y5oWD5duWew",
+      "title": "【告知したい】ルーレットで出たミッションクリアで告知できる【自分にむちゃぶり】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/Y5oWD5duWew",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Y5oWD5duWew/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jWbSIu5namo",
+      "title": "ビギナーズ・ハイ",
+      "published_at": "20261120",
+      "url": "https://youtu.be/jWbSIu5namo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/jWbSIu5namo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "gaqyav5q0l0",
+      "title": "ビギナーズ・ハイ (Instrumental)",
+      "published_at": "20261120",
+      "url": "https://youtu.be/gaqyav5q0l0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/gaqyav5q0l0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

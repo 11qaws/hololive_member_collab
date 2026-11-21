@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1343,
+  "count": 1344,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14772,6 +14772,17 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/IwtKQmtQGqM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
       "status": "unreviewed",
       "note": null
     }

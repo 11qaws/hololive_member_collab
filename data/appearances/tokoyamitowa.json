@@ -1,6 +1,6 @@
 {
   "target": "tokoyamitowa",
-  "count": 1698,
+  "count": 1699,
   "appearances": [
     {
       "video_id": "zRfugM7ZT4M",
@@ -18677,6 +18677,17 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OsqitDOZNK8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YbnjAuxgUcE",
+      "title": "泥中に咲く || HAKOS BAELZ X TOKOYAMI TOWA 3D COVER 【#BaeDay2024】",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YbnjAuxgUcE",
       "status": "unreviewed",
       "note": null
     }

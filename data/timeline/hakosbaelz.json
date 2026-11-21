@@ -1,7 +1,31 @@
 {
   "target": "hakosbaelz",
-  "count": 2852,
+  "count": 2856,
   "entries": [
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "published_at": "20270314",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5yM0sRU5Oz-/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "published_at": "20270313",
+      "url": "https://youtu.be/QhiKqajK5OI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QhiKqajK5OI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "UdLwgvlJqL5",
       "title": "hololive RECORDS MUSIC STAGE 2027 DAY 1",
@@ -47,6 +71,30 @@
       "thumbnail": "https://img.youtube.com/vi/-ve7ikBgRza/mqdefault.jpg",
       "partner_handle": "hoshimachisuisei",
       "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Aot-odo5Vc4",
+      "title": "≪Ring Fit Adventure≫ I AIN'T NO QUITTER. BUT I MAY CHEAT... slightly #RoadToREGALIA #sponsored",
+      "published_at": "20261120",
+      "url": "https://youtu.be/Aot-odo5Vc4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Aot-odo5Vc4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YbnjAuxgUcE",
+      "title": "泥中に咲く || HAKOS BAELZ X TOKOYAMI TOWA 3D COVER 【#BaeDay2024】",
+      "published_at": "20261120",
+      "url": "https://youtu.be/YbnjAuxgUcE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YbnjAuxgUcE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

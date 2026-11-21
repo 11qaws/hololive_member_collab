@@ -1,6 +1,6 @@
 {
   "target": "houshoumarine",
-  "count": 1722,
+  "count": 1724,
   "appearances": [
     {
       "video_id": "o2FPFGroPQQ",
@@ -18941,6 +18941,28 @@
       "published_at": "20250601",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/r1aDEhYv41s",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QhiKqajK5OI",
       "status": "unreviewed",
       "note": null
     }

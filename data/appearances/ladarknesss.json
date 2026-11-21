@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1089,
+  "count": 1091,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -11978,6 +11978,28 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/q5Pw7TBGesE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-Qw0RCQAcco",
+      "title": "【セルフ3D】「お姉さま♡ラヴコール」の振り入れしちゃいます🛸💜 【ホロライブ/夏色まつり】",
+      "channel_handle": "natsuiromatsuri",
+      "channel_name": "Matsuri Channel 夏色まつり",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-Qw0RCQAcco",
       "status": "unreviewed",
       "note": null
     }

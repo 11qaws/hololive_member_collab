@@ -1,7 +1,19 @@
 {
   "target": "kosekibijou",
-  "count": 2631,
+  "count": 2633,
   "entries": [
+    {
+      "video_id": "nHXh0p-xEQd",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE1",
+      "published_at": "20270312",
+      "url": "https://youtu.be/nHXh0p-xEQd",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/nHXh0p-xEQd/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GZQn5p_QiU1",
       "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
@@ -15,6 +27,30 @@
       "paired_self": null
     },
     {
+      "video_id": "H2T4j8rdO5A",
+      "title": "【Grand Theft Auto VI】FLORIDA GEM ON THE LOOSE",
+      "published_at": "20261120",
+      "url": "https://youtu.be/H2T4j8rdO5A",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/H2T4j8rdO5A/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5EbZlXQyVzA",
+      "title": "【Grand Theft Auto VI】A MENACE TO SOCIETY",
+      "published_at": "20261119",
+      "url": "https://youtu.be/5EbZlXQyVzA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5EbZlXQyVzA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "sSkB-FmWpeA",
       "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
       "published_at": "20261119",
@@ -23,18 +59,6 @@
       "thumbnail": "https://img.youtube.com/vi/sSkB-FmWpeA/mqdefault.jpg",
       "partner_handle": "irys",
       "partner_name": "IRyS Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "5EbZlXQyVzA",
-      "title": "【Grand Theft Auto VI】A MENACE TO SOCIETY",
-      "published_at": "20261118",
-      "url": "https://youtu.be/5EbZlXQyVzA",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/5EbZlXQyVzA/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,7 +1,31 @@
 {
   "target": "shiroganenoel",
-  "count": 3920,
+  "count": 3923,
   "entries": [
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "published_at": "20270313",
+      "url": "https://youtu.be/oq62Hmf6VCU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oq62Hmf6VCU/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "published_at": "20270313",
+      "url": "https://youtu.be/QhiKqajK5OI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/QhiKqajK5OI/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "GZQn5p_QiU1",
       "title": "holo Year-End Cup 2026 - Mario Kart 8 DX ",
@@ -23,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/QCpvZGg7sfa/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6SNcJKQG3Wc",
+      "title": "【切り抜き視聴会】カワウソ先生(?)と一緒にホロ鯖ARKの切り抜きみよう~!!!🦦【白銀ノエル/ホロライブ】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/6SNcJKQG3Wc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6SNcJKQG3Wc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

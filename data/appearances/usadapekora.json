@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1697,
+  "count": 1698,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18666,6 +18666,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yuLlvdYwtng",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oq62Hmf6VCU",
       "status": "unreviewed",
       "note": null
     }

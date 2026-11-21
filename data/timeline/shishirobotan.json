@@ -1,7 +1,31 @@
 {
   "target": "shishirobotan",
-  "count": 3476,
+  "count": 3478,
   "entries": [
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "published_at": "20270313",
+      "url": "https://youtu.be/oq62Hmf6VCU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/oq62Hmf6VCU/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wc5dfUY9VPs",
+      "title": "【GTA 6】13年ぶりの新作らしいぞ!(天下無双)【獅白ぼたん/ホロライブ】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/wc5dfUY9VPs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/wc5dfUY9VPs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "dNI9zh3zq_Q",
       "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",

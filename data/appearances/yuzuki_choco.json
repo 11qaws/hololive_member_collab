@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 1073,
+  "count": 1074,
   "appearances": [
     {
       "video_id": "QpYSkEMJeTM",
@@ -11802,6 +11802,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3WeD0WJUGxM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oq62Hmf6VCU",
       "status": "unreviewed",
       "note": null
     }

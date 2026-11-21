@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1532,
+  "count": 1534,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16851,6 +16851,28 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/t6BO3oyVbqE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QhiKqajK5OI",
       "status": "unreviewed",
       "note": null
     }

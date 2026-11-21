@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2315,
+  "count": 2319,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/S0sVsWiJTcs/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "published_at": "20270314",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/5yM0sRU5Oz-/mqdefault.jpg",
+      "partner_handle": "hololive",
+      "partner_name": "hololive ホロライブ - VTuber Group",
       "sub_entries": [],
       "paired_self": null
     },
@@ -39,12 +51,48 @@
       "paired_self": null
     },
     {
+      "video_id": "XwD_9RqZDU8",
+      "title": "リオーナはデビルじゃないもんね?👿 #vtuber #shorts #dance #hololive",
+      "published_at": "20261121",
+      "url": "https://youtu.be/XwD_9RqZDU8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/XwD_9RqZDU8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KrGnr2zYf_w",
+      "title": "【One Million Coins】コイン拾いまくり女でーす✌【ホロライブ  響咲リオナ】",
+      "published_at": "20261120",
+      "url": "https://youtu.be/KrGnr2zYf_w",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KrGnr2zYf_w/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "BLvpGlnWE0Y",
       "title": "【とんかつシミュレーター】ワンオペでとんかつ屋さんになるでえ~!【ホロライブ  響咲リオナ】",
       "published_at": "20261120",
       "url": "https://youtu.be/BLvpGlnWE0Y",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/BLvpGlnWE0Y/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "A4Pbs28aQtI",
+      "title": "サイレントマジョリティーを歌いながら踊ってみた🎵 #vtuber #shorts #hololive #dance",
+      "published_at": "20261120",
+      "url": "https://youtu.be/A4Pbs28aQtI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/A4Pbs28aQtI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1258,
+  "count": 1259,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13837,6 +13837,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QCpvZGg7sfa",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nHXh0p-xEQd",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE1",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270312",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nHXh0p-xEQd",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1575,
+  "count": 1576,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17324,6 +17324,17 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/sSkB-FmWpeA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nHXh0p-xEQd",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE1",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270312",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nHXh0p-xEQd",
       "status": "unreviewed",
       "note": null
     }

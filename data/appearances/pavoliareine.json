@@ -1,6 +1,6 @@
 {
   "target": "pavoliareine",
-  "count": 1047,
+  "count": 1048,
   "appearances": [
     {
       "video_id": "XqtmxbIUVAs",
@@ -11516,6 +11516,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/fwKyf3sRw5k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "nHXh0p-xEQd",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE1",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270312",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/nHXh0p-xEQd",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "takanashikiara",
-  "count": 1145,
+  "count": 1146,
   "appearances": [
     {
       "video_id": "sT4tuLP6UJQ",
@@ -12594,6 +12594,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/9WH8DMp3iOc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oq62Hmf6VCU",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE2",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oq62Hmf6VCU",
       "status": "unreviewed",
       "note": null
     }

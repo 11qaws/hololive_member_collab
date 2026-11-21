@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1139,
+  "count": 1142,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12528,6 +12528,39 @@
       "published_at": "20261119",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/6mDmMvDsEpU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QhiKqajK5OI",
+      "title": "hololive 8th fes.「Brand-New Fanfare」Dreams STAGE",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270313",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QhiKqajK5OI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uuUNuDC0j-U",
+      "title": "テレビって斬って捨ててもいいの?⇒ダメだよ!!! 家電リサイクル法で正しい処分【AZKi・風真いろは】#shorts #PR",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uuUNuDC0j-U",
       "status": "unreviewed",
       "note": null
     }

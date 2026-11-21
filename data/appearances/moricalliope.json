@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1531,
+  "count": 1532,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16840,6 +16840,17 @@
       "published_at": "20261114",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tRnWGzjlqS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "5yM0sRU5Oz-",
+      "title": "hololive 8th fes.「Brand-New Fanfare」STAGE3",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20270314",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/5yM0sRU5Oz-",
       "status": "unreviewed",
       "note": null
     }
