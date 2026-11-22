@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 928,
+  "count": 929,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -10207,6 +10207,17 @@
       "published_at": "20261120",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EHIhYF-bAIs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TnEeyNE1cAM",
+      "title": "駆けるlane 弾け⾶ぶfeeling❤️‍🔥✨",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261121",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TnEeyNE1cAM",
       "status": "unreviewed",
       "note": null
     }

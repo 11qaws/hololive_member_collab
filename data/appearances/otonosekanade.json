@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1309,
+  "count": 1310,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14398,6 +14398,17 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "k61mlQRtbN4",
+      "title": "なんだこれ?あずのせ編~AZKi's LOCATION! #AZロケ 見てね!【ホロライブ / AZKi】#ぷちあず #shorts #音乃瀬奏 #奏の森リゾート #伊豆",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261121",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/k61mlQRtbN4",
       "status": "unreviewed",
       "note": null
     }

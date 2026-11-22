@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1161,
+  "count": 1162,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12770,6 +12770,17 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qREmVttAYn8",
+      "title": "【 #ホロドリトライアスロン 】海外旅行をかけたアツい闘いが始まる…!!✈ 神視点【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qREmVttAYn8",
       "status": "unreviewed",
       "note": null
     }

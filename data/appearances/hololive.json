@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 195,
+  "count": 196,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2144,6 +2144,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3WeD0WJUGxM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TdSXrE2f-_g",
+      "title": "【ASMR】睡眠導入♡癒しのオイル(囁き/耳かき/オイルマッサージ)【雪花ラミィ/ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20210526",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TdSXrE2f-_g",
       "status": "unreviewed",
       "note": null
     }

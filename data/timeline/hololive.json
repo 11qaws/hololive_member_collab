@@ -1,7 +1,19 @@
 {
   "target": "hololive",
-  "count": 2876,
+  "count": 2878,
   "entries": [
+    {
+      "video_id": "OHQMiWqTiJg",
+      "title": "【アニメ】ツモ!1億点!",
+      "published_at": "20261122",
+      "url": "https://youtu.be/OHQMiWqTiJg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OHQMiWqTiJg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "QWb46fkCrys",
       "title": "hololive Next 2026.11.20|【最新情報続々】ホロライブの未来が動き出す!8th fes./EXPO情報も解禁!",
@@ -30599,6 +30611,18 @@
       "thumbnail": "https://img.youtube.com/vi/yRgjhtHsvNA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TdSXrE2f-_g",
+      "title": "【ASMR】睡眠導入♡癒しのオイル(囁き/耳かき/オイルマッサージ)【雪花ラミィ/ホロライブ】",
+      "published_at": "20210526",
+      "url": "https://youtu.be/TdSXrE2f-_g",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/TdSXrE2f-_g/mqdefault.jpg",
+      "partner_handle": "yukihanalamy",
+      "partner_name": "Lamy Ch. 雪花ラミィ",
       "sub_entries": [],
       "paired_self": null
     },

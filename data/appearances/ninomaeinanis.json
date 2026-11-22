@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1181,
+  "count": 1182,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -12990,6 +12990,17 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wPe0DW46bRY",
+      "title": "Of Blood and Jailbirds | An Original Horror Story | Nerissa 2026 Birthday Celebration",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261116",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wPe0DW46bRY",
       "status": "unreviewed",
       "note": null
     }

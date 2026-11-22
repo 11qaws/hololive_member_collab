@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3567,
+  "count": 3569,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39236,6 +39236,28 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "qREmVttAYn8",
+      "title": "【 #ホロドリトライアスロン 】海外旅行をかけたアツい闘いが始まる…!!✈ 神視点【鷹嶺ルイ/ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/qREmVttAYn8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s5J6gnDSq_k",
+      "title": "【#咲き乱れみこち】ファンに突撃インタビュー!さくらみこ 2nd Live “Blooming Parade!!\"【ホロライブ/さくらみこ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s5J6gnDSq_k",
       "status": "unreviewed",
       "note": null
     }

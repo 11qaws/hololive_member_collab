@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 4135,
+  "count": 4136,
   "entries": [
     {
       "video_id": "oq62Hmf6VCU",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-S1dLfsc4Qk",
+      "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #04【 猫又おかゆ/ホロライブ 】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/-S1dLfsc4Qk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/-S1dLfsc4Qk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -51,6 +63,18 @@
       "paired_self": null
     },
     {
+      "video_id": "1TEs3v4hA78",
+      "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+      "published_at": "20261119",
+      "url": "https://youtu.be/1TEs3v4hA78",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/1TEs3v4hA78/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "vnOhAveMDB0",
       "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY1【ホロライブ / AZKi】",
       "published_at": "20261119",
@@ -71,18 +95,6 @@
       "thumbnail": "https://img.youtube.com/vi/xm0ZxpDQYJg/mqdefault.jpg",
       "partner_handle": "usadapekora",
       "partner_name": "Pekora Ch. 兎田ぺこら",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "1TEs3v4hA78",
-      "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
-      "published_at": "20261118",
-      "url": "https://youtu.be/1TEs3v4hA78",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/1TEs3v4hA78/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
