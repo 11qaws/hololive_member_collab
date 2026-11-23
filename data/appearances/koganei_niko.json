@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 929,
+  "count": 930,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -10218,6 +10218,17 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TnEeyNE1cAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KM14kMDVaus",
+      "title": "【重大告知】セルフ3Ⅾでリオナに歌ってほしいホロメンオリ曲リクエストアワー✨【ホロライブ  響咲リオナ】",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KM14kMDVaus",
       "status": "unreviewed",
       "note": null
     }

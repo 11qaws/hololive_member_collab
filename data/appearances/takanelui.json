@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1534,
+  "count": 1539,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -16873,6 +16873,61 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QhiKqajK5OI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "4f2jjlJF_EM",
+      "title": "【#ホロドリトライアスロン】優勝して海外行きたい!!!!パスポートならあります!!【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/4f2jjlJF_EM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bqiKwe0ToZs",
+      "title": "【holoDori Triathlon】winner pov (again) #calliolive #holodori",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bqiKwe0ToZs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gr3hePAjGgc",
+      "title": "≪#ホロドリトライアスロン≫ yolo is my ninja way【#holodori 】",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hhKG504_Px4",
+      "title": "【#ホロドリトライアスロン】minigames oh minigames..............【#holodori】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hhKG504_Px4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHQMiWqTiJg",
+      "title": "【アニメ】ツモ!1億点!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHQMiWqTiJg",
       "status": "unreviewed",
       "note": null
     }

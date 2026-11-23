@@ -1,6 +1,6 @@
 {
   "target": "ichijouririka",
-  "count": 1524,
+  "count": 1525,
   "appearances": [
     {
       "video_id": "RGlLewvi5i4",
@@ -16763,6 +16763,17 @@
       "published_at": "20261120",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/3KhZt6F9mi8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHQMiWqTiJg",
+      "title": "【アニメ】ツモ!1億点!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHQMiWqTiJg",
       "status": "unreviewed",
       "note": null
     }

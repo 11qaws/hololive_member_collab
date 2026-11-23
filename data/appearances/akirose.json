@@ -1,6 +1,6 @@
 {
   "target": "akirose",
-  "count": 1338,
+  "count": 1339,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -14717,6 +14717,17 @@
       "published_at": "20261120",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k6fQMwzFPoM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHQMiWqTiJg",
+      "title": "【アニメ】ツモ!1億点!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHQMiWqTiJg",
       "status": "unreviewed",
       "note": null
     }

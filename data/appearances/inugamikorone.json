@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1165,
+  "count": 1166,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12814,6 +12814,17 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "s5zE-af2KS0",
+      "title": "【#すうころ】初のPhasmophobia!調査する🔎【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/s5zE-af2KS0",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2323,
+  "count": 2326,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -47,6 +47,42 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YnvABKEizsE",
+      "title": "【Original】Reverberate / 響咲リオナ【Official MV】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/YnvABKEizsE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/YnvABKEizsE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "v7zzDu5G-mM",
+      "title": "ファンサ歌って踊ってみた🩰ジャンプしながら歌うの特技です🎤 #vtuber #shorts #dance #hololive",
+      "published_at": "20261123",
+      "url": "https://youtu.be/v7zzDu5G-mM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/v7zzDu5G-mM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "KM14kMDVaus",
+      "title": "【重大告知】セルフ3Ⅾでリオナに歌ってほしいホロメンオリ曲リクエストアワー✨【ホロライブ  響咲リオナ】",
+      "published_at": "20261122",
+      "url": "https://youtu.be/KM14kMDVaus",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/KM14kMDVaus/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "otonosekanade",
-  "count": 1310,
+  "count": 1311,
   "appearances": [
     {
       "video_id": "Z2gNB4B4kLY",
@@ -14409,6 +14409,17 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/k61mlQRtbN4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EMquh5zuKhg",
+      "title": "ホロじゃんえんじょい大会決勝卓!!!大神ミオ視点",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EMquh5zuKhg",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 1473,
+  "count": 1475,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -16202,6 +16202,28 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TnEeyNE1cAM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "AYCFOcjFayo",
+      "title": "【マリオカート8DX】すうちはで練習配信!【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/AYCFOcjFayo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "uLKB62PRGjI",
+      "title": "【また!?爆買い】無印良品のオススメはコレ‼千速と一緒ににお買い物♪【ルイ姉、今日なにする?】#9",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/uLKB62PRGjI",
       "status": "unreviewed",
       "note": null
     }

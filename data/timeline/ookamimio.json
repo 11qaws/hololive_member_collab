@@ -1,6 +1,6 @@
 {
   "target": "ookamimio",
-  "count": 4220,
+  "count": 4222,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "yw2BUGe3_0Q",
+      "title": "【#朝ミオ 】月曜日だよ~~!おはみぉーん!",
+      "published_at": "20261122",
+      "url": "https://youtu.be/yw2BUGe3_0Q",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/yw2BUGe3_0Q/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EMquh5zuKhg",
+      "title": "ホロじゃんえんじょい大会決勝卓!!!大神ミオ視点",
+      "published_at": "20261122",
+      "url": "https://youtu.be/EMquh5zuKhg",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EMquh5zuKhg/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

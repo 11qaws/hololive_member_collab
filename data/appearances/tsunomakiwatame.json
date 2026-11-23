@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1890,
+  "count": 1892,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20789,6 +20789,28 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/hdHVlPKYKwQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WnUbG5kTzwQ",
+      "title": "#01 【バイオハザード6】フレわたのわちゃわちゃ劇場エイダ編【不知火フレア/ホロライブ",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WnUbG5kTzwQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "gCHgF_Mq81I",
+      "title": "【占いの館】悩める子羊と・・フェネック?!ご来店です!【#大神ミオの占いの館】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20201031",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/gCHgF_Mq81I",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "hakuikoyori",
-  "count": 1477,
+  "count": 1480,
   "appearances": [
     {
       "video_id": "NBOtojTB5bI",
@@ -16246,6 +16246,39 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QhiKqajK5OI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "EMquh5zuKhg",
+      "title": "ホロじゃんえんじょい大会決勝卓!!!大神ミオ視点",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/EMquh5zuKhg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g0MU5pUXZbU",
+      "title": "#ホロじゃんエンジョイ杯 】大初心者麻雀🔰【水宮枢/ホロライブ】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g0MU5pUXZbU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "OHQMiWqTiJg",
+      "title": "【アニメ】ツモ!1億点!",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261122",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/OHQMiWqTiJg",
       "status": "unreviewed",
       "note": null
     }
