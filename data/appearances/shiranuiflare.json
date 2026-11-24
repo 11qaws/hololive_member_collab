@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1631,
+  "count": 1632,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17940,6 +17940,17 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/C5eoKaenEa0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "w_bWduVfbK0",
+      "title": "【#白銀ノエル生誕カウントダウン】みんなで誕生日を迎えよう~🎉✨【白銀ノエル/ホロライブ】",
+      "channel_handle": "shiroganenoel",
+      "channel_name": "Noel Ch. 白銀ノエル",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/w_bWduVfbK0",
       "status": "unreviewed",
       "note": null
     }

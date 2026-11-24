@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2454,
+  "count": 2455,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -26993,6 +26993,17 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tC27lnIFeDg",
+      "title": "【できる?】コンビチャレンジ!/ Duo Pose Challenge 💃#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tC27lnIFeDg",
       "status": "unreviewed",
       "note": null
     }

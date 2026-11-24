@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 3992,
+  "count": 3993,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -23,6 +23,18 @@
       "thumbnail": "https://img.youtube.com/vi/QhiKqajK5OI/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "w_bWduVfbK0",
+      "title": "【#白銀ノエル生誕カウントダウン】みんなで誕生日を迎えよう~🎉✨【白銀ノエル/ホロライブ】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/w_bWduVfbK0",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/w_bWduVfbK0/mqdefault.jpg",
+      "partner_handle": "shiroganenoel",
+      "partner_name": "Noel Ch. 白銀ノエル",
       "sub_entries": [],
       "paired_self": null
     },

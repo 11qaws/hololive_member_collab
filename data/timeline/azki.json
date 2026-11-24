@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 2864,
+  "count": 2869,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,66 @@
       "thumbnail": "https://img.youtube.com/vi/UdLwgvlJqL5/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "CDk99dGMADs",
+      "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY2【ホロライブ / AZKi】",
+      "published_at": "20261124",
+      "url": "https://youtu.be/CDk99dGMADs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/CDk99dGMADs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-0WeoGPRPXo",
+      "title": "【 #ホロ7DTD 】まずはトレーダー・・ミッションだ!!!!!!【大神ミオ視点】",
+      "published_at": "20261124",
+      "url": "https://youtu.be/-0WeoGPRPXo",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-0WeoGPRPXo/mqdefault.jpg",
+      "partner_handle": "ookamimio",
+      "partner_name": "Mio Channel 大神ミオ",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UNZnpK1i0qI",
+      "title": "【 #ホロ7DTD 】初めての7 Days to Die!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261124",
+      "url": "https://youtu.be/UNZnpK1i0qI",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/UNZnpK1i0qI/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "wnh5_fW5itM",
+      "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY2 ぺこ!【ホロライブ/兎田ぺこら】",
+      "published_at": "20261124",
+      "url": "https://youtu.be/wnh5_fW5itM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/wnh5_fW5itM/mqdefault.jpg",
+      "partner_handle": "usadapekora",
+      "partner_name": "Pekora Ch. 兎田ぺこら",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "NmVrnvZp2Mg",
+      "title": "【 #ホロ7DTD/DAY2  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/NmVrnvZp2Mg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/NmVrnvZp2Mg/mqdefault.jpg",
+      "partner_handle": "nekomataokayu",
+      "partner_name": "Okayu Ch. 猫又おかゆ",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1785,
+  "count": 1790,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19634,6 +19634,61 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-0WeoGPRPXo",
+      "title": "【 #ホロ7DTD 】まずはトレーダー・・ミッションだ!!!!!!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-0WeoGPRPXo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CDk99dGMADs",
+      "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY2【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CDk99dGMADs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UNZnpK1i0qI",
+      "title": "【 #ホロ7DTD 】初めての7 Days to Die!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UNZnpK1i0qI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wnh5_fW5itM",
+      "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY2 ぺこ!【ホロライブ/兎田ぺこら】",
+      "channel_handle": "usadapekora",
+      "channel_name": "Pekora Ch. 兎田ぺこら",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wnh5_fW5itM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QS9M_pIPiNk",
+      "title": "白上フブキ「Congratulations!! FUBUKI BIRTHDAY PARTY.2019」",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20191129",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QS9M_pIPiNk",
       "status": "unreviewed",
       "note": null
     }

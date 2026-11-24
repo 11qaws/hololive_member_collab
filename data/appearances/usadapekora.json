@@ -1,6 +1,6 @@
 {
   "target": "usadapekora",
-  "count": 1698,
+  "count": 1702,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -18677,6 +18677,50 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-0WeoGPRPXo",
+      "title": "【 #ホロ7DTD 】まずはトレーダー・・ミッションだ!!!!!!【大神ミオ視点】",
+      "channel_handle": "ookamimio",
+      "channel_name": "Mio Channel 大神ミオ",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-0WeoGPRPXo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "CDk99dGMADs",
+      "title": "【#ホロ7DTD】はじめての7 Days to Die!生き残りたい――DAY2【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/CDk99dGMADs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "NmVrnvZp2Mg",
+      "title": "【 #ホロ7DTD/DAY2  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+      "channel_handle": "nekomataokayu",
+      "channel_name": "Okayu Ch. 猫又おかゆ",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/NmVrnvZp2Mg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "UNZnpK1i0qI",
+      "title": "【 #ホロ7DTD 】初めての7 Days to Die!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/UNZnpK1i0qI",
       "status": "unreviewed",
       "note": null
     }

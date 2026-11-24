@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5894,
+  "count": 5896,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "9_23p_P38JI",
+      "title": "【 ゼルダの伝説 時のオカリナ 】完全初見!時オカリメイク版で大冒険始めます💨 #2【角巻わため/ホロライブ4期生】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/9_23p_P38JI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9_23p_P38JI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "rW0OSe04SwU",
+      "title": "「急がば回れ」の由来はなんでしょう?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261123",
+      "url": "https://youtu.be/rW0OSe04SwU",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/rW0OSe04SwU/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -99,6 +123,18 @@
       "paired_self": null
     },
     {
+      "video_id": "k6fQMwzFPoM",
+      "title": "【 Japanese Ramen Simulator 】アキちゃんとラーメン屋さん開店!!!【角巻わため/ホロライブ4期生】",
+      "published_at": "20261121",
+      "url": "https://youtu.be/k6fQMwzFPoM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/k6fQMwzFPoM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "hdHVlPKYKwQ",
       "title": "【Japanese Ramen Simulator 】らぁ麺がんぎまり!わためと開店!#ガンギマリ姉妹【ホロライブ/アキロゼ】",
       "published_at": "20261121",
@@ -107,18 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/hdHVlPKYKwQ/mqdefault.jpg",
       "partner_handle": "akirose",
       "partner_name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "k6fQMwzFPoM",
-      "title": "【 Japanese Ramen Simulator 】アキちゃんとラーメン屋さん開店!!!【角巻わため/ホロライブ4期生】",
-      "published_at": "20261120",
-      "url": "https://youtu.be/k6fQMwzFPoM",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/k6fQMwzFPoM/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

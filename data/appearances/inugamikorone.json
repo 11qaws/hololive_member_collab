@@ -1,6 +1,6 @@
 {
   "target": "inugamikorone",
-  "count": 1166,
+  "count": 1167,
   "appearances": [
     {
       "video_id": "iMqmBxo-Esw",
@@ -12825,6 +12825,17 @@
       "published_at": "20261122",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/s5zE-af2KS0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "QS9M_pIPiNk",
+      "title": "白上フブキ「Congratulations!! FUBUKI BIRTHDAY PARTY.2019」",
+      "channel_handle": "shirakamifubuki",
+      "channel_name": "フブキCh。白上フブキ",
+      "published_at": "20191129",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/QS9M_pIPiNk",
       "status": "unreviewed",
       "note": null
     }

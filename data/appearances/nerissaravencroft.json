@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1157,
+  "count": 1158,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12726,6 +12726,17 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QhiKqajK5OI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tC27lnIFeDg",
+      "title": "【できる?】コンビチャレンジ!/ Duo Pose Challenge 💃#hololive #ホロライブ",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tC27lnIFeDg",
       "status": "unreviewed",
       "note": null
     }

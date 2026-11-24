@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 3033,
+  "count": 3035,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/5yM0sRU5Oz-/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OSONnE5Y0Bo",
+      "title": "IT'S RAINING so I wanna chill and play game",
+      "published_at": "20261124",
+      "url": "https://youtu.be/OSONnE5Y0Bo",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OSONnE5Y0Bo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UH3ZFbYqynQ",
+      "title": "#MMMalas : GOOD MALAM MALAS",
+      "published_at": "20261123",
+      "url": "https://youtu.be/UH3ZFbYqynQ",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UH3ZFbYqynQ/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

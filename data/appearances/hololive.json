@@ -1,6 +1,6 @@
 {
   "target": "hololive",
-  "count": 196,
+  "count": 197,
   "appearances": [
     {
       "video_id": "Ky9t_UymVxw",
@@ -2155,6 +2155,17 @@
       "published_at": "20210526",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/TdSXrE2f-_g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bV36bxhC5_8",
+      "title": "【#アキちょこナイパレ|第62回】どこでも瞬間移動できる🆚どんな人の心も読める|シスターローズの懺悔室🌹~深夜のひとくちラジオ~",
+      "channel_handle": "akirose",
+      "channel_name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bV36bxhC5_8",
       "status": "unreviewed",
       "note": null
     }

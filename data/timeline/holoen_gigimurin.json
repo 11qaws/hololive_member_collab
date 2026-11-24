@@ -39,21 +39,9 @@
       "paired_self": null
     },
     {
-      "video_id": "56aiJ7tbc9Q",
-      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Calamity in the Coils + Mount Hunting 🌱 | #ad 💄👧 (Spoiler Alert)",
-      "published_at": "20261122",
-      "url": "https://youtu.be/56aiJ7tbc9Q",
-      "entry_type": "collab",
-      "thumbnail": "https://img.youtube.com/vi/56aiJ7tbc9Q/mqdefault.jpg",
-      "partner_handle": "holoen_erbloodflame",
-      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
       "video_id": "4brS7Q-Ytmk",
       "title": "【DEADLOCK】waiter! waiter! 5 MORE HOURS OF DEADLOCK with @HyakutoKyoko​",
-      "published_at": "20261121",
+      "published_at": "20261122",
       "url": "https://youtu.be/4brS7Q-Ytmk",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/4brS7Q-Ytmk/mqdefault.jpg",
@@ -65,12 +53,24 @@
     {
       "video_id": "tJoru1Dc5wQ",
       "title": "【SC KETCHUP】LET'S KETCHUP!",
-      "published_at": "20261121",
+      "published_at": "20261122",
       "url": "https://youtu.be/tJoru1Dc5wQ",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/tJoru1Dc5wQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "56aiJ7tbc9Q",
+      "title": "🔴LIVE |【FINAL FANTASY XIV Online】Calamity in the Coils + Mount Hunting 🌱 | #ad 💄👧 (Spoiler Alert)",
+      "published_at": "20261122",
+      "url": "https://youtu.be/56aiJ7tbc9Q",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/56aiJ7tbc9Q/mqdefault.jpg",
+      "partner_handle": "holoen_erbloodflame",
+      "partner_name": "Elizabeth Rose Bloodflame Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
