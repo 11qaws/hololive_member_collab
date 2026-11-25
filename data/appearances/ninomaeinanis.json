@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1182,
+  "count": 1183,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13001,6 +13001,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wPe0DW46bRY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jbOEPEbWltY",
+      "title": "Sneak level: 100🤦‍♀️ #food #funny #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jbOEPEbWltY",
       "status": "unreviewed",
       "note": null
     }

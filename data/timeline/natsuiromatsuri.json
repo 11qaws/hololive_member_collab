@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 4112,
+  "count": 4113,
   "entries": [
     {
       "video_id": "QhiKqajK5OI",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "QJpTGSscW_4",
+      "title": "深夜歌枠",
+      "published_at": "20261124",
+      "url": "https://youtu.be/QJpTGSscW_4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/QJpTGSscW_4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

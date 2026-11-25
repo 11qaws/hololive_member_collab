@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2455,
+  "count": 2456,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -27004,6 +27004,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tC27lnIFeDg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SM-kz6n2XGc",
+      "title": "【3DでVRホラー】きんじょーずで挑戦‼️頑張ったら告知ができる人たち【星街すいせい / #ほしまちすたじお】",
+      "channel_handle": "hoshimachisuisei",
+      "channel_name": "Suisei Channel",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SM-kz6n2XGc",
       "status": "unreviewed",
       "note": null
     }

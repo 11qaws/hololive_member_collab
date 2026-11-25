@@ -1,6 +1,6 @@
 {
   "target": "yuzuki_choco",
-  "count": 3225,
+  "count": 3226,
   "entries": [
     {
       "video_id": "oq62Hmf6VCU",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/oq62Hmf6VCU/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "5f3fFtTUe7M",
+      "title": "ファッションビート踊ってみた#踊ってみた #vtuber #dance #ホロライブ #hololive #さくらみこ #癒月ちょこ",
+      "published_at": "20261125",
+      "url": "https://youtu.be/5f3fFtTUe7M",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/5f3fFtTUe7M/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

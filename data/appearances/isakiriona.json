@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1313,
+  "count": 1314,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14442,6 +14442,17 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0YTPm1Ybo8A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-aSl-sxVcU0",
+      "title": "大好きなリオナちゃんと一緒に踊った…!! #hololive #dance #challenge #isakiriona #vtuber",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-aSl-sxVcU0",
       "status": "unreviewed",
       "note": null
     }

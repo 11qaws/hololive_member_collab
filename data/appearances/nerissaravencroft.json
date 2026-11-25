@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1158,
+  "count": 1159,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12737,6 +12737,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/tC27lnIFeDg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0MD-iYNKS7k",
+      "title": "Legit reasons frfr😭 #funny #relatable #hololive",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261118",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0MD-iYNKS7k",
       "status": "unreviewed",
       "note": null
     }

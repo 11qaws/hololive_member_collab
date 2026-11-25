@@ -1,6 +1,6 @@
 {
   "target": "nanashimumei",
-  "count": 678,
+  "count": 679,
   "appearances": [
     {
       "video_id": "3n1AThmEii8",
@@ -7457,6 +7457,17 @@
       "published_at": "20230314",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WHOsFw-00l4",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "8sf1VGjvILg",
+      "title": "ロキ || preYdator COVER 【#BaeDay2024】",
+      "channel_handle": "hakosbaelz",
+      "channel_name": "Hakos Baelz Ch. hololive",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/8sf1VGjvILg",
       "status": "unreviewed",
       "note": null
     }

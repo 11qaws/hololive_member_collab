@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 849,
+  "count": 850,
   "appearances": [
     {
       "video_id": "47DiEPu8w3w",
@@ -9338,6 +9338,17 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ThCKxAiPG9k",
+      "title": "【PlateUp!】Pemaloe and Chattini, please save me from h e r",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ThCKxAiPG9k",
       "status": "unreviewed",
       "note": null
     }

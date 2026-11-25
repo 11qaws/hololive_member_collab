@@ -1,6 +1,6 @@
 {
   "target": "holoen_raorapanthera",
-  "count": 1479,
+  "count": 1480,
   "entries": [
     {
       "video_id": "nHXh0p-xEQd",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/nHXh0p-xEQd/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ThCKxAiPG9k",
+      "title": "【PlateUp!】Pemaloe and Chattini, please save me from h e r",
+      "published_at": "20261124",
+      "url": "https://youtu.be/ThCKxAiPG9k",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ThCKxAiPG9k/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

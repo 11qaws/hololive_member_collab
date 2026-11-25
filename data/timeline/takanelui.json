@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 4140,
+  "count": 4141,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -23,6 +23,42 @@
       "thumbnail": "https://img.youtube.com/vi/QhiKqajK5OI/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "SM-kz6n2XGc",
+      "title": "【3DでVRホラー】きんじょーずで挑戦‼️頑張ったら告知ができる人たち【星街すいせい / #ほしまちすたじお】",
+      "published_at": "20261125",
+      "url": "https://youtu.be/SM-kz6n2XGc",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/SM-kz6n2XGc/mqdefault.jpg",
+      "partner_handle": "hoshimachisuisei",
+      "partner_name": "Suisei Channel",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "qREmVttAYn8",
+      "title": "【 #ホロドリトライアスロン 】海外旅行をかけたアツい闘いが始まる…!!✈ 神視点【鷹嶺ルイ/ホロライブ】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/qREmVttAYn8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/qREmVttAYn8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "s8bt0bGWdTk",
+      "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見!オッカムル島でゴールドマンを作る!?【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "published_at": "20261123",
+      "url": "https://youtu.be/s8bt0bGWdTk",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/s8bt0bGWdTk/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -107,30 +143,6 @@
       "thumbnail": "https://img.youtube.com/vi/9f3XGt5I1tU/mqdefault.jpg",
       "partner_handle": "shirakamifubuki",
       "partner_name": "フブキCh。白上フブキ",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "qREmVttAYn8",
-      "title": "【 #ホロドリトライアスロン 】海外旅行をかけたアツい闘いが始まる…!!✈ 神視点【鷹嶺ルイ/ホロライブ】",
-      "published_at": "20261122",
-      "url": "https://youtu.be/qREmVttAYn8",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/qREmVttAYn8/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "s8bt0bGWdTk",
-      "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見!オッカムル島でゴールドマンを作る!?【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published_at": "20261122",
-      "url": "https://youtu.be/s8bt0bGWdTk",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/s8bt0bGWdTk/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

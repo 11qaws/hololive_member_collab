@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 2177,
+  "count": 2178,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "EQHfSP8uhig",
+      "title": "【Onimusha: Way of the Sword】Back at unsheathing my SWORD",
+      "published_at": "20261124",
+      "url": "https://youtu.be/EQHfSP8uhig",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/EQHfSP8uhig/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
