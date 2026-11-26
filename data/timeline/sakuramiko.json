@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 5754,
+  "count": 5755,
   "entries": [
     {
       "video_id": "QhiKqajK5OI",
@@ -47,6 +47,18 @@
       "thumbnail": "https://img.youtube.com/vi/GZQn5p_QiU1/mqdefault.jpg",
       "partner_handle": "rindo_chihaya",
       "partner_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Dr9FYelw4D4",
+      "title": "視聴チケットは11/29 まで🎟️🌸\"Blooming Parade!!\" ライブから「咲き誇れアイドル」 #咲き乱れみこち",
+      "published_at": "20261126",
+      "url": "https://youtu.be/Dr9FYelw4D4",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Dr9FYelw4D4/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

@@ -1,6 +1,6 @@
 {
   "target": "omarupolka",
-  "count": 2025,
+  "count": 2026,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -22274,6 +22274,17 @@
       "published_at": "20261124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/P6omIqSmBdU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ocQwylHbh9w",
+      "title": "【#ラミィ超超超超重大告知】雪花ラミィ重大告知あります!!!【​雪花ラミィ /ホロライブ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ocQwylHbh9w",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1324,
+  "count": 1326,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14563,6 +14563,28 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f7BZb-iA2AA",
+      "title": "【REPO】#ホロREPO 【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f7BZb-iA2AA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oQlW1DQbe3g",
+      "title": "【 R.E.P.O. 】まだ見れてないアプデ要素に会えるかな?!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oQlW1DQbe3g",
       "status": "unreviewed",
       "note": null
     }

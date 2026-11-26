@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1100,
+  "count": 1101,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -12099,6 +12099,17 @@
       "published_at": "20261122",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/OHQMiWqTiJg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KI2kmtMyHIM",
+      "title": "【#ホロじゃん】あずいろと一緒に麻雀しよ!!!!!【ホロライブ / AZKi】",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KI2kmtMyHIM",
       "status": "unreviewed",
       "note": null
     }

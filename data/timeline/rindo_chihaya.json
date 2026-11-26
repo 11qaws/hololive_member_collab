@@ -1,6 +1,6 @@
 {
   "target": "rindo_chihaya",
-  "count": 2386,
+  "count": 2393,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -35,6 +35,30 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pz3vq2XOmwg",
+      "title": "列車を修理しながら狂気の森を脱出しよう!-森林脱出：終電 (Forest Escape: Last Train)【獅白ぼたん/ホロライブ】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/pz3vq2XOmwg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pz3vq2XOmwg/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "TyqCKSlacLc",
+      "title": "よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published_at": "20261125",
+      "url": "https://youtu.be/TyqCKSlacLc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/TyqCKSlacLc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -201,6 +225,18 @@
       "url": "https://youtu.be/TnEeyNE1cAM",
       "entry_type": "collab",
       "thumbnail": "https://img.youtube.com/vi/TnEeyNE1cAM/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "published_at": "20261120",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i8pAFpQ-NaQ/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
@@ -1029,6 +1065,30 @@
       "url": "https://youtu.be/v_c39PXzqPA",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/v_c39PXzqPA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "UhkP0_YpLbM",
+      "title": "果てない旅 (Instrumental)",
+      "published_at": "20261029",
+      "url": "https://youtu.be/UhkP0_YpLbM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/UhkP0_YpLbM/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6LlBsyQ3fSw",
+      "title": "果てない旅",
+      "published_at": "20261029",
+      "url": "https://youtu.be/6LlBsyQ3fSw",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6LlBsyQ3fSw/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -6011,6 +6071,30 @@
       "thumbnail": "https://img.youtube.com/vi/JmUi3RSdB4E/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "Y-9hoi-BxaI",
+      "title": "Flat out",
+      "published_at": "20260708",
+      "url": "https://youtu.be/Y-9hoi-BxaI",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/Y-9hoi-BxaI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "COy0_l9aV70",
+      "title": "Flat out (Instrumental)",
+      "published_at": "20260708",
+      "url": "https://youtu.be/COy0_l9aV70",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/COy0_l9aV70/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

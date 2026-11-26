@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 2961,
+  "count": 2963,
   "entries": [
     {
       "video_id": "nHXh0p-xEQd",
@@ -11,6 +11,30 @@
       "thumbnail": "https://img.youtube.com/vi/nHXh0p-xEQd/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "-y3LCj7VzYm",
+      "title": "OMET - game TBA  (~ ˘ ▾ ˘ )~",
+      "published_at": "20261128",
+      "url": "https://youtu.be/-y3LCj7VzYm",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/-y3LCj7VzYm/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "pz3vq2XOmwg",
+      "title": "列車を修理しながら狂気の森を脱出しよう!-森林脱出：終電 (Forest Escape: Last Train)【獅白ぼたん/ホロライブ】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/pz3vq2XOmwg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/pz3vq2XOmwg/mqdefault.jpg",
+      "partner_handle": "shishirobotan",
+      "partner_name": "Botan Ch.獅白ぼたん",
       "sub_entries": [],
       "paired_self": null
     },
@@ -28420,7 +28444,7 @@
     },
     {
       "video_id": "JAUSrqX0hW8",
-      "title": "【STREAM SCHEDULE/スケジュール】11.16-11.22",
+      "title": "【STREAM SCHEDULE/スケジュール】11.23-11.29",
       "published_at": "20220515",
       "url": "https://youtu.be/JAUSrqX0hW8",
       "entry_type": "stream",

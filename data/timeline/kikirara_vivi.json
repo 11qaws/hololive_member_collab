@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 2805,
+  "count": 2809,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -51,12 +51,48 @@
       "paired_self": null
     },
     {
+      "video_id": "zvIQBSrcbWY",
+      "title": "【配信予定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/zvIQBSrcbWY",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/zvIQBSrcbWY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "G3YvetfrIls",
+      "title": "ネットミームダンス💃怪獣#サカナクション #vtuber #ホロライブ",
+      "published_at": "20261126",
+      "url": "https://youtu.be/G3YvetfrIls",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/G3YvetfrIls/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "LSqGh3US6eo",
       "title": "【Japanese Ramen Simulator】深夜営業!視聴者参加型行ける!?【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published_at": "20261125",
       "url": "https://youtu.be/LSqGh3US6eo",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/LSqGh3US6eo/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "osEGeu1HlTM",
+      "title": "Google Play ベストオブ 2026!受賞ゲーム紹介をライブ配信!【ぐぐぷれ】|Google Play",
+      "published_at": "20261125",
+      "url": "https://youtu.be/osEGeu1HlTM",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/osEGeu1HlTM/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -251,6 +287,18 @@
       "thumbnail": "https://img.youtube.com/vi/6q_Ui9fXfEo/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "published_at": "20261120",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i8pAFpQ-NaQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

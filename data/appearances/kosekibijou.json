@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1577,
+  "count": 1580,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17346,6 +17346,39 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/VTV-2onEZP_",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "atIE4Rd6tr8",
+      "title": "Having a Very Japanese Thanksgiving 【Japanese Ramen Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/atIE4Rd6tr8",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WyckK0PxSsg",
+      "title": "An Advent-filled Thanksgiving! | Japanese Ramen Simulator",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WyckK0PxSsg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "W9sQzf_gAB8",
+      "title": "【PEAK】will it be the.... day....?【4K】",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/W9sQzf_gAB8",
       "status": "unreviewed",
       "note": null
     }

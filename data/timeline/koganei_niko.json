@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 1822,
+  "count": 1825,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -39,6 +39,18 @@
       "paired_self": null
     },
     {
+      "video_id": "hJoVf-3kps8",
+      "title": "なんでぇ?!?!?! #ニコたんアニメ",
+      "published_at": "20261126",
+      "url": "https://youtu.be/hJoVf-3kps8",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hJoVf-3kps8/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "CqYbd3HJRgA",
       "title": "【 いいニコの日/メン限ASMR 】ヶっ・・・【虎金妃笑虎】",
       "published_at": "20261124",
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/lcf-QMbTEyA/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "YvL4yvLLd-c",
+      "title": "[3D LIVE CLIP] 虎金妃笑虎☺️🐅 PICK-UP!!【#FG2周年】",
+      "published_at": "20261123",
+      "url": "https://youtu.be/YvL4yvLLd-c",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/YvL4yvLLd-c/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },
@@ -119,6 +143,18 @@
       "thumbnail": "https://img.youtube.com/vi/EHIhYF-bAIs/mqdefault.jpg",
       "partner_handle": "takanelui",
       "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "published_at": "20261120",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/i8pAFpQ-NaQ/mqdefault.jpg",
+      "partner_handle": "dev_is_flowglow",
+      "partner_name": "hololive FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

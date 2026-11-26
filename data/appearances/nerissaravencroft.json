@@ -1,6 +1,6 @@
 {
   "target": "nerissaravencroft",
-  "count": 1159,
+  "count": 1160,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12748,6 +12748,17 @@
       "published_at": "20261118",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/0MD-iYNKS7k",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "atIE4Rd6tr8",
+      "title": "Having a Very Japanese Thanksgiving 【Japanese Ramen Simulator】",
+      "channel_handle": "shiorinovella",
+      "channel_name": "Shiori Novella Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/atIE4Rd6tr8",
       "status": "unreviewed",
       "note": null
     }

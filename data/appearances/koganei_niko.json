@@ -1,6 +1,6 @@
 {
   "target": "koganei_niko",
-  "count": 930,
+  "count": 932,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -10229,6 +10229,28 @@
       "published_at": "20261122",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/KM14kMDVaus",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "YvL4yvLLd-c",
+      "title": "[3D LIVE CLIP] 虎金妃笑虎☺️🐅 PICK-UP!!【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/YvL4yvLLd-c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
       "status": "unreviewed",
       "note": null
     }

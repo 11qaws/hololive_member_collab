@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1347,
+  "count": 1353,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14816,6 +14816,72 @@
       "published_at": "20261124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/PUIJDOhuP6c",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cBP6Gcdnccg",
+      "title": "【REPO】コラボはいしんよていち【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cBP6Gcdnccg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f7BZb-iA2AA",
+      "title": "【REPO】#ホロREPO 【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f7BZb-iA2AA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oQlW1DQbe3g",
+      "title": "【 R.E.P.O. 】まだ見れてないアプデ要素に会えるかな?!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oQlW1DQbe3g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBdS6AO98Fs",
+      "title": "【圧】今の職場 #ホロぐら #hololive #ホロライブ #反省",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBdS6AO98Fs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "_A7ak8l1ZFw",
+      "title": "[3D LIVE CLIP] 水宮枢💬🔁💙 PICK-UP!!【#FG2周年】",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/_A7ak8l1ZFw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "moricalliope",
-  "count": 1543,
+  "count": 1545,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -16972,6 +16972,28 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jbOEPEbWltY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wOompxCQgCQ",
+      "title": "A Mysterious History | Shattered Legends | Episode 3",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wOompxCQgCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "14spSJF0gdQ",
+      "title": "カリオペ先輩とツーステチャレンジしたよー!♡ #hololive #shorts #dance",
+      "channel_handle": "isakiriona",
+      "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/14spSJF0gdQ",
       "status": "unreviewed",
       "note": null
     }

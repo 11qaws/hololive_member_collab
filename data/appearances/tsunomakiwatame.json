@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1892,
+  "count": 1894,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20811,6 +20811,28 @@
       "published_at": "20201031",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gCHgF_Mq81I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cBP6Gcdnccg",
+      "title": "【REPO】コラボはいしんよていち【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cBP6Gcdnccg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f7BZb-iA2AA",
+      "title": "【REPO】#ホロREPO 【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f7BZb-iA2AA",
       "status": "unreviewed",
       "note": null
     }

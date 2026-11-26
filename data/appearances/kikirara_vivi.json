@@ -1,6 +1,6 @@
 {
   "target": "kikirara_vivi",
-  "count": 1415,
+  "count": 1416,
   "appearances": [
     {
       "video_id": "Mj0dkQj0AHU",
@@ -15564,6 +15564,17 @@
       "published_at": "20261124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wnh5_fW5itM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1556,
+  "count": 1558,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17115,6 +17115,28 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "-y3LCj7VzYm",
+      "title": "OMET - game TBA  (~ ˘ ▾ ˘ )~",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/-y3LCj7VzYm",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "pz3vq2XOmwg",
+      "title": "列車を修理しながら狂気の森を脱出しよう!-森林脱出：終電 (Forest Escape: Last Train)【獅白ぼたん/ホロライブ】",
+      "channel_handle": "shishirobotan",
+      "channel_name": "Botan Ch.獅白ぼたん",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/pz3vq2XOmwg",
       "status": "unreviewed",
       "note": null
     }

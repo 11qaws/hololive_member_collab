@@ -1,6 +1,6 @@
 {
   "target": "holoen_gigimurin",
-  "count": 970,
+  "count": 971,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -10669,6 +10669,17 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wPe0DW46bRY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wOompxCQgCQ",
+      "title": "A Mysterious History | Shattered Legends | Episode 3",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wOompxCQgCQ",
       "status": "unreviewed",
       "note": null
     }

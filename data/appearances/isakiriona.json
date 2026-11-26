@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1314,
+  "count": 1315,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14453,6 +14453,17 @@
       "published_at": "20261124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/-aSl-sxVcU0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "i8pAFpQ-NaQ",
+      "title": "シケる話はなし Ugh ugh ugh✋🎶",
+      "channel_handle": "dev_is_flowglow",
+      "channel_name": "hololive FLOW GLOW",
+      "published_at": "20261120",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/i8pAFpQ-NaQ",
       "status": "unreviewed",
       "note": null
     }

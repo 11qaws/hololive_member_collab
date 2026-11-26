@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 1005,
+  "count": 1007,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11054,6 +11054,28 @@
       "published_at": "20261116",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wPe0DW46bRY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "wOompxCQgCQ",
+      "title": "A Mysterious History | Shattered Legends | Episode 3",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261117",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/wOompxCQgCQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "WyckK0PxSsg",
+      "title": "An Advent-filled Thanksgiving! | Japanese Ramen Simulator",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/WyckK0PxSsg",
       "status": "unreviewed",
       "note": null
     }

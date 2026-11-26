@@ -1,6 +1,6 @@
 {
   "target": "natsuiromatsuri",
-  "count": 1569,
+  "count": 1570,
   "appearances": [
     {
       "video_id": "h7XYjbvnoHc",
@@ -17258,6 +17258,17 @@
       "published_at": "20261122",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/EMquh5zuKhg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBdS6AO98Fs",
+      "title": "【圧】今の職場 #ホロぐら #hololive #ホロライブ #反省",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBdS6AO98Fs",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "nekomataokayu",
-  "count": 1790,
+  "count": 1792,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -19689,6 +19689,28 @@
       "published_at": "20191129",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QS9M_pIPiNk",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "palzPuu8tEg",
+      "title": "【】スバおかマリカ【ホロライブ/大空スバル】",
+      "channel_handle": "oozora_subaru",
+      "channel_name": "Subaru Ch. 大空スバル",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/palzPuu8tEg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOD7xEtXBfE",
+      "title": "【 鷹嶺ルイ影武者オーディション 】告知あり!私の影武者No.1を決めます✨ #鷹嶺ルイの反逆【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOD7xEtXBfE",
       "status": "unreviewed",
       "note": null
     }

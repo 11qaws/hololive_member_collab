@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5897,
+  "count": 5901,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,54 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "oQlW1DQbe3g",
+      "title": "【 R.E.P.O. 】まだ見れてないアプデ要素に会えるかな?!【角巻わため/ホロライブ4期生】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/oQlW1DQbe3g",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/oQlW1DQbe3g/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "cBP6Gcdnccg",
+      "title": "【REPO】コラボはいしんよていち【轟はじめ/ReGLOSS】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/cBP6Gcdnccg",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/cBP6Gcdnccg/mqdefault.jpg",
+      "partner_handle": "todorokihajime",
+      "partner_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "f7BZb-iA2AA",
+      "title": "【REPO】#ホロREPO 【不知火フレア/ホロライブ】",
+      "published_at": "20261126",
+      "url": "https://youtu.be/f7BZb-iA2AA",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/f7BZb-iA2AA/mqdefault.jpg",
+      "partner_handle": "shiranuiflare",
+      "partner_name": "Flare Ch. 不知火フレア",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "6NkQfxqmCRc",
+      "title": "「全◯全◯」この四字熟語はなんでしょう?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261125",
+      "url": "https://youtu.be/6NkQfxqmCRc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/6NkQfxqmCRc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

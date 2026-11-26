@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1371,
+  "count": 1372,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -15080,6 +15080,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "yBdS6AO98Fs",
+      "title": "【圧】今の職場 #ホロぐら #hololive #ホロライブ #反省",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/yBdS6AO98Fs",
       "status": "unreviewed",
       "note": null
     }

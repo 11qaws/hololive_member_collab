@@ -1,6 +1,6 @@
 {
   "target": "azki",
-  "count": 1146,
+  "count": 1147,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -12605,6 +12605,17 @@
       "published_at": "20261124",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/wnh5_fW5itM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "E4cWCJ3-v3Y",
+      "title": "【#ホロじゃん】#あずいろ でホロじゃんするぞ!!対ヨロ✋【風真いろは/ホロライブ】",
+      "channel_handle": "kazamairoha",
+      "channel_name": "Iroha ch. 風真いろは - holoX -",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/E4cWCJ3-v3Y",
       "status": "unreviewed",
       "note": null
     }

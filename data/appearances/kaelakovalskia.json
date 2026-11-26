@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1170,
+  "count": 1171,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12869,6 +12869,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "L5g3m1yDj-I",
+      "title": "【PEAK】peak in 4k",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/L5g3m1yDj-I",
       "status": "unreviewed",
       "note": null
     }

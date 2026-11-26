@@ -1,6 +1,6 @@
 {
   "target": "shiranuiflare",
-  "count": 1632,
+  "count": 1634,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17951,6 +17951,28 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/w_bWduVfbK0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cBP6Gcdnccg",
+      "title": "【REPO】コラボはいしんよていち【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cBP6Gcdnccg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oQlW1DQbe3g",
+      "title": "【 R.E.P.O. 】まだ見れてないアプデ要素に会えるかな?!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oQlW1DQbe3g",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "ladarknesss",
-  "count": 1104,
+  "count": 1105,
   "appearances": [
     {
       "video_id": "MGYmEH4oVgc",
@@ -12143,6 +12143,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bppAo0LFRNQ",
+      "title": "【3D LIVE】キャットラビング coverd by ラプラス・ダークネス&鷹嶺ルイ【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bppAo0LFRNQ",
       "status": "unreviewed",
       "note": null
     }
