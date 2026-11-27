@@ -1,6 +1,6 @@
 {
   "target": "shiroganenoel",
-  "count": 1846,
+  "count": 1847,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -20305,6 +20305,17 @@
       "published_at": "20261123",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/gr3hePAjGgc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "KP-XoUJw-jw",
+      "title": "すっごい揺れるんですけどぉ~~?【ギリギリわるくないわため】 #ギリわる",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/KP-XoUJw-jw",
       "status": "unreviewed",
       "note": null
     }

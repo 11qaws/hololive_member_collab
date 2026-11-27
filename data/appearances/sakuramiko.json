@@ -1,6 +1,6 @@
 {
   "target": "sakuramiko",
-  "count": 2456,
+  "count": 2457,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -27015,6 +27015,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SM-kz6n2XGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOD7xEtXBfE",
+      "title": "【 鷹嶺ルイ影武者オーディション 】告知あり!私の影武者No.1を決めます✨ #鷹嶺ルイの反逆【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOD7xEtXBfE",
       "status": "unreviewed",
       "note": null
     }

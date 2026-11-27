@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 1268,
+  "count": 1269,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -13947,6 +13947,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/4pEwY3_Y5Ws",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "htiUtuEF59A",
+      "title": "On a Night Train to Nowhere 🚂 #NightTrainWithMoona",
+      "channel_handle": "nerissaravencroft",
+      "channel_name": "Nerissa Ravencroft Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/htiUtuEF59A",
       "status": "unreviewed",
       "note": null
     }

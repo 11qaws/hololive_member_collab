@@ -1,6 +1,6 @@
 {
   "target": "mococo_abyssgard",
-  "count": 1263,
+  "count": 1264,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -13892,6 +13892,17 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WyckK0PxSsg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ns5h5My6DMY",
+      "title": "【Japanese Ramen Simulator】spending thanksgiving  T O G E T H E R",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ns5h5My6DMY",
       "status": "unreviewed",
       "note": null
     }

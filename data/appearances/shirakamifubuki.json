@@ -1,6 +1,6 @@
 {
   "target": "shirakamifubuki",
-  "count": 3581,
+  "count": 3585,
   "appearances": [
     {
       "video_id": "wICLEm3Og28",
@@ -39390,6 +39390,50 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jOD7xEtXBfE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oQlW1DQbe3g",
+      "title": "【 R.E.P.O. 】まだ見れてないアプデ要素に会えるかな?!【角巻わため/ホロライブ4期生】",
+      "channel_handle": "tsunomakiwatame",
+      "channel_name": "Watame Ch. 角巻わため",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oQlW1DQbe3g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "cBP6Gcdnccg",
+      "title": "【R.E.P.O. 】アプデしたらしい!たのしみっ【轟はじめ/ReGLOSS】",
+      "channel_handle": "todorokihajime",
+      "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/cBP6Gcdnccg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bj5mJL7r-jw",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bj5mJL7r-jw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "f7BZb-iA2AA",
+      "title": "【REPO】#ホロREPO 【不知火フレア/ホロライブ】",
+      "channel_handle": "shiranuiflare",
+      "channel_name": "Flare Ch. 不知火フレア",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/f7BZb-iA2AA",
       "status": "unreviewed",
       "note": null
     }

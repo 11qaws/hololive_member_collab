@@ -1,6 +1,6 @@
 {
   "target": "mizumiya_su",
-  "count": 1353,
+  "count": 1354,
   "appearances": [
     {
       "video_id": "cHJXLXU79Nc",
@@ -14882,6 +14882,17 @@
       "published_at": "20261120",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i8pAFpQ-NaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ITLwwIC-WxU",
+      "title": "【メンバーシップ限定#FG3Dライブ 推しカメラ】 FG ROADSTER  【#綺々羅々ヴィヴィ/#FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20251204",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ITLwwIC-WxU",
       "status": "unreviewed",
       "note": null
     }

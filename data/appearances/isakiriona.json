@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1315,
+  "count": 1318,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14464,6 +14464,39 @@
       "published_at": "20261120",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/i8pAFpQ-NaQ",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "3K3p84Fg-jM",
+      "title": "Reverberate!!!!!!!!! THIS SONG IS SO COOL, I LOVE!!!!!! #isakiriona",
+      "channel_handle": "kaelakovalskia",
+      "channel_name": "Kaela Kovalskia Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/3K3p84Fg-jM",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOD7xEtXBfE",
+      "title": "【 鷹嶺ルイ影武者オーディション 】告知あり!私の影武者No.1を決めます✨ #鷹嶺ルイの反逆【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOD7xEtXBfE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ITLwwIC-WxU",
+      "title": "【メンバーシップ限定#FG3Dライブ 推しカメラ】 FG ROADSTER  【#綺々羅々ヴィヴィ/#FLOWGLOW】",
+      "channel_handle": "kikirara_vivi",
+      "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "published_at": "20251204",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ITLwwIC-WxU",
       "status": "unreviewed",
       "note": null
     }

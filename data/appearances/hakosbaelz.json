@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1313,
+  "count": 1316,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14442,6 +14442,39 @@
       "published_at": "20261122",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bqiKwe0ToZs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "MSPfCDSbB9g",
+      "title": "2人で#HEADSHOT / Hakos Baelz【ホロライブ/雪花ラミィ】",
+      "channel_handle": "yukihanalamy",
+      "channel_name": "Lamy Ch. 雪花ラミィ",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/MSPfCDSbB9g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TnmY_dZIY-M",
+      "title": "I love Baelz's music!!!! #hololive #hakosbaelz #headshot #shorts",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TnmY_dZIY-M",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "auxJL1_7-yc",
+      "title": "#HEADSHOT NA NANA NANAAAA",
+      "channel_handle": "kobokanaeru",
+      "channel_name": "Kobo Kanaeru Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/auxJL1_7-yc",
       "status": "unreviewed",
       "note": null
     }

@@ -1,6 +1,6 @@
 {
   "target": "shishirobotan",
-  "count": 1676,
+  "count": 1678,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -18435,6 +18435,28 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ocQwylHbh9w",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "SVEG2wGwxfE",
+      "title": "【Forest Escape: Last Train】こわ〜い森からみんなと脱出したい!!! This Forest Is Scary【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/SVEG2wGwxfE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TyqCKSlacLc",
+      "title": "【森林脱出：終電 (Forest Escape: Last Train)】3人でこの森から脱出するぜい~~~!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TyqCKSlacLc",
       "status": "unreviewed",
       "note": null
     }

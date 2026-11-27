@@ -1,6 +1,6 @@
 {
   "target": "shiorinovella",
-  "count": 1007,
+  "count": 1009,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -11076,6 +11076,28 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/WyckK0PxSsg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "H5dctMsEn8A",
+      "title": "【JAPANESE RAMEN SIMULATOR】advent's broth is the soul of our ramen 🐾  #holoAdvent 【FUWAWA SOLO】",
+      "channel_handle": "fuwawa_abyssgard",
+      "channel_name": "FUWAMOCO Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/H5dctMsEn8A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "ns5h5My6DMY",
+      "title": "【Japanese Ramen Simulator】spending thanksgiving  T O G E T H E R",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/ns5h5My6DMY",
       "status": "unreviewed",
       "note": null
     }

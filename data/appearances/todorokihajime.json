@@ -1,6 +1,6 @@
 {
   "target": "todorokihajime",
-  "count": 1326,
+  "count": 1328,
   "appearances": [
     {
       "video_id": "gxCeSioT-W8",
@@ -14585,6 +14585,28 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oQlW1DQbe3g",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bj5mJL7r-jw",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bj5mJL7r-jw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "jOD7xEtXBfE",
+      "title": "【 鷹嶺ルイ影武者オーディション 】告知あり!私の影武者No.1を決めます✨ #鷹嶺ルイの反逆【ホロライブ】",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/jOD7xEtXBfE",
       "status": "unreviewed",
       "note": null
     }

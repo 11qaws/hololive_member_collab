@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1894,
+  "count": 1895,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20833,6 +20833,17 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/f7BZb-iA2AA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "bj5mJL7r-jw",
+      "title": "【 #ホロREPO 】れぽのまき!すう視点【水宮枢/ホロライブDEV_IS】",
+      "channel_handle": "mizumiya_su",
+      "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/bj5mJL7r-jw",
       "status": "unreviewed",
       "note": null
     }

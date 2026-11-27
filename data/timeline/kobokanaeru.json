@@ -1,6 +1,6 @@
 {
   "target": "kobokanaeru",
-  "count": 1860,
+  "count": 1861,
   "entries": [
     {
       "video_id": "oq62Hmf6VCU",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "auxJL1_7-yc",
+      "title": "#HEADSHOT NA NANA NANAAAA",
+      "published_at": "20261127",
+      "url": "https://youtu.be/auxJL1_7-yc",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/auxJL1_7-yc/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

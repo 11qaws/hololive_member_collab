@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 2336,
+  "count": 2340,
   "entries": [
     {
       "video_id": "S0sVsWiJTcs",
@@ -51,6 +51,18 @@
       "paired_self": null
     },
     {
+      "video_id": "9vF3k5ZLwxs",
+      "title": "新曲 #Reverberate MV是非みてね🎬 #hololive #vtuber #shorts",
+      "published_at": "20261127",
+      "url": "https://youtu.be/9vF3k5ZLwxs",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/9vF3k5ZLwxs/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "14spSJF0gdQ",
       "title": "カリオペ先輩とツーステチャレンジしたよー!♡ #hololive #shorts #dance",
       "published_at": "20261126",
@@ -59,6 +71,18 @@
       "thumbnail": "https://img.youtube.com/vi/14spSJF0gdQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "3K3p84Fg-jM",
+      "title": "Reverberate!!!!!!!!! THIS SONG IS SO COOL, I LOVE!!!!!! #isakiriona",
+      "published_at": "20261126",
+      "url": "https://youtu.be/3K3p84Fg-jM",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/3K3p84Fg-jM/mqdefault.jpg",
+      "partner_handle": "kaelakovalskia",
+      "partner_name": "Kaela Kovalskia Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },
@@ -83,6 +107,18 @@
       "thumbnail": "https://img.youtube.com/vi/wFfGwkBZqOQ/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "jOD7xEtXBfE",
+      "title": "【 鷹嶺ルイ影武者オーディション 】告知あり!私の影武者No.1を決めます✨ #鷹嶺ルイの反逆【ホロライブ】",
+      "published_at": "20261125",
+      "url": "https://youtu.be/jOD7xEtXBfE",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/jOD7xEtXBfE/mqdefault.jpg",
+      "partner_handle": "takanelui",
+      "partner_name": "Lui ch. 鷹嶺ルイ - holoX -",
       "sub_entries": [],
       "paired_self": null
     },
@@ -15587,6 +15623,18 @@
       "thumbnail": "https://img.youtube.com/vi/dA7DnnXJono/mqdefault.jpg",
       "partner_handle": "dev_is_flowglow",
       "partner_name": "hololive DEV_IS FLOW GLOW",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "ITLwwIC-WxU",
+      "title": "【メンバーシップ限定#FG3Dライブ 推しカメラ】 FG ROADSTER  【#綺々羅々ヴィヴィ/#FLOWGLOW】",
+      "published_at": "20251204",
+      "url": "https://youtu.be/ITLwwIC-WxU",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/ITLwwIC-WxU/mqdefault.jpg",
+      "partner_handle": "kikirara_vivi",
+      "partner_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
       "sub_entries": [],
       "paired_self": null
     },

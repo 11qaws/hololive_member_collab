@@ -1,6 +1,6 @@
 {
   "target": "aniamelfissa",
-  "count": 1558,
+  "count": 1559,
   "appearances": [
     {
       "video_id": "BADL5x3Ftzc",
@@ -17137,6 +17137,17 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/pz3vq2XOmwg",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "TyqCKSlacLc",
+      "title": "【森林脱出：終電 (Forest Escape: Last Train)】3人でこの森から脱出するぜい~~~!!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "channel_handle": "rindo_chihaya",
+      "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "published_at": "20261125",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/TyqCKSlacLc",
       "status": "unreviewed",
       "note": null
     }

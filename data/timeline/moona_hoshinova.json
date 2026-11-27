@@ -1,6 +1,6 @@
 {
   "target": "moona_hoshinova",
-  "count": 2727,
+  "count": 2728,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -11,6 +11,18 @@
       "thumbnail": "https://img.youtube.com/vi/5yM0sRU5Oz-/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "htiUtuEF59A",
+      "title": "On a Night Train to Nowhere 🚂 #NightTrainWithMoona",
+      "published_at": "20261126",
+      "url": "https://youtu.be/htiUtuEF59A",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/htiUtuEF59A/mqdefault.jpg",
+      "partner_handle": "nerissaravencroft",
+      "partner_name": "Nerissa Ravencroft Ch. hololive",
       "sub_entries": [],
       "paired_self": null
     },

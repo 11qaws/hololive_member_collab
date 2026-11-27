@@ -1,6 +1,6 @@
 {
   "target": "yukihanalamy",
-  "count": 1415,
+  "count": 1416,
   "appearances": [
     {
       "video_id": "aVnsgjemlxz",
@@ -15564,6 +15564,17 @@
       "published_at": "20261121",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/kP3DVAi_eXA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "rCM4qSWy1HA",
+      "title": "Koyori Senpai looks different 👀✨ KoZMy Dance !",
+      "channel_handle": "holoen_erbloodflame",
+      "channel_name": "Elizabeth Rose Bloodflame Ch. hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/rCM4qSWy1HA",
       "status": "unreviewed",
       "note": null
     }
