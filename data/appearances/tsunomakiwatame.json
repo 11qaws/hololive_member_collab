@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 1895,
+  "count": 1896,
   "appearances": [
     {
       "video_id": "C58svASFnvI",
@@ -20844,6 +20844,17 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/bj5mJL7r-jw",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "PhaSyPoF098",
+      "title": "【#年末ジャンボ】 #強運ホロジャンボ四天王 で今年最後の運試しだにぇえええ!!!🌸【さくらみこ・白上フブキ・宝鐘マリン・角巻わため/ホロライブ】",
+      "channel_handle": "sakuramiko",
+      "channel_name": "Miko Ch. さくらみこ",
+      "published_at": "20261124",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/PhaSyPoF098",
       "status": "unreviewed",
       "note": null
     }

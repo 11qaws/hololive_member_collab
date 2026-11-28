@@ -1,6 +1,6 @@
 {
   "target": "ninomaeinanis",
-  "count": 1183,
+  "count": 1184,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -13012,6 +13012,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jbOEPEbWltY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "tgE4n3G6Va4",
+      "title": "【 #博衣こより5周年ガンダムロケ 】重大告知アリ‼️ガンダムを巡るスペシャルロケ映像公開!?~ユニコーン立像・ガンプラ・BHCPDII MUSEUM~【博衣こより・一伊那尓栖・輪堂千速/ホロライブ】",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261123",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/tgE4n3G6Va4",
       "status": "unreviewed",
       "note": null
     }

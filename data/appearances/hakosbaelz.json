@@ -1,6 +1,6 @@
 {
   "target": "hakosbaelz",
-  "count": 1316,
+  "count": 1319,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -14475,6 +14475,39 @@
       "published_at": "20261127",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/auxJL1_7-yc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g-mV33MVjwA",
+      "title": "【CHADCast】EPISODE 4 - the episode where Bae is definitely here #calliolive #chadcast",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g-mV33MVjwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lmaBQ4s9loY",
+      "title": "The bread never lies 🍞😇😈",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lmaBQ4s9loY",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "Zdo_u-LxINE",
+      "title": "HOLD YOUR BREATH AND TAKE A SHOT! Dancing to Baelz's #HEADSHOT!~ #shorts #vtuber",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/Zdo_u-LxINE",
       "status": "unreviewed",
       "note": null
     }

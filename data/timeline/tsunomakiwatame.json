@@ -1,6 +1,6 @@
 {
   "target": "tsunomakiwatame",
-  "count": 5905,
+  "count": 5907,
   "entries": [
     {
       "video_id": "5yM0sRU5Oz-",
@@ -35,6 +35,18 @@
       "thumbnail": "https://img.youtube.com/vi/1izBd_B1_Ld/mqdefault.jpg",
       "partner_handle": "hololive",
       "partner_name": "hololive ホロライブ - VTuber Group",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "hNubDMG8pnE",
+      "title": "モザイククイズ!みんなには見えるかな?【 #今日のわため 】 #shorts #hololive  #vtuber",
+      "published_at": "20261127",
+      "url": "https://youtu.be/hNubDMG8pnE",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/hNubDMG8pnE/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },
@@ -155,6 +167,18 @@
       "thumbnail": "https://img.youtube.com/vi/9_23p_P38JI/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "PhaSyPoF098",
+      "title": "【#年末ジャンボ】 #強運ホロジャンボ四天王 で今年最後の運試しだにぇえええ!!!🌸【さくらみこ・白上フブキ・宝鐘マリン・角巻わため/ホロライブ】",
+      "published_at": "20261124",
+      "url": "https://youtu.be/PhaSyPoF098",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/PhaSyPoF098/mqdefault.jpg",
+      "partner_handle": "sakuramiko",
+      "partner_name": "Miko Ch. さくらみこ",
       "sub_entries": [],
       "paired_self": null
     },

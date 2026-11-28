@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 1581,
+  "count": 1582,
   "appearances": [
     {
       "video_id": "b0h8kilUBQk",
@@ -17390,6 +17390,17 @@
       "published_at": "20261126",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/H5dctMsEn8A",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "eqlaH2wZUm4",
+      "title": "【Resident Evil 5】Chasing Wesker? w/ @KosekiBijou",
+      "channel_handle": "irys",
+      "channel_name": "IRyS Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/eqlaH2wZUm4",
       "status": "unreviewed",
       "note": null
     }

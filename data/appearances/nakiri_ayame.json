@@ -1,6 +1,6 @@
 {
   "target": "nakiri_ayame",
-  "count": 951,
+  "count": 952,
   "appearances": [
     {
       "video_id": "Z1_nnb7LxYs",
@@ -10460,6 +10460,17 @@
       "published_at": "20270312",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/nHXh0p-xEQd",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BQHj3YuBJLo",
+      "title": "アイドルVTuberの理想✨と現実💥 / Expectations and Reality #ホロライブ #hololive #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BQHj3YuBJLo",
       "status": "unreviewed",
       "note": null
     }

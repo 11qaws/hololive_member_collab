@@ -1,6 +1,6 @@
 {
   "target": "ourokronii",
-  "count": 1089,
+  "count": 1090,
   "appearances": [
     {
       "video_id": "u5ice9Ud8Rk",
@@ -11978,6 +11978,17 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/oq62Hmf6VCU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lmaBQ4s9loY",
+      "title": "The bread never lies 🍞😇😈",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lmaBQ4s9loY",
       "status": "unreviewed",
       "note": null
     }

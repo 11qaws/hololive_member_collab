@@ -1,7 +1,19 @@
 {
   "target": "hololivedev_is",
-  "count": 994,
+  "count": 996,
   "entries": [
+    {
+      "video_id": "0IIHYTIPRCA",
+      "title": "#ReGLOSS_ARLIVE  \"X-ReCHORD\" はついに明日✨ 一緒に盛り上がりましょう🙌  #ReGLOSS #VTuber #Shorts",
+      "published_at": "20261128",
+      "url": "https://youtu.be/0IIHYTIPRCA",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0IIHYTIPRCA/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
     {
       "video_id": "o1VbXaiGICs",
       "title": "#ReGLOSS_ARLIVE  \"X-ReCHORD\" のリハの様子をお届け👀 背景で聞こえている曲は...?✨  #ReGLOSS #VTuber #Shorts",
@@ -105,6 +117,18 @@
       "url": "https://youtu.be/oZjkL2R2fZI",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/oZjkL2R2fZI/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "OEVnjgkzn-0",
+      "title": "【チラ見せ】ReGLOSS AR LIVE \"X-ReCHORD\" #ReGLOSS_ARLIVE",
+      "published_at": "20261117",
+      "url": "https://youtu.be/OEVnjgkzn-0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/OEVnjgkzn-0/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],

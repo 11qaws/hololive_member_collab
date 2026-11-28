@@ -1,6 +1,6 @@
 {
   "target": "ayunda_risu",
-  "count": 1155,
+  "count": 1157,
   "appearances": [
     {
       "video_id": "1YmpbSWWDaI",
@@ -12704,6 +12704,28 @@
       "published_at": "20270314",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/5yM0sRU5Oz-",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "hu4-JMJLcnA",
+      "title": "Asal usul nama [Yopipi] by Ayunda Risu #hololive",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/hu4-JMJLcnA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "kGcmjwoK_oo",
+      "title": "Sapi sepenting itu di hidup Ayunda Risu #hololive #AyundaRisu #airaniiofifteen",
+      "channel_handle": "airaniiofifteen",
+      "channel_name": "Airani Iofifteen Channel hololive",
+      "published_at": "20261126",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/kGcmjwoK_oo",
       "status": "unreviewed",
       "note": null
     }

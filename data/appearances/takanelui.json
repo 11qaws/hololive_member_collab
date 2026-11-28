@@ -1,6 +1,6 @@
 {
   "target": "takanelui",
-  "count": 1546,
+  "count": 1547,
   "appearances": [
     {
       "video_id": "zbaD2v5FtvQ",
@@ -17005,6 +17005,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/SM-kz6n2XGc",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g5LG_C51FAA",
+      "title": "holoXでポーズ合わせゲームしてみたらまさかの結果に⁉️ #shorts #ホロライブ #hololive #vtuber #博衣こより #holoX #ラプラスダークネス #鷹嶺ルイ #風真いろは",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g5LG_C51FAA",
       "status": "unreviewed",
       "note": null
     }

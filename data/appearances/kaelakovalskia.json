@@ -1,6 +1,6 @@
 {
   "target": "kaelakovalskia",
-  "count": 1171,
+  "count": 1172,
   "appearances": [
     {
       "video_id": "VJXXXW8aKX4",
@@ -12880,6 +12880,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/L5g3m1yDj-I",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "oOB_kvUv3bY",
+      "title": "【Dumb Ways to Build】Omet Building Stuff【hololive holoro | Anya Melfissa】",
+      "channel_handle": "aniamelfissa",
+      "channel_name": "Anya Melfissa Ch. hololive",
+      "published_at": "20261128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/oOB_kvUv3bY",
       "status": "unreviewed",
       "note": null
     }

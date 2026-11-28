@@ -1,6 +1,6 @@
 {
   "target": "robocosan",
-  "count": 1372,
+  "count": 1373,
   "appearances": [
     {
       "video_id": "HFxJG_uIOd8",
@@ -15091,6 +15091,17 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/yBdS6AO98Fs",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BQHj3YuBJLo",
+      "title": "アイドルVTuberの理想✨と現実💥 / Expectations and Reality #ホロライブ #hololive #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BQHj3YuBJLo",
       "status": "unreviewed",
       "note": null
     }

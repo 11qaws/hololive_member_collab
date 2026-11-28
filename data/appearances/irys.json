@@ -1,6 +1,6 @@
 {
   "target": "irys",
-  "count": 1178,
+  "count": 1181,
   "appearances": [
     {
       "video_id": "TB1o1nprSGI",
@@ -12957,6 +12957,39 @@
       "published_at": "20270313",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/QhiKqajK5OI",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g-mV33MVjwA",
+      "title": "【CHADCast】EPISODE 4 - the episode where Bae is definitely here #calliolive #chadcast",
+      "channel_handle": "moricalliope",
+      "channel_name": "Mori Calliope Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g-mV33MVjwA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "0EI8lFBrbn0",
+      "title": "【RESIDENT EVIL 5】I wanna punch a rock with @IRyS",
+      "channel_handle": "kosekibijou",
+      "channel_name": "Koseki Bijou Ch. hololive",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/0EI8lFBrbn0",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "lmaBQ4s9loY",
+      "title": "The bread never lies 🍞😇😈",
+      "channel_handle": "hololiveenglish",
+      "channel_name": "hololive English",
+      "published_at": "20261128",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/lmaBQ4s9loY",
       "status": "unreviewed",
       "note": null
     }

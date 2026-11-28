@@ -1,6 +1,6 @@
 {
   "target": "isakiriona",
-  "count": 1318,
+  "count": 1320,
   "appearances": [
     {
       "video_id": "KP63-KJkjvg",
@@ -14497,6 +14497,28 @@
       "published_at": "20251204",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/ITLwwIC-WxU",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "BQHj3YuBJLo",
+      "title": "アイドルVTuberの理想✨と現実💥 / Expectations and Reality #ホロライブ #hololive #shorts",
+      "channel_handle": "hololive",
+      "channel_name": "hololive ホロライブ - VTuber Group",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/BQHj3YuBJLo",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "GvLWL1_zAfo",
+      "title": "Reverberate / 響咲リオナ リオーナと一緒に踊ってみた!#Reverberate #響咲リオナ #AZKi #ホロライブ #hololive #shorts",
+      "channel_handle": "azki",
+      "channel_name": "AZKi Channel",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/GvLWL1_zAfo",
       "status": "unreviewed",
       "note": null
     }

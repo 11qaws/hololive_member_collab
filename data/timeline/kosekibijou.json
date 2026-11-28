@@ -1,6 +1,6 @@
 {
   "target": "kosekibijou",
-  "count": 2644,
+  "count": 2646,
   "entries": [
     {
       "video_id": "nHXh0p-xEQd",
@@ -27,12 +27,48 @@
       "paired_self": null
     },
     {
+      "video_id": "0EI8lFBrbn0",
+      "title": "【RESIDENT EVIL 5】I wanna punch a rock with @IRyS",
+      "published_at": "20261127",
+      "url": "https://youtu.be/0EI8lFBrbn0",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/0EI8lFBrbn0/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "eqlaH2wZUm4",
+      "title": "【Resident Evil 5】Chasing Wesker? w/ @KosekiBijou",
+      "published_at": "20261127",
+      "url": "https://youtu.be/eqlaH2wZUm4",
+      "entry_type": "collab",
+      "thumbnail": "https://img.youtube.com/vi/eqlaH2wZUm4/mqdefault.jpg",
+      "partner_handle": "irys",
+      "partner_name": "IRyS Ch. hololive",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
       "video_id": "ns5h5My6DMY",
       "title": "【Japanese Ramen Simulator】spending thanksgiving  T O G E T H E R",
       "published_at": "20261126",
       "url": "https://youtu.be/ns5h5My6DMY",
       "entry_type": "stream",
       "thumbnail": "https://img.youtube.com/vi/ns5h5My6DMY/mqdefault.jpg",
+      "partner_handle": "",
+      "partner_name": "",
+      "sub_entries": [],
+      "paired_self": null
+    },
+    {
+      "video_id": "L5g3m1yDj-I",
+      "title": "【PEAK】peak in 4k",
+      "published_at": "20261126",
+      "url": "https://youtu.be/L5g3m1yDj-I",
+      "entry_type": "stream",
+      "thumbnail": "https://img.youtube.com/vi/L5g3m1yDj-I/mqdefault.jpg",
       "partner_handle": "",
       "partner_name": "",
       "sub_entries": [],
@@ -83,18 +119,6 @@
       "thumbnail": "https://img.youtube.com/vi/H5dctMsEn8A/mqdefault.jpg",
       "partner_handle": "fuwawa_abyssgard",
       "partner_name": "FUWAMOCO Ch. hololive",
-      "sub_entries": [],
-      "paired_self": null
-    },
-    {
-      "video_id": "L5g3m1yDj-I",
-      "title": "【PEAK】peak in 4k",
-      "published_at": "20261125",
-      "url": "https://youtu.be/L5g3m1yDj-I",
-      "entry_type": "stream",
-      "thumbnail": "https://img.youtube.com/vi/L5g3m1yDj-I/mqdefault.jpg",
-      "partner_handle": "",
-      "partner_name": "",
       "sub_entries": [],
       "paired_self": null
     },

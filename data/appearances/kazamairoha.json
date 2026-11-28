@@ -1,6 +1,6 @@
 {
   "target": "kazamairoha",
-  "count": 1102,
+  "count": 1104,
   "appearances": [
     {
       "video_id": "h0jykfxgmj0",
@@ -12121,6 +12121,28 @@
       "published_at": "20261125",
       "detection_method": "holodex_collab",
       "url": "https://youtu.be/jOD7xEtXBfE",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "U1hXNdK33pA",
+      "title": "holoXで究極の2択 #shorts #究極の2択  #SSholoX #hololive",
+      "channel_handle": "takanelui",
+      "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/U1hXNdK33pA",
+      "status": "unreviewed",
+      "note": null
+    },
+    {
+      "video_id": "g5LG_C51FAA",
+      "title": "holoXでポーズ合わせゲームしてみたらまさかの結果に⁉️ #shorts #ホロライブ #hololive #vtuber #博衣こより #holoX #ラプラスダークネス #鷹嶺ルイ #風真いろは",
+      "channel_handle": "hakuikoyori",
+      "channel_name": "Koyori ch. 博衣こより - holoX -",
+      "published_at": "20261127",
+      "detection_method": "holodex_collab",
+      "url": "https://youtu.be/g5LG_C51FAA",
       "status": "unreviewed",
       "note": null
     }
